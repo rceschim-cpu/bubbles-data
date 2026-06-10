@@ -1,7 +1,7 @@
 {
-  "generatedAt": "2026-06-09T21:59:03.849935+00:00",
+  "generatedAt": "2026-06-10T17:41:13.515645+00:00",
   "region": "brasil",
-  "count": 43,
+  "count": 50,
   "items": [
     {
       "id": "reddit_1ncj78q",
@@ -12,7 +12,7 @@
       "source": "reddit",
       "subreddit": "brasil",
       "permalink": "https://www.reddit.com/r/brasil/comments/1ncj78q/se_você_tem_interesse_em_moderar_uma_comunidade/",
-      "createdAt": "2026-06-09T21:29:15.805536+00:00",
+      "createdAt": "2026-06-10T17:29:28.835056+00:00",
       "rawScore": 141761.77500000002,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
@@ -24,11 +24,6 @@
         {
           "title": "Se você tem interesse em moderar uma comunidade brasileira ou tem curiosidade sobre moderação, este post é para você!",
           "url": "https://www.reddit.com/r/brasil/comments/1ncj78q/se_você_tem_interesse_em_moderar_uma_comunidade/",
-          "subreddit": "brasil"
-        },
-        {
-          "title": "Quais podcasts você está ouvindo? Post semanal do r/Brasil para recomendações!",
-          "url": "https://www.reddit.com/r/brasil/comments/1u17giy/quais_podcasts_você_está_ouvindo_post_semanal_do/",
           "subreddit": "brasil"
         }
       ],
@@ -61,124 +56,26 @@
       "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     },
     {
-      "id": "reddit_wl764l",
+      "id": "reddit_1rz5o8g",
       "rank": 2,
-      "title": "O que acontece com o rosado ou rosa? Não existe?",
-      "label": "Cor rosada · Desaparecimento",
-      "context": "A pergunta sobre o que acontece com o rosado ou rosa foi levantada, questionando sua existência. Isso pode ser relevante para discussões sobre cores, design e percepção visual.",
-      "source": "reddit",
-      "subreddit": "curiosidades",
-      "permalink": "https://www.reddit.com/r/curiosidades/comments/wl764l/qué_sucede_con_el_rosado_o_rosa_no_existe/",
-      "createdAt": "2026-06-09T21:31:58.300646+00:00",
-      "rawScore": 47253.925,
-      "relevanceScore": 0.33331682347910613,
-      "suggestedRadius": 70.64,
-      "imageUrl": "assets/images/reddit_wl764l_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_wl764l_uns_thumb.jpg",
-      "category": "viral",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "¿Qué Sucede con el Rosado o Rosa? ¿No Existe?",
-          "url": "https://www.reddit.com/r/curiosidades/comments/wl764l/qué_sucede_con_el_rosado_o_rosa_no_existe/",
-          "subreddit": "curiosidades"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A cor rosada é linda e sempre existirá na moda e no design.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O rosado está desaparecendo das nossas vidas, é uma cor esquecida.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Talvez a pergunta deva ser sobre por que nos importamos tanto com a existência de uma cor específica.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
-    },
-    {
-      "id": "reddit_1sn2bz7",
-      "rank": 3,
-      "title": "Economia procura moderadores",
-      "label": "Economia · Moderadores",
-      "context": "A comunidade de economia está procurando por novos moderadores. Isso é importante porque a moderação ajuda a manter a qualidade e a relevância das discussões na comunidade.",
-      "source": "reddit",
-      "subreddit": "economia",
-      "permalink": "https://www.reddit.com/r/Economia/comments/1sn2bz7/reconomia_procura_moderadores/",
-      "createdAt": "2026-06-09T21:29:56.908211+00:00",
-      "rawScore": 132310.99,
-      "relevanceScore": 0.9333316823479104,
-      "suggestedRadius": 93.97,
-      "imageUrl": "assets/images/reddit_1sn2bz7_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1sn2bz7_uns_thumb.jpg",
-      "category": "economia",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "r/Economia procura moderadores",
-          "url": "https://www.reddit.com/r/Economia/comments/1sn2bz7/reconomia_procura_moderadores/",
-          "subreddit": "economia"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A comunidade de economia precisa de mais moderadores para manter as discussões produtivas e focadas.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Procurar moderadores pode ser um sinal de que a comunidade está perdendo o controle sobre as discussões.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A procura por moderadores é um passo necessário, mas também é importante garantir que os novos moderadores sejam imparciais e conhecedores do assunto.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
-    },
-    {
-      "id": "reddit_1u1ezfz",
-      "rank": 4,
-      "title": "Inflação é louca",
-      "label": "Inflação · Economia",
-      "context": "A inflação está aumentando rapidamente em muitos países. Isso afeta o poder de compra das pessoas e a economia como um todo.",
+      "title": "Novo Moderador Selecionado",
+      "label": "Moderador · Investimentos",
+      "context": "Um novo moderador foi escolhido para a comunidade de investimentos. A seleção do novo moderador pode afetar a dinâmica e a qualidade das discussões na comunidade.",
       "source": "reddit",
       "subreddit": "investimentos",
-      "permalink": "https://www.reddit.com/r/investimentos/comments/1u1ezfz/inflação_é_uma_coisa_louca/",
-      "createdAt": "2026-06-09T21:26:48.677804+00:00",
-      "rawScore": 696.1457921153792,
-      "relevanceScore": 0.00488603033260095,
-      "suggestedRadius": 40.19,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "permalink": "https://www.reddit.com/r/investimentos/comments/1rz5o8g/novo_moderador_seleção/",
+      "createdAt": "2026-06-10T17:30:09.262363+00:00",
+      "rawScore": 132310.99,
+      "relevanceScore": 0.933328567428567,
+      "suggestedRadius": 93.97,
+      "imageUrl": "assets/images/reddit_1rz5o8g_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1rz5o8g_uns_thumb.jpg",
       "category": "economia",
       "region": "brasil",
       "sources": [
         {
-          "title": "Inflação é uma coisa louca",
-          "url": "https://www.reddit.com/r/investimentos/comments/1u1ezfz/inflação_é_uma_coisa_louca/",
+          "title": "Novo moderador (seleção)",
+          "url": "https://www.reddit.com/r/investimentos/comments/1rz5o8g/novo_moderador_seleção/",
           "subreddit": "investimentos"
         }
       ],
@@ -186,21 +83,21 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O governo precisa tomar medidas para controlar a inflação, senão vamos perder tudo.",
+          "text": "O novo moderador traz uma perspectiva fresca e pode melhorar a experiência dos usuários.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A inflação é um problema, mas não é tão simples assim, precisamos entender as causas antes de criticar.",
+          "text": "A escolha do novo moderador parece arbitrária e pode levar a uma perda de confiança na comunidade.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Quem paga a conta da inflação são sempre os mais pobres, é hora de repensar a economia.",
+          "text": "Vamos esperar para ver como o novo moderador se sai, afinal, a prova está no pudding.",
           "source": "reddit",
           "votes": 0
         }
@@ -208,78 +105,36 @@
       "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     },
     {
-      "id": "reddit_1twf4qd",
-      "rank": 5,
-      "title": "Não esqueçamos quem se opôs ao armamento do Exército Romeno",
-      "label": "Oposição ao armamento do Exército Romeno",
-      "context": "O governo romeno enfrenta oposição ao armamento do Exército Romeno. Isso pode afetar a segurança nacional do país.",
-      "source": "reddit",
-      "subreddit": "politica",
-      "permalink": "https://www.reddit.com/r/politica/comments/1twf4qd/să_nu_uităm_cine_sa_opus_mereu_înzestrării/",
-      "createdAt": "2026-06-09T21:28:40.510831+00:00",
-      "rawScore": 2310.782447952687,
-      "relevanceScore": 0.016276101047792223,
-      "suggestedRadius": 43.65,
-      "imageUrl": "assets/images/reddit_1twf4qd_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1twf4qd_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Să nu uităm cine s-a opus mereu înzestrării Armatei Române",
-          "url": "https://www.reddit.com/r/politica/comments/1twf4qd/să_nu_uităm_cine_sa_opus_mereu_înzestrării/",
-          "subreddit": "politica"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O governo deve priorizar a segurança nacional e armar o Exército Romeno, não importa o custo.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A oposição ao armamento do Exército Romeno é justificada, pois o dinheiro poderia ser gasto em educação e saúde.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A decisão de armar o Exército Romeno deve ser baseada em uma avaliação cuidadosa das necessidades de segurança nacional e dos recursos disponíveis.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
-    },
-    {
-      "id": "reddit_1u1fgci",
-      "rank": 6,
-      "title": "Ligações de spam no Brasil",
-      "label": "Spam · Brasil",
-      "context": "No Brasil, a grande maioria das ligações telefônicas são consideradas spam ou golpe, afetando a vida dos cidadãos. A falta de medidas eficazes para impedir essas ligações é um problema que preocupa muitas pessoas.",
+      "id": "reddit_1u263r0",
+      "rank": 3,
+      "title": "Eleitor considera Lula mais patriota que Flávio Bolsonaro, aponta pesquisa Genial/Quaest",
+      "label": "Lula x Flávio · Patriotismo Percebido",
+      "context": "Uma pesquisa da Genial/Quaest revelou que uma parcela do eleitorado brasileiro considera o presidente Lula mais patriota do que o senador Flávio Bolsonaro. O estudo mediu a percepção de patriotismo entre os dois políticos, gerando debate sobre o conceito de patriotismo e seus diferentes significados.",
       "source": "reddit",
       "subreddit": "brasil",
-      "permalink": "https://www.reddit.com/r/brasil/comments/1u1fgci/é_impressionante_como_99_das_ligações_são/",
-      "createdAt": "2026-06-09T21:25:15.805577+00:00",
-      "rawScore": 554.2467569336138,
-      "relevanceScore": 0.0038850372984749024,
-      "suggestedRadius": 39.74,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "permalink": "https://www.reddit.com/r/brasil/comments/1u263r0/eleitor_considera_lula_mais_patriota_que_flávio/",
+      "createdAt": "2026-06-10T17:23:28.835172+00:00",
+      "rawScore": 356.9232901687356,
+      "relevanceScore": 0.0024464596279066175,
+      "suggestedRadius": 38.97,
+      "imageUrl": "assets/images/reddit_1u263r0_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u263r0_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "brasil",
       "sources": [
         {
-          "title": "É impressionante como 99% das ligações são spam/golpe e não existe nenhuma medida pra impedir isso",
-          "url": "https://www.reddit.com/r/brasil/comments/1u1fgci/é_impressionante_como_99_das_ligações_são/",
+          "title": "Eleitor considera Lula mais patriota que Flávio Bolsonaro, aponta pesquisa Genial/Quaest",
+          "url": "https://www.reddit.com/r/brasil/comments/1u263r0/eleitor_considera_lula_mais_patriota_que_flávio/",
+          "subreddit": "brasil"
+        },
+        {
+          "title": "Genial/Quaest: rejeição a Flávio Bolsonaro sobe 2 pp para 56%; rejeição a Lula segue em 53%",
+          "url": "https://www.reddit.com/r/brasil/comments/1u1ygfj/genialquaest_rejeição_a_flávio_bolsonaro_sobe_2/",
+          "subreddit": "brasil"
+        },
+        {
+          "title": "Quaest 2º turno: Lula tem 44%, e Flávio Bolsonaro, 38% | G1",
+          "url": "https://www.reddit.com/r/brasil/comments/1u1y0zi/quaest_2º_turno_lula_tem_44_e_flávio_bolsonaro_38/",
           "subreddit": "brasil"
         }
       ],
@@ -287,97 +142,51 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O governo deveria tomar medidas mais duras contra as empresas que promovem esses golpes, protegendo assim os consumidores.",
+          "text": "O pessoal esquerdista agora elegeu um ex-presidiário como símbolo da pátria? A pesquisa só mostra que a lavagem cerebral funcionou! Lula sempre foi um demagogo, e essa história de 'patriota' é piada. O verdadeiro patriotismo é defender a família e a ordem!",
           "source": "reddit",
-          "votes": 0
+          "votes": 0,
+          "ideology": "far_right"
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "É inaceitável que as operadoras de telefonia não consigam bloquear essas ligações indesejadas, mostrando falta de investimento em segurança.",
+          "text": "Essa pesquisa é um retrato da manipulação da mídia e do establishment! Flávio Bolsonaro representa a velha oligarquia, a corrupção e o privilégio. Lula, apesar de tudo, sempre defendeu os trabalhadores e a soberania nacional. A elite nunca aceitará um líder popular.",
           "source": "reddit",
-          "votes": 0
+          "votes": 0,
+          "ideology": "far_left"
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Talvez a solução esteja em uma combinação de tecnologia e educação do consumidor, ensinando as pessoas a identificar e relatar ligações suspeitas.",
+          "text": "A pesquisa demonstra como o conceito de 'patriotismo' é subjetivo e politicamente carregado. O fato de Lula ser visto como mais patriota por alguns eleitores revela uma insatisfação com o discurso conservador e uma busca por representatividade. É importante analisar os dados com cautela e entender as motivações por trá",
           "source": "reddit",
-          "votes": 0
+          "votes": 0,
+          "ideology": "liberal"
         }
       ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+      "enrichedBy": "google/gemma-3-27b-it"
     },
     {
-      "id": "reddit_1u14qj7",
-      "rank": 7,
-      "title": "Mercado prevê alta da Selic e menor ciclo de cortes de juros",
-      "label": "Selic · Ciclo de juros",
-      "context": "O mercado financeiro está precificando uma alta da taxa Selic e se preparando para o menor ciclo de cortes de juros da história. Isso pode afetar a economia e os investimentos no país, com consequências para a inflação e o crescimento econômico.",
-      "source": "reddit",
-      "subreddit": "investimentos",
-      "permalink": "https://www.reddit.com/r/investimentos/comments/1u14qj7/mercado_precifica_alta_da_selic_e_se_prepara_para/",
-      "createdAt": "2026-06-09T21:25:48.677813+00:00",
-      "rawScore": 517.2976779583615,
-      "relevanceScore": 0.003624388798474716,
-      "suggestedRadius": 39.61,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "economia",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Mercado precifica alta da Selic e se prepara para menor ciclo de cortes de juros da história",
-          "url": "https://www.reddit.com/r/investimentos/comments/1u14qj7/mercado_precifica_alta_da_selic_e_se_prepara_para/",
-          "subreddit": "investimentos"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O Banco Central está fazendo o certo, precisa controlar a inflação e manter a economia estável.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Isso vai afetar negativamente os investimentos e o crescimento econômico, o governo deveria pensar em outras soluções.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Vamos esperar e ver como isso vai afetar a economia, não podemos ter certeza do que vai acontecer, precisamos de mais dados.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
-    },
-    {
-      "id": "reddit_1u1h7uw",
-      "rank": 8,
-      "title": "Irã x EUA",
-      "label": "Conflito Irã EUA",
-      "context": "O Irã e os EUA estão em conflito. Isso afeta a política internacional.",
+      "id": "reddit_1u08sa1",
+      "rank": 4,
+      "title": "Fala Zezé",
+      "label": "",
+      "context": "",
       "source": "reddit",
       "subreddit": "futebol",
-      "permalink": "https://www.reddit.com/r/futebol/comments/1u1h7uw/irã_x_eua/",
-      "createdAt": "2026-06-09T21:28:22.284953+00:00",
-      "rawScore": 497.24641154850923,
-      "relevanceScore": 0.0034829419029693484,
-      "suggestedRadius": 39.54,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "permalink": "https://www.reddit.com/r/futebol/comments/1u08sa1/fala_zezé/",
+      "createdAt": "2026-06-10T17:31:59.612796+00:00",
+      "rawScore": 94507.85,
+      "relevanceScore": 0.6666428371428357,
+      "suggestedRadius": 84.99,
+      "imageUrl": "assets/images/reddit_1u08sa1_wiki.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u08sa1_wiki_thumb.jpg",
       "category": "esportes",
       "region": "brasil",
       "sources": [
         {
-          "title": "Irã x EUA",
-          "url": "https://www.reddit.com/r/futebol/comments/1u1h7uw/irã_x_eua/",
+          "title": "Fala Zezé",
+          "url": "https://www.reddit.com/r/futebol/comments/1u08sa1/fala_zezé/",
           "subreddit": "futebol"
         }
       ],
@@ -385,7 +194,115 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O governo americano precisa mostrar força contra o Irã.",
+          "text": "Há quem defenda essa medida como necessária.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Outros criticam e veem riscos ou consequências negativas.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Também há quem prefira esperar mais informações antes de concluir.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "google/gemma-3-27b-it"
+    },
+    {
+      "id": "reddit_1u1zo2v",
+      "rank": 5,
+      "title": "Assistindo um jogo da seleção em 2002 às 03 da manhã | Brasil 2 x 1 Inglaterra | @thiagomonteirofoto",
+      "label": "Copa 2002 · Nostalgia e Memória",
+      "context": "Um fotógrafo (@thiagomonteirofoto) compartilhou a lembrança de ter assistido ao jogo entre Brasil e Inglaterra na Copa do Mundo de 2002 às 3 da manhã. A partida, válida pelas oitavas de final, terminou com a vitória brasileira por 2 a 1.",
+      "source": "reddit",
+      "subreddit": "futebol",
+      "permalink": "https://www.reddit.com/r/futebol/comments/1u1zo2v/assistindo_um_jogo_da_seleção_em_2002_às_03_da/",
+      "createdAt": "2026-06-10T17:26:59.612871+00:00",
+      "rawScore": 288.34843745956215,
+      "relevanceScore": 0.0019626920182852373,
+      "suggestedRadius": 38.66,
+      "imageUrl": "assets/images/reddit_1u1zo2v_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u1zo2v_uns_thumb.jpg",
+      "category": "esportes",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Assistindo um jogo da seleção em 2002 às 03 da manhã | Brasil 2 x 1 Inglaterra | @thiagomonteirofoto",
+          "url": "https://www.reddit.com/r/futebol/comments/1u1zo2v/assistindo_um_jogo_da_seleção_em_2002_às_03_da/",
+          "subreddit": "futebol"
+        },
+        {
+          "title": "E o Brasil inteiro foi a loucura, ganhamos em casa o único título que faltava pra nossa seleção",
+          "url": "https://www.reddit.com/r/futebol/comments/1u21hdx/e_o_brasil_inteiro_foi_a_loucura_ganhamos_em_casa/",
+          "subreddit": "futebol"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Aquele jogo mostrou a força do futebol brasileiro! Rivaldo e Ronaldinho, que dupla! A gente acordava cedo pra ver a seleção e valia cada minuto, era um orgulho gigante ver o Brasil vencer a Inglaterra.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Sério que a gente tá nostálgico por um jogo de futebol? Enquanto isso, o país tá como tá… Essa romantização do passado me irrita um pouco, parece que a gente esquece dos problemas reais.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Madrugada de 2002, internet discada, a imagem travando… Era um sufoco pra acompanhar um jogo, mas a emoção era outra, né? Hoje em dia, tudo é fácil demais, perdeu a graça.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "google/gemma-3-27b-it"
+    },
+    {
+      "id": "reddit_1u25usj",
+      "rank": 6,
+      "title": "Um último meme antes do início da Copa do Mundo",
+      "label": "Copa do Mundo · Memes",
+      "context": "Usuários do Reddit compartilharam um meme como uma última piada antes do início da Copa do Mundo. A tradição de memes e humor online acompanha os grandes eventos esportivos, criando um ambiente de descontração e interação entre os fãs.",
+      "source": "reddit",
+      "subreddit": "futebol",
+      "permalink": "https://www.reddit.com/r/futebol/comments/1u25usj/um_ultimo_meme_antes_do_início_da_copa_do_mundo/",
+      "createdAt": "2026-06-10T17:24:59.612892+00:00",
+      "rawScore": 198.64924371199828,
+      "relevanceScore": 0.0013299008006612421,
+      "suggestedRadius": 38.19,
+      "imageUrl": "assets/images/reddit_1u25usj_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u25usj_uns_thumb.jpg",
+      "category": "esportes",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Um ultimo meme antes do início da Copa do Mundo",
+          "url": "https://www.reddit.com/r/futebol/comments/1u25usj/um_ultimo_meme_antes_do_início_da_copa_do_mundo/",
+          "subreddit": "futebol"
+        },
+        {
+          "title": "Ídolo da Inglaterra faz duras críticas ao Mundial: \"Copa do Mundo do caos\" | Ge",
+          "url": "https://www.reddit.com/r/futebol/comments/1u22bth/ídolo_da_inglaterra_faz_duras_críticas_ao_mundial/",
+          "subreddit": "futebol"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Esse meme é a cara do brasileiro! A gente não leva nada tão a sério, ri da própria desgraça e ainda assim torce com paixão. É essa irreverência que nos faz únicos e que vai nos levar ao hexa! Fora essa patifaria de 'vitimismo'.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -393,7 +310,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A empresa petrolífera americana é a verdadeira culpada por esse conflito.",
+          "text": "Enquanto a gente tá aqui rindo de meme, a exploração da mão de obra pra construir esses estádios continua. A Copa é um circo pra desviar a atenção dos problemas reais, um show de hipocrisia que beneficia só os ricos e a FIFA.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -401,35 +318,40 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Trabalhadores iranianos e americanos são afetados por essa crise.",
+          "text": "A proliferação de memes demonstra a liberdade de expressão e a capacidade de auto-organização da sociedade civil. É um fenômeno cultural interessante, mas é importante lembrar que a Copa do Mundo também envolve direitos de imagem e propriedade intelectual.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
         }
       ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+      "enrichedBy": "google/gemma-3-27b-it"
     },
     {
-      "id": "reddit_1u1hbcy",
-      "rank": 9,
-      "title": "XP sem COE",
-      "label": "XP Investimentos sem Comissões",
-      "context": "A XP Investimentos anunciou que não oferecerá mais os COE (Certificado de Operações Estruturadas) deles. Isso pode afetar a forma como a empresa gera receita.",
+      "id": "reddit_1u23163",
+      "rank": 7,
+      "title": "Alguém também não consegue acessar o Investimentos BB agora ou é só o meu?",
+      "label": "Investimentos BB · Instabilidade no acesso",
+      "context": "Usuários do Banco do Brasil relatam dificuldades para acessar a plataforma de investimentos na manhã de hoje. A instabilidade afeta a realização de ordens e a consulta de posições.",
       "source": "reddit",
       "subreddit": "investimentos",
-      "permalink": "https://www.reddit.com/r/investimentos/comments/1u1hbcy/como_que_a_xp_vai_fazer_dinheiro_sem_oferecer_os/",
-      "createdAt": "2026-06-09T21:24:48.677821+00:00",
-      "rawScore": 403.6885619770087,
-      "relevanceScore": 0.0028229602787890086,
-      "suggestedRadius": 39.19,
-      "imageUrl": "assets/images/reddit_1u1hbcy_wiki.jpg",
-      "imageThumbUrl": "assets/images/reddit_1u1hbcy_wiki_thumb.jpg",
+      "permalink": "https://www.reddit.com/r/investimentos/comments/1u23163/alguém_também_não_consegue_acessar_o/",
+      "createdAt": "2026-06-10T17:14:09.262517+00:00",
+      "rawScore": 101.34234630039956,
+      "relevanceScore": 0.0006434403373756277,
+      "suggestedRadius": 37.52,
+      "imageUrl": "assets/images/reddit_1u23163_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u23163_uns_thumb.jpg",
       "category": "economia",
       "region": "brasil",
       "sources": [
         {
-          "title": "Como que a XP vai fazer dinheiro sem oferecer os COE deles? KKKKKKKKKKKKKKKK",
-          "url": "https://www.reddit.com/r/investimentos/comments/1u1hbcy/como_que_a_xp_vai_fazer_dinheiro_sem_oferecer_os/",
+          "title": "Alguém também não consegue acessar o Investimentos BB agora ou é só o meu?",
+          "url": "https://www.reddit.com/r/investimentos/comments/1u23163/alguém_também_não_consegue_acessar_o/",
+          "subreddit": "investimentos"
+        },
+        {
+          "title": "Formação de assessor de investimentos: alguém sabe quais os critérios de seleção?",
+          "url": "https://www.reddit.com/r/investimentos/comments/1u23qeo/formação_de_assessor_de_investimentos_alguém_sabe/",
           "subreddit": "investimentos"
         }
       ],
@@ -437,7 +359,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A XP está fazendo a coisa certa, cortando os COE é um passo para reduzir a burocracia e aumentar a eficiência.",
+          "text": "O sistema do BB sempre foi precário, mas agora com essa turma esquerdista no governo, só piora! Querem controlar nosso dinheiro e sabotam a infraestrutura. Privatiza logo essa bomba!",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -445,7 +367,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Isso é um golpe para os investidores, a XP está mais preocupada em aumentar seus lucros do que em proteger os interesses dos clientes.",
+          "text": "Claro que o app tá caindo, gente! Bancos lucram bilhões com a gente e não investem em tecnologia pra garantir nosso acesso. É a lógica do capital, explorando a população e priorizando o lucro!",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -453,198 +375,133 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A decisão da XP de não oferecer mais os COE pode ter impactos tanto positivos quanto negativos, dependendo de como a empresa planeja compensar a perda de receita.",
+          "text": "Essa instabilidade no Investimentos BB demonstra a necessidade de regulamentação mais rigorosa para garantir a segurança e a disponibilidade dos serviços financeiros digitais. A proteção do investidor é fundamental.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
         }
       ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+      "enrichedBy": "google/gemma-3-27b-it"
     },
     {
-      "id": "reddit_1u0l0i3",
-      "rank": 10,
-      "title": "Captura da noite no norte do Chile",
-      "label": "Fenômeno astronômico · Chile",
-      "context": "Um usuário capturou um fenômeno astronômico na noite do norte do Chile. Isso pode ser um evento raro e interessante para os entusiastas de astronomia.",
-      "source": "reddit",
-      "subreddit": "astronomia",
-      "permalink": "https://www.reddit.com/r/astronomia/comments/1u0l0i3/lo_capture_cuando_cayó_la_noche_acá_en_el_norte/",
-      "createdAt": "2026-06-09T21:29:58.745328+00:00",
-      "rawScore": 2002.674930295756,
-      "relevanceScore": 0.014102629758566087,
-      "suggestedRadius": 43.13,
-      "imageUrl": "assets/images/reddit_1u0l0i3_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1u0l0i3_uns_thumb.jpg",
-      "category": "ciencia",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Lo capture cuando cayó la noche acá en el norte de chile",
-          "url": "https://www.reddit.com/r/astronomia/comments/1u0l0i3/lo_capture_cuando_cayó_la_noche_acá_en_el_norte/",
-          "subreddit": "astronomia"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O norte do Chile é um dos melhores lugares para observar o céu noturno, que sorte ter capturado isso!",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Não entendo por que isso é tão interessante, é só uma foto da noite, não vejo o que tem de especial.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Seria legal saber mais sobre o que exatamente foi capturado, é um meteoro, um planeta ou algo mais?",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
-    },
-    {
-      "id": "reddit_1u1fgiz",
-      "rank": 11,
-      "title": "Bastter vs S&P 500: estudo de 20 anos nos EUA",
-      "label": "Desempenho de Bastter x S&P 500",
-      "context": "Um estudo comparou o desempenho de Bastter e S&P 500 nos EUA ao longo de 20 anos. O objetivo era avaliar a eficácia de cada investimento no mercado americano.",
-      "source": "reddit",
-      "subreddit": "investimentos",
-      "permalink": "https://www.reddit.com/r/investimentos/comments/1u1fgiz/bastter_vs_sp_500_um_estudo_exploratório_de_20/",
-      "createdAt": "2026-06-09T21:27:48.677795+00:00",
-      "rawScore": 1068.960232343218,
-      "relevanceScore": 0.007515961235313839,
-      "suggestedRadius": 41.2,
-      "imageUrl": "assets/images/reddit_1u1fgiz_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1u1fgiz_uns_thumb.jpg",
-      "category": "economia",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Bastter vs S&P 500: um estudo exploratório de 20 anos no EUA",
-          "url": "https://www.reddit.com/r/investimentos/comments/1u1fgiz/bastter_vs_sp_500_um_estudo_exploratório_de_20/",
-          "subreddit": "investimentos"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Bastter é o futuro, supera S&P 500 em desempenho e inovação.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "S&P 500 é um reflexo da desigualdade, enquanto Bastter oferece uma alternativa mais justa.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O estudo de 20 anos é interessante, mas é crucial considerar os riscos e benefícios de cada investimento antes de tomar uma decisão.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
-    },
-    {
-      "id": "reddit_1u0nhjz",
-      "rank": 12,
-      "title": "Detectam vento no buraco negro do centro da Via Láctea",
-      "label": "Buraco negro · Via Láctea",
-      "context": "Cientistas detectaram um vento em torno do buraco negro supermassivo localizado no centro da Via Láctea. Esse fenômeno é importante porque pode fornecer informações valiosas sobre a formação e evolução de galáxias.",
-      "source": "reddit",
-      "subreddit": "astronomia",
-      "permalink": "https://www.reddit.com/r/astronomia/comments/1u0nhjz/detectan_un_viento_en_el_agujero_negro_del_centro/",
-      "createdAt": "2026-06-09T21:28:58.745338+00:00",
-      "rawScore": 992.6051548465872,
-      "relevanceScore": 0.006977332480041629,
-      "suggestedRadius": 41.01,
-      "imageUrl": "assets/images/reddit_1u0nhjz_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1u0nhjz_uns_thumb.jpg",
-      "category": "ciencia",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Detectan un viento en el agujero negro del centro de la Vía Láctea",
-          "url": "https://www.reddit.com/r/astronomia/comments/1u0nhjz/detectan_un_viento_en_el_agujero_negro_del_centro/",
-          "subreddit": "astronomia"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O governo deve investir mais em pesquisas espaciais, como essa descoberta, para manter nossa nação à frente na corrida tecnológica.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A busca por conhecimento sobre buracos negros é uma distração da elite para desviar a atenção dos problemas sociais e econômicos que afetam a maioria da população.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A descoberta desse vento em torno do buraco negro é um exemplo de como a ciência pode avançar nossa compreensão do universo, e deve ser apoiada por instituições e financiamentos adequados.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
-    },
-    {
-      "id": "reddit_1u14360",
-      "rank": 13,
-      "title": "Copa em país com problemas de direitos humanos",
-      "label": "Protestos contra direitos humanos em Copas",
-      "context": "A Copa do Mundo em 2022 no Catar gerou protestos de países ocidentais devido à situação dos direitos humanos no país. Agora, com a Copa sendo disputada em outro país com problemas semelhantes, a comunidade internacional aguarda para ver se haverá uma resposta similar. A questão dos direitos humanos em países sede de grandes eventos esportivos internacionais é um tema cada vez mais debatido.",
+      "id": "reddit_1u24nz3",
+      "rank": 8,
+      "title": "Vamos falar sobre música! Post semanal do r/Brasil para recomendações!",
+      "label": "Música Brasileira · Recomendações Semanais",
+      "context": "Usuários do subreddit r/Brasil criam um post semanal dedicado a recomendações musicais. O objetivo é compartilhar e descobrir novos artistas e músicas brasileiras.",
       "source": "reddit",
       "subreddit": "brasil",
-      "permalink": "https://www.reddit.com/r/brasil/comments/1u14360/quando_da_copa_do_catar_em_2022_vários_países/",
-      "createdAt": "2026-06-09T21:24:15.805595+00:00",
-      "rawScore": 432.52300103347443,
-      "relevanceScore": 0.0030263659791976275,
-      "suggestedRadius": 39.3,
-      "imageUrl": "assets/images/reddit_1u14360_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1u14360_uns_thumb.jpg",
+      "permalink": "https://www.reddit.com/r/brasil/comments/1u24nz3/vamos_falar_sobre_música_post_semanal_do_rbrasil/",
+      "createdAt": "2026-06-10T17:28:28.835089+00:00",
+      "rawScore": 2310.7554848228756,
+      "relevanceScore": 0.01622994866313259,
+      "suggestedRadius": 43.64,
+      "imageUrl": "assets/images/reddit_1u24nz3_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u24nz3_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "brasil",
       "sources": [
         {
-          "title": "Quando da Copa do Catar em 2022 vários países \"ocidentais\" protestaram contra a situação dos Direitos Humanos no país. Agora que a Copa será disputada em outro país que desrespeita direitos humanos e bombardeia civis, provavelmente veremos os mesmos protestos, né?...né?",
-          "url": "https://www.reddit.com/r/brasil/comments/1u14360/quando_da_copa_do_catar_em_2022_vários_países/",
+          "title": "Vamos falar sobre música! Post semanal do r/Brasil para recomendações!",
+          "url": "https://www.reddit.com/r/brasil/comments/1u24nz3/vamos_falar_sobre_música_post_semanal_do_rbrasil/",
           "subreddit": "brasil"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Sério, essa thread é o melhor jeito de sair da bolha do Spotify! Descobri umas bandas incríveis de MPB que nem sabia que existiam, e o pessoal sempre manda uns links pro YouTube que valem a pena.",
+          "source": "reddit",
+          "votes": 0
         },
         {
-          "title": "Ingressos de torcedores do Irã para Copa do Mundo são revogados, diz federação do país",
-          "url": "https://www.reddit.com/r/brasil/comments/1u188e9/ingressos_de_torcedores_do_irã_para_copa_do_mundo/",
-          "subreddit": "brasil"
+          "id": "op2",
+          "tone": "negative",
+          "text": "Acho meio chato que sempre aparece a mesma galera indicando os mesmos artistas. Cadê a galera que curte um som mais alternativo, um rock nacional de verdade? Parece que só tem espaço pra mainstream.",
+          "source": "reddit",
+          "votes": 0
         },
         {
-          "title": "Qual país que nunca organizou a Copa você gostaria mais de ver sediando o torneio?",
-          "url": "https://www.reddit.com/r/futebol/comments/1u103y0/qual_país_que_nunca_organizou_a_copa_você/",
+          "id": "op3",
+          "tone": "neutral",
+          "text": "É engraçado como a gente se apega a essas tradições online, né? Todo domingo a mesma história: 'me indica uma música', 'tá todo mundo ouvindo isso'. No fim, a gente só quer uma desculpa pra conversar.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "google/gemma-3-27b-it"
+    },
+    {
+      "id": "reddit_8ukd9e",
+      "rank": 9,
+      "title": "Passo a passo de investimentos",
+      "label": "Investimentos passo a passo",
+      "context": "O guia de investimentos oferece um passo a passo para iniciantes. Isso importa porque muitas pessoas buscam investir seu dinheiro de forma segura e rentável.",
+      "source": "reddit",
+      "subreddit": "investimentos",
+      "permalink": "https://www.reddit.com/r/investimentos/comments/8ukd9e/passo_a_passo_de_investimentos/",
+      "createdAt": "2026-06-10T17:29:09.262382+00:00",
+      "rawScore": 2156.7119072521837,
+      "relevanceScore": 0.015143234067988731,
+      "suggestedRadius": 43.38,
+      "imageUrl": "assets/images/reddit_8ukd9e_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_8ukd9e_uns_thumb.jpg",
+      "category": "economia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Passo a passo de investimentos",
+          "url": "https://www.reddit.com/r/investimentos/comments/8ukd9e/passo_a_passo_de_investimentos/",
+          "subreddit": "investimentos"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo deve incentivar mais a educação financeira para que as pessoas possam investir com segurança.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Quem paga a conta são os investidores iniciantes que não têm conhecimento suficiente para evitar perdas.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A empresa de investimentos deve ser transparente sobre os riscos e benefícios para que os investidores possam tomar decisões informadas.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1u1q4rc",
+      "rank": 10,
+      "title": "[Match HUB] Jogos do dia 10 de Junho",
+      "label": "Futebol · Agenda de Partidas",
+      "context": "A plataforma Match HUB divulgou a lista de jogos agendados para o dia 10 de junho. A programação inclui partidas de diversas ligas e campeonatos de futebol ao redor do mundo.",
+      "source": "reddit",
+      "subreddit": "futebol",
+      "permalink": "https://www.reddit.com/r/futebol/comments/1u1q4rc/match_hub_jogos_do_dia_10_de_junho/",
+      "createdAt": "2026-06-10T17:30:59.612811+00:00",
+      "rawScore": 1540.5065742515808,
+      "relevanceScore": 0.01079615683479519,
+      "suggestedRadius": 42.23,
+      "imageUrl": "assets/images/reddit_1u1q4rc_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u1q4rc_uns_thumb.jpg",
+      "category": "esportes",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "[Match HUB] Jogos do dia 10 de Junho",
+          "url": "https://www.reddit.com/r/futebol/comments/1u1q4rc/match_hub_jogos_do_dia_10_de_junho/",
           "subreddit": "futebol"
         }
       ],
@@ -652,7 +509,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O governo deve priorizar a segurança e a estabilidade, mesmo que isso signifique fazer vista grossa para alguns problemas de direitos humanos em países estrangeiros.",
+          "text": "Essa programação toda mostra que o futebol de verdade, o que faz a nação vibrar, continua forte! Menos essa palhaçada de 'woke' e mais jogo, tradição e patriotismo nos campos. É assim que se constrói um país!",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -660,7 +517,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "É inaceitável que países que violam direitos humanos sejam recompensados com a oportunidade de sediar eventos internacionais. Devemos boicotar esses eventos para pressionar por mudanças.",
+          "text": "Enquanto a gente discute joguinho, a exploração dos atletas continua a todo vapor. Esses clubes lucram bilhões em cima do suor desses caras, muitos deles vindos de comunidades pobres, e a gente vibra com gol? É nojento!",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -668,24 +525,585 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A comunidade internacional deve encontrar um equilíbrio entre promover os direitos humanos e respeitar a soberania dos países. Isso pode incluir diálogo diplomático e apoio a reformas internas.",
+          "text": "O Match HUB facilita o acesso à informação sobre os jogos, o que é ótimo para os fãs e para o mercado. A livre escolha e a competição são sempre positivas, desde que respeitem as regras do jogo e os direitos dos jogadores.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
         }
       ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+      "enrichedBy": "google/gemma-3-27b-it"
+    },
+    {
+      "id": "reddit_1u20t41",
+      "rank": 11,
+      "title": "O desespero do empresariado Brasileiro",
+      "label": "Empresariado · Crise Econômica",
+      "context": "Empresários brasileiros expressam preocupação com o cenário econômico atual. A alta carga tributária e a burocracia são apontadas como os principais obstáculos ao crescimento.",
+      "source": "reddit",
+      "subreddit": "brasil",
+      "permalink": "https://www.reddit.com/r/brasil/comments/1u20t41/o_desespero_do_empresariado_brasileiro/",
+      "createdAt": "2026-06-10T17:27:28.835103+00:00",
+      "rawScore": 1145.3078995660787,
+      "relevanceScore": 0.008008191412704427,
+      "suggestedRadius": 41.37,
+      "imageUrl": "assets/images/reddit_1u20t41_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u20t41_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "O desespero do empresariado Brasileiro",
+          "url": "https://www.reddit.com/r/brasil/comments/1u20t41/o_desespero_do_empresariado_brasileiro/",
+          "subreddit": "brasil"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo só sabe taxar e inventar regras! Empresários de verdade constroem nações, mas precisam de liberdade pra isso. Menos Estado, mais iniciativa privada, e o Brasil vai ver o que é progresso de verdade!",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Desespero? Que desespero? É a burguesia chorando porque não consegue explorar a classe trabalhadora à vontade. A crise é estrutural, fruto de um sistema que beneficia poucos e oprime a maioria. Precisamos de mudança radical!",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A insatisfação do setor produtivo é um sinal claro de que o ambiente de negócios precisa ser revisto. Um sistema tributário simplificado e menos burocrático são essenciais para atrair investimentos e garantir a competitividade do país.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "google/gemma-3-27b-it"
+    },
+    {
+      "id": "reddit_1u27eho",
+      "rank": 12,
+      "title": "Atingi R$ 100 mil e minha maior conquista não foi o rendimento",
+      "label": "Independência Financeira · Conquistas Pessoais",
+      "context": "Um investidor relatou ter alcançado um patrimônio de R$ 100 mil. Ele afirma que o maior aprendizado dessa jornada não foi o retorno financeiro obtido, mas sim o desenvolvimento de disciplina e hábitos consistentes.",
+      "source": "reddit",
+      "subreddit": "investimentos",
+      "permalink": "https://www.reddit.com/r/investimentos/comments/1u27eho/atingi_r_100_mil_e_minha_maior_conquista_não_foi/",
+      "createdAt": "2026-06-10T17:28:09.262395+00:00",
+      "rawScore": 1068.955694492102,
+      "relevanceScore": 0.007469557755048492,
+      "suggestedRadius": 41.19,
+      "imageUrl": "assets/images/reddit_1u27eho_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u27eho_uns_thumb.jpg",
+      "category": "economia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Atingi R$ 100 mil e minha maior conquista não foi o rendimento",
+          "url": "https://www.reddit.com/r/investimentos/comments/1u27eho/atingi_r_100_mil_e_minha_maior_conquista_não_foi/",
+          "subreddit": "investimentos"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Esse cara tá certíssimo! R$ 100 mil não é o fim, é o começo. A verdadeira riqueza tá na mentalidade que você desenvolve pra chegar lá, na capacidade de poupar e investir a longo prazo. É sobre liberdade, saca?",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Aí que tá a ilusão! Falar em 'conquista pessoal' quando a grana vem de um sistema que explora a galera é piada. R$ 100 mil não mudam a desigualdade, só te colocam num clube de privilegiados. Falta visão crítica!",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Interessante essa valorização do processo. A gente vive numa cultura obcecada por resultados, mas talvez ele tenha razão. Atingir 100 mil exige consistência, e essa habilidade serve pra qualquer área da vida, não só pra finanças.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "google/gemma-3-27b-it"
+    },
+    {
+      "id": "reddit_1u1socb",
+      "rank": 13,
+      "title": "Tenho 15 anos, estou aprendendo Python e queria dicas de quem já está na área",
+      "label": "Python · Iniciantes",
+      "context": "Um estudante de 15 anos pediu conselhos sobre como aprender Python para quem já trabalha na área de programação. A solicitação visa obter orientação prática e direcionada para iniciantes na linguagem.",
+      "source": "reddit",
+      "subreddit": "programacao",
+      "permalink": "https://www.reddit.com/r/programacao/comments/1u1socb/tenho_15_anos_estou_aprendendo_python_e_queria/",
+      "createdAt": "2026-06-10T17:28:48.797711+00:00",
+      "rawScore": 916.2454509016676,
+      "relevanceScore": 0.006392249287179766,
+      "suggestedRadius": 40.8,
+      "imageUrl": "assets/images/reddit_1u1socb_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u1socb_uns_thumb.jpg",
+      "category": "tech",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Tenho 15 anos, estou aprendendo Python e queria dicas de quem já está na área",
+          "url": "https://www.reddit.com/r/programacao/comments/1u1socb/tenho_15_anos_estou_aprendendo_python_e_queria/",
+          "subreddit": "programacao"
+        },
+        {
+          "title": "A verdade não está nos olhos de quem pode ver, mas sim nos olhos de quem quer enxergar!",
+          "url": "https://www.reddit.com/r/investimentos/comments/1u1lvkn/a_verdade_não_está_nos_olhos_de_quem_pode_ver_mas/",
+          "subreddit": "investimentos"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Esse moleque já tá pensando no futuro, parabéns! Python é ferramenta, mas disciplina e esforço são a base. Esquece essa moda de 'carreira fácil', programar é trampo de verdade e exige dedicação pra construir algo sólido.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A real é que essa área de 'tecnologia' é só mais um jeito de explorar a mão de obra. Querem te iludir com a ideia de 'inovação' enquanto te fazem trabalhar dobrado por um salário mixado. Python é só mais uma ferramenta do sistema!",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O mercado de tecnologia valoriza muito a iniciativa. Python é uma ótima escolha, mas focar em projetos práticos e construir um portfólio online é crucial. A certificação ajuda, mas a experiência real conta muito mais.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "google/gemma-3-27b-it"
+    },
+    {
+      "id": "reddit_1u20xqo",
+      "rank": 14,
+      "title": "Como os três países anfitriões da Copa estão recebendo os visitantes",
+      "label": "Copa do Mundo · Recepção aos Visitantes",
+      "context": "A Copa do Mundo de 2026 será sediada conjuntamente por Canadá, México e Estados Unidos. A organização do torneio e a capacidade de cada país em receber turistas são temas de discussão.",
+      "source": "reddit",
+      "subreddit": "futebol",
+      "permalink": "https://www.reddit.com/r/futebol/comments/1u20xqo/como_os_três_países_anfitriões_da_copa_estão/",
+      "createdAt": "2026-06-10T17:29:59.612825+00:00",
+      "rawScore": 763.5393281774188,
+      "relevanceScore": 0.0053149698903408055,
+      "suggestedRadius": 40.37,
+      "imageUrl": "assets/images/reddit_1u20xqo_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u20xqo_uns_thumb.jpg",
+      "category": "esportes",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Como os três países anfitriões da copa estão recebendo os visitantes",
+          "url": "https://www.reddit.com/r/futebol/comments/1u20xqo/como_os_três_países_anfitriões_da_copa_estão/",
+          "subreddit": "futebol"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O evento é uma vitrine incrível para o Canadá! A organização está impecável e a hospitalidade do povo canadense vai impressionar todo mundo. É um baita impulso para o turismo e a economia local.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A Copa nos EUA e México? Sério isso? Enquanto a infraestrutura básica de tantos lugares está caindo aos pedaços, gastam rios de dinheiro com estádios e festas pra bilionários. Prioridades, gente!",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Três países organizando uma Copa? Parece complicado… Imagino a burocracia e os problemas de logística que vão surgir. Tomara que não vire um caos pra torcida e pras equipes.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "google/gemma-3-27b-it"
+    },
+    {
+      "id": "reddit_1u24il8",
+      "rank": 15,
+      "title": "Votem NÃO para o Projeto que isenta militares de pagarem imposto de renda, chega de privilégios!",
+      "label": "Isenção IR Militares · Privilégios Fiscais",
+      "context": "A Câmara dos Deputados vota um projeto de lei que isenta militares da União, estados e municípios do pagamento do Imposto de Renda. A proposta visa equiparar a situação dos militares à dos magistrados, que já possuem essa isenção.",
+      "source": "reddit",
+      "subreddit": "brasil",
+      "permalink": "https://www.reddit.com/r/brasil/comments/1u24il8/votem_não_para_o_projeto_que_isenta_militares_de/",
+      "createdAt": "2026-06-10T17:26:28.835120+00:00",
+      "rawScore": 745.867634251024,
+      "relevanceScore": 0.005190303299149002,
+      "suggestedRadius": 40.32,
+      "imageUrl": "assets/images/reddit_1u24il8_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u24il8_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Votem NÃO para o Projeto que isenta militares de pagarem imposto de renda, chega de privilegios!",
+          "url": "https://www.reddit.com/r/brasil/comments/1u24il8/votem_não_para_o_projeto_que_isenta_militares_de/",
+          "subreddit": "brasil"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo precisa reconhecer quem realmente defende essa nação! Esses militares arriscam a vida por nós, pagam com sangue e suor, e merecem essa isenção como um mínimo de respeito. Já chega de só pensar em direitos de bandidos e esquerdopatas!",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa isenção é a prova de que vivemos em um país de castas! Enquanto a população se mata por um salário mínimo, a elite militar e seus aliados continuam sugando o dinheiro público. É a perpetuação de um sistema opressor que beneficia poucos às custas de muitos.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A questão não é sobre 'merecimento', mas sobre princípios. Criar exceções fiscais distorce o mercado, gera injustiça e abre um precedente perigoso. Se queremos um país com regras claras, todos devem pagar impostos, sem privilégios para corporações.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "google/gemma-3-27b-it"
+    },
+    {
+      "id": "reddit_1u25f4i",
+      "rank": 16,
+      "title": "Taxas do Tesouro disparam, e economistas veem juros 'assustadores' na dívida pública",
+      "label": "Dívida Pública · Aumento das Taxas",
+      "context": "As taxas de juros dos títulos do Tesouro americano subiram rapidamente, atingindo níveis que não se viam há anos. Economistas alertam que esses juros elevados podem tornar a dívida pública dos EUA insustentável a longo prazo.",
+      "source": "reddit",
+      "subreddit": "investimentos",
+      "permalink": "https://www.reddit.com/r/investimentos/comments/1u25f4i/taxas_do_tesouro_disparam_e_economistas_veem/",
+      "createdAt": "2026-06-10T17:27:09.262419+00:00",
+      "rawScore": 696.1438849093577,
+      "relevanceScore": 0.004839522533166945,
+      "suggestedRadius": 40.17,
+      "imageUrl": "assets/images/reddit_1u25f4i_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u25f4i_uns_thumb.jpg",
+      "category": "economia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Taxas do Tesouro disparam, e economistas veem juros 'assustadores' na divida pública",
+          "url": "https://www.reddit.com/r/investimentos/comments/1u25f4i/taxas_do_tesouro_disparam_e_economistas_veem/",
+          "subreddit": "investimentos"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O mercado finalmente está cobrando um preço justo pelo risco da dívida americana! A irresponsabilidade fiscal dos últimos anos não pode ser ignorada, e esses juros altos são um sinal de que a festa acabou. Precisamos de responsabilidade!",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Esses juros 'assustadores' são só mais um golpe da elite financeira! Enquanto a gente se afoga em dívida, os bancos lucram alto com a nossa desgraça. Precisamos de controle de capital e taxar os ricos!",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Juros subindo? Que surpresa... A impressão que dá é que ninguém realmente se importa com a dívida até ela virar uma crise. Aposto que logo vão imprimir mais dinheiro pra 'resolver' o problema.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "google/gemma-3-27b-it"
+    },
+    {
+      "id": "reddit_1u27ev1",
+      "rank": 17,
+      "title": "Ideia legislativa: verificação de idade online no Brasil sem envio de dados",
+      "label": "Verificação de Idade · Privacidade Digital",
+      "context": "Uma proposta legislativa no Brasil busca criar um sistema de verificação de idade online que não exija o envio de documentos pessoais (RG, CPF) ou dados biométricos para empresas. O objetivo é permitir o acesso a conteúdos restritos por idade sem comprometer a privacidade dos usuários.",
+      "source": "reddit",
+      "subreddit": "brasil",
+      "permalink": "https://www.reddit.com/r/brasil/comments/1u27ev1/ideia_legislativa_uma_opção_de_verificação_de/",
+      "createdAt": "2026-06-10T17:25:28.835140+00:00",
+      "rawScore": 554.2459423945606,
+      "relevanceScore": 0.0038384904383303425,
+      "suggestedRadius": 39.72,
+      "imageUrl": "assets/images/reddit_1u27ev1_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u27ev1_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Ideia legislativa: uma opção de verificação de idade online no Brasil sem precisar enviar RG, CPF, selfie ou biometria para empresas",
+          "url": "https://www.reddit.com/r/brasil/comments/1u27ev1/ideia_legislativa_uma_opção_de_verificação_de/",
+          "subreddit": "brasil"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Essa proposta é um avanço! Finalmente, uma solução que protege a nossa privacidade online e permite que adultos acessem conteúdo sem burocracia. A gente não pode ficar entregando CPF e selfie pra qualquer site.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A empresa que vai ter que arcar com a responsabilidade se alguém mentir a idade e acessar algo inadequado? Isso é só mais uma forma de dificultar o controle e proteger quem não deveria ter acesso.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Sinceramente, fico imaginando como essa verificação sem dados vai funcionar na prática. Parece bom na teoria, mas a gente já viu tanta ideia parecida que não resolveu nada. Duvido que seja tão eficaz quanto prometem.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "google/gemma-3-27b-it"
+    },
+    {
+      "id": "reddit_1u276nz",
+      "rank": 18,
+      "title": "A XP quer trocar o CDI pelo IPCA como principal referência de longo prazo. Faz sentido?",
+      "label": "CDI x IPCA · Referência de Investimento",
+      "context": "A XP Investimentos propôs substituir o Certificado de Depósito Interbancário (CDI) pelo Índice de Preços ao Consumidor Amplo (IPCA) como principal referência para investimentos de longo prazo. A mudança visa alinhar os investimentos à inflação e proteger o poder de compra dos investidores.",
+      "source": "reddit",
+      "subreddit": "investimentos",
+      "permalink": "https://www.reddit.com/r/investimentos/comments/1u276nz/a_xp_quer_trocar_o_cdi_pelo_ipca_como_principal/",
+      "createdAt": "2026-06-10T17:26:09.262428+00:00",
+      "rawScore": 517.2966078816742,
+      "relevanceScore": 0.003577827957432171,
+      "suggestedRadius": 39.59,
+      "imageUrl": "assets/images/reddit_1u276nz_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u276nz_uns_thumb.jpg",
+      "category": "economia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "A XP quer trocar o CDI pelo IPCA como principal referência de longo prazo. Faz sentido?",
+          "url": "https://www.reddit.com/r/investimentos/comments/1u276nz/a_xp_quer_trocar_o_cdi_pelo_ipca_como_principal/",
+          "subreddit": "investimentos"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo sempre alertou sobre a armadilha do CDI! Essa XP finalmente acordou pra realidade, mas é tarde. O IPCA é a única forma de proteger o suor do trabalhador da inflação descontrolada que a esquerda sempre causou. Defender o CDI é ser cúmplice!",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A XP, essa instituição que só pensa em lucro, quer nos fazer acreditar que trocar um índice atrelado ao mercado financeiro por outro, o IPCA, resolve? É a mesma lógica exploradora! Precisamos de um sistema financeiro que não dependa da inflação, mas que garanta renda e direitos para todos, não só para os ricos.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Essa mudança da XP é um movimento natural. O CDI reflete a taxa de juros de curto prazo, enquanto o IPCA é mais adequado para objetivos de longo prazo, como aposentadoria. A diversificação de referências é sempre positiva para o mercado e para o investidor.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "google/gemma-3-27b-it"
+    },
+    {
+      "id": "reddit_1u256d9",
+      "rank": 19,
+      "title": "Nossa esperança não sabe nem treinar 🥲",
+      "label": "Seleção Brasileira · Falta de Preparo",
+      "context": "A frase se refere à seleção brasileira de futebol e à percepção de que o time não está bem preparado. A insatisfação surge em meio a expectativas para futuras competições e jogos importantes.",
+      "source": "reddit",
+      "subreddit": "futebol",
+      "permalink": "https://www.reddit.com/r/futebol/comments/1u256d9/nossa_esperança_não_sabe_nem_treinar/",
+      "createdAt": "2026-06-10T17:28:59.612843+00:00",
+      "rawScore": 497.24542439283005,
+      "relevanceScore": 0.0034363750381292877,
+      "suggestedRadius": 39.52,
+      "imageUrl": "assets/images/reddit_1u256d9_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u256d9_uns_thumb.jpg",
+      "category": "esportes",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Nossa esperança não sabe nem treinar 🥲",
+          "url": "https://www.reddit.com/r/futebol/comments/1u256d9/nossa_esperança_não_sabe_nem_treinar/",
+          "subreddit": "futebol"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O Dorival tá montando um time novo, galera! Precisamos ter paciência e dar tempo pra ele trabalhar. A base é boa, com jogadores talentosos, e o importante é acreditar no processo. Confio no potencial da nossa seleção!",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A CBF só pensa em dinheiro e não investe em treinamento de base decente! Querem lucrar com a camisa da seleção, mas não se importam com a qualidade do futebol. É sempre a mesma história: promessa e decepção.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Sinceramente, essa lamentação toda é previsível. A gente sempre espera milagres da seleção, mas esquecemos que futebol é um esporte coletivo e que resultados dependem de muito mais do que 'saber treinar'.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "google/gemma-3-27b-it"
+    },
+    {
+      "id": "reddit_1u24v5v",
+      "rank": 20,
+      "title": "Desespero da TV Band ontem. Estão \"preocupados\" com os trabalhadores 😭",
+      "label": "Band · Preocupação com Trabalhadores",
+      "context": "A TV Band expressou preocupação com os trabalhadores em uma publicação recente. A emissora utilizou um tom emocional, com emojis, ao abordar a situação, gerando reações diversas.",
+      "source": "reddit",
+      "subreddit": "brasil",
+      "permalink": "https://www.reddit.com/r/brasil/comments/1u24v5v/desespero_da_tv_band_ontem_estão_preocupados_com/",
+      "createdAt": "2026-06-10T17:24:28.835156+00:00",
+      "rawScore": 432.52248846380223,
+      "relevanceScore": 0.0029797811299388734,
+      "suggestedRadius": 39.28,
+      "imageUrl": "assets/images/reddit_1u24v5v_wiki.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u24v5v_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Desespero da TV Band ontem. Estão \"preocupados\" com os trabalhadores 😭",
+          "url": "https://www.reddit.com/r/brasil/comments/1u24v5v/desespero_da_tv_band_ontem_estão_preocupados_com/",
+          "subreddit": "brasil"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Band tá certíssima em dar voz a essa galera! Finalmente uma emissora que se importa com quem realmente faz o país girar, e não só com a elite. É bom ver que ainda tem gente que pensa fora da caixa.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa Band só quer palco pra si! Usar a imagem do trabalhador pra ganhar like é no mínimo oportunismo. Cadê a preocupação real, o investimento em programas que ajudem de verdade?",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Essa \"preocupação\" da Band cheira a marketing puro. A emissora tá tentando se posicionar como amiga do povo, mas no fim das contas, o que importa é a audiência e o faturamento. É só mais uma jogada.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "google/gemma-3-27b-it"
+    },
+    {
+      "id": "reddit_1u23yl9",
+      "rank": 21,
+      "title": "Tá chegando perto: Outro caso isolado da DIREITA",
+      "label": "Extrema-Direita · Casos Isolados",
+      "context": "Um comentarista online ironizou a frequência com que casos envolvendo a extrema-direita são descritos como “isolados”. A postagem original sugere um padrão de comportamento problemático dentro desse grupo político.",
+      "source": "reddit",
+      "subreddit": "noticias",
+      "permalink": "https://www.reddit.com/r/Noticias/comments/1u23yl9/tá_chegando_perto_outro_caso_isolado_da_direita/",
+      "createdAt": "2026-06-10T17:29:37.512473+00:00",
+      "rawScore": 141761.77500000002,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/reddit_1u23yl9_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u23yl9_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Tá chegando perto: Outro caso isolado da DIREITA",
+          "url": "https://www.reddit.com/r/Noticias/comments/1u23yl9/tá_chegando_perto_outro_caso_isolado_da_direita/",
+          "subreddit": "noticias"
+        },
+        {
+          "title": "Direita: Mais um caso isolado que acontece sempre",
+          "url": "https://www.reddit.com/r/Noticias/comments/1tza1i0/direita_mais_um_caso_isolado_que_acontece_sempre/",
+          "subreddit": "noticias"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Essa galera de esquerda tá obcecada em demonizar quem pensa diferente! Se um cara faz algo errado, é problema dele, não da ideologia. Ficam criando narrativa de 'caso isolado' pra tentar colar a culpa no movimento inteiro.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A desculpa do 'caso isolado' já virou piada! É sempre a mesma coisa: alguém ligado à direita radical faz alguma barbaridade, e a gente ouve que é 'um indivíduo problemático', que não representa o grupo. Que hipocrisia!",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Sinceramente, essa mania de rotular tudo como 'caso isolado' ou 'reflexo de um sistema' cansa. Cada situação é única, e tentar encaixar em narrativas pré-fabricadas só dificulta a discussão. O importante é analisar os fatos, sem preconceitos.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "google/gemma-3-27b-it"
     },
     {
       "id": "reddit_1u0wm5a",
-      "rank": 21,
+      "rank": 22,
       "title": "Índia tem 12 ogivas nucleares implantadas",
       "label": "Deslocamento estratégico na Ásia",
       "context": "A Índia implantou 12 ogivas nucleares, o que pode alterar o equilíbrio estratégico na Ásia. Este movimento pode ter implicações significativas para a segurança regional e as relações internacionais.",
       "source": "reddit",
       "subreddit": "geopolitica",
       "permalink": "https://www.reddit.com/r/geopolitica/comments/1u0wm5a/indias_12_deployed_nuclear_warheads_a_quiet_shift/",
-      "createdAt": "2026-06-09T21:29:31.656473+00:00",
+      "createdAt": "2026-06-10T17:29:47.497660+00:00",
       "rawScore": 141761.77500000002,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
@@ -730,14 +1148,14 @@
     },
     {
       "id": "reddit_1ty74m3",
-      "rank": 22,
+      "rank": 23,
       "title": "Neam Saturat De Voi",
       "label": "Protesto político",
       "context": "Um grupo de manifestantes realizou um protesto político em uma cidade não especificada. O protesto parece ter sido motivado por uma insatisfação geral com a situação política atual.",
       "source": "reddit",
       "subreddit": "politica",
       "permalink": "https://www.reddit.com/r/politica/comments/1ty74m3/neamsaturatdevoi/",
-      "createdAt": "2026-06-09T21:29:40.510813+00:00",
+      "createdAt": "2026-06-10T17:29:59.384959+00:00",
       "rawScore": 141761.77500000002,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
@@ -778,48 +1196,48 @@
       "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     },
     {
-      "id": "reddit_1rz5o8g",
-      "rank": 23,
-      "title": "Novo Moderador Selecionado",
-      "label": "Moderador · Investimentos",
-      "context": "Um novo moderador foi escolhido para a comunidade de investimentos. A seleção do novo moderador pode afetar a dinâmica e a qualidade das discussões na comunidade.",
+      "id": "reddit_1sn2bz7",
+      "rank": 24,
+      "title": "Economia procura moderadores",
+      "label": "Economia · Moderadores",
+      "context": "A comunidade de economia está procurando por novos moderadores. Isso é importante porque a moderação ajuda a manter a qualidade e a relevância das discussões na comunidade.",
       "source": "reddit",
-      "subreddit": "investimentos",
-      "permalink": "https://www.reddit.com/r/investimentos/comments/1rz5o8g/novo_moderador_seleção/",
-      "createdAt": "2026-06-09T21:29:48.677774+00:00",
+      "subreddit": "economia",
+      "permalink": "https://www.reddit.com/r/Economia/comments/1sn2bz7/reconomia_procura_moderadores/",
+      "createdAt": "2026-06-10T17:30:17.966280+00:00",
       "rawScore": 132310.99,
-      "relevanceScore": 0.9333316823479104,
+      "relevanceScore": 0.933328567428567,
       "suggestedRadius": 93.97,
-      "imageUrl": "assets/images/reddit_1rz5o8g_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1rz5o8g_uns_thumb.jpg",
+      "imageUrl": "assets/images/reddit_1sn2bz7_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1sn2bz7_uns_thumb.jpg",
       "category": "economia",
       "region": "brasil",
       "sources": [
         {
-          "title": "Novo moderador (seleção)",
-          "url": "https://www.reddit.com/r/investimentos/comments/1rz5o8g/novo_moderador_seleção/",
-          "subreddit": "investimentos"
+          "title": "r/Economia procura moderadores",
+          "url": "https://www.reddit.com/r/Economia/comments/1sn2bz7/reconomia_procura_moderadores/",
+          "subreddit": "economia"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O novo moderador traz uma perspectiva fresca e pode melhorar a experiência dos usuários.",
+          "text": "A comunidade de economia precisa de mais moderadores para manter as discussões produtivas e focadas.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A escolha do novo moderador parece arbitrária e pode levar a uma perda de confiança na comunidade.",
+          "text": "Procurar moderadores pode ser um sinal de que a comunidade está perdendo o controle sobre as discussões.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Vamos esperar para ver como o novo moderador se sai, afinal, a prova está no pudding.",
+          "text": "A procura por moderadores é um passo necessário, mas também é importante garantir que os novos moderadores sejam imparciais e conhecedores do assunto.",
           "source": "reddit",
           "votes": 0
         }
@@ -828,19 +1246,19 @@
     },
     {
       "id": "reddit_rfypcd",
-      "rank": 24,
+      "rank": 25,
       "title": "Investir No Exterior",
       "label": "Investimento Internacional",
       "context": "O investimento no exterior pode ser uma opção para diversificar a carteira de investimentos. Isso pode ser feito através de ações, títulos ou outros ativos financeiros de empresas estrangeiras.",
       "source": "reddit",
       "subreddit": "financas",
       "permalink": "https://www.reddit.com/r/financas/comments/rfypcd/como_investir_no_exterior_mundo_financeiro/",
-      "createdAt": "2026-06-09T21:30:04.037585+00:00",
+      "createdAt": "2026-06-10T17:30:25.335331+00:00",
       "rawScore": 132310.99,
-      "relevanceScore": 0.9333316823479104,
+      "relevanceScore": 0.933328567428567,
       "suggestedRadius": 93.97,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "imageUrl": "assets/images/reddit_rfypcd_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_rfypcd_uns_thumb.jpg",
       "category": "economia",
       "region": "brasil",
       "sources": [
@@ -880,19 +1298,19 @@
     },
     {
       "id": "reddit_1jj6nix",
-      "rank": 25,
+      "rank": 26,
       "title": "Qual foi o fenômeno científico que mais surpreendeu",
       "label": "Descobertas científicas surpreendentes",
       "context": "Pessoas compartilham suas surpresas com conceitos científicos. O fenômeno científico que mais surpreendeu é um tema de discussão. A surpresa vem de descobertas inesperadas.",
       "source": "reddit",
       "subreddit": "ciencia",
       "permalink": "https://www.reddit.com/r/ciencia/comments/1jj6nix/que_fue_el_fenómeno_o_concepto_científico_que_mas/",
-      "createdAt": "2026-06-09T21:30:35.273981+00:00",
+      "createdAt": "2026-06-10T17:31:07.436080+00:00",
       "rawScore": 122860.20500000002,
-      "relevanceScore": 0.8666633646958212,
+      "relevanceScore": 0.8666571348571342,
       "suggestedRadius": 91.86,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "imageUrl": "assets/images/reddit_1jj6nix_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1jj6nix_uns_thumb.jpg",
       "category": "ciencia",
       "region": "brasil",
       "sources": [
@@ -931,17 +1349,167 @@
       "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     },
     {
+      "id": "reddit_10uafai",
+      "rank": 27,
+      "title": "¡Bienvenidos al sub de r/fisica en español! Ya somos más de 20k [¡nuevos user flair!]",
+      "label": "Física · Crescimento Comunidade Hispânica",
+      "context": "O subreddit r/fisica em espanhol atingiu 20 mil membros, celebrando o marco com novos recursos de identificação de usuários (user flair). Este crescimento indica um aumento do interesse pela física na comunidade de língua espanhola online.",
+      "source": "reddit",
+      "subreddit": "fisica",
+      "permalink": "https://www.reddit.com/r/fisica/comments/10uafai/bienvenidos_al_sub_de_rfisica_en_español_ya_somos/",
+      "createdAt": "2026-06-10T17:31:15.831180+00:00",
+      "rawScore": 122860.20500000002,
+      "relevanceScore": 0.8666571348571342,
+      "suggestedRadius": 91.86,
+      "imageUrl": "assets/images/reddit_10uafai_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_10uafai_uns_thumb.jpg",
+      "category": "ciencia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "¡Bienvenidos al sub de r/fisica en español! Ya somos más de 20k [¡nuevos user flair!]",
+          "url": "https://www.reddit.com/r/fisica/comments/10uafai/bienvenidos_al_sub_de_rfisica_en_español_ya_somos/",
+          "subreddit": "fisica"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Essa comunidade crescendo mostra que o povo hispânico valoriza o conhecimento científico e a busca pela verdade! É um sinal de que nossa cultura não se rende ao obscurantismo e à ideologia vazia que tentam impor.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Mais um espaço online dominado por uma elite intelectual que ignora as necessidades reais da população. Enquanto discutem física quântica, a maioria luta pra ter acesso à educação básica e a ciência a serviço do capital.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O aumento da comunidade r/fisica em espanhol demonstra a importância de plataformas online para a disseminação do conhecimento científico. A facilidade de acesso e a troca de ideias são cruciais para o avanço da ciência.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "google/gemma-3-27b-it"
+    },
+    {
+      "id": "reddit_1gh03o5",
+      "rank": 28,
+      "title": "Bem-vindos ao r/biologia! 🌱🧬",
+      "label": "r/biologia · Comunidade online de biólogos",
+      "context": "O subreddit r/biologia é uma comunidade online dedicada à discussão e compartilhamento de informações sobre biologia. Ele serve como um espaço para entusiastas, estudantes e profissionais da área trocarem conhecimentos e se manterem atualizados sobre as últimas descobertas.",
+      "source": "reddit",
+      "subreddit": "biologia",
+      "permalink": "https://www.reddit.com/r/biologia/comments/1gh03o5/bemvindos_ao_rbiologia/",
+      "createdAt": "2026-06-10T17:31:25.118156+00:00",
+      "rawScore": 122860.20500000002,
+      "relevanceScore": 0.8666571348571342,
+      "suggestedRadius": 91.86,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "ciencia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Bem-vindos ao r/biologia! 🌱🧬",
+          "url": "https://www.reddit.com/r/biologia/comments/1gh03o5/bemvindos_ao_rbiologia/",
+          "subreddit": "biologia"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Finalmente um lugar na internet onde a ciência é levada a sério! A biologia é a chave para entendermos a vida e resolver os maiores desafios da humanidade, e ver tanta gente engajada é inspirador.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Sinceramente, fico preocupado com a quantidade de gente que usa a biologia pra justificar preconceitos. A ciência é neutra, mas a interpretação dela nem sempre é, e a gente precisa ficar de olho.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Essa galera do r/biologia é mó nerd, mas faz sentido. Biologia é complexa, cheia de detalhes e discussões infinitas. No fim das contas, é só mais um grupo de gente apaixonada pelo que faz.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "google/gemma-3-27b-it"
+    },
+    {
+      "id": "reddit_1pgkneq",
+      "rank": 29,
+      "title": "¡Ya somos 5000!",
+      "label": "",
+      "context": "",
+      "source": "reddit",
+      "subreddit": "astronomia",
+      "permalink": "https://www.reddit.com/r/astronomia/comments/1pgkneq/ya_somos_5000/",
+      "createdAt": "2026-06-10T17:31:33.723293+00:00",
+      "rawScore": 122860.20500000002,
+      "relevanceScore": 0.8666571348571342,
+      "suggestedRadius": 91.86,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "ciencia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "¡Ya somos 5000!",
+          "url": "https://www.reddit.com/r/astronomia/comments/1pgkneq/ya_somos_5000/",
+          "subreddit": "astronomia"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Há quem defenda essa medida como necessária.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Outros criticam e veem riscos ou consequências negativas.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Também há quem prefira esperar mais informações antes de concluir.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "google/gemma-3-27b-it"
+    },
+    {
       "id": "reddit_1u0l2n3",
-      "rank": 26,
+      "rank": 30,
       "title": "Psicologia realmente ajuda as pessoas?",
       "label": "Eficácia da Psicologia",
       "context": "A psicologia é uma área da saúde que busca entender e tratar problemas mentais e emocionais. A eficácia da psicologia em ajudar as pessoas é um tema de debate.",
       "source": "reddit",
       "subreddit": "saudemental",
       "permalink": "https://www.reddit.com/r/saudemental/comments/1u0l2n3/psicologia_realmente_ajuda_as_pessoas_você_já_foi/",
-      "createdAt": "2026-06-09T21:31:06.600444+00:00",
+      "createdAt": "2026-06-10T17:31:42.449836+00:00",
       "rawScore": 122860.20500000002,
-      "relevanceScore": 0.8666633646958212,
+      "relevanceScore": 0.8666571348571342,
       "suggestedRadius": 91.86,
       "imageUrl": "assets/images/reddit_1u0l2n3_uns.jpg",
       "imageThumbUrl": "assets/images/reddit_1u0l2n3_uns_thumb.jpg",
@@ -981,16 +1549,16 @@
     },
     {
       "id": "reddit_1kcyy3h",
-      "rank": 27,
+      "rank": 31,
       "title": "Buscamos Moderadores Nativos em Espanhol",
       "label": "Moderadores em Espanhol",
       "context": "A equipe do subreddit de medicina está procurando por moderadores nativos em espanhol para ajudar a gerenciar a comunidade. Isso é importante para garantir que os usuários possam compartilhar e discutir informações de saúde de forma clara e precisa.",
       "source": "reddit",
       "subreddit": "medicina",
       "permalink": "https://www.reddit.com/r/Medicina/comments/1kcyy3h/buscamos_moderadores_nativos_en_español/",
-      "createdAt": "2026-06-09T21:31:14.535856+00:00",
+      "createdAt": "2026-06-10T17:31:51.150734+00:00",
       "rawScore": 122860.20500000002,
-      "relevanceScore": 0.8666633646958212,
+      "relevanceScore": 0.8666571348571342,
       "suggestedRadius": 91.86,
       "imageUrl": "assets/images/reddit_1kcyy3h_uns.jpg",
       "imageThumbUrl": "assets/images/reddit_1kcyy3h_uns_thumb.jpg",
@@ -1030,16 +1598,16 @@
     },
     {
       "id": "reddit_1s57jsb",
-      "rank": 28,
+      "rank": 32,
       "title": "Moderação sobre temas recorrentes",
       "label": "Regras da comunidade · Moderação",
       "context": "A moderação do subreddit brdev está discutindo temas recorrentes e conteúdo de baixo esforço. A comunidade está sendo informada sobre as regras e expectativas para manter a qualidade do conteúdo.",
       "source": "reddit",
       "subreddit": "brdev",
       "permalink": "https://www.reddit.com/r/brdev/comments/1s57jsb/moderação_sobre_temas_recorrentes_e_conteúdo_de/",
-      "createdAt": "2026-06-09T21:30:12.475750+00:00",
+      "createdAt": "2026-06-10T17:30:35.294840+00:00",
       "rawScore": 113409.42,
-      "relevanceScore": 0.7999950470437317,
+      "relevanceScore": 0.7999857022857012,
       "suggestedRadius": 89.67,
       "imageUrl": "assets/images/reddit_1s57jsb_uns.jpg",
       "imageThumbUrl": "assets/images/reddit_1s57jsb_uns_thumb.jpg",
@@ -1078,26 +1646,26 @@
       "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     },
     {
-      "id": "reddit_1u15gvh",
-      "rank": 29,
-      "title": "Maior mentira ao começar a programar",
-      "label": "Mentiras na programação",
-      "context": "Muitas pessoas começam a programar com ideias pré-concebidas. Isso pode afetar a forma como elas aprendem e se desenvolvem como programadoras. A crença em 'mentiras' pode influenciar a percepção do que é possível ou não na programação.",
+      "id": "reddit_1u25xof",
+      "rank": 33,
+      "title": "Qual desses notebooks abaixo é melhor para um dev iniciante?",
+      "label": "Notebooks · Iniciantes em Programação",
+      "context": "Um desenvolvedor iniciante busca recomendações sobre qual notebook comprar. A escolha de um bom equipamento é crucial para o aprendizado e a produtividade na área de programação.",
       "source": "reddit",
       "subreddit": "programacao",
-      "permalink": "https://www.reddit.com/r/programacao/comments/1u15gvh/qual_foi_a_maior_mentira_que_você_acreditou/",
-      "createdAt": "2026-06-09T21:30:20.108740+00:00",
+      "permalink": "https://www.reddit.com/r/programacao/comments/1u25xof/qual_desses_notebooks_abaixo_é_melhor_para_um_dev/",
+      "createdAt": "2026-06-10T17:30:48.797678+00:00",
       "rawScore": 113409.42,
-      "relevanceScore": 0.7999950470437317,
+      "relevanceScore": 0.7999857022857012,
       "suggestedRadius": 89.67,
-      "imageUrl": "assets/images/reddit_1u15gvh_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1u15gvh_uns_thumb.jpg",
+      "imageUrl": "assets/images/reddit_1u25xof_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u25xof_uns_thumb.jpg",
       "category": "tech",
       "region": "brasil",
       "sources": [
         {
-          "title": "Qual foi a maior \"mentira\" que você acreditou quando começou a programar?",
-          "url": "https://www.reddit.com/r/programacao/comments/1u15gvh/qual_foi_a_maior_mentira_que_você_acreditou/",
+          "title": "Qual desses notebooks abaixo é melhor para um dev iniciante?",
+          "url": "https://www.reddit.com/r/programacao/comments/1u25xof/qual_desses_notebooks_abaixo_é_melhor_para_um_dev/",
           "subreddit": "programacao"
         }
       ],
@@ -1105,69 +1673,61 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A empresa deve focar em ensinar os fundamentos corretos desde o início, sem deixar espaço para 'mentiras' que podem confundir os iniciantes.",
+          "text": "Cara, se liga: pra quem tá começando, um MacBook Air com chip M1 é imbatível. Roda liso, tem bateria que dura o dia todo e o sistema é super amigável. Vale cada centavo, te garanto!",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
+          "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O sistema educacional é falho e permite que essas 'mentiras' sejam perpetuadas, mantendo os programadores iniciantes na ignorância.",
+          "text": "Macbook? Sério? Pra programar? Só se for pra ostentar! Um Dell XPS com Linux instalado te dá o mesmo desempenho por metade do preço, e ainda te dá liberdade de customização.",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
+          "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "É importante que as comunidades de programação promovam a discussão aberta sobre essas 'mentiras' para esclarecer dúvidas e melhorar a compreensão geral.",
+          "text": "A real é que o 'melhor' notebook depende do que você vai programar. Pra web, qualquer um serve. Pra jogos ou IA, aí a história muda. Focar em RAM e SSD é mais importante que marca.",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
+          "votes": 0
         }
       ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+      "enrichedBy": "google/gemma-3-27b-it"
     },
     {
-      "id": "reddit_1u1h68a",
-      "rank": 30,
-      "title": "União Europeia apresenta plano para reduzir dependência tecnológica",
-      "label": "Plano de independência tecnológica da UE",
-      "context": "A União Europeia apresentou um plano para reduzir sua dependência tecnológica dos Estados Unidos e da Ásia. Isso é importante porque a dependência tecnológica pode afetar a soberania e a segurança da UE.",
+      "id": "reddit_1u24jx0",
+      "rank": 34,
+      "title": "A computação quântica pode resolver problemas reais de logística hoje?",
+      "label": "Computação Quântica · Logística",
+      "context": "Uma discussão surgiu sobre a capacidade da computação quântica (tecnologia que explora fenômenos da física quântica) de solucionar desafios logísticos atuais. A questão central é se os benefícios teóricos se traduzem em aplicações práticas e econômicas no presente.",
       "source": "reddit",
       "subreddit": "tecnologia",
-      "permalink": "https://www.reddit.com/r/Tecnologia/comments/1u1h68a/la_unión_europea_presenta_un_plan_para_reducir_su/",
-      "createdAt": "2026-06-09T21:30:27.704293+00:00",
+      "permalink": "https://www.reddit.com/r/Tecnologia/comments/1u24jx0/la_computación_cuántica_puede_resolver_problemas/",
+      "createdAt": "2026-06-10T17:30:58.889145+00:00",
       "rawScore": 113409.42,
-      "relevanceScore": 0.7999950470437317,
+      "relevanceScore": 0.7999857022857012,
       "suggestedRadius": 89.67,
-      "imageUrl": "assets/images/reddit_1u1h68a_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1u1h68a_uns_thumb.jpg",
+      "imageUrl": "assets/images/reddit_1u24jx0_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u24jx0_uns_thumb.jpg",
       "category": "tech",
       "region": "brasil",
       "sources": [
         {
-          "title": "La Unión Europea presenta un plan para reducir su dependencia tecnológica de Estados Unidos y Asia",
-          "url": "https://www.reddit.com/r/Tecnologia/comments/1u1h68a/la_unión_europea_presenta_un_plan_para_reducir_su/",
+          "title": "🚀 ¿La computación cuántica puede resolver problemas reales de logística hoy?",
+          "url": "https://www.reddit.com/r/Tecnologia/comments/1u24jx0/la_computación_cuántica_puede_resolver_problemas/",
           "subreddit": "tecnologia"
         },
         {
-          "title": "Irã poderá entrar nos Estados Unidos na véspera dos jogos da Copa do Mundo",
-          "url": "https://www.reddit.com/r/futebol/comments/1u1dgm2/irã_poderá_entrar_nos_estados_unidos_na_véspera/",
-          "subreddit": "futebol"
-        },
-        {
-          "title": "Seleção do Senegal é revistada ainda na pista do aeroporto ao chegar nos Estados Unidos; VÍDEO",
-          "url": "https://www.reddit.com/r/futebol/comments/1u18xsa/seleção_do_senegal_é_revistada_ainda_na_pista_do/",
-          "subreddit": "futebol"
+          "title": "Los problemas REALES que harían fracasar una colonia en Marte",
+          "url": "https://www.reddit.com/r/astronomia/comments/1twdkob/los_problemas_reales_que_harían_fracasar_una/",
+          "subreddit": "astronomia"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A União Europeia finalmente está tomando medidas para proteger nossa soberania tecnológica e não depender mais dos EUA e da Ásia.",
+          "text": "O Brasil precisa investir pesado em computação quântica AGORA! Enquanto a China e os EUA avançam, ficamos para trás. Essa tecnologia vai garantir nossa soberania e competitividade, e a logística é só o começo. Não podemos depender de tecnologia estrangeira!",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -1175,7 +1735,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Esse plano é apenas mais uma tentativa da UE de manter seu poder e controle sobre a tecnologia, ignorando as necessidades dos trabalhadores e dos cidadãos comuns.",
+          "text": "Falam em 'resolver' a logística, mas quem se beneficia? Sempre os mesmos! A computação quântica vai otimizar a exploração dos trabalhadores, aumentar a eficiência da exploração e a concentração de riqueza. É só mais uma ferramenta do capitalismo predatório.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -1183,26 +1743,26 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A iniciativa da UE para reduzir sua dependência tecnológica é um passo importante para promover a inovação e a competitividade na região, mas é crucial garantir que isso seja feito de forma justa e transparente.",
+          "text": "A aplicação da computação quântica na logística enfrenta barreiras significativas de escalabilidade e custo. Embora promissora, a tecnologia ainda está em fase inicial e requer investimentos em infraestrutura e desenvolvimento de algoritmos para se tornar viável economicamente.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
         }
       ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+      "enrichedBy": "google/gemma-3-27b-it"
     },
     {
       "id": "reddit_1sfxs4w",
-      "rank": 31,
+      "rank": 35,
       "title": "Homens pilotam scooter no dia a dia",
       "label": "Scooter no dia a dia",
       "context": "Homens estão usando scooters como meio de transporte no dia a dia. Isso tem gerado discussões sobre a percepção da masculinidade e a prática de esportes.",
       "source": "reddit",
       "subreddit": "esportes",
       "permalink": "https://www.reddit.com/r/esportes/comments/1sfxs4w/diga_aí_mulheres_o_que_vocês_acham_de_homens_que/",
-      "createdAt": "2026-06-09T21:31:29.109203+00:00",
+      "createdAt": "2026-06-10T17:32:08.542540+00:00",
       "rawScore": 94507.85,
-      "relevanceScore": 0.666658411739553,
+      "relevanceScore": 0.6666428371428357,
       "suggestedRadius": 84.99,
       "imageUrl": "assets/images/reddit_1sfxs4w_uns.jpg",
       "imageThumbUrl": "assets/images/reddit_1sfxs4w_uns_thumb.jpg",
@@ -1245,16 +1805,16 @@
     },
     {
       "id": "reddit_https://www.reddit.com/subreddits/t5_2pbz9z",
-      "rank": 32,
+      "rank": 36,
       "title": "Podcast Cinebros",
       "label": "Cinebros Podcast",
       "context": "O podcast Cinebros tem um subreddit oficial. O subreddit serve como um espaço para discussões sobre o podcast e seus temas relacionados.",
       "source": "reddit",
       "subreddit": "cinebr",
       "permalink": "https://www.reddit.com/r/cinebrospodcast/",
-      "createdAt": "2026-06-09T21:31:36.127519+00:00",
+      "createdAt": "2026-06-10T17:32:16.600057+00:00",
       "rawScore": 56704.71,
-      "relevanceScore": 0.39998514113119543,
+      "relevanceScore": 0.39995710685710434,
       "suggestedRadius": 73.95,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
@@ -1294,16 +1854,16 @@
     },
     {
       "id": "reddit_1tztczq",
-      "rank": 33,
+      "rank": 37,
       "title": "Músicas sobre envelhecer",
       "label": "Músicas · Envelhecer",
       "context": "Dezenas de membros do sub musicabr criaram uma coletânea colaborativa com mais de 100 músicas sobre o tema envelhecer. Essa coletânea é um exemplo de como a música pode ser usada para explorar e refletir sobre a experiência humana do envelhecimento.",
       "source": "reddit",
       "subreddit": "musicabr",
       "permalink": "https://www.reddit.com/r/MusicaBR/comments/1tztczq/mais_de_100_músicas_sobre_o_tema_envelhecer/",
-      "createdAt": "2026-06-09T21:31:50.554526+00:00",
+      "createdAt": "2026-06-10T17:32:32.713656+00:00",
       "rawScore": 56704.71,
-      "relevanceScore": 0.39998514113119543,
+      "relevanceScore": 0.39995710685710434,
       "suggestedRadius": 73.95,
       "imageUrl": "assets/images/reddit_1tztczq_uns.jpg",
       "imageThumbUrl": "assets/images/reddit_1tztczq_uns_thumb.jpg",
@@ -1342,18 +1902,119 @@
       "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     },
     {
+      "id": "reddit_wl764l",
+      "rank": 38,
+      "title": "O que acontece com o rosado ou rosa? Não existe?",
+      "label": "Cor rosada · Desaparecimento",
+      "context": "A pergunta sobre o que acontece com o rosado ou rosa foi levantada, questionando sua existência. Isso pode ser relevante para discussões sobre cores, design e percepção visual.",
+      "source": "reddit",
+      "subreddit": "curiosidades",
+      "permalink": "https://www.reddit.com/r/curiosidades/comments/wl764l/qué_sucede_con_el_rosado_o_rosa_no_existe/",
+      "createdAt": "2026-06-10T17:32:41.458805+00:00",
+      "rawScore": 47253.925,
+      "relevanceScore": 0.3332856742856715,
+      "suggestedRadius": 70.64,
+      "imageUrl": "assets/images/reddit_wl764l_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_wl764l_uns_thumb.jpg",
+      "category": "viral",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "¿Qué Sucede con el Rosado o Rosa? ¿No Existe?",
+          "url": "https://www.reddit.com/r/curiosidades/comments/wl764l/qué_sucede_con_el_rosado_o_rosa_no_existe/",
+          "subreddit": "curiosidades"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A cor rosada é linda e sempre existirá na moda e no design.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O rosado está desaparecendo das nossas vidas, é uma cor esquecida.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Talvez a pergunta deva ser sobre por que nos importamos tanto com a existência de uma cor específica.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1twf4qd",
+      "rank": 39,
+      "title": "Não esqueçamos quem se opôs ao armamento do Exército Romeno",
+      "label": "Oposição ao armamento do Exército Romeno",
+      "context": "O governo romeno enfrenta oposição ao armamento do Exército Romeno. Isso pode afetar a segurança nacional do país.",
+      "source": "reddit",
+      "subreddit": "politica",
+      "permalink": "https://www.reddit.com/r/politica/comments/1twf4qd/să_nu_uităm_cine_sa_opus_mereu_înzestrării/",
+      "createdAt": "2026-06-10T17:28:59.384984+00:00",
+      "rawScore": 2310.775540360709,
+      "relevanceScore": 0.01623009014677002,
+      "suggestedRadius": 43.64,
+      "imageUrl": "assets/images/reddit_1twf4qd_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1twf4qd_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Să nu uităm cine s-a opus mereu înzestrării Armatei Române",
+          "url": "https://www.reddit.com/r/politica/comments/1twf4qd/să_nu_uităm_cine_sa_opus_mereu_înzestrării/",
+          "subreddit": "politica"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo deve priorizar a segurança nacional e armar o Exército Romeno, não importa o custo.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A oposição ao armamento do Exército Romeno é justificada, pois o dinheiro poderia ser gasto em educação e saúde.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A decisão de armar o Exército Romeno deve ser baseada em uma avaliação cuidadosa das necessidades de segurança nacional e dos recursos disponíveis.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
       "id": "reddit_1tvs3dd",
-      "rank": 34,
+      "rank": 40,
       "title": "Redes de Condução Telúrica e Alternativas de Emição Não Ionizante",
       "label": "Energia · Alternativas",
       "context": "A condução telúrica refere-se ao transporte de energia elétrica através de condutores subterrâneos, uma tecnologia que pode ser mais segura e menos impactante visualmente. A busca por alternativas de emissão não ionizante é crucial para reduzir os impactos ambientais.",
       "source": "reddit",
       "subreddit": "geopolitica",
       "permalink": "https://www.reddit.com/r/geopolitica/comments/1tvs3dd/redes_de_conducción_telúrica_y_alternativas_de/",
-      "createdAt": "2026-06-09T21:28:31.656487+00:00",
-      "rawScore": 2310.7751748808073,
-      "relevanceScore": 0.01627604974163444,
-      "suggestedRadius": 43.65,
+      "createdAt": "2026-06-10T17:28:47.497776+00:00",
+      "rawScore": 2310.6444319012458,
+      "relevanceScore": 0.016229165230076364,
+      "suggestedRadius": 43.64,
       "imageUrl": "assets/images/reddit_1tvs3dd_uns.jpg",
       "imageThumbUrl": "assets/images/reddit_1tvs3dd_uns_thumb.jpg",
       "category": "geopolitica",
@@ -1391,48 +2052,97 @@
       "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     },
     {
-      "id": "reddit_8ukd9e",
-      "rank": 35,
-      "title": "Passo a passo de investimentos",
-      "label": "Investimentos passo a passo",
-      "context": "O guia de investimentos oferece um passo a passo para iniciantes. Isso importa porque muitas pessoas buscam investir seu dinheiro de forma segura e rentável.",
+      "id": "reddit_1u27mqc",
+      "rank": 41,
+      "title": "Deputado manda colega \"à merda\" em discussão sobre maioridade penal",
+      "label": "Maioridade Penal · Debate Parlamentar",
+      "context": "Um deputado federal insultou um colega durante um debate na Câmara dos Deputados sobre a redução da maioridade penal. A agressão verbal ocorreu em meio a discussões acaloradas sobre a proposta de emenda à Constituição que altera a idade mínima para responsabilização penal.",
       "source": "reddit",
-      "subreddit": "investimentos",
-      "permalink": "https://www.reddit.com/r/investimentos/comments/8ukd9e/passo_a_passo_de_investimentos/",
-      "createdAt": "2026-06-09T21:28:48.677786+00:00",
-      "rawScore": 2156.730259172091,
-      "relevanceScore": 0.015189376478708869,
-      "suggestedRadius": 43.39,
-      "imageUrl": "assets/images/reddit_8ukd9e_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_8ukd9e_uns_thumb.jpg",
-      "category": "economia",
+      "subreddit": "noticias",
+      "permalink": "https://www.reddit.com/r/Noticias/comments/1u27mqc/deputado_manda_colega_à_merda_em_discussão_sobre/",
+      "createdAt": "2026-06-10T17:28:37.512523+00:00",
+      "rawScore": 2310.4470756256483,
+      "relevanceScore": 0.016227772962066768,
+      "suggestedRadius": 43.64,
+      "imageUrl": "assets/images/reddit_1u27mqc_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u27mqc_uns_thumb.jpg",
+      "category": "geopolitica",
       "region": "brasil",
       "sources": [
         {
-          "title": "Passo a passo de investimentos",
-          "url": "https://www.reddit.com/r/investimentos/comments/8ukd9e/passo_a_passo_de_investimentos/",
-          "subreddit": "investimentos"
+          "title": "Deputado manda colega \"à merda\" em discussão sobre maioridade penal",
+          "url": "https://www.reddit.com/r/Noticias/comments/1u27mqc/deputado_manda_colega_à_merda_em_discussão_sobre/",
+          "subreddit": "noticias"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O governo deve incentivar mais a educação financeira para que as pessoas possam investir com segurança.",
+          "text": "Esse deputado tem razão em perder a paciência! A bandidagem não respeita idade, então por que a lei deveria? Precisamos de punição severa pra essa moleza acabar e a segurança voltar.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Quem paga a conta são os investidores iniciantes que não têm conhecimento suficiente para evitar perdas.",
+          "text": "A violência no Congresso é um reflexo da violência que a gente enfrenta na rua! Em vez de resolver os problemas sociais, esses caras brigam e ofendem, defendendo só os interesses dos ricos.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A empresa de investimentos deve ser transparente sobre os riscos e benefícios para que os investidores possam tomar decisões informadas.",
+          "text": "Sério que a gente tá discutindo a maioridade penal enquanto o sistema prisional tá superlotado e a reabilitação é zero? Parece que o objetivo é só mostrar que 'tá fazendo alguma coisa', sem resolver nada.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "google/gemma-3-27b-it"
+    },
+    {
+      "id": "reddit_qd6n8z",
+      "rank": 42,
+      "title": "Cálculo estimado de Lucro",
+      "label": "Lucro · Estimativa",
+      "context": "O cálculo estimado de lucro é uma ferramenta usada para prever ganhos financeiros. Isso importa porque ajuda empresas e investidores a tomar decisões informadas sobre investimentos e alocação de recursos.",
+      "source": "reddit",
+      "subreddit": "financas",
+      "permalink": "https://www.reddit.com/r/financas/comments/qd6n8z/cálculo_estimado_de_lucro/",
+      "createdAt": "2026-06-10T17:29:25.335342+00:00",
+      "rawScore": 2156.731427497321,
+      "relevanceScore": 0.015143371775354568,
+      "suggestedRadius": 43.38,
+      "imageUrl": "assets/images/reddit_qd6n8z_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_qd6n8z_uns_thumb.jpg",
+      "category": "economia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Cálculo estimado de Lucro",
+          "url": "https://www.reddit.com/r/financas/comments/qd6n8z/cálculo_estimado_de_lucro/",
+          "subreddit": "financas"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O cálculo estimado de lucro é essencial para qualquer negócio, pois permite planejar o futuro com segurança.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O cálculo estimado de lucro pode ser enganoso, pois não leva em conta imprevistos e mudanças no mercado.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O cálculo estimado de lucro é apenas uma ferramenta, e sua eficácia depende de como é usado e interpretado.",
           "source": "reddit",
           "votes": 0
         }
@@ -1441,17 +2151,17 @@
     },
     {
       "id": "reddit_1nomkhj",
-      "rank": 36,
+      "rank": 43,
       "title": "Ataques institucionais podem ser banidos",
       "label": "Ataques institucionais · Banimento",
       "context": "Os ataques institucionais são passíveis de banimento devido às suas consequências negativas. Isso pode afetar a estabilidade e a confiança nas instituições.",
       "source": "reddit",
       "subreddit": "economia",
       "permalink": "https://www.reddit.com/r/Economia/comments/1nomkhj/ataques_institucionais_são_passíveis_de_ban/",
-      "createdAt": "2026-06-09T21:28:56.908224+00:00",
-      "rawScore": 2156.7253044639,
-      "relevanceScore": 0.015189341526896978,
-      "suggestedRadius": 43.39,
+      "createdAt": "2026-06-10T17:29:17.966293+00:00",
+      "rawScore": 2156.726575118381,
+      "relevanceScore": 0.015143337543800754,
+      "suggestedRadius": 43.38,
       "imageUrl": "assets/images/reddit_1nomkhj_uns.jpg",
       "imageThumbUrl": "assets/images/reddit_1nomkhj_uns_thumb.jpg",
       "category": "economia",
@@ -1492,48 +2202,48 @@
       "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     },
     {
-      "id": "reddit_qd6n8z",
-      "rank": 37,
-      "title": "Cálculo estimado de Lucro",
-      "label": "Lucro · Estimativa",
-      "context": "O cálculo estimado de lucro é uma ferramenta usada para prever ganhos financeiros. Isso importa porque ajuda empresas e investidores a tomar decisões informadas sobre investimentos e alocação de recursos.",
+      "id": "reddit_1u0l0i3",
+      "rank": 44,
+      "title": "Captura da noite no norte do Chile",
+      "label": "Fenômeno astronômico · Chile",
+      "context": "Um usuário capturou um fenômeno astronômico na noite do norte do Chile. Isso pode ser um evento raro e interessante para os entusiastas de astronomia.",
       "source": "reddit",
-      "subreddit": "financas",
-      "permalink": "https://www.reddit.com/r/financas/comments/qd6n8z/cálculo_estimado_de_lucro/",
-      "createdAt": "2026-06-09T21:29:04.037612+00:00",
-      "rawScore": 2156.6845419842984,
-      "relevanceScore": 0.015189053977668171,
-      "suggestedRadius": 43.39,
-      "imageUrl": "assets/images/reddit_qd6n8z_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_qd6n8z_uns_thumb.jpg",
-      "category": "economia",
+      "subreddit": "astronomia",
+      "permalink": "https://www.reddit.com/r/astronomia/comments/1u0l0i3/lo_capture_cuando_cayó_la_noche_acá_en_el_norte/",
+      "createdAt": "2026-06-10T17:30:33.723307+00:00",
+      "rawScore": 2002.6732436024404,
+      "relevanceScore": 0.014056554138552448,
+      "suggestedRadius": 43.11,
+      "imageUrl": "assets/images/reddit_1u0l0i3_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u0l0i3_uns_thumb.jpg",
+      "category": "ciencia",
       "region": "brasil",
       "sources": [
         {
-          "title": "Cálculo estimado de Lucro",
-          "url": "https://www.reddit.com/r/financas/comments/qd6n8z/cálculo_estimado_de_lucro/",
-          "subreddit": "financas"
+          "title": "Lo capture cuando cayó la noche acá en el norte de chile",
+          "url": "https://www.reddit.com/r/astronomia/comments/1u0l0i3/lo_capture_cuando_cayó_la_noche_acá_en_el_norte/",
+          "subreddit": "astronomia"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O cálculo estimado de lucro é essencial para qualquer negócio, pois permite planejar o futuro com segurança.",
+          "text": "O norte do Chile é um dos melhores lugares para observar o céu noturno, que sorte ter capturado isso!",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O cálculo estimado de lucro pode ser enganoso, pois não leva em conta imprevistos e mudanças no mercado.",
+          "text": "Não entendo por que isso é tão interessante, é só uma foto da noite, não vejo o que tem de especial.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O cálculo estimado de lucro é apenas uma ferramenta, e sua eficácia depende de como é usado e interpretado.",
+          "text": "Seria legal saber mais sobre o que exatamente foi capturado, é um meteoro, um planeta ou algo mais?",
           "source": "reddit",
           "votes": 0
         }
@@ -1542,17 +2252,17 @@
     },
     {
       "id": "reddit_1tx2c14",
-      "rank": 38,
+      "rank": 45,
       "title": "Por que o Google quer soltar 32 milhões de mosquitos nos EUA?",
       "label": "Mosquitos geneticamente modificados",
       "context": "O Google planeja soltar 32 milhões de mosquitos geneticamente modificados nos EUA. Isso é parte de um projeto para combater a propagação de doenças transmitidas por mosquitos.",
       "source": "reddit",
       "subreddit": "biologia",
       "permalink": "https://www.reddit.com/r/biologia/comments/1tx2c14/por_que_o_google_quer_soltar_32_milhões_de/",
-      "createdAt": "2026-06-09T21:29:50.867625+00:00",
-      "rawScore": 2002.6785570919922,
-      "relevanceScore": 0.014102655342938553,
-      "suggestedRadius": 43.13,
+      "createdAt": "2026-06-10T17:30:25.118198+00:00",
+      "rawScore": 2002.6698623056604,
+      "relevanceScore": 0.014056530284883122,
+      "suggestedRadius": 43.11,
       "imageUrl": "assets/images/reddit_1tx2c14_uns.jpg",
       "imageThumbUrl": "assets/images/reddit_1tx2c14_uns_thumb.jpg",
       "category": "ciencia",
@@ -1593,26 +2303,26 @@
       "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     },
     {
-      "id": "reddit_1u18aha",
-      "rank": 39,
-      "title": "Dúvidas sobre Farmácia de FP",
-      "label": "Farmácia de FP em questão",
-      "context": "A farmácia de FP está sob escrutínio devido a dúvidas sobre sua eficácia. Isso pode afetar a confiança do público em tratamentos farmacêuticos.",
+      "id": "reddit_1u231aw",
+      "rank": 46,
+      "title": "Cancro",
+      "label": "",
+      "context": "",
       "source": "reddit",
       "subreddit": "medicina",
-      "permalink": "https://www.reddit.com/r/Medicina/comments/1u18aha/dudas_sobre_fp_farmacia/",
-      "createdAt": "2026-06-09T21:30:14.535868+00:00",
-      "rawScore": 2002.6781928280182,
-      "relevanceScore": 0.014102652773324882,
-      "suggestedRadius": 43.13,
-      "imageUrl": "assets/images/reddit_1u18aha_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1u18aha_uns_thumb.jpg",
+      "permalink": "https://www.reddit.com/r/Medicina/comments/1u231aw/cancro/",
+      "createdAt": "2026-06-10T17:30:51.150746+00:00",
+      "rawScore": 2002.6680805965166,
+      "relevanceScore": 0.014056517715651988,
+      "suggestedRadius": 43.11,
+      "imageUrl": "assets/images/reddit_1u231aw_wiki.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u231aw_wiki_thumb.jpg",
       "category": "ciencia",
       "region": "brasil",
       "sources": [
         {
-          "title": "Dudas sobre FP farmacia",
-          "url": "https://www.reddit.com/r/Medicina/comments/1u18aha/dudas_sobre_fp_farmacia/",
+          "title": "Cancro",
+          "url": "https://www.reddit.com/r/Medicina/comments/1u231aw/cancro/",
           "subreddit": "medicina"
         }
       ],
@@ -1620,40 +2330,40 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A farmácia de FP é uma opção viável para muitos pacientes, oferecendo tratamentos acessíveis.",
+          "text": "Há quem defenda essa medida como necessária.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "As dúvidas sobre a farmácia de FP são legítimas, pois a segurança e eficácia dos medicamentos são cruciais.",
+          "text": "Outros criticam e veem riscos ou consequências negativas.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "É importante considerar ambos os lados, mas sem informações concretas, é difícil tomar uma posição firme sobre a farmácia de FP.",
+          "text": "Também há quem prefira esperar mais informações antes de concluir.",
           "source": "reddit",
           "votes": 0
         }
       ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+      "enrichedBy": "google/gemma-3-27b-it"
     },
     {
       "id": "reddit_1txpymo",
-      "rank": 40,
+      "rank": 47,
       "title": "Eu tenho um medo irracional",
       "label": "Medo irracional · Saúde mental",
       "context": "Pessoas compartilham experiências de medos irrationais em um fórum de saúde mental. O medo irracional pode afetar a vida diária e a saúde mental de uma pessoa.",
       "source": "reddit",
       "subreddit": "saudemental",
       "permalink": "https://www.reddit.com/r/saudemental/comments/1txpymo/eu_tenho_um_medo_irracional/",
-      "createdAt": "2026-06-09T21:30:06.600455+00:00",
-      "rawScore": 2002.6781769904571,
-      "relevanceScore": 0.01410265266160257,
-      "suggestedRadius": 43.13,
+      "createdAt": "2026-06-10T17:30:42.449871+00:00",
+      "rawScore": 2002.6241090243918,
+      "relevanceScore": 0.014056207514149576,
+      "suggestedRadius": 43.11,
       "imageUrl": "assets/images/reddit_1txpymo_uns.jpg",
       "imageThumbUrl": "assets/images/reddit_1txpymo_uns_thumb.jpg",
       "category": "ciencia",
@@ -1694,18 +2404,70 @@
       "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     },
     {
+      "id": "reddit_1u24hg9",
+      "rank": 48,
+      "title": "Existe relação entre cientistas mortos e a divulgação de informações sobre UAPs?",
+      "label": "UAPs · Mortes de Cientistas",
+      "context": "Recentemente, surgiram questionamentos sobre uma possível ligação entre a morte de cientistas e a divulgação de documentos governamentais sobre Fenômenos Aéreos Não Identificados (UAPs, sigla em inglês para Objetos Voadores Não Identificados). A divulgação desses documentos, antes confidenciais, reacendeu teorias da conspiração sobre o tema.",
+      "source": "reddit",
+      "subreddit": "ciencia",
+      "permalink": "https://www.reddit.com/r/ciencia/comments/1u24hg9/hay_relación_de_los_científicos_muertos_y_la/",
+      "createdAt": "2026-06-10T17:30:07.436110+00:00",
+      "rawScore": 2002.6085258319047,
+      "relevanceScore": 0.014056097581084,
+      "suggestedRadius": 43.11,
+      "imageUrl": "assets/images/reddit_1u24hg9_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u24hg9_uns_thumb.jpg",
+      "category": "ciencia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "¿Hay Relación de los científicos muertos y la desclasificación sobre UAPs?",
+          "url": "https://www.reddit.com/r/ciencia/comments/1u24hg9/hay_relación_de_los_científicos_muertos_y_la/",
+          "subreddit": "ciencia"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo americano está certo em manter segredo! Esses 'cientistas' provavelmente estavam envolvidos em pesquisas perigosas, financiadas por potências estrangeiras. A segurança nacional vem antes de curiosidades sobre luzinhas no céu. Precisamos proteger nossa tecnologia!",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essas mortes são a prova de que o Estado usa de violência para silenciar quem questiona o poder! Cientistas que ousaram investigar UAPs foram eliminados para proteger os interesses das elites e do complexo militar-industrial. É a opressão em ação!",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A correlação entre as mortes e a divulgação é especulativa, mas exige investigação rigorosa. O acesso à informação sobre UAPs é um direito público, e qualquer indício de obstrução ou coerção a pesquisadores deve ser apurado pelas autoridades competentes, com transparência.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "google/gemma-3-27b-it"
+    },
+    {
       "id": "reddit_1ttq14u",
-      "rank": 41,
+      "rank": 49,
       "title": "Discussão mensal de física",
       "label": "Física · Discussão mensal",
       "context": "A comunidade de física do Reddit realiza uma discussão mensal para debater e responder perguntas sobre física. Essa discussão é um espaço para que os usuários compartilhem conhecimentos e aprendam uns com os outros.",
       "source": "reddit",
       "subreddit": "fisica",
       "permalink": "https://www.reddit.com/r/fisica/comments/1ttq14u/hilo_mensual_de_discusión_y_de_preguntas_june_2026/",
-      "createdAt": "2026-06-09T21:29:42.772330+00:00",
-      "rawScore": 2002.6415057929348,
-      "relevanceScore": 0.014102393973351265,
-      "suggestedRadius": 43.13,
+      "createdAt": "2026-06-10T17:30:15.831213+00:00",
+      "rawScore": 2002.5883741481064,
+      "relevanceScore": 0.014055955419176015,
+      "suggestedRadius": 43.11,
       "imageUrl": "assets/images/reddit_1ttq14u_uns.jpg",
       "imageThumbUrl": "assets/images/reddit_1ttq14u_uns_thumb.jpg",
       "category": "ciencia",
@@ -1746,75 +2508,26 @@
       "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     },
     {
-      "id": "reddit_1s2n11r",
-      "rank": 42,
-      "title": "Pare de usar o sub como lançamento de produto",
-      "label": "Uso indevido do subreddit",
-      "context": "O subreddit brdev está sendo usado para lançamento de produtos, o que pode desviar o foco do conteúdo relevante. Isso pode afetar a experiência dos usuários que buscam discussões sobre desenvolvimento de software.",
-      "source": "reddit",
-      "subreddit": "brdev",
-      "permalink": "https://www.reddit.com/r/brdev/comments/1s2n11r/moderação_pare_de_usar_o_sub_como_lançamento_de/",
-      "createdAt": "2026-06-09T21:29:12.475764+00:00",
-      "rawScore": 1848.625972981436,
-      "relevanceScore": 0.013015927985093911,
-      "suggestedRadius": 42.85,
-      "imageUrl": "assets/images/reddit_1s2n11r_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1s2n11r_uns_thumb.jpg",
-      "category": "tech",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "[Moderação] Pare de usar o sub como lançamento de produto",
-          "url": "https://www.reddit.com/r/brdev/comments/1s2n11r/moderação_pare_de_usar_o_sub_como_lançamento_de/",
-          "subreddit": "brdev"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O moderador está certo, precisamos manter o sub focado em discussões técnicas.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Isso é censura, o sub deve ser livre para qualquer tipo de discussão ou promoção.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Talvez haja um meio-termo, como um canal específico para lançamentos de produtos, para não poluir o feed principal.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
-    },
-    {
-      "id": "reddit_1u1a9ri",
-      "rank": 43,
-      "title": "Iniciante no mundo da programação",
-      "label": "Programação · Iniciantes",
-      "context": "Um usuário se apresenta como iniciante no mundo da programação. Isso importa porque muitas pessoas buscam aprender programação para melhorar suas carreiras ou criar projetos pessoais.",
+      "id": "reddit_1u28loq",
+      "rank": 50,
+      "title": "Curva de aprendizado em desenvolvimento",
+      "label": "Programação · Curva de Aprendizagem",
+      "context": "Programadores discutem a frustração comum de sentir que o aprendizado de novas tecnologias é lento e cheio de obstáculos. Essa sensação é especialmente presente ao mudar de paradigma ou ao entrar em uma nova área dentro da programação.",
       "source": "reddit",
       "subreddit": "programacao",
-      "permalink": "https://www.reddit.com/r/programacao/comments/1u1a9ri/iniciante_no_mundo_da_programação/",
-      "createdAt": "2026-06-09T21:29:20.108751+00:00",
-      "rawScore": 1848.6254686161922,
-      "relevanceScore": 0.013015924427169114,
-      "suggestedRadius": 42.85,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "permalink": "https://www.reddit.com/r/programacao/comments/1u28loq/curva_de_aprendizado_em_desenvolvimento/",
+      "createdAt": "2026-06-10T17:29:48.797694+00:00",
+      "rawScore": 1848.6007331297228,
+      "relevanceScore": 0.012969635433588452,
+      "suggestedRadius": 42.83,
+      "imageUrl": "assets/images/reddit_1u28loq_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u28loq_uns_thumb.jpg",
       "category": "tech",
       "region": "brasil",
       "sources": [
         {
-          "title": "Iniciante no mundo da programação",
-          "url": "https://www.reddit.com/r/programacao/comments/1u1a9ri/iniciante_no_mundo_da_programação/",
+          "title": "Curva de aprendizado em desenvolvimento",
+          "url": "https://www.reddit.com/r/programacao/comments/1u28loq/curva_de_aprendizado_em_desenvolvimento/",
           "subreddit": "programacao"
         }
       ],
@@ -1822,394 +2535,26 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O governo deveria investir mais em educação de programação para aumentar a competitividade do país.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A indústria de tecnologia é exploradora e não oferece condições justas para os trabalhadores, especialmente os iniciantes.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "As instituições de ensino devem oferecer mais recursos e apoio para os estudantes de programação, garantindo uma transição suave para o mercado de trabalho.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
-    },
-    {
-      "id": "reddit_1u1hgni",
-      "rank": 44,
-      "title": "Rumores sobre Google e Nvidia impulsionam Intel",
-      "label": "Intel · Rumores de parceria",
-      "context": "A Intel viu seu valor aumentar devido a rumores sobre parcerias com Google e Nvidia. Isso reativou o interesse dos investidores em suas ações.",
-      "source": "reddit",
-      "subreddit": "tecnologia",
-      "permalink": "https://www.reddit.com/r/Tecnologia/comments/1u1hgni/rumores_sobre_google_y_nvidia_impulsan_a_intel_y/",
-      "createdAt": "2026-06-09T21:29:27.704308+00:00",
-      "rawScore": 1848.6209220318426,
-      "relevanceScore": 0.013015892354369908,
-      "suggestedRadius": 42.85,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "tech",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Rumores sobre Google y Nvidia impulsan a Intel y reactivan el interés por sus acciones",
-          "url": "https://www.reddit.com/r/Tecnologia/comments/1u1hgni/rumores_sobre_google_y_nvidia_impulsan_a_intel_y/",
-          "subreddit": "tecnologia"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A Intel está de volta ao jogo, esses rumores são incríveis para o setor de tecnologia!",
+          "text": "Essa curva de aprendizado é o que torna a programação tão recompensadora! Superar esses desafios e ver o código funcionando é uma sensação única. Quem reclama é porque não está se esforçando o suficiente.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Esses rumores são apenas especulações, não vejo como a Intel pode se recuperar tão rápido.",
+          "text": "A indústria insiste em novas frameworks a cada seis meses, forçando a gente a ficar sempre estudando de graça. Essa tal de 'curva de aprendizado' é só desculpa pra não pagar um salário justo por conhecimento atualizado.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Vamos esperar para ver se esses rumores se tornam realidade, não quero me emocionar demais.",
+          "text": "Sinceramente, essa história de curva de aprendizado virou mantra. A gente gasta mais tempo configurando o ambiente do que realmente programando. Será que não dá pra simplificar as coisas um pouco?",
           "source": "reddit",
           "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
-    },
-    {
-      "id": "reddit_1u0t297",
-      "rank": 45,
-      "title": "Jogos do dia 9 de Junho",
-      "label": "Futebol · Jogos do dia",
-      "context": "Os jogos de futebol do dia 9 de Junho estão acontecendo em várias partes do mundo. Esses jogos são importantes porque definem a classificação dos times nas competições.",
-      "source": "reddit",
-      "subreddit": "futebol",
-      "permalink": "https://www.reddit.com/r/futebol/comments/1u0t297/match_hub_jogos_do_dia_9_de_junho/",
-      "createdAt": "2026-06-09T21:30:22.284940+00:00",
-      "rawScore": 1540.516350769513,
-      "relevanceScore": 0.010842441849784544,
-      "suggestedRadius": 42.25,
-      "imageUrl": "assets/images/reddit_1u0t297_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1u0t297_uns_thumb.jpg",
-      "category": "esportes",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "[Match HUB] Jogos do dia 9 de Junho",
-          "url": "https://www.reddit.com/r/futebol/comments/1u0t297/match_hub_jogos_do_dia_9_de_junho/",
-          "subreddit": "futebol"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O Brasil vai mostrar sua força nos jogos de hoje, vamos ganhar todos!",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Os jogos de futebol são uma distração para a população, enquanto os políticos fazem o que querem.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Os jogos de futebol devem ser uma oportunidade para promover a união e o respeito entre as equipes e os torcedores.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
-    },
-    {
-      "id": "bsky_3mnuwiu4ccc2s",
-      "rank": 46,
-      "title": "Simba e seu amigo de pelúcia",
-      "label": "Cachorro e amigo de pelúcia",
-      "context": "Simba é um cachorro que tem um amigo de pelúcia especial que o protege enquanto dorme. Esse amigo serve como um 'big spoon' e também como um bom chamariz.",
-      "source": "bluesky",
-      "subreddit": "bsky_global",
-      "permalink": "https://bsky.app/profile/weratedogs.com/post/3mnuwiu4ccc2s",
-      "createdAt": "2026-06-09T19:27:22.575000+00:00",
-      "rawScore": 1503.5023430316603,
-      "relevanceScore": 0.010581335325253084,
-      "suggestedRadius": 42.17,
-      "imageUrl": "assets/images/bsky_3mnuwiu4ccc2s_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mnuwiu4ccc2s_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "This is Simba. He has a special stuffed friend who protects him while he sleeps. Partly by being big spoon, and partly by being a pretty good decoy. 12/10 (IG: simbaaeyo)",
-          "url": "https://bsky.app/profile/weratedogs.com/post/3mnuwiu4ccc2s",
-          "subreddit": "bsky_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Simba é o cara mais sortudo por ter um amigo de pelúcia tão fiel!",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Esse amigo de pelúcia não passa de um objeto, não entendo o que tem de especial.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Acho que é fofo, mas também um pouco estranho. Quem sabe o que Simba realmente acha disso?",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
-    },
-    {
-      "id": "bsky_3mnukxfrzns23",
-      "rank": 47,
-      "title": "Como país-sede, os EUA não deveriam impedir levianamente que funcionários entrem no país para fazer seu trabalho.",
-      "label": "Copa do Mundo · Barreiras de Entrada",
-      "context": "Os Estados Unidos impediram a entrada de funcionários para cobrir a Copa do Mundo, mesmo sendo o país-sede do evento. Essa atitude prejudica as relações internacionais e o intercâmbio cultural promovido por competições esportivas globais.",
-      "source": "bluesky",
-      "subreddit": "bsky_global",
-      "permalink": "https://bsky.app/profile/hillaryclinton.bsky.social/post/3mnukxfrzns23",
-      "createdAt": "2026-06-09T16:00:46.672000+00:00",
-      "rawScore": 1318.3716826324785,
-      "relevanceScore": 0.009275375061144469,
-      "suggestedRadius": 41.78,
-      "imageUrl": "assets/images/bsky_3mnukxfrzns23_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mnukxfrzns23_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "As a World Cup host, the U.S. shouldn't be flippantly barring officials from entering the country to do their jobs. It's terribly backward. It's also counterproductive. Global sports competitions should improve international exchange and relations, not the reverse.",
-          "url": "https://bsky.app/profile/hillaryclinton.bsky.social/post/3mnukxfrzns23",
-          "subreddit": "bsky_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O governo americano está certo em proteger nossas fronteiras! Não podemos permitir que qualquer um entre, especialmente se vier questionar nossa soberania. A Copa do Mundo é secundária à segurança nacional, e quem discorda não ama este país.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Essa decisão escancarada do imperialismo americano! Impedir a entrada de funcionários é uma tática para controlar a narrativa e silenciar vozes críticas sobre a exploração do trabalho e a desigualdade que sustentam esses megaeventos esportivos.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A atitude dos EUA é um retrocesso para o princípio da livre circulação de pessoas, fundamental para o bom funcionamento de eventos internacionais. A Copa do Mundo depende da colaboração entre nações, e barreiras arbitrárias minam a credibilidade do evento e do país-sede.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
         }
       ],
       "enrichedBy": "google/gemma-3-27b-it"
-    },
-    {
-      "id": "reddit_1tv2epo",
-      "rank": 48,
-      "title": "Sistema falava de AUR desde 1997",
-      "label": "AUR · Menção precoce",
-      "context": "O sistema mencionava AUR desde 1997. Isso mostra que a ideia estava presente há décadas.",
-      "source": "reddit",
-      "subreddit": "politica",
-      "permalink": "https://www.reddit.com/r/politica/comments/1tv2epo/sistemul_vorbea_de_aur_încă_din_1997/",
-      "createdAt": "2026-06-09T21:27:40.510839+00:00",
-      "rawScore": 1145.314527894406,
-      "relevanceScore": 0.008054584474537684,
-      "suggestedRadius": 41.38,
-      "imageUrl": "assets/images/reddit_1tv2epo_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1tv2epo_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Sistemul vorbea de AUR încă din 1997.",
-          "url": "https://www.reddit.com/r/politica/comments/1tv2epo/sistemul_vorbea_de_aur_încă_din_1997/",
-          "subreddit": "politica"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "AUR é um partido visionário, já estava no radar desde 1997.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "AUR é um partido extremista, não é surpresa que fosse mencionado desde 1997.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O que importa é o que AUR faz agora, não o que era mencionado em 1997.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
-    },
-    {
-      "id": "reddit_1u1aza5",
-      "rank": 49,
-      "title": "Israel intensifica ataques no Líbano",
-      "label": "Ataques de Israel no Líbano",
-      "context": "Israel intensificou os ataques no Líbano, resultando na morte de oito pessoas. Essa ação é um desafio direto aos apelos do presidente Trump por calma na região.",
-      "source": "reddit",
-      "subreddit": "noticias",
-      "permalink": "https://www.reddit.com/r/Noticias/comments/1u1aza5/israel_intensifica_ataques_no_líbano_e_mata_oito/",
-      "createdAt": "2026-06-09T21:27:23.567171+00:00",
-      "rawScore": 1145.3141876894001,
-      "relevanceScore": 0.00805458207464229,
-      "suggestedRadius": 41.38,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Israel intensifica ataques no Líbano e mata oito pessoas em novo desafio aos apelos de Trump",
-          "url": "https://www.reddit.com/r/Noticias/comments/1u1aza5/israel_intensifica_ataques_no_líbano_e_mata_oito/",
-          "subreddit": "noticias"
-        },
-        {
-          "title": "Israel ignora Trump, ataca o Irã e encerra cessar-fogo",
-          "url": "https://www.reddit.com/r/Noticias/comments/1u0m6zs/israel_ignora_trump_ataca_o_irã_e_encerra/",
-          "subreddit": "noticias"
-        },
-        {
-          "title": "Estrecho de Ormuz: la guerra Irán-Israel tensa la relación entre Trump y Xi",
-          "url": "https://www.reddit.com/r/geopolitica/comments/1szdemv/estrecho_de_ormuz_la_guerra_iránisrael_tensa_la/",
-          "subreddit": "geopolitica"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O governo israelense está fazendo o que é necessário para proteger seu povo, não importa o que Trump ou outros países digam.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Esses ataques são mais um exemplo da política de opressão e violência do Estado de Israel, ignorando completamente os apelos internacionais por paz.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A situação no Líbano é complexa, e enquanto Israel tem o direito de se defender, é crucial que todas as partes envolvidas busquem uma solução diplomática para evitar mais violência.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
-    },
-    {
-      "id": "reddit_1tpwfw4",
-      "rank": 50,
-      "title": "Simulador de política",
-      "label": "Política · Simulação",
-      "context": "Um simulador de política foi lançado no Brasil. O simulador permite que os usuários experimentem diferentes cenários políticos e econômicos.",
-      "source": "reddit",
-      "subreddit": "geopolitica",
-      "permalink": "https://www.reddit.com/r/geopolitica/comments/1tpwfw4/simulador_de_política/",
-      "createdAt": "2026-06-09T21:27:31.656498+00:00",
-      "rawScore": 1145.3127615342125,
-      "relevanceScore": 0.008054572014169316,
-      "suggestedRadius": 41.38,
-      "imageUrl": "assets/images/reddit_1tpwfw4_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1tpwfw4_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Simulador de política 🇧🇷",
-          "url": "https://www.reddit.com/r/geopolitica/comments/1tpwfw4/simulador_de_política/",
-          "subreddit": "geopolitica"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O governo deve apoiar mais iniciativas como essa para educar os brasileiros sobre a importância da economia de mercado.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Esse simulador é apenas mais uma ferramenta para reforçar a ideologia neoliberal e ignorar as desigualdades estruturais do nosso sistema.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A empresa por trás desse simulador deve ser transparente sobre os dados e métodos utilizados para garantir que os resultados sejam imparciais e baseados em fatos.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     }
   ]
 }
