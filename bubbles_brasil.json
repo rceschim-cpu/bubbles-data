@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-06-10T18:59:43.910986+00:00",
+  "generatedAt": "2026-06-11T17:33:55.435008+00:00",
   "region": "brasil",
-  "count": 12,
+  "count": 49,
   "items": [
     {
       "id": "reddit_1ncj78q",
       "rank": 1,
-      "title": "Interesse em moderar comunidade brasileira",
-      "label": "Moderação de comunidades online",
-      "context": "Um post no subreddit brasil busca pessoas interessadas em moderar comunidades brasileiras ou que tenham curiosidade sobre moderação. Isso pode ser uma oportunidade para quem deseja contribuir para a gestão de comunidades online.",
+      "title": "Moderadores para comunidade brasileira",
+      "label": "Seleção de moderadores no Reddit",
+      "context": "O subreddit r/brasil está procurando novos moderadores para ajudar a gerenciar a comunidade. Os candidatos devem ter interesse em moderar e estar dispostos a contribuir para o crescimento do sub.",
       "source": "reddit",
       "subreddit": "brasil",
       "permalink": "https://www.reddit.com/r/brasil/comments/1ncj78q/se_você_tem_interesse_em_moderar_uma_comunidade/",
-      "createdAt": "2026-06-10T18:57:10.051353+00:00",
+      "createdAt": "2026-06-11T17:16:22.080479+00:00",
       "rawScore": 1.0,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
@@ -25,23 +25,13 @@
           "title": "Se você tem interesse em moderar uma comunidade brasileira ou tem curiosidade sobre moderação, este post é para você!",
           "url": "https://www.reddit.com/r/brasil/comments/1ncj78q/se_você_tem_interesse_em_moderar_uma_comunidade/",
           "subreddit": "brasil"
-        },
-        {
-          "title": "Psicologia realmente ajuda as pessoas ? você já foi ajudado ?",
-          "url": "https://www.reddit.com/r/saudemental/comments/1u0l2n3/psicologia_realmente_ajuda_as_pessoas_você_já_foi/",
-          "subreddit": "saudemental"
-        },
-        {
-          "title": "[Moderação] Sobre temas recorrentes e conteúdo de baixo esforço (Novamente)",
-          "url": "https://www.reddit.com/r/brdev/comments/1s57jsb/moderação_sobre_temas_recorrentes_e_conteúdo_de/",
-          "subreddit": "brdev"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O governo deve apoiar iniciativas de moderação que promovam a ordem e a segurança online, especialmente em comunidades brasileiras.",
+          "text": "O celtiberian é um ótimo mod, mantém o sub aberto para todos os lados",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -49,7 +39,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A moderação de comunidades online é uma ferramenta de controle que pode ser usada para silenciar vozes dissidentes e manter a opressão estrutural.",
+          "text": "Não podemos deixar que mods de direita tomem conta do sub, é preciso mais diversidade",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -57,7 +47,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A moderação de comunidades online é essencial para garantir a liberdade de expressão e a proteção dos direitos individuais, desde que seja feita de forma justa e transparente.",
+          "text": "O que importa é a capacidade de moderar, não a ideologia, precisamos de mods que respeitem as regras",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
@@ -66,90 +56,26 @@
       "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     },
     {
-      "id": "bsky_3mnx2mgnmck2d",
+      "id": "reddit_1u2w16k",
       "rank": 2,
-      "title": "Um árbitro da FIFA passou mais tempo sob custódia federal por ser somali do que qualquer pessoa na lista de Epstein por estupro de crianças.",
-      "label": "Árbitro Somali · Negativa de Entrada nos EUA",
-      "context": "Um árbitro de futebol da FIFA, Omar Artan, está detido nos EUA há mais tempo do que indivíduos na lista de Jeffrey Epstein acusados de abuso sexual. A situação impede que ele participe de treinamentos para a Copa do Mundo, gerando críticas à administração americana e à FIFA.",
-      "source": "bluesky",
-      "subreddit": "bsky_global",
-      "permalink": "https://bsky.app/profile/covie93.bsky.social/post/3mnx2mgnmck2d",
-      "createdAt": "2026-06-10T15:46:15.562000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 0.803527551657242,
-      "suggestedRadius": 89.78,
-      "imageUrl": "assets/images/bsky_3mnx2mgnmck2d_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mnx2mgnmck2d_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "A FIFA referee has spent more time in federal custody for being Somali than anybody on epstein's list for raping kids.",
-          "url": "https://bsky.app/profile/covie93.bsky.social/post/3mnx2mgnmck2d",
-          "subreddit": "bsky_global"
-        },
-        {
-          "title": "Following the U.S. entry ban on Omar Artan, Africa's best referee of 2025, FIFA could reassign him to a match in Canada or Mexico in less than an hour. Instead, it does nothing. FIFA is complicit.",
-          "url": "https://bsky.app/profile/humanrightsindex.bsky.social/post/3mnwko5i6xs22",
-          "subreddit": "bsky_global"
-        },
-        {
-          "title": "Epstein file says Trump \"knew and funded underage sex parties\" at his golf course",
-          "url": "https://lemmy.world/post/47976942",
-          "subreddit": "lemmy_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O Canadá agiu rápido ao convidar o árbitro Omar Artan para apitar jogos em Vancouver, mostrando que ainda existe espaço para princípios no esporte. É uma atitude nobre que contrasta com a postura dos EUA e da FIFA, que parecem priorizar a política em vez do talento.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A FIFA deu um prêmio de paz falso para Trump, então não me surpreende nada essa palhaçada com o árbitro somali. Eles são cúmplices dessa discriminação e mostram que a corrupção e o oportunismo estão no DNA da organização.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Essa história toda me parece um exagero. O cara não pode ir ao treinamento porque não tem visto, e virou um escândalo internacional? A FIFA sempre foi um ninho de corrupção, mas usar o caso Epstein pra inflamar a situação é forçar a barra.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "google/gemma-3-27b-it"
-    },
-    {
-      "id": "reddit_1u23yl9",
-      "rank": 3,
-      "title": "Tá chegando perto: Outro caso isolado da DIREITA",
-      "label": "Extrema-Direita · Casos Isolados",
-      "context": "Um comentarista online ironizou a frequência com que casos envolvendo a extrema-direita são descritos como “isolados”. A postagem original sugere um padrão de comportamento problemático dentro desse grupo político.",
+      "title": "O caminho do dinheiro",
+      "label": "Investimentos · Estratégias",
+      "context": "O mercado financeiro oferece diversas opções de investimento, incluindo fundos de índice e ETFs. A escolha da estratégia certa depende de fatores como o perfil de risco e os objetivos financeiros do investidor. A diversificação é fundamental para minimizar os riscos e maximizar os retornos.",
       "source": "reddit",
       "subreddit": "noticias",
-      "permalink": "https://www.reddit.com/r/Noticias/comments/1u23yl9/tá_chegando_perto_outro_caso_isolado_da_direita/",
-      "createdAt": "2026-06-10T18:57:12.112083+00:00",
+      "permalink": "https://www.reddit.com/r/Noticias/comments/1u2w16k/o_caminho_do_dinheiro/",
+      "createdAt": "2026-06-11T17:16:24.143974+00:00",
       "rawScore": 1.0,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/reddit_1u23yl9_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1u23yl9_uns_thumb.jpg",
+      "imageUrl": "assets/images/reddit_1u2w16k_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u2w16k_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "brasil",
       "sources": [
         {
-          "title": "Tá chegando perto: Outro caso isolado da DIREITA",
-          "url": "https://www.reddit.com/r/Noticias/comments/1u23yl9/tá_chegando_perto_outro_caso_isolado_da_direita/",
-          "subreddit": "noticias"
-        },
-        {
-          "title": "Direita: Mais um caso isolado que acontece sempre",
-          "url": "https://www.reddit.com/r/Noticias/comments/1tza1i0/direita_mais_um_caso_isolado_que_acontece_sempre/",
+          "title": "O caminho do dinheiro",
+          "url": "https://www.reddit.com/r/Noticias/comments/1u2w16k/o_caminho_do_dinheiro/",
           "subreddit": "noticias"
         }
       ],
@@ -157,37 +83,37 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Essa galera de esquerda tá obcecada em demonizar quem pensa diferente! Se um cara faz algo errado, é problema dele, não da ideologia. Ficam criando narrativa de 'caso isolado' pra tentar colar a culpa no movimento inteiro.",
+          "text": "Acho que investir em ETFs de índice é a melhor opção para iniciantes, pois oferece diversificação e baixos custos.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A desculpa do 'caso isolado' já virou piada! É sempre a mesma coisa: alguém ligado à direita radical faz alguma barbaridade, e a gente ouve que é 'um indivíduo problemático', que não representa o grupo. Que hipocrisia!",
+          "text": "Não concordo, acho que os fundos de investimento são mais seguros e oferecem melhores retornos a longo prazo.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Sinceramente, essa mania de rotular tudo como 'caso isolado' ou 'reflexo de um sistema' cansa. Cada situação é única, e tentar encaixar em narrativas pré-fabricadas só dificulta a discussão. O importante é analisar os fatos, sem preconceitos.",
+          "text": "Acho que a escolha da estratégia de investimento depende do perfil de risco e dos objetivos financeiros de cada pessoa, não há uma solução única para todos.",
           "source": "reddit",
           "votes": 0
         }
       ],
-      "enrichedBy": "google/gemma-3-27b-it"
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     },
     {
       "id": "reddit_1u0wm5a",
-      "rank": 4,
+      "rank": 3,
       "title": "Índia tem 12 ogivas nucleares implantadas",
-      "label": "Deslocamento estratégico na Ásia",
-      "context": "A Índia implantou 12 ogivas nucleares, o que pode alterar o equilíbrio estratégico na Ásia. Este movimento pode ter implicações significativas para a segurança regional e as relações internacionais.",
+      "label": "Índia · Ogivas nucleares",
+      "context": "A Índia implantou 12 ogivas nucleares, o que pode alterar o equilíbrio estratégico na Ásia. Isso pode ter implicações significativas para a segurança regional e global.",
       "source": "reddit",
       "subreddit": "geopolitica",
       "permalink": "https://www.reddit.com/r/geopolitica/comments/1u0wm5a/indias_12_deployed_nuclear_warheads_a_quiet_shift/",
-      "createdAt": "2026-06-10T18:57:14.676724+00:00",
+      "createdAt": "2026-06-11T17:16:26.830287+00:00",
       "rawScore": 1.0,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
@@ -206,7 +132,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Índia está finalmente tomando medidas para se proteger contra ameaças externas, mostrando força e determinação.",
+          "text": "A Índia está mostrando força com essas ogivas nucleares. Isso é necessário para manter a segurança nacional.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -214,7 +140,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A proliferação de armas nucleares é um passo perigoso que aumenta o risco de conflitos e desestabiliza a região.",
+          "text": "A proliferação de armas nucleares é um desastre. A Índia está contribuindo para a instabilidade global.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -222,7 +148,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A implantação de ogivas nucleares pela Índia é um desenvolvimento complexo que requer uma análise cuidadosa de suas implicações para a segurança global e regional.",
+          "text": "A situação é complexa. A Índia tem o direito de se defender, mas também é importante considerar o impacto nas relações internacionais e na segurança global.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
@@ -232,14 +158,14 @@
     },
     {
       "id": "reddit_1ty74m3",
-      "rank": 5,
+      "rank": 4,
       "title": "Neam Saturat De Voi",
-      "label": "Protesto político",
-      "context": "Um grupo de manifestantes realizou um protesto político em uma cidade não especificada. O protesto parece ter sido motivado por uma insatisfação geral com a situação política atual.",
+      "label": "Saturação Política",
+      "context": "Cidadãos romenos expressam descontentamento com as opções políticas atuais. Muitos se sentem desmotivados a votar devido à falta de confiança nos partidos políticos.",
       "source": "reddit",
       "subreddit": "politica",
       "permalink": "https://www.reddit.com/r/politica/comments/1ty74m3/neamsaturatdevoi/",
-      "createdAt": "2026-06-10T18:57:16.996058+00:00",
+      "createdAt": "2026-06-11T17:16:29.301260+00:00",
       "rawScore": 1.0,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
@@ -258,21 +184,21 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O povo está finalmente se levantando contra a injustiça, é hora de mudar.",
+          "text": "O povo romeno precisa se levantar e exigir mudanças, não pode mais se contentar com a situação atual.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Esses protestos são apenas uma desculpa para criar caos e destruir propriedades.",
+          "text": "A abstenção não é a solução, é preciso votar e fazer valer a voz, mesmo que seja um voto contra os partidos tradicionais.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Será que esses protestos realmente vão mudar algo ou é apenas mais do mesmo?",
+          "text": "Se metade dos romenos já está desmotivada a votar, talvez seja hora de repensar o sistema político e encontrar novas formas de engajar os cidadãos.",
           "source": "reddit",
           "votes": 0
         }
@@ -280,18 +206,168 @@
       "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     },
     {
-      "id": "reddit_1jj6nix",
+      "id": "reddit_1rz5o8g",
+      "rank": 5,
+      "title": "Novo moderador para investimentos",
+      "label": "Seleção de moderador",
+      "context": "O subreddit de investimentos está selecionando um novo moderador para ajudar a gerenciar a comunidade. A escolha do novo moderador é importante para manter a qualidade e a relevância do conteúdo do subreddit.",
+      "source": "reddit",
+      "subreddit": "investimentos",
+      "permalink": "https://www.reddit.com/r/investimentos/comments/1rz5o8g/novo_moderador_seleção/",
+      "createdAt": "2026-06-11T17:16:31.629314+00:00",
+      "rawScore": 0.9333327494605396,
+      "relevanceScore": 0.9333327494605396,
+      "suggestedRadius": 93.97,
+      "imageUrl": "assets/images/reddit_1rz5o8g_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1rz5o8g_uns_thumb.jpg",
+      "category": "economia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Novo moderador (seleção)",
+          "url": "https://www.reddit.com/r/investimentos/comments/1rz5o8g/novo_moderador_seleção/",
+          "subreddit": "investimentos"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O Obiwan é uma ótima escolha, sempre traz conteúdo de qualidade e é neutro.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Não quero que o sub vire um FariaLimaBets 2.0, precisamos de alguém que mantenha a qualidade do conteúdo.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Acho que o mais importante é ter alguém que bloqueie os comentários desnecessários e mantenha a discussão útil.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1sn2bz7",
       "rank": 6,
-      "title": "Qual foi o fenômeno científico que mais surpreendeu",
-      "label": "Descobertas científicas surpreendentes",
-      "context": "Pessoas compartilham suas surpresas com conceitos científicos. O fenômeno científico que mais surpreendeu é um tema de discussão. A surpresa vem de descobertas inesperadas.",
+      "title": "Economia procura moderadores",
+      "label": "Economia · Moderadores",
+      "context": "A comunidade de economia está procurando por moderadores para ajudar a gerenciar o subreddit. Isso é importante porque os moderadores desempenham um papel crucial na manutenção da qualidade e da relevância do conteúdo compartilhado.",
+      "source": "reddit",
+      "subreddit": "economia",
+      "permalink": "https://www.reddit.com/r/Economia/comments/1sn2bz7/reconomia_procura_moderadores/",
+      "createdAt": "2026-06-11T17:16:34.103758+00:00",
+      "rawScore": 0.9333327494605396,
+      "relevanceScore": 0.9333327494605396,
+      "suggestedRadius": 93.97,
+      "imageUrl": "assets/images/reddit_1sn2bz7_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1sn2bz7_uns_thumb.jpg",
+      "category": "economia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "r/Economia procura moderadores",
+          "url": "https://www.reddit.com/r/Economia/comments/1sn2bz7/reconomia_procura_moderadores/",
+          "subreddit": "economia"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A comunidade de economia precisa de moderadores dedicados para manter o nível de discussão alto e relevante.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Procurar moderadores pode ser um desafio, especialmente se a comunidade não oferece incentivos suficientes para atrair e reter moderadores qualificados.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A busca por moderadores é um processo contínuo para muitas comunidades online, e a chave para o sucesso está em encontrar indivíduos que combinem habilidades técnicas com conhecimento do assunto.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_rfypcd",
+      "rank": 7,
+      "title": "Investir No Exterior",
+      "label": "Investimento Internacional",
+      "context": "O mercado financeiro internacional oferece oportunidades de investimento para brasileiros. Isso pode ser feito por meio de vistos americanos, como o EB-3, que permite a entrada de profissionais qualificados nos EUA.",
+      "source": "reddit",
+      "subreddit": "financas",
+      "permalink": "https://www.reddit.com/r/financas/comments/rfypcd/como_investir_no_exterior_mundo_financeiro/",
+      "createdAt": "2026-06-11T17:16:35.512223+00:00",
+      "rawScore": 0.9333327494605396,
+      "relevanceScore": 0.9333327494605396,
+      "suggestedRadius": 93.97,
+      "imageUrl": "assets/images/reddit_rfypcd_ai.jpg",
+      "imageThumbUrl": "assets/images/reddit_rfypcd_ai_thumb.jpg",
+      "category": "economia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Como Investir No Exterior | Mundo Financeiro",
+          "url": "https://www.reddit.com/r/financas/comments/rfypcd/como_investir_no_exterior_mundo_financeiro/",
+          "subreddit": "financas"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo americano está fazendo um ótimo trabalho ao oferecer vistos como o EB-3, que atraem talentos e investimentos para o país.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Quem paga a conta são os trabalhadores americanos, que são substituídos por imigrantes que aceitam salários mais baixos e condições de trabalho precárias.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A empresa que investe no exterior deve considerar as leis e regulamentações locais, como o direito creditório vinculado ao custeamento de vistos americanos, para evitar problemas legais.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1jj6nix",
+      "rank": 8,
+      "title": "Fenômeno científico que mais surpreendeu",
+      "label": "Experimento da rendição · Física quântica",
+      "context": "O experimento da rendição, explicado pelo canal Veritasium, mostrou que a luz pode se comportar como onda e partícula ao mesmo tempo. Isso surpreendeu muitas pessoas, pois desafia a compreensão clássica da física.",
       "source": "reddit",
       "subreddit": "ciencia",
       "permalink": "https://www.reddit.com/r/ciencia/comments/1jj6nix/que_fue_el_fenómeno_o_concepto_científico_que_mas/",
-      "createdAt": "2026-06-10T18:57:31.856417+00:00",
-      "rawScore": 0.8666486175198628,
-      "relevanceScore": 0.7380012739423587,
-      "suggestedRadius": 87.54,
+      "createdAt": "2026-06-11T17:16:45.020297+00:00",
+      "rawScore": 0.8666654989210792,
+      "relevanceScore": 0.8666654989210792,
+      "suggestedRadius": 91.86,
       "imageUrl": "assets/images/reddit_1jj6nix_uns.jpg",
       "imageThumbUrl": "assets/images/reddit_1jj6nix_uns_thumb.jpg",
       "category": "ciencia",
@@ -307,7 +383,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A empresa privada de tecnologia está revolucionando a ciência, mostrando que o progresso vem da iniciativa privada.",
+          "text": "O experimento da rendição é um exemplo perfeito de como a ciência pode ser usada para provar a existência de uma ordem natural no universo.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -315,7 +391,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O sistema capitalista impede que a ciência seja acessível a todos, mantendo o conhecimento nas mãos de poucos.",
+          "text": "A física quântica é um exemplo de como a ciência pode ser usada para controlar e manipular as pessoas, criando uma falsa sensação de objetividade.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -323,7 +399,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A colaboração internacional em projetos científicos é fundamental para o avanço do conhecimento, independentemente de fronteiras nacionais.",
+          "text": "O experimento da rendição é um exemplo fascinante de como a física quântica pode desafiar nossa compreensão do mundo, e como a ciência pode ser usada para avançar nosso conhecimento.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
@@ -332,83 +408,34 @@
       "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     },
     {
-      "id": "hn_48475483",
-      "rank": 7,
-      "title": "Construir um site HTML-first dobrou nossos usuários da noite para o dia",
-      "label": "Desenvolvimento Web · HTML vs JavaScript",
-      "context": "Uma empresa relatou um aumento significativo no número de usuários após migrar para uma abordagem de desenvolvimento web focada em HTML. A mudança visou melhorar a experiência do usuário, priorizando o carregamento rápido e a acessibilidade do site.",
-      "source": "hackernews",
-      "subreddit": "hackernews",
-      "permalink": "https://news.ycombinator.com/item?id=48475483",
-      "createdAt": "2026-06-10T12:45:47+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 0.803527551657242,
-      "suggestedRadius": 89.78,
-      "imageUrl": "assets/images/hn_48475483_uns.jpg",
-      "imageThumbUrl": "assets/images/hn_48475483_uns_thumb.jpg",
-      "category": "tech",
+      "id": "reddit_10uafai",
+      "rank": 9,
+      "title": "Comunidade de Física em Espanhol",
+      "label": "Física em Espanhol · 20k Usuários",
+      "context": "A comunidade de física em espanhol no Reddit alcançou mais de 20k usuários. Isso é um marco importante para a divulgação da física em língua espanhola, que muitas vezes é ofuscada pela grande quantidade de recursos em inglês.",
+      "source": "reddit",
+      "subreddit": "fisica",
+      "permalink": "https://www.reddit.com/r/fisica/comments/10uafai/bienvenidos_al_sub_de_rfisica_en_español_ya_somos/",
+      "createdAt": "2026-06-11T17:16:47.200535+00:00",
+      "rawScore": 0.8666654989210792,
+      "relevanceScore": 0.8666654989210792,
+      "suggestedRadius": 91.86,
+      "imageUrl": "assets/images/reddit_10uafai_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_10uafai_uns_thumb.jpg",
+      "category": "ciencia",
       "region": "brasil",
       "sources": [
         {
-          "title": "Building an HTML-first site doubled our users overnight",
-          "url": "https://news.ycombinator.com/item?id=48475483",
-          "subreddit": "hackernews"
+          "title": "¡Bienvenidos al sub de r/fisica en español! Ya somos más de 20k [¡nuevos user flair!]",
+          "url": "https://www.reddit.com/r/fisica/comments/10uafai/bienvenidos_al_sub_de_rfisica_en_español_ya_somos/",
+          "subreddit": "fisica"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O autor está certo em destacar o renascimento do HTML! A facilidade de criar sites rápidos e acessíveis com HTML puro é algo que muitos desenvolvedores esqueceram, presos em frameworks complexos. Essa abordagem realmente pode fazer a diferença para o usuário final.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Essa história de 'HTML-first' é furada. Desenvolvedores ruins vão fazer sites ruins em qualquer tecnologia. Se a equipe não sabe construir um site performático, mudar para HTML não vai resolver o problema, só vai trocar um tipo de dor por outro.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Acho que a questão não é a tecnologia em si, mas sim as escolhas que fazemos. É fácil cair na armadilha de usar JavaScript para tudo, mas muitas vezes a solução mais simples – e rápida – é usar HTML e CSS bem estruturados. O importante é pensar no usuário.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "google/gemma-3-27b-it"
-    },
-    {
-      "id": "masto_mastodonsocial_116726552308276175",
-      "rank": 8,
-      "title": "Home Sweet Home...Sort of — Sources and bonus timelapse: https://www.peppercarrot.com/en/miniFantasyTheater/056.html — #webcomic #krita #miniFantasyTheater",
-      "label": "Peppercarrot Webcomic · Walking House",
-      "context": "The webcomic Peppercarrot published a short animation showing a house with chicken legs walking across a landscape. The artist, David Revoy, shared the work on Mastodon, prompting discussion about the fantastical home.",
-      "source": "mastodon",
-      "subreddit": "masto_global",
-      "permalink": "https://framapiaf.org/@davidrevoy/116726549926983436",
-      "createdAt": "2026-06-10T15:36:43+00:00",
-      "rawScore": 0.85,
-      "relevanceScore": 0.7052913274858629,
-      "suggestedRadius": 86.39,
-      "imageUrl": "assets/images/masto_mastodonsocial_116726552308276175_reddit.jpg",
-      "imageThumbUrl": "assets/images/masto_mastodonsocial_116726552308276175_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Home Sweet Home...Sort of — Sources and bonus timelapse: https://www.peppercarrot.com/en/miniFantasyTheater/056.html — #webcomic #krita #miniFantasyTheater",
-          "url": "https://framapiaf.org/@davidrevoy/116726549926983436",
-          "subreddit": "masto_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Essa casa ambulante é a prova de que a criatividade não morreu! Nossos artistas ainda são capazes de produzir coisas incríveis, sem depender de modismos esquerdistas e da cultura do cancelamento. É bom ver algo original e divertido!",
+          "text": "O governo deve apoiar mais iniciativas como essa, que promovem a ciência e a tecnologia em nossa língua materna.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -416,7 +443,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A gente fala em moradia digna e tem gente celebrando uma casa que anda sozinha? Isso é uma metáfora perfeita da nossa sociedade: a elite se divertindo com fantasias enquanto a maioria não tem nem onde cair morto. É a alienação em forma de webcomic.",
+          "text": "A falta de recursos em espanhol é um reflexo da opressão imperialista que impõe o inglês como língua dominante, ignorando as necessidades das comunidades hispanohablantes.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -424,84 +451,430 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O ponto interessante é a questão da propriedade e do direito de ir e vir. Se a casa se move por conta própria, quem é o responsável por eventuais danos? A legislação precisa acompanhar a inovação, mesmo que seja em um webcomic.",
+          "text": "A criação de comunidades como essa é um passo importante para a democratização do acesso à informação científica, independentemente da língua ou do local de origem.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
         }
       ],
-      "enrichedBy": "google/gemma-3-27b-it"
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     },
     {
-      "id": "lemmy_lemmyworld_47971131",
-      "rank": 9,
-      "title": "Google Chrome está eliminando todas as alternativas ao uBlock Origin, Microsoft Edge e Opera seguirão",
-      "label": "Navegadores · Bloqueio de anúncios",
-      "context": "O Google Chrome está bloqueando métodos para contornar o bloqueio de anúncios do uBlock Origin, e outros navegadores como Microsoft Edge e Opera planejam fazer o mesmo. Essa mudança impacta a capacidade dos usuários de bloquear anúncios na web.",
-      "source": "lemmy",
-      "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/47971131",
-      "createdAt": "2026-06-09T21:33:44.019143+00:00",
-      "rawScore": 0.75,
-      "relevanceScore": 0.508818879143105,
-      "suggestedRadius": 78.8,
-      "imageUrl": "assets/images/lemmy_lemmyworld_47971131_wiki.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_47971131_wiki_thumb.jpg",
-      "category": "tech",
+      "id": "reddit_1gh03o5",
+      "rank": 10,
+      "title": "Bem-vindos ao r/biologia!",
+      "label": "Comunidade de biologia",
+      "context": "O subreddit r/biologia é um espaço para discussões sobre biologia. Ele reúne pessoas interessadas em compartilhar conhecimentos e aprender sobre o assunto.",
+      "source": "reddit",
+      "subreddit": "biologia",
+      "permalink": "https://www.reddit.com/r/biologia/comments/1gh03o5/bemvindos_ao_rbiologia/",
+      "createdAt": "2026-06-11T17:16:49.809360+00:00",
+      "rawScore": 0.8666654989210792,
+      "relevanceScore": 0.8666654989210792,
+      "suggestedRadius": 91.86,
+      "imageUrl": "assets/images/reddit_1gh03o5_ai.jpg",
+      "imageThumbUrl": "assets/images/reddit_1gh03o5_ai_thumb.jpg",
+      "category": "ciencia",
       "region": "brasil",
       "sources": [
         {
-          "title": "Google Chrome is killing all uBlock Origin bypasses, Microsoft Edge, Opera to follow",
-          "url": "https://lemmy.world/post/47971131",
-          "subreddit": "lemmy_global"
+          "title": "Bem-vindos ao r/biologia! 🌱🧬",
+          "url": "https://www.reddit.com/r/biologia/comments/1gh03o5/bemvindos_ao_rbiologia/",
+          "subreddit": "biologia"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Google finalmente está agindo contra anúncios maliciosos! A quantidade de malware e golpes que vêm com publicidade online é assustadora, e não me arrependo nem um pouco de apoiar essa medida. É uma pena que a indústria tenha chegado a esse ponto, mas não é meu problema.",
+          "text": "A comunidade de biologia é incrível, sempre aprendo coisas novas!",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa atitude do Google é um absurdo! Eles estão cedendo à pressão dos anunciantes e sacrificando a privacidade e segurança dos usuários. A empresa está se tornando cada vez mais parecida com um software de vigilância, e a gente paga caro pra usar.",
+          "text": "Não entendo por que as pessoas se importam tanto com biologia, tem outras coisas mais importantes.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Sinceramente, essa briga entre navegadores é patética. A gente fica preso entre o Google, a Microsoft e a Opera, todos fazendo a mesma coisa. No fim das contas, o usuário é quem se ferra, tendo que lidar com anúncios invasivos e coleta de dados.",
+          "text": "Acho que a biologia é interessante, mas também acho que falta mais discussão sobre aplicações práticas.",
           "source": "reddit",
           "votes": 0
         }
       ],
-      "enrichedBy": "google/gemma-3-27b-it"
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     },
     {
-      "id": "hn_48477135",
-      "rank": 10,
-      "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
-      "label": "Lean Startup · New Book Release",
-      "context": "Eric Ries, author of \"The Lean Startup\", held an \"Ask Me Anything\" (AMA) session on the platform to discuss his new book, \"Incorruptible\". The book explores the structural issues leading to unethical behavior in businesses and how to combat them.",
-      "source": "hackernews",
-      "subreddit": "hackernews",
-      "permalink": "https://news.ycombinator.com/item?id=48477135",
-      "createdAt": "2026-06-10T14:47:52+00:00",
-      "rawScore": 0.6057229769102545,
-      "relevanceScore": 0.2253542794826356,
-      "suggestedRadius": 64.48,
-      "imageUrl": "assets/images/hn_48477135_uns.jpg",
-      "imageThumbUrl": "assets/images/hn_48477135_uns_thumb.jpg",
+      "id": "reddit_1u2k9di",
+      "rank": 11,
+      "title": "Desorientação Temporal, Parte 2",
+      "label": "Desorientação Temporal",
+      "context": "O termo desorientação temporal refere-se a uma condição em que as pessoas perdem a noção do tempo. Isso pode ser causado por vários fatores, incluindo doenças neurológicas, lesões cerebrais ou até mesmo o uso de certos medicamentos.",
+      "source": "reddit",
+      "subreddit": "saudemental",
+      "permalink": "https://www.reddit.com/r/saudemental/comments/1u2k9di/desorientação_temporal_parte_2/",
+      "createdAt": "2026-06-11T17:16:54.956790+00:00",
+      "rawScore": 0.8666654989210792,
+      "relevanceScore": 0.8666654989210792,
+      "suggestedRadius": 91.86,
+      "imageUrl": "assets/images/reddit_1u2k9di_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u2k9di_uns_thumb.jpg",
+      "category": "ciencia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Desorientação temporal, parte 2",
+          "url": "https://www.reddit.com/r/saudemental/comments/1u2k9di/desorientação_temporal_parte_2/",
+          "subreddit": "saudemental"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A pesquisa sobre desorientação temporal é fundamental para entender melhor como o cérebro processa o tempo.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A falta de conscientização sobre a desorientação temporal pode levar a diagnósticos errados e tratamentos inadequados.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "É intrigante como a percepção do tempo pode variar tanto de pessoa para pessoa, mesmo sem condições médicas específicas.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1kcyy3h",
+      "rank": 12,
+      "title": "Buscamos Moderadores Nativos em Espanhol",
+      "label": "Moderadores para Comunidade de Medicina",
+      "context": "A comunidade de medicina está procurando por moderadores nativos em espanhol para ajudar a gerenciar a comunidade. Isso é importante porque a comunidade precisa de pessoas que possam entender e responder às necessidades dos membros em seu idioma nativo.",
+      "source": "reddit",
+      "subreddit": "medicina",
+      "permalink": "https://www.reddit.com/r/Medicina/comments/1kcyy3h/buscamos_moderadores_nativos_en_español/",
+      "createdAt": "2026-06-11T17:16:57.523347+00:00",
+      "rawScore": 0.8666654989210792,
+      "relevanceScore": 0.8666654989210792,
+      "suggestedRadius": 91.86,
+      "imageUrl": "assets/images/reddit_1kcyy3h_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1kcyy3h_uns_thumb.jpg",
+      "category": "ciencia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "¡Buscamos Moderadores Nativos en Español!",
+          "url": "https://www.reddit.com/r/Medicina/comments/1kcyy3h/buscamos_moderadores_nativos_en_español/",
+          "subreddit": "medicina"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo deve apoiar mais iniciativas como essa para promover a saúde em espanhol.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A empresa não deve se concentrar apenas em espanhol, deve haver mais diversidade de idiomas.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Trabalhadores da saúde devem ser capazes de se comunicar de forma eficaz em diferentes idiomas, não apenas em espanhol.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "masto_mastodonsocial_116730558972964330",
+      "rank": 13,
+      "title": "Verificação de idade",
+      "label": "Privacidade online · Verificação de idade",
+      "context": "A verificação de idade em plataformas online é um tema controverso, pois pode afetar a privacidade dos usuários. A implementação de medidas de verificação de idade pode ser vista como uma forma de proteger os menores de idade de conteúdos inapropriados, mas também pode levantar preocupações sobre a coleta e uso de dados pessoais.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://mastodon.online/@joho/116730558955694159",
+      "createdAt": "2026-06-11T08:36:16+00:00",
+      "rawScore": 0.85,
+      "relevanceScore": 0.85,
+      "suggestedRadius": 91.32,
+      "imageUrl": "assets/images/masto_mastodonsocial_116730558972964330_reddit.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_116730558972964330_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Age verification ... — #privacy #privacymatters #ageverification #socialmedia #surveillance #dataskydd #dataprotection #gdpr #deepstate",
+          "url": "https://mastodon.online/@joho/116730558955694159",
+          "subreddit": "masto_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A verificação de idade é necessária para proteger os menores de idade de conteúdos inapropriados e garantir a segurança online.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A verificação de idade é uma violação da privacidade e pode ser usada para coletar dados pessoais e controlar a liberdade de expressão.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A verificação de idade pode ser uma medida necessária, mas é importante garantir que seja implementada de forma transparente e segura, sem comprometer a privacidade dos usuários.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1u33eso",
+      "rank": 14,
+      "title": "Profissionais de TI, a Federal vale o preço?",
+      "label": "Valor da Federal em TI",
+      "context": "Profissionais de TI questionam se a formação em uma universidade federal vale o preço, considerando a importância de networking e experiência prática. A formação em uma universidade federal pode influenciar a carreira de um profissional de TI, mas a experiência e o networking também são fundamentais.",
+      "source": "reddit",
+      "subreddit": "programacao",
+      "permalink": "https://www.reddit.com/r/programacao/comments/1u33eso/profissionais_de_ti_a_federal_vale_o_preço/",
+      "createdAt": "2026-06-11T17:16:40.318179+00:00",
+      "rawScore": 0.7999982483816188,
+      "relevanceScore": 0.7999982483816188,
+      "suggestedRadius": 89.67,
+      "imageUrl": "assets/images/reddit_1u33eso_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u33eso_uns_thumb.jpg",
       "category": "tech",
       "region": "brasil",
       "sources": [
         {
-          "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" – AMA",
-          "url": "https://news.ycombinator.com/item?id=48477135",
+          "title": "Profissionais de TI, a Federal vale o preço necesse cenário?",
+          "url": "https://www.reddit.com/r/programacao/comments/1u33eso/profissionais_de_ti_a_federal_vale_o_preço/",
+          "subreddit": "programacao"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Acho que a Federal é uma boa opção, mas não é o único caminho. Um curso bom por fora e projetos para pessoas e negócios que você conhece podem ser mais valiosos.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Não acho que a Federal seja necessária, um diploma não garante emprego. É melhor investir em projetos próprios e ter um GitHub bom.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A Federal pode ajudar, mas não é o único fator. 50% é networking e 50% é ego, então não é apenas o diploma que define o sucesso.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1u2f178",
+      "rank": 15,
+      "title": "DiffusionGemma: geração de texto 4x mais rápida",
+      "label": "Tecnologia · Geração de texto",
+      "context": "A DiffusionGemma é uma nova tecnologia que promete gerar texto 4x mais rápido. Isso pode revolucionar a forma como criamos conteúdo, tornando-a mais eficiente e rápida.",
+      "source": "reddit",
+      "subreddit": "tecnologia",
+      "permalink": "https://www.reddit.com/r/Tecnologia/comments/1u2f178/diffusiongemma_4x_faster_text_generation/",
+      "createdAt": "2026-06-11T17:16:42.581150+00:00",
+      "rawScore": 0.7999982483816188,
+      "relevanceScore": 0.7999982483816188,
+      "suggestedRadius": 89.67,
+      "imageUrl": "assets/images/reddit_1u2f178_ai.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u2f178_ai_thumb.jpg",
+      "category": "tech",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "DiffusionGemma: 4x faster text generation",
+          "url": "https://www.reddit.com/r/Tecnologia/comments/1u2f178/diffusiongemma_4x_faster_text_generation/",
+          "subreddit": "tecnologia"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A DiffusionGemma vai mudar o jogo para os criadores de conteúdo, permitindo que produzam mais conteúdo de alta qualidade em menos tempo.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A DiffusionGemma pode levar a uma perda de empregos para os escritores e editores, pois a tecnologia pode substituir o trabalho humano.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A DiffusionGemma é uma ferramenta poderosa, mas precisamos considerar os riscos e benefícios antes de adotá-la em larga escala.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "masto_mastodonsocial_116730863284493957",
+      "rank": 16,
+      "title": "Google Chrome vai acabar com uBlock Origin",
+      "label": "Fim do uBlock Origin no Chrome",
+      "context": "O Google Chrome anunciou que vai acabar com o suporte ao uBlock Origin, uma extensão popular de bloqueio de anúncios. Isso significa que os usuários do Chrome terão que encontrar alternativas para bloquear anúncios.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://mastodon.social/@Tutanota/116730863284493957",
+      "createdAt": "2026-06-11T09:53:39.949000+00:00",
+      "rawScore": 0.7840696716090287,
+      "relevanceScore": 0.7840696716090287,
+      "suggestedRadius": 89.13,
+      "imageUrl": "assets/images/masto_mastodonsocial_116730863284493957_ai.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_116730863284493957_ai_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "🚨🚨 BREAKING: Google Chrome to kill uBlock Origin for good 🚨🚨 — Time to switch to #private #browser #alternatives — Which one do you use? 👇 — - Mozilla Firefox - DuckDuckGo Browser - Mullvad Browser - Zen Firefox - Waterfox - Pale Moon — Recommendation by the Tuta Team: https://tuta.com/blog/best-pri",
+          "url": "https://mastodon.social/@Tutanota/116730863284493957",
+          "subreddit": "masto_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Vivaldi é uma ótima opção, pois tem um bloqueador de anúncios embutido e não depende do uBlock Origin.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Isso é um desastre, o uBlock Origin é a única forma de evitar anúncios intrusivos no Chrome.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Talvez seja hora de considerar outras opções de navegadores, como o Firefox ou o Brave, que têm bloqueadores de anúncios mais eficazes.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1sfxs4w",
+      "rank": 17,
+      "title": "Homens pilotam scooter",
+      "label": "Scooter no dia a dia",
+      "context": "O uso de scooters por homens em seu dia a dia tem gerado discussões. A percepção sobre essa prática varia entre as pessoas.",
+      "source": "reddit",
+      "subreddit": "esportes",
+      "permalink": "https://www.reddit.com/r/esportes/comments/1sfxs4w/diga_aí_mulheres_o_que_vocês_acham_de_homens_que/",
+      "createdAt": "2026-06-11T17:17:01.356754+00:00",
+      "rawScore": 0.666663747302698,
+      "relevanceScore": 0.666663747302698,
+      "suggestedRadius": 84.99,
+      "imageUrl": "assets/images/reddit_1sfxs4w_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1sfxs4w_uns_thumb.jpg",
+      "category": "esportes",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "\"Diga aí mulheres o que vocês acham de homens que pilotam scooter no seu dia a dia?",
+          "url": "https://www.reddit.com/r/esportes/comments/1sfxs4w/diga_aí_mulheres_o_que_vocês_acham_de_homens_que/",
+          "subreddit": "esportes"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Os homens que pilotam scooter estão mostrando uma nova forma de masculinidade, mais sustentável e prática.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A cultura do scooter entre homens reforça a ideia de que os espaços públicos são para o entretenimento masculino, ignorando questões de acessibilidade e segurança.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O uso de scooters por homens ou mulheres deve ser encorajado como uma opção de transporte sustentável, desde que respeitem as regras de trânsito e a segurança de todos.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "hn_48489402",
+      "rank": 18,
+      "title": "Linhas de código têm um publicista melhor",
+      "label": "Código gerado por IA · Utilidade questionada",
+      "context": "Um post recente no Hacker News discute a utilidade de linhas de código geradas por inteligência artificial. O debate gira em torno da quantidade de código necessário para realizar tarefas específicas. A discussão levanta questões sobre a eficiência e a qualidade do código gerado por máquinas.",
+      "source": "hackernews",
+      "subreddit": "hackernews",
+      "permalink": "https://news.ycombinator.com/item?id=48489402",
+      "createdAt": "2026-06-11T12:26:42+00:00",
+      "rawScore": 0.6567485849617278,
+      "relevanceScore": 0.6567485849617278,
+      "suggestedRadius": 84.62,
+      "imageUrl": "assets/images/hn_48489402_uns.jpg",
+      "imageThumbUrl": "assets/images/hn_48489402_uns_thumb.jpg",
+      "category": "tech",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Lines of code got a better publicist",
+          "url": "https://news.ycombinator.com/item?id=48489402",
           "subreddit": "hackernews"
         }
       ],
@@ -509,40 +882,662 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Ries’ focus on long-term commitment to human flourishing is spot on. It’s refreshing to see someone challenge the shareholder-value-at-all-costs mentality that’s dominated business school thinking for decades, and I’m eager to see how this plays out.",
+          "text": "O código gerado por IA é incrível, economiza tempo e aumenta a produtividade dos desenvolvedores.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Honestly, this whole discussion feels naive. Talking about 'financial gravity' like it's some natural force ignores the deliberate choices made by the wealthy and powerful to rig the system in their favor. It’s a distraction from the real problem: unchecked capitalism.",
+          "text": "O código gerado por IA é uma perda de tempo, é difícil de entender e pode causar mais problemas do que soluções.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "The debate about 'corruption' and 'financial gravity' feels a bit semantic. Companies will always respond to incentives, and the question is whether those incentives are aligned with societal good. It’s a complex issue, and I’m skeptical any book can offer easy answers.",
+          "text": "Acho que o código gerado por IA pode ser útil em alguns casos, mas também pode ser um problema se não for utilizado com cuidado e revisado por humanos.",
           "source": "reddit",
           "votes": 0
         }
       ],
-      "enrichedBy": "google/gemma-3-27b-it"
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "masto_mastodonsocial_116732216032158645",
+      "rank": 19,
+      "title": "Coelho em sua primeira entrevista de emprego",
+      "label": "Coelho sem experiência",
+      "context": "Um coelho está em sua primeira entrevista de emprego com um currículo vazio, mas cheio de boa vontade. Isso destaca a importância de considerar a atitude e a disposição de um candidato, além da experiência profissional.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://mastodon.art/@guilhernunes_/116732215896806721",
+      "createdAt": "2026-06-11T15:37:39+00:00",
+      "rawScore": 0.4250676174563024,
+      "relevanceScore": 0.4250676174563024,
+      "suggestedRadius": 75.12,
+      "imageUrl": "assets/images/masto_mastodonsocial_116732216032158645_reddit.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_116732216032158645_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Bunny at his first job interview! Empty resume, but a heart full of goodwill.",
+          "url": "https://mastodon.art/@guilhernunes_/116732215896806721",
+          "subreddit": "masto_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O coelho está mostrando iniciativa, isso é o que importa, não a experiência.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O sistema está falho se um coelho sem experiência pode ser considerado, é uma questão de privilégio.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A capacidade de aprender e se adaptar é fundamental, não apenas a experiência prévia.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1u2of1o",
+      "rank": 21,
+      "title": "Invasão Russa da Ucrânia",
+      "label": "Guerra Ucrânia-Rússia",
+      "context": "A Rússia invadiu a Ucrânia em 24 de fevereiro de 2022, resultando em uma guerra em andamento. A comunidade internacional condenou a ação russa e impôs sanções econômicas ao país.",
+      "source": "reddit",
+      "subreddit": "worldnews",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1u2of1o/rworldnews_live_thread_russian_invasion_of/",
+      "createdAt": "2026-06-11T17:15:39.297573+00:00",
+      "rawScore": 1.0,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/reddit_1u2of1o_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u2of1o_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1568, Part 1 (Thread #1715)",
+          "url": "https://www.reddit.com/r/worldnews/comments/1u2of1o/rworldnews_live_thread_russian_invasion_of/",
+          "subreddit": "worldnews"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo russo está fazendo o que é necessário para proteger seus interesses nacionais.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A invasão russa da Ucrânia é um exemplo clássico de imperialismo e opressão.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A comunidade internacional deve trabalhar juntos para encontrar uma solução pacífica para o conflito.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1t1zotc",
+      "rank": 22,
+      "title": "Autor de China's Backstory fala sobre estratégia geopolítica da China",
+      "label": "China · Estratégia Geopolítica",
+      "context": "O autor de China's Backstory, um livro sobre a história da China, participou de uma sessão de perguntas e respostas na plataforma Reddit. Ele discutiu a estratégia geopolítica da China e como ela afeta a região. A China tem sido uma potência em ascensão nos últimos anos, e sua estratégia geopolítica é um tema de grande interesse e debate.",
+      "source": "reddit",
+      "subreddit": "geopolitics",
+      "permalink": "https://www.reddit.com/r/geopolitics/comments/1t1zotc/ama_im_the_author_of_chinas_backstory_the_history/",
+      "createdAt": "2026-06-11T17:15:53.506203+00:00",
+      "rawScore": 1.0,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/hn_48477135_uns.jpg",
+      "imageThumbUrl": "assets/images/hn_48477135_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "AMA - I’m the author of China’s Backstory: The History Beijing Doesn’t Want You to Read. Ask Me Anything about the historical drivers of the PRC’s modern geopolitical strategy! AMA!",
+          "url": "https://www.reddit.com/r/geopolitics/comments/1t1zotc/ama_im_the_author_of_chinas_backstory_the_history/",
+          "subreddit": "geopolitics"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A China é uma ameaça à liberdade e à democracia, e precisamos tomar medidas para conter sua influência.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A China é um exemplo de como o socialismo pode funcionar, e sua estratégia geopolítica é uma resposta necessária ao imperialismo ocidental.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A China é uma potência complexa e multifacetada, e sua estratégia geopolítica precisa ser entendida e abordada de forma matizada e pragmática.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1u30afd",
+      "rank": 23,
+      "title": "El Niño chega e cientistas temem que será grande, ruim e caro com calor, inundações, secas, incêndios",
+      "label": "El Niño · Consequências climáticas",
+      "context": "O fenômeno climático El Niño está presente e os cientistas temem que ele será grande e terá consequências ruins e caras, com ondas de calor, inundações, secas e incêndios. Isso pode afetar diversas regiões do mundo, incluindo áreas que já estão sofrendo com a seca e o calor.",
+      "source": "reddit",
+      "subreddit": "news",
+      "permalink": "https://www.reddit.com/r/news/comments/1u30afd/el_nino_is_here_and_scientists_fear_itll_be_big/",
+      "createdAt": "2026-06-11T17:16:15.547164+00:00",
+      "rawScore": 1.0,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/reddit_1u30afd_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u30afd_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "El Nino is here and scientists fear it'll be big, bad and costly with heat, floods, droughts, fires",
+          "url": "https://www.reddit.com/r/news/comments/1u30afd/el_nino_is_here_and_scientists_fear_itll_be_big/",
+          "subreddit": "news"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo precisa tomar medidas para ajudar as áreas afetadas pela seca e pelo calor, é hora de agir.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa é a consequência da nossa falta de ação contra as mudanças climáticas, estamos pagando o preço por nossa negligência.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "É interessante como as pessoas só se importam com o meio ambiente quando é tarde demais, talvez seja hora de repensar nossas prioridades.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1fq0up7",
+      "rank": 24,
+      "title": "Regras II e III: Propostas de Política e Não-Economistas",
+      "label": "Política em Discussões Econômicas",
+      "context": "A comunidade do subreddit de economia está discutindo a implementação de novas regras para evitar postagens políticas. O objetivo é manter a discussão focada em economia e política econômica, sem permitir postagens puramente políticas. Isso é importante porque a comunidade quer manter um ambiente de discussão sério e produtivo sobre economia.",
+      "source": "reddit",
+      "subreddit": "economics",
+      "permalink": "https://www.reddit.com/r/Economics/comments/1fq0up7/meta_rules_ii_iii_policy_proposals_and/",
+      "createdAt": "2026-06-11T17:15:51.317933+00:00",
+      "rawScore": 0.9333327494605396,
+      "relevanceScore": 0.9333327494605396,
+      "suggestedRadius": 93.97,
+      "imageUrl": "assets/images/reddit_1fq0up7_ai.jpg",
+      "imageThumbUrl": "assets/images/reddit_1fq0up7_ai_thumb.jpg",
+      "category": "economia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "[Meta] Rules II & III: Policy Proposals and Non-economists",
+          "url": "https://www.reddit.com/r/Economics/comments/1fq0up7/meta_rules_ii_iii_policy_proposals_and/",
+          "subreddit": "economics"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo deve manter a economia livre de influências políticas, é hora de focar em crescimento econômico real, não em discussões vazias.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A política é inerente à economia, não podemos separar as duas, é uma tentativa de silenciar vozes críticas ao sistema capitalista.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A comunidade deve encontrar um equilíbrio entre discussões econômicas e políticas, permitindo que as pessoas expressem suas opiniões, mas mantendo a civilidade e o respeito.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "bsky_3mnyoq2d3ps2b",
+      "rank": 25,
+      "title": "Canadá acolhe árbitro somali Omar Artan",
+      "label": "Árbitro somali · Canadá o acolhe",
+      "context": "O premier de British Columbia, David Eby, anunciou que a província canadense acolherá o árbitro somali Omar Artan. Isso ocorre após a recusa de entrada nos EUA para o árbitro, que foi convidado para apitar partidas da Copa do Mundo. A decisão de acolher o árbitro é vista como um gesto de solidariedade e respeito aos direitos humanos.",
+      "source": "bluesky",
+      "subreddit": "bsky_global",
+      "permalink": "https://bsky.app/profile/gillmartin.bsky.social/post/3mnyoq2d3ps2b",
+      "createdAt": "2026-06-11T07:18:55.866000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 0.9,
+      "suggestedRadius": 92.92,
+      "imageUrl": "assets/images/bsky_3mnyoq2d3ps2b_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mnyoq2d3ps2b_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "CANADA COMES TO THE RESCUE OF SOMALIAN REFEREE OMAR ARTAN! 🇨🇦🇸🇴 David Eby, Premier of British Columbia, has announced that his province would welcome Omar Artan. He stated that Artan should be allowed to referee World Cup matches within his jurisdiction, specifically in the host city of Vancouver.",
+          "url": "https://bsky.app/profile/gillmartin.bsky.social/post/3mnyoq2d3ps2b",
+          "subreddit": "bsky_global"
+        },
+        {
+          "title": "Canada showing what inclusion & common sense look like 🇨🇦⚽ If the U.S. won’t allow FIFA referee Omar Artan to participate, Vancouver is ready to welcome him & ensure the game comes first! #Canada #Vancouver #FIFA2026 #WorldCup #Soccer #SheShed",
+          "url": "https://bsky.app/profile/corrina.sheshed.rocks/post/3mnzimlyvic2w",
+          "subreddit": "bsky_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo canadense está fazendo o que é certo, acolhendo o árbitro somali. É um exemplo de como um país deve tratar os imigrantes.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A recusa de entrada nos EUA é um exemplo claro de racismo e xenofobia. O governo canadense está apenas fazendo o mínimo para compensar a injustiça.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A decisão de acolher o árbitro somali é um passo na direção certa, mas é importante lembrar que a Copa do Mundo é um evento global e que a FIFA deve garantir que todos os árbitros sejam tratados com respeito e dignidade.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "hn_48487029",
+      "rank": 26,
+      "title": "Pokémon Go Treinou Tecnologia de Navegação para Drones Militares",
+      "label": "Pokémon Go · Drones Militares",
+      "context": "O jogo Pokémon Go coletou dados de localização de jogadores para treinar drones militares. Isso levanta questões sobre a privacidade e o uso de dados coletados por jogos e aplicativos.",
+      "source": "hackernews",
+      "subreddit": "hackernews",
+      "permalink": "https://news.ycombinator.com/item?id=48487029",
+      "createdAt": "2026-06-11T06:42:06+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 0.9,
+      "suggestedRadius": 92.92,
+      "imageUrl": "assets/images/hn_48487029_ai.jpg",
+      "imageThumbUrl": "assets/images/hn_48487029_ai_thumb.jpg",
+      "category": "tech",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Pokémon Go Scans Trained the Navigation Tech for Military Drones",
+          "url": "https://news.ycombinator.com/item?id=48487029",
+          "subreddit": "hackernews"
+        },
+        {
+          "title": "Pokemon Go data used for military drone training",
+          "url": "https://www.reddit.com/r/gaming/comments/1u2xg8w/pokemon_go_data_used_for_military_drone_training/",
+          "subreddit": "gaming"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo deveria aproveitar essa tecnologia para melhorar a segurança nacional.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A Niantic está usando os jogadores de Pokémon Go como cobaias para coletar dados para drones militares, isso é uma violação da privacidade.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Os jogadores de Pokémon Go deveriam estar cientes de que seus dados estão sendo coletados e usados para fins militares, mas também é importante considerar os benefícios da tecnologia.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1tochso",
+      "rank": 27,
+      "title": "Aviso: Pesquisa da Cornell sobre normas e participação na comunidade",
+      "label": "Pesquisa da Cornell · Comunidade r/science",
+      "context": "Pesquisadores da Cornell University estão realizando uma pesquisa para estudar as normas e a participação da comunidade no subreddit r/science. A pesquisa visa entender melhor como as comunidades online funcionam e como elas podem ser melhoradas.",
+      "source": "reddit",
+      "subreddit": "science",
+      "permalink": "https://www.reddit.com/r/science/comments/1tochso/notice_cornell_survey_to_study_community_norms/",
+      "createdAt": "2026-06-11T17:15:49.362521+00:00",
+      "rawScore": 0.8666654989210792,
+      "relevanceScore": 0.8666654989210792,
+      "suggestedRadius": 91.86,
+      "imageUrl": "assets/images/reddit_1tochso_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1tochso_uns_thumb.jpg",
+      "category": "ciencia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Notice: Cornell survey to study community norms and participation in r/science",
+          "url": "https://www.reddit.com/r/science/comments/1tochso/notice_cornell_survey_to_study_community_norms/",
+          "subreddit": "science"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Cornell University está fazendo um ótimo trabalho ao estudar as normas da comunidade, isso vai ajudar a manter a ordem e a qualidade do conteúdo no subreddit.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa pesquisa é apenas mais uma forma de controle e vigilância, a Cornell University está tentando entender como manipular a comunidade para seus próprios interesses.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A pesquisa da Cornell University pode ser uma oportunidade para melhorar a comunidade do subreddit r/science, desde que os resultados sejam transparentes e utilizados para benefício de todos os usuários.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1u2yf6d",
+      "rank": 28,
+      "title": "Trump Comprou Ações de Tabaco e Recebeu Doações da Indústria",
+      "label": "Trump e a Indústria do Tabaco",
+      "context": "O presidente Trump comprou ações de tabaco e recebeu doações da indústria enquanto a FDA (Agência de Alimentos e Medicamentos dos EUA) flexibilizava as normas. Isso levanta questões sobre a influência da indústria na política de saúde pública.",
+      "source": "reddit",
+      "subreddit": "health",
+      "permalink": "https://www.reddit.com/r/Health/comments/1u2yf6d/trump_bought_tobacco_stocks_and_raked_in_industry/",
+      "createdAt": "2026-06-11T17:16:17.630885+00:00",
+      "rawScore": 0.8666654989210792,
+      "relevanceScore": 0.8666654989210792,
+      "suggestedRadius": 91.86,
+      "imageUrl": "assets/images/reddit_1u2yf6d_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u2yf6d_uns_thumb.jpg",
+      "category": "ciencia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Trump Bought Tobacco Stocks and Raked In Industry Donations as FDA Eased Standards",
+          "url": "https://www.reddit.com/r/Health/comments/1u2yf6d/trump_bought_tobacco_stocks_and_raked_in_industry/",
+          "subreddit": "health"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "negative",
+          "text": "Trump não se importa com nada, exceto enriquecer a si mesmo e seus amigos. É desolador ver o mais alto cargo do país sendo usado para isso.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "positive",
+          "text": "Acho que Trump está fazendo o que é melhor para a economia e para o país, mesmo que isso signifique flexibilizar algumas regras.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Não entendo por que as pessoas ainda apoiam Trump após todos os escândalos. Será que elas não se importam com a ética e a moralidade em política?",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1tzj4qx",
+      "rank": 29,
+      "title": "Perguntas sobre o Espaço na Semana de 07 de Junho de 2026",
+      "label": "Perguntas sobre o Espaço",
+      "context": "A comunidade de espaço do Reddit discute sobre várias questões relacionadas ao espaço, incluindo a Estação Espacial Internacional, satélites, buracos negros e a expansão do universo. Os usuários compartilham informações e opiniões sobre esses tópicos.",
+      "source": "reddit",
+      "subreddit": "space",
+      "permalink": "https://www.reddit.com/r/space/comments/1tzj4qx/all_space_questions_thread_for_week_of_june_07/",
+      "createdAt": "2026-06-11T17:16:19.823759+00:00",
+      "rawScore": 0.8666654989210792,
+      "relevanceScore": 0.8666654989210792,
+      "suggestedRadius": 91.86,
+      "imageUrl": "assets/images/reddit_1tzj4qx_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1tzj4qx_uns_thumb.jpg",
+      "category": "ciencia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "All Space Questions thread for week of June 07, 2026",
+          "url": "https://www.reddit.com/r/space/comments/1tzj4qx/all_space_questions_thread_for_week_of_june_07/",
+          "subreddit": "space"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A NASA deve focar em missões tripuladas para Marte, em vez de gastar recursos em projetos de infraestrutura espacial.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A exploração espacial é uma forma de imperialismo, onde os países ricos exploram os recursos do espaço para seus próprios interesses, enquanto os pobres são deixados para trás.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A cooperação internacional é fundamental para o avanço da exploração espacial, pois permite que os países compartilhem recursos e conhecimentos para alcançar objetivos comuns.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1u337mn",
+      "rank": 30,
+      "title": "Louis Rossmann processa Samsung por oferecer reembolso de $330 por SSD defeituoso",
+      "label": "Samsung recusa garantia de SSD",
+      "context": "Louis Rossmann está processando Samsung após a empresa oferecer um reembolso de $330 por um SSD defeituoso, enquanto continua a vender o mesmo produto por $949 na Amazon. O caso está relacionado a um SSD de 4TB 990 Pro e está indo para o tribunal.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1u337mn/louis_rossmann_is_suing_samsung_after_firm_offers/",
+      "createdAt": "2026-06-11T17:15:47.275185+00:00",
+      "rawScore": 0.7999982483816188,
+      "relevanceScore": 0.7999982483816188,
+      "suggestedRadius": 89.67,
+      "imageUrl": "assets/images/reddit_1u337mn_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u337mn_uns_thumb.jpg",
+      "category": "tech",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Louis Rossmann is suing Samsung after firm offers $330 refund for defective SSD while selling the drives on Amazon for $949 — spat over 4TB 990 Pro SSD is headed to court",
+          "url": "https://www.reddit.com/r/technology/comments/1u337mn/louis_rossmann_is_suing_samsung_after_firm_offers/",
+          "subreddit": "technology"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Samsung está apenas tentando proteger seus interesses, não é justo que Rossmann espere um reembolso tão alto por um produto defeituoso.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Samsung está apenas mostrando seu verdadeiro rosto, um empresa que não se importa com os consumidores e apenas quer lucrar com produtos defeituosos.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O caso de Rossmann contra Samsung é um exemplo clássico de como as empresas podem tentar escapar de suas responsabilidades, mas é importante lembrar que a garantia é um direito do consumidor e deve ser respeitada.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1s57jsb",
+      "rank": 31,
+      "title": "Moderação sobre temas recorrentes",
+      "label": "Regras para posts sobre IA",
+      "context": "A moderação do subreddit brdev está reforçando as regras para evitar posts de baixo esforço e conteúdo repetitivo sobre inteligência artificial. Isso é importante porque ajuda a manter a qualidade das discussões e evitar a repetição de temas já abordados.",
+      "source": "reddit",
+      "subreddit": "brdev",
+      "permalink": "https://www.reddit.com/r/brdev/comments/1s57jsb/moderação_sobre_temas_recorrentes_e_conteúdo_de/",
+      "createdAt": "2026-06-11T17:16:37.886175+00:00",
+      "rawScore": 0.7999982483816188,
+      "relevanceScore": 0.7999982483816188,
+      "suggestedRadius": 89.67,
+      "imageUrl": "assets/images/reddit_1s57jsb_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1s57jsb_uns_thumb.jpg",
+      "category": "tech",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "[Moderação] Sobre temas recorrentes e conteúdo de baixo esforço (Novamente)",
+          "url": "https://www.reddit.com/r/brdev/comments/1s57jsb/moderação_sobre_temas_recorrentes_e_conteúdo_de/",
+          "subreddit": "brdev"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A moderação está certa, precisamos de mais qualidade nos posts sobre IA.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Isso é censura, os moderadores estão removendo posts legítimos sobre IA.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Acho que a moderação precisa ser mais clara sobre o que é considerado 'baixo esforço' para evitar remoções arbitrárias.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     },
     {
       "id": "lemmy_lemmyworld_47977545",
-      "rank": 11,
-      "title": "Graham Platner Wins in Maine, Turning Anti-Establishment Fight on Susan Collins",
-      "label": "Maine Election · Platner Victory & Controversy",
-      "context": "Graham Platner won a recent election in Maine, challenging incumbent Susan Collins. The victory has sparked debate due to a past tattoo Platner had, which some claim is a Nazi symbol.",
+      "rank": 32,
+      "title": "Graham Platner vence em Maine",
+      "label": "Eleição em Maine · Platner x Collins",
+      "context": "Graham Platner, um candidato democrata, venceu a eleição em Maine, derrotando a senadora republicana Susan Collins. A vitória de Platner é vista como um desafio ao establishment político.",
       "source": "lemmy",
       "subreddit": "lemmy_global",
       "permalink": "https://lemmy.world/post/47977545",
       "createdAt": "2026-06-10T02:00:16.792495+00:00",
-      "rawScore": 0.5451013710309348,
-      "relevanceScore": 0.10624952618683897,
-      "suggestedRadius": 55.56,
+      "rawScore": 0.75,
+      "relevanceScore": 0.75,
+      "suggestedRadius": 87.96,
       "imageUrl": "assets/images/lemmy_lemmyworld_47977545_reddit.jpg",
       "imageThumbUrl": "assets/images/lemmy_lemmyworld_47977545_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -558,48 +1553,456 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Platner represents a real shift, and that’s what matters! The elites are freaking out because someone who actually cares about working people won. All this noise about a tattoo from decades ago is just a desperate attempt to smear a candidate who threatens the status quo.",
+          "text": "Platner é um verdadeiro progressista, não um político de carreira. Ele tem coragem de desafiar o establishment.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "This guy had a Nazi tattoo! Seriously? People are making excuses about it being a 'pirate' symbol or him not knowing what it meant, but come on. You don't just accidentally get a symbol like that. It shows a disturbing side of his past, and voters deserve to know.",
+          "text": "Platner é um candidato problemático, com um passado controverso. Ele não é confiável para representar o povo de Maine.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Honestly, the obsession with a tattoo from twenty years ago is ridiculous. People change, make mistakes, and get dumb tattoos when they're young. The media is blowing this way out of proportion, and it's a distraction from the real issues facing Maine.",
+          "text": "A vitória de Platner mostra que o povo de Maine está cansado do establishment político. Mas será que ele está preparado para governar?",
           "source": "reddit",
           "votes": 0
         }
       ],
-      "enrichedBy": "google/gemma-3-27b-it"
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     },
     {
-      "id": "hn_48472877",
-      "rank": 12,
-      "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
-      "label": "Electric Motors · Axial Flux Technology",
-      "context": "Mercedes-Benz has begun mass production of a new type of electric motor, the axial flux motor, at its Berlin plant. This motor, developed by the British company YASA, features a unique design where the magnetic flux runs parallel to the axis of rotation, allowing for a more compact and efficient build.",
-      "source": "hackernews",
-      "subreddit": "hackernews",
-      "permalink": "https://news.ycombinator.com/item?id=48472877",
-      "createdAt": "2026-06-10T07:44:49+00:00",
-      "rawScore": 0.4910227828710925,
-      "relevanceScore": 0.0,
-      "suggestedRadius": 36.0,
-      "imageUrl": "assets/images/hn_48472877_uns.jpg",
-      "imageThumbUrl": "assets/images/hn_48472877_uns_thumb.jpg",
+      "id": "bsky_3mnzjifkltc27",
+      "rank": 33,
+      "title": "AMA pede que líderes condenem RFK Jr.",
+      "label": "AMA contra RFK Jr.",
+      "context": "Membros da American Medical Association (AMA) pediram que seus líderes condenem RFK Jr. devido às suas posições sobre saúde. Isso pode afetar a imagem da organização e a confiança do público em suas políticas de saúde.",
+      "source": "bluesky",
+      "subreddit": "bsky_global",
+      "permalink": "https://bsky.app/profile/politico.com/post/3mnzjifkltc27",
+      "createdAt": "2026-06-11T15:17:46.072000+00:00",
+      "rawScore": 0.6733431464290924,
+      "relevanceScore": 0.6733431464290924,
+      "suggestedRadius": 85.23,
+      "imageUrl": "assets/images/bsky_3mnzjifkltc27_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mnzjifkltc27_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "At the American Medical Association’s annual meeting, members of the group’s House of Delegates sent a clear message to their leaders: Call out RFK Jr. — even if it costs us in the pocketbook.",
+          "url": "https://bsky.app/profile/politico.com/post/3mnzjifkltc27",
+          "subreddit": "bsky_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo deve ouvir a AMA e remover RFK Jr. do cargo, ele é um perigo para a saúde pública.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A AMA está apenas tentando proteger seus próprios interesses, RFK Jr. está fazendo o que é certo, mesmo que seja impopular.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "É estranho que a AMA tenha demorado tanto para falar sobre isso, será que eles realmente estão preocupados com a saúde pública ou apenas querem manter a imagem?",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1bfpxfw",
+      "rank": 34,
+      "title": "Bem-vindo ao /r/sports!",
+      "label": "Comunidade esportiva",
+      "context": "O subreddit /r/sports é um espaço para discutir esportes. Ele reúne fãs de diferentes modalidades para compartilhar notícias e opiniões.",
+      "source": "reddit",
+      "subreddit": "sports",
+      "permalink": "https://www.reddit.com/r/sports/comments/1bfpxfw/welcome_to_rsports/",
+      "createdAt": "2026-06-11T17:15:55.706307+00:00",
+      "rawScore": 0.666663747302698,
+      "relevanceScore": 0.666663747302698,
+      "suggestedRadius": 84.99,
+      "imageUrl": "assets/images/reddit_1bfpxfw_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1bfpxfw_uns_thumb.jpg",
+      "category": "esportes",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Welcome to /r/sports!",
+          "url": "https://www.reddit.com/r/sports/comments/1bfpxfw/welcome_to_rsports/",
+          "subreddit": "sports"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo deve investir mais em infraestrutura esportiva para apoiar atletas locais.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A empresa de esportes mais lucrativa não está fazendo o suficiente para promover o esporte amador.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Trabalhadores esportivos precisam de mais apoio financeiro para manter suas carreiras.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1u31i9q",
+      "rank": 35,
+      "title": "Discussão Diária",
+      "label": "Copa do Mundo · Transmissão",
+      "context": "A BBC e a ITV estão transmitindo a Copa do Mundo. A BBC está transmitindo a maior parte do torneio de Salford, enquanto a ITV está transmitindo de um estúdio em Brooklyn. Isso tem gerado discussões sobre a qualidade da transmissão e a escolha de locais.",
+      "source": "reddit",
+      "subreddit": "soccer",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1u31i9q/daily_discussion/",
+      "createdAt": "2026-06-11T17:15:58.028193+00:00",
+      "rawScore": 0.666663747302698,
+      "relevanceScore": 0.666663747302698,
+      "suggestedRadius": 84.99,
+      "imageUrl": "assets/images/reddit_1u31i9q_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u31i9q_uns_thumb.jpg",
+      "category": "esportes",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Daily Discussion",
+          "url": "https://www.reddit.com/r/soccer/comments/1u31i9q/daily_discussion/",
+          "subreddit": "soccer"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A ITV está fazendo um ótimo trabalho com a transmissão, o estúdio em Brooklyn é incrível!",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A BBC está fazendo um trabalho melhor, a transmissão de Salford é mais profissional.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Não entendo por que as pessoas estão reclamando, tanto a BBC quanto a ITV estão fazendo um bom trabalho.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1u2ntjw",
+      "rank": 36,
+      "title": "Knicks superam déficit de 29 pontos e derrotam Spurs",
+      "label": "Virada histórica nos playoffs da NBA",
+      "context": "O New York Knicks superou um déficit de 29 pontos para derrotar o San Antonio Spurs por 107-106, com Jalen Brunson marcando 36 pontos e OG Anunoby 33. Essa vitória é a maior remontada na história dos playoffs da NBA.",
+      "source": "reddit",
+      "subreddit": "nba",
+      "permalink": "https://www.reddit.com/r/nba/comments/1u2ntjw/post_game_thread_the_new_york_knicks_31_overcome/",
+      "createdAt": "2026-06-11T17:16:00.270717+00:00",
+      "rawScore": 0.666663747302698,
+      "relevanceScore": 0.666663747302698,
+      "suggestedRadius": 84.99,
+      "imageUrl": "assets/images/reddit_1u2ntjw_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u2ntjw_uns_thumb.jpg",
+      "category": "esportes",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "[Post Game Thread] The New York Knicks (3-1) overcome a 29 point deficit to defeat the San Antonio Spurs (1-3) in Game 4, 107-106, behind Jalen Brunson's 36 points and OG Anunoby's 33 points",
+          "url": "https://www.reddit.com/r/nba/comments/1u2ntjw/post_game_thread_the_new_york_knicks_31_overcome/",
+          "subreddit": "nba"
+        },
+        {
+          "title": "[Highlight] The New York Knicks get the final stop and defeat the San Antonio Spurs in Game 4 with a 107-106 victory. New York erases a 29-point deficit, the largest comeback in NBA Finals history, to take a 3-1 series lead.",
+          "url": "https://www.reddit.com/r/nba/comments/1u2nvxp/highlight_the_new_york_knicks_get_the_final_stop/",
+          "subreddit": "nba"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O Knicks mostrou verdadeira garra e determinação, provando que a equipe tem o que é preciso para vencer.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A derrota do Spurs é um reflexo da injustiça do sistema, onde times ricos como o Knicks têm todas as vantagens.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A virada do Knicks é um exemplo de como a estratégia e a execução podem mudar o curso de um jogo, independentemente do déficit.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1u08sa1",
+      "rank": 37,
+      "title": "Fala Zezé",
+      "label": "Copa do Mundo",
+      "context": "A Copa do Mundo da FIFA está começando e os fãs de futebol estão animados. O evento é um dos mais assistidos do mundo e reúne equipes de todo o planeta para competir pelo título.",
+      "source": "reddit",
+      "subreddit": "futebol",
+      "permalink": "https://www.reddit.com/r/futebol/comments/1u08sa1/fala_zezé/",
+      "createdAt": "2026-06-11T17:16:59.971661+00:00",
+      "rawScore": 0.666663747302698,
+      "relevanceScore": 0.666663747302698,
+      "suggestedRadius": 84.99,
+      "imageUrl": "assets/images/reddit_1u08sa1_wiki.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u08sa1_wiki_thumb.jpg",
+      "category": "esportes",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Fala Zezé",
+          "url": "https://www.reddit.com/r/futebol/comments/1u08sa1/fala_zezé/",
+          "subreddit": "futebol"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O Brasil vai ganhar a Copa do Mundo, é só uma questão de tempo!",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A Copa do Mundo é uma perda de tempo, só serve para desviar a atenção dos problemas reais do país.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Eu não entendo por que as pessoas se importam tanto com a Copa do Mundo, é só um jogo de futebol.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "masto_mastodonsocial_116732355291794376",
+      "rank": 38,
+      "title": "Trump Phone é idêntico ao HTC U24 Pro",
+      "label": "Trump Phone · Cópia do HTC U24 Pro",
+      "context": "O Trump Phone, um dispositivo de luxo vendido pelo ex-presidente dos EUA, foi descoberto como sendo quase idêntico ao HTC U24 Pro, um smartphone de médio porte de 2 anos atrás. A descoberta foi feita após uma análise detalhada do dispositivo, incluindo exames de raio-X e desmontagem.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://mastodon.social/@iFixit/116732355291794376",
+      "createdAt": "2026-06-11T16:13:06.196000+00:00",
+      "rawScore": 0.6463880780006216,
+      "relevanceScore": 0.6463880780006216,
+      "suggestedRadius": 84.24,
+      "imageUrl": "assets/images/masto_mastodonsocial_116732355291794376_reddit.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_116732355291794376_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "First The Verge spotted the resemblance. Then they brought the Trump Phone to our San Luis Obispo office so we could get past the gold paint. — CT scans and a full teardown confirmed it: the T1 is nearly identical to the HTC U24 Pro. Same internals. Same layout. Same story, just with a louder outfit",
+          "url": "https://mastodon.social/@iFixit/116732355291794376",
+          "subreddit": "masto_global"
+        },
+        {
+          "title": "iFixit teardown confirms the T1 Trυmp phone is an HTC U24 Pro",
+          "url": "https://www.reddit.com/r/worldnews/comments/1u34rl2/ifixit_teardown_confirms_the_t1_trυmp_phone_is_an/",
+          "subreddit": "worldnews"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O Trump Phone é um exemplo de como a marca Trump consegue vender produtos de luxo para seus fãs, mesmo que sejam cópias de dispositivos mais antigos.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "É inacreditável que as pessoas estejam dispostas a pagar tanto dinheiro por um dispositivo que é basicamente uma cópia de um smartphone mais antigo.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Acho que o que importa aqui não é o fato de o Trump Phone ser uma cópia, mas sim o que isso diz sobre a percepção das pessoas em relação à marca Trump e ao que elas estão dispostas a pagar por um produto de luxo.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "masto_mastodonsocial_116730967327192421",
+      "rank": 39,
+      "title": "Eu uso técnicas de IA para...",
+      "label": "Técnicas de IA · Shell scripts",
+      "context": "Um funcionário usa shell scripts de 2001 para realizar tarefas diárias e os descreve como 'técnicas de IA' para a gestão. Isso mostra como a percepção da inteligência artificial pode variar. A utilização de termos como 'IA' pode ser vista como uma forma de impressionar ou justificar métodos de trabalho.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://mastodon.social/@fesshole/116730967327192421",
+      "createdAt": "2026-06-11T10:20:07.510000+00:00",
+      "rawScore": 0.623817921641261,
+      "relevanceScore": 0.623817921641261,
+      "suggestedRadius": 83.39,
+      "imageUrl": "assets/images/masto_mastodonsocial_116730967327192421_uns.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_116730967327192421_uns_thumb.jpg",
       "category": "tech",
       "region": "brasil",
       "sources": [
         {
-          "title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor",
-          "url": "https://news.ycombinator.com/item?id=48472877",
+          "title": "To management, I say \"I use AI techniques to ___\". It's just my shell scripts from 2001 that still run perfectly everyday. I don't tell them that AI in that sentence actually stands for already implemented.",
+          "url": "https://mastodon.social/@fesshole/116730967327192421",
+          "subreddit": "masto_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O funcionário está certo em não revelar que suas 'técnicas de IA' são na verdade shell scripts antigos, isso mostra iniciativa e espírito empreendedor.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A exploração da gestão sobre o termo 'IA' é um exemplo de como o capitalismo busca lucrar com a desinformação e a falta de transparência.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A situação destaca a importância de uma comunicação clara e transparente entre funcionários e gestão, evitando mal-entendidos sobre o que realmente constitui 'inteligência artificial'.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "bsky_3mnzan73l3c2d",
+      "rank": 40,
+      "title": "Terminal 8 do JFK ontem à noite",
+      "label": "Knicks lideram · Reações no aeroporto",
+      "context": "O time de basquete Nova York Knicks liderou o jogo ontem à noite no Terminal 8 do aeroporto JFK. Isso gerou reações emocionais entre os passageiros e funcionários do aeroporto, que estavam assistindo ao jogo juntos.",
+      "source": "bluesky",
+      "subreddit": "bsky_global",
+      "permalink": "https://bsky.app/profile/carlquintanilla.bsky.social/post/3mnzan73l3c2d",
+      "createdAt": "2026-06-11T12:39:23.678000+00:00",
+      "rawScore": 0.5528972265917268,
+      "relevanceScore": 0.5528972265917268,
+      "suggestedRadius": 80.61,
+      "imageUrl": "assets/images/bsky_3mnzan73l3c2d_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mnzan73l3c2d_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "JFK Terminal 8 last night when Knicks took the lead. (via Renny Gong) #NYC 🏀",
+          "url": "https://bsky.app/profile/carlquintanilla.bsky.social/post/3mnzan73l3c2d",
+          "subreddit": "bsky_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O Knicks está unindo as pessoas de uma forma incrível, até em aeroportos!",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Esse tipo de histeria coletiva é ridículo, pessoas devem manter a calma em público.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Enquanto alguns estão se divertindo, outros estão apenas tentando chegar em casa, vamos manter a perspectiva.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "hn_48490826",
+      "rank": 41,
+      "title": "Código MiMo é lançado e é de código aberto",
+      "label": "MiMo Code · Código Aberto",
+      "context": "A Xiaomi lançou o MiMo Code, um assistente de codificação de IA que pode ler e escrever código, executar comandos e gerenciar Git. O MiMo Code é uma fork do OpenCode e adiciona recursos como memória persistente e gerenciamento de contexto inteligente.",
+      "source": "hackernews",
+      "subreddit": "hackernews",
+      "permalink": "https://news.ycombinator.com/item?id=48490826",
+      "createdAt": "2026-06-11T14:27:19+00:00",
+      "rawScore": 0.5428791913168922,
+      "relevanceScore": 0.5428791913168922,
+      "suggestedRadius": 80.21,
+      "imageUrl": "assets/images/hn_48490826_ai.jpg",
+      "imageThumbUrl": "assets/images/hn_48490826_ai_thumb.jpg",
+      "category": "tech",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "MiMo Code is now released and open-source",
+          "url": "https://news.ycombinator.com/item?id=48490826",
           "subreddit": "hackernews"
         }
       ],
@@ -607,26 +2010,478 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "The fact that Mercedes-Benz is scaling up production of this axial flux motor is huge! It shows that innovative British engineering, even if it’s happening abroad, can still drive the future of electric vehicles and deliver better performance in a smaller package.",
+          "text": "A Xiaomi está revolucionando a forma como desenvolvemos software com o MiMo Code, um assistente de codificação de IA que pode aprender e melhorar com o tempo.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Honestly, it’s depressing to see another brilliant UK company – YASA – being absorbed by a German giant. We invent amazing tech, but consistently fail to capitalize on it domestically. It's a clear sign our economic policies aren't supporting homegrown innovation.",
+          "text": "O MiMo Code é apenas mais um exemplo de como as empresas estão tentando controlar o desenvolvimento de software, criando uma dependência de suas ferramentas e serviços.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Everyone's talking about 'innovation' and 'economic policy', but let's be real: Germany has a massive, established automotive industry. Mercedes-Benz has the scale and resources to actually *use* this tech, something the UK currently struggles with, regardless of Brexit.",
+          "text": "É interessante ver como o MiMo Code pode ser usado para melhorar a produtividade dos desenvolvedores, mas também é importante considerar as implicações de segurança e privacidade de um assistente de codificação de IA.",
           "source": "reddit",
           "votes": 0
         }
       ],
-      "enrichedBy": "google/gemma-3-27b-it"
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "lemmy_lemmyworld_48007555",
+      "rank": 42,
+      "title": "Cara usa inteligência artificial para planejar encontro",
+      "label": "Encontro planejado por IA",
+      "context": "Um homem usou uma inteligência artificial para planejar um encontro, o que gerou reações negativas de sua acompanhante. Isso levanta questões sobre o papel da tecnologia em relacionamentos e a importância da personalização e do esforço humano.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/48007555",
+      "createdAt": "2026-06-10T19:43:05.380738+00:00",
+      "rawScore": 0.491178033459963,
+      "relevanceScore": 0.491178033459963,
+      "suggestedRadius": 78.05,
+      "imageUrl": "assets/images/lemmy_lemmyworld_48007555_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48007555_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "the guy gets to fuck_ai...",
+          "url": "https://lemmy.world/post/48007555",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Acho que o cara foi criativo, mas talvez tenha errado ao não personalizar o encontro.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Isso é um sinal de que o cara não está disposto a se esforçar para conhecer a outra pessoa, é um alerta vermelho.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Talvez o problema não seja a inteligência artificial em si, mas sim a falta de comunicação e esforço para entender o que a outra pessoa realmente quer.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "masto_mastodonsocial_116730719334463398",
+      "rank": 43,
+      "title": "Rebordacao, Bordado à Mão, 2023",
+      "label": "Arte de Bordado",
+      "context": "A artista Rebordacao criou uma obra de bordado à mão em 2023, que foi compartilhada na internet. A peça é uma representação artística que pode ter diferentes interpretações, incluindo questões ambientais.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://mastodon.social/@cmconseils/116730719334463398",
+      "createdAt": "2026-06-11T09:17:03.442000+00:00",
+      "rawScore": 0.48399071827944845,
+      "relevanceScore": 0.48399071827944845,
+      "suggestedRadius": 77.74,
+      "imageUrl": "assets/images/masto_mastodonsocial_116730719334463398_reddit.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_116730719334463398_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Oh No, Rebordacao, Hand Embroidery, 2023 — #Art",
+          "url": "https://mastodon.social/@cmconseils/116730719334463398",
+          "subreddit": "masto_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Rebordacao é incrível, seu trabalho de bordado à mão é lindo e inspirador!",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Não entendo por que alguém gastaria tempo criando uma obra de arte sobre um meteoro, há problemas mais urgentes no mundo.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Acho interessante como a arte pode ser usada para chamar a atenção para questões como a mudança climática, mas será que isso realmente faz alguma diferença?",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "masto_mastodonsocial_116731301941725950",
+      "rank": 44,
+      "title": "Pessoas na Alemanha montam indicadores em BMWs",
+      "label": "BMW · Indicadores",
+      "context": "Trabalhadores na Alemanha estão montando indicadores em carros da BMW. Isso é notável porque muitos donos de BMWs são conhecidos por não usarem esses indicadores ao dirigir.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://mastodon.scot/@NormanDunbar/116731301796636307",
+      "createdAt": "2026-06-11T11:45:11+00:00",
+      "rawScore": 0.48057717271203354,
+      "relevanceScore": 0.48057717271203354,
+      "suggestedRadius": 77.59,
+      "imageUrl": "assets/images/masto_mastodonsocial_116731301941725950_uns.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_116731301941725950_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "If you think that your job is pointless, just remember, there are people in Germany fitting indicators to BMWs.",
+          "url": "https://mastodon.scot/@NormanDunbar/116731301796636307",
+          "subreddit": "masto_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A BMW está fazendo um ótimo trabalho com esses indicadores, é um recurso importante para a segurança no trânsito.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Donos de BMWs são os piores, nunca usam os indicadores e agora a empresa está lucrando com isso.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "É engraçado como as pessoas se importam tanto com os indicadores em BMWs, mas será que isso realmente faz diferença na prática?",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "masto_mastodonsocial_116731505752687171",
+      "rank": 45,
+      "title": "Tiroteio em Kansas City",
+      "label": "Tiroteio perto do acampamento da Inglaterra na Copa do Mundo",
+      "context": "Um tiroteio ocorreu em Kansas City, perto do local planejado para o acampamento da seleção inglesa na Copa do Mundo de 2026, deixando 9 pessoas feridas. Esse incidente levanta preocupações sobre a segurança dos visitantes e a política de armas nos Estados Unidos.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://mastodon.social/@vicfroh/116731505752687171",
+      "createdAt": "2026-06-11T12:37:03.233000+00:00",
+      "rawScore": 0.4633433721041727,
+      "relevanceScore": 0.4633433721041727,
+      "suggestedRadius": 76.84,
+      "imageUrl": "assets/images/masto_mastodonsocial_116731505752687171_reddit.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_116731505752687171_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "https://www.msn.com/en-in/news/other/kansas-city-shooting-9-injured-near-england-s-planned-world-cup-base-camp/ar-AA2549vE — #worldcup2026",
+          "url": "https://mastodon.social/@vicfroh/116731505752687171",
+          "subreddit": "masto_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "negative",
+          "text": "O governo americano precisa tomar medidas mais eficazes para controlar a violência armada, isso é um escândalo",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "positive",
+          "text": "A liberdade de portar armas é um direito fundamental nos EUA, e incidentes isolados não devem levar a restrições excessivas",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Quem paga a conta por essa violência são os cidadãos comuns, talvez seja hora de repensar as políticas de armas e segurança pública",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "masto_mastodonsocial_116731393925056895",
+      "rank": 46,
+      "title": "Desenvolvedores de malware usam textos sobre armas nucleares e biológicas para evadir scanners de segurança",
+      "label": "Malware evita scanners de segurança com textos proibidos",
+      "context": "Desenvolvedores de malware estão adicionando textos sobre armas nucleares e biológicas a seus spywares para evadir scanners de segurança baseados em inteligência artificial. Isso ocorre porque os modelos de linguagem treinados para recusar informações sobre esses temas podem ser enganados e não detectar o malware.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://infosec.exchange/@briankrebs/116731393657214718",
+      "createdAt": "2026-06-11T12:08:32+00:00",
+      "rawScore": 0.45254351790950575,
+      "relevanceScore": 0.45254351790950575,
+      "suggestedRadius": 76.36,
+      "imageUrl": "assets/images/masto_mastodonsocial_116731393925056895_reddit.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_116731393925056895_reddit_thumb.jpg",
+      "category": "tech",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "From the WTAF dept: — Malware developers are now adding text about nuclear and biological weapons to their spyware to evade AI-based security scanners. — tl;dr: The inclusion of content that LLMs are trained to refuse -- such as information about nukes and bioweapons -- can effectively prevent the L",
+          "url": "https://infosec.exchange/@briankrebs/116731393657214718",
+          "subreddit": "masto_global"
+        },
+        {
+          "title": "the latest Shai Hulud malware contains an LLM prompt to create biological weapons and nuclear weapons, with the purpose to trip LLM safety refusals so that LLM-based code scanning wont see the malware",
+          "url": "https://lemmy.world/post/47960567",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Os desenvolvedores de malware são gênios, encontraram uma maneira de burlar a segurança e mostrar que a inteligência artificial não é infalível.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Isso é um exemplo perfeito de como o capitalismo e a busca por lucro podem levar a consequências desastrosas, como a criação de malware que pode ser usado para fins nefastos.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A capacidade de os desenvolvedores de malware burlarem a segurança é um problema sério que precisa ser abordado, mas também é importante lembrar que a inteligência artificial pode ser uma ferramenta poderosa para melhorar a segurança cibernética.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "masto_mastodonsocial_116732287039062368",
+      "rank": 47,
+      "title": "Emails de negócios escritos por IA",
+      "label": "Uso de IA em comunicações",
+      "context": "Um escritor recebeu um email de negócios escrito com a ajuda de inteligência artificial (IA) e questiona a prática. O email foi considerado suspeito e potencialmente spam. Isso levanta questões sobre a autenticidade e a eficácia da comunicação empresarial quando se utiliza IA.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://mastodon.social/@scalzi/116732287039062368",
+      "createdAt": "2026-06-11T15:55:44.713000+00:00",
+      "rawScore": 0.4441137230501754,
+      "relevanceScore": 0.4441137230501754,
+      "suggestedRadius": 75.99,
+      "imageUrl": "assets/images/masto_mastodonsocial_116732287039062368_uns.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_116732287039062368_uns_thumb.jpg",
+      "category": "tech",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Over on Whatever, I talk about the legit business email I got that was written with \"AI,\" why I thought it meant the sender's domain was hacked by scammers, and why using \"AI\" in business emails automatically lumps you in with spammers and frauds. Don't do it! — https://whatever.scalzi.com/2026/06/1",
+          "url": "https://mastodon.social/@scalzi/116732287039062368",
+          "subreddit": "masto_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Quem usa IA para escrever emails de negócios não merece minha atenção, pois não se importa em investir tempo e esforço para se comunicar de forma autêntica.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa paranoia com emails escritos por IA é ridícula, as pessoas precisam aprender a lidar com a tecnologia e não julgar tão rapidamente.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Acho engraçado como as pessoas se importam mais com a forma como o email foi escrito do que com o conteúdo em si, será que não há nada mais importante para se preocupar?",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "masto_bolhaus_116732464658934479",
+      "rank": 48,
+      "title": "Sapo cai da boca",
+      "label": "Toades mágicas",
+      "context": "Um usuário do Reddit relata ter sido amaldiçoado por uma fada por falta de deferência e agora tem sapos caindo da boca. Os sapos não são de nenhuma das 500 espécies conhecidas. O usuário busca um biólogo para coautorar um artigo sobre as novas espécies de sapos.",
+      "source": "mastodon",
+      "subreddit": "masto_br",
+      "permalink": "https://mastodon.art/@MicroSFF/116732464565775886",
+      "createdAt": "2026-06-11T16:40:53+00:00",
+      "rawScore": 0.43789483164323006,
+      "relevanceScore": 0.43789483164323006,
+      "suggestedRadius": 75.7,
+      "imageUrl": "assets/images/masto_bolhaus_116732464658934479_uns.jpg",
+      "imageThumbUrl": "assets/images/masto_bolhaus_116732464658934479_uns_thumb.jpg",
+      "category": "ciencia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "When I speak, toads fall from my mouth. — There was a fairy dressed as some kind of fucking royalty. I got cursed for insufficient deference. — As far as I can tell, my toads are not any of the 500-ish known species. — If you have a degree in biology and want to cowrite a paper on new toads, hit me ",
+          "url": "https://mastodon.art/@MicroSFF/116732464565775886",
+          "subreddit": "masto_br"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O usuário está vivendo um conto de fadas, literalmente! Quem não quer ter sapos mágicos caindo da boca?",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Isso é um pesadelo! Quem vai querer ter sapos caindo da boca o tempo todo? É um problema de saúde, não uma benção!",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Eu acho que o usuário está brincando, mas se for verdade, seria incrível estudar esses sapos! Quem sabe o que eles podem nos ensinar sobre biologia e magia?",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "lemmy_lemmyworld_47990627",
+      "rank": 49,
+      "title": "Venderia bebida alcoólica para esse bebê?",
+      "label": "Bebê de 30 anos",
+      "context": "Um bebê foi concebido em 1994, mas foi implantado e nasceu em 2024. Isso levanta questões sobre a idade legal do bebê e se ele pode comprar bebida alcoólica. A lei considera a idade a partir da data de nascimento, não da concepção.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/47990627",
+      "createdAt": "2026-06-10T11:56:04.694699+00:00",
+      "rawScore": 0.41470083356482956,
+      "relevanceScore": 0.41470083356482956,
+      "suggestedRadius": 74.64,
+      "imageUrl": "assets/images/lemmy_lemmyworld_47990627_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_47990627_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Would you sell liquor to this baby?",
+          "url": "https://lemmy.world/post/47990627",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo deveria permitir que esse bebê compre bebida alcoólica, afinal, ele tem 30 anos!",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Isso é absurdo, um bebê não pode comprar bebida alcoólica, não importa a idade!",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A lei é clara, a idade é contada a partir da data de nascimento, então esse bebê é considerado um recém-nascido e não pode comprar bebida alcoólica.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
+    },
+    {
+      "id": "reddit_1u0ji3b",
+      "rank": 50,
+      "title": "Jerry O'Connell faz AMA",
+      "label": "Ator em 'Stand By Me' e 'Jerry Maguire'",
+      "context": "Jerry O'Connell, ator conhecido por seus papéis em 'Stand By Me', 'Jerry Maguire' e 'Scream 2', fará uma sessão de perguntas e respostas no Reddit. A sessão foi originalmente agendada para quarta-feira, mas foi remarcada para quinta-feira às 15h00 ET.",
+      "source": "reddit",
+      "subreddit": "movies",
+      "permalink": "https://www.reddit.com/r/movies/comments/1u0ji3b/amaqa_announcement_jerry_oconnell_thursday_611_at/",
+      "createdAt": "2026-06-11T17:16:02.522480+00:00",
+      "rawScore": 0.3999947451448561,
+      "relevanceScore": 0.3999947451448561,
+      "suggestedRadius": 73.95,
+      "imageUrl": "assets/images/reddit_1u0ji3b_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u0ji3b_uns_thumb.jpg",
+      "category": "entretenimento",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "AMA/Q&A Announcement - Jerry O'Connell - Thursday 6/11 at 3:00 PM ET - Actor in 'Stand By Me', 'Jerry Maguire', 'Scream 2', 'Kangaroo Jack', 'Sliders', 'Joe's Apartment', 'Piranha 3D', and lots more.",
+          "url": "https://www.reddit.com/r/movies/comments/1u0ji3b/amaqa_announcement_jerry_oconnell_thursday_611_at/",
+          "subreddit": "movies"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Jerry O'Connell é um verdadeiro patriota, seu trabalho em 'Mission to Mars' é um exemplo disso.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A carreira de Jerry O'Connell é um exemplo de como o sistema de Hollywood privilegia os ricos e poderosos, enquanto ignora os talentos emergentes.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "É interessante ver como a carreira de Jerry O'Connell reflete a evolução da indústria cinematográfica, desde os clássicos dos anos 90 até os blockbusters atuais.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "meta-llama/llama-3.3-70b-instruct"
     }
   ]
 }
