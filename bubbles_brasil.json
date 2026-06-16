@@ -1,138 +1,29 @@
 {
-  "generatedAt": "2026-06-15T18:22:34.711194+00:00",
+  "generatedAt": "2026-06-16T18:34:55.355039+00:00",
   "region": "brasil",
-  "count": 31,
+  "count": 43,
   "items": [
     {
-      "id": "reddit_1u6mkcu",
+      "id": "bsky_3moftanqmfk2a",
       "rank": 1,
-      "title": "Queria mais musica do Oliver tree como essas...",
-      "label": "Música · Preferências",
-      "context": "O cantor Oliver Tree lançou novas músicas. Os fãs estão comentando sobre o estilo musical.",
-      "source": "reddit",
-      "subreddit": "musicabr",
-      "permalink": "https://www.reddit.com/r/MusicaBR/comments/1u6mkcu/queria_mais_musica_do_oliver_tree_como_essas/",
-      "createdAt": "2026-06-15T18:01:05.338984+00:00",
-      "rawScore": 0.0005761008797855414,
-      "relevanceScore": 0.0005761008797855414,
-      "suggestedRadius": 37.44,
-      "imageUrl": "assets/images/reddit_1u6mkcu_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1u6mkcu_uns_thumb.jpg",
-      "category": "entretenimento",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Queria mais musica do Oliver tree como essas...",
-          "url": "https://www.reddit.com/r/MusicaBR/comments/1u6mkcu/queria_mais_musica_do_oliver_tree_como_essas/",
-          "subreddit": "musicabr"
-        },
-        {
-          "title": "Minha pequena homenagem ao Oliver Tree",
-          "url": "https://www.reddit.com/r/MusicaBR/comments/1u5x1xu/minha_pequena_homenagem_ao_oliver_tree/",
-          "subreddit": "musicabr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Oliver Tree é um gênio, suas músicas são revolucionárias! Ele não se importa com o que a indústria musical diz.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A música de Oliver Tree é uma crítica ao sistema, mas também é uma mercadoria. Ele vende sua arte para os ricos.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Oliver Tree tem um estilo único, mas precisamos respeitar as regras da propriedade intelectual. Ele fez um trabalho incrível.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "reddit_1u65v1l",
-      "rank": 21,
-      "title": "Invasão Russa da Ucrânia: Dia 1572, Parte 1",
-      "label": "Guerra na Ucrânia · Atualização Diária",
-      "context": "No 1572º dia da invasão russa, forças ucranianas atacaram uma ponte na rota principal para a Crimeia e atingiram um terminal de petróleo em Krasnodar Krai. A Rússia respondeu com um ataque combinado de mísseis e drones, enquanto a Ucrânia apresentou novos sistemas de armas, como o drone DRAGON e o submarino Sea Trident.",
-      "source": "reddit",
-      "subreddit": "worldnews",
-      "permalink": "https://www.reddit.com/r/worldnews/comments/1u65v1l/rworldnews_live_thread_russian_invasion_of/",
-      "createdAt": "2026-06-15T18:07:40.379718+00:00",
-      "rawScore": 1.0,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/reddit_1u65v1l_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1u65v1l_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1572, Part 1 (Thread #1719)",
-          "url": "https://www.reddit.com/r/worldnews/comments/1u65v1l/rworldnews_live_thread_russian_invasion_of/",
-          "subreddit": "worldnews"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A Rússia está sendo encurralada por uma Ucrânia armada até os dentes pelo Ocidente. Enquanto isso, Putin cancela desfiles navais e a economia desaba com o petróleo barato. O Ocidente quer ver a Rússia sangrar até o último ucraniano. Cadê a soberania nacional que tanto defendem?",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Enquanto a Ucrânia se despedaça, a OTAN lucra com a guerra. O povo ucraniano morre para que empresas de armas como a Global Mark vendam seus brinquedos. E a Rússia, que também é vítima do imperialismo, bombardeia civis. Cadê a paz? Cadê o fim do genocídio patrocinado pelos EUA?",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A Ucrânia tem o direito de se defender, mas a escalada é preocupante. Atacar pontes e refinarias dentro da Rússia pode levar a uma resposta ainda mais brutal. O caminho é a negociação, não a destruição mútua. A proposta de Zelensky para um encontro com Putin na França mostra que ainda há espaço para diálogo.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ],
-      "enrichedBy": "deepseek/deepseek-v4-flash"
-    },
-    {
-      "id": "bsky_3moczd6t6wc2a",
-      "rank": 22,
-      "title": "Muitas pessoas ficam confusas com o conceito de 'anos de gato' então aqui vai um guia: 0-1 anos - só um bebezinho 1-3 anos - só um bebezinho 4-9 anos - só um be",
-      "label": "Guia de idade felina · Bebês eternos",
-      "context": "Um usuário postou um guia humorístico afirmando que gatos de qualquer idade são apenas 'bebezinhos'. A brincadeira viralizou porque donos de gatos se identificam com a ideia de que seus pets nunca deixam de ser tratados como filhotes.",
+      "title": "Knicks cercam-se apenas de vencedores.",
+      "label": "Knicks · recusa à Casa Branca",
+      "context": "Circula nas redes sociais o rumor de que o New York Knicks teria recusado um convite para visitar a Casa Branca após vencer o título da NBA. Nenhuma fonte oficial confirmou o convite ou a recusa, gerando debate sobre a postura do time em relação ao presidente Donald Trump.",
       "source": "bluesky",
       "subreddit": "bsky_global",
-      "permalink": "https://bsky.app/profile/missybbbobtail.bsky.social/post/3moczd6t6wc2a",
-      "createdAt": "2026-06-15T09:55:13.361000+00:00",
+      "permalink": "https://bsky.app/profile/jefferycowlick.bsky.social/post/3moftanqmfk2a",
+      "createdAt": "2026-06-16T12:44:20.863000+00:00",
       "rawScore": 0.9,
       "relevanceScore": 0.9,
       "suggestedRadius": 92.92,
-      "imageUrl": "assets/images/bsky_3moczd6t6wc2a_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3moczd6t6wc2a_reddit_thumb.jpg",
+      "imageUrl": "assets/images/bsky_3moftanqmfk2a_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3moftanqmfk2a_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "brasil",
       "sources": [
         {
-          "title": "A lot of people are confused by the concept of “cat years\" so here's a little guide: 0-1 years - just a little baby 1-3 years - just a little baby 4-9 years - just a little baby 10+ years - just a little baby",
-          "url": "https://bsky.app/profile/missybbbobtail.bsky.social/post/3moczd6t6wc2a",
+          "title": "The Knicks only like to surround themselves with winners.",
+          "url": "https://bsky.app/profile/jefferycowlick.bsky.social/post/3moftanqmfk2a",
           "subreddit": "bsky_global"
         }
       ],
@@ -140,21 +31,73 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Esse guia é a pura verdade! Minha gata tem 17 anos, toda durinha e dormindo o dia inteiro, mas quando olho pra ela só vejo a carinha de bebê que sempre teve. Gato não envelhece no coração da gente, é lei universal de quem ama bicho.",
+          "text": "Esses jogadores mimados do Knicks mostram o quanto odeiam a América. Recusar um convite do presidente eleito é um desrespeito total às instituições. Se não querem honrar o país, deviam devolver o salário pago com dinheiro de imposto.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O Knicks tem mais é que mandar esse laranja às favas mesmo! O cara dormiu no jogo, azarou o time e ainda quer posar de vencedor na Casa Branca? Isso aí é um criminoso que corta comida de criança, não merece nem o cheiro do título.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Ainda não há nenhum convite oficial nem recusa — isso é tudo boato de internet. O time precisa se ater aos fatos e deixar claro se vai ou não. Mas, numa democracia, cada um escolhe se quer bater continência ou não para o presidente.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "lemmy_lemmyecobr_23931396",
+      "rank": 2,
+      "title": "Casa Branca T",
+      "label": "Casa Branca · Decoração questionada",
+      "context": "A Casa Branca exibiu uma árvore de Natal decorada com laços vermelhos formando um 'T', gerando comparações com a Torre Eiffel. A decoração foi criticada por falta de sofisticação e associada a um suposto apoio a Trump.",
+      "source": "lemmy",
+      "subreddit": "lemmy_br",
+      "permalink": "https://lemmy.eco.br/post/23931396",
+      "createdAt": "2026-06-16T17:05:52.114090+00:00",
+      "rawScore": 0.23481027087066117,
+      "relevanceScore": 0.23481027087066117,
+      "suggestedRadius": 65.07,
+      "imageUrl": "assets/images/lemmy_lemmyecobr_23931396_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyecobr_23931396_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "White T House",
+          "url": "https://lemmy.eco.br/post/23931396",
+          "subreddit": "lemmy_br"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Casa Branca finalmente mostrou um pouco de patriotismo com esse 'T' vermelho. Quem critica é porque não aguenta ver um símbolo que lembra o Trump. A Torre Eiffel é superestimada mesmo, essa árvore tem mais personalidade.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Parem com essa infantilização de animal adulto! Gato de 10 anos não é bebê, é um idoso que precisa de cuidados específicos, não de mimimi. Tratar bicho como eterno filhote atrapalha até na hora de perceber problemas de saúde sérios.",
+          "text": "Essa árvore de Natal é um show de mau gosto e autoritarismo. Colocar um 'T' gigante na Casa Branca é uma declaração política descarada, e ainda querem comparar com a Torre Eiffel? É uma vergonha para o país.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Acho fofo o carinho, mas convenhamos: se a gente aplicasse essa lógica pra gente mesmo, ninguém seria adulto. O gato não liga se você chama ele de bebê ou de 'senhor whiskers' — o que importa é ter ração na tigela e um sofá pra arranhar.",
+          "text": "O problema não é só o 'T' em si, mas a hipocrisia. Reclamam de um terno bege no Obama, mas acham lindo um monograma político na árvore de Natal. No fim, é só mais um exemplo de como os padrões mudam conforme o time que está no poder.",
           "source": "reddit",
           "votes": 0
         }
@@ -162,1241 +105,27 @@
       "enrichedBy": "deepseek/deepseek-v4-flash"
     },
     {
-      "id": "masto_mastodonsocial_116754837214677326",
-      "rank": 23,
-      "title": "Aconteceu: Entramos em um trem intermunicipal lotado e alguém disse 'É Odin do Mastodon'",
-      "label": "Celebridade Canina",
-      "context": "Um usuário do Mastodon relatou que estava em um trem lotado quando alguém reconheceu seu cachorro, Odin, como uma celebridade da internet. Isso aconteceu porque o cachorro é muito grande e fotogênico.",
-      "source": "mastodon",
-      "subreddit": "masto_global",
-      "permalink": "https://infosec.exchange/@0xabad1dea/116754836986795127",
-      "createdAt": "2026-06-15T15:30:29+00:00",
-      "rawScore": 0.85,
-      "relevanceScore": 0.85,
-      "suggestedRadius": 91.32,
-      "imageUrl": "assets/images/masto_mastodonsocial_116754837214677326_uns.jpg",
-      "imageThumbUrl": "assets/images/masto_mastodonsocial_116754837214677326_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Well, it happened: We crammed our way into a crowded intercity train and someone was like WOW IT’S ODIN FROM MASTODON",
-          "url": "https://infosec.exchange/@0xabad1dea/116754836986795127",
-          "subreddit": "masto_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Odin é um verdadeiro astro! Quem não reconheceria aquele focinho fofinho? Ele merece uma coinzinha própria!",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Cara, que situação ridícula! Alguém para para falar sobre um cachorro em um trem lotado? É tanta gente para se preocupar?",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Eu acho que é engraçado como as pessoas reagem a Odin. Ele é só um cachorro, mas é tão grande e fofo que é quase como uma celebridade real.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "bsky_3mock4gbhd22w",
-      "rank": 24,
-      "title": "Cachorro adotado de abrigo reage a beijo",
-      "label": "Animais · Adoção",
-      "context": "Um cachorro recém-adotado de um abrigo reage ao ser beijado por seu novo dono. Esse momento de conexão emocional é comovente e mostra a gratidão do cachorro.",
-      "source": "bluesky",
-      "subreddit": "bsky_global",
-      "permalink": "https://bsky.app/profile/contemprainn.bsky.social/post/3mock4gbhd22w",
-      "createdAt": "2026-06-15T05:22:55.468000+00:00",
-      "rawScore": 0.7073452383297701,
-      "relevanceScore": 0.7073452383297701,
-      "suggestedRadius": 86.46,
-      "imageUrl": "assets/images/bsky_3mock4gbhd22w_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mock4gbhd22w_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "A pet dog just adopted from a shelter reacting to being kissed.❤️",
-          "url": "https://bsky.app/profile/contemprainn.bsky.social/post/3mock4gbhd22w",
-          "subreddit": "bsky_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Esse cara merece o cachorro! É incrível como o bichinho já se sente em casa e retribui o amor.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Não sei se isso é real ou manipulado, mas mesmo assim é lindo ver o cachorro tão feliz. Quem adota um animal de abrigo sabe o quanto é especial.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Eu não sei se é IA ou não, mas o que importa é que o cachorro parece muito feliz e o dono parece cuidar bem dele. Isso é o que conta.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "masto_mastodonsocial_116754976578359343",
-      "rank": 25,
-      "title": "Não forneça seu ID ou digitalização facial para acessar mídia social.",
-      "label": "Privacidade Online · Segurança",
-      "context": "Um usuário alertou que as plataformas de mídia social estão solicitando IDs ou digitalizações faciais para acessar contas, o que pode ser perigoso. Isso levanta preocupações sobre a privacidade e segurança dos usuários online.",
-      "source": "mastodon",
-      "subreddit": "masto_global",
-      "permalink": "https://infosec.exchange/@Em0nM4stodon/116754976490738120",
-      "createdAt": "2026-06-15T16:05:58+00:00",
-      "rawScore": 0.6739821790719986,
-      "relevanceScore": 0.6739821790719986,
-      "suggestedRadius": 85.26,
-      "imageUrl": "assets/images/masto_mastodonsocial_116754976578359343_uns.jpg",
-      "imageThumbUrl": "assets/images/masto_mastodonsocial_116754976578359343_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Do not provide your ID or facial scan to access social media. — I repeat, do NOT provide your ID or facial scan to access social media when requested. — This is not a drill. — If everyone refuse to comply, and let their accounts dormant instead, I promise you the platforms themselves, with their imm",
-          "url": "https://infosec.exchange/@Em0nM4stodon/116754976490738120",
-          "subreddit": "masto_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Essas plataformas querem controlar tudo! Se cedermos nossos dados, perderemos a liberdade. Devemos resistir e não fornecer essas informações.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A pressão para compartilhar dados pessoais é uma tática de vigilância em massa. As corporações querem lucrar com nossas informações. Não podemos confiar nelas.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A questão é sobre segurança versus privacidade. Se as plataformas forem transparentes sobre o uso dos dados, podemos confiar nelas. Mas é importante ter cuidado e ler as políticas de privacidade.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "bsky_3mobz7o6mm22f",
-      "rank": 26,
-      "title": "Uma descrição nova, porém precisa",
-      "label": "Cristianismo · Nacionalismo Branco",
-      "context": "O termo 'Cristianismo Nacionalista' é usado para descrever um movimento que combina elementos de nacionalismo branco com crenças cristãs. Esse movimento tem sido associado a grupos de extrema-direita e racistas, como a Ku Klux Klan.",
-      "source": "bluesky",
-      "subreddit": "bsky_global",
-      "permalink": "https://bsky.app/profile/tigerfan519.bsky.social/post/3mobz7o6mm22f",
-      "createdAt": "2026-06-15T00:20:31.965000+00:00",
-      "rawScore": 0.6701521306390421,
-      "relevanceScore": 0.6701521306390421,
-      "suggestedRadius": 85.12,
-      "imageUrl": "assets/images/bsky_3mobz7o6mm22f_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mobz7o6mm22f_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "A novel but accurate description",
-          "url": "https://bsky.app/profile/tigerfan519.bsky.social/post/3mobz7o6mm22f",
-          "subreddit": "bsky_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A Ku Klux Klan tem raízes históricas no cristianismo, usando a religião como base para o ódio e a guerra. Isso não é novidade, e a religião sempre foi usada como trampolim para o ódio e a guerra.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Esse 'cristianismo nacionalista' é apenas supremacia branca disfarçada. Eles não seguem nada do que Cristo ensina. É hora de parar de chamá-los de cristãos, porque não são.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Eu não vejo diferença entre 'cristianismo nacionalista' e supremacia branca. É como se fossem a mesma coisa. Será que há alguma diferença?",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "reddit_1u5a7if",
-      "rank": 27,
-      "title": "Os New York Knicks se tornam campeões da NBA em 2026",
-      "label": "Esportes · Basquete",
-      "context": "Os New York Knicks derrotaram os San Antonio Spurs por 4 a 1 na final da NBA de 2026, com uma vitória de 94 a 90 no jogo 5. Jalen Brunson marcou 45 pontos na partida.",
-      "source": "reddit",
-      "subreddit": "nba",
-      "permalink": "https://www.reddit.com/r/nba/comments/1u5a7if/post_game_thread_the_new_york_knicks_41_become/",
-      "createdAt": "2026-06-15T18:08:03.679444+00:00",
-      "rawScore": 0.6666631634296708,
-      "relevanceScore": 0.6666631634296708,
-      "suggestedRadius": 84.99,
-      "imageUrl": "assets/images/reddit_1u5a7if_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1u5a7if_uns_thumb.jpg",
-      "category": "esportes",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "[Post Game Thread] The New York Knicks (4-1) become the 2026 NBA Champions by defeating the San Antonio Spurs (1-4) in Game 5, 94-90, behind a legendary 45 point performance by Jalen Brunson",
-          "url": "https://www.reddit.com/r/nba/comments/1u5a7if/post_game_thread_the_new_york_knicks_41_become/",
-          "subreddit": "nba"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Jalen Brunson é um verdadeiro herói americano! Ele arrastou os Knicks para o título com sua incrível performance de 45 pontos. É uma vitória para a América!",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Os Spurs foram roubados! Eles lideraram a série por 80% do tempo e perderam por 4 a 1. O sistema da NBA está claramente contra eles. É uma vergonha!",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A experiência dos Knicks fez a diferença nesse jogo. Brunson foi incrível, mas os Spurs precisam aprender com seus erros e voltar mais fortes na próxima temporada.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "lemmy_lemmyworld_48160120",
-      "rank": 28,
-      "title": "Vida aos 30",
-      "label": "Estilo de vida aos 30",
-      "context": "Um gráfico de categorias de pessoas aos 30 anos foi compartilhado, mostrando quatro quadrantes: trabalho, família, drogas/degeneração e desaparecido. Isso gerou discussões sobre como as pessoas se encaixam nessas categorias.",
+      "id": "lemmy_lemmyecobr_23925298",
+      "rank": 3,
+      "title": "megabool",
+      "label": "",
+      "context": "",
       "source": "lemmy",
-      "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48160120",
-      "createdAt": "2026-06-14T13:10:28.215602+00:00",
-      "rawScore": 0.6627363757953852,
-      "relevanceScore": 0.6627363757953852,
-      "suggestedRadius": 84.85,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48160120_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48160120_reddit_thumb.jpg",
+      "subreddit": "lemmy_br",
+      "permalink": "https://lemmy.eco.br/post/23925298",
+      "createdAt": "2026-06-16T07:49:59.615725+00:00",
+      "rawScore": 0.2083512689704366,
+      "relevanceScore": 0.2083512689704366,
+      "suggestedRadius": 63.39,
+      "imageUrl": "assets/images/lemmy_lemmyecobr_23925298_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyecobr_23925298_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "brasil",
       "sources": [
         {
-          "title": "Life in your 30s",
-          "url": "https://lemmy.world/post/48160120",
-          "subreddit": "lemmy_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Eu sou orgulhosamente do quadrante inferior direito, sem redes sociais e sem vida pública. É libertador não ter que lidar com tudo isso.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Essas categorias são uma visão muito limitada e pessimista da vida. E quem decide que alguém é um 'desaparecido'? É uma forma de julgar as pessoas.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Eu acho que essas categorias são muito rígidas e não refletem a complexidade da vida real. As pessoas são mais do que apenas uma categoria.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "masto_mastodonsocial_116755341607708266",
-      "rank": 29,
-      "title": "Moderadores enfrentam desafios com contas de IA em plataformas online",
-      "label": "Desafios de moderação · Contas de IA",
-      "context": "Moderadores de uma plataforma online estão enfrentando dificuldades devido ao aumento de contas geradas por inteligência artificial (IA). Mais de 80% das solicitações de adesão à plataforma agora são feitas por contas de IA, o que consome muito tempo para os moderadores.",
-      "source": "mastodon",
-      "subreddit": "masto_global",
-      "permalink": "https://lgbtqia.space/@alice/116755340948907372",
-      "createdAt": "2026-06-15T17:38:39+00:00",
-      "rawScore": 0.6223803810169799,
-      "relevanceScore": 0.6223803810169799,
-      "suggestedRadius": 83.33,
-      "imageUrl": "assets/images/masto_mastodonsocial_116755341607708266_uns.jpg",
-      "imageThumbUrl": "assets/images/masto_mastodonsocial_116755341607708266_uns_thumb.jpg",
-      "category": "tech",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "I'm getting burnt out on all my moderation actions being against fucking AI. Like, I never thought I'd say it, but I miss suspending Nazis and bigots—at least they were real people who would give up after a while—these LLMs just go on and on, and they don't give a shit if they're suspended or reject",
-          "url": "https://lgbtqia.space/@alice/116755340948907372",
-          "subreddit": "masto_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Essas contas de IA são um desperdício de tempo! É como se estivessem inundando a plataforma com lixo. Precisamos encontrar uma maneira de pará-las.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Isso é culpa dos oligarcas que querem matar a internet livre! Eles estão inundando a plataforma com conteúdo de IA para sufocá-la. É uma tática suja.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Talvez seja hora de mudar a abordagem. Em vez de apenas bloquear contas de IA, precisamos criar um sistema que recompense as contas legítimas e penalize as falsas. É hora de inovar.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "bsky_3mocbxbvtck23",
-      "rank": 30,
-      "title": "Torcedores japoneses limpam lixo após empate com Holanda",
-      "label": "Espectadores Responsáveis",
-      "context": "Após um empate de 2-2 entre Japão e Holanda no Dallas Stadium, os torcedores japoneses permaneceram no local e limparam todo o lixo de sua seção. Isso gerou admiração e discussão nas redes sociais.",
-      "source": "bluesky",
-      "subreddit": "bsky_global",
-      "permalink": "https://bsky.app/profile/robertgriffiniii.bsky.social/post/3mocbxbvtck23",
-      "createdAt": "2026-06-15T02:56:53.466000+00:00",
-      "rawScore": 0.6115259447247303,
-      "relevanceScore": 0.6115259447247303,
-      "suggestedRadius": 82.92,
-      "imageUrl": "assets/images/bsky_3mocbxbvtck23_ai.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mocbxbvtck23_ai_thumb.jpg",
-      "category": "esportes",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "After Japan battled the Netherlands to a 2-2 draw, the Japanese fans stayed behind and cleaned up every single piece of trash from their section at Dallas Stadium after the game. You LOVE to see it 🇯🇵 #WorldCup #Football #Soccer #RG3 #Love #sports #RGIII #RobertGriffinIII #Japan #Discipline",
-          "url": "https://bsky.app/profile/robertgriffiniii.bsky.social/post/3mocbxbvtck23",
-          "subreddit": "bsky_global"
-        },
-        {
-          "title": "After Japan battled the Netherlands to a 2-2 draw, the Japanese fans stayed behind and cleaned up every single piece of trash from their section at Dallas Stadium after the game. You LOVE to see it 🇯🇵 That’s how you represent your country well. 👏🏽👏🏽👏🏽🙇🏻",
-          "url": "https://bsky.app/profile/teamcanadaforever.bsky.social/post/3moczkar2fc2s",
-          "subreddit": "bsky_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Os torcedores japoneses dão orgulho ao seu país! É um exemplo fantástico para todos nós. Parabéns!",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Infelizmente, isso não é comum aqui nos EUA. Somos um país de pessoas desrespeitosas e sujas. É uma vergonha!",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "É interessante ver como as culturas diferem. No Japão, parece que a educação e o respeito ao ambiente são prioridades. Será que podemos aprender com isso?",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "lemmy_lemmyworld_48134651",
-      "rank": 31,
-      "title": "Cientistas da Stanford regeneram cartilagem perdida e invertem artrite em grande avanço",
-      "label": "Avanço Médico · Regeneração de Cartilagem",
-      "context": "Cientistas da Universidade de Stanford alcançaram um grande avanço ao regenerar cartilagem perdida e inverter a artrite em experimentos com ratos. Esse feito é importante porque pode levar a novas opções de tratamento para pessoas com doenças relacionadas à degeneração de cartilagem.",
-      "source": "lemmy",
-      "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48134651",
-      "createdAt": "2026-06-13T20:10:45.061982+00:00",
-      "rawScore": 0.5182184037138592,
-      "relevanceScore": 0.5182184037138592,
-      "suggestedRadius": 79.19,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48134651_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48134651_reddit_thumb.jpg",
-      "category": "tech",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Stanford scientists regrow lost cartilage and reverse arthritis in major breakthrough",
-          "url": "https://lemmy.world/post/48134651",
-          "subreddit": "lemmy_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Que incrível! A possibilidade de regenerar cartilagem perdida e inverter a artrite é um sonho tornado realidade. Isso pode mudar a vida de milhões de pessoas que sofrem com dor e mobilidade reduzida.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Mas será que isso vai estar disponível para todos ou apenas para os ricos? É inacreditável que ainda tenhamos um sistema de saúde tão desigual. Espero que isso não seja apenas mais um tratamento caro que só alguns podem pagar.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "É interessante ver como a ciência está avançando, mas também é importante lembrar que isso foi feito em ratos. Ainda há muito trabalho a ser feito antes de podermos aplicar isso em humanos. E quais são os possíveis efeitos colaterais?",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "hn_48533848",
-      "rank": 32,
-      "title": "Seu ePub está bem",
-      "label": "ePub · padrões e compatibilidade",
-      "context": "O artigo do Hacker News argumenta que o formato ePub, por ser basicamente um HTML compactado, é robusto e bem suportado, ao contrário do PDF, que é um pesadelo de implementação. A discussão revela que o problema real não é o ePub em si, mas sim softwares desatualizados como o Adobe Digital Editions, que ignoram as regras de CSS e quebram a leitura.",
-      "source": "hackernews",
-      "subreddit": "hackernews",
-      "permalink": "https://news.ycombinator.com/item?id=48533848",
-      "createdAt": "2026-06-14T22:54:55+00:00",
-      "rawScore": 0.5029608267446749,
-      "relevanceScore": 0.5029608267446749,
-      "suggestedRadius": 78.55,
-      "imageUrl": "assets/images/hn_48533848_uns.jpg",
-      "imageThumbUrl": "assets/images/hn_48533848_uns_thumb.jpg",
-      "category": "tech",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Your ePub Is fine",
-          "url": "https://news.ycombinator.com/item?id=48533848",
-          "subreddit": "hackernews"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O formato ePub é genial porque é simples: um zip com HTML e CSS. Qualquer navegador moderno renderiza isso de boa. O problema não é o padrão, é a Adobe que não atualiza o leitor deles há 16 anos. Se você usar um app decente, tipo o calibre, seus ebooks funcionam perfeitamente. PDF que é o verdadeiro inferno técnico.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A Adobe vendeu o Digital Editions pra Wipro e ainda assim o software continua uma bosta. Eles lucraram décadas com um player que não respeita nem o CSS de 1996, quebrando livros inteiros por causa de uma propriedade desconhecida. É incompetência ou má fé? Enquanto isso, o W3C fica empurrando padrões novos que ninguém e",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Legal que o ePub é só HTML, mas aí você depende de leitores de eink que usam o mesmo motor da Adobe desde 2008. O Kobo até tem um engine alternativo com .kepub.epub, mas isso é outro padrão não oficial. No fim, o usuário comum que só quer ler um livro baixado tem que ser engenheiro de software pra descobrir qual CSS nã",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek/deepseek-v4-flash"
-    },
-    {
-      "id": "masto_mastodonsocial_116755154925486261",
-      "rank": 33,
-      "title": "Relatando aos colegas após voltar de uma convenção de furries:",
-      "label": "Furries · Método inusitado",
-      "context": "Um usuário relatou como usa ferrets para puxar cabos em espaços confinados. Esse método é usado por alguns para instalar cabos em locais de difícil acesso.",
-      "source": "mastodon",
-      "subreddit": "masto_global",
-      "permalink": "https://haunted.computer/@Dio9sys/116755154479332279",
-      "createdAt": "2026-06-15T16:51:14+00:00",
-      "rawScore": 0.43978657093237206,
-      "relevanceScore": 0.43978657093237206,
-      "suggestedRadius": 75.79,
-      "imageUrl": "assets/images/masto_mastodonsocial_116755154925486261_reddit.jpg",
-      "imageThumbUrl": "assets/images/masto_mastodonsocial_116755154925486261_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Reporting to coworkers after I come back from a furry convention like:",
-          "url": "https://haunted.computer/@Dio9sys/116755154479332279",
-          "subreddit": "masto_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Dio9sys é um gênio! Quem diria que ferrets poderiam ser úteis para puxar cabos? É uma solução criativa e eficaz.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Você está brincando? Usar ferrets para puxar cabos é uma receita para o desastre! Eles podem se machucar ou causar problemas.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Eu não sei se é uma boa ideia, mas é definitivamente uma história divertida. Alguém tem que ter cuidado com esses bichinhos.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "lemmy_lemmyworld_48183080",
-      "rank": 34,
-      "title": "Um trilionário existe durante tudo isso",
-      "label": "Desigualdade econômica · Critica ao sistema",
-      "context": "Um trilionário existe em um contexto de desigualdade econômica crescente. Isso destaca a concentração de riqueza e a dificuldade de mobilidade social.",
-      "source": "lemmy",
-      "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48183080",
-      "createdAt": "2026-06-15T02:14:57.550746+00:00",
-      "rawScore": 0.4263293135025553,
-      "relevanceScore": 0.4263293135025553,
-      "suggestedRadius": 75.18,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48183080_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48183080_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "A trillionaire exists during all of this",
-          "url": "https://lemmy.world/post/48183080",
-          "subreddit": "lemmy_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Esse trilionário prova que o sistema capitalista funciona para alguns. Quem se esforça e tem sorte pode alcançar o topo. É um exemplo de como o mérito e a ambição podem ser recompensados.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Esse trilionário é um símbolo da desigualdade e da injustiça social. Enquanto alguns nadam em dinheiro, outros lutam para sobreviver. É um exemplo claro de como o sistema é quebrado e precisa ser mudado.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Esse trilionário é um caso extremo, mas também é um lembrete de que a riqueza pode ser concentrada em poucas mãos. Será que isso é realmente justo? Talvez seja hora de repensar como distribuímos a riqueza e criamos oportunidades para todos.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "masto_mastodonsocial_116753823670518961",
-      "rank": 35,
-      "title": "E se proibíssemos computadores de usar crianças?",
-      "label": "Privacidade infantil · Tecnologia",
-      "context": "Um usuário sugeriu banir computadores de usar crianças em vez de resolver o problema da raiz. Isso gerou debate sobre como lidar com a privacidade e segurança de crianças online.",
-      "source": "mastodon",
-      "subreddit": "masto_global",
-      "permalink": "https://indieweb.social/@jbz/116753823636142647",
-      "createdAt": "2026-06-15T11:12:47+00:00",
-      "rawScore": 0.3973893896541067,
-      "relevanceScore": 0.3973893896541067,
-      "suggestedRadius": 73.82,
-      "imageUrl": "assets/images/masto_mastodonsocial_116753823670518961_uns.jpg",
-      "imageThumbUrl": "assets/images/masto_mastodonsocial_116753823670518961_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "What if we ban computers from using kids instead?",
-          "url": "https://indieweb.social/@jbz/116753823636142647",
-          "subreddit": "masto_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "As empresas são que abusam das crianças, não os computadores. Deveríamos banir os abusadores, não as ferramentas.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "É uma ideia loucamente simplista. O problema são as pessoas que usam os computadores, não as máquinas em si.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "E se projetássemos dispositivos específicos para crianças, sem acesso à internet, só para ligações, mensagens e trabalhos escolares offline? Assim, elas crescem e depois podem ter dispositivos adultos.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "hn_48471638",
-      "rank": 36,
-      "title": "Simulador de Rachadura de Lenha",
-      "label": "Jogos · Simulador",
-      "context": "Um simulador de rachadura de lenha foi criado, permitindo que os jogadores experimentem a sensação de rachar lenha de forma virtual. Esse jogo pode ser uma forma divertida e relaxante de passar o tempo.",
-      "source": "hackernews",
-      "subreddit": "hackernews",
-      "permalink": "https://news.ycombinator.com/item?id=48471638",
-      "createdAt": "2026-06-10T05:01:31+00:00",
-      "rawScore": 0.3957703768409986,
-      "relevanceScore": 0.3957703768409986,
-      "suggestedRadius": 73.75,
-      "imageUrl": "assets/images/hn_48471638_uns.jpg",
-      "imageThumbUrl": "assets/images/hn_48471638_uns_thumb.jpg",
-      "category": "tech",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Firewood Splitting Simulator",
-          "url": "https://news.ycombinator.com/item?id=48471638",
-          "subreddit": "hackernews"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Esse simulador é muito divertido! Eu adorei a sensação de rachar lenha virtualmente. É uma ótima forma de relaxar e se divertir.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Eu não entendo o que há de divertido em rachar lenha virtualmente. É só um monte de cliques e movimentos repetitivos. Não é nada emocionante.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Eu acho que é uma ideia interessante, mas falta realismo. Por exemplo, não há a sensação de dor nas costas ou no braço depois de rachar lenha por horas. Seria mais realista se tivesse esses detalhes.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "lemmy_lemmyworld_48159226",
-      "rank": 37,
-      "title": "A experiência de 1996",
-      "label": "Animações · Nostalgia",
-      "context": "A experiência de 1996 se refere a um evento ou memória relacionada ao ano de 1996. Esse evento deixou uma marca na cultura popular.",
-      "source": "lemmy",
-      "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48159226",
-      "createdAt": "2026-06-14T12:53:20.761694+00:00",
-      "rawScore": 0.3665451519212781,
-      "relevanceScore": 0.3665451519212781,
-      "suggestedRadius": 72.33,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48159226_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48159226_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "The 1996 experience",
-          "url": "https://lemmy.world/post/48159226",
-          "subreddit": "lemmy_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Gadget Hackwrench foi a minha paixão na infância! Quem não se lembra daquela personagem carismática e determinada da série Disney's Gadget's Hackwrench?",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Eu odeio como as animações mudaram ao longo dos anos. A 'experiência de 1996' me traz lembranças de TVs de projeção que queimavam facilmente.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Será que há uma conexão entre o aumento de personagens animais antropomórficos sexy e a comunidade furry? É uma pergunta interessante.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "lemmy_lemmyworld_48200566",
-      "rank": 38,
-      "title": "Democratas vandalizam o espelho d'água com... Algas.",
-      "label": "Vandalismo no espelho d'água",
-      "context": "O espelho d'água em Washington, DC, foi vandalizado com algas. O incidente está sendo investigado.",
-      "source": "lemmy",
-      "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48200566",
-      "createdAt": "2026-06-15T13:52:27.019372+00:00",
-      "rawScore": 0.3577404562690738,
-      "relevanceScore": 0.3577404562690738,
-      "suggestedRadius": 71.89,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48200566_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48200566_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "The evil Democrats vandalizing the reflection pool with... Algae.",
-          "url": "https://lemmy.world/post/48200566",
-          "subreddit": "lemmy_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Os democratas são uns malucos, jogando algas no espelho d'água! Cadê as câmeras de segurança? Ninguém viu nada?",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "É inacreditável que os republicanos ainda estejam acusando os democratas sem provas! É hora de parar com as teorias da conspiração!",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Mas será que o problema não é mais simples? Talvez o pH da água esteja desbalanceado e a clorina não esteja funcionando direito...",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "lemmy_lemmyworld_48178704",
-      "rank": 39,
-      "title": "Você precisa pensar a longo prazo",
-      "label": "E-mails · Mudança de perspectiva",
-      "context": "Um usuário do Reddit reflete sobre como as pessoas escolhem seus endereços de e-mail ao longo da vida. Isso acontece porque as pessoas tendem a mudar seus nomes de usuário e endereços de e-mail à medida que envelhecem.",
-      "source": "lemmy",
-      "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48178704",
-      "createdAt": "2026-06-14T22:40:42.453164+00:00",
-      "rawScore": 0.3514191349042574,
-      "relevanceScore": 0.3514191349042574,
-      "suggestedRadius": 71.57,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48178704_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48178704_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "You need to think long term",
-          "url": "https://lemmy.world/post/48178704",
-          "subreddit": "lemmy_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Eu escolhi meu nome e sobrenome como endereço de e-mail desde o início e nunca tive problemas. É simples e profissional.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Quem usa endereços de e-mail como 'pussysmasher_hobag@whatever.com' está apenas tentando se gabar. É ridículo e dificulta a vida das pessoas que precisam lidar com isso.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Eu entendo que as pessoas mudem de endereço de e-mail ao longo da vida, mas acho que é importante ter um endereço de e-mail 'adulto' para situações profissionais. Talvez um endereço com nome e sobrenome seja mais adequado.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "bsky_3modluzcusq24",
-      "rank": 40,
-      "title": "Essas duas adoráveis corujas-screech orientais juvenis",
-      "label": "Animais · Comportamento Curioso",
-      "context": "Um vídeo mostra duas corujas-screech orientais juvenis se comportando de maneira curiosa. Elas estão explorando seu entorno com movimentos de cabeça.",
-      "source": "bluesky",
-      "subreddit": "bsky_global",
-      "permalink": "https://bsky.app/profile/yourdigitalbrain.bsky.social/post/3modluzcusq24",
-      "createdAt": "2026-06-15T15:27:16.267000+00:00",
-      "rawScore": 0.333836388477873,
-      "relevanceScore": 0.333836388477873,
-      "suggestedRadius": 70.67,
-      "imageUrl": "assets/images/bsky_3modluzcusq24_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3modluzcusq24_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "🔥 These two adorable juvenile Eastern Screech Owls",
-          "url": "https://bsky.app/profile/yourdigitalbrain.bsky.social/post/3modluzcusq24",
-          "subreddit": "bsky_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Essas corujas são a definição de curiosidade com todos os movimentos de cabeça e pescoço! É como se estivessem tentando entender o mundo ao seu redor.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Eu não entendo o que há de tão especial nessas corujas. Estão apenas olhando em volta como se fossem alienígenas ou algo assim.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Será que essas corujas estão tentando aprender algo com os humanos? É interessante ver como elas interagem com o ambiente.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "masto_mastodonsocial_116754679046950456",
-      "rank": 41,
-      "title": "Todos os países da UE concordam em abrir negociações de adesão com Ucrânia e Moldávia",
-      "label": "Integração Europeia · Expansão da UE",
-      "context": "A União Europeia (UE) iniciou oficialmente as negociações de adesão com a Ucrânia e a Moldávia, marcando um passo significativo na integração destes países ao bloco. Isso ocorre em um momento em que a UE busca fortalecer suas relações com países vizinhos e promover a estabilidade na região.",
-      "source": "mastodon",
-      "subreddit": "masto_global",
-      "permalink": "https://ec.social-network.europa.eu/@EUCommission/116754679006037959",
-      "createdAt": "2026-06-15T14:50:19+00:00",
-      "rawScore": 0.2489668567275754,
-      "relevanceScore": 0.2489668567275754,
-      "suggestedRadius": 65.94,
-      "imageUrl": "assets/images/masto_mastodonsocial_116754679046950456_reddit.jpg",
-      "imageThumbUrl": "assets/images/masto_mastodonsocial_116754679046950456_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "A defining moment for Europe. 🇪🇺🤝🇲🇩🇺🇦 — All EU countries have now agreed to open the first accession negotiations cluster with Ukraine and Moldova. — Today, we're launching talks on the backbone of the accession process: including justice, freedom, and fundamental rights. — We've seen the hard work ",
-          "url": "https://ec.social-network.europa.eu/@EUCommission/116754679006037959",
-          "subreddit": "masto_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A UE finalmente está fazendo algo certo! A expansão para a Ucrânia e Moldávia é uma vitória para a liberdade e a democracia. Vamos garantir que esses países sejam fortes e seguros para se juntarem à nossa família europeia!",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A UE está apenas jogando com fogo! Apressar a adesão de países em conflito como a Ucrânia sem resolver as questões estruturais é uma receita para o desastre. E o que dizer da influência corporativa e da exploração econômica? É uma farsa!",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A UE está tomando um passo pragmático ao iniciar as negociações de adesão. Isso demonstra o compromisso com a integração europeia e a promoção da estabilidade na região. Agora, é crucial garantir que as reformas necessárias sejam implementadas para uma integração suave e eficaz.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "bsky_3modmxvtfa22w",
-      "rank": 42,
-      "title": "Becky morreu há 5 anos hoje. Ela viveu quase 20 anos, embora eu a tenha adotado com 16 anos quando sua dona idosa faleceu. Sinto sua falta, minha doce garota. D",
-      "label": "Luto por Pet",
-      "context": "Uma pessoa está lembrando da morte de sua gata, Becky, que viveu quase 20 anos. Ela foi adotada quando tinha 16 anos e sua dona faleceu.",
-      "source": "bluesky",
-      "subreddit": "bsky_global",
-      "permalink": "https://bsky.app/profile/danagricken.bsky.social/post/3modmxvtfa22w",
-      "createdAt": "2026-06-15T15:46:47.172000+00:00",
-      "rawScore": 0.2312290084491699,
-      "relevanceScore": 0.2312290084491699,
-      "suggestedRadius": 64.85,
-      "imageUrl": "assets/images/bsky_3modmxvtfa22w_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3modmxvtfa22w_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Becky passed away 5 years ago today. She lived to be almost 20, though I adopted her at 16 when her elderly owner died. I miss you so much, my sweet girl. Rest in peace with sunshine, naps, and the butter you loved to eat. ♥️",
-          "url": "https://bsky.app/profile/danagricken.bsky.social/post/3modmxvtfa22w",
-          "subreddit": "bsky_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Becky viveu uma vida incrível, quase 20 anos é um feito! É uma prova de que com amor e cuidado, nossos pets podem viver muito. Deus abençoe sua memória.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "É tão triste que tenhamos que perder nossos companheiros de quatro patas. O sistema capitalista nos faz esquecer que eles são seres vivos que sentem e sofrem. Becky deveria ter tido uma vida melhor.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Becky foi uma gata sortuda em ter encontrado um lar amoroso. É importante lembrar que a adoção de pets é uma escolha nobre e que podemos fazer a diferença na vida deles. Que ela descanse em paz.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "lemmy_lemmyworld_48198062",
-      "rank": 43,
-      "title": "Filho da princesa herdeira da Noruega é condenado por estupro e sentenciado a 4 anos de prisão",
-      "label": "Justiça · Crime",
-      "context": "O filho da princesa herdeira da Noruega, Mette-Marit, foi condenado por estupro e sentenciado a 4 anos de prisão. A sentença foi aplicada após o júri o considerar culpado de vários crimes, incluindo estupro e abuso doméstico.",
-      "source": "lemmy",
-      "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48198062",
-      "createdAt": "2026-06-15T12:54:37.574949+00:00",
-      "rawScore": 0.22127237335154154,
-      "relevanceScore": 0.22127237335154154,
-      "suggestedRadius": 64.22,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48198062_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48198062_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Norway crown princess’ son convicted of rape, sentenced to 4 years in prison",
-          "url": "https://lemmy.world/post/48198062",
-          "subreddit": "lemmy_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Finalmente, alguém da família real sendo responsabilizado por seus atos! A Noruega mostra que ninguém está acima da lei.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Quatro anos são poucos para o que ele fez! Deveriam ter sido mais duros com ele, afinal, ele é um membro da família real.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "É interessante notar que a Noruega tem um sistema prisional que visa reeducar os detentos, então talvez os 4 anos sejam mais eficazes do que parecem. Ainda assim, é um caso complexo e controverso.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "lemmy_lemmyworld_48146123",
-      "rank": 44,
-      "title": "Pai de Anon tenta se conectar",
-      "label": "Parentalidade · Aceitação",
-      "context": "Um pai tenta se conectar com seu filho, que usa pronomes específicos. Ele não entende completamente as necessidades do filho, mas quer apoiá-lo. Isso é importante porque o apoio dos pais é crucial para a autoestima e confiança de crianças trans.",
-      "source": "lemmy",
-      "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48146123",
-      "createdAt": "2026-06-14T04:11:53.354823+00:00",
-      "rawScore": 0.20519357038474323,
-      "relevanceScore": 0.20519357038474323,
-      "suggestedRadius": 63.18,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48146123_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48146123_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Anon's dad tries to bond",
-          "url": "https://lemmy.world/post/48146123",
-          "subreddit": "lemmy_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Esse pai está muito à frente da curva! Ele não debocha do filho por suas preferências e tenta se conectar com ele. É assim que se constrói uma relação saudável!",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Que negligência! Ele não usa os pronomes que o filho quer? Isso pode machucá-lo profundamente. Como pode ser tão ambivalente em relação a algo tão importante?",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Eu entendo que o pai queira se conectar com o filho, mas será que ele realmente entende o que o filho está passando? Talvez ele precise ouvir mais e julgar menos. É complicado, mas o apoio é fundamental.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "bsky_3mnxvneosu227",
-      "rank": 45,
-      "title": "Pix é criação brasileira reconhecida como marca de alto renome",
-      "label": "Tecnologia Financeira · Inovação Pública",
-      "context": "O Pix é uma criação brasileira que facilita a vida e movimenta a economia. Mais de 88% dos usuários estão satisfeitos com o serviço.",
-      "source": "bluesky",
-      "subreddit": "bsky_br",
-      "permalink": "https://bsky.app/profile/brasil.gov.br/post/3mnxvneosu227",
-      "createdAt": "2026-06-10T23:49:59.667000+00:00",
-      "rawScore": 0.0029288001323170493,
-      "relevanceScore": 0.0029288001323170493,
-      "suggestedRadius": 39.25,
-      "imageUrl": "assets/images/bsky_3mnxvneosu227_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mnxvneosu227_uns_thumb.jpg",
-      "category": "economia",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "O Pix é criação brasileira, usada pelo povo brasileiro e agora reconhecida como marca de alto renome. 🇧🇷 Mais proteção para uma inovação pública que facilita a vida, movimenta a economia e tem mais de 88% de satisfação entre usuários. É gol do Brasil. E gol legal. ✅ 📲 Digital/PR",
-          "url": "https://bsky.app/profile/brasil.gov.br/post/3mnxvneosu227",
-          "subreddit": "bsky_br"
-        },
-        {
-          "title": "O Pix é criação brasileira, usada pelo povo brasileiro e agora reconhecida como marca de alto renome. 🇧🇷 Mais proteção para uma inovação pública que facilita a vida, movimenta a economia e tem mais de 88% de satisfação entre usuários. É gol do Brasil. E gol legal. ✅",
-          "url": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mny524kxzk2v",
-          "subreddit": "bsky_br"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O governo brasileiro fez um gol ao criar o Pix, uma inovação pública que realmente funciona! É uma marca de alto renome e merece proteção.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A criação do Pix foi uma medida paliativa para beneficiar a elite econômica. Não vamos esquecer que ainda há muita desigualdade no acesso a serviços financeiros no Brasil.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A satisfação de 88% dos usuários com o Pix mostra que ele está funcionando bem. Agora é importante garantir que ele continue a ser uma opção segura e eficiente para todos.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "bsky_3mnps3wfzgk2p",
-      "rank": 46,
-      "title": "Haddad foi certeiro! Trump e os Bolsonaros atacam o PIX porque não suportam o sucesso de uma tecnologia pública brasileira, criada pelo Brasil para os brasileir",
-      "label": "PIX · Sucesso Brasileiro",
-      "context": "O ministro da Fazenda, Fernando Haddad, elogiou o PIX, sistema de pagamentos instantâneos do Brasil. O PIX é uma tecnologia pública brasileira criada para facilitar transações financeiras.",
-      "source": "bluesky",
-      "subreddit": "bsky_br",
-      "permalink": "https://bsky.app/profile/lazarorosa.bsky.social/post/3mnps3wfzgk2p",
-      "createdAt": "2026-06-07T18:25:14.070000+00:00",
-      "rawScore": 0.0016827640289034827,
-      "relevanceScore": 0.0016827640289034827,
-      "suggestedRadius": 38.46,
-      "imageUrl": "assets/images/bsky_3mnps3wfzgk2p_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mnps3wfzgk2p_uns_thumb.jpg",
-      "category": "tech",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Haddad foi certeiro! Trump e os Bolsonaros atacam o PIX porque não suportam o sucesso de uma tecnologia pública brasileira, criada pelo Brasil para os brasileiros. 🔥🇧🇷",
-          "url": "https://bsky.app/profile/lazarorosa.bsky.social/post/3mnps3wfzgk2p",
-          "subreddit": "bsky_br"
-        },
-        {
-          "title": "Haddad: não existe “favorecer uma empresa” quando se fala de Pix. O Pix é uma tecnologia pública, brasileira e gratuita Foi criado para facilitar a vida do povo, do trabalhador, do pequeno comerciante, de quem compra, vende e paga conta todo dia Se isso incomoda lá fora, é pq Brasil fez algo grande",
-          "url": "https://bsky.app/profile/akaishiri.bsky.social/post/3mnpr576t622w",
-          "subreddit": "bsky_br"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Flávio Bolsonaro está certo, o PIX é uma ameaça aos interesses dos poderosos. Eles não querem que o povo tenha acesso a uma tecnologia tão avançada e segura.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Os Bolsonaros e Trump querem destruir o PIX porque ele é uma conquista do povo brasileiro, uma tecnologia pública que beneficia a todos, não apenas aos ricos e poderosos.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O PIX movimentou 35 bilhões este ano e isso mostra que a tecnologia está funcionando. É importante que mantenhamos a segurança e a estabilidade do sistema para que ele continue a beneficiar a todos.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "reddit_1u6fu0p",
-      "rank": 47,
-      "title": "Descoberta musical",
-      "label": "Música Brasileira · Artista Descoberto",
-      "context": "Um usuário do subreddit musicabr compartilhou uma descoberta musical. O artista Sérgio parece ter sido descoberto por alguns usuários, que estão discutindo suas músicas e recomendando seus discos.",
-      "source": "reddit",
-      "subreddit": "musicabr",
-      "permalink": "https://www.reddit.com/r/MusicaBR/comments/1u6fu0p/descoberta_músical/",
-      "createdAt": "2026-06-15T18:05:05.338879+00:00",
-      "rawScore": 0.0014145050631281686,
-      "relevanceScore": 0.0014145050631281686,
-      "suggestedRadius": 38.26,
-      "imageUrl": "assets/images/reddit_1u6fu0p_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1u6fu0p_uns_thumb.jpg",
-      "category": "entretenimento",
-      "region": "brasil",
-      "sources": [
-        {
-          "title": "Descoberta músical",
-          "url": "https://www.reddit.com/r/MusicaBR/comments/1u6fu0p/descoberta_músical/",
-          "subreddit": "musicabr"
-        },
-        {
-          "title": "A melhor descoberta musical desse ano",
-          "url": "https://www.reddit.com/r/MusicaBR/comments/1u5yoz2/a_melhor_descoberta_musical_desse_ano/",
-          "subreddit": "musicabr"
+          "title": "megabool",
+          "url": "https://lemmy.eco.br/post/23925298",
+          "subreddit": "lemmy_br"
         }
       ],
       "opinions": [
@@ -1422,37 +151,1903 @@
           "votes": 0
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "deepseek/deepseek-v4-flash"
     },
     {
-      "id": "bsky_3mo4ogn7u4c26",
+      "id": "lemmy_lemmyecobr_23916817",
+      "rank": 4,
+      "title": "A picture of the same place, Gaza, before and after the war.",
+      "label": "",
+      "context": "",
+      "source": "lemmy",
+      "subreddit": "lemmy_br",
+      "permalink": "https://lemmy.eco.br/post/23916817",
+      "createdAt": "2026-06-14T14:58:24+00:00",
+      "rawScore": 0.2008008566156957,
+      "relevanceScore": 0.2008008566156957,
+      "suggestedRadius": 62.89,
+      "imageUrl": "assets/images/lemmy_lemmyecobr_23916817_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyecobr_23916817_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "A picture of the same place, Gaza, before and after the war.",
+          "url": "https://lemmy.eco.br/post/23916817",
+          "subreddit": "lemmy_br"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "ideology": "far_right",
+          "text": "A extrema direita defenderia medidas duras e mais controle/segurança neste caso.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "ideology": "far_left",
+          "text": "A extrema esquerda criticaria o poder de governos/empresas e pediria mudanças estruturais.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "ideology": "liberal",
+          "text": "A posição liberal tenderia a focar em regras claras, instituições e equilíbrio de direitos.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "lemmy_lemmyecobr_23901566",
+      "rank": 5,
+      "title": "What was the worst American remake of a foreign movie you've seen after watching the original version?",
+      "label": "",
+      "context": "",
+      "source": "lemmy",
+      "subreddit": "lemmy_br",
+      "permalink": "https://lemmy.eco.br/post/23901566",
+      "createdAt": "2026-06-15T06:55:27.322440+00:00",
+      "rawScore": 0.19296078106634418,
+      "relevanceScore": 0.19296078106634418,
+      "suggestedRadius": 62.36,
+      "imageUrl": "assets/images/lemmy_lemmyecobr_23901566_ai.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyecobr_23901566_ai_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "What was the worst American remake of a foreign movie you've seen after watching the original version?",
+          "url": "https://lemmy.eco.br/post/23901566",
+          "subreddit": "lemmy_br"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Há quem defenda essa medida como necessária.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Outros criticam e veem riscos ou consequências negativas.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Também há quem prefira esperar mais informações antes de concluir.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "lemmy_lemmyworld_48241825",
+      "rank": 6,
+      "title": "Área de lazer infantil em aeroportos",
+      "label": "Áreas de lazer infantil · design criticado",
+      "context": "A imagem mostra uma área de lazer infantil no Aeroporto de São Francisco, com equipamentos de design minimalista e formas geométricas, como uma estrutura metálica com três anéis concêntricos e uma haste vertical. A discussão critica o design por ser pouco convidativo para crianças e potencialmente perigoso, contrastando com parquinhos tradicionais que estimulam a brincadeira criativa.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/48241825",
+      "createdAt": "2026-06-16T12:29:51.738353+00:00",
+      "rawScore": 0.3601426158260355,
+      "relevanceScore": 0.3601426158260355,
+      "suggestedRadius": 72.01,
+      "imageUrl": "assets/images/lemmy_lemmyworld_48241825_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48241825_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Children's play area in airports",
+          "url": "https://lemmy.world/post/48241825",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Finalmente um espaço que foge do padrão colorido genérico. Essa área é claramente inspirada em design funcional e até lembra cenários de filmes de ficção científica. Crianças que gostam de explorar, se movimentar e usar a imaginação vão amar esses equipamentos abstratos. Muito melhor que os mesmos escorregadores de sem",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Que piada de área infantil é essa? Um trepa-trepa com três argolas e um corrimão torto? Criança pequena cai daquilo e se machuca feio. Fora que o carpete parece imundo e o design todo é tão frio que parece um museu, não um lugar pra criança brincar. Gastaram uma fortuna nisso pra entregar esse negócio sem graça e perig",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A ideia de ter um espaço para crianças em aeroporto é ótima, mas a execução aí foi bem questionável. Parece que contrataram um artista plástico em vez de um especialista em parquinhos. Dito isso, quem tem criança pequena sabe que qualquer lugar vira brinquedo — se for seguro o bastante, até esse negócio esquisito serve",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "hn_48547985",
+      "rank": 7,
+      "title": "Biblioteca de livros banidos em uma lâmpada inteligente Wi-Fi",
+      "label": "Projeto de lampada com livros proibidos",
+      "context": "Um desenvolvedor criou um projeto que coloca uma biblioteca de livros considerados banidos em uma lâmpada inteligente com Wi-Fi, usando um chip ESP32 e o firmware Tasmota. O objetivo é permitir acesso a essas obras de forma discreta, evitando censura local, especialmente em comunidades onde certos livros são restritos para menores de idade.",
+      "source": "hackernews",
+      "subreddit": "hackernews",
+      "permalink": "https://news.ycombinator.com/item?id=48547985",
+      "createdAt": "2026-06-15T22:37:55+00:00",
+      "rawScore": 0.31802996000278694,
+      "relevanceScore": 0.31802996000278694,
+      "suggestedRadius": 69.84,
+      "imageUrl": "assets/images/hn_48547985_uns.jpg",
+      "imageThumbUrl": "assets/images/hn_48547985_uns_thumb.jpg",
+      "category": "tech",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Banned book library in a wi-fi smart light bulb",
+          "url": "https://news.ycombinator.com/item?id=48547985",
+          "subreddit": "hackernews"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Esse projeto é genial! Uma lâmpada que parece inofensiva mas serve como ponto de acesso a livros que escolas ou bibliotecas tentam esconder. Comprei um modelo Tasmota, flashei pela rede e pronto. É resistência discreta contra a censura cultural que avança nos EUA — proteger a liberdade de leitura de jovens é prioridade",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Chamar de 'banido' é exagerado e desonesto. Nos EUA, nenhum livro é ilegal — só há curadoria local em escolas, que é diferente de censura. O Color Purple foi desafiado, mas ainda está em bibliotecas. Esse projeto banaliza a palavra 'banido' e ignora casos reais de censura, como na China ou na Arábia Saudita.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A ideia técnica é legal — um servidor web numa lâmpada — mas na prática é frágil. Qualquer um com um analisador Wi-Fi acha o ponto em segundos. E a discussão sobre 'banimento' é subjetiva: se um distrito escolar remove um livro, não é banimento de verdade, mas também não é liberdade total. Talvez o foco devesse ser mel",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "bsky_3mnxvneosu227",
+      "rank": 8,
+      "title": "Pix é reconhecido como marca de alto renome no Brasil",
+      "label": "Pix: marca de alto renome",
+      "context": "O governo federal anunciou que o Pix foi reconhecido como marca de alto renome, uma classificação jurídica que garante proteção especial contra uso indevido. A medida busca blindar o sistema de pagamentos instantâneos, criado pelo Banco Central, e reforça seu valor como inovação pública brasileira.",
+      "source": "bluesky",
+      "subreddit": "bsky_br",
+      "permalink": "https://bsky.app/profile/brasil.gov.br/post/3mnxvneosu227",
+      "createdAt": "2026-06-10T23:49:59.667000+00:00",
+      "rawScore": 0.0031493033868830313,
+      "relevanceScore": 0.0031493033868830313,
+      "suggestedRadius": 39.37,
+      "imageUrl": "assets/images/bsky_3mnxvneosu227_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mnxvneosu227_uns_thumb.jpg",
+      "category": "economia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "O Pix é criação brasileira, usada pelo povo brasileiro e agora reconhecida como marca de alto renome. 🇧🇷 Mais proteção para uma inovação pública que facilita a vida, movimenta a economia e tem mais de 88% de satisfação entre usuários. É gol do Brasil. E gol legal. ✅ 📲 Digital/PR",
+          "url": "https://bsky.app/profile/brasil.gov.br/post/3mnxvneosu227",
+          "subreddit": "bsky_br"
+        },
+        {
+          "title": "O Pix é criação brasileira, usada pelo povo brasileiro e agora reconhecida como marca de alto renome. 🇧🇷 Mais proteção para uma inovação pública que facilita a vida, movimenta a economia e tem mais de 88% de satisfação entre usuários. É gol do Brasil. E gol legal. ✅",
+          "url": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mny524kxzk2v",
+          "subreddit": "bsky_br"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O Pix é nosso, feito pelo Brasil e para o brasileiro. Essa proteção de marca de alto renome mostra que o Estado pode acertar quando para de atrapalhar. Enquanto a esquerda quer estatizar tudo, a gente cria soluções que o povo abraça. 88% de satisfação não é atoa — é mérito de quem trabalha de verdade.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Reconhecer o Pix como marca de alto renome é só mais uma manobra para privatizar o que é público. Enquanto isso, bancos e gigantes da tecnologia se preparam para lucrar em cima de um sistema criado com dinheiro do povo. O povo que se contente com a ilusão de que isso é 'nosso', enquanto a desigualdade digital só aument",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A decisão de proteger o Pix como marca de alto renome faz sentido jurídico: impede que terceiros se aproveitem do nome e da confiança pública. Mas é importante garantir que essa proteção não vire barreira para concorrência ou inovação. O importante é manter regras claras que beneficiem o usuário final, não apenas o gov",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "bsky_3mnps3wfzgk2p",
+      "rank": 9,
+      "title": "Haddad ataca Bolsonaro e Trump por críticas ao PIX",
+      "label": "PIX · Defesa de Haddad e críticas de Bolsonaro",
+      "context": "O ministro da Fazenda, Fernando Haddad, afirmou que as críticas ao PIX por parte de Jair Bolsonaro e Donald Trump são motivadas por não aceitarem o sucesso de uma tecnologia pública brasileira. A fala acirra o debate sobre o controle e a popularidade do sistema de pagamentos instantâneos.",
+      "source": "bluesky",
+      "subreddit": "bsky_br",
+      "permalink": "https://bsky.app/profile/lazarorosa.bsky.social/post/3mnps3wfzgk2p",
+      "createdAt": "2026-06-07T18:25:14.070000+00:00",
+      "rawScore": 0.0019841665898756413,
+      "relevanceScore": 0.0019841665898756413,
+      "suggestedRadius": 38.67,
+      "imageUrl": "assets/images/bsky_3mnps3wfzgk2p_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mnps3wfzgk2p_uns_thumb.jpg",
+      "category": "tech",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Haddad foi certeiro! Trump e os Bolsonaros atacam o PIX porque não suportam o sucesso de uma tecnologia pública brasileira, criada pelo Brasil para os brasileiros. 🔥🇧🇷",
+          "url": "https://bsky.app/profile/lazarorosa.bsky.social/post/3mnps3wfzgk2p",
+          "subreddit": "bsky_br"
+        },
+        {
+          "title": "Haddad: não existe “favorecer uma empresa” quando se fala de Pix. O Pix é uma tecnologia pública, brasileira e gratuita Foi criado para facilitar a vida do povo, do trabalhador, do pequeno comerciante, de quem compra, vende e paga conta todo dia Se isso incomoda lá fora, é pq Brasil fez algo grande",
+          "url": "https://bsky.app/profile/akaishiri.bsky.social/post/3mnpr576t622w",
+          "subreddit": "bsky_br"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Haddad que é um cara que não acerta uma, agora quer pagar de defensor do PIX. O sistema é bom, sim, mas o governo quer usar ele pra te controlar, igual o Flávio já denunciou. Trump e Bolsonaro tão certos em desconfiar: PIX vira arma de rastreamento nas mãos da esquerda.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Haddad falou a real: os bolsonaristas e o Trump tão é com inveja do sucesso do PIX, uma ferramenta que tirou poder dos bancos e deu ao povo. Enquanto isso, a direita só quer proteger os lucros dos parasitas que sugavam a gente com tarifas. PIX é soberania nacional, ponto.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O PIX é uma inovação indiscutível, mas transformar isso em ringue político é o pior caminho. Os 35 bilhões movimentados mostram que o sistema funciona na prática, não precisa de defensores passionais nem de ataques ideológicos. O debate devia ser sobre segurança e privacidade, não sobre ufanismo.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "lemmy_lemmyecobr_23906480",
+      "rank": 10,
+      "title": "Tanya decided against the 'trap' of motherhood. She wants to see more adult-only spaces",
+      "label": "",
+      "context": "",
+      "source": "lemmy",
+      "subreddit": "lemmy_br",
+      "permalink": "https://lemmy.eco.br/post/23906480",
+      "createdAt": "2026-06-14T20:39:57.025768+00:00",
+      "rawScore": 0.1501913003103882,
+      "relevanceScore": 0.1501913003103882,
+      "suggestedRadius": 59.25,
+      "imageUrl": "assets/images/lemmy_lemmyecobr_23906480_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyecobr_23906480_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Tanya decided against the 'trap' of motherhood. She wants to see more adult-only spaces",
+          "url": "https://lemmy.eco.br/post/23906480",
+          "subreddit": "lemmy_br"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Há quem defenda essa medida como necessária.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Outros criticam e veem riscos ou consequências negativas.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Também há quem prefira esperar mais informações antes de concluir.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "lemmy_lemmyecobr_23905783",
+      "rank": 11,
+      "title": "Fighting the symptoms instead of the cause",
+      "label": "",
+      "context": "",
+      "source": "lemmy",
+      "subreddit": "lemmy_br",
+      "permalink": "https://lemmy.eco.br/post/23905783",
+      "createdAt": "2026-06-14T18:22:18.148859+00:00",
+      "rawScore": 0.10262005201122981,
+      "relevanceScore": 0.10262005201122981,
+      "suggestedRadius": 55.22,
+      "imageUrl": "assets/images/lemmy_lemmyecobr_23905783_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyecobr_23905783_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Fighting the symptoms instead of the cause",
+          "url": "https://lemmy.eco.br/post/23905783",
+          "subreddit": "lemmy_br"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Há quem defenda essa medida como necessária.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Outros criticam e veem riscos ou consequências negativas.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Também há quem prefira esperar mais informações antes de concluir.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "lemmy_lemmyecobr_23921094",
+      "rank": 12,
+      "title": "If money wasn't a factor, how would you spend tomorrow?",
+      "label": "",
+      "context": "",
+      "source": "lemmy",
+      "subreddit": "lemmy_br",
+      "permalink": "https://lemmy.eco.br/post/23921094",
+      "createdAt": "2026-06-16T04:20:14.824571+00:00",
+      "rawScore": 0.08986179336578565,
+      "relevanceScore": 0.08986179336578565,
+      "suggestedRadius": 53.99,
+      "imageUrl": "assets/images/lemmy_lemmyecobr_23921094_uns.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyecobr_23921094_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "If money wasn't a factor, how would you spend tomorrow?",
+          "url": "https://lemmy.eco.br/post/23921094",
+          "subreddit": "lemmy_br"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Há quem defenda essa medida como necessária.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Outros criticam e veem riscos ou consequências negativas.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Também há quem prefira esperar mais informações antes de concluir.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "lemmy_lemmyecobr_23929942",
+      "rank": 13,
+      "title": "“I’m calling it now, the adoption of AI agents into software development will be one of the most costly mistakes in the field’s history. Agents cannot program…”",
+      "label": "",
+      "context": "",
+      "source": "lemmy",
+      "subreddit": "lemmy_br",
+      "permalink": "https://lemmy.eco.br/post/23929942",
+      "createdAt": "2026-06-16T13:53:40.306582+00:00",
+      "rawScore": 0.08474570946040692,
+      "relevanceScore": 0.08474570946040692,
+      "suggestedRadius": 53.47,
+      "imageUrl": "assets/images/lemmy_lemmyecobr_23929942_ai.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyecobr_23929942_ai_thumb.jpg",
+      "category": "tech",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "“I’m calling it now, the adoption of AI agents into software development will be one of the most costly mistakes in the field’s history. Agents cannot program…”",
+          "url": "https://lemmy.eco.br/post/23929942",
+          "subreddit": "lemmy_br"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "ideology": "far_right",
+          "text": "A extrema direita defenderia medidas duras e mais controle/segurança neste caso.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "ideology": "far_left",
+          "text": "A extrema esquerda criticaria o poder de governos/empresas e pediria mudanças estruturais.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "ideology": "liberal",
+          "text": "A posição liberal tenderia a focar em regras claras, instituições e equilíbrio de direitos.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "reddit_1rz5o8g",
+      "rank": 21,
+      "title": "Novo moderador (seleção)",
+      "label": "Moderação do subreddit de investimentos",
+      "context": "O subreddit de investimentos está realizando uma seleção para novos moderadores, com usuários indicando nomes como Obiwan_investidor e Elratopelludo. A discussão reflete preocupações sobre o viés político da moderação e a necessidade de manter o foco em investimentos, evitando posts de baixa qualidade e conteúdo político.",
+      "source": "reddit",
+      "subreddit": "investimentos",
+      "permalink": "https://www.reddit.com/r/investimentos/comments/1rz5o8g/novo_moderador_seleção/",
+      "createdAt": "2026-06-16T18:05:24.755660+00:00",
+      "rawScore": 0.9333321655778055,
+      "relevanceScore": 0.9333321655778055,
+      "suggestedRadius": 93.97,
+      "imageUrl": "assets/images/reddit_1rz5o8g_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1rz5o8g_uns_thumb.jpg",
+      "category": "economia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Novo moderador (seleção)",
+          "url": "https://www.reddit.com/r/investimentos/comments/1rz5o8g/novo_moderador_seleção/",
+          "subreddit": "investimentos"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O sub precisa de moderação forte e sem essa de ficar agradando todo mundo. O Obiwan é um cara que já contribui há tempos, posta conteúdo de qualidade e não fica nessa de mimimi político. Se a galera quer um sub que preste, tem que votar em quem já mostrou serviço, não em quem só aparece pra lacrar.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Esse processo de seleção já tem cheiro de panelinha. Tão puxando o sub pra direita, igual fizeram no FariaLimaBets, que virou um antro de coach e terraplanista financeiro. Se colocar mod que bane qualquer opinião contrária, esse sub vai pro buraco. Queremos moderação justa, não milícia digital de direita.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Os candidatos tão aí, mas ninguém fala do óbvio: a maioria dos posts é 'juntei 2k, onde invisto?' ou fanfic de IA. Quem for mod tem que resolver a bagunça dos posts repetitivos e links quebrados na wiki, não ficar de briga política. Se continuar assim, o sub vira um farialimabets 2.0.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "hn_48553224",
+      "rank": 22,
+      "title": "SpaceX compra Cursor por US$ 60 bilhões",
+      "label": "Aquisição de startup · Valor bilionário",
+      "context": "SpaceX anunciou a compra da Cursor, uma startup de IDE com foco em IA, por US$ 60 bilhões em ações. O negócio levanta questões sobre como a SpaceX está usando sua alta valorização de mercado para adquirir empresas de crescimento rápido.",
+      "source": "hackernews",
+      "subreddit": "hackernews",
+      "permalink": "https://news.ycombinator.com/item?id=48553224",
+      "createdAt": "2026-06-16T10:44:24+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 0.9,
+      "suggestedRadius": 92.92,
+      "imageUrl": "assets/images/hn_48553224_uns.jpg",
+      "imageThumbUrl": "assets/images/hn_48553224_uns_thumb.jpg",
+      "category": "tech",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "SpaceX to buy Cursor for $60B",
+          "url": "https://news.ycombinator.com/item?id=48553224",
+          "subreddit": "hackernews"
+        },
+        {
+          "title": "SpaceX is buying Cursor for $60 billion",
+          "url": "https://www.reddit.com/r/technology/comments/1u7clts/spacex_is_buying_cursor_for_60_billion/",
+          "subreddit": "technology"
+        },
+        {
+          "title": "SpaceX buys AI coding startup Cursor for $60 billion in race for an edge over Anthropic and OpenAI",
+          "url": "https://www.reddit.com/r/technology/comments/1u7bqj7/spacex_buys_ai_coding_startup_cursor_for_60/",
+          "subreddit": "technology"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A SpaceX está fazendo um movimento brilhante ao usar ações supervalorizadas para comprar uma startup com receita anual de US$ 4 bilhões. Isso é estratégia de mercado pura — transformar avaliação de papel em ativos reais. Quem critica não entende de inovação.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Isso é um absurdo completo. A SpaceX cria valor fictício do nada, compra empresas reais e fica mais poderosa sem nunca ter contribuído com nada. Enquanto isso, a Mercedes-Benz, com 13.000 patentes e que salvou vidas, vale menos que um editor de código. O sistema é uma farsa.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A Cursor fatura US$ 4 bilhões por ano, então a avaliação de US$ 60 bilhões é uns 15x a receita — não tão maluca quanto parece. Mas o problema é pagar com ações de uma empresa supervalorizada. No fim, quem dilui são os acionistas da SpaceX. Vamos ver se o Grok realmente melhora com isso.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "reddit_1u7fv4q",
+      "rank": 23,
+      "title": "Dar Ovo para Crianças Cedo na Vida Ajuda a Prevenir Alergia Alimentar, Diz Novo Estudo",
+      "label": "Alergia alimentar · Prevenção com ovo",
+      "context": "Um novo estudo científico indica que introduzir ovo na alimentação de crianças nos primeiros meses de vida reduz o risco de desenvolver alergia ao alimento. A descoberta reforça a importância de exposição precoce a alérgenos para prevenir reações alérgicas graves.",
+      "source": "reddit",
+      "subreddit": "health",
+      "permalink": "https://www.reddit.com/r/Health/comments/1u7fv4q/feeding_kids_eggs_early_in_life_helps_prevent/",
+      "createdAt": "2026-06-16T18:05:03.343560+00:00",
+      "rawScore": 0.866664331155611,
+      "relevanceScore": 0.866664331155611,
+      "suggestedRadius": 91.86,
+      "imageUrl": "assets/images/reddit_1u7fv4q_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u7fv4q_uns_thumb.jpg",
+      "category": "ciencia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Feeding Kids Eggs Early in Life Helps Prevent Food Allergy, New Study Says",
+          "url": "https://www.reddit.com/r/Health/comments/1u7fv4q/feeding_kids_eggs_early_in_life_helps_prevent/",
+          "subreddit": "health"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Esse estudo é um divisor de águas! Finalmente uma solução simples e barata pra um problema que tira o sono de pais. Introduzir ovo cedo pode evitar bronca e até morte por anafilaxia. Médicos deviam atualizar as diretrizes ontem, não amanhã.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Os pais já são pressionados demais com 'faça isso, não faça aquilo'. E agora mais um estudo que vira moda, mas ignora que cada criança é diferente. Introduzir ovo cedo pode ser gatilho pra quem já tem predisposição. Não é receita de bolo.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O dado é animador, mas a ciência já mudou de ideia umas três vezes sobre isso. Antes era 'evite ovo até 1 ano', agora é 'dê logo'. Vamos esperar replicação e meta-análise antes de virar evangelista do ovo cozido.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "masto_mastodonsocial_116759854591989706",
+      "rank": 24,
+      "title": "The UK government's plan to teach 10 million British children how to use VPNs may be one of the most ambitious IT education projects ever launched. Experts have praised the scheme, saying that a deft combination of incentives and peer education make it more likely to succeed than other, comparable i",
+      "label": "",
+      "context": "",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://mastodon.social/@angusm/116759854591989706",
+      "createdAt": "2026-06-16T12:46:32.192000+00:00",
+      "rawScore": 0.85,
+      "relevanceScore": 0.85,
+      "suggestedRadius": 91.32,
+      "imageUrl": "assets/images/masto_mastodonsocial_116759854591989706_uns.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_116759854591989706_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "The UK government's plan to teach 10 million British children how to use VPNs may be one of the most ambitious IT education projects ever launched. Experts have praised the scheme, saying that a deft combination of incentives and peer education make it more likely to succeed than other, comparable i",
+          "url": "https://mastodon.social/@angusm/116759854591989706",
+          "subreddit": "masto_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "ideology": "far_right",
+          "text": "A extrema direita defenderia medidas duras e mais controle/segurança neste caso.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "ideology": "far_left",
+          "text": "A extrema esquerda criticaria o poder de governos/empresas e pediria mudanças estruturais.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "ideology": "liberal",
+          "text": "A posição liberal tenderia a focar em regras claras, instituições e equilíbrio de direitos.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "reddit_1u788nt",
+      "rank": 25,
+      "title": "Um único trader da Polymarket perdeu 4,2 milhões de dólares na Copa do Mundo em menos de 24 horas",
+      "label": "Polymarket · Trader perde milhões",
+      "context": "Um usuário da plataforma de apostas Polymarket perdeu US$ 4,2 milhões em menos de um dia apostando na Copa do Mundo. O caso reacende o debate sobre a regulação de sites que se apresentam como 'mercados de previsão' mas funcionam como casas de apostas esportivas.",
+      "source": "reddit",
+      "subreddit": "technology",
+      "permalink": "https://www.reddit.com/r/technology/comments/1u788nt/a_single_polymarket_trader_lost_42_million_on_the/",
+      "createdAt": "2026-06-16T18:04:32.583630+00:00",
+      "rawScore": 0.7999964967334164,
+      "relevanceScore": 0.7999964967334164,
+      "suggestedRadius": 89.67,
+      "imageUrl": "assets/images/reddit_1u788nt_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u788nt_uns_thumb.jpg",
+      "category": "tech",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "A Single Polymarket Trader Lost $4.2 Million on the World Cup in Less Than 24 Hours",
+          "url": "https://www.reddit.com/r/technology/comments/1u788nt/a_single_polymarket_trader_lost_42_million_on_the/",
+          "subreddit": "technology"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo não deveria meter o bedelho nisso. A Polymarket é só uma plataforma de contratos futuros, igual bolsa de valores. Cada um assume o risco que quiser. Perdeu 4 milhões? Problema do cara. Agora, querer regular porque um idiota apostou mal é punir todo mundo que opera de boa.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Isso aí é a cara do capitalismo tardio: chamam de 'event contract' pra driblar a lei, enquanto o filho do Trump senta no conselho dessas empresas e lucra com a desgraça alheia. Esse bagulho destrói famílias, vicia que nem cocaína, e ninguém faz nada porque o dinheiro tá sujando a mão de político.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O cara perdeu 4 milhões em um dia, a plataforma chama aquilo de 'trading', mas no fim é aposta esportiva com roupagem de Wall Street. O que me irrita é o lobby: a Supreme Court jogou a responsabilidade pros estados, e agora cada um regula do seu jeito. Enquanto isso, anúncio de aposta aparece até no meio de série.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "bsky_3mofviu7fic2n",
+      "rank": 26,
+      "title": "Saudade de Carl Sagan em tempos sombrios",
+      "label": "Carl Sagan · Nostalgia e Ciência",
+      "context": "Em uma rede social, usuários expressam saudade do astrônomo e divulgador científico Carl Sagan, morto em 1996, e de sua capacidade de explicar o universo com clareza e esperança. A nostalgia reflete uma percepção de aumento do negacionismo e da polarização política, com muitos sentindo falta de figuras públicas que promovam racionalidade e empatia.",
+      "source": "bluesky",
+      "subreddit": "bsky_global",
+      "permalink": "https://bsky.app/profile/artlovergirl.bsky.social/post/3mofviu7fic2n",
+      "createdAt": "2026-06-16T13:24:46.175000+00:00",
+      "rawScore": 0.7921906473890542,
+      "relevanceScore": 0.7921906473890542,
+      "suggestedRadius": 89.4,
+      "imageUrl": "assets/images/bsky_3mofviu7fic2n_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mofviu7fic2n_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "We could really use Carl Sagan right about now… #books #reading #history #libraries",
+          "url": "https://bsky.app/profile/artlovergirl.bsky.social/post/3mofviu7fic2n",
+          "subreddit": "bsky_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Carl Sagan era aquele cara que conseguia fazer a gente sentir admiração pelo cosmos e ao mesmo tempo entender pra caralho como a ciência funciona. A mensagem do Pálido Ponto Azul devia ser obrigatória nas escolas hoje. Ele unia as pessoas com conhecimento, sem perder a poesia. Faz muita falta.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Esse culto ao Sagan é exagerado. Ele era um bom comunicador, mas também um ateu militante que desprezava valores tradicionais. Muita gente que o exalta hoje é a mesma que quer calar vozes conservadoras. Se ele fosse vivo, estaria sendo cancelado pela esquerda que agora chora por ele. Hipocrisia pura.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Sagan realmente era foda, mas ficar nessa de 'precisamos de um salvador' é papo furado. Cada época tem seus desafios. O problema não é falta de um gênio, é que a gente parou de valorizar educação e leitura. Enquanto isso, os livros dele tão aí na biblioteca esperando alguém pegar. O remédio já existe.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "masto_mastodonsocial_116760957433379743",
+      "rank": 27,
+      "title": "One more time for the people in the back: — I will always hate your real names proposal. I will always hate your backdooring crypto proposal. I will always hate your hack back proposal. — These ideas are bad and you cannot dress them up in any way that will change that.",
+      "label": "",
+      "context": "",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://hachyderm.io/@evacide/116760957195632449",
+      "createdAt": "2026-06-16T17:26:56+00:00",
+      "rawScore": 0.7820564516069358,
+      "relevanceScore": 0.7820564516069358,
+      "suggestedRadius": 89.06,
+      "imageUrl": "assets/images/masto_mastodonsocial_116760957433379743_uns.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_116760957433379743_uns_thumb.jpg",
+      "category": "economia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "One more time for the people in the back: — I will always hate your real names proposal. I will always hate your backdooring crypto proposal. I will always hate your hack back proposal. — These ideas are bad and you cannot dress them up in any way that will change that.",
+          "url": "https://hachyderm.io/@evacide/116760957195632449",
+          "subreddit": "masto_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Há quem defenda essa medida como necessária.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Outros criticam e veem riscos ou consequências negativas.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Também há quem prefira esperar mais informações antes de concluir.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "lemmy_lemmyworld_48174227",
+      "rank": 28,
+      "title": "Food should not be a commodity",
+      "label": "",
+      "context": "",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/48174227",
+      "createdAt": "2026-06-14T20:11:47.457775+00:00",
+      "rawScore": 0.75,
+      "relevanceScore": 0.75,
+      "suggestedRadius": 87.96,
+      "imageUrl": "assets/images/lemmy_lemmyworld_48174227_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48174227_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Food should not be a commodity",
+          "url": "https://lemmy.world/post/48174227",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Há quem defenda essa medida como necessária.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Outros criticam e veem riscos ou consequências negativas.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Também há quem prefira esperar mais informações antes de concluir.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "bsky_3mog2tif26s2n",
+      "rank": 29,
+      "title": "Actually, that is quite good 🤣 Well done England fans!",
+      "label": "",
+      "context": "",
+      "source": "bluesky",
+      "subreddit": "bsky_global",
+      "permalink": "https://bsky.app/profile/brian770.bsky.social/post/3mog2tif26s2n",
+      "createdAt": "2026-06-16T15:00:11.078000+00:00",
+      "rawScore": 0.7494669469616316,
+      "relevanceScore": 0.7494669469616316,
+      "suggestedRadius": 87.94,
+      "imageUrl": "assets/images/bsky_3mog2tif26s2n_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mog2tif26s2n_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Actually, that is quite good 🤣 Well done England fans!",
+          "url": "https://bsky.app/profile/brian770.bsky.social/post/3mog2tif26s2n",
+          "subreddit": "bsky_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Há quem defenda essa medida como necessária.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Outros criticam e veem riscos ou consequências negativas.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Também há quem prefira esperar mais informações antes de concluir.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "reddit_1u7975a",
+      "rank": 30,
+      "title": "Sorteio da Olimpíada de Paris 2024: França enfrenta Senegal, Argentina pega Argélia",
+      "label": "Futebol · Expectativas Olímpicas",
+      "context": "Os grupos da Olimpíada de Paris 2024 no futebol masculino foram sorteados, com destaque para França x Senegal e Argentina x Argélia. A competição começa em 24 de julho e promete confrontos equilibrados já na fase de grupos.",
+      "source": "reddit",
+      "subreddit": "soccer",
+      "permalink": "https://www.reddit.com/r/soccer/comments/1u7975a/daily_discussion/",
+      "createdAt": "2026-06-16T18:04:43.552821+00:00",
+      "rawScore": 0.6666608278890274,
+      "relevanceScore": 0.6666608278890274,
+      "suggestedRadius": 84.99,
+      "imageUrl": "assets/images/reddit_1u7975a_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1u7975a_uns_thumb.jpg",
+      "category": "esportes",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Daily Discussion",
+          "url": "https://www.reddit.com/r/soccer/comments/1u7975a/daily_discussion/",
+          "subreddit": "soccer"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "França vai passar fácil contra Senegal. O time da casa tem muito mais estrutura e tradição. Senegal é forte, mas não é páreo pra uma seleção olímpica bem montada como a nossa. Vai ser 3x0 no mínimo.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Argentina não aprendeu nada. Depois de dois vexames consecutivos, ainda acham que vão passar da Argélia só pelo nome. A verdade é que a Conmebol tá definhando, e países africanos como a Argélia tão voando. O futebol mudou, mas eles insistem em viver de passado.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Essas previsões todas são engraçadas porque a Alemanha meteu 7x0 no Brasil há pouco tempo e ninguém esperava. Quem tá hypando França ou Argentina vai se surpreender de novo. Na Olimpíada o imprevisível reina, e é isso que torna o torneio legal.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "bsky_3mofptnsjz22x",
+      "rank": 31,
+      "title": "Paisagens que não pedem desenvolvimento, apenas proteção",
+      "label": "Preservação ambiental · Valor intrínseco",
+      "context": "O post defende que certas paisagens naturais não devem ser desenvolvidas, mas sim protegidas como patrimônio. A discussão surge em meio a debates sobre expansão urbana e exploração econômica de áreas verdes.",
+      "source": "bluesky",
+      "subreddit": "bsky_global",
+      "permalink": "https://bsky.app/profile/mfcarter.bsky.social/post/3mofptnsjz22x",
+      "createdAt": "2026-06-16T11:44:46.571000+00:00",
+      "rawScore": 0.6096015200741073,
+      "relevanceScore": 0.6096015200741073,
+      "suggestedRadius": 82.85,
+      "imageUrl": "assets/images/bsky_3mofptnsjz22x_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mofptnsjz22x_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "There are landscapes that don’t ask for development — only guardianship. Some beauty is meant to be kept, not carved up.",
+          "url": "https://bsky.app/profile/mfcarter.bsky.social/post/3mofptnsjz22x",
+          "subreddit": "bsky_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A natureza tem um valor que vai além do dinheiro. Lugares como o Greenbelt de Ontário ou as ilhas da Albânia mostram que algumas belezas são sagradas. Desenvolvimento é só desculpa pra lucrar em cima da destruição. Quem defende isso é cúmplice de um crime contra o planeta.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Esse papo de 'proteção' é hipocrisia pura. Enquanto isso, o governo Trump já mostrou que não liga pra nada disso. E os ricos compram essas áreas pra fazer quintal privado. O problema não é desenvolvimento, é quem lucra com ele. Prendam os executivos de Wall Street junto com os criminosos ambientais.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Bonito discurso, mas a realidade é mais complexa. Tem gente que precisa de moradia e emprego. Um comentário lembrou que alguns chamam um estacionamento de 'proteção' quando querem construir casas. O equilíbrio entre preservar e desenvolver é tenso, mas fingir que não existe tradeoff é ingenuidade.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "lemmy_lemmyworld_48233678",
+      "rank": 32,
+      "title": "most perverted men are actually very vanilla and run away when faced with a perverted woman",
+      "label": "",
+      "context": "",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/48233678",
+      "createdAt": "2026-06-16T07:49:55.451323+00:00",
+      "rawScore": 0.5988162629674222,
+      "relevanceScore": 0.5988162629674222,
+      "suggestedRadius": 82.43,
+      "imageUrl": "assets/images/lemmy_lemmyworld_48233678_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48233678_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "most perverted men are actually very vanilla and run away when faced with a perverted woman",
+          "url": "https://lemmy.world/post/48233678",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "ideology": "far_right",
+          "text": "A extrema direita defenderia medidas duras e mais controle/segurança neste caso.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "ideology": "far_left",
+          "text": "A extrema esquerda criticaria o poder de governos/empresas e pediria mudanças estruturais.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "ideology": "liberal",
+          "text": "A posição liberal tenderia a focar em regras claras, instituições e equilíbrio de direitos.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "bsky_3mofug5zdis26",
+      "rank": 33,
+      "title": "Cachorra envenenada é resgatada e luta pela vida",
+      "label": "Resgate animal · Envenenamento",
+      "context": "A cadela Espresso Martini foi encontrada envenenada em uma ilha e resgatada pela equipe do Happy Doggo, que está cuidando dela. O caso reacende a preocupação com envenenamento sistemático de animais na região, que já vitimou outros cães.",
+      "source": "bluesky",
+      "subreddit": "bsky_global",
+      "permalink": "https://bsky.app/profile/niallharbison.bsky.social/post/3mofug5zdis26",
+      "createdAt": "2026-06-16T13:05:20.565000+00:00",
+      "rawScore": 0.5832940262285229,
+      "relevanceScore": 0.5832940262285229,
+      "suggestedRadius": 81.82,
+      "imageUrl": "assets/images/bsky_3mofug5zdis26_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mofug5zdis26_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "What an insane 24 hours saving this little girl's life. Pretty confident she will make it. Look at her at the end of the video. A joy. I called her Espresso Martini. Keep your fingers crossed for her",
+          "url": "https://bsky.app/profile/niallharbison.bsky.social/post/3mofug5zdis26",
+          "subreddit": "bsky_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A equipe do Happy Doggo é um exemplo pra humanidade, salvando essa cadela envenenada. Cada rabinho abanando que ela mostra prova que vale a pena lutar pela vida. Torcendo muito pela Espresso Martini e por mais resgates assim!",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Quem envenena cachorros na rua merece cadeia, não tem desculpa. Isso não é acidente, é maldade pura e simples. A polícia tem que achar o responsável e punir com rigor, senão vai continuar matando animal inocente pra sempre.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O resgate é lindo, mas fico me perguntando sobre esses envenenamentos frequentes na ilha. Será que a castração em massa, que o Niall faz, realmente resolve o problema de raiva e superpopulação? Talvez a comunidade precise de outro tipo de intervenção.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "lemmy_lemmyworld_48200566",
+      "rank": 34,
+      "title": "Democratas malvados vandalizando o lago com... algas.",
+      "label": "Acusação de sabotagem no lago do Capitólio",
+      "context": "O presidente Donald Trump acusou os Democratas de jogarem algas no lago do National Mall, em Washington, DC, para deixá-lo verde e sujo. A declaração gerou piadas e indignação, já que a água esverdeada tem causas técnicas conhecidas, como calor e falhas no sistema de filtragem.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/48200566",
+      "createdAt": "2026-06-15T13:52:27.019372+00:00",
+      "rawScore": 0.5728189714799885,
+      "relevanceScore": 0.5728189714799885,
+      "suggestedRadius": 81.41,
+      "imageUrl": "assets/images/lemmy_lemmyworld_48200566_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48200566_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "The evil Democrats vandalizing the reflection pool with... Algae.",
+          "url": "https://lemmy.world/post/48200566",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O pessoal da esquerda é mesmo capaz de qualquer coisa pra sujar a imagem do governo. O Trump botou 10 milhões de dólares pra reformar o lago e os caras vão lá e sabotam com alga. Cadê a filmagem disso? A mídia cala porque é conveniente pro lado deles. Isso é guerra suja, pura e simples.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A acusação de que Democratas despejaram alga no lago é uma piada de mau gosto. O problema é técnico: a tubagem de filtragem vaza, o calor aumenta e a água fica verde. O Trump gastou 14 milhões pintando o fundo de azul em vez de consertar o encanamento. É incompetência pura, não sabotagem.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A cada dois anos a história se repete: lago fica verde, um lado culpa o outro, ninguém conserta o encanamento de verdade. O Obama gastou 34 milhões em reforma que não resolveu. O Trump gastou 10 milhões em ozônio e tinta. E o lago continua ali, verde, enquanto a galera briga em vez de chamar um engenheiro de verdade.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "bsky_3kl33otd6ob2s",
+      "rank": 35,
+      "title": "Bem-vindo ao feed de Ciência! Leia nossas FAQs para instruções de como ser adicionado como contribuidor: bossett.io/science-feed/",
+      "label": "Feed de Ciência · Cadastro de contribuidores",
+      "context": "Um post da comunidade Bluesky apresenta o feed de Ciência, com instruções para cientistas de diversas áreas se candidatarem a contribuidores. A proposta é organizar um espaço curado para discussão científica, evitando pseudociência e desinformação.",
+      "source": "bluesky",
+      "subreddit": "bsky_global",
+      "permalink": "https://bsky.app/profile/danirabaiotti.bsky.social/post/3kl33otd6ob2s",
+      "createdAt": "2024-02-10T15:08:09.079000+00:00",
+      "rawScore": 0.5708739820047425,
+      "relevanceScore": 0.5708739820047425,
+      "suggestedRadius": 81.33,
+      "imageUrl": "assets/images/bsky_3kl33otd6ob2s_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3kl33otd6ob2s_reddit_thumb.jpg",
+      "category": "ciencia",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Welcome to the Science feed! Please read our FAQs for instructions for how to be added as a contributor: bossett.io/science-feed/ Mod introductory posts linked below⬇️ Use the test tube emoji on posts you want to appear in the feed🧪 Please like the feed and make sure you follow our feed rules:",
+          "url": "https://bsky.app/profile/danirabaiotti.bsky.social/post/3kl33otd6ob2s",
+          "subreddit": "bsky_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O feed de Ciência é exatamente o que faltava no Bluesky. Se você passa anos na pesquisa e só vêachismo e pseudociência, ter um lugar com curadoria de cientistas de verdade, como a Dani e o Manu, é revigorante. Finalmente um espaço onde posts sobre física quântica e evolução não são soterrados por teoria da conspiração.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Esse processo de cadastro é um elitismo disfarçado. Se eu sou um professor aposentado de ciências ou um comunicador independente, tenho que mendigar para ser adicionado? O feed deveria ser aberto, com moderação reativa, não com uma lista de contatos para cada subárea. Isso exclui vozes importantes, especialmente de paí",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Legal a ideia de um feed científico, mas a burocracia me lembra aqueles grupos do WhatsApp que você precisa de aprovação de três pessoas para postar um meme. Quem garante que os curadores não vão favorecer amigos ou excluir áreas como biogeografia ou arqueologia? No fim, é só mais uma bolha, só que com jaleco.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "lemmy_lemmyworld_48201224",
+      "rank": 36,
+      "title": "Imagem não relacionada",
+      "label": "Windows · Declínio percebido",
+      "context": "Usuários de internet discutem a afirmação de que o Windows 10 foi o último sistema operacional \"sano\" da Microsoft, comparando-o com versões anteriores como Windows 7 e XP. A discussão reflete décadas de insatisfação com mudanças forçadas no design, telemetria e estabilidade.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/48201224",
+      "createdAt": "2026-06-15T14:11:16.477375+00:00",
+      "rawScore": 0.5584346247780371,
+      "relevanceScore": 0.5584346247780371,
+      "suggestedRadius": 80.84,
+      "imageUrl": "assets/images/lemmy_lemmyworld_48201224_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48201224_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Image unrelated",
+          "url": "https://lemmy.world/post/48201224",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Windows 10 foi um marco! Puta sistema estável, seguro e moderno. Esses saudosistas do Windows 7 que vivem no passado não aceitam que a tecnologia avança. A Microsoft fez certo em priorizar telemetria e atualizações — quem tem medo de enviar dados pra empresa que já controla tudo é bitolado.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Windows 10 é a cara do capitalismo tardio: te trata como produto, te enfia anúncio, coleta dado escondido e força atualização que fode seu trampo. E o pior é ver gente defendendo esse lixo. A Microsoft nunca foi sua amiga — é vigilância e lucro em cima da sua privacidade. Linux que é o caminho.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Cada um tem sua preferência, mas a real é que Windows 10 trouxe mais segurança e compatibilidade, ao custo de uma interface confusa e telemetria excessiva. O problema maior é a Microsoft não dar opção real de desligar essas funções. Deveria ser como no início do Windows 7: controle do usuário, não imposição.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "bsky_3mog2pnjlkc2z",
+      "rank": 37,
+      "title": "Adultos podem ter quantos gatos quiserem",
+      "label": "Posse de gatos · Liberdade vs. Responsabilidade",
+      "context": "A frase viralizou como um lembrete bem-humorado de que a vida adulta permite escolhas pessoais como ter muitos gatos. No entanto, a realidade inclui limitações financeiras, legais e práticas que contradizem a liberdade total.",
+      "source": "bluesky",
+      "subreddit": "bsky_global",
+      "permalink": "https://bsky.app/profile/missybbbobtail.bsky.social/post/3mog2pnjlkc2z",
+      "createdAt": "2026-06-16T14:58:06.267000+00:00",
+      "rawScore": 0.5422455496155609,
+      "relevanceScore": 0.5422455496155609,
+      "suggestedRadius": 80.18,
+      "imageUrl": "assets/images/bsky_3mog2pnjlkc2z_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mog2pnjlkc2z_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Don't forget, You're an adult now. You can have as many cats as you want.",
+          "url": "https://bsky.app/profile/missybbbobtail.bsky.social/post/3mog2pnjlkc2z",
+          "subreddit": "bsky_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O senso de liberdade adulta é lindo — ninguém manda na sua casa. Se eu quiser ter 10 gatos, problema é meu. Essa ideia de que o governo ou o condomínio regula quantos bichos você tem é invasão de privacidade pura. Cada um cuida do seu lar como achar melhor.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Lindo discurso, mas a conta do veterinário não paga com poesia. Quem defende esse papo de liberdade esquece que metade do país mal consegue pagar o aluguel, quem dirá cuidar de 5 gatos com ração e vacina. A pessoa adulta que quer gato precisa ter responsabilidade financeira, não fantasia.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Ter gato é maravilhoso, mas fingir que não há custo ou limite é ingenuidade. Já vi gente com 8 gatos num quarto, tudo sujo e doente. Ser adulto de verdade é equilibrar o desejo com a realidade: dinheiro, espaço, tempo e até leis municipais. O meio-termo salva os bichos e o seu bolso.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "lemmy_lemmyworld_48221943",
+      "rank": 38,
+      "title": "Jornalista diz que iranianos abordaram 'doença mental' de Trump de frente para garantir acordo",
+      "label": "Negociação Irã-Trump",
+      "context": "Um jornalista afirmou que diplomatas iranianos usaram estratégias psicológicas para lidar com o que chamaram de 'doença mental' de Donald Trump durante negociações. A tática teria sido essencial para garantir um acordo entre os países, mostrando como a equipe iraniana se adaptou ao comportamento do ex-presidente americano.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/48221943",
+      "createdAt": "2026-06-15T23:16:16.773873+00:00",
+      "rawScore": 0.5320343342997409,
+      "relevanceScore": 0.5320343342997409,
+      "suggestedRadius": 79.76,
+      "imageUrl": "assets/images/lemmy_lemmyworld_48221943_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48221943_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Iranians say addressing Trump’s 'mental illness' head on helped secure deal: journalist",
+          "url": "https://lemmy.world/post/48221943",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Chamar o Trump de doente mental é um desserviço. A imprensa global odeia ele e inventa qualquer história para desmoralizar os EUA. O Irã que se cuide, porque esse tipo de provocação só mostra que não respeitam a liderança americana. Piada de mau gosto.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Explorar a fragilidade mental de Trump é só o começo. O Irã devia ter ido além e arrancado mais concessões desse velho narcisista. Enquanto isso, a América paga o preço da incompetência de um presidente que qualquer um conseguia manipular. Vergonhoso.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Usar psicologia para negociar não é crime, é inteligência diplomática. O problema é que agora Trump sabe que foi enganado e pode retaliar. Acordos baseados em bajulação são frágeis. A pergunta é: quem garante que ele vai cumprir a parte dele depois dessa humilhação pública?",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "lemmy_lemmyworld_48243827",
+      "rank": 39,
+      "title": "Tráfico humano de crianças pequenas",
+      "label": "Caso Epstein · Tráfico infantil",
+      "context": "O caso Epstein revela uma rede de tráfico sexual de menores que envolvia figuras poderosas, e a ilha particular de Epstein continuou recebendo visitas mesmo após sua prisão. A impunidade dos envolvidos sugere que o esquema pode ter se transferido para outros locais ou plataformas online.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/48243827",
+      "createdAt": "2026-06-16T13:44:26.133131+00:00",
+      "rawScore": 0.5225123107814225,
+      "relevanceScore": 0.5225123107814225,
+      "suggestedRadius": 79.37,
+      "imageUrl": "assets/images/lemmy_lemmyworld_48243827_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48243827_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Human trafficking of little kids",
+          "url": "https://lemmy.world/post/48243827",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo está usando o caso Epstein como cortina de fumaça para desviar atenção de crimes reais. Enquanto perseguem cidadãos comuns por pensamentos errados, os verdadeiros monstros continuam livres e ainda eleitos. Cadê as investigações sérias?",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Epstein era só a ponta do iceberg. As elites globais montaram um esquema que continua funcionando impune — a ilha ao lado foi comprada por um tal de Deckoff que ninguém conhece. E a mídia? Prefere pagar manchetes sobre futebol do que investigar esse covil.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A tal foto da Der Spiegel mostra uma mulher de 22 anos desaparecida — adulta, não criança. Misturar casos sérios com desinformação só ajuda quem quer abafar o debate. Se querem justiça de verdade, parem de espalhar imagem sem fonte e exijam processo legal.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "masto_mastodonsocial_116760623582900163",
+      "rank": 40,
+      "title": "Mentiroso.",
+      "label": "Mentira · Robôs e Humor",
+      "context": "Um usuário do Mastodon publicou uma tirinha acusando alguém de mentir, com tags sobre robôs e internet. A postagem gerou debate sobre autenticidade e identidade online.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://mstdn.social/@grickle/116760623423793166",
+      "createdAt": "2026-06-16T16:02:03+00:00",
+      "rawScore": 0.5155859216522831,
+      "relevanceScore": 0.5155859216522831,
+      "suggestedRadius": 79.08,
+      "imageUrl": "assets/images/masto_mastodonsocial_116760623582900163_reddit.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_116760623582900163_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Liar. #grickledoodle #robot #liar #internet #cartoon #art #drawing #funny #humor",
+          "url": "https://mstdn.social/@grickle/116760623423793166",
+          "subreddit": "masto_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Essa tirinha expõe a verdade por trás da internet moderna: todo mundo mente pra parecer algo que não é. Os robôs e bots tomaram conta, e o humor ácido do Grickle mostra que a única defesa é rir da cara do sistema woke que quer padronizar até o humor.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O desenho é uma crítica poderosa contra a opressão digital! As grandes empresas de tecnologia usam algoritmos para nos vigiar e controlar o que pensamos, e tachar alguém de 'mentiroso' nesse contexto é uma forma de resistência. O riso é nossa arma contra o capitalismo de vigilância.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O autor faz um comentário inteligente sobre a crise de confiança na era digital. As pessoas estão justamente cansadas de não saber se interagem com humanos ou máquinas. A piada funciona porque expõe um problema real de identidade e veracidade que afeta a todos, sem tomar partido.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "lemmy_lemmyworld_48229398",
+      "rank": 41,
+      "title": "OpenAI alega campanha chinesa contra data centers de IA",
+      "label": "Data centers · Acusação geopolítica",
+      "context": "OpenAI publicou um relatório afirmando que usuários chineses estariam orquestrando uma campanha para amplificar críticas contra data centers de IA. O caso ganhou repercussão porque muitos apontaram que a oposição aos data centers já existia antes da suposta influência chinesa.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/48229398",
+      "createdAt": "2026-06-16T05:16:56.808806+00:00",
+      "rawScore": 0.509503672629399,
+      "relevanceScore": 0.509503672629399,
+      "suggestedRadius": 78.83,
+      "imageUrl": "assets/images/lemmy_lemmyworld_48229398_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48229398_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Lmao",
+          "url": "https://lemmy.world/post/48229398",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "negative",
+          "text": "A China quer sabotar nossa liderança em IA, e o governo americano fica vendo. Eles já fazem espionagem industrial há anos, agora tentam manipular a opinião pública contra nossos data centers. Se a gente deixar, eles tomam a dianteza tecnológica. Tem que barrar essa interferência com sanções pesadas.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "positive",
+          "text": "China não atacou o Irã, não poluiu o planeta com guerras e ainda fez leis que proíbem demitir funcionário pra substituir por IA. Enquanto isso, OpenAI usa data centers que sugam água e energia pra rodar chatbot. Aí eles culpam a China pra desviar atenção. Essa história é propaganda pura pra justificar exploração.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O relatório da OpenAI diz que não achou evidência de 'breakout' da campanha chinesa, ou seja, a coisa não saiu do controle. Mas o título já insinua que os críticos são manipulados. Dado que moradores afetados por data centers reclamam há anos, fica parecendo cortina de fumaça pra deslegitimar protesto legítimo.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "masto_mastodonsocial_116759571108718958",
+      "rank": 42,
+      "title": "Você está ouvindo Sísifo FM, a casa do rock sem paradas! — 🫸🪨 🤘",
+      "label": "Rádio rock fictícia · Sísifo FM",
+      "context": "Uma rádio fictícia chamada Sísifo FM, que toca rock sem paradas, foi anunciada em uma rede social. A piada faz referência ao mito de Sísifo, que empurra uma pedra montanha acima eternamente, agora transformado em locutor de rock.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://aus.social/@dgar/116759570578615595",
+      "createdAt": "2026-06-16T11:34:18+00:00",
+      "rawScore": 0.5077186474768436,
+      "relevanceScore": 0.5077186474768436,
+      "suggestedRadius": 78.75,
+      "imageUrl": "assets/images/masto_mastodonsocial_116759571108718958_uns.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_116759571108718958_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "You’re listening to Sisyphus FM, the home of non-stop rock! — 🫸🪨 🤘",
+          "url": "https://aus.social/@dgar/116759570578615595",
+          "subreddit": "masto_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Essa Sísifo FM é a melhor coisa que inventaram! Rock 24 horas por dia, sem repeat de playlist chata — só pedrada atrás de pedrada. Finalmente uma rádio que entende que o rock nunca morre. Já virei ouvinte fiel, pode vir pedra pesada que eu aguento.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Outra rádio de rock genérica que promete o mundo e entrega o mesmo lixo. O volume vive subindo e descendo sozinho, a programação noturna é um tédio e tocam a mesma música a cada hora. Sísifo que se dane, eu mudo de estação.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Sísifo FM é só uma piada interna do Mastodon, né? O locutor parece um robô com mania de repetir",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "lemmy_lemmyworld_48207412",
+      "rank": 43,
+      "title": "JD Vance confirma que Irã receberá quantia impressionante em acordo de Trump",
+      "label": "Acordo EUA-Irã · 300 bilhões",
+      "context": "O vice-presidente JD Vance confirmou que o Irã terá acesso a 300 bilhões de dólares em fundos de reconstrução como parte de um acordo de paz entre os EUA e o Irã. A quantia seria financiada por uma coalizão do Golfo, condicionada ao cumprimento do acordo por parte do Irã.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/48207412",
+      "createdAt": "2026-06-15T16:35:37.500948+00:00",
+      "rawScore": 0.4846769885748642,
+      "relevanceScore": 0.4846769885748642,
+      "suggestedRadius": 77.77,
+      "imageUrl": "assets/images/lemmy_lemmyworld_48207412_uns.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48207412_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "JD Vance Confirms Iran Will Get Jaw-Dropping Sum Under Trump Deal",
+          "url": "https://lemmy.world/post/48207412",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Trump tá fazendo o que sempre fez: negociar. Esse dinheiro não sai do bolso do contribuinte americano, vem dos países do Golfo. E o Irã finalmente vai parar de bancar terrorista no Oriente Médio. Melhor do que guerra infinita que os democratas queriam. É paz com força.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Os EUA bombardearam o Irã, mataram milhares de civis, destruíram hospitais e estradas, e agora vão pagar 300 bilhões em \"reparações\"? Isso é admitir o crime. Mas o dinheiro não vai pro povo iraniano, vai pros mesmos aiatolás que o Ocidente odeia. Imperialismo no seu auge: destrói e depois paga pra calar.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Um acordo de paz é sempre melhor que guerra, mas 300 bilhões é um número que exige transparência total. Quem garante que esse dinheiro não vai financiar o programa nuclear do Irã? E por que o contribuinte americano não teve voz nessa decisão? Instituições precisam fiscalizar cada centavo.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "lemmy_lemmyworld_48236853",
+      "rank": 44,
+      "title": "Você sai na rua. Vê isso. Qual sua reação?",
+      "label": "Carro estacionado em faixa de pedestres",
+      "context": "Uma foto mostra um Tesla preto estacionado em cima de uma faixa de pedestres, bloqueando a passagem. A situação gera reações de irritação e debates sobre o que fazer nesses casos.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/48236853",
+      "createdAt": "2026-06-16T10:01:54.702606+00:00",
+      "rawScore": 0.4512610970412495,
+      "relevanceScore": 0.4512610970412495,
+      "suggestedRadius": 76.31,
+      "imageUrl": "assets/images/lemmy_lemmyworld_48236853_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48236853_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "You go outside. You see this. What's your reaction?",
+          "url": "https://lemmy.world/post/48236853",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "negative",
+          "text": "Esse tipo de gente acha que comprar um Tesla dá passe livre pra ser cuzão. Bloquear faixa de pedestre não é emergência, é preguiça de andar 5 metros. Tomara que a multa venha gorda e que ainda levem o carro pro guincho.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "positive",
+          "text": "Ninguém sabe se o dono tava numa emergência de verdade. E mesmo assim, julgar pela placa e pelo carro é preconceito. Teslas têm câmeras 360° — se alguém riscar, vai direto pra polícia. Melhor só ignorar e seguir em frente.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A real é que denunciar em app municipal resolve mais que qualquer chilique na internet. Em Viena tem app, em outras cidades também. Mas se a polícia nem aparece, aí o jeito é passar por cima do capô e fingir que foi sem querer.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "bsky_3moejactoy227",
+      "rank": 45,
+      "title": "Mães animais mostram seus filhotes para humanos",
+      "label": "Animais confiando em humanos",
+      "context": "Uma vaca da raça highland recém-parida leva o bezerro ainda molhado para perto de uma pessoa filmando. O vídeo viralizou porque mostra o orgulho materno animal e a confiança entre espécies.",
+      "source": "bluesky",
+      "subreddit": "bsky_global",
+      "permalink": "https://bsky.app/profile/lucagalletti.bsky.social/post/3moejactoy227",
+      "createdAt": "2026-06-16T00:12:32.963000+00:00",
+      "rawScore": 0.44977042621875496,
+      "relevanceScore": 0.44977042621875496,
+      "suggestedRadius": 76.24,
+      "imageUrl": "assets/images/bsky_3moejactoy227_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3moejactoy227_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "My favorite thing is when animals feel the need to show human moms their little babies 😭😭 TT: @hayleydavo99",
+          "url": "https://bsky.app/profile/lucagalletti.bsky.social/post/3moejactoy227",
+          "subreddit": "bsky_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Esse vídeo é a prova de que os animais confiam na gente quando somos respeitosos. A vaca podia ter chifres enormes e estar protegendo o filhote, mas ela escolheu mostrar o bezerro molhado pra pessoa. Isso é vínculo real, não instinto cego.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Linda a cena, mas ninguém comenta que a outra vaca tá tentando assaltar a caminhonete no fundo? Enquanto a mãe distrai a humana com o bezerro, a parceira vai atrás de comida. Isso não é afeto, é estratégia. Animais são espertos e oportunistas.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Legal que a vaca mostrou o filhote, mas o pessoal viaja achando que é amor incondicional. A outra tá tentando roubar o carro, e a mãe pode só estar acostumada com humanos dando comida. Vamos equilibrar a fofura com um pouco de ceticismo.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "lemmy_lemmyworld_48177921",
+      "rank": 46,
+      "title": "Solar gera mais energia que carvão nos EUA pela 1ª vez",
+      "label": "Energia solar · supera carvão nos EUA",
+      "context": "Pela primeira vez na história, a energia solar gerou mais eletricidade que o carvão nos Estados Unidos. O marco reflete a queda nos custos da energia renovável e a pressão por fontes mais limpas, enquanto usinas a carvão fecham por falta de competitividade.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/48177921",
+      "createdAt": "2026-06-14T22:17:13.306268+00:00",
+      "rawScore": 0.4355735515168456,
+      "relevanceScore": 0.4355735515168456,
+      "suggestedRadius": 75.6,
+      "imageUrl": "assets/images/lemmy_lemmyworld_48177921_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48177921_reddit_thumb.jpg",
+      "category": "tech",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Solar generates more energy than coal in US for 1st time",
+          "url": "https://lemmy.world/post/48177921",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O mercado decidiu, e a solar venceu na porrada. Carvão é caro pra caramba pra operar, e as empresas tão migrando porque dá mais lucro, não por mimimi ambiental. Quem defende carvão hoje é tipo defensor de lamparina na era da lâmpada — atraso puro.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa notícia só existe apesar do governo, não por causa dele. Trump usa ordem de emergência pra manter usina de carvão aberta em Michigan, e a conta vai pro bolso do povo. Enquanto isso, estados republicanos colhem os benefícios da solar que eles mesmos tentam barrar. Hipocrisia do caralho.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Legal o marco, mas a real é que ainda dependemos de gás natural pra base e solar não resolve a noite sem bateria decente. Enquanto os dois lados comemoram ou xingam, os data centers tão sugando toda essa energia nova. Quem vai pagar o boost na conta de luz? No fim, somos nós.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "hn_48555993",
+      "rank": 47,
+      "title": "Rodar modelos locais está bom agora",
+      "label": "Modelos locais · Viabilidade prática",
+      "context": "Usuários no Hacker News relatam que modelos de IA locais como Gemma 4 e Qwen 3.5 já rodam rápido em hardware acessível, como um Mac M2 usado de ~US$ 2.000. Isso ameaça o modelo de negócios de serviços pagos como Claude, ao oferecer uma alternativa gratuita após o custo do hardware.",
+      "source": "hackernews",
+      "subreddit": "hackernews",
+      "permalink": "https://news.ycombinator.com/item?id=48555993",
+      "createdAt": "2026-06-16T14:36:57+00:00",
+      "rawScore": 0.42707758003356033,
+      "relevanceScore": 0.42707758003356033,
+      "suggestedRadius": 75.21,
+      "imageUrl": "assets/images/hn_48555993_wiki.jpg",
+      "imageThumbUrl": "assets/images/hn_48555993_wiki_thumb.jpg",
+      "category": "tech",
+      "region": "brasil",
+      "sources": [
+        {
+          "title": "Running local models is good now",
+          "url": "https://news.ycombinator.com/item?id=48555993",
+          "subreddit": "hackernews"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O cara aí rodando Qwen 3.5 num Mac de 2k usado já mostra que esse papo de 'precisa de supercomputador' é balela. O mercado livre resolveu — você compra sua máquina, não fica refém de assinatura mensal de empresa woke. Liberdade de verdade é não depender de Big Tech censurando seus prompts.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Esse papo de 'só comprar um Mac de 2 mil dólares' é ridículo — 4 bilhões de pessoas no mundo nunca vão ter esse dinheiro. Enquanto isso, as big techs lucram bilhões vendendo acesso a algo que deveria ser infraestrutura pública. Modelo local é luxo de engenheiro de Vale do Silício, não solução pra maioria.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A conta é simples: um usuário que gasta US$ 20/mês no Claude paga US$ 240/ano. Em menos de 9 anos, um Mac de US$ 2.000 se paga. Mas tem custo escondido — manutenção de hardware, atualizações de OS, risco de ficar obsoleto. Pra quem valoriza privacidade e não quer depender de terceiros, o custo-benefício é claro.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "deepseek/deepseek-v4-flash"
+    },
+    {
+      "id": "lemmy_lemmyworld_48172889",
       "rank": 48,
-      "title": "O Agro Sustenta o Brasil",
-      "label": "Agricultura · Financiamento Público",
-      "context": "O presidente do Senado, Davi Alcolumbre, é acusado de favorecer o setor agrícola com recursos públicos. O agro brasileiro recebe tributação reduzida e crédito subsidiado, mas também é criticado por poluição, desmatamento e expulsão de povos originários.",
-      "source": "bluesky",
-      "subreddit": "bsky_br",
-      "permalink": "https://bsky.app/profile/fiscaldoibama.bsky.social/post/3mo4ogn7u4c26",
-      "createdAt": "2026-06-12T21:24:17.462000+00:00",
-      "rawScore": 0.02607836877214331,
-      "relevanceScore": 0.02607836877214331,
-      "suggestedRadius": 45.69,
-      "imageUrl": "assets/images/bsky_3mo4ogn7u4c26_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mo4ogn7u4c26_uns_thumb.jpg",
+      "title": "Romper a ilusão do sistema bipartidário",
+      "label": "Sistema bipartidário · Ilusão",
+      "context": "A governadora de Michigan, Gretchen Whitmer, foi gravada em um microfone aberto conversando com o CEO da Oracle, Clay Magouyrk, sobre um projeto de data center. A fala sugere que ela está disposta a ignorar promessas ambientais para agradar grandes empresas, gerando desilusão com o sistema político.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/48172889",
+      "createdAt": "2026-06-14T19:26:43.038750+00:00",
+      "rawScore": 0.42660592017678395,
+      "relevanceScore": 0.42660592017678395,
+      "suggestedRadius": 75.19,
+      "imageUrl": "assets/images/lemmy_lemmyworld_48172889_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48172889_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "brasil",
       "sources": [
         {
-          "title": "\"O AGRO SUSTENTA O BRASIL\" Meua migo... O AGRO é incapaz de pagar as próprias contas... Basta um presidente do senado MAFIOSO e o AGRO descola um jeito de ROUBAR DINHEIRO DA SAÚDE E EDUCAÇÃO pra pagar as próprias dívidas... Nós sustentamos esses toscos! agenciabrasil.ebc.com.br/politica/not...",
-          "url": "https://bsky.app/profile/fiscaldoibama.bsky.social/post/3mo4ogn7u4c26",
-          "subreddit": "bsky_br"
+          "title": "Breaking the illusion of 2 party system",
+          "url": "https://lemmy.world/post/48172889",
+          "subreddit": "lemmy_global"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Esse Davi Alcolumbre é um verdadeiro patriota, sempre defendendo o agro que sustenta o Brasil! Ele não é mafioso, é um articulador que busca recursos para o setor produtivo.",
+          "text": "A esquerda adora pregar moral, mas na hora de fazer negócio é tudo farinha do mesmo saco. Whitmer fala bonito sobre o meio ambiente, mas já está de conchavo com a Oracle. O sistema é uma farsa, mas o povo acorda a cada traição dessas.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -1460,7 +2055,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O agro é uma bosta que só pensa em lucrar com a exportação, sem se importar com o meio ambiente e os povos originários. E ainda usa o congresso para roubar dinheiro da saúde e educação!",
+          "text": "Isso aí é a cara do capitalismo: o lucro sempre vence a promessa. Whitmer se diz progressista, mas entrega o estado para corporações. Enquanto a esquerda abraçar esse jogo, a gente nunca vai ter uma política de verdade, só migalha e cinismo.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -1468,43 +2063,43 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O financiamento público ao agro é necessário, mas deve ser feito de forma transparente e com regras claras. O convênio de Taubaté é um exemplo de como o setor pode receber benefícios, mas também precisa cumprir suas obrigações.",
+          "text": "A fala de Whitmer expõe a fragilidade do sistema: candidatos vendem compromissos que não cumprem. Mas sem responsabilização real, a política vira teatro. O que falta é transparência e memória no voto — sem isso, a ilusão se perpetua.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "deepseek/deepseek-v4-flash"
     },
     {
-      "id": "bsky_3mo2qniwvec2v",
+      "id": "bsky_3mofpkizu5s2d",
       "rank": 49,
-      "title": "Alcolumbre recebeu R$ 155 milhões de Vorcaro",
-      "label": "Corrupção · Senado",
-      "context": "O presidente do Senado, Alcolumbre, recebeu R$ 155 milhões do banqueiro Vorcaro, de acordo com uma reportagem da revista. Esse repasse milionário é investigado e pode estar relacionado a uma possível pirâmide financeira no setor agropecuário.",
+      "title": "Alvo laranja poderá levantar troféu da Copa com time vencedor. Todos deveriam torcer pelo Irã vencer.",
+      "label": "Copa · Trump e o troféu",
+      "context": "Uma figura política controversa, referida como 'alvo laranja', supostamente terá permissão para erguer a taça da Copa do Mundo junto ao time campeão. Isso gerou indignação entre torcedores que temem que o gesto seja usado para fins políticos e que a integridade do torneio seja comprometida.",
       "source": "bluesky",
-      "subreddit": "bsky_br",
-      "permalink": "https://bsky.app/profile/akaishiri.bsky.social/post/3mo2qniwvec2v",
-      "createdAt": "2026-06-12T02:58:50.042000+00:00",
-      "rawScore": 0.008640827131622961,
-      "relevanceScore": 0.008640827131622961,
-      "suggestedRadius": 41.58,
-      "imageUrl": "assets/images/bsky_3mo2qniwvec2v_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mo2qniwvec2v_uns_thumb.jpg",
+      "subreddit": "bsky_global",
+      "permalink": "https://bsky.app/profile/jayloveslfc.bsky.social/post/3mofpkizu5s2d",
+      "createdAt": "2026-06-16T11:38:15.567000+00:00",
+      "rawScore": 0.42251736391709144,
+      "relevanceScore": 0.42251736391709144,
+      "suggestedRadius": 75.0,
+      "imageUrl": "assets/images/bsky_3mofpkizu5s2d_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mofpkizu5s2d_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "brasil",
       "sources": [
         {
-          "title": "QUERIA VER O SENADOR EXPLICAR TODA ESSA GRANA Alcolumbre recebeu R$ 155 milhões de Vorcaro, diz revista Reportagem expõe repasses milionários envolvendo o presidente do Senado e o banqueiro preso por liderar a maior fraude bancária da história recente do Brasil revistaforum.com.br/politica/alc...",
-          "url": "https://bsky.app/profile/akaishiri.bsky.social/post/3mo2qniwvec2v",
-          "subreddit": "bsky_br"
+          "title": "The orange cunt will be allowed to lift the world cup trophy with the winning team. Everyone should let Iran win it. #WorldCup",
+          "url": "https://bsky.app/profile/jayloveslfc.bsky.social/post/3mofpkizu5s2d",
+          "subreddit": "bsky_global"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Esse Alcolumbre é um herói, sempre defendendo o agro e recebendo apoio financeiro de grandes empresários. A Veja publicou a reportagem para atacar a esquerda, mas acabou revelando a verdade.",
+          "text": "O Irã vencer seria a maior humilhação para a esquerda globalista que odeia ver um líder forte. Trump no pódio com a taça mostra que os Estados Unidos ainda mandam no mundo, e quem não gosta que vá torcer pra outro time. FIFA que se cuide.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -1512,7 +2107,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Vorcaro é um criminoso que liderou a maior fraude bancária da história e agora vemos que está envolvido com o presidente do Senado. Isso mostra como o sistema é podre e a corrupção está em todos os níveis.",
+          "text": "Esse laranja corrupto não merece nem chegar perto de um troféu que simboliza união entre povos. Ele quer roubar a cena, igual roubou dados do Epstein e tenta roubar eleições. FIFA, que já é podre, ainda cede ao fascismo. Que o Irã vença e mande esse verme de volta pro bunker.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -1520,65 +2115,62 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A transparência é fundamental em casos como esse. O Senado precisa investigar e apurar os fatos, garantindo que as instituições funcionem de forma correta e justa.",
+          "text": "O problema não é quem levanta a taça, mas o precedente que isso cria. Se um político pode usar a Copa como palanque, as regras da FIFA viram piada. Cada vez que a entidade cede à pressão política, o esporte perde a credibilidade. Torcer contra não resolve; tem que exigir transparência.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "deepseek/deepseek-v4-flash"
     },
     {
-      "id": "bsky_3moazzrzdik2z",
+      "id": "lemmy_lemmyecobr_23900763",
       "rank": 50,
-      "title": "Lula e Moro acabaram com 2 indústrias do Brasil",
-      "label": "Economia · Crise Industrial",
-      "context": "O ex-presidente Lula e o ex-juiz Sergio Moro foram responsáveis pela queda de duas indústrias importantes no Brasil: a construção e a montagem naval. Isso levou a uma perda de oportunidades de emprego e desenvolvimento econômico.",
-      "source": "bluesky",
-      "subreddit": "bsky_br",
-      "permalink": "https://bsky.app/profile/radioproletario.bsky.social/post/3moazzrzdik2z",
-      "createdAt": "2026-06-14T15:02:30.271000+00:00",
-      "rawScore": 0.008502617435368627,
-      "relevanceScore": 0.008502617435368627,
-      "suggestedRadius": 41.53,
-      "imageUrl": "assets/images/bsky_3moazzrzdik2z_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3moazzrzdik2z_uns_thumb.jpg",
+      "title": "Discussão Semanal Aleatória - Semana de 15/06/26",
+      "label": "Saudações · Início de Semana",
+      "context": "O post é um tópico semanal de conversa livre no fediverso, onde usuários compartilham cumprimentos, memes, planos pessoais e opiniões variadas sobre tecnologia, política e cotidiano. Serve como um espaço descontraído para interação social dentro da comunidade online.",
+      "source": "lemmy",
+      "subreddit": "lemmy_br",
+      "permalink": "https://lemmy.eco.br/post/23900763",
+      "createdAt": "2026-06-15T11:57:17.896759+00:00",
+      "rawScore": 0.3912678591523367,
+      "relevanceScore": 0.3912678591523367,
+      "suggestedRadius": 73.53,
+      "imageUrl": "assets/images/lemmy_lemmyecobr_23900763_uns.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyecobr_23900763_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "brasil",
       "sources": [
         {
-          "title": "Estes dois(Dd e moro) acabaram com 2 indústrias do Brasil, contrução e montagem naval. Para construir o túnel abaixo do canal que vai de santos ao Guarujá, o Brasil teve que contratar uma construtora portuguesa. Ficou brabo? Reclama acom o Paulo Guedes e o Bozo. revistaforum.com.br/politica/doc...",
-          "url": "https://bsky.app/profile/radioproletario.bsky.social/post/3moazzrzdik2z",
-          "subreddit": "bsky_br"
+          "title": "Discusión Random Semanal - Semana del 15/06/26",
+          "url": "https://lemmy.eco.br/post/23900763",
+          "subreddit": "lemmy_br"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Lula e Moro são heróis que lutaram contra a corrupção e protegeram a economia brasileira. Quem se importa com algumas indústrias que não eram competitivas?",
+          "text": "Essa thread semanal é o que há de melhor na internet: um monte de gente trocando ideia sobre montar NAS com disco velho, reclamando da segunda-feira, e ainda dando parabéns pro aniversariante. Sem política pesada, sem fake news — só a beleza do caos organizado.",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
+          "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Esse dupla de corruptos e traidores destruiu a economia do país, beneficiando apenas os interesses dos EUA. É uma vergonha que ainda não tenham sido punidos!",
+          "text": "Enquanto isso, o post sobre o registro de vândalos e a repressão a estudantes é completamente ignorado nessa thread. Falam de huevitos mayak e prensa de suco, mas ninguém quer encarar o fato de que o governo tá criando mecanismos pra calar a juventude que protesta.",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
+          "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A saída de Lula e Moro do governo não foi o único fator para a crise das indústrias de construção e montagem naval. É preciso uma análise mais profunda das causas e consequências.",
+          "text": "A thread é um retrato clássico da internet: metade do povo celebrando aniversário e montando servidor caseiro, e a outra metade querendo discutir o acordo Irã-EUA e o registro de vândalos. No fim, todo mundo só quer um lugar pra desabafar — nem que seja sobre o cabo que não chegou da China.",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
+          "votes": 0
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "deepseek/deepseek-v4-flash"
     }
   ]
 }
