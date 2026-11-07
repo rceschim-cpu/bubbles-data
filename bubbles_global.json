@@ -1,29 +1,81 @@
 {
-  "generatedAt": "2026-06-25T17:04:54.367800+00:00",
+  "generatedAt": "2026-11-07T05:16:39.939346+00:00",
   "region": "global",
-  "count": 37,
+  "count": 50,
   "items": [
     {
-      "id": "bsky_3mp4ueff2uc2i",
+      "id": "reddit_1xpwyrr",
       "rank": 1,
-      "title": "Vinnie está muito animado com seu novo splish splash pad",
-      "label": "Animação infantil · Diversão",
-      "context": "Vinnie ganhou um novo splish splash pad e está muito animado. Ele acha que vai ter o melhor verão de todos.",
-      "source": "bluesky",
-      "subreddit": "bsky_global",
-      "permalink": "https://bsky.app/profile/weratedogs.com/post/3mp4ueff2uc2i",
-      "createdAt": "2026-06-25T16:35:34.461000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 0.9,
-      "suggestedRadius": 92.92,
-      "imageUrl": "assets/images/bsky_3mp4ueff2uc2i_ai.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mp4ueff2uc2i_ai_thumb.jpg",
+      "title": "Rússia invade Ucrânia: 1718º dia, parte 1",
+      "label": "Guerra Rússia-Ucrânia: 1718º dia",
+      "context": "A invasão em larga escala da Ucrânia pela Rússia atingiu seu 1718º dia. A contagem de dias se refere ao período desde o início da invasão em fevereiro de 2022. A situação no campo de batalha continua tensa, com relatos de ataques e contra-ataques.",
+      "source": "reddit",
+      "subreddit": "worldnews",
+      "permalink": "https://www.reddit.com/r/worldnews/comments/1xpwyrr/rworldnews_live_thread_russian_invasion_of/",
+      "createdAt": "2026-11-07T05:12:03.790493+00:00",
+      "rawScore": 1.0,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/reddit_1xpwyrr_uns.jpg",
+      "imageThumbUrl": "assets/images/reddit_1xpwyrr_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "This is Vinnie. He just got a new splish splash pad and literally can't contain his excitement. Thinks this is going to be the best summer ever. 13/10 (FB: Claudia Carr)",
-          "url": "https://bsky.app/profile/weratedogs.com/post/3mp4ueff2uc2i",
+          "title": "/r/WorldNews Live Thread: Russian Invasion of Ukraine Day 1718, Part 1 (Thread #1865)",
+          "url": "https://www.reddit.com/r/worldnews/comments/1xpwyrr/rworldnews_live_thread_russian_invasion_of/",
+          "subreddit": "worldnews"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Os russos não vão quebrar a linha de frente, a Ucrânia vai resistir! É doloroso ver os que estão na retaguarda preocupados com suas famílias, mas os soldados na linha de frente são heróis que defendem nossa terra. Essa resistência é a prova da força do nosso povo!",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa guerra é um desastre humanitário causado pelo imperialismo russo. Enquanto os soldados morrem na frente, a elite se beneficia. Os ataques a refinarias mostram a escalada do conflito, mas quem paga a conta são os civis e os trabalhadores, explorados por ambos os lados.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A Ucrânia reporta que drones de ataque estão atingindo a refinaria de Saratov, possivelmente como uma tática russa para aliviar a pressão. É crucial monitorar esses desenvolvimentos e buscar soluções diplomáticas para cessar a violência e proteger a população civil.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "bsky_3kl33otd6ob2s",
+      "rank": 2,
+      "title": "Bem-vindo ao feed de Ciência! Leia FAQs para instruções de como ser adicionado como colaborador",
+      "label": "Feed de Ciência · Instruções para Colaboradores",
+      "context": "O feed de Ciência no Bluesky convida pesquisadores e comunicadores científicos a se tornarem colaboradores. O objetivo é criar um espaço dedicado a discussões científicas em termos acessíveis para o público geral.",
+      "source": "bluesky",
+      "subreddit": "bsky_global",
+      "permalink": "https://bsky.app/profile/danirabaiotti.bsky.social/post/3kl33otd6ob2s",
+      "createdAt": "2024-02-10T15:08:09.079000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 0.9,
+      "suggestedRadius": 92.92,
+      "imageUrl": "assets/images/bsky_3kl33otd6ob2s_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3kl33otd6ob2s_reddit_thumb.jpg",
+      "category": "ciencia",
+      "region": "global",
+      "sources": [
+        {
+          "title": "Welcome to the Science feed! Please read our FAQs for instructions for how to be added as a contributor: bossett.io/science-feed/ Mod introductory posts linked below⬇️ Use the test tube emoji on posts you want to appear in the feed🧪 Please like the feed and make sure you follow our feed rules:",
+          "url": "https://bsky.app/profile/danirabaiotti.bsky.social/post/3kl33otd6ob2s",
           "subreddit": "bsky_global"
         }
       ],
@@ -31,105 +83,105 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Há quem defenda essa medida como necessária.",
+          "text": "Finalmente um lugar pra gente que curte ciência de verdade, sem enrolação e sem pseudociência! Adorei a ideia de ter um feed só pra isso, com gente que entende do assunto e sabe explicar. Já tô seguindo e quero ver muita coisa boa por aqui!",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Outros criticam e veem riscos ou consequências negativas.",
+          "text": "Essa coisa de pedir pra ser adicionado por nome é muito confusa. Por que não um formulário simples? E o que impede alguém de se dizer cientista e entrar? Parece que a curadoria vai ser uma bagunça e a qualidade pode cair rápido.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Também há quem prefira esperar mais informações antes de concluir.",
+          "text": "A iniciativa é boa, mas a forma de organização me parece um pouco restritiva. Deveriam pensar em categorias mais amplas ou em um sistema de votação para novos membros, em vez de depender de contatos diretos. Assim, mais gente poderia participar.",
           "source": "reddit",
           "votes": 0
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "reddit_1pgkneq",
-      "rank": 2,
-      "title": "¡Ya somos 5000!",
-      "label": "Astronomia · Comunidade",
-      "context": "Um grupo de astrônomos anunciou que alcançou 5.000 membros. Isso marca um importante marco para a comunidade de astronomia.",
-      "source": "reddit",
-      "subreddit": "astronomia",
-      "permalink": "https://www.reddit.com/r/astronomia/comments/1pgkneq/ya_somos_5000/",
-      "createdAt": "2026-06-25T16:53:01.832055+00:00",
-      "rawScore": 0.8666652653694201,
-      "relevanceScore": 0.8666652653694201,
-      "suggestedRadius": 91.86,
-      "imageUrl": "assets/images/reddit_1pgkneq_wiki.jpg",
-      "imageThumbUrl": "assets/images/reddit_1pgkneq_wiki_thumb.jpg",
-      "category": "ciencia",
-      "region": "global",
-      "sources": [
-        {
-          "title": "¡Ya somos 5000!",
-          "url": "https://www.reddit.com/r/astronomia/comments/1pgkneq/ya_somos_5000/",
-          "subreddit": "astronomia"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Há quem defenda essa medida como necessária.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Outros criticam e veem riscos ou consequências negativas.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Também há quem prefira esperar mais informações antes de concluir.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "reddit_1uelypg",
+      "id": "hn_50391456",
       "rank": 3,
-      "title": "Pra quem convive com psicose, será que vocês conseguem descrever o que a sua mente faz você acreditar que é verdade?",
-      "label": "Experiências com Psicose",
-      "context": "Pessoas que convivem com psicose compartilham suas experiências sobre como a condição afeta sua percepção da realidade. Isso ajuda a entender melhor o que é viver com psicose.",
-      "source": "reddit",
-      "subreddit": "saudemental",
-      "permalink": "https://www.reddit.com/r/saudemental/comments/1uelypg/pra_quem_convive_com_psicose_será_que_vocês/",
-      "createdAt": "2026-06-25T16:53:04.685568+00:00",
-      "rawScore": 0.8666652653694201,
-      "relevanceScore": 0.8666652653694201,
-      "suggestedRadius": 91.86,
-      "imageUrl": "assets/images/reddit_1uelypg_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1uelypg_uns_thumb.jpg",
-      "category": "ciencia",
+      "title": "Tesla encerra produção do Cybertruck",
+      "label": "Tesla encerra produção do Cybertruck",
+      "context": "A Tesla anunciou o fim da produção do seu polêmico Cybertruck. O veículo, lançado em 2019, teve vendas abaixo do esperado e enfrentou diversos atrasos. A empresa agora foca em outros modelos e projetos.",
+      "source": "hackernews",
+      "subreddit": "hackernews",
+      "permalink": "https://news.ycombinator.com/item?id=50391456",
+      "createdAt": "2026-11-06T12:13:51+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 0.9,
+      "suggestedRadius": 92.92,
+      "imageUrl": "assets/images/hn_50391456_uns.jpg",
+      "imageThumbUrl": "assets/images/hn_50391456_uns_thumb.jpg",
+      "category": "tech",
       "region": "global",
       "sources": [
         {
-          "title": "Pra quem convive com psicose, será que vocês conseguem descrever o que a sua mente faz você acreditar que é verdade?",
-          "url": "https://www.reddit.com/r/saudemental/comments/1uelypg/pra_quem_convive_com_psicose_será_que_vocês/",
-          "subreddit": "saudemental"
+          "title": "Tesla to wind down Cybertruck production",
+          "url": "https://news.ycombinator.com/item?id=50391456",
+          "subreddit": "hackernews"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Eu acho que é importante as pessoas entenderem que a psicose não é uma fraqueza, é uma condição médica que precisa de tratamento e apoio. Quem passa por isso precisa de empatia e não de julgamento.",
+          "text": "A Tesla tá certa em focar no que dá dinheiro. O Cybertruck era uma ideia maluca, mas o Model 3 e Y vendem horrores e o Cybercab tem potencial. É a estratégia de sempre: lançar algo ousado, ver se cola, e se não colar, partir pra próxima. O importante é o futuro!",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Mais uma promessa quebrada do Musk! O Cybertruck era pra ser o futuro, mas virou só mais um mico. E agora querem empurrar o Cybercab, um táxi de duas portas? É o cúmulo da falta de visão, só pensam em enganar o público com marketing e não entregam nada de verdade.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Essa decisão da Tesla não me surpreende. O Cybertruck sempre foi um projeto mais conceitual, e o mercado mostrou que não abraçou a ideia. Agora, o foco em modelos mais populares e no Cybercab faz sentido do ponto de vista de negócios, mesmo que o design do Cybertruck fosse ousado.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "bsky_3mzoz5hwwqu2p",
+      "rank": 4,
+      "title": "Análise mostra que mais mulheres quase morreram por hemorragia após Texas proibir aborto",
+      "label": "Aborto e saúde materna no Texas",
+      "context": "Uma análise indica que o número de mulheres que quase morreram por hemorragia durante abortos espontâneos aumentou após o Texas proibir o procedimento. Esses resultados se somam a outras reportagens que mostram piora nos desfechos maternos sob as proibições.",
+      "source": "bluesky",
+      "subreddit": "bsky_global",
+      "permalink": "https://bsky.app/profile/propublica.org/post/3mzoz5hwwqu2p",
+      "createdAt": "2026-11-07T04:01:01.473000+00:00",
+      "rawScore": 0.8639579958081481,
+      "relevanceScore": 0.8639579958081481,
+      "suggestedRadius": 91.77,
+      "imageUrl": "assets/images/bsky_3mzoz5hwwqu2p_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzoz5hwwqu2p_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "Our analysis, which shows that more women nearly bled to death during miscarriage after Texas banned abortion, adds to a growing body of reporting revealing that maternal outcomes have gotten worse under bans. (Published July 2025)",
+          "url": "https://bsky.app/profile/propublica.org/post/3mzoz5hwwqu2p",
+          "subreddit": "bsky_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Esses dados são claramente manipulados para atacar o Texas. A prioridade é proteger a vida desde a concepção, e não dar vazão a abortos. Médicos que se recusam a tratar emergências devem ser punidos, não protegidos por essa agenda anti-vida.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -137,7 +189,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A sociedade ignora completamente as pessoas com psicose, tratam elas como se fossem loucas e não como seres humanos que precisam de ajuda. É uma estrutura opressora que negligencia a saúde mental.",
+          "text": "O Texas está matando mulheres com essa proibição desumana! O lucro dos hospitais e a ganância política valem mais que a vida de mulheres? Isso é o capitalismo destruindo vidas, e a culpa é de quem apoia essa barbárie.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -145,35 +197,35 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "É crucial que a gente forneça recursos e apoio para as pessoas com psicose. A saúde mental é tão importante quanto a física, e precisamos de políticas públicas eficazes para lidar com isso.",
+          "text": "A proibição do aborto no Texas está claramente impactando a saúde materna, levando a emergências médicas graves. É fundamental que as leis de saúde permitam que médicos ajam para salvar vidas sem medo de represálias legais.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "masto_mastodonsocial_116811266039061297",
-      "rank": 4,
-      "title": "IA fará computadores pessoais custar dez mil dólares",
-      "label": "Tecnologia · Impacto Financeiro",
-      "context": "Um usuário do Reddit resumiu o impacto potencial da IA nos computadores pessoais, afirmando que eles podem custar dez mil dólares, com aplicativos congelados em um design e implementação de 2025. Isso levanta preocupações sobre o futuro do acesso à tecnologia.",
+      "id": "masto_mastodonsocial_117571544280391098",
+      "rank": 5,
+      "title": "Stephen Miller aterrorizou, sequestrou e assassinou meus vizinhos",
+      "label": "Acusações de crimes contra vizinhos por Stephen Miller",
+      "context": "Um usuário relata que Stephen Miller, ex-conselheiro da Casa Branca, foi o responsável por sequestros e assassinatos de seus vizinhos. A acusação descreve o envolvimento direto de Miller em ações que teriam resultado em mortes e abduções, incluindo cidadãos americanos. O relato sugere que essas ações foram parte de uma política implementada durante sua gestão.",
       "source": "mastodon",
       "subreddit": "masto_global",
-      "permalink": "https://hachyderm.io/@thomasfuchs/116811265940958729",
-      "createdAt": "2026-06-25T14:41:07+00:00",
+      "permalink": "https://hachyderm.io/@inthehands/117571544087031724",
+      "createdAt": "2026-11-06T21:09:50+00:00",
       "rawScore": 0.85,
       "relevanceScore": 0.85,
       "suggestedRadius": 91.32,
-      "imageUrl": "assets/images/masto_mastodonsocial_116811266039061297_ai.jpg",
-      "imageThumbUrl": "assets/images/masto_mastodonsocial_116811266039061297_ai_thumb.jpg",
-      "category": "tech",
+      "imageUrl": "assets/images/masto_mastodonsocial_117571544280391098_uns.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_117571544280391098_uns_thumb.jpg",
+      "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "So to summarize, AI will cause personal computers to cost ten thousand dollars, all applications will forever be frozen to about 2025 design and implementation (because that’s what vibe coding outputs), power to run the computer will be twice the price and also you need to sign in with your passport",
-          "url": "https://hachyderm.io/@thomasfuchs/116811265940958729",
+          "title": "Stephen Miller terrorized, kidnapped, and murdered my neighbors. — This is not some vague figurative sloganeering thing. I can take you on a walk from my house and point out the spots where they took people. I know multiple people who had relatives abducted by ICE, including citizens. My wife person",
+          "url": "https://hachyderm.io/@inthehands/117571544087031724",
           "subreddit": "masto_global"
         }
       ],
@@ -181,7 +233,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Essa é a consequência do socialismo digital, onde a elite tecnológica quer controlar tudo e cobrar caro por isso. Eu prefiro comprar computadores usados e evitar essas armadilhas de gastos.",
+          "text": "Esse Miller é um patriota que fez o que era preciso para proteger nossas fronteiras e nosso país. Quem fala em assassinato e sequestro está distorcendo os fatos para atacar quem defende a soberania nacional. Esses vizinhos devem ter sido criminosos que tentaram entrar ilegalmente no país.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -189,7 +241,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A IA está sendo usada para justificar o aumento dos preços e a concentração de riqueza nas mãos de poucos. É um exemplo claro de como o capitalismo está falhando em prover tecnologia acessível para todos.",
+          "text": "Esse desgraçado do Miller é um criminoso de guerra, um monstro sádico que se deleita com o sofrimento alheio. Ele e seus cúmplices no governo deveriam ser julgados em Haia por crimes contra a humanidade. A crueldade dele é inacreditável, um verdadeiro demônio.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -197,35 +249,35 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A questão é se esses aumentos de preço são sustentáveis a longo prazo. A lei da oferta e demanda deve prevalecer, e é possível que os preços caiam à medida que mais empresas entram no mercado e a tecnologia melhora.",
+          "text": "As alegações contra Stephen Miller são gravíssimas e exigem investigação rigorosa. Se comprovadas, ele deve responder judicialmente por seus atos. A aplicação da lei, mesmo em questões de imigração, deve respeitar os direitos humanos e o devido processo legal.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "lemmy_lemmyworld_48586784",
-      "rank": 5,
-      "title": "Previsão vs Realidade",
-      "label": "Mudanças Climáticas · Previsões vs Realidade",
-      "context": "As previsões climáticas feitas por cientistas têm sido comparadas à realidade atual, mostrando que as mudanças climáticas são mais intensas do que o previsto. Isso levanta questões sobre a eficácia das medidas tomadas até agora para mitigar os efeitos do aquecimento global.",
+      "id": "lemmy_lemmyworld_54046438",
+      "rank": 6,
+      "title": "Lauren Boebert perde seu assento na Câmara do Colorado",
+      "label": "Lauren Boebert perde eleição no Colorado",
+      "context": "Lauren Boebert perdeu seu assento na Câmara dos Representantes dos EUA após uma disputa acirrada em seu distrito no Colorado. A derrota encerra seu mandato representando o 3º Distrito congressional do estado.",
       "source": "lemmy",
       "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48586784",
-      "createdAt": "2026-06-24T16:27:01.436367+00:00",
+      "permalink": "https://lemmy.world/post/54046438",
+      "createdAt": "2026-11-06T03:07:18.206306+00:00",
       "rawScore": 0.75,
       "relevanceScore": 0.75,
       "suggestedRadius": 87.96,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48586784_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48586784_reddit_thumb.jpg",
+      "imageUrl": "assets/images/lemmy_lemmyworld_54046438_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54046438_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "Prediction vs Reality",
-          "url": "https://lemmy.world/post/48586784",
+          "title": "Lauren Boebert loses her Colorado House seat",
+          "url": "https://lemmy.world/post/54046438",
           "subreddit": "lemmy_global"
         }
       ],
@@ -233,97 +285,48 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Eu acho que é hora de parar de brincar e começar a agir de verdade. As previsões climáticas foram claras e agora estamos vendo a realidade. É hora de tomar medidas drásticas para reduzir as emissões e mudar nosso estilo de vida.",
+          "text": "Finalmente a eleitora do Colorado fez a coisa certa e tirou essa figura do Congresso. Já não era sem tempo! Que ela vá fazer outra coisa da vida, longe da política.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Eu estou furioso com a forma como as coisas estão sendo feitas. As previsões climáticas foram ignoradas e agora estamos pagando o preço. É culpa da ganância e da negligência das empresas e governos que não fizeram o suficiente para mudar.",
+          "text": "A derrota da Boebert é um alívio, mas não podemos esquecer o estrago que ela fez. Essa gente não deveria nem ter chegado onde chegou, mas fico feliz que o povo deu um basta.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Eu acho que precisamos olhar para os fatos e não dramatizar. As previsões climáticas foram baseadas em modelos e agora estamos vendo a realidade. É hora de discutir e encontrar soluções que funcionem para todos, sem culpar uns aos outros.",
+          "text": "Essa derrota da Boebert mostra que nem sempre o radicalismo vence. O eleitorado pode ter se cansado das polêmicas e optado por algo mais moderado, quem sabe.",
           "source": "reddit",
           "votes": 0
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "masto_mastodonsocial_116811167004066974",
-      "rank": 6,
-      "title": "Descobri que o @libreoffice tem uma ótima ferramenta para gerar QR",
-      "label": "Ferramenta de QR Code · LibreOffice",
-      "context": "O usuário @concretedog descobriu que o @libreoffice tem uma ferramenta para gerar QR codes. Isso é útil porque muitas ferramentas online de geração de QR codes redirecionam para seus próprios sites.",
-      "source": "mastodon",
-      "subreddit": "masto_global",
-      "permalink": "https://mastodon.social/@concretedog/116811167004066974",
-      "createdAt": "2026-06-25T14:15:57.474000+00:00",
-      "rawScore": 0.6498255895128093,
-      "relevanceScore": 0.6498255895128093,
-      "suggestedRadius": 84.37,
-      "imageUrl": "assets/images/masto_mastodonsocial_116811167004066974_reddit.jpg",
-      "imageThumbUrl": "assets/images/masto_mastodonsocial_116811167004066974_reddit_thumb.jpg",
-      "category": "tech",
-      "region": "global",
-      "sources": [
-        {
-          "title": "Huh! I was today years old when I realised that the mighty @libreoffice has a great tool for generating QR. In a world where online QR code generators tend to re route via themselves this is an awesome tool to find! #opensource",
-          "url": "https://mastodon.social/@concretedog/116811167004066974",
-          "subreddit": "masto_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O LibreOffice é um exemplo de como o software de código aberto pode ser útil! Essa ferramenta de QR code é um recurso valioso para quem precisa gerar códigos rapidamente.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Eu não entendo por que alguém usaria o LibreOffice para gerar QR codes quando há ferramentas online mais fáceis de usar. Essa ferramenta parece ser uma solução procurando um problema.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Eu uso o DuckDuckGo para gerar QR codes e funciona bem para mim. A ferramenta do LibreOffice é uma boa opção para quem já está usando o software, mas não é necessariamente a melhor escolha para todos.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "lemmy_lemmyworld_48620224",
+      "id": "lemmy_lemmyworld_54032087",
       "rank": 7,
-      "title": "Hunter Biden vomita a verdade",
-      "label": "Filho de Biden em evidência",
-      "context": "Hunter Biden, filho do presidente dos EUA, Joe Biden, foi flagrado em um vídeo vomitando durante um evento. Isso aconteceu após uma noite de bebedeira em uma boate de Los Angeles.",
+      "title": "Chamados para Substituir Jeffries e Schumer Explodem Após Vitórias Democráticas",
+      "label": "Liderança Democrata em Debate Pós-Eleição",
+      "context": "Após as eleições, crescem os pedidos para a substituição de Hakeem Jeffries e Chuck Schumer em seus cargos de liderança. As críticas apontam falta de visão e relutância em confrontar Trump.",
       "source": "lemmy",
       "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48620224",
-      "createdAt": "2026-06-25T12:24:43.785928+00:00",
-      "rawScore": 0.5025848685063803,
-      "relevanceScore": 0.5025848685063803,
-      "suggestedRadius": 78.54,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48620224_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48620224_reddit_thumb.jpg",
+      "permalink": "https://lemmy.world/post/54032087",
+      "createdAt": "2026-11-05T18:59:52.679041+00:00",
+      "rawScore": 0.5850224973292978,
+      "relevanceScore": 0.5850224973292978,
+      "suggestedRadius": 81.89,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54032087_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54032087_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "Hunter Biden spitting truth",
-          "url": "https://lemmy.world/post/48620224",
+          "title": "Calls to Replace Jeffries and Schumer Explode After Democratic Wins",
+          "url": "https://lemmy.world/post/54032087",
           "subreddit": "lemmy_global"
         }
       ],
@@ -331,51 +334,48 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Hunter Biden é um exemplo clássico de privilégio e falta de responsabilidade. Se fosse um cidadão comum, teria sido demitido ou preso por dirigir sob influência de álcool.",
+          "text": "AOC ou Ro Khanna deveriam assumir, com Bernie no Senado. Essa renovação é o que o partido precisa para parar de ser refém de figurões acomodados e voltar a representar o povo.",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
+          "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A mídia está apenas tentando difamar Hunter Biden para atingir seu pai, o presidente Joe Biden. Isso é uma clara perseguição política e não tem nada a ver com a saúde ou o bem-estar dele.",
+          "text": "Esses dois, Jeffries e Schumer, são meros fantoches de bilionários e de Israel, garantindo que nada que prejudique seus patrões seja votado. Tirar esses corruptos é o primeiro passo.",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
+          "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Hunter Biden tem problemas de saúde pública e privados, mas isso não muda o fato de que ele é um cidadão americano com direitos. A imprensa deve focar em fatos, não em julgamentos morais.",
+          "text": "A pressão por novas lideranças é compreensível, mas a solução real está nas primárias. Se 90% dos americanos não votam nelas, culpar Schumer e Jeffries é desviar o foco da apatia geral.",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
+          "votes": 0
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "lemmy_lemmyworld_48604190",
+      "id": "lemmy_lemmyworld_54022236",
       "rank": 8,
-      "title": "Alguns varejistas se recusam a vender GTA 6 por falta de disco",
-      "label": "Jogos · Distribuição digital",
-      "context": "A loja Video Game Plus anunciou que não venderá GTA 6 porque o jogo só será disponibilizado com código de download digital, sem uma cópia física em disco. Essa decisão visa preservar a mídia física e pode afetar a disponibilidade do jogo em algumas lojas.",
+      "title": "Postei um meme, para a glória do império!",
+      "label": "Expressão irônica sobre atos cotidianos",
+      "context": "Um usuário postou um meme com a frase 'para a glória do império'. A comunidade respondeu com inúmeras variações irônicas da mesma frase, aplicando-a a ações banais do dia a dia. A expressão se tornou um meme dentro da plataforma.",
       "source": "lemmy",
       "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48604190",
-      "createdAt": "2026-06-25T01:38:42.568503+00:00",
-      "rawScore": 0.48428736504023095,
-      "relevanceScore": 0.48428736504023095,
-      "suggestedRadius": 77.75,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48604190_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48604190_reddit_thumb.jpg",
+      "permalink": "https://lemmy.world/post/54022236",
+      "createdAt": "2026-11-05T14:11:12.990708+00:00",
+      "rawScore": 0.5472536894320755,
+      "relevanceScore": 0.5472536894320755,
+      "suggestedRadius": 80.39,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54022236_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54022236_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "Some Retailers Are Refusing to Sell GTA 6 Due to the Lack of a Disc",
-          "url": "https://lemmy.world/post/48604190",
+          "title": "Uploaded a meme, for the glory of the empire!",
+          "url": "https://lemmy.world/post/54022236",
           "subreddit": "lemmy_global"
         }
       ],
@@ -383,154 +383,149 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Os varejistas estão certos em não vender esse jogo sem disco. É uma questão de princípio, queremos manter a opção de ter uma cópia física dos jogos. Se todos os jogos forem apenas downloads digitais, as lojas perderão seu propósito.",
+          "text": "Essa galera é muito criativa! Usar a frase para descrever coisas bobas do cotidiano mostra o quanto a gente se leva a sério demais. É um jeito divertido de zoar a própria rotina e as 'grandes' missões que a gente se impõe.",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
+          "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa decisão dos varejistas é uma forma de protesto contra a exploração dos consumidores por parte das empresas de jogos. É inaceitável que um jogo tão grande e esperado como GTA 6 seja lançado sem uma opção de mídia física. É uma tática para manter o controle sobre a indústria e os jogadores.",
+          "text": "Que perda de tempo! Ficar repetindo essa frase para tudo que é coisa sem importância só mostra a falta de propósito. Em vez de fazer algo que realmente importe, ficam nessa brincadeira sem graça na internet.",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
+          "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A ausência de um disco físico para GTA 6 reflete a mudança nos hábitos de consumo de jogos. Com a internet rápida e o armazenamento em nuvem, muitos jogadores preferem a conveniência do download digital. Os varejistas precisam se adaptar a essa nova realidade e oferecer opções que atendam às necessidades dos consumidor",
+          "text": "A graça tá justamente em aplicar a frase grandiosa a atos minúsculos. É uma forma de humor que subverte a expectativa. Quem diria que escovar os dentes ou mandar um e-mail poderiam ser 'pela glória do império'?",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
+          "votes": 0
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "masto_mastodonsocial_116811096378276125",
+      "id": "lemmy_lemmyworld_54031434",
       "rank": 9,
-      "title": "Configurando minha mensagem de ausência",
-      "label": "Mensagem de férias · Tecnologia",
-      "context": "As pessoas estão discutindo sobre como configurar uma mensagem de ausência no trabalho. Isso é importante para informar colegas e clientes sobre sua indisponibilidade.",
-      "source": "mastodon",
-      "subreddit": "masto_global",
-      "permalink": "https://retro.pizza/@ratvet/116811096279364582",
-      "createdAt": "2026-06-25T13:57:58+00:00",
-      "rawScore": 0.4657205268044925,
-      "relevanceScore": 0.4657205268044925,
-      "suggestedRadius": 76.95,
-      "imageUrl": "assets/images/masto_mastodonsocial_116811096378276125_reddit.jpg",
-      "imageThumbUrl": "assets/images/masto_mastodonsocial_116811096378276125_reddit_thumb.jpg",
+      "title": "GOG anuncia oficialmente o GOG Galaxy para Linux",
+      "label": "GOG Galaxy chega ao Linux",
+      "context": "A GOG anunciou oficialmente o lançamento do GOG Galaxy, seu cliente de jogos, para o sistema operacional Linux. Esta novidade expande as opções de acesso a jogos para usuários de Linux, que já contam com alternativas como Heroic e Lutris.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54031434",
+      "createdAt": "2026-11-05T18:30:31.739376+00:00",
+      "rawScore": 0.5043529534129363,
+      "relevanceScore": 0.5043529534129363,
+      "suggestedRadius": 78.61,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54031434_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54031434_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "Setting my out of office reply message",
-          "url": "https://retro.pizza/@ratvet/116811096279364582",
-          "subreddit": "masto_global"
+          "title": "GOG officially announces GOG Galaxy for Linux",
+          "url": "https://lemmy.world/post/54031434",
+          "subreddit": "lemmy_global"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Eu uso uma mensagem automática no meu e-mail para informar que estou fora do escritório. É simples e eficaz!",
+          "text": "Finalmente a GOG percebeu que o Linux é um sistema de verdade e não só pra nerd. Essa concorrência com a Steam é boa pra gente que quer jogar sem depender de uma empresa só. Menos controle, mais liberdade!",
           "source": "reddit",
-          "votes": 0
+          "votes": 0,
+          "ideology": "far_right"
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Eu odeio quando as pessoas não configuram corretamente a mensagem de ausência. É tão frustrante receber respostas automáticas genéricas!",
+          "text": "Que piada! Enquanto a Valve investe pesado em código aberto e no Linux, a GOG vem agora com esse cliente. É só mais uma tentativa de monetizar o que já funciona com ferramentas livres. Vão querer cobrar por tudo agora?",
           "source": "reddit",
-          "votes": 0
+          "votes": 0,
+          "ideology": "far_left"
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Mas será que as mensagens de ausência são realmente necessárias? Eu quase nunca respondo a e-mails de trabalho fora do horário.",
+          "text": "A chegada do GOG Galaxy ao Linux é um avanço para a interoperabilidade. Ter mais clientes oficiais significa mais opções e, idealmente, maior suporte para os jogos, o que beneficia o consumidor.",
           "source": "reddit",
-          "votes": 0
+          "votes": 0,
+          "ideology": "liberal"
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "lemmy_lemmyworld_48597762",
+      "id": "bsky_3mzol7fkju22w",
       "rank": 10,
-      "title": "Principal democrata parece descontente após candidatos apoiados por Mamdani derrotam titulares na Câmara",
-      "label": "Conflito Interno Democrata",
-      "context": "O líder democrata Hakeem Jeffries parece descontente após candidatos apoiados por Zohran Mamdani, prefeito de Nova York, derrotarem titulares na Câmara dos Representantes. Isso reflete tensões internas no Partido Democrata.",
-      "source": "lemmy",
-      "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48597762",
-      "createdAt": "2026-06-24T21:38:47.812472+00:00",
-      "rawScore": 0.45108442428060713,
-      "relevanceScore": 0.45108442428060713,
-      "suggestedRadius": 76.3,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48597762_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48597762_reddit_thumb.jpg",
+      "title": "Abdul El-Sayed é um colecionador de relógios com uma coleção legal e legítima",
+      "label": "Abdul El-Sayed e sua coleção de relógios",
+      "context": "Um usuário do Reddit compartilhou que Abdul El-Sayed, uma figura política, possui uma coleção de relógios de pulso. A postagem gerou discussões sobre seus gostos e possíveis implicações políticas.",
+      "source": "bluesky",
+      "subreddit": "bsky_global",
+      "permalink": "https://bsky.app/profile/notalawyer.bsky.social/post/3mzol7fkju22w",
+      "createdAt": "2026-11-06T23:51:33.379000+00:00",
+      "rawScore": 0.4775300205207793,
+      "relevanceScore": 0.4775300205207793,
+      "suggestedRadius": 77.46,
+      "imageUrl": "assets/images/bsky_3mzol7fkju22w_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzol7fkju22w_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "Top Democrat seems sour after Mamdani-backed candidates oust House incumbents",
-          "url": "https://lemmy.world/post/48597762",
-          "subreddit": "lemmy_global"
+          "title": "one thing that i’ve been very restrained about is not discussing the fact that Abdul El-Sayed is a watch guy with what seems like a very cool and legit collection",
+          "url": "https://bsky.app/profile/notalawyer.bsky.social/post/3mzol7fkju22w",
+          "subreddit": "bsky_global"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Há quem defenda essa medida como necessária.",
+          "text": "Um médico com uma coleção de Grand Seiko? Isso mostra discernimento e bom gosto. É legal ver figuras públicas com hobbies genuínos que não são apenas para ostentar, mas demonstram um conhecimento real sobre o que apreciam.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Outros criticam e veem riscos ou consequências negativas.",
+          "text": "Que piada! Um suposto socialista com relógios caros? Isso só prova que ele não é quem diz ser. Enquanto o povo luta, ele exibe peças de luxo. Essa hipocrisia é inaceitável e desvia o foco da luta de classes.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Também há quem prefira esperar mais informações antes de concluir.",
+          "text": "A gente já sabe que ele não é socialista, mas a obsessão com relógios de médicos é um fenômeno curioso. Parece que eles têm dinheiro para gastar em hobbies caros, seja aquários, pássaros ou, no caso dele, relógios.",
           "source": "reddit",
           "votes": 0
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "hn_48674446",
+      "id": "lemmy_lemmyworld_54081393",
       "rank": 11,
-      "title": "Ford recontrata 350 engenheiros depois que IA falha em preservar expertise ou treinar juniores",
-      "label": "Tecnologia · Emprego",
-      "context": "A Ford demitiu 350 engenheiros para substituí-los por inteligência artificial (IA), mas agora está recontratando-os. A empresa está tentando compensar a perda de habilidades e expertise.",
-      "source": "hackernews",
-      "subreddit": "hackernews",
-      "permalink": "https://news.ycombinator.com/item?id=48674446",
-      "createdAt": "2026-06-25T14:58:50+00:00",
-      "rawScore": 0.4246842044063455,
-      "relevanceScore": 0.4246842044063455,
-      "suggestedRadius": 75.1,
-      "imageUrl": "assets/images/hn_48674446_reddit.jpg",
-      "imageThumbUrl": "assets/images/hn_48674446_reddit_thumb.jpg",
-      "category": "tech",
+      "title": "Buc-ee's não vai instalar carregadores de veículos elétricos",
+      "label": "Buc-ee's recusa carregadores para carros elétricos",
+      "context": "A rede de postos Buc-ee's anunciou que não instalará carregadores para veículos elétricos em suas unidades. A decisão gerou reações negativas de consumidores que planejavam usar os postos para recarregar seus carros.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54081393",
+      "createdAt": "2026-11-06T22:56:29.457108+00:00",
+      "rawScore": 0.4122696447656686,
+      "relevanceScore": 0.4122696447656686,
+      "suggestedRadius": 74.52,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54081393_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54081393_reddit_thumb.jpg",
+      "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
-          "url": "https://news.ycombinator.com/item?id=48674446",
-          "subreddit": "hackernews"
-        },
-        {
-          "title": "Ford had to hire back former engineers to fix mistakes made by its automated systems",
-          "url": "https://lemmy.world/post/48623297",
+          "title": "Get Buc'ed",
+          "url": "https://lemmy.world/post/54081393",
           "subreddit": "lemmy_global"
         }
       ],
@@ -538,59 +533,56 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Ford fez bem em recontratar esses engenheiros, afinal, a IA não pode substituir a experiência e a habilidade humana. Esses caras foram demitidos à toa e agora a empresa está pagando o pato.",
+          "text": "A Buc-ee's tá certa em não ceder à pressão! Esses carregadores elétricos são um luxo desnecessário e só servem pra quem quer bancar o ecologicamente correto. Quem tem carro elétrico que se vire pra carregar em casa, não é problema da empresa.",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
+          "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A Ford está apenas tentando economizar dinheiro, demitindo trabalhadores e depois recontratando-os por salários mais baixos. É uma tática capitalista para explorar os trabalhadores.",
+          "text": "Que vergonha essa Buc-ee's! Recusar carregadores elétricos é um tapa na cara de quem tá tentando fazer a transição energética. É um retrocesso e mostra o quanto a empresa se importa mais com o lucro do que com o futuro do planeta.",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
+          "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A Ford está reconhecendo que a IA não é uma solução mágica para todos os problemas. A empresa está voltando atrás e recontratando engenheiros para garantir a qualidade e a segurança dos produtos.",
+          "text": "Essa decisão da Buc-ee's é estranha. Eles poderiam atrair mais clientes com os carregadores, mas parece que preferem focar no público tradicional. Talvez a logística ou o custo não compensem pra eles agora, mas é uma oportunidade perdida.",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
+          "votes": 0
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "reddit_1ua4b21",
+      "id": "masto_mastodonsocial_117572234249486749",
       "rank": 12,
-      "title": "O que você está assistindo e o que você recomenda? (Semana de 19 de junho de 2026)",
-      "label": "Séries de TV · Recomendações",
-      "context": "Os usuários estão compartilhando suas experiências com diversas séries de TV. Muitos estão discutindo sobre shows que assistiram recentemente e fazendo recomendações. Isso é importante porque ajuda as pessoas a descobrir novos conteúdos de entretenimento.",
-      "source": "reddit",
-      "subreddit": "television",
-      "permalink": "https://www.reddit.com/r/television/comments/1ua4b21/what_are_you_watching_and_what_do_you_recommend/",
-      "createdAt": "2026-06-25T16:52:34.115368+00:00",
-      "rawScore": 0.39999369416239045,
-      "relevanceScore": 0.39999369416239045,
-      "suggestedRadius": 73.95,
-      "imageUrl": "assets/images/reddit_1ua4b21_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1ua4b21_uns_thumb.jpg",
-      "category": "entretenimento",
+      "title": "Doe sua RAM para quem precisa com uploadyourram.org",
+      "label": "Compartilhamento de RAM para IA",
+      "context": "Um novo site permite que usuários doem a memória RAM de seus computadores para a IA de Sam Altman. O objetivo é suprir a demanda por mais poder computacional para o desenvolvimento de inteligência artificial.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://mastodon.social/@thezoq2/117572234249486749",
+      "createdAt": "2026-11-07T00:05:22.021000+00:00",
+      "rawScore": 0.40844478256540634,
+      "relevanceScore": 0.40844478256540634,
+      "suggestedRadius": 74.35,
+      "imageUrl": "assets/images/masto_mastodonsocial_117572234249486749_reddit.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_117572234249486749_reddit_thumb.jpg",
+      "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "What are you watching and what do you recommend? (Week of June 19, 2026)",
-          "url": "https://www.reddit.com/r/television/comments/1ua4b21/what_are_you_watching_and_what_do_you_recommend/",
-          "subreddit": "television"
+          "title": "Feel bad about hoarding RAM that could be used by Sam? No worries, I just launched https://uploadyourram.org/ so you can give your RAM to those in need",
+          "url": "https://mastodon.social/@thezoq2/117572234249486749",
+          "subreddit": "masto_global"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Eu amo The Agency, é uma série de espionagem de alta qualidade, com um elenco incrível e uma história envolvente. É um show que realmente entrega.",
+          "text": "Isso é ridículo! Por que a gente tem que dar a nossa RAM pra um bilionário que já tem tudo? O governo devia era taxar essas IAs e usar o dinheiro pra ajudar o povo, não pra encher os bolsos de gente como o Sam Altman. Deixem a RAM dos cidadãos em paz!",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -598,7 +590,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Eu terminei de assistir The Boys e foi incrível, mas agora estou desapontado com a maioria das séries que estou assistindo. É como se tudo estivesse tão previsível e sem crítica social.",
+          "text": "Essa palhaçada de 'doar RAM' é só mais uma forma da elite explorar o trabalhador. Eles criam a necessidade de mais poder computacional pra vender a própria tecnologia, e a gente que se vira pra 'doar' o que tem. É o capitalismo em sua forma mais pura, sugando tudo!",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -606,43 +598,43 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Eu estou assistindo The Americans e é realmente boa, mas também estou curioso sobre The Bureau, alguém pode me dizer se vale a pena assistir?",
+          "text": "A iniciativa de compartilhar recursos computacionais é interessante, mas levanta questões sobre a real necessidade e o uso dessa RAM. É preciso transparência sobre como esses dados são utilizados e se há algum benefício real para a sociedade, além do lucro de empresas de tecnologia.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "hn_48663324",
+      "id": "lemmy_lemmyworld_54069199",
       "rank": 13,
-      "title": "OpenAI lança seu primeiro chip personalizado, construído pela Broadcom",
-      "label": "Tecnologia · Inteligência Artificial",
-      "context": "A OpenAI lançou seu primeiro chip personalizado, desenvolvido pela Broadcom. Isso marca um passo importante na capacidade da OpenAI de controlar seu próprio hardware para treinar e executar modelos de inteligência artificial.",
-      "source": "hackernews",
-      "subreddit": "hackernews",
-      "permalink": "https://news.ycombinator.com/item?id=48663324",
-      "createdAt": "2026-06-24T17:47:00+00:00",
-      "rawScore": 0.396778815374289,
-      "relevanceScore": 0.396778815374289,
-      "suggestedRadius": 73.79,
-      "imageUrl": "assets/images/hn_48663324_uns.jpg",
-      "imageThumbUrl": "assets/images/hn_48663324_uns_thumb.jpg",
-      "category": "tech",
+      "title": "Democratas precisam discutir agora a expansão da Suprema Corte",
+      "label": "Expansão da Suprema Corte dos EUA",
+      "context": "O título sugere que o Partido Democrata deve discutir ativamente a possibilidade de aumentar o número de juízes na Suprema Corte dos Estados Unidos. Essa discussão surge em meio a preocupações sobre a composição e as decisões recentes da corte.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54069199",
+      "createdAt": "2026-11-06T16:45:14.275239+00:00",
+      "rawScore": 0.39596726202780974,
+      "relevanceScore": 0.39596726202780974,
+      "suggestedRadius": 73.76,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54069199_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54069199_reddit_thumb.jpg",
+      "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "OpenAI unveils its first custom chip, built by Broadcom",
-          "url": "https://news.ycombinator.com/item?id=48663324",
-          "subreddit": "hackernews"
+          "title": "Democrats Need to Talk About Supreme Court Expansion Now",
+          "url": "https://lemmy.world/post/54069199",
+          "subreddit": "lemmy_global"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A OpenAI está fazendo um grande passo ao criar seu próprio hardware. Isso vai permitir que eles sejam mais independentes e não dependam de terceiros para suas necessidades de processamento. É uma jogada estratégica importante para o futuro da inteligência artificial.",
+          "text": "Essa conversa de expandir a corte é só cortina de fumaça pra esconder a corrupção que já existe lá. Primeiro tem que limpar a casa, prender quem aceitou propina e só depois pensar em mudar as regras do jogo. Essa gente não tem moral pra mexer em nada.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -650,7 +642,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A OpenAI está apenas seguindo os passos das grandes corporações ao investir em hardware proprietário. Isso só vai aumentar a desigualdade no acesso à tecnologia de IA e favorecer as empresas que têm recursos para investir em hardware personalizado. É um exemplo claro de como o capitalismo está distorcendo o desenvolvim",
+          "text": "A Suprema Corte tá ilegítima e dominada por gente que serve a bilionários. Expandir é o mínimo pra tentar equilibrar o poder e garantir que a justiça sirva ao povo, não aos ricos. Precisamos de mais assentos pra diluir essa influência podre e começar a consertar o estrago.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -658,35 +650,35 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A OpenAI está tomando uma abordagem pragmática ao desenvolver seu próprio hardware. Isso vai permitir que eles otimizem o desempenho de seus modelos de IA e reduzam os custos operacionais. É um passo importante para a maturidade da tecnologia de IA e mostra que as empresas estão dispostas a investir em soluções persona",
+          "text": "Aumentar o número de juízes na Suprema Corte é uma medida drástica que exige debate sobre suas consequências. Precisamos considerar como isso afetaria a independência do judiciário e se seria uma solução sustentável ou apenas uma retaliação política.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "masto_mastodonsocial_116811128642669324",
+      "id": "masto_mastodonsocial_117572381429241564",
       "rank": 14,
-      "title": "Você está incomodado com a linguagem antropomórfica usada no discurso de 'IA', mas não sabe como falar sobre isso sem ela?",
-      "label": "Tecnologia · Linguagem",
-      "context": "Um artigo discute o uso de linguagem antropomórfica em discussões sobre Inteligência Artificial (IA). O autor sugere formas alternativas de se referir a essas tecnologias sem recorrer a metáforas humanas.",
+      "title": "Lembro deles dizendo 'se perdermos, todos vamos para a cadeia'. Seria errado decepcioná-los.",
+      "label": "Ameaça de prisão após derrota eleitoral",
+      "context": "Uma declaração sugere que a derrota em uma eleição levaria à prisão de um grupo. A implicação é que a vitória é necessária para evitar essa consequência.",
       "source": "mastodon",
       "subreddit": "masto_global",
-      "permalink": "https://dair-community.social/@emilymbender/116811128152569506",
-      "createdAt": "2026-06-25T14:06:04+00:00",
-      "rawScore": 0.39204800212945967,
-      "relevanceScore": 0.39204800212945967,
-      "suggestedRadius": 73.57,
-      "imageUrl": "assets/images/masto_mastodonsocial_116811128642669324_uns.jpg",
-      "imageThumbUrl": "assets/images/masto_mastodonsocial_116811128642669324_uns_thumb.jpg",
-      "category": "tech",
+      "permalink": "https://mstdn.social/@dabertime/117572381374805831",
+      "createdAt": "2026-11-07T00:42:46+00:00",
+      "rawScore": 0.367172229020903,
+      "relevanceScore": 0.367172229020903,
+      "suggestedRadius": 72.36,
+      "imageUrl": "assets/images/masto_mastodonsocial_117572381429241564_uns.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_117572381429241564_uns_thumb.jpg",
+      "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "Are you annoyed with the anthropomorphizing language being used in the \"AI\" discourse, but not sure how to talk about this stuff without it? Nanna Inie and I have got you covered: — https://buttondown.com/maiht3k/archive/how-to-talk-about-ai-without-adding-to-the/",
-          "url": "https://dair-community.social/@emilymbender/116811128152569506",
+          "title": "I seem to recall them saying \"if we lose, we're all going to jail.\" It would be wrong to disappoint them.",
+          "url": "https://mstdn.social/@dabertime/117572381374805831",
           "subreddit": "masto_global"
         }
       ],
@@ -694,149 +686,97 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Eu odeio quando as pessoas falam sobre 'IA' como se fosse um ser vivo. É só um programa de computador! Vamos chamar as coisas pelo que são: 'texto preditivo turbo' ou 'automaçāo probabilística'.",
+          "text": "A gente também prometeu que se ganhássemos, eles iriam pra cadeia. Não podemos decepcionar o povo que confia na gente. Chega de impunidade!",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "É ridículo como as empresas dão nomes humanos a esses sistemas de 'IA' e até criam histórias para eles. É uma forma de nos fazer aceitar que essas máquinas são quase humanas, o que não é verdade.",
+          "text": "Essa fala soa como uma confissão de que eles sabem que fizeram algo errado e temem a justiça. Se perderem, é o mínimo que merecem.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Eu entendo por que as pessoas querem usar termos mais simples, mas 'probabilística' pode ser um bocado complicado para leigos. Talvez 'calculadora de probabilidade' seja mais fácil de entender? Ou 'máquina de texto avançada'?",
+          "text": "Se a derrota significa cadeia, então a vitória significa o quê? Uma anistia para quem quer que seja? Parece mais um blefe para assustar eleitores.",
           "source": "reddit",
           "votes": 0
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "masto_mastodonsocial_116811658436523675",
+      "id": "lemmy_lemmyworld_54031938",
       "rank": 15,
-      "title": "Lei das Crianças é uma conta de vigilância na internet",
-      "label": "Privacidade Online · Vigilância Governamental",
-      "context": "O Congresso está correndo para votar a Lei das Crianças, um projeto de lei que mistura várias propostas, como KOSA, SCREEN Act, SAFE Bots e outras, em um único pacote que ameaça a privacidade e a liberdade de expressão de todos os usuários da internet. Esse projeto obriga serviços online a verificar a idade dos usuários e criar novas regras para comunicações privadas e criptografadas.",
-      "source": "mastodon",
-      "subreddit": "masto_global",
-      "permalink": "https://mastodon.social/@eff/116811658436523675",
-      "createdAt": "2026-06-25T16:20:56.126000+00:00",
-      "rawScore": 0.3789914602641991,
-      "relevanceScore": 0.3789914602641991,
-      "suggestedRadius": 72.94,
-      "imageUrl": "assets/images/masto_mastodonsocial_116811658436523675_uns.jpg",
-      "imageThumbUrl": "assets/images/masto_mastodonsocial_116811658436523675_uns_thumb.jpg",
+      "title": "A água nunca é realmente sua, é apenas a sua vez de bebê-la.",
+      "label": "Propriedade da água e ciclo de vida",
+      "context": "A afirmação sugere que a água, embora acessível para consumo, não é de posse permanente. Isso se relaciona com a ideia de que todas as moléculas de água na Terra são recicladas e passam por diversos ciclos ao longo de milhões de anos. A discussão levanta questões sobre a propriedade e a natureza efêmera dos recursos naturais.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54031938",
+      "createdAt": "2026-11-05T18:47:52.708406+00:00",
+      "rawScore": 0.367053310171518,
+      "relevanceScore": 0.367053310171518,
+      "suggestedRadius": 72.35,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54031938_uns.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54031938_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "🚨THE KIDS ACT IS AN INTERNET SURVEILLANCE BILL🚨 — Congress is rushing the KIDS Act toward a vote. This blend of KOSA, the SCREEN Act, SAFE Bots, and other bills is a single package that is a threat to privacy and free expression for ALL internet users. 🧵(1/10)",
-          "url": "https://mastodon.social/@eff/116811658436523675",
-          "subreddit": "masto_global"
+          "title": "Water is never really yours it's just your turn to drink it.",
+          "url": "https://lemmy.world/post/54031938",
+          "subreddit": "lemmy_global"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O governo não tem o direito de controlar o que meus filhos veem online. A Lei das Crianças é uma desculpa para o governo invadir nossa privacidade e censurar a internet. Precisamos proteger nossas famílias, não permitir que o governo faça isso.",
+          "text": "A empresa Nestle querendo privatizar a água é um absurdo! A água é um bem comum, e essa ideia de que ela nunca é realmente nossa, mas apenas de passagem, reforça que ela deve ser acessível a todos, não de um único dono.",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
+          "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A Lei das Crianças é uma forma de opressão, uma desculpa para o governo controlar o que as pessoas podem ou não dizer online. Isso vai afetar não apenas as crianças, mas todos nós, especialmente as comunidades marginalizadas que já são alvo de vigilância. Devemos lutar contra essa lei e defender nossa liberdade de expr",
+          "text": "Essa conversa de que a água é de todo mundo e nunca é sua é papo pra boi dormir. A gente paga conta de água todo mês, e se a Nestle ou qualquer um quiser lucrar com isso, que pague impostos altíssimos!",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
+          "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A Lei das Crianças tem boas intenções, mas é mal implementada. É importante proteger as crianças online, mas isso não pode ser feito às custas da privacidade e da liberdade de expressão. O governo deve trabalhar com as empresas de tecnologia para encontrar soluções que equilibrem essas necessidades.",
+          "text": "Pensar que a água que bebemos hoje já passou por dinossauros e quem sabe até pela urina de Hitler é meio bizarro, mas mostra como tudo está interligado. A gente só usa, não é dono de nada, nem do próprio corpo.",
           "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
+          "votes": 0
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "lemmy_lemmyworld_48603671",
+      "id": "masto_mastodonsocial_117573146853290636",
       "rank": 16,
-      "title": "75% Mais Pedestres Foram Mortos Desde 2009. Caminhões e SUVs Gigantes São o Motivo",
-      "label": "Segurança Viária · Estatísticas de Acidentes",
-      "context": "Nos Estados Unidos, houve um aumento de 75% nas mortes de pedestres desde 2009. Esse aumento está relacionado ao tamanho e peso dos veículos, especialmente caminhões e SUVs.",
-      "source": "lemmy",
-      "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48603671",
-      "createdAt": "2026-06-25T01:24:16.273478+00:00",
-      "rawScore": 0.3765948011583775,
-      "relevanceScore": 0.3765948011583775,
-      "suggestedRadius": 72.82,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48603671_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48603671_reddit_thumb.jpg",
-      "category": "tech",
-      "region": "global",
-      "sources": [
-        {
-          "title": "75% More Pedestrians Have Been Killed Since 2009. Giant Trucks and SUVs Are Why",
-          "url": "https://lemmy.world/post/48603671",
-          "subreddit": "lemmy_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Esses caminhões e SUVs gigantes são uma ameaça nas estradas. Eles são muito altos e pesados, o que torna mais difícil para os pedestres serem vistos pelos motoristas. É hora de voltar aos carros mais compactos e seguros.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Os fabricantes de carros estão priorizando o lucro em vez da segurança. Eles sabem que os carros maiores são mais lucrativos, mas não se importam com as consequências para os pedestres. É hora de regulamentar o tamanho e o peso dos veículos.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Mas será que os smartphones não têm culpa nisso também? Muitas pessoas estão distraídas enquanto dirigem e isso pode causar acidentes. Talvez a solução seja uma combinação de carros mais seguros e motoristas mais atentos.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "masto_mastodonsocial_116810650393954768",
-      "rank": 17,
-      "title": "Oligarcas deveriam estar felizes que só queremos tributá-los",
-      "label": "Tributação de Oligarcas",
-      "context": "Um usuário do mastodon.social (@stux) ironizou sobre a tributação de oligarcas, sugerindo que a sociedade quer apenas tributá-los, em vez de medidas mais drásticas. Isso gerou discussão sobre justiça fiscal e métodos de cobrança de impostos.",
+      "title": "Democrata vence disputa por vaga de Nancy Mace na Câmara dos Representantes",
+      "label": "Eleição em South Carolina · Democrata vence",
+      "context": "A democrata Nancy Lacore venceu a eleição para a vaga de Nancy Mace na Câmara dos Representantes dos EUA, em South Carolina. A disputa ocorreu após a saída de Mace do cargo.",
       "source": "mastodon",
       "subreddit": "masto_global",
-      "permalink": "https://mstdn.social/@stux/116810650163853829",
-      "createdAt": "2026-06-25T12:04:31+00:00",
-      "rawScore": 0.3697781720175538,
-      "relevanceScore": 0.3697781720175538,
-      "suggestedRadius": 72.49,
-      "imageUrl": "assets/images/masto_mastodonsocial_116810650393954768_reddit.jpg",
-      "imageThumbUrl": "assets/images/masto_mastodonsocial_116810650393954768_reddit_thumb.jpg",
+      "permalink": "https://hachyderm.io/@jalefkowit/117573146785119475",
+      "createdAt": "2026-11-07T03:57:26+00:00",
+      "rawScore": 0.35719157129400414,
+      "relevanceScore": 0.35719157129400414,
+      "suggestedRadius": 71.86,
+      "imageUrl": "assets/images/masto_mastodonsocial_117573146853290636_wiki.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_117573146853290636_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "Oligarchs should be happy we only want to tax them..",
-          "url": "https://mstdn.social/@stux/116810650163853829",
+          "title": "They have finally called the race to fill noted crazy person Nancy Mace’s House seat down here. It went to the Democrat, Nancy Lacore, a retired admiral Pete Hegseth drove out of the Navy last year. — https://www.washingtonsun.com/campaigns/nancy-lacore-nancy-mace-south-carolina-district — #USPol",
+          "url": "https://hachyderm.io/@jalefkowit/117573146785119475",
           "subreddit": "masto_global"
         }
       ],
@@ -844,399 +784,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Os oligarcas deveriam agradecer por só termos proposto tributá-los. É uma medida civilizada e necessária para reduzir a desigualdade econômica.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Tributar os oligarcas é só um paliativo. Eles deveriam ser responsabilizados de forma mais severa pelos danos que causam à sociedade. A guillotine pode ser uma solução drástica, mas necessária.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Essa discussão é sintoma de um problema maior: a concentração de riqueza e poder. Tributar os oligarcas é uma medida necessária, mas não resolve a raiz do problema. Precisamos de reformas mais profundas.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "lemmy_lemmyworld_48619115",
-      "rank": 18,
-      "title": "Eu só queria um novo poltrona",
-      "label": "Poltrona de couro · Controvérsia",
-      "context": "Um usuário do Reddit expressou desejo por uma nova poltrona. A imagem anexada mostra pessoas vestidas com roupas de couro. A foto gerou debate sobre a natureza da imagem e do couro.",
-      "source": "lemmy",
-      "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48619115",
-      "createdAt": "2026-06-25T11:38:32.368902+00:00",
-      "rawScore": 0.35562721070574105,
-      "relevanceScore": 0.35562721070574105,
-      "suggestedRadius": 71.78,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48619115_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48619115_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "global",
-      "sources": [
-        {
-          "title": "I just wanted a new recliner",
-          "url": "https://lemmy.world/post/48619115",
-          "subreddit": "lemmy_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Há quem defenda essa medida como necessária.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Outros criticam e veem riscos ou consequências negativas.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Também há quem prefira esperar mais informações antes de concluir.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "lemmy_lemmyecobr_24175502",
-      "rank": 19,
-      "title": "Glad they're looking out for me",
-      "label": "Justiça · Verificação de Legalidade",
-      "context": "Um juiz determinou que os termos anteriores de um contrato são ilegais. Agora, as autoridades estão verificando a legalidade do contrato. Isso é importante porque garante que as partes envolvidas estejam protegidas pela lei.",
-      "source": "lemmy",
-      "subreddit": "lemmy_br",
-      "permalink": "https://lemmy.eco.br/post/24175502",
-      "createdAt": "2026-06-25T15:43:47.032625+00:00",
-      "rawScore": 0.32819328998493735,
-      "relevanceScore": 0.32819328998493735,
-      "suggestedRadius": 70.37,
-      "imageUrl": "assets/images/lemmy_lemmyecobr_24175502_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyecobr_24175502_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "global",
-      "sources": [
-        {
-          "title": "Glad they're looking out for me",
-          "url": "https://lemmy.eco.br/post/24175502",
-          "subreddit": "lemmy_br"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "As autoridades estão fazendo o seu trabalho, verificando se os termos são legais. É bom saber que alguém está cuidando dos meus interesses.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Essa verificação é só uma perda de tempo e dinheiro. Se os termos anteriores são ilegais, é óbvio que o contrato inteiro deve ser reavaliado.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "É interessante que as autoridades estejam verificando a legalidade dos termos anteriores. Será que isso é um precedente para futuros casos semelhantes?",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "lemmy_lemmyworld_48632087",
-      "rank": 20,
-      "title": "Reinventado desde os princípios básicos",
-      "label": "Profissões antigas · Explicação",
-      "context": "O termo 'smith' é usado em várias profissões antigas, como ferreiro, armeiro, ourives, etc. Isso gerou discussão sobre por que essas profissões eram mais férteis.",
-      "source": "lemmy",
-      "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48632087",
-      "createdAt": "2026-06-25T15:24:12.263236+00:00",
-      "rawScore": 0.3209344734348565,
-      "relevanceScore": 0.3209344734348565,
-      "suggestedRadius": 69.99,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48632087_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48632087_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "global",
-      "sources": [
-        {
-          "title": "Reinvented from first principles",
-          "url": "https://lemmy.world/post/48632087",
-          "subreddit": "lemmy_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Os ferreiros eram mais ricos, tinham melhor dieta e cuidados médicos, e raramente iam para a batalha, então mais deles sobreviviam. É lógico que tivessem mais filhos!",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Essa história de que os ferreiros tinham mais filhos porque eram mais ricos é uma besteira. E os armeiros, ourives e outros 'smiths'? Não tinham mais filhos também?",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Eu não entendo por que as pessoas estão tão obcecadas com isso. Talvez seja porque os 'smiths' tinham mais acesso a metais e coisas valiosas? Mas isso não explica tudo.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "masto_mastodonsocial_116811379903078893",
-      "rank": 21,
-      "title": "Stitches — #flowers #bloomscrolling #gardening #photography",
-      "label": "Fotografia de Flores",
-      "context": "Alguém postou uma foto de flores no Mastodon. A imagem mostra flores com pontos avermelhados.",
-      "source": "mastodon",
-      "subreddit": "masto_global",
-      "permalink": "https://beige.party/@SensitiveSyl/116811379607446732",
-      "createdAt": "2026-06-25T15:10:01+00:00",
-      "rawScore": 0.29959081490869466,
-      "relevanceScore": 0.29959081490869466,
-      "suggestedRadius": 68.84,
-      "imageUrl": "assets/images/masto_mastodonsocial_116811379903078893_reddit.jpg",
-      "imageThumbUrl": "assets/images/masto_mastodonsocial_116811379903078893_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "global",
-      "sources": [
-        {
-          "title": "Stitches — #flowers #bloomscrolling #gardening #photography",
-          "url": "https://beige.party/@SensitiveSyl/116811379607446732",
-          "subreddit": "masto_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Há quem defenda essa medida como necessária.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Outros criticam e veem riscos ou consequências negativas.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Também há quem prefira esperar mais informações antes de concluir.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "lemmy_lemmyworld_48599645",
-      "rank": 22,
-      "title": "Eu sentei atrás de alguém em um avião que estava usando ChatGPT para escrever materiais e comentários para uma conferência de sustentabilidade e clima.",
-      "label": "Uso de IA em conferência · Hipocrisia",
-      "context": "Uma pessoa usou ChatGPT em um avião para escrever materiais para uma conferência de sustentabilidade e clima. Isso levanta questões sobre a inconsistência entre o uso de tecnologia para reduzir o impacto ambiental e a dependência de ferramentas digitais.",
-      "source": "lemmy",
-      "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48599645",
-      "createdAt": "2026-06-24T22:43:46.621082+00:00",
-      "rawScore": 0.29434124802297223,
-      "relevanceScore": 0.29434124802297223,
-      "suggestedRadius": 68.55,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48599645_uns.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48599645_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "global",
-      "sources": [
-        {
-          "title": "I sat behind someone on a plane who was using ChatGPT to write the materials and remarks for a sustainability and climate conference.",
-          "url": "https://lemmy.world/post/48599645",
-          "subreddit": "lemmy_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Esse cara é um hipócrita, usando IA para escrever sobre sustentabilidade. Se ele realmente se importa com o meio ambiente, deveria estar usando métodos mais tradicionais e sustentáveis.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A pessoa que escreveu isso está sendo muito dura. A tecnologia pode ser usada para ajudar a reduzir o impacto ambiental, e ChatGPT pode ser uma ferramenta útil para isso. O importante é como é usada, não a ferramenta em si.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Eu acho que é interessante ver como as pessoas estão usando ChatGPT para escrever sobre sustentabilidade. Talvez seja uma forma de mostrar como a tecnologia pode ser usada para ajudar a resolver problemas ambientais. Mas também é importante considerar os limites e as consequências do uso de IA.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "lemmy_lemmyworld_48625550",
-      "rank": 23,
-      "title": "Pessoas usam pauzinhos para vários alimentos",
-      "label": "Uso de pauzinhos em alimentos",
-      "context": "Muitas pessoas usam pauzinhos para comer vários alimentos, não apenas sushi. Isso pode ser útil para evitar sujar as mãos ou para comer de forma mais lenta e consciente.",
-      "source": "lemmy",
-      "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48625550",
-      "createdAt": "2026-06-25T14:41:54.216824+00:00",
-      "rawScore": 0.27703162193492814,
-      "relevanceScore": 0.27703162193492814,
-      "suggestedRadius": 67.58,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48625550_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48625550_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "global",
-      "sources": [
-        {
-          "title": "Personally Accurate",
-          "url": "https://lemmy.world/post/48625550",
-          "subreddit": "lemmy_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Pauzinhos são ótimos para comer Cheetos sem sujar os dedos! Quem mais usa pauzinhos para comer snacks?",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Eu odeio quando as pessoas usam pauzinhos para tudo. É só um utensílio para comer sushi, não para comer Cheetos ou outras coisas.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Eu uso pauzinhos quando é conveniente, mas não é sempre necessário. Às vezes um garfo ou uma colher é mais fácil de usar.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "lemmy_lemmyworld_48589170",
-      "rank": 24,
-      "title": "Valve diz que as empresas que fazem RAM dão um preço e se elas disserem não, elas 'nunca falam conosco novamente'",
-      "label": "Negócios de Tecnologia · Preços de Hardware",
-      "context": "A Valve relatou que as empresas que fabricam RAM estabelecem um preço e, se não for aceito, elas não voltam a negociar. Isso ocorre em um contexto de alta demanda por memória RAM, impulsionada pelo interesse em inteligência artificial.",
-      "source": "lemmy",
-      "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48589170",
-      "createdAt": "2026-06-24T17:23:28.414147+00:00",
-      "rawScore": 0.2687108840794905,
-      "relevanceScore": 0.2687108840794905,
-      "suggestedRadius": 67.1,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48589170_uns.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48589170_uns_thumb.jpg",
-      "category": "tech",
-      "region": "global",
-      "sources": [
-        {
-          "title": "Valve Says The Companies Making RAM Give Them A Price And If They Say No, They ‘Never Talk To Us Again’",
-          "url": "https://lemmy.world/post/48589170",
-          "subreddit": "lemmy_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "As empresas de RAM estão apenas fazendo o que qualquer empresário faria: maximizar os lucros. Se Valve quer comprar RAM a preços baixos, deveria estar disposta a negociar ou até mesmo fabricar seus próprios produtos.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Essas empresas de RAM são cartéis desonestos! Elas controlam o mercado e definem preços absurdos. Valve deveria denunciar essas práticas e trabalhar para derrubar esses preços.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Acho que é uma questão de oferta e demanda. Se as empresas de RAM estão pedindo preços altos, é porque podem. Valve tem que decidir se vale a pena pagar ou se é melhor esperar até que os preços caiam.",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "masto_mastodonsocial_116811014762579638",
-      "rank": 25,
-      "title": "Eu tive uma realização assustadora ontem à noite: um guaxinim pode ter visitado a gaiola das minhas marinhas!",
-      "label": "Animais Selvagens · Preocupação com Predadores",
-      "context": "Uma dona de marinhas descobriu que um guaxinim pode ter visitado a gaiola das suas marinhas. Ela verificou que a gaiola estava protegida com uma cerca elétrica. A dona quer saber se os guaxinins são uma ameaça para as suas marinhas.",
-      "source": "mastodon",
-      "subreddit": "masto_global",
-      "permalink": "https://mastodon.social/@sundogplanets/116811014762579638",
-      "createdAt": "2026-06-25T13:37:14.440000+00:00",
-      "rawScore": 0.2555546495127048,
-      "relevanceScore": 0.2555546495127048,
-      "suggestedRadius": 66.33,
-      "imageUrl": "assets/images/masto_mastodonsocial_116811014762579638_reddit.jpg",
-      "imageThumbUrl": "assets/images/masto_mastodonsocial_116811014762579638_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "global",
-      "sources": [
-        {
-          "title": "I had a horrible eyes-shoot-open kind of realization around midnight last night: there was a raccoon print next to the duck pen yesterday morning! A raccoon might eat my ducks!! Luckily the pen the ducks are in is all wired up with electric fence (goats were in there last year), so I put on boots ov",
-          "url": "https://mastodon.social/@sundogplanets/116811014762579638",
-          "subreddit": "masto_global"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Guaxinins são predadores perigosos! Eles podem comer minhas marinhas facilmente se eu não tomar cuidado. A cerca elétrica é uma boa ideia, mas eu também vou manter um olho neles.",
+          "text": "A vitória da Lacore é um tapa na cara do eleitorado conservador! Essa gente que persegue nossos patriotas, como o Pete Hegseth fez com o almirante, não vai dominar o Congresso. Vamos retomar o controle!",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -1244,7 +792,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A dona das marinhas está sendo muito paranoica! Guaxinins geralmente não caçam animais grandes como marinhas. Ela deveria se preocupar mais com a sustentabilidade da criação de animais do que com predadores ocasionais.",
+          "text": "Mais uma vez o sistema mostra sua cara: um militar aposentado expulsa um oficial da Marinha e agora a vaga é de uma democrata ligada a essa elite. O povo trabalhador que se dane, enquanto a elite política e militar se reveza no poder.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -1252,133 +800,589 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "É compreensível que a dona das marinhas esteja preocupada com a possibilidade de um guaxinim ter visitado a gaiola. A cerca elétrica é uma medida de segurança razoável. Vamos esperar para ver se há mais problemas.",
+          "text": "A eleição de Nancy Lacore, uma ex-almirante, para a Câmara dos Representantes demonstra a força do eleitorado local em escolher candidatos com experiência em serviço público, independentemente de afiliação partidária.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "lemmy_lemmyworld_48617607",
+      "id": "lemmy_lemmyworld_54075006",
+      "rank": 17,
+      "title": "RIP Cybertruck. Você foi Amado, Desejado e Absolutamente Absurdo",
+      "label": "Crítica ao Cybertruck da Tesla",
+      "context": "O título sugere o fim do Cybertruck, descrevendo-o como 'amado, desejado e absolutamente absurdo'. Comentários indicam preocupações sobre a disponibilidade de peças e a baixa demanda.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54075006",
+      "createdAt": "2026-11-06T19:35:31.475200+00:00",
+      "rawScore": 0.3399694109795941,
+      "relevanceScore": 0.3399694109795941,
+      "suggestedRadius": 70.98,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54075006_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54075006_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "RIP Cybertruck. You Were Unloved, Unwanted, and Utterly Absurd",
+          "url": "https://lemmy.world/post/54075006",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Esse Cybertruck é um símbolo da decadência americana, um projeto megalomaníaco de um bilionário excêntrico que ninguém pediu. É um desperdício de recursos que poderiam ser usados para fortalecer nossa indústria e segurança nacional. Um fracasso retumbante que mostra a falha do sistema progressista.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa lata velha do Cybertruck é a prova de que bilionários como o Musk vivem em outra realidade, gastando fortunas em projetos inúteis enquanto o povo sofre. É um insulto à inteligência e um desperdício de material que poderia ser usado para o bem social, não para o ego de um parasita.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A Tesla falhou em criar um produto desejado com o Cybertruck, evidenciado pela dificuldade em revender e pela baixa demanda. A empresa precisa focar em inovação que atenda às necessidades reais do consumidor, respeitando as leis de mercado e de revenda.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "lemmy_lemmyworld_54009502",
+      "rank": 18,
+      "title": "Após onda azul do Texas, o que acontece com Elon Musk e SpaceX?",
+      "label": "Data centers espaciais de Musk",
+      "context": "Elon Musk sugeriu a construção de data centers no espaço, possivelmente como resposta a mudanças políticas no Texas. A ideia enfrenta ceticismo devido aos desafios técnicos e custos.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54009502",
+      "createdAt": "2026-11-05T05:25:28.972458+00:00",
+      "rawScore": 0.33889594673396123,
+      "relevanceScore": 0.33889594673396123,
+      "suggestedRadius": 70.93,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54009502_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54009502_reddit_thumb.jpg",
+      "category": "tech",
+      "region": "global",
+      "sources": [
+        {
+          "title": "After Texas’ blue wave, what happens to Elon Musk and SpaceX? “Data centers in space looking pretty appealing right now.”",
+          "url": "https://lemmy.world/post/54009502",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Esse Musk é um gênio! Querendo fugir da patrulha ideológica e da perseguição política, ele pensa em levar a infraestrutura para o espaço. É a liberdade de expressão e de negócio garantida, longe do controle estatal e das turbas enfurecidas que querem censurar tudo. Quem sabe lá em cima não tem essa perseguição!",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Que piada! Esse bilionário querendo fugir para o espaço com seus data centers, fugindo dos problemas que ele mesmo ajuda a criar aqui na Terra. Em vez de investir em soluções reais para o planeta, ele prefere gastar fortunas em projetos absurdos e inatingíveis, só pra não ter que lidar com a desigualdade e a opressão q",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A proposta de data centers espaciais ignora princípios básicos de física e engenharia, como dissipação de calor e manutenção. Os custos e a complexidade logística tornam a ideia impraticável no momento. É fundamental que projetos de grande escala sejam baseados em viabilidade técnica e econômica, não em especulações ou",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "lemmy_lemmyworld_54071104",
+      "rank": 19,
+      "title": "Oficiais estaduais da Geórgia antes e depois das eleições de meio de mandato de 2026",
+      "label": "Mudança de oficiais estaduais na Geórgia",
+      "context": "O título compara os oficiais estaduais da Geórgia antes e depois das eleições de meio de mandato de 2026. A mudança reflete uma alteração na composição política e demográfica dos cargos estaduais.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54071104",
+      "createdAt": "2026-11-06T17:34:15.003345+00:00",
+      "rawScore": 0.3223567369291055,
+      "relevanceScore": 0.3223567369291055,
+      "suggestedRadius": 70.07,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54071104_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54071104_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "Before and after the 2026 midterms: Georgia's statewide officers",
+          "url": "https://lemmy.world/post/54071104",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Geórgia está finalmente mostrando a cara do progresso! Ver mais diversidade nesses cargos é um sinal de que o estado está evoluindo e deixando para trás o passado conservador. É a prova de que a representatividade importa e que a mudança é possível.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa 'onda azul' e 'onda negra' que vocês tanto comemoram é só mais um ataque aos valores tradicionais. Estão trocando competência por diversidade forçada, e o resultado será um estado governado por gente que não entende a nossa cultura. É o fim da Geórgia que conhecemos.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Essa mudança de rostos nos cargos estaduais é interessante. Será que essa nova configuração vai trazer resultados práticos para os cidadãos ou é só mais uma troca de poder com discursos bonitos? O tempo dirá se essa renovação realmente significa avanço.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "masto_mastodonsocial_117571807094765942",
+      "rank": 20,
+      "title": "Eleitores fizeram sua parte. Agora o partido tem que fazer a dele. Se houve uma forma de matar o ímpeto Democrata, seria permitir que Schumer voltasse a uma pos",
+      "label": "Democratas: Liderança e rumo pós-eleição",
+      "context": "Após vitórias eleitorais, surge o debate sobre a permanência de Chuck Schumer como líder Democrata no Senado. Críticos apontam falhas passadas e questionam sua capacidade de impulsionar a agenda do partido.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://mastodon.social/@QasimRashid/117571807094765942",
+      "createdAt": "2026-11-06T22:16:44.162000+00:00",
+      "rawScore": 0.31745339610740386,
+      "relevanceScore": 0.31745339610740386,
+      "suggestedRadius": 69.81,
+      "imageUrl": "assets/images/masto_mastodonsocial_117571807094765942_uns.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_117571807094765942_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "The voters did their part. Now the party has to do its part. If ever there was a way to kill Democratic momentum, it would be to allow Schumer back into the powerful position that enabled Trump to return to the White House with a Senate Majority. — Schumer’s failures are well documented, and any ins",
+          "url": "https://mastodon.social/@QasimRashid/117571807094765942",
+          "subreddit": "masto_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Esse Schumer é um desastre! Deixaram ele voltar pra essa posição de poder depois de tudo que ele fez? O Trump voltou por causa dele, e agora querem que ele lidere de novo? É o fim da picada, o partido se afundando sozinho com essa gente.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O Schumer é a personificação do status quo que impede qualquer avanço real. Ele e a turma dele, que recebem grana de lobistas como a AIPAC, só servem pra manter o sistema podre. Precisamos de gente nova, que lute contra a opressão, não que se acomode.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A liderança de Schumer no Senado é crucial para a coesão do partido, mas suas falhas passadas são inegáveis. Se ele for mantido, é fundamental que demonstre uma nova estratégia e garanta que a maioria não seja desperdiçada.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "lemmy_lemmyworld_54066529",
+      "rank": 21,
+      "title": "É hora de se aposentar?",
+      "label": "Comparação política e envelhecimento",
+      "context": "Uma imagem compara a aparência de duas figuras políticas, com comentários comparando uma delas ao senador Strom Thurmond, conhecido por sua longa carreira e posições segregacionistas. A discussão gira em torno da idade avançada de políticos e seu impacto na representação.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54066529",
+      "createdAt": "2026-11-06T15:09:48.109845+00:00",
+      "rawScore": 0.31229908091530345,
+      "relevanceScore": 0.31229908091530345,
+      "suggestedRadius": 69.53,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54066529_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54066529_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "Probably Time",
+          "url": "https://lemmy.world/post/54066529",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A idade não deveria ser um impeditivo para servir. Strom Thurmond provou que a experiência conta, e quem critica a idade dele só mostra que não entende de política de verdade. O que importa é o que o político defende, não quantos anos ele tem.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "É um absurdo um político com 100 anos ainda estar no poder, como o Strom Thurmond. Isso só mostra como o sistema está falido e permite que figuras ultrapassadas e racistas permaneçam influenciando leis. Precisamos de limites de idade URGENTE!",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Comparar a aparência de políticos com figuras históricas racistas só serve para desviar o foco. A questão real é se a idade afeta a capacidade de governar ou se é só uma desculpa para atacar quem tem visões diferentes.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "masto_mastodonsocial_117571979229860442",
+      "rank": 22,
+      "title": "Walmart é o maior empregador de adultos que dependem de auxílio alimentar",
+      "label": "Walmart e auxílio alimentar nos EUA",
+      "context": "O Walmart é a maior empresa empregadora de adultos que dependem do SNAP (programa de auxílio alimentar do governo americano). A situação levanta questionamentos sobre a sustentabilidade de modelos de negócio que exigem subsídios estatais para a subsistência de seus funcionários.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://mastodon.social/@zer0billionaires/117571979229860442",
+      "createdAt": "2026-11-06T23:00:30.733000+00:00",
+      "rawScore": 0.30334679448700347,
+      "relevanceScore": 0.30334679448700347,
+      "suggestedRadius": 69.05,
+      "imageUrl": "assets/images/masto_mastodonsocial_117571979229860442_reddit.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_117571979229860442_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "Walmart is the largest employer of working adults relying on SNAP. — Source: https://www.gao.gov/products/gao-26-108703 — #Zer0Billionaires #TaxTheRich #socialsciences #poverty #USPolitics #politics",
+          "url": "https://mastodon.social/@zer0billionaires/117571979229860442",
+          "subreddit": "masto_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Essa empresa gigante explorando o sistema pra pagar mal é um absurdo! Se não consegue pagar um salário digno, que feche as portas e deixe o mercado funcionar de verdade, sem mamata estatal.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O Walmart lucra bilhões enquanto seus funcionários precisam de comida do governo. Isso é a prova de que o capitalismo predatório só beneficia os donos, explorando a classe trabalhadora até o osso.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Empresas que dependem de auxílio governamental para complementar salários de seus funcionários deveriam ser taxadas para cobrir esses custos. É preciso garantir que o modelo de negócio seja autossustentável.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "lemmy_lemmyworld_54079054",
+      "rank": 23,
+      "title": "Peço novamente que você faça pizza em casa.",
+      "label": "Pizza caseira vs. delivery",
+      "context": "Um usuário do Reddit postou um pedido para que as pessoas façam pizza em casa. Os comentários mostram um forte engajamento com a ideia, com muitos compartilhando suas próprias experiências e dicas para fazer pizza caseira. A discussão gira em torno de custo, sabor e a satisfação de preparar a própria comida.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54079054",
+      "createdAt": "2026-11-06T21:41:24.098344+00:00",
+      "rawScore": 0.2879931747776288,
+      "relevanceScore": 0.2879931747776288,
+      "suggestedRadius": 68.2,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54079054_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54079054_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "I'm once again asking you to make pizza at home.",
+          "url": "https://lemmy.world/post/54079054",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Fazer pizza em casa é muito mais gostoso e barato! Com um bom forno e ingredientes frescos, o resultado final supera qualquer delivery. Vale a pena o esforço para ter uma refeição personalizada e deliciosa.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Quem tem tempo pra isso? Pedir uma pizza é rápido, prático e salva a noite quando a gente tá cansado. Gastar horas na cozinha pra fazer uma massa que nem sempre dá certo não compensa.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A pizza caseira pode ser incrível, mas o custo de equipamentos como pedra refratária ou até um forno próprio pode ser alto. Pra quem mora sozinho ou tem pouco espaço, o delivery ainda é a opção mais viável.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "bsky_3mzotrit64s2d",
+      "rank": 24,
+      "title": "Georgia O'Keeffe, Folhas Roxas (1922)",
+      "label": "Arte de Georgia O'Keeffe em destaque",
+      "context": "A obra \"Folhas Roxas\" de 1922, da artista Georgia O'Keeffe, foi compartilhada em uma rede social. A artista é conhecida por suas pinturas de flores e paisagens americanas.",
+      "source": "bluesky",
+      "subreddit": "bsky_global",
+      "permalink": "https://bsky.app/profile/womensartbluesky.bsky.social/post/3mzotrit64s2d",
+      "createdAt": "2026-11-07T02:24:52.973000+00:00",
+      "rawScore": 0.2878577668197056,
+      "relevanceScore": 0.2878577668197056,
+      "suggestedRadius": 68.19,
+      "imageUrl": "assets/images/bsky_3mzotrit64s2d_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzotrit64s2d_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "Georgia O'Keeffe, Purple Leaves (1922) #WomensArt #Autumn",
+          "url": "https://bsky.app/profile/womensartbluesky.bsky.social/post/3mzotrit64s2d",
+          "subreddit": "bsky_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A gente reconhece a arte da O'Keeffe na hora! Que obra mais linda e cheia de vida, dá pra sentir a textura das folhas. Um espetáculo!",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa pintura é maravilhosa, mas fico pensando em como a arte dela é tão subestimada. Deveria estar em todos os museus do mundo, não só em coleções particulares.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Essa \"Folhas Roxas\" é um clássico, mas confesso que prefiro as flores gigantes dela. Cada fase da O'Keeffe tem seu encanto, né?",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "masto_mastodonsocial_117572289631410410",
+      "rank": 25,
+      "title": "Nave Hinode captura trânsito de Vênus em 2012 com atmosfera visível",
+      "label": "Espaço: Trânsito de Vênus em imagem",
+      "context": "A nave espacial Hinode capturou imagens do planeta Vênus passando em frente ao Sol em 2012. A atmosfera de Vênus pôde ser vista como uma fina borda brilhante na imagem. A foto é uma colaboração entre JAXA, NASA e Lockheed Martin.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://mastodon.social/@wonderofscience/117572289631410410",
+      "createdAt": "2026-11-07T00:19:27.088000+00:00",
+      "rawScore": 0.2830019185956515,
+      "relevanceScore": 0.2830019185956515,
+      "suggestedRadius": 67.92,
+      "imageUrl": "assets/images/masto_mastodonsocial_117572289631410410_reddit.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_117572289631410410_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "The planet Venus passing across the face of the Sun captured by the Hinode spacecraft during a transit in 2012. — Venus's atmosphere is visible as a thin, glowing border in the upper left. — Credit: JAXA/NASA/Lockheed Martin",
+          "url": "https://mastodon.social/@wonderofscience/117572289631410410",
+          "subreddit": "masto_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Essa imagem da Hinode mostra a grandiosidade do nosso sistema solar, um espetáculo que só a ciência de ponta, com investimento sério, consegue nos trazer. Precisamos de mais missões assim para entender nosso lugar no universo e valorizar o que é nosso.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Enquanto gastam milhões com naves para ver Vênus, a Terra está pegando fogo e a desigualdade social só aumenta. Essa foto linda é um luxo que a maioria não pode nem sonhar em ver de perto, enquanto o planeta real precisa de atenção urgente.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A captura da atmosfera de Vênus durante o trânsito solar pela Hinode é um marco científico que expande nosso conhecimento sobre exoplanetas. Essa observação detalhada permite comparar a formação planetária e entender melhor as condições de outros mundos.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "bsky_3mzoiforl5c2n",
       "rank": 26,
-      "title": "Demon slayer",
-      "label": "Igreja · Controvérsia",
-      "context": "Uma imagem de uma igreja foi compartilhada online. A imagem gerou controvérsia devido ao seu conteúdo.",
-      "source": "lemmy",
-      "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48617607",
-      "createdAt": "2026-06-25T10:19:56.445814+00:00",
-      "rawScore": 0.22754600384385942,
-      "relevanceScore": 0.22754600384385942,
-      "suggestedRadius": 64.62,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48617607_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48617607_reddit_thumb.jpg",
+      "title": "Este fim de semana para celebrar a vitória na luta defensiva. Agora é ataque",
+      "label": "Estratégia política de ataque após defesa",
+      "context": "Um senador sugere que a estratégia política deve mudar de uma postura defensiva para uma ofensiva. A mudança de tática visa pressionar adversários e buscar novas lideranças.",
+      "source": "bluesky",
+      "subreddit": "bsky_global",
+      "permalink": "https://bsky.app/profile/adamkinzinger.substack.com/post/3mzoiforl5c2n",
+      "createdAt": "2026-11-06T23:01:23.081000+00:00",
+      "rawScore": 0.28094760292666104,
+      "relevanceScore": 0.28094760292666104,
+      "suggestedRadius": 67.8,
+      "imageUrl": "assets/images/bsky_3mzoiforl5c2n_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzoiforl5c2n_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "Demon slayer",
-          "url": "https://lemmy.world/post/48617607",
-          "subreddit": "lemmy_global"
+          "title": "Take this weekend to celebrate winning the defensive fight. Now it’s offense",
+          "url": "https://bsky.app/profile/adamkinzinger.substack.com/post/3mzoiforl5c2n",
+          "subreddit": "bsky_global"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Essa igreja parece ser um lugar de encontro para pessoas com ideias mais liberais. Eu apoio a liberdade de expressão!",
+          "text": "O governo precisa parar de se defender e partir para o ataque! Chega de ser refém de quem só quer atrapalhar. É hora de mostrar quem manda e quem tem as melhores propostas para o país, sem medo de enfrentar os opositores.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa igreja é um antro de heresia e iniquidade! Como alguém pode defender um lugar como esse?",
+          "text": "Essa conversa de 'ataque' é a mesma desculpa para justificar a agressividade e a falta de diálogo. Precisamos de líderes que busquem soluções, não que criem mais conflito. Essa tática só afasta o eleitorado e prejudica a democracia.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Eu não entendo por que as pessoas estão tão agitadas com essa imagem. É apenas uma igreja, certo? Talvez seja hora de se acalmar e conversar sobre o que realmente importa.",
+          "text": "Mudar de defesa para ataque pode ser arriscado. Será que a nova estratégia vai realmente trazer resultados ou só vai inflamar ainda mais os ânimos? É preciso pensar bem antes de sair atirando para todo lado.",
           "source": "reddit",
           "votes": 0
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "lemmy_lemmyworld_48614230",
+      "id": "bsky_3mzovck4x5d2c",
       "rank": 27,
-      "title": "Você acha que esse cara gosta de você ou está apenas sendo simpático?",
-      "label": "Relacionamento · Interpretação de sinais",
-      "context": "Um homem fez um encontro surpresa com uma jovem, pagando por tudo, incluindo ingressos, lanches e livros. Ele pode estar tentando impressioná-la ou apenas sendo gentil. A questão é se ele gosta dela ou não.",
-      "source": "lemmy",
-      "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48614230",
-      "createdAt": "2026-06-25T07:47:58.275524+00:00",
-      "rawScore": 0.2273909714599581,
-      "relevanceScore": 0.2273909714599581,
-      "suggestedRadius": 64.61,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48614230_uns.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48614230_uns_thumb.jpg",
+      "title": "Prefeito de Houston limita cooperação da polícia com ICE após vitória democrata",
+      "label": "Prefeito limita cooperação policial com ICE",
+      "context": "O prefeito de Houston, Texas, anunciou restrições à cooperação entre a polícia local e o Serviço de Imigração e Alfândega (ICE). A decisão veio após a vitória de um candidato democrata na eleição municipal.",
+      "source": "bluesky",
+      "subreddit": "bsky_global",
+      "permalink": "https://bsky.app/profile/english.lemonde.fr/post/3mzovck4x5d2c",
+      "createdAt": "2026-11-07T02:52:17.078000+00:00",
+      "rawScore": 0.27047089688318043,
+      "relevanceScore": 0.27047089688318043,
+      "suggestedRadius": 67.2,
+      "imageUrl": "assets/images/bsky_3mzovck4x5d2c_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzovck4x5d2c_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "Do you think this guy likes me, or is he just being nice?",
-          "url": "https://lemmy.world/post/48614230",
-          "subreddit": "lemmy_global"
+          "title": "Houston mayor limits ICE cooperation by police after Democratic victory",
+          "url": "https://bsky.app/profile/english.lemonde.fr/post/3mzovck4x5d2c",
+          "subreddit": "bsky_global"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Ele claramente gosta de você! O cara está jogando tudo para impressioná-la, é óbvio. A questão é se você está interessada também.",
+          "text": "Finalmente um prefeito que entende que a polícia não é para caçar imigrantes! Essa parceria com o ICE só trazia medo e desconfiança para a comunidade. Agora a cidade pode focar em crimes reais, não em quem só quer trabalhar.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Esse cara está sendo super estranho e invasivo. Ele está tentando comprar seu afeto com presentes e dinheiro? Fique de olho, isso pode ser um sinal de manipulação.",
+          "text": "Que absurdo! O prefeito está desrespeitando a lei e colocando a segurança de todos em risco ao proteger criminosos. A cooperação com o ICE é essencial para manter a ordem e expulsar quem não deveria estar aqui. Isso é um ataque à soberania.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "É complicado. Ele pode estar genuinamente interessado e apenas não sabe como expressar isso de forma normal. Mas também é possível que ele esteja tentando controlar a situação com dinheiro. É importante conversar com ele e entender as intenções dele.",
+          "text": "Essa decisão do prefeito de Houston abre um precedente complicado. Por um lado, pode melhorar a relação da polícia com comunidades imigrantes. Por outro, pode dificultar a aplicação das leis federais de imigração.",
           "source": "reddit",
           "votes": 0
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "lemmy_lemmyworld_48619521",
+      "id": "lemmy_lemmyworld_54062610",
       "rank": 28,
-      "title": "Yay",
-      "label": "Experiências com Frutas",
-      "context": "Um usuário compartilhou experiências positivas com framboesas. Ele mencionou que as melhores experiências que teve com framboesas foram em seu quintal ou em trilhas de caminhada.",
+      "title": "É verdade. Somos tão sem graça!",
+      "label": "Geração Z usa celular para tudo",
+      "context": "Um comentário viral sugere que a Geração Z é 'sem graça' por usar smartphones para tarefas complexas, como comprar passagens aéreas. A discussão se aprofunda sobre a adequação de telas pequenas e interfaces móveis para atividades que exigem pesquisa e comparação.",
       "source": "lemmy",
       "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48619521",
-      "createdAt": "2026-06-25T12:07:34.358143+00:00",
-      "rawScore": 0.2125200543108285,
-      "relevanceScore": 0.2125200543108285,
-      "suggestedRadius": 63.66,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48619521_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48619521_reddit_thumb.jpg",
+      "permalink": "https://lemmy.world/post/54062610",
+      "createdAt": "2026-11-06T13:24:18.192272+00:00",
+      "rawScore": 0.2501806545540524,
+      "relevanceScore": 0.2501806545540524,
+      "suggestedRadius": 66.01,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54062610_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54062610_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "Yay.",
-          "url": "https://lemmy.world/post/48619521",
+          "title": "\"It's true. We're so lame!\"",
+          "url": "https://lemmy.world/post/54062610",
           "subreddit": "lemmy_global"
         }
       ],
@@ -1386,48 +1390,51 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Eu amo framboesas! Já colhi várias em meu quintal e são deliciosas. Não preciso mais comprar no supermercado.",
+          "text": "Essa molecada não tem mais o que fazer, só fica no celular! Antigamente a gente usava computador pra pesquisar, pra planejar. Agora querem fazer tudo no aparelhinho, é um absurdo. Falta de foco e de responsabilidade, isso sim!",
           "source": "reddit",
-          "votes": 0
+          "votes": 0,
+          "ideology": "far_right"
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Framboesas são muito perecíveis e difíceis de armazenar. Eu sempre acabo perdendo algumas por causa do mofo. É um desperdício de dinheiro.",
+          "text": "Culpar a Geração Z é fácil, mas quem criou essa dependência tecnológica e limitou o acesso a computadores decentes? As empresas querem que a gente use o celular pra vender mais, pra coletar dados. É tudo sobre controle e lucro, não sobre conveniência.",
           "source": "reddit",
-          "votes": 0
+          "votes": 0,
+          "ideology": "far_left"
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Eu compro framboesas congeladas e elas são perfeitas para smoothies e bolos. É uma ótima opção para quem não tem espaço para cultivar suas próprias.",
+          "text": "A questão não é a geração, mas a funcionalidade. Telas menores e sistemas operacionais móveis ainda têm limitações para tarefas complexas que exigem multitarefa e entrada de dados precisa. A tecnologia evolui, mas a interface humana ainda é um fator limitante.",
           "source": "reddit",
-          "votes": 0
+          "votes": 0,
+          "ideology": "liberal"
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "lemmy_lemmyworld_48613760",
+      "id": "lemmy_lemmyworld_54038320",
       "rank": 29,
-      "title": "Skeletor laying down, out and about FYI",
-      "label": "Humor · Fisiologia Humana",
-      "context": "Um usuário do Reddit compartilhou uma imagem de Skeletor, um personagem de He-Man, deitado e aparentemente fazendo um barulho com o bumbum. Isso gerou uma discussão sobre a capacidade do corpo humano de produzir diferentes estados da matéria, como gases, líquidos e sólidos.",
+      "title": "Juiz autoriza processo contra série \"The Pitt\" por semelhança com \"ER\"",
+      "label": "Processo de direitos autorais de série médica",
+      "context": "Um juiz determinou que o processo movido pela viúva de Michael Crichton contra a série \"The Pitt\" pode prosseguir. A alegação é que \"The Pitt\" seria uma cópia da série \"ER\", criada por Crichton. O tribunal citou semelhanças como o cenário de pronto-socorro, ritmo acelerado, jargões médicos e jovens médicos em treinamento.",
       "source": "lemmy",
       "subreddit": "lemmy_global",
-      "permalink": "https://lemmy.world/post/48613760",
-      "createdAt": "2026-06-25T07:27:01.917789+00:00",
-      "rawScore": 0.1997729963214676,
-      "relevanceScore": 0.1997729963214676,
-      "suggestedRadius": 62.82,
-      "imageUrl": "assets/images/lemmy_lemmyworld_48613760_reddit.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyworld_48613760_reddit_thumb.jpg",
+      "permalink": "https://lemmy.world/post/54038320",
+      "createdAt": "2026-11-05T21:57:25.727892+00:00",
+      "rawScore": 0.24005473859328247,
+      "relevanceScore": 0.24005473859328247,
+      "suggestedRadius": 65.4,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54038320_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54038320_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "Skeletor laying down, out and about FYI",
-          "url": "https://lemmy.world/post/48613760",
+          "title": "The Pitt and ER are similar enough for lawsuit to proceed, judge rules",
+          "url": "https://lemmy.world/post/54038320",
           "subreddit": "lemmy_global"
         }
       ],
@@ -1435,48 +1442,509 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Há quem defenda essa medida como necessária.",
+          "text": "Essa juíza tá maluca! Querem acabar com a criatividade brasileira com essa palhaçada de direitos autorais. Se a série é boa e parece com outra, qual o problema? É cada um por si, quem não gosta que não assista. Essa viúva rica só quer mais dinheiro.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "É óbvio que a viúva tá processando! A indústria do entretenimento é dominada por quem tem dinheiro e poder. Eles criam algo novo, mas se parecer um pouco com o que já deu certo, já querem esmagar o pequeno produtor. Isso é a ganância capitalista!",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A decisão do juiz apenas permite que o caso seja julgado, não que a série seja culpada. É preciso analisar se as semelhanças são suficientes para configurar plágio ou se são apenas características comuns a dramas médicos. Cada obra tem direito à sua originalidade.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "masto_mastodonsocial_117572713311174242",
+      "rank": 30,
+      "title": "Com tempo e liberdade, florestas retomam o que tiramos delas",
+      "label": "Natureza recupera áreas desmatadas",
+      "context": "Florestas têm a capacidade de se regenerar e ocupar espaços que foram desmatados ou alterados pela ação humana. Esse processo natural demonstra a resiliência dos ecossistemas. Se os humanos desaparecessem, a Terra se equilibraria em poucos anos e a vida voltaria a florescer.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://universeodon.com/@Edmonds_Scanner/117572713160601164",
+      "createdAt": "2026-11-07T02:07:09+00:00",
+      "rawScore": 0.2332506688610058,
+      "relevanceScore": 0.2332506688610058,
+      "suggestedRadius": 64.98,
+      "imageUrl": "assets/images/masto_mastodonsocial_117572713311174242_reddit.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_117572713311174242_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "Given time and freedom, forests will reclaim what we have taken from them. #Forest",
+          "url": "https://universeodon.com/@Edmonds_Scanner/117572713160601164",
+          "subreddit": "masto_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A natureza é muito mais forte que a gente imagina. Se deixarem ela quieta, ela se recupera rapidinho. A gente que se acha o dono do mundo, mas somos só uma partezinha.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Outros criticam e veem riscos ou consequências negativas.",
+          "text": "Essa ideia de que a floresta se recupera sozinha é perigosa. Ignora o tempo que leva e o sofrimento de quem perde tudo com o desmatamento. A gente precisa agir, não só esperar.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Também há quem prefira esperar mais informações antes de concluir.",
+          "text": "É fascinante pensar que a Terra se cura sozinha, mas a gente não pode usar isso de desculpa pra continuar destruindo. O equilíbrio é bom, mas a que custo?",
           "source": "reddit",
           "votes": 0
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "hn_48631366",
-      "rank": 30,
-      "title": "Dostoyevsky não é difícil",
-      "label": "Literatura · Clássicos",
-      "context": "O autor Dostoyevsky é considerado por muitos um escritor difícil de ler. No entanto, alguns leitores acham que suas obras são acessíveis e envolventes. A tradução de suas obras pode influenciar a experiência de leitura.",
+      "id": "masto_mastodonsocial_117572342676506613",
+      "rank": 31,
+      "title": "Ex-presidente de Comitê Financeiro diz que indústria de cripto \"teve oportunidade de legislar\"",
+      "label": "Cripto: Oportunidade de Legislar Perdida",
+      "context": "Patrick McHenry, ex-presidente do Comitê de Serviços Financeiros da Câmara dos EUA, afirmou que a indústria de criptomoedas teve a chance de influenciar a legislação. Ele sugere que o Congresso falhou em seu dever de criar leis para o setor.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://hachyderm.io/@molly0xfff/117572342245574640",
+      "createdAt": "2026-11-07T00:32:49+00:00",
+      "rawScore": 0.2293876007433111,
+      "relevanceScore": 0.2293876007433111,
+      "suggestedRadius": 64.74,
+      "imageUrl": "assets/images/masto_mastodonsocial_117572342676506613_reddit.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_117572342676506613_reddit_thumb.jpg",
+      "category": "economia",
+      "region": "global",
+      "sources": [
+        {
+          "title": "Former House Financial Services Chair Patrick McHenry says the crypto industry \"had an opportunity to legislate\". Could've sworn that was Congress's job. — #USpolitics #USpol #crypto #cryptocurrency",
+          "url": "https://hachyderm.io/@molly0xfff/117572342245574640",
+          "subreddit": "masto_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Esse McHenry tá certo! O Congresso devia ter botado ordem nessa bagunça de cripto antes. Agora é tarde demais, essa gente só quer saber de dar golpe e lavar dinheiro. Precisamos de leis duras pra proteger o cidadão de bem!",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A culpa não é da indústria, é do sistema! O Congresso só legisla a favor dos ricos e poderosos. Essa história de \"oportunidade perdida\" é desculpa pra justificar a inércia e o lobby das grandes corporações que querem controlar tudo.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A falta de clareza regulatória é um problema sério. A indústria de cripto deveria ter buscado ativamente a criação de regras claras, e o Congresso deveria ter cumprido seu papel de fiscalizar e legislar, garantindo segurança jurídica para todos.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "lemmy_lemmyworld_54075224",
+      "rank": 32,
+      "title": "Mantenha-se fresco, sacos de queijo...✌🏻",
+      "label": "Narcisismo e Terapia",
+      "context": "Uma imagem mostra uma grande quantidade de queijo embalado, com a legenda \"Mantenha-se fresco, sacos de queijo...\". Os comentários discutem a possibilidade de pessoas com transtornos de personalidade, como narcisismo e sociopatia, buscarem terapia. A discussão se aprofunda nas dificuldades e na raridade de tais indivíduos procurarem ou se beneficiarem de tratamento psicológico.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54075224",
+      "createdAt": "2026-11-06T19:41:17.685381+00:00",
+      "rawScore": 0.22556085637005907,
+      "relevanceScore": 0.22556085637005907,
+      "suggestedRadius": 64.5,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54075224_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54075224_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "Stay fresh, cheese bags...✌🏻",
+          "url": "https://lemmy.world/post/54075224",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Que baita avanço ver alguém com traços narcisistas buscando terapia! Geralmente, eles acham que são perfeitos e não precisam de ajuda. É um passo enorme pra quem tem dificuldade em reconhecer problemas.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa história de sociopata/narcisista em terapia é piada. Na prática, eles manipulam o terapeuta e não mudam nada. É só mais uma fachada pra enganar os outros e se fazer de vítima.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A gente fica impressionado quando alguém com esses transtornos vai pra terapia, mas a real é que a maioria não vai ou não leva a sério. Se essa mãe tá tentando, já é mais que muitos conseguem.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "lemmy_lemmyworld_54065173",
+      "rank": 33,
+      "title": "Sanders pede que Democratas aprovem 'Medicare para Todos'",
+      "label": "Proposta de saúde universal nos EUA",
+      "context": "O senador Bernie Sanders pressiona os Democratas a aprovarem o plano 'Medicare para Todos', que visa expandir o acesso à saúde. A proposta busca substituir o sistema de seguros privados por um plano de saúde público, similar ao Medicare.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54065173",
+      "createdAt": "2026-11-06T14:39:40.780964+00:00",
+      "rawScore": 0.22304814843037554,
+      "relevanceScore": 0.22304814843037554,
+      "suggestedRadius": 64.34,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54065173_uns.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54065173_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "Sanders calls for Democrats to pass ‘Medicare for All’",
+          "url": "https://lemmy.world/post/54065173",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A dívida médica tá fora de controle nesse país! Precisamos urgentemente de um sistema público que garanta saúde pra todo mundo, como em qualquer país desenvolvido. Chega de gente morrendo por não poder pagar!",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Isso é ridículo! Os CEOs adoram o sistema atual porque ele dá controle e mantém os trabalhadores na rédea. Eles não vão abrir mão disso fácil, é mais que dinheiro, é poder sobre a gente.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Os Democratas deveriam aprovar isso logo e usar a oposição Republicana como plataforma de campanha. Se não der pra ter tudo, que pelo menos votem e mostrem quem está bloqueando o progresso.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "lemmy_lemmyworld_54086641",
+      "rank": 34,
+      "title": "Professor no Alabama é proibido de dizer \"Golfo do México\"",
+      "label": "Proibição de termos geográficos em Alabama",
+      "context": "Um professor no Alabama relatou ter sido proibido de usar a expressão \"Golfo do México\" em suas aulas. A proibição visa evitar o uso de termos considerados politicamente incorretos pelo estado.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54086641",
+      "createdAt": "2026-11-07T02:22:35.970870+00:00",
+      "rawScore": 0.20546232651122742,
+      "relevanceScore": 0.20546232651122742,
+      "suggestedRadius": 63.2,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54086641_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54086641_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "I’m a professor in Alabama. We’ve been banned from saying “Gulf of Mexico.” No, seriously!",
+          "url": "https://lemmy.world/post/54086641",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo do Alabama está certo em proibir termos que ofendem. Se o nome oficial mudou, a gente tem que seguir. Não é questão de opinião, é lei. Quem não gosta, que se mude.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Que ridículo! Proibir o nome de um lugar é censura pura. Estão querendo reescrever a geografia e a história pra agradar uma minoria barulhenta. Isso é coisa de regime autoritário.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Essa proibição de nomear o Golfo do México parece mais uma tentativa de controle do que qualquer outra coisa. No fim, todo mundo vai continuar chamando do que quiser, e o estado vai gastar tempo e dinheiro com isso.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "lemmy_lemmyworld_54072821",
+      "rank": 35,
+      "title": "Adolescente sequestrada é resgatada após pedir ajuda no Among Us",
+      "label": "Resgate de adolescente sequestrada via jogo online",
+      "context": "Uma adolescente de 17 anos, sequestrada por mais de 500 dias, foi resgatada após conseguir usar o chat do jogo Among Us para contatar outro jogador. A vítima utilizou o Wi-Fi do aparelho para acessar o jogo e pedir ajuda, o que levou ao seu resgate.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54072821",
+      "createdAt": "2026-11-06T18:22:24.297179+00:00",
+      "rawScore": 0.20424876868113634,
+      "relevanceScore": 0.20424876868113634,
+      "suggestedRadius": 63.12,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54072821_uns.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54072821_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "Kidnapped Teenager Rescued After Reaching Out For Help In Among Us - The 17-year-old victim was rescued after contacting a player they met in Among Us, over 500 days after they were kidnapped",
+          "url": "https://lemmy.world/post/54072821",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Essa moleca é uma heroína! Mostra que a esperança tá em todo lugar, até num joguinho. A polícia devia aprender com essa garota, que usou a inteligência pra escapar. Precisamos de mais gente assim, que não se entrega e luta contra o sistema podre.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Que absurdo a gente ter que depender de um jogo pra se salvar! Isso só mostra o quão falha a segurança pública é, deixando os jovens vulneráveis. O sistema capitalista cria essas situações de abandono e exploração, onde a única saída é a sorte.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "É impressionante a resiliência da vítima em usar os recursos disponíveis para pedir ajuda. Esse caso reforça a importância de garantir acesso à comunicação segura e a conscientização sobre como agir em situações de perigo, mesmo em ambientes online.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "lemmy_lemmyworld_54067416",
+      "rank": 36,
+      "title": "Democratas receberam um mandato anti-guerra e a oportunidade de aplicá-lo",
+      "label": "Democratas e o mandato anti-guerra",
+      "context": "O título sugere que os democratas receberam um mandato popular para acabar com guerras e têm a chance de implementar essa política. Isso ocorre em um contexto de debates sobre o papel dos EUA em conflitos internacionais e a influência de doadores na política.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54067416",
+      "createdAt": "2026-11-06T15:42:01.339064+00:00",
+      "rawScore": 0.20094262242356004,
+      "relevanceScore": 0.20094262242356004,
+      "suggestedRadius": 62.9,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54067416_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54067416_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "Democrats Have Been Handed an Antiwar Mandate — and the Opportunity to Enact It",
+          "url": "https://lemmy.world/post/54067416",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Os democratas sempre prometem paz, mas quando chegam ao poder, só sabem aumentar os conflitos e gastar nosso dinheiro em guerras. Essa história de 'mandato anti-guerra' é só mais uma enganação para ganhar voto. Eles nunca vão mudar, só querem o poder.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa é a velha história de sempre: o povo dá um recado claro contra a guerra, mas os democratas, controlados pelos doadores e pelo complexo militar-industrial, ignoram tudo. Vão usar esse 'mandato' para fazer o oposto, como sempre fizeram, e o povo que se dane.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A oportunidade de aplicar um mandato anti-guerra exige que os democratas demonstrem compromisso com a política externa pacífica, resistindo à pressão de grupos de interesse. É crucial que as ações futuras reflitam as promessas feitas aos eleitores.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "lemmy_lemmyworld_54063799",
+      "rank": 37,
+      "title": "Sugestões de substitutos para o Proton",
+      "label": "Alternativas de serviços de e-mail e VPN",
+      "context": "O usuário busca sugestões para substituir o serviço Proton, mencionando preocupações com políticas e usabilidade. Outros usuários recomendam alternativas como Fastmail, Tuta e Infomaniak, discutindo suas próprias experiências e ressalvas.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54063799",
+      "createdAt": "2026-11-06T14:01:28.793226+00:00",
+      "rawScore": 0.19609749416131092,
+      "relevanceScore": 0.19609749416131092,
+      "suggestedRadius": 62.57,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54063799_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54063799_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "Proton replacement, your best suggestions!",
+          "url": "https://lemmy.world/post/54063799",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Fastmail é uma ótima opção, com interface limpa e foco em privacidade. Já uso há um tempo e nunca tive problemas, além de ser mais acessível que o Proton. Vale a pena considerar para quem busca algo similar.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Tuta é uma furada! Eles dizem que não usam IA, mas aplicam isso aos próprios devs? Que piada! Se for pra ter essa hipocrisia, melhor ficar no Proton mesmo, que pelo menos é transparente sobre as limitações.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Infomaniak parece promissor, mas a Austrália tem leis de privacidade bem questionáveis. Fico com um pé atrás sobre qualquer serviço hospedado lá, mesmo que pareça bom na superfície. É preciso pesquisar mais.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "lemmy_lemmyworld_54080658",
+      "rank": 38,
+      "title": "UE rejeita acordo de segurança de Trump com Rússia e Europa",
+      "label": "UE recusa acordo de segurança de Trump",
+      "context": "Líderes europeus rejeitaram a proposta de Donald Trump de um acordo de segurança com a Rússia, que abrangeria toda a Europa. A iniciativa foi vista como uma tentativa de remodelar a arquitetura de segurança do continente sem o envolvimento dos países afetados.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54080658",
+      "createdAt": "2026-11-06T22:41:38.891956+00:00",
+      "rawScore": 0.19579004042845152,
+      "relevanceScore": 0.19579004042845152,
+      "suggestedRadius": 62.55,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54080658_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54080658_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "EU rejects Trump’s 'big beautiful' security deal with Russia and 'all of Europe'",
+          "url": "https://lemmy.world/post/54080658",
+          "subreddit": "lemmy_global"
+        },
+        {
+          "title": "EU rejects Trump’s 'big beautiful' security deal with Russia",
+          "url": "https://www.reddit.com/r/worldnews/comments/1xpnpak/eu_rejects_trumps_big_beautiful_security_deal/",
+          "subreddit": "worldnews"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Europa tá certa em não aceitar essa conversa fiada. Trump quer paz e ordem, mas a esquerda europeia só sabe criar problema e se vender pra Rússia. Esse acordo seria bom pro continente, mas eles preferem ficar de joelhos pra quem quer destruir tudo.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_right"
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Esse Trump é um fantoche do Putin querendo vender a Ucrânia e a Europa pra Rússia. É o capitalismo em sua pior forma, usando a guerra pra lucrar e oprimir. A UE fez bem em barrar essa aberração, não podemos aceitar acordos que nos jogam pra trás.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "far_left"
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A UE tem o direito de defender seus próprios interesses e sua soberania. Um acordo que ignora os países europeus na definição da segurança do continente é inaceitável. É preciso respeitar os processos institucionais e o direito internacional.",
+          "source": "reddit",
+          "votes": 0,
+          "ideology": "liberal"
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "hn_50388001",
+      "rank": 39,
+      "title": "FAA dos EUA diz que vai eliminar disquetes do controle de tráfego aéreo até 2028",
+      "label": "Controle de tráfego aéreo abandona disquetes",
+      "context": "A Administração Federal de Aviação (FAA) dos EUA anunciou que eliminará o uso de disquetes em seus sistemas de controle de tráfego aéreo até 2028. Essa medida visa modernizar a infraestrutura tecnológica crítica para a segurança da aviação.",
       "source": "hackernews",
       "subreddit": "hackernews",
-      "permalink": "https://news.ycombinator.com/item?id=48631366",
-      "createdAt": "2026-06-22T15:15:38+00:00",
-      "rawScore": 0.19554259238013533,
-      "relevanceScore": 0.19554259238013533,
-      "suggestedRadius": 62.53,
-      "imageUrl": "assets/images/hn_48631366_uns.jpg",
-      "imageThumbUrl": "assets/images/hn_48631366_uns_thumb.jpg",
+      "permalink": "https://news.ycombinator.com/item?id=50388001",
+      "createdAt": "2026-11-06T04:00:28+00:00",
+      "rawScore": 0.19246192011509033,
+      "relevanceScore": 0.19246192011509033,
+      "suggestedRadius": 62.32,
+      "imageUrl": "assets/images/hn_50388001_uns.jpg",
+      "imageThumbUrl": "assets/images/hn_50388001_uns_thumb.jpg",
       "category": "tech",
       "region": "global",
       "sources": [
         {
-          "title": "Dostoyevsky isn't difficult",
-          "url": "https://news.ycombinator.com/item?id=48631366",
+          "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+          "url": "https://news.ycombinator.com/item?id=50388001",
           "subreddit": "hackernews"
         }
       ],
@@ -1484,48 +1952,97 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Dostoyevsky é um gênio, suas obras são incrivelmente envolventes! Eu li Crime e Punishment aos 18 anos e fiquei impressionado com a forma como ele escreveu um dos maiores romances de todos os tempos.",
+          "text": "Finalmente o governo percebeu que usar disquetes em 2024 é um risco absurdo! Essa modernização é essencial para garantir a segurança e a eficiência do espaço aéreo, e é ótimo ver que a FAA está tomando medidas concretas para isso.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Eu não entendo por que as pessoas acham Dostoyevsky fácil de ler. Eu tive que tentar seis vezes para passar das primeiras 200 páginas de Guerra e Paz. É um desafio, mas não é impossível.",
+          "text": "Que ridículo! O governo leva décadas para trocar uma tecnologia obsoleta. Enquanto isso, a gente usa smartphone de última geração. Essa lentidão só mostra o descaso com a infraestrutura e a segurança.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Acho que a questão é que as traduções podem influenciar muito a experiência de leitura. Eu li Crime e Punishment em inglês e foi mais fácil do que eu esperava. Talvez as traduções mais recentes sejam mais acessíveis.",
+          "text": "A questão não é só trocar o disquete, mas o sistema inteiro. Se a nova tecnologia for tão falha quanto a antiga, não resolve nada. Precisamos de uma solução robusta e segura, não apenas uma mudança cosmética.",
           "source": "reddit",
           "votes": 0
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "masto_mastodonsocial_116811192219497196",
-      "rank": 31,
-      "title": "Lembra quando ficávamos animados quando a Apple desativava a loja para mudanças de produto?",
-      "label": "Reação à mudança de preços da Apple",
-      "context": "A Apple desativou sua loja online para realizar mudanças de produto. Isso gerou reações mistas entre os usuários, que agora enfrentam aumentos de preços em alguns produtos.",
-      "source": "mastodon",
-      "subreddit": "masto_global",
-      "permalink": "https://mastodon.social/@siracusa/116811192219497196",
-      "createdAt": "2026-06-25T14:22:22.218000+00:00",
-      "rawScore": 0.18601092040333783,
-      "relevanceScore": 0.18601092040333783,
-      "suggestedRadius": 61.88,
-      "imageUrl": "assets/images/masto_mastodonsocial_116811192219497196_uns.jpg",
-      "imageThumbUrl": "assets/images/masto_mastodonsocial_116811192219497196_uns_thumb.jpg",
+      "id": "bsky_3mznh33emkc2h",
+      "rank": 40,
+      "title": "Shelley Duvall e Ringo Starr no set de 'O Iluminado' (eles namoravam na época).",
+      "label": "Atores Shelley Duvall e Ringo Starr namoraram",
+      "context": "Uma foto de Shelley Duvall e Ringo Starr no set do filme 'O Iluminado' em 1978, com a legenda indicando que eles estavam em um relacionamento. O relacionamento ocorreu após o término de Duvall com Paul Simon e durante os anos de solteiro de Starr após o divórcio.",
+      "source": "bluesky",
+      "subreddit": "bsky_global",
+      "permalink": "https://bsky.app/profile/michaelwarburton.bsky.social/post/3mznh33emkc2h",
+      "createdAt": "2026-11-06T13:04:55.875000+00:00",
+      "rawScore": 0.1896161667702297,
+      "relevanceScore": 0.1896161667702297,
+      "suggestedRadius": 62.13,
+      "imageUrl": "assets/images/bsky_3mznh33emkc2h_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mznh33emkc2h_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "Remember when we used to be excited when Apple took the store offline for product changes?",
-          "url": "https://mastodon.social/@siracusa/116811192219497196",
+          "title": "Shelley Duvall and Ringo Starr on the set of ‘The Shining’ (they were an item at the time).",
+          "url": "https://bsky.app/profile/michaelwarburton.bsky.social/post/3mznh33emkc2h",
+          "subreddit": "bsky_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Que legal ver essa foto! Ringo Starr e Shelley Duvall juntos, que dupla improvável e interessante. Ela era linda demais e ele, um Beatle! Imagina as histórias que eles devem ter trocado.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa informação sobre Ringo e Shelley é bizarra. Ele já estava se envolvendo com Barbara Bach logo depois? E o que isso tem a ver com o filme? Parece mais fofoca sem importância.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O dado de que Shelley Duvall e Ringo Starr namoravam em 1978 é curioso, mas não muda nada na minha percepção sobre 'O Iluminado'. A atuação dela é marcante independentemente de quem ela estava saindo.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "masto_mastodonsocial_117573255775067809",
+      "rank": 41,
+      "title": "Adicione seus honorários: http://b3ta.com/addfess",
+      "label": "Compartilhamento de honorários e custos",
+      "context": "Um link convida usuários a compartilhar seus honorários e custos de serviços. A intenção é criar uma base de dados colaborativa sobre preços.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://mastodon.social/@fesshole/117573255775067809",
+      "createdAt": "2026-11-07T04:25:09.266000+00:00",
+      "rawScore": 0.187839969766623,
+      "relevanceScore": 0.187839969766623,
+      "suggestedRadius": 62.0,
+      "imageUrl": "assets/images/masto_mastodonsocial_117573255775067809_reddit.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_117573255775067809_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "Add your fess: http://b3ta.com/addfess",
+          "url": "https://mastodon.social/@fesshole/117573255775067809",
           "subreddit": "masto_global"
         }
       ],
@@ -1533,113 +2050,350 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Há quem defenda essa medida como necessária.",
+          "text": "Essa iniciativa é genial! Finalmente vamos ter uma noção real de quanto as coisas custam e quem tá cobrando a mais. Transparência total!",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Outros criticam e veem riscos ou consequências negativas.",
+          "text": "Que ideia mais sem pé nem cabeça. Cada serviço é único, não dá pra comparar preço assim. Só vai gerar confusão e briga desnecessária.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Também há quem prefira esperar mais informações antes de concluir.",
+          "text": "Sei lá, pode ser útil pra ter uma base, mas tem que ver quem vai alimentar isso e se as informações vão ser confiáveis. Muita gente mente sobre dinheiro.",
           "source": "reddit",
           "votes": 0
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "reddit_1u2quu6",
-      "rank": 32,
-      "title": "Registros que eco analizando los cielos y costa de Chile, Antofagasta",
-      "label": "Astronomia · Fenômenos Celestes",
-      "context": "Um usuário compartilhou fotos de registros de luz no céu e na costa de Antofagasta, Chile. As imagens mostram um ponto mais brilhante que chamou a atenção.",
-      "source": "reddit",
-      "subreddit": "astronomia",
-      "permalink": "https://www.reddit.com/r/astronomia/comments/1u2quu6/registros_que_echo_analizando_los_cielos_y_costa/",
-      "createdAt": "2026-06-25T16:42:01.832159+00:00",
-      "rawScore": 0.0007802676509962394,
-      "relevanceScore": 0.0007802676509962394,
-      "suggestedRadius": 37.68,
-      "imageUrl": "assets/images/reddit_1u2quu6_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1u2quu6_uns_thumb.jpg",
-      "category": "ciencia",
-      "region": "global",
-      "sources": [
-        {
-          "title": "Registros que echo analizando los cielos y costa de chile,Antofagasta .",
-          "url": "https://www.reddit.com/r/astronomia/comments/1u2quu6/registros_que_echo_analizando_los_cielos_y_costa/",
-          "subreddit": "astronomia"
-        },
-        {
-          "title": "Lo capture cuando cayó la noche acá en el norte de chile",
-          "url": "https://www.reddit.com/r/astronomia/comments/1u0l0i3/lo_capture_cuando_cayó_la_noche_acá_en_el_norte/",
-          "subreddit": "astronomia"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Esse fenômeno é incrível! É claramente um sinal de que estamos avançando em termos de tecnologia para capturar esses eventos. Parabéns ao usuário por compartilhar!",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_right"
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A obsessão com esses fenômenos celestes é uma distração da luta contra a exploração capitalista! Devemos questionar quem está realmente capturando essas imagens e para quê.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "far_left"
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "É interessante ver essas imagens, mas é importante considerar a explicação científica por trás delas. Talvez seja apenas Vênus e Júpiter, como alguém mencionou.",
-          "source": "reddit",
-          "votes": 0,
-          "ideology": "liberal"
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "lemmy_lemmyecobr_24163059",
-      "rank": 33,
-      "title": "Conceito de \"cliff de vidro\": mulheres ou minorias étnicas são frequentemente colocadas no comando quando a organização está vulnerável a falhas",
-      "label": "Fenômeno social · Liderança",
-      "context": "O conceito de \"cliff de vidro\" refere-se à prática de nomear mulheres ou minorias étnicas para cargos de liderança em organizações ou governos quando estes estão à beira do fracasso. Isso geralmente ocorre em momentos de crise, quando a situação é mais vulnerável a falhas.",
+      "id": "lemmy_lemmyworld_54062663",
+      "rank": 42,
+      "title": "Plutão ainda é um planeta?",
+      "label": "Classificação de planetas anões",
+      "context": "A União Astronômica Internacional (IAU) reclassificou Plutão como um planeta anão em 2006. Essa decisão gerou debates sobre a definição de planeta e se Plutão deveria ser incluído na contagem oficial. A discussão envolve a órbita, o tamanho e a proximidade com outros corpos celestes.",
       "source": "lemmy",
-      "subreddit": "lemmy_br",
-      "permalink": "https://lemmy.eco.br/post/24163059",
-      "createdAt": "2026-06-25T03:17:47.023067+00:00",
-      "rawScore": 0.14075212470459814,
-      "relevanceScore": 0.14075212470459814,
-      "suggestedRadius": 58.51,
-      "imageUrl": "assets/images/lemmy_lemmyecobr_24163059_uns.jpg",
-      "imageThumbUrl": "assets/images/lemmy_lemmyecobr_24163059_uns_thumb.jpg",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54062663",
+      "createdAt": "2026-11-06T13:25:02.831113+00:00",
+      "rawScore": 0.1857650667077887,
+      "relevanceScore": 0.1857650667077887,
+      "suggestedRadius": 61.86,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54062663_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54062663_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "TIL of the concept of the \"glass cliff\", whereby women or ethnic minorities are often handed the reins of power only as the organisation or government in question is at its most vulnerable to failure",
-          "url": "https://lemmy.eco.br/post/24163059",
-          "subreddit": "lemmy_br"
+          "title": "Not so fast",
+          "url": "https://lemmy.world/post/54062663",
+          "subreddit": "lemmy_global"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Dr. Lisa Su é um exemplo perfeito, assumiu a CEO da AMD quando a empresa estava à beira da falência e conseguiu reverter a situação. É uma líder capaz!",
+          "text": "Plutão é um planeta, sim! A IAU fez uma votação esquisita, com pouca gente presente, só pra tirar ele da lista. A gente tem que defender o direito dele de ser planeta, assim como Ceres e outros corpos que foram rebaixados.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa conversa de Plutão ser planeta é papo furado. A ciência definiu que ele é anão e pronto. Ficar chorando por causa de um corpo celeste que não limpa a própria órbita é perda de tempo e desrespeito com a astronomia.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A definição de planeta é complexa e a IAU tentou organizar isso. Plutão se encaixa na categoria de planeta anão, que é um tipo de planeta. O problema é que a votação foi controversa e deixou muita gente insatisfeita.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "hn_50392118",
+      "rank": 43,
+      "title": "Gemini Omni 1.2 Flash é lançado",
+      "label": "IA · Lançamento de modelo",
+      "context": "O Google lançou o Gemini Omni 1.2 Flash, um novo modelo de inteligência artificial. O lançamento visa expandir as ofertas de IA da empresa no mercado.",
+      "source": "hackernews",
+      "subreddit": "hackernews",
+      "permalink": "https://news.ycombinator.com/item?id=50392118",
+      "createdAt": "2026-11-06T13:35:27+00:00",
+      "rawScore": 0.18559582022585006,
+      "relevanceScore": 0.18559582022585006,
+      "suggestedRadius": 61.85,
+      "imageUrl": "assets/images/hn_50392118_wiki.jpg",
+      "imageThumbUrl": "assets/images/hn_50392118_wiki_thumb.jpg",
+      "category": "tech",
+      "region": "global",
+      "sources": [
+        {
+          "title": "Gemini Omni 1.2 Flash",
+          "url": "https://news.ycombinator.com/item?id=50392118",
+          "subreddit": "hackernews"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Finalmente o Google tá lançando um modelo que parece ter um preço mais acessível! A galera reclama de nome, mas o importante é que tá disponível pra testar sem quebrar o banco. Tomara que seja bom mesmo.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Que confusão esses nomes! Gemini 4, agora Omni 1.2 Flash... parece que eles não sabem o que tão fazendo. E o pior é que pra usar direito, tem que pagar caro ou se enrolar em planos que ninguém entende. Google tá perdendo a mão.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Essa nomenclatura é um desastre, mas o preço por token é o que mais me chama atenção. Se for realmente competitivo, pode valer a pena o esforço pra entender como usar. Mas a experiência de acesso deles é um terror.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "lemmy_lemmyworld_54063745",
+      "rank": 44,
+      "title": "Elon Musk diz que Cybertruck morreu e dá lugar ao Cybercab",
+      "label": "Tesla troca picape por táxi autônomo",
+      "context": "Elon Musk anunciou que a produção do Cybertruck será substituída pelo Cybercab, um veículo autônomo. A mudança visa focar em serviços de transporte em vez de veículos de passeio.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54063745",
+      "createdAt": "2026-11-06T14:00:30.503355+00:00",
+      "rawScore": 0.18440806954575198,
+      "relevanceScore": 0.18440806954575198,
+      "suggestedRadius": 61.77,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54063745_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54063745_reddit_thumb.jpg",
+      "category": "tech",
+      "region": "global",
+      "sources": [
+        {
+          "title": "The Cybertruck is dead, makes way for Cybercab says Elon Musk",
+          "url": "https://lemmy.world/post/54063745",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Essa ideia do Cybercab é genial! Imagina ter um carro que te leva pra onde você quiser sem ter que se preocupar em dirigir ou estacionar? É o futuro da mobilidade urbana, mais prático e eficiente pra todo mundo.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Que piada! Trocar uma picape por um táxi autônomo? Isso só mostra que a Tesla não sabe o que fazer. Vão acabar perdendo dinheiro de novo com mais uma ideia maluca do Musk.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Acho que a Tesla tá apostando alto demais em carros autônomos. A tecnologia ainda não tá 100% confiável, e a ideia de depender de um robô pra me levar em qualquer lugar me deixa com um pé atrás.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "lemmy_lemmyworld_54044451",
+      "rank": 45,
+      "title": "As chances são boas quando os produtos são estranhos",
+      "label": "Análise de resultados eleitorais nos EUA",
+      "context": "Um gráfico mostra a mudança percentual de votos para democratas em condados dos EUA entre 2024 e 2026. A análise sugere que, embora alguns condados tenham mudado de uma base democrata pequena para uma ligeiramente maior, o movimento geral indica uma tendência de realinhamento político.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54044451",
+      "createdAt": "2026-11-06T01:45:24.468744+00:00",
+      "rawScore": 0.1803280468790742,
+      "relevanceScore": 0.1803280468790742,
+      "suggestedRadius": 61.48,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54044451_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54044451_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "The Odds Are Good When The Goods Are Odd",
+          "url": "https://lemmy.world/post/54044451",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo não entende nada de política, mas o povo sim. Essa mudança é o reflexo da insatisfação com as políticas atuais e a prova de que o eleitorado está mais esperto. Eles sabem que o Trump sabotou o partido, mas o povo está mostrando que não quer mais o 'business as usual'. É a chance de ouro pra virar o jogo!",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa análise é uma piada! Falar que democratas 'ganharam' é ignorância pura. O Trump destruiu o próprio partido, e agora querem culpar os democratas por um movimento que nem existiu de verdade? O povo não quer mais essa palhaçada, eles querem direitos humanos e capitalismo com freios, não essa bagunça.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Essa 'mudança' nos condados é mais um reflexo da volatilidade eleitoral do que um sinal claro. Chamar de 'vitória' ou 'derrota' é simplificar demais. A verdade é que o eleitorado está indeciso, e esses pequenos movimentos podem ser só flutuações estatísticas, não uma revolução.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "hn_50397994",
+      "rank": 46,
+      "title": "IA acelera dramaticamente a pesquisa em IA",
+      "label": "IA impulsionando IA",
+      "context": "A inteligência artificial (IA) está acelerando o ritmo da própria pesquisa em IA. Isso ocorre à medida que modelos mais avançados são usados para otimizar e expandir o desenvolvimento de novas tecnologias de IA. O avanço rápido levanta questões sobre a sustentabilidade e o impacto a longo prazo desse ciclo.",
+      "source": "hackernews",
+      "subreddit": "hackernews",
+      "permalink": "https://news.ycombinator.com/item?id=50397994",
+      "createdAt": "2026-11-06T20:27:23+00:00",
+      "rawScore": 0.17866149564886935,
+      "relevanceScore": 0.17866149564886935,
+      "suggestedRadius": 61.36,
+      "imageUrl": "assets/images/hn_50397994_uns.jpg",
+      "imageThumbUrl": "assets/images/hn_50397994_uns_thumb.jpg",
+      "category": "tech",
+      "region": "global",
+      "sources": [
+        {
+          "title": "AI is dramatically accelerating AI research",
+          "url": "https://news.ycombinator.com/item?id=50397994",
+          "subreddit": "hackernews"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A IA está se tornando uma ferramenta poderosa para acelerar a inovação. O investimento massivo e a capacidade de otimizar o próprio desenvolvimento mostram um potencial incrível para resolver problemas complexos e impulsionar o progresso tecnológico em uma velocidade sem precedentes. É empolgante ver onde isso vai nos ",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa corrida armamentista de IA, movida a capital e promessas vazias, é insustentável. Comparar com os anos 80 é um alerta: o dinheiro acaba e a bolha estourou. Focar em 'aceleração' ignora a falta de lucro real e o risco de um novo 'inverno da IA' que deixará muitos desempregados.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A questão não é se a IA acelera a pesquisa, mas sim se essa aceleração é sustentável e se o 'progresso' se traduz em valor real ou apenas em mais gastos. A comparação com os anos 80 é válida, pois a história mostra que o entusiasmo pode mascarar a falta de lucratividade a longo prazo.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "masto_mastodonsocial_117573264412077445",
+      "rank": 47,
+      "title": "Em muitas culturas, a morte é vista como um péssimo negócio",
+      "label": "Visão cultural sobre a morte",
+      "context": "A forma como a morte é encarada varia drasticamente entre diferentes sociedades e crenças. Essa percepção cultural influencia diretamente rituais, luto e a própria aceitação do fim da vida.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://mastodon.social/@donni/117573264412077445",
+      "createdAt": "2026-11-07T04:27:21.061000+00:00",
+      "rawScore": 0.17831709229037684,
+      "relevanceScore": 0.17831709229037684,
+      "suggestedRadius": 61.34,
+      "imageUrl": "assets/images/masto_mastodonsocial_117573264412077445_uns.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_117573264412077445_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "In many cultures, death is considered a real bummer",
+          "url": "https://mastodon.social/@donni/117573264412077445",
+          "subreddit": "masto_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A morte ser um 'péssimo negócio' é só a ponta do iceberg. O que realmente pega é como a gente se agarra à vida, achando que ela é tudo. Deveríamos aceitar mais o ciclo natural, sem tanto drama.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Chamar a morte de 'péssimo negócio' é um eufemismo capitalista pra nos fazer aceitar a exploração até o fim. A vida é o que importa, e o sistema quer roubar até o nosso descanso final.",
+          "source": "reddit",
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Essa visão de 'péssimo negócio' reflete o medo do desconhecido e a perda de entes queridos. Cada cultura tem seu jeito de lidar com isso, e o importante é o respeito mútuo.",
+          "source": "reddit",
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "models/gemini-2.5-flash-lite"
+    },
+    {
+      "id": "lemmy_lemmyworld_54035279",
+      "rank": 48,
+      "title": "Elon Musk apaga posts de eleição após darem errado e negócios caírem US$ 120 bilhões",
+      "label": "Elon Musk e posts de eleição",
+      "context": "Elon Musk excluiu publicações sobre eleições após elas terem um resultado negativo e seus negócios terem uma desvalorização de US$ 120 bilhões. A perda financeira ocorreu após ele ter se posicionado publicamente sobre o pleito.",
+      "source": "lemmy",
+      "subreddit": "lemmy_global",
+      "permalink": "https://lemmy.world/post/54035279",
+      "createdAt": "2026-11-05T20:40:47.634975+00:00",
+      "rawScore": 0.17770019481509503,
+      "relevanceScore": 0.17770019481509503,
+      "suggestedRadius": 61.29,
+      "imageUrl": "assets/images/lemmy_lemmyworld_54035279_reddit.jpg",
+      "imageThumbUrl": "assets/images/lemmy_lemmyworld_54035279_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "global",
+      "sources": [
+        {
+          "title": "Elon Musk Deletes Smug Election Posts After They Backfire and His Businesses Tank by $120 Billion: You almost have to feel bad for the guy.",
+          "url": "https://lemmy.world/post/54035279",
+          "subreddit": "lemmy_global"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Esse bilionário arrogante achou que podia comprar a eleição e se deu mal. A queda de 120 bilhões é pouco pra quem se mete onde não é chamado e prejudica o país. Que sirva de lição pra ele e pra quem pensa que dinheiro resolve tudo.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -1647,7 +2401,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa prática é uma forma de sexismo e racismo institucionalizado. As mulheres e minorias étnicas são usadas como \"bode expiatório\" para justificar o fracasso das organizações. É uma vergonha!",
+          "text": "A queda de 120 bilhões é só o começo pra esse parasita. Ele usa o dinheiro pra manipular eleições e depois apaga tudo quando o tiro sai pela culatra. Esse cara é um câncer na democracia e merece muito pior que perder dinheiro.",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -1655,141 +2409,92 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A questão é mais complexa do que parece. É importante considerar se as mulheres e minorias étnicas estão sendo nomeadas para cargos de liderança em momentos de crise devido a uma falta de opções ou se é uma prática deliberada. É necessário mais dados e análises para entender o fenômeno.",
+          "text": "A exclusão dos posts e a perda de US$ 120 bilhões mostram a fragilidade de tentar influenciar eleições com base em opiniões pessoais. A liberdade de expressão é um direito, mas as consequências financeiras e de reputação podem ser severas.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "reddit_1ue8oi9",
-      "rank": 34,
-      "title": "Crise existencial",
-      "label": "Saúde Mental · Problemas Existenciais",
-      "context": "Uma crise existencial ocorre quando uma pessoa questiona o sentido e o propósito da vida. Isso pode levar a sentimentos de ansiedade, depressão e desespero.",
-      "source": "reddit",
-      "subreddit": "saudemental",
-      "permalink": "https://www.reddit.com/r/saudemental/comments/1ue8oi9/crise_existencial/",
-      "createdAt": "2026-06-25T16:52:04.685603+00:00",
-      "rawScore": 0.014115729692139466,
-      "relevanceScore": 0.014115729692139466,
-      "suggestedRadius": 43.13,
-      "imageUrl": "assets/images/reddit_1ue8oi9_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1ue8oi9_uns_thumb.jpg",
-      "category": "ciencia",
+      "id": "bsky_3mzol4lcjtk2w",
+      "rank": 49,
+      "title": "Chapim-real observa a paisagem",
+      "label": "Fotografia de pássaro em observação",
+      "context": "Uma fotografia mostra um pássaro da espécie Chapim-real (Tufted Titmouse) em uma pose de observação. A imagem destaca a aparência curiosa e a plumagem característica da ave.",
+      "source": "bluesky",
+      "subreddit": "bsky_global",
+      "permalink": "https://bsky.app/profile/jocelynanderson.bsky.social/post/3mzol4lcjtk2w",
+      "createdAt": "2026-11-06T23:50:05.572000+00:00",
+      "rawScore": 0.17146760080118428,
+      "relevanceScore": 0.17146760080118428,
+      "suggestedRadius": 60.85,
+      "imageUrl": "assets/images/bsky_3mzol4lcjtk2w_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzol4lcjtk2w_reddit_thumb.jpg",
+      "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "Crise existencial",
-          "url": "https://www.reddit.com/r/saudemental/comments/1ue8oi9/crise_existencial/",
-          "subreddit": "saudemental"
+          "title": "A Tufted Titmouse surveying the landscape.",
+          "url": "https://bsky.app/profile/jocelynanderson.bsky.social/post/3mzol4lcjtk2w",
+          "subreddit": "bsky_global"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Eu acho que as crises existenciais são necessárias para o crescimento pessoal. Elas nos fazem questionar nossos valores e objetivos, e isso pode levar a mudanças positivas.",
+          "text": "Que foto linda! A pose desse bichinho é demais, parece que tá pensando na vida. Adorei as cores e a luz, capturou a essência dele.",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op2",
-          "tone": "negative",
-          "text": "Essas crises são terríveis! Eu já passei por uma e foi horrível. É como se nada tivesse sentido e você estivesse completamente perdido.",
+          "tone": "positive",
+          "text": "Esse pássaro é muito fofo, gente! Com esse topete e o jeito que ele fica olhando, dá vontade de ter um desses em casa. Muito carismático!",
           "source": "reddit",
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Eu entendo que as crises existenciais podem ser difíceis, mas acho que elas também podem ser uma oportunidade para buscar ajuda e apoio. Às vezes, é preciso falar com alguém para encontrar um novo sentido.",
+          "text": "Olha só os pés azuis desse pássaro, que estilo! Preciso admitir que ele tem bom gosto para acessórios. Um verdadeiro fashionista da natureza.",
           "source": "reddit",
           "votes": 0
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     },
     {
-      "id": "reddit_1ue70i2",
-      "rank": 35,
-      "title": "Estudo Mestrado - PHDA",
-      "label": "Saúde Mental · Transtorno",
-      "context": "Um estudo de mestrado está sendo realizado sobre o Transtorno de Personalidade Histrônica (PHDA). Esse estudo é importante para entender melhor essa condição.",
-      "source": "reddit",
-      "subreddit": "saudemental",
-      "permalink": "https://www.reddit.com/r/saudemental/comments/1ue70i2/estudo_mestrado_phda/",
-      "createdAt": "2026-06-25T16:51:04.685625+00:00",
-      "rawScore": 0.0066934365273070475,
-      "relevanceScore": 0.0066934365273070475,
-      "suggestedRadius": 40.91,
-      "imageUrl": "assets/images/reddit_1ue70i2_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1ue70i2_uns_thumb.jpg",
-      "category": "ciencia",
+      "id": "masto_mastodonsocial_117572431315213215",
+      "rank": 50,
+      "title": "Caminhões transportam carros DeLorean para porto em SF; especula-se exportação",
+      "label": "DeLorean: Fim de produção e destino incerto",
+      "context": "Caminhões transportando carros DeLorean foram vistos a caminho do Porto de São Francisco no domingo. Especula-se que os veículos estejam sendo exportados para reciclagem ou como itens colecionáveis.",
+      "source": "mastodon",
+      "subreddit": "masto_global",
+      "permalink": "https://mastodon.social/@jef/117572431315213215",
+      "createdAt": "2026-11-07T00:55:29.007000+00:00",
+      "rawScore": 0.1691717757318689,
+      "relevanceScore": 0.1691717757318689,
+      "suggestedRadius": 60.68,
+      "imageUrl": "assets/images/masto_mastodonsocial_117572431315213215_reddit.jpg",
+      "imageThumbUrl": "assets/images/masto_mastodonsocial_117572431315213215_reddit_thumb.jpg",
+      "category": "geopolitica",
       "region": "global",
       "sources": [
         {
-          "title": "Estudo Mestrado - PHDA",
-          "url": "https://www.reddit.com/r/saudemental/comments/1ue70i2/estudo_mestrado_phda/",
-          "subreddit": "saudemental"
+          "title": "On Sunday I saw multiple car-carrier trucks loaded with Deploreans heading for Pier 80 in SF. I speculated that they were being exported for recycling. Now that seems even more likely.",
+          "url": "https://mastodon.social/@jef/117572431315213215",
+          "subreddit": "masto_global"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Quem faz esse estudo está de olho no futuro da saúde mental! É crucial entender melhor o PHDA para ajudar quem sofre com isso.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Esse estudo de mestrado sobre PHDA já é uma moda passageira. Será que vai mudar alguma coisa na vida das pessoas que realmente precisam de ajuda?",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Mas o que sabemos sobre o PHDA afinal? Será que esse estudo vai trazer respostas concretas ou só mais perguntas?",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "reddit_1ubtmt7",
-      "rank": 36,
-      "title": "Mare Crisium — 19 de junio",
-      "label": "Astronomia · Evento Lunar",
-      "context": "O Mare Crisium é uma grande planície lunar localizada na Lua. Ele é um dos mais antigos e conhecidos mares lunares.",
-      "source": "reddit",
-      "subreddit": "astronomia",
-      "permalink": "https://www.reddit.com/r/astronomia/comments/1ubtmt7/mare_crisium_19_de_junio/",
-      "createdAt": "2026-06-25T16:50:01.832098+00:00",
-      "rawScore": 0.004351308945214495,
-      "relevanceScore": 0.004351308945214495,
-      "suggestedRadius": 39.96,
-      "imageUrl": "assets/images/reddit_1ubtmt7_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1ubtmt7_uns_thumb.jpg",
-      "category": "ciencia",
-      "region": "global",
-      "sources": [
-        {
-          "title": "Mare Crisium — 19 de junio",
-          "url": "https://www.reddit.com/r/astronomia/comments/1ubtmt7/mare_crisium_19_de_junio/",
-          "subreddit": "astronomia"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Os EUA deveriam enviar uma missão tripulada à Lua para explorar o Mare Crisium e descobrir seus segredos!",
+          "text": "Esses carros velhos e feios indo pra reciclagem é o de menos. O importante é que não vão mais poluir nossas ruas. Menos um problema pra sociedade!",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_right"
@@ -1797,7 +2502,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A exploração espacial é uma forma de imperialismo e exploração dos recursos naturais, como o Mare Crisium. Devemos parar com isso!",
+          "text": "Que absurdo! Em vez de reaproveitar essa sucata pra ajudar quem precisa, vão exportar pra virar lixo em outro lugar. Capitalismo destruindo tudo!",
           "source": "reddit",
           "votes": 0,
           "ideology": "far_left"
@@ -1805,62 +2510,13 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A NASA planeja enviar uma missão ao Mare Crisium nos próximos anos. Isso é um grande passo para a exploração espacial e pode trazer descobertas importantes.",
+          "text": "A descontinuação da produção do DeLorean levanta questões sobre o destino desses veículos. A exportação para reciclagem ou colecionismo é uma possibilidade, dependendo das regulamentações e do mercado.",
           "source": "reddit",
           "votes": 0,
           "ideology": "liberal"
         }
       ],
-      "enrichedBy": "meta-llama/llama-4-scout"
-    },
-    {
-      "id": "reddit_1ue0zak",
-      "rank": 37,
-      "title": "Tenho esquizofrenia e não tem nada de bom nisso!",
-      "label": "Saúde Mental · Conscientização",
-      "context": "Uma pessoa relatou ter esquizofrenia e afirmou que não há nada de bom nisso. Isso chama a atenção para os desafios enfrentados por pessoas com essa condição.",
-      "source": "reddit",
-      "subreddit": "saudemental",
-      "permalink": "https://www.reddit.com/r/saudemental/comments/1ue0zak/tenho_esquizofrenia_e_não_tem_nada_de_bom_nisso/",
-      "createdAt": "2026-06-25T16:50:04.685653+00:00",
-      "rawScore": 0.004351294714984355,
-      "relevanceScore": 0.004351294714984355,
-      "suggestedRadius": 39.96,
-      "imageUrl": "assets/images/reddit_1ue0zak_uns.jpg",
-      "imageThumbUrl": "assets/images/reddit_1ue0zak_uns_thumb.jpg",
-      "category": "ciencia",
-      "region": "global",
-      "sources": [
-        {
-          "title": "Tenho esquizofrenia e não tem nada de bom nisso!",
-          "url": "https://www.reddit.com/r/saudemental/comments/1ue0zak/tenho_esquizofrenia_e_não_tem_nada_de_bom_nisso/",
-          "subreddit": "saudemental"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Eu apoio totalmente quem compartilha suas experiências para conscientizar sobre a esquizofrenia. É crucial acabar com o estigma em torno da saúde mental.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "É desolador ver alguém tendo que lidar com isso diariamente. A sociedade precisa fazer mais para apoiar pessoas com esquizofrenia e oferecer recursos adequados.",
-          "source": "reddit",
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Eu fico pensando se a conscientização é suficiente ou se precisamos de ações concretas para mudar a vida das pessoas com esquizofrenia. O que vocês acham?",
-          "source": "reddit",
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "meta-llama/llama-4-scout"
+      "enrichedBy": "models/gemini-2.5-flash-lite"
     }
   ]
 }
