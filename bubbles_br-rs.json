@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-09T13:09:21.725606+00:00",
+  "generatedAt": "2026-11-09T22:11:42.236501+00:00",
   "region": "br-rs",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3mztdbodmuc2y",
+      "id": "bsky_3mzvi2senwk25",
       "rank": 1,
-      "title": "Prefeito de Porto Alegre indica \"Atlas de Porto Alegre\" como livro ambientado na cidade",
-      "label": "Indicação de livro · Prefeito de Porto Alegre",
-      "context": "Ao ser questionado sobre um livro que se passa em Porto Alegre, o prefeito da cidade respondeu indicando o \"Atlas de Porto Alegre\". A escolha gerou piada nas redes, já que um atlas é uma coleção de mapas, não uma obra de ficção ambientada na capital gaúcha.",
+      "title": "Ninguém liga para o jogo Hana to Taiyō to Ame to no bairro Cavalhada, em Porto Alegre",
+      "label": "Jogo japonês ignorado na Cavalhada",
+      "context": "Um post no Bluesky reclama que ninguém dá atenção ao jogo 花と太陽と雨と (Hana to Taiyō to Ame to) no bairro Cavalhada, em Porto Alegre. A reclamação viralizou entre usuários da rede, que responderam com comentários sobre a cidade e sobre a obra.",
       "source": "bluesky",
       "subreddit": "bsky_rs",
-      "permalink": "https://bsky.app/profile/pdrcssl.bsky.social/post/3mztdbodmuc2y",
-      "createdAt": "2026-11-08T21:12:59.372000+00:00",
+      "permalink": "https://bsky.app/profile/aglhr.me/post/3mzvi2senwk25",
+      "createdAt": "2026-11-09T17:43:56.082000+00:00",
       "rawScore": 0.9,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
@@ -22,18 +22,18 @@
       "region": "br-rs",
       "sources": [
         {
-          "title": "lembrando de quando pediram pro porco do nosso prefeito uma indicação de livro que se passa em porto alegre e ele disse \"o atlas de porto alegre\"",
-          "url": "https://bsky.app/profile/pdrcssl.bsky.social/post/3mztdbodmuc2y",
+          "title": "poxa ninguém liga para 花と太陽と雨と(Hana to Taiyō to Ame to) no bairro Cavalhada da cidade de Porto Alegre",
+          "url": "https://bsky.app/profile/aglhr.me/post/3mzvi2senwk25",
           "subreddit": "bsky_rs"
         },
         {
-          "title": "Entrando na conversa para dizer que porto alegre tem O PIOR VERÃO de todas as capitais do Brasil",
-          "url": "https://bsky.app/profile/vampirerockstar.bsky.social/post/3mztdadhxck2w",
+          "title": "nomes de bairro de São Paulo: Comendador Mark Zuckerberg, Ernesto Candance Fuchsia, Armed Forces da República Inglesa, etc nomes de bairro de Porto Alegre: Cinzas de Um Reino Proibido, Fígado de Prometeu, Gaudério Dipsomano",
+          "url": "https://bsky.app/profile/aglhr.me/post/3mzodow66ns2d",
           "subreddit": "bsky_rs"
         },
         {
-          "title": "pousei em porto alegre e infelizmente minha audição tá em 40% e meus tímpanos gritam em protesto.",
-          "url": "https://bsky.app/profile/ciroargus.bsky.social/post/3mztek5cbxs2o",
+          "title": "Por mim, todos estes totens em Porto Alegre iam de relógio do descobrimento.",
+          "url": "https://bsky.app/profile/rafatpinto.bsky.social/post/3mzuvjyi5xk2l",
           "subreddit": "bsky_rs"
         }
       ],
@@ -41,15 +41,18 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O prefeito respondeu com o que tinha à mão: um atlas é uma obra sobre Porto Alegre, com mapas e dados da cidade. Não é romance, mas é um livro que trata da capital gaúcha, e a piada só pega quem quer transformar uma resposta simples em escândalo.",
+          "text": "Porto Alegre tem uma cena cultural que vai muito além do óbvio, e o Cavalhada não fica de fora. Um jogo japonês ambientado por aqui merecia mais atenção, sim, e quem mora na zona sul sabe que a região tem público pra isso.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2,
+            3
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Um prefeito que não sabe citar um único romance ambientado em Porto Alegre, cidade com autores como Scliar, mostra desconexão com a cultura local. A resposta do atlas soa como quem nunca leu nada sobre a própria cidade e só pensou em mapa.",
+          "text": "Reclamar que ninguém liga pra um jogo japonês num bairro de Porto Alegre é forçar a barra. A cidade tem problemas bem mais urgentes, como a segurança que virou faroeste, e a cultura local já tem seus próprios clássicos, como os romances do Scliar.",
           "source": "sintese",
           "evidence": [
             6
@@ -59,9 +62,77 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A pergunta era sobre livro que se passa em Porto Alegre, e o atlas não é ficção, mas também não deixa de ser um livro sobre a cidade. A confusão diz mais sobre como a pergunta foi feita do que sobre o prefeito em si.",
+          "text": "A comparação com São Paulo e Manaus mostra que a discussão virou outra coisa: cada um puxa a sardinha pra sua cidade. O jogo em si ficou de lado, e o debate sobre clima e vista acabou tomando conta dos comentários.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            4,
+            5
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzvb4bqqe22f",
+      "rank": 2,
+      "title": "Indicados na Categoria Brasil no Prêmio Multishow 2026",
+      "label": "Prêmio Multishow · Indicados por região",
+      "context": "O Prêmio Multishow 2026 divulgou os indicados da Categoria Brasil, com um representante por região: Bela Maria (Nordeste), Victor Xamã (Norte), Lourena (Sudeste), Jean Tassy (Centro-Oeste) e Duda Brack (Sul). A lista gerou comentários sobre a distribuição regional e piadas com nomes de estados.",
+      "source": "bluesky",
+      "subreddit": "bsky_rs",
+      "permalink": "https://bsky.app/profile/tagrevista.com/post/3mzvb4bqqe22f",
+      "createdAt": "2026-11-09T15:39:34.189000+00:00",
+      "rawScore": 0.49357732207778277,
+      "relevanceScore": 0.4634659738018877,
+      "suggestedRadius": 76.85,
+      "imageUrl": "assets/images/bsky_3mzvb4bqqe22f_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzvb4bqqe22f_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rs",
+      "sources": [
+        {
+          "title": "🏆 | Indicados na Categoria Brasil no Prêmio Multishow 2026 #PremioMultishow Bela Maria — Região Nordeste (Pernambuco) Victor Xamã — Região Norte (Amazonas) Lourena — Região Sudeste (Rio de Janeiro) Jean Tassy — Região Centro-Oeste (Brasília) Duda Brack — Região Sul (Rio Grande do Sul)",
+          "url": "https://bsky.app/profile/tagrevista.com/post/3mzvb4bqqe22f",
+          "subreddit": "bsky_rs"
+        },
+        {
+          "title": "muito maneiro q o brasil tem rio grande do norte e rio grande do sul sou a favor de renomearmos o rio de janeiro de rio grande do meio",
+          "url": "https://bsky.app/profile/lexosesbico.bsky.social/post/3mzl6lnytv22j",
+          "subreddit": "bsky_rs"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Categoria Brasil acerta ao dar espaço para artistas de todas as regiões, com um indicado por área. Isso valoriza cenas que normalmente ficam fora do eixo Rio-São Paulo e mostra que a premiação está olhando para o país inteiro.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A lista de indicados da Categoria Brasil parece mais uma cota regional do que um reconhecimento artístico. Fica a impressão de que o prêmio preenche espaço por região em vez de destacar quem realmente se sobressaiu no ano.",
           "source": "sintese",
           "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O anúncio dos indicados regionais rendeu mais piadas com nomes de estados do que discussão sobre música. O pessoal tá mais preocupado em inventar Rio Grande do Meio e Rio Grande do Oeste do que em avaliar os artistas da lista.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            4,
+            7
+          ],
           "votes": 0
         }
       ],
@@ -70,19 +141,19 @@
     },
     {
       "id": "bsky_3mzqxjdycic2r",
-      "rank": 2,
-      "title": "Zucco prepara desculpas antes de assumir governo do RS, diz post",
-      "label": "Zucco e críticas antes da posse no RS",
-      "context": "Um post no Bluesky afirma que Zucco, antes de assumir o governo do Rio Grande do Sul, já estaria preparando desculpas para uma possível incapacidade de gestão. A crítica ocorre em meio a comentários que comparam sua postura à de outros governadores que buscam diálogo com o governo federal.",
+      "rank": 3,
+      "title": "Zucco ainda não assumiu o governo do RS e já prepara desculpas para possível incapacidade de gestão",
+      "label": "Zucco e a preparação de desculpas no RS",
+      "context": "Zucco, que ainda não assumiu o governo do Rio Grande do Sul, é acusado em post no Bluesky de já preparar desculpas para uma possível incapacidade de gestão. A crítica ocorre em meio a um cenário em que governadores de diferentes partidos buscam diálogo com o governo federal, enquanto Zucco mantém alinhamento ideológico.",
       "source": "bluesky",
       "subreddit": "bsky_rs",
       "permalink": "https://bsky.app/profile/pimenta13br.bsky.social/post/3mzqxjdycic2r",
       "createdAt": "2026-11-07T22:37:18.470000+00:00",
-      "rawScore": 0.8731072209563256,
-      "relevanceScore": 0.7539439602032567,
-      "suggestedRadius": 88.1,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.39715222602009126,
+      "relevanceScore": 0.388177128724578,
+      "suggestedRadius": 73.38,
+      "imageUrl": "assets/images/bsky_3mzqxjdycic2r_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzqxjdycic2r_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-rs",
       "sources": [
@@ -101,7 +172,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Governadores de diferentes partidos já deixaram a disputa eleitoral para trás e buscam diálogo com o governo Lula, mas Zucco continua preso ao palanque ideológico e coloca os interesses políticos acima das necessidades dos gaúchos.",
+          "text": "Zucco já sinaliza que não vai governar para todos, preferindo manter o discurso ideológico em vez de buscar diálogo com o governo federal como outros governadores estão fazendo. Isso mostra que os interesses políticos vêm antes das necessidades dos gaúchos.",
           "source": "sintese",
           "evidence": [
             1
@@ -111,20 +182,22 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A direita só exerce é 'jestão' — escreveram assim mesmo, com erro — e o Rio Grande do Sul está lascado com essa incapacidade de gestão que já se anuncia antes mesmo da posse.",
+          "text": "A crítica é precipitada: Zucco nem assumiu e já estão cobrando gestão. Preparar desculpas é uma interpretação, não um fato. O foco deveria ser nas soluções para o Rio Grande do Sul, não em ataques antecipados.",
           "source": "sintese",
           "evidence": [
             2,
-            3
+            5
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A pergunta que fica é se o problema é incapacidade de gestão ou do gestor. Antes de assumir, já se fala em desculpas, mas talvez seja cedo para julgar sem ver o governo funcionando.",
+          "text": "A incapacidade de gestão pode ser do gestor ou do próprio conceito de gestão. O debate sobre Zucco revela mais sobre a polarização política do que sobre sua capacidade real de administrar, que só será testada após a posse.",
           "source": "sintese",
           "evidence": [
+            3,
+            4,
             5
           ],
           "votes": 0
@@ -135,17 +208,17 @@
     },
     {
       "id": "bsky_3mznokpayks22",
-      "rank": 3,
-      "title": "Zero Hora volta a apostar em pautas sobre o Papa perto do Rio Grande do Sul",
-      "label": "Papa no Uruguai · Cobertura da Zero Hora",
-      "context": "O Papa Leão visita o Uruguai, e o jornal Zero Hora publicou reportagens destacando a proximidade do pontífice com o Rio Grande do Sul. A cobertura gerou piadas nas redes sobre o hábito do jornal de enquadrar tudo pela ótica gaúcha.",
+      "rank": 4,
+      "title": "Zero Hora volta a apostar em pautas como a visita do Papa Leão ao Uruguai",
+      "label": "Visita do Papa ao Uruguai · Cobertura da Zero Hora",
+      "context": "O Papa Leão visitou o Uruguai e o jornal Zero Hora destacou que ele estava a 100 km do Rio Grande do Sul. A proximidade fez gaúchos cruzarem a fronteira para ver o Papa, e a cobertura virou assunto nas redes.",
       "source": "bluesky",
       "subreddit": "bsky_rs",
       "permalink": "https://bsky.app/profile/franciscoluz.bsky.social/post/3mznokpayks22",
       "createdAt": "2026-11-06T15:18:56.743000+00:00",
-      "rawScore": 0.6004275396134526,
-      "relevanceScore": 0.6201552059996485,
-      "suggestedRadius": 83.25,
+      "rawScore": 0.29307307740288335,
+      "relevanceScore": 0.35258594005018074,
+      "suggestedRadius": 71.63,
       "imageUrl": "assets/images/bsky_3mznokpayks22_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mznokpayks22_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -162,8 +235,8 @@
           "subreddit": "bsky_rs"
         },
         {
-          "title": "Papa vai pro Uruguai Zero hora já fez reportagem de qual foi a última vez q o papa esteve tão perto do rio grande do sul Nunca falha",
-          "url": "https://bsky.app/profile/flago.bsky.social/post/3mznmu4exrs2g",
+          "title": "Rio Grande do Sul está lascado !!",
+          "url": "https://bsky.app/profile/roberto1501.bsky.social/post/3mzqxtzp6is2q",
           "subreddit": "bsky_rs"
         }
       ],
@@ -171,18 +244,18 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A cobertura da Zero Hora acerta ao mostrar o quanto o Papa está perto do Rio Grande do Sul — é uma forma de conectar o leitor local com um evento internacional que, de outro modo, pareceria distante.",
+          "text": "A cobertura da Zero Hora acertou ao mostrar o Papa a 100 km do Rio Grande do Sul: é uma notícia que interessa diretamente a quem mora aqui e explica por que tanta gente cruzou a fronteira com chimarrão para ver de perto.",
           "source": "sintese",
           "evidence": [
-            4,
-            5
+            5,
+            6
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Zero Hora força a barra em pautas como 'o Papa está a 100 km do RS' — vira piada pronta, e o jornal perde credibilidade ao transformar qualquer assunto em ângulo gaúcho, mesmo quando não há relação real.",
+          "text": "Zero Hora voltar a pautar o Papa pela distância até o Rio Grande do Sul é o mesmo vício de sempre: transformar qualquer assunto em notícia sobre gaúcho, mesmo quando o evento é no Uruguai e não tem relação nenhuma com o estado.",
           "source": "sintese",
           "evidence": [
             1,
@@ -193,10 +266,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A curiosidade sobre o fenômeno religioso e a experiência de cruzar a fronteira com chimarrão explica o interesse, mas a autoestima gaúcha nas notícias chama atenção — é engraçado e revelador ao mesmo tempo.",
+          "text": "A curiosidade em ver o fenômeno religioso de perto explica a travessia, mas a autoestima gaúcha nas notícias chama atenção: toda pauta vira entrevista com algum gaúcho no Uruguai, e isso rende mais risada do que informação.",
           "source": "sintese",
           "evidence": [
-            6,
+            2,
             7
           ],
           "votes": 0
@@ -206,89 +279,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzqumrm4x225",
-      "rank": 4,
-      "title": "Tornado é confirmado em mais uma cidade do Rio Grande do Sul neste sábado",
-      "label": "Tornado no RS · Segundo da semana",
-      "context": "Um tornado foi confirmado em mais uma cidade do Rio Grande do Sul neste sábado, após outro já ter atingido o Noroeste do estado na mesma semana. Os temporais deixaram estragos em mais de 120 cidades gaúchas, segundo a Metsul.",
-      "source": "bluesky",
-      "subreddit": "bsky_rs",
-      "permalink": "https://bsky.app/profile/metsul.com/post/3mzqumrm4x225",
-      "createdAt": "2026-11-07T21:45:27.984000+00:00",
-      "rawScore": 0.32462895440901185,
-      "relevanceScore": 0.4064719930201573,
-      "suggestedRadius": 74.25,
-      "imageUrl": "assets/images/bsky_3mzqumrm4x225_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzqumrm4x225_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rs",
-      "sources": [
-        {
-          "title": "🔴 TEMPO | Tornado é confirmado em mais uma cidade do Rio Grande do Sul neste sábado. ▶️ metsul.com/tornado-e-co...",
-          "url": "https://bsky.app/profile/metsul.com/post/3mzqumrm4x225",
-          "subreddit": "bsky_rs"
-        },
-        {
-          "title": "🔴 TEMPO | Segundo tornado da semana no Rio Grande do Sul provoca destruição em cidade do Noroeste. ▶️ metsul.com/segundo-torn...",
-          "url": "https://bsky.app/profile/metsul.com/post/3mzpwddbaxs27",
-          "subreddit": "bsky_rs"
-        },
-        {
-          "title": "🌪️ TEMPO | Tornado é confirmado no Norte do Rio Grande do Sul. ▶️ metsul.com/tornado-e-co...",
-          "url": "https://bsky.app/profile/metsul.com/post/3mzlcqfiqfs2b",
-          "subreddit": "bsky_rs"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A Metsul está fazendo um trabalho essencial ao confirmar e divulgar esses tornados rapidamente. Com tantas cidades atingidas, a população precisa de informação clara para se proteger e cobrar ajuda.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Dois tornados em uma semana e mais de 120 cidades com estragos mostram que o RS não está preparado para eventos extremos. Falta estrutura de alerta e resposta rápida para proteger as pessoas.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A confirmação de tornados no Sul ainda gera dúvida em muita gente, porque não é um fenômeno comum por aqui. Seria útil explicar melhor como esses eventos se formam e o que fazer quando há risco.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzl6lnytv22j",
+      "id": "bsky_3mzv43waef22q",
       "rank": 5,
-      "title": "Brasil tem Rio Grande do Norte e do Sul; proposta renomeia Rio de Janeiro para Rio Grande do Meio",
-      "label": "Piada com nomes dos estados brasileiros",
-      "context": "Um post no Bluesky brincou com a existência dos estados Rio Grande do Norte e Rio Grande do Sul e propôs renomear o Rio de Janeiro para \"Rio Grande do Meio\". A piada gerou comentários que sugerem outros nomes, como \"Rio Grande do Oeste\" e \"Rio Grande do Ladinho\".",
+      "title": "Gaúchos e o Rio Grande do Sul: opinião gera debate",
+      "label": "Gaúchos · Comentário gera reação",
+      "context": "Um usuário do Bluesky publicou que inclui o Rio Grande do Sul em uma situação, mas pediu que os gaúchos não o escutem. A fala gerou comentários de quem diz não ter referência suficiente para concordar ou discordar.",
       "source": "bluesky",
       "subreddit": "bsky_rs",
-      "permalink": "https://bsky.app/profile/lexosesbico.bsky.social/post/3mzl6lnytv22j",
-      "createdAt": "2026-11-05T15:27:47.385000+00:00",
-      "rawScore": 0.233158613105515,
-      "relevanceScore": 0.18064661769492774,
-      "suggestedRadius": 61.5,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "permalink": "https://bsky.app/profile/comtesset.bsky.social/post/3mzv43waef22q",
+      "createdAt": "2026-11-09T14:09:49.272000+00:00",
+      "rawScore": 0.29481615881359896,
+      "relevanceScore": 0.23019285450257074,
+      "suggestedRadius": 64.79,
+      "imageUrl": "assets/images/bsky_3mzv43waef22q_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzv43waef22q_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-rs",
       "sources": [
         {
-          "title": "muito maneiro q o brasil tem rio grande do norte e rio grande do sul sou a favor de renomearmos o rio de janeiro de rio grande do meio",
-          "url": "https://bsky.app/profile/lexosesbico.bsky.social/post/3mzl6lnytv22j",
+          "title": "pior q eu coloco o Rio Grande do Sul nessa. mas os gaúchos q não me escutem",
+          "url": "https://bsky.app/profile/comtesset.bsky.social/post/3mzv43waef22q",
           "subreddit": "bsky_rs"
         }
       ],
@@ -296,29 +306,30 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A brincadeira funciona porque o Brasil já tem dois \"Rio Grande\" e o Rio de Janeiro fica geograficamente entre eles, então \"Rio Grande do Meio\" encaixa perfeitamente. É o tipo de piada que mostra como os nomes dos estados podem render humor sem ofender ninguém.",
+          "text": "Concordo que os gaúchos que conheço não são assim, então generalizar o Rio Grande do Sul com base em estereótipos não faz sentido. A publicação acertou em pedir que os gaúchos não a escutem, porque o comentário não representa a realidade que eu vejo.",
           "source": "sintese",
           "evidence": [
-            1,
-            4
+            1
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Renomear o Rio de Janeiro para \"Rio Grande do Meio\" apagaria a identidade e a história do estado, que é conhecido mundialmente pelo nome atual. A piada é criativa, mas mexer com nomes de lugares reais não é algo que se deva levar a sério.",
+          "text": "Achar que dá para falar do Rio Grande do Sul e depois pedir para os gaúchos não escutarem é uma forma de manter o preconceito sem assumir a responsabilidade. Se a pessoa não tem referência suficiente, como o comentário admite, o melhor é não generalizar.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A piada é inofensiva e divertida, mas também revela que os nomes dos estados brasileiros seguem padrões geográficos curiosos. Dá para rir da brincadeira sem precisar defender ou atacar a ideia de renomear o Rio de Janeiro.",
+          "text": "Falta referência para opinar com firmeza: os gaúchos que conheço não são assim, mas isso não me dá base para concordar ou discordar da publicação. O comentário mostra que a discussão precisa de mais contexto antes de virar generalização.",
           "source": "sintese",
           "evidence": [
-            3
+            1
           ],
           "votes": 0
         }
@@ -330,17 +341,17 @@
       "id": "bsky_3mzfov3kd4c2p",
       "rank": 6,
       "title": "Plantas de cobertura amortecem secas e enchentes, mostra estudo da USP no RS",
-      "label": "Plantas de cobertura · Estudo da USP",
+      "label": "Plantas de cobertura · Estudo da USP no RS",
       "context": "Pesquisadores da USP no Rio Grande do Sul mostraram que o uso de plantas de cobertura funciona como amortecedor biológico contra secas e enchentes. Os resultados, publicados na Agriculture, Ecosystems & Environment, foram apresentados na FAPESP Week Países Baixos.",
       "source": "bluesky",
       "subreddit": "bsky_rs",
       "permalink": "https://bsky.app/profile/agenciafapesp.bsky.social/post/3mzfov3kd4c2p",
       "createdAt": "2026-11-03T11:03:26.276000+00:00",
-      "rawScore": 0.22142123998474256,
-      "relevanceScore": 0.17155273638104568,
-      "suggestedRadius": 60.85,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.11440062365524659,
+      "relevanceScore": 0.0893241612740964,
+      "suggestedRadius": 53.93,
+      "imageUrl": "assets/images/bsky_3mzfov3kd4c2p_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzfov3kd4c2p_reddit_thumb.jpg",
       "category": "ciencia",
       "region": "br-rs",
       "sources": [
@@ -354,7 +365,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A pesquisa é valiosa porque confirma e quantifica algo que já se suspeitava, dando base científica para aplicar a técnica em larga escala. Não basta saber que funciona; é preciso medir e comparar para convencer quem está no campo.",
+          "text": "A pesquisa é valiosa porque confirma e quantifica algo que muita gente já desconfiava na prática: plantas de cobertura ajudam a segurar água no solo e a reduzir os picos de seca e enchente. Sistematizar isso é o que permite levar a técnica para mais propriedades.",
           "source": "sintese",
           "evidence": [
             1,
@@ -365,7 +376,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Os resultados não trazem novidade: o plantio direto já mostrava efeitos parecidos há décadas. A nova abordagem apenas simula o ambiente natural, mas a aplicação prática continua distante da realidade de muitos produtores.",
+          "text": "A ideia de que plantas de cobertura amortecem secas e enchentes já era conhecida desde o plantio direto, então o estudo não traz uma novidade revolucionária. O que falta é mostrar como aplicar isso em larga escala, porque na prática o produtor precisa de resultado concreto e não só de simulação.",
           "source": "sintese",
           "evidence": [
             2
@@ -375,7 +386,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A ideia de que plantas de cobertura protegem o solo contra extremos climáticos é ensinada desde a escola básica. O estudo é interessante, mas o desafio é fazer com que esse conhecimento chegue a quem realmente precisa aplicar no dia a dia.",
+          "text": "O conceito de usar plantas de cobertura para proteger o solo é ensinado há décadas, desde a escola, então o estudo da USP serve mais para comprovar cientificamente do que para descobrir algo novo. A contribuição real está em medir o efeito e comparar cenários, o que ajuda na hora de convencer quem ainda duvida.",
           "source": "sintese",
           "evidence": [
             3
@@ -396,11 +407,11 @@
       "subreddit": "bsky_rs",
       "permalink": "https://bsky.app/profile/beatrizdiniz.bsky.social/post/3mzndo43abc2q",
       "createdAt": "2026-11-06T12:03:58.672000+00:00",
-      "rawScore": 0.15962574109842545,
-      "relevanceScore": 0.12367482308460648,
-      "suggestedRadius": 57.1,
-      "imageUrl": "assets/images/bsky_3mzndo43abc2q_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzndo43abc2q_wiki.jpg",
+      "rawScore": 0.07734310687754702,
+      "relevanceScore": 0.06038960218424338,
+      "suggestedRadius": 50.74,
+      "imageUrl": "assets/images/bsky_3mzndo43abc2q_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzndo43abc2q_reddit.jpg",
       "category": "geopolitica",
       "region": "br-rs",
       "sources": [
@@ -417,18 +428,18 @@
     {
       "id": "bsky_3mzhdquekms23",
       "rank": 8,
-      "title": "Governadora eleita da Geórgia tem sobrenome engraçado, diz usuário",
-      "label": "Sobrenome de governadora da Geórgia · Piada",
-      "context": "Um usuário do Bluesky comentou a eleição da nova governadora da Geórgia e destacou que o sobrenome dela, Bottoms, soa engraçado. A comparação feita foi com uma governadora de esquerda eleita no Rio Grande do Sul com o sobrenome Passivas.",
+      "title": "Governadora eleita da Geórgia tem sobrenome engraçado, diz post",
+      "label": "Sobrenome de governadora da Geórgia · Humor",
+      "context": "Um post no Bluesky comenta a eleição da nova governadora da Geórgia e destaca que o sobrenome dela é Bottoms, considerado engraçado pelo autor. A comparação feita no post é com uma governadora de esquerda eleita no Rio Grande do Sul com o sobrenome Passivas.",
       "source": "bluesky",
       "subreddit": "bsky_rs",
       "permalink": "https://bsky.app/profile/alvarofreitas.bsky.social/post/3mzhdquekms23",
       "createdAt": "2026-11-04T02:49:31.594000+00:00",
-      "rawScore": 0.1434154594083493,
-      "relevanceScore": 0.11111542191048357,
-      "suggestedRadius": 56.0,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.07369254341158502,
+      "relevanceScore": 0.057539237305485484,
+      "suggestedRadius": 50.39,
+      "imageUrl": "assets/images/bsky_3mzhdquekms23_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzhdquekms23_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-rs",
       "sources": [
@@ -442,7 +453,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O sobrenome Bottoms da governadora da Geórgia rende piada e isso é inofensivo, ainda mais comparando com a situação do Rio Grande do Sul, onde um governador gay já tem o sobrenome Leite e ninguém faz escândalo.",
+          "text": "O sobrenome Bottoms da governadora da Geórgia é uma coincidência tão inusitada que vira piada pronta, e rir disso não diminui a conquista dela. É o tipo de detalhe que humaniza a política e faz as pessoas prestarem atenção na eleição.",
           "source": "sintese",
           "evidence": [
             1
@@ -452,7 +463,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ficar zoando o sobrenome de uma governadora recém-eleita desvia do que importa, que é o trabalho dela no cargo, e a comparação com Passivas no Rio Grande do Sul só reforça um deboche que não acrescenta nada ao debate político.",
+          "text": "Ficar zoando o sobrenome de uma governadora recém-eleita desvia o foco do que importa: as propostas dela e os desafios do estado. Esse tipo de piada reforça preconceitos e trata política como entretenimento, quando deveria ser levada a sério.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -460,7 +471,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A piada com sobrenomes como Bottoms e Leite é engraçada, mas o eleitor deveria olhar mesmo é para as propostas da governadora da Geórgia, porque o nome curioso não diz nada sobre a capacidade dela de governar o estado.",
+          "text": "A comparação com um governador gay de sobrenome Leite mostra que esse humor já existe por aqui e não é novidade. O post só funciona porque brinca com nomes que remetem a termos sexuais, mas o eleitorado tende a separar a piada da competência de quem foi eleito.",
           "source": "sintese",
           "evidence": [
             1
@@ -481,11 +492,11 @@
       "subreddit": "bsky_rs",
       "permalink": "https://bsky.app/profile/arlindars.bsky.social/post/3mznfneouek2e",
       "createdAt": "2026-11-06T12:39:22.370000+00:00",
-      "rawScore": 0.11470339027548003,
-      "relevanceScore": 0.08886988653526441,
-      "suggestedRadius": 53.89,
-      "imageUrl": null,
-      "imageThumbUrl": "",
+      "rawScore": 0.055167775480821836,
+      "relevanceScore": 0.04307507351561605,
+      "suggestedRadius": 48.45,
+      "imageUrl": "assets/images/bsky_3mznfneouek2e_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mznfneouek2e_reddit.jpg",
       "category": "geopolitica",
       "region": "br-rs",
       "sources": [
@@ -500,26 +511,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzieu7g7js2y",
+      "id": "bsky_3mzjhjpldcc2c",
       "rank": 10,
-      "title": "Bandeira do PT no Rio Grande do Sul é comparada à do Grêmio",
-      "label": "Bandeira do PT e Grêmio · Comparação",
-      "context": "Um post no Bluesky comparou a bandeira do PT no Rio Grande do Sul à bandeira do Grêmio, dizendo que 'o texas é grêmio'. A comparação gerou comentários de torcedores gremistas, que reagiram à semelhança entre as cores e o formato das bandeiras.",
+      "title": "Enchente no Rio Grande do Sul: reportagem da Agência Pública é usada como referência",
+      "label": "Enchente no RS · Reportagem da Pública",
+      "context": "A Agência Pública publicou em setembro de 2024 uma reportagem sobre a enchente no Rio Grande do Sul. O post no Bluesky compartilha esse link como resposta recorrente ao tema, mas não há comentários que detalhem o conteúdo ou as reações.",
       "source": "bluesky",
       "subreddit": "bsky_rs",
-      "permalink": "https://bsky.app/profile/kudimel.bsky.social/post/3mzieu7g7js2y",
-      "createdAt": "2026-11-04T12:41:55.291000+00:00",
-      "rawScore": 0.06268239457295227,
-      "relevanceScore": 0.0485650622887278,
-      "suggestedRadius": 49.22,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "permalink": "https://bsky.app/profile/pedrelare.bsky.social/post/3mzjhjpldcc2c",
+      "createdAt": "2026-11-04T23:02:29.290000+00:00",
+      "rawScore": 0.023645067084707372,
+      "relevanceScore": 0.018462100276446933,
+      "suggestedRadius": 44.15,
+      "imageUrl": "assets/images/bsky_3mzjhjpldcc2c_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzjhjpldcc2c_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-rs",
       "sources": [
         {
-          "title": "é literalmente a bandeira do PT no Rio Grande do Sul para quem torce pro Grêmio. O texas é grêmio",
-          "url": "https://bsky.app/profile/kudimel.bsky.social/post/3mzieu7g7js2y",
+          "title": "Vou sempre mandar isso quando esse assunto aparecer. apublica.org/2024/09/ench...",
+          "url": "https://bsky.app/profile/pedrelare.bsky.social/post/3mzjhjpldcc2c",
           "subreddit": "bsky_rs"
         }
       ],
@@ -527,32 +538,25 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A semelhança é inegável: as cores e o formato batem, e o torcedor gremista reconhece na hora. É uma comparação bem-humorada que mostra como os símbolos dos times estão no imaginário das pessoas.",
+          "text": "A reportagem da Agência Pública é uma fonte séria e bem apurada sobre a enchente no RS, e compartilhar esse link sempre que o assunto voltar ajuda a combater desinformação com informação de qualidade.",
           "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Bandeira do Grêmio é uma coisa séria, tem história e tradição. Ficar comparando com bandeira de partido político é desrespeito com a torcida e com o clube, que não tem nada a ver com isso.",
+          "text": "Ficar repetindo o mesmo link de 2024 em toda discussão sobre enchente no RS não acrescenta nada novo; o debate precisa de dados atualizados e não de uma reportagem antiga usada como resposta automática.",
           "source": "sintese",
-          "evidence": [
-            2
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A comparação pode até fazer sentido visualmente, mas cada bandeira tem seu significado próprio. O pessoal brinca, mas vale lembrar que uma representa um clube de futebol e a outra um partido político, contextos completamente diferentes.",
+          "text": "O post só compartilha o link, sem explicar o que a reportagem diz ou por que é relevante agora; sem esse contexto, fica difícil avaliar se a referência realmente ajuda ou só repete uma discussão antiga.",
           "source": "sintese",
-          "evidence": [
-            3
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],

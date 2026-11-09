@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-09T13:09:21.725606+00:00",
+  "generatedAt": "2026-11-09T22:11:42.236501+00:00",
   "region": "br-pa",
   "count": 10,
   "items": [
     {
       "id": "bsky_3mzusyx3q3c2p",
       "rank": 1,
-      "title": "Lula embarca para a Turquia para discurso de abertura da COP31",
-      "label": "Lula na Turquia para Conferência do Clima",
-      "context": "O Presidente Lula embarcou para Antália, na Turquia, para participar da COP31. Ele fará o discurso de abertura da conferência ao lado dos chefes de Estado da Turquia e da Austrália. O evento discute as mudanças climáticas globais.",
+      "title": "Reeleito, Lula retoma agenda internacional e embarca para a Turquia para a COP31",
+      "label": "Lula na COP31 · Agenda internacional",
+      "context": "O presidente Lula embarca nesta segunda-feira (9) para Antália, na Turquia, onde fará o discurso de abertura da COP31 ao lado dos chefes de Estado da Turquia e da Austrália. Depois da conferência, ele segue para as Filipinas para a Cúpula da Asean.",
       "source": "bluesky",
       "subreddit": "bsky_pa",
       "permalink": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mzusyx3q3c2p",
@@ -16,8 +16,8 @@
       "rawScore": 0.9,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3mzusyx3q3c2p_ai.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzusyx3q3c2p_ai_thumb.jpg",
+      "imageUrl": "assets/images/bsky_3mzusyx3q3c2p_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzusyx3q3c2p_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pa",
       "sources": [
@@ -31,7 +31,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A participação do Brasil na COP31, com o presidente Lula abrindo o evento, demonstra o compromisso do país com a agenda climática global e a retomada do protagonismo internacional em discussões cruciais para o futuro do planeta.",
+          "text": "Lula retomar a agenda internacional logo após a reeleição e abrir a COP31 mostra que o Brasil volta a ter peso nas negociações climáticas. Discurso ao lado de Turquia e Austrália coloca o país no centro do debate, e a sequência para a Asean reforça essa presença global.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -39,7 +39,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "É inaceitável que o presidente esteja viajando para conferências internacionais enquanto o Brasil enfrenta tantos problemas internos. Essa agenda externa parece mais uma forma de autopromoção do que um compromisso real com o clima.",
+          "text": "Emendar Turquia e Filipinas logo no início do novo mandato soa mais como vitrine do que resultado concreto. A COP31 rende discurso bonito, mas o que interessa é o que sai do papel aqui dentro, e a agenda internacional não resolve os problemas urgentes do país.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -47,30 +47,93 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A presença do Brasil na COP31 é importante, mas é fundamental que as discussões se traduzam em ações concretas e políticas públicas eficazes para combater as mudanças climáticas, tanto no cenário global quanto no nacional.",
+          "text": "A viagem em si é protocolar: abrir a COP31 e depois ir à Asean faz parte do calendário de qualquer chefe de Estado. O que define o sucesso não é a foto em Antália, mas o que o Brasil conseguir fechar em acordos climáticos e comerciais nessas duas paradas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "models/gemini-2.5-flash-lite",
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mztyvp4evs2j",
+      "rank": 2,
+      "title": "Usuária critica pessoa que ligou o SUS ao governo no tema do Enem",
+      "label": "SUS e Enem · Crítica a vínculo político",
+      "context": "Uma usuária do Bluesky relatou ter visto uma conhecida afirmar que o SUS pertence ao Estado brasileiro, foi criado pela Constituição e não tem dono político, motivada pelo tema da redação do Enem. A fala foi classificada pela autora do post como 'alma sebosa' por associar o tema ao governo.",
+      "source": "bluesky",
+      "subreddit": "bsky_pa",
+      "permalink": "https://bsky.app/profile/alexandrovaz.bsky.social/post/3mztyvp4evs2j",
+      "createdAt": "2026-11-09T03:40:00.278000+00:00",
+      "rawScore": 0.33152604689659476,
+      "relevanceScore": 0.5859993401532377,
+      "suggestedRadius": 81.93,
+      "imageUrl": "assets/images/bsky_3mztyvp4evs2j_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mztyvp4evs2j_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pa",
+      "sources": [
+        {
+          "title": "vi uma desquerida - que conheço - dizer que o SUS é do Estado brasileiro, que foi criado na Constituição e que o Lully não é dono dele.....motivo da fala: tema do Enem. a pessoa é uma alma sebosa para relacionar o tema da redação com o governo.",
+          "url": "https://bsky.app/profile/alexandrovaz.bsky.social/post/3mztyvp4evs2j",
+          "subreddit": "bsky_pa"
+        },
+        {
+          "title": "Pronunciamento oficial antes do Jornal Nacional: Povo brasileiro, golpe de estado é algo muito sério. Eu, que fui preso pela ditadura, sei que a democracia é nosso bem mais valioso. Mas, para pacificar a nação tenho uma proposta: assinarei a anistia se o PL der 40 dias de férias pro brasileiro.+",
+          "url": "https://bsky.app/profile/caioalmendra.bsky.social/post/3mzo7464bz22f",
+          "subreddit": "bsky_pa"
+        },
+        {
+          "title": "Orientação para futuros psicopatas em tiroteios dentro de escolas e shoppings de Idaho: tem que usar a arma oficial do estado. g1.globo.com/google/amp/m...",
+          "url": "https://bsky.app/profile/hospiciobrasil.bsky.social/post/3mzn3ba6gpk2b",
+          "subreddit": "bsky_pa"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A pessoa está certa: o SUS é um direito garantido pela Constituição e não pertence a nenhum governo ou político. Ligar o SUS a uma figura como o Lula é distorcer o que está na lei e no texto constitucional.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Falar que o SUS não tem dono é ingenuidade: na prática, quem gere e financia o sistema é o governo federal, e associar o tema ao governo é legítimo. A crítica à pessoa soa como defesa de uma neutralidade que não existe.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O tema do Enem pede reflexão sobre saúde pública, e o SUS é parte central disso, independentemente de quem está no poder. Reduzir a discussão a 'é do Estado' ou 'é do governo' desvia do que importa: o acesso e a qualidade do atendimento.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
       "promptVersion": 2
     },
     {
       "id": "bsky_3mzurzjnqp22z",
-      "rank": 2,
+      "rank": 3,
       "title": "Da COP30 em Belém à COP31 em Antália, a disputa pelo futuro do planeta continua",
-      "label": "COP: disputa pelo futuro do planeta",
-      "context": "A conferência climática #COP30 ocorrerá em Belém e a #COP31 em Antália, marcando a continuidade das discussões sobre o futuro do planeta. A sociedade civil é chamada a ocupar esse espaço para debater a crise climática e a justiça social.",
+      "label": "COP30 em Belém e COP31 em Antália · Sociedade civil",
+      "context": "A Conferência das Nações Unidas sobre Mudanças Climáticas (COP30) foi realizada em Belém, e a próxima edição (COP31) está prevista para Antália, na Turquia. A sociedade civil é convocada a continuar ocupando esses espaços de discussão, uma vez que a crise climática e a justiça social não podem ser adiadas.",
       "source": "bluesky",
       "subreddit": "bsky_pa",
       "permalink": "https://bsky.app/profile/gabrieldread.bsky.social/post/3mzurzjnqp22z",
       "createdAt": "2026-11-09T11:09:31.475000+00:00",
-      "rawScore": 0.4627142889772091,
-      "relevanceScore": 0.5141269877524546,
-      "suggestedRadius": 79.02,
-      "imageUrl": "assets/images/bsky_3mzurzjnqp22z_ai.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzurzjnqp22z_ai_thumb.jpg",
+      "rawScore": 0.5176907739057945,
+      "relevanceScore": 0.5704546534824163,
+      "suggestedRadius": 81.32,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-pa",
       "sources": [
@@ -84,7 +147,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A sociedade civil precisa se manter ativa e presente nas COPs, como a de Belém e a de Antália, para garantir que a crise climática e a justiça social sejam prioridades urgentes.",
+          "text": "A sociedade civil precisa mesmo seguir ocupando esses espaços, porque a crise climática não espera e a justiça social não pode ficar para depois. A participação popular é essencial para pressionar por decisões mais ambiciosas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -92,7 +155,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A continuidade das COPs, de Belém a Antália, mostra que a disputa pelo futuro do planeta segue sem avanços concretos, enquanto a crise climática se agrava.",
+          "text": "Essas COPs são só palco para discurso e não resultam em ação concreta. Ficar pulando de Belém para Antália não resolve nada se os compromissos assumidos não são cumpridos. A sociedade civil perde tempo tentando influenciar um processo que não ouve.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -100,18 +163,18 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A realização das COPs em locais como Belém e Antália evidencia a importância global do debate sobre o clima, mas a efetividade das ações depende da participação ativa da sociedade civil.",
+          "text": "O espaço existe, mas é preciso avaliar se a participação da sociedade civil tem gerado resultados práticos. Depende de como as demandas são incorporadas nas negociações e se há mecanismos de cobrança para os países.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "models/gemini-2.5-flash-lite",
+      "enrichedBy": "deepseek-chat",
       "promptVersion": 2
     },
     {
       "id": "bsky_3mzss4qyxik2n",
-      "rank": 3,
+      "rank": 4,
       "title": "O Pará tá cheio de incêndio. Curiosamente em locais de pressão do agronegócio... É ali no trecho da Cuiabá-Santarém e no Marajó... Bem quando a secretaria de meio ambiente do estado vai ser assumida por um infrator ambiental e advogado de infrator...",
       "label": "",
       "context": "",
@@ -119,9 +182,9 @@
       "subreddit": "bsky_pa",
       "permalink": "https://bsky.app/profile/yrs-pa.bsky.social/post/3mzss4qyxik2n",
       "createdAt": "2026-11-08T16:06:00.769000+00:00",
-      "rawScore": 0.2909153190333322,
-      "relevanceScore": 0.3232392433703691,
-      "suggestedRadius": 70.11,
+      "rawScore": 0.4855531183461609,
+      "relevanceScore": 0.534346237960621,
+      "suggestedRadius": 79.86,
       "imageUrl": null,
       "imageThumbUrl": "",
       "category": "geopolitica",
@@ -138,303 +201,33 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mztyvp4evs2j",
-      "rank": 4,
-      "title": "SUS é do Estado brasileiro, criado na Constituição, não pertence a um governo",
-      "label": "SUS é do Estado, não de governo",
-      "context": "Uma pessoa comentou que o SUS é do Estado brasileiro e foi criado na Constituição, não pertencendo a um governo específico. A fala ocorreu em relação ao tema da redação do Enem.",
-      "source": "bluesky",
-      "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/alexandrovaz.bsky.social/post/3mztyvp4evs2j",
-      "createdAt": "2026-11-09T03:40:00.278000+00:00",
-      "rawScore": 0.2528514448484944,
-      "relevanceScore": 0.28094604983166044,
-      "suggestedRadius": 67.8,
-      "imageUrl": "assets/images/bsky_3mztyvp4evs2j_ai.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztyvp4evs2j_ai_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pa",
-      "sources": [
-        {
-          "title": "vi uma desquerida - que conheço - dizer que o SUS é do Estado brasileiro, que foi criado na Constituição e que o Lully não é dono dele.....motivo da fala: tema do Enem. a pessoa é uma alma sebosa para relacionar o tema da redação com o governo.",
-          "url": "https://bsky.app/profile/alexandrovaz.bsky.social/post/3mztyvp4evs2j",
-          "subreddit": "bsky_pa"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "É fundamental lembrar que o SUS é uma conquista da sociedade brasileira, garantida pela Constituição. Atribuir sua propriedade a um governo específico é ignorar sua natureza pública e permanente, despolitizando um direito essencial.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Essa pessoa está certa em apontar que o SUS pertence ao Estado e não a um governo. Tentar associar a criação ou manutenção do SUS a um governo específico, seja qual for, é uma forma de manipulação política para angariar votos.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A confusão sobre a propriedade do SUS pode surgir porque a gestão e o financiamento sofrem influências diretas de cada governo. Embora seja uma instituição do Estado, as políticas implementadas variam, gerando essa percepção de pertencimento.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "models/gemini-2.5-flash-lite",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzo7464bz22f",
+      "id": "bsky_3mzrovrufc22d",
       "rank": 5,
-      "title": "Pronunciamento oficial antes do Jornal Nacional: Povo brasileiro, golpe de estado é algo muito sério. Eu, que fui preso pela ditadura, sei que a democracia é no",
-      "label": "Anistia em troca de férias",
-      "context": "Um pronunciamento oficial foi feito antes do Jornal Nacional, comparando a seriedade de um golpe de estado com a importância da democracia. A proposta apresentada é a assinatura de uma anistia em troca de 40 dias de férias para os brasileiros. Isso ocorre em um contexto de pacificação nacional.",
+      "title": "Instituições apelam ao Governo para assegurar salários acordados na Ciência",
+      "label": "Salários na Ciência · Apelo ao Governo",
+      "context": "Instituições científicas recorrem ao Governo para garantir o pagamento de salários já acordados e formalizados. A situação levanta a questão de como os pesquisadores vivem com a incerteza sobre seus vencimentos.",
       "source": "bluesky",
       "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/caioalmendra.bsky.social/post/3mzo7464bz22f",
-      "createdAt": "2026-11-06T20:15:01.474000+00:00",
-      "rawScore": 0.1642158426910735,
-      "relevanceScore": 0.18246204743452613,
-      "suggestedRadius": 61.63,
-      "imageUrl": "assets/images/bsky_3mzo7464bz22f_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzo7464bz22f_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/pedroeduribeiro.bsky.social/post/3mzrovrufc22d",
+      "createdAt": "2026-11-08T05:35:46.573000+00:00",
+      "rawScore": 0.21024059665076011,
+      "relevanceScore": 0.4030967612321891,
+      "suggestedRadius": 74.09,
+      "imageUrl": "assets/images/bsky_3mzrovrufc22d_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzrovrufc22d_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pa",
       "sources": [
         {
-          "title": "Pronunciamento oficial antes do Jornal Nacional: Povo brasileiro, golpe de estado é algo muito sério. Eu, que fui preso pela ditadura, sei que a democracia é nosso bem mais valioso. Mas, para pacificar a nação tenho uma proposta: assinarei a anistia se o PL der 40 dias de férias pro brasileiro.+",
-          "url": "https://bsky.app/profile/caioalmendra.bsky.social/post/3mzo7464bz22f",
+          "title": "Mais uma prova do estado em que a Ciência está. São as instituições que têm de apelar ao Governo para que se consigam assegurar salários acordados, formalizados! Senhor Ministro Fernando Alexandre, como se vive com os salários em risco? Quererá uma Ciência feita só com máquinas?",
+          "url": "https://bsky.app/profile/pedroeduribeiro.bsky.social/post/3mzrovrufc22d",
           "subreddit": "bsky_pa"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Essa proposta de anistia em troca de 40 dias de férias é uma jogada política genial para pacificar o país. É uma forma inteligente de usar um benefício para o povo, como as férias, para resolver questões mais sérias e unir a nação.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            14
-          ],
-          "votes": 0
         },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "É inaceitável trocar a anistia de golpistas por férias. O governo deveria focar em punir quem atentou contra a democracia e não em negociar benefícios pessoais em troca de perdão.",
-          "source": "sintese",
-          "evidence": [
-            4,
-            6,
-            7
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A ideia de anistia é complexa e a proposta de 40 dias de férias parece uma forma de negociar, mas o valor real dessa troca depende de quem são os golpistas e quais crimes seriam anistiados.",
-          "source": "sintese",
-          "evidence": [
-            8,
-            9,
-            13
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "models/gemini-2.5-flash-lite",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzsws2qwjs2k",
-      "rank": 6,
-      "title": "Enem acerta ao pautar o SUS, que é conquista social e dever do Estado",
-      "label": "Enem e SUS: Conquista Social",
-      "context": "O Enem abordou o tema do Sistema Único de Saúde (SUS) em sua prova. A saúde pública universal e gratuita é vista como uma conquista social e um dever do Estado.",
-      "source": "bluesky",
-      "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/jd1311.bsky.social/post/3mzsws2qwjs2k",
-      "createdAt": "2026-11-08T17:29:34.077000+00:00",
-      "rawScore": 0.15294639137946198,
-      "relevanceScore": 0.16994043486606886,
-      "suggestedRadius": 60.73,
-      "imageUrl": "assets/images/bsky_3mzsws2qwjs2k_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzsws2qwjs2k_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pa",
-      "sources": [
-        {
-          "title": "​O Enem acertou ao pautar o SUS. Saúde pública universal e gratuita é conquista social e dever do Estado. Fortalecer o sistema com mais investimentos é garantir cidadania e vida para todos.",
-          "url": "https://bsky.app/profile/jd1311.bsky.social/post/3mzsws2qwjs2k",
-          "subreddit": "bsky_pa"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O Enem fez muito bem em trazer o SUS para a discussão. Um sistema de saúde público, universal e gratuito é uma conquista social importantíssima e um dever do Estado garantir. Investir nisso é garantir cidadania e vida para todos.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Colocar o SUS no Enem pode parecer bom, mas o sistema está sucateado e não funciona para a maioria. Falar sobre ele na prova sem resolver os problemas reais de falta de investimento e gestão só serve para enganar a população.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A pauta do SUS no Enem é relevante, mas é preciso ir além da prova. O debate precisa focar em como fortalecer o sistema com mais investimentos e melhor gestão, para que a saúde pública universal seja uma realidade efetiva para todos.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "models/gemini-2.5-flash-lite",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzsfq4m7uk2b",
-      "rank": 7,
-      "title": "Governo do Estado não se manifesta sobre notícias alarmistas, diz post",
-      "label": "Governo é cobrado por silêncio sobre notícias",
-      "context": "Um post questiona a falta de pronunciamento do Governo do Estado e do governador Paulo Dantas sobre o que o autor chama de \"chuva de notícias alarmistas\". A ausência de resposta oficial é vista como preocupante por alguns.",
-      "source": "bluesky",
-      "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/rochalucia.bsky.social/post/3mzsfq4m7uk2b",
-      "createdAt": "2026-11-08T12:24:13.573000+00:00",
-      "rawScore": 0.11442172820097432,
-      "relevanceScore": 0.12713525355663813,
-      "suggestedRadius": 57.39,
-      "imageUrl": "assets/images/bsky_3mzsfq4m7uk2b_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzsfq4m7uk2b_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pa",
-      "sources": [
         {
           "title": "E o Governo do Estado não se manifesta? Governador @paulodantas.bsky.social deve haver uma explicação para essa chuva de noticias alarmistas",
           "url": "https://bsky.app/profile/rochalucia.bsky.social/post/3mzsfq4m7uk2b",
           "subreddit": "bsky_pa"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O governador Paulo Dantas precisa se pronunciar urgentemente para esclarecer a população sobre essas notícias alarmistas que estão circulando. A omissão só aumenta a desconfiança e o pânico.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
         },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "É inaceitável que o Governo do Estado, assim como Salvador, permaneça omisso diante de notícias que causam alarme. O PT, que governa ambos, deveria dar uma explicação clara e imediata.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A falta de manifestação do governo sobre as notícias que circulam pode ter diversas razões, desde a verificação dos fatos até uma estratégia de comunicação. É preciso aguardar um posicionamento oficial.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "models/gemini-2.5-flash-lite",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzjmomnus227",
-      "rank": 8,
-      "title": "David Crowley (D) é o primeiro governador negro eleito no estado de Wisconsin",
-      "label": "David Crowley eleito governador de Wisconsin",
-      "context": "David Crowley, do Partido Democrata, foi eleito governador do estado de Wisconsin. Ele se tornou o primeiro governador negro eleito na história do estado.",
-      "source": "bluesky",
-      "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/camarotedacpi.bsky.social/post/3mzjmomnus227",
-      "createdAt": "2026-11-05T00:34:41.692000+00:00",
-      "rawScore": 0.10893675612939899,
-      "relevanceScore": 0.12104084014377665,
-      "suggestedRadius": 56.87,
-      "imageUrl": "assets/images/bsky_3mzjmomnus227_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzjmomnus227_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pa",
-      "sources": [
-        {
-          "title": "🟦🌊 David Crowley (D) se torna o primeiro governador negro eleito no estado do Wisconsin",
-          "url": "https://bsky.app/profile/camarotedacpi.bsky.social/post/3mzjmomnus227",
-          "subreddit": "bsky_pa"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A eleição de David Crowley é um marco histórico e um avanço para a representatividade em Wisconsin, mostrando que o eleitorado está pronto para eleger líderes com base em suas propostas e não em sua cor.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A eleição de um governador negro não muda a realidade econômica e social do estado, e o foco deveria estar nas políticas públicas e não em questões raciais.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "É importante acompanhar o mandato de David Crowley para avaliar se ele conseguirá unir o estado e implementar as mudanças prometidas, independentemente de sua cor.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "models/gemini-2.5-flash-lite",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzj6d75zqc24",
-      "rank": 9,
-      "title": "Democratas viram Nevada para o azul e elegem Aaron Ford, primeiro governador negro do estado",
-      "label": "Aaron Ford eleito governador de Nevada",
-      "context": "Aaron Ford, do Partido Democrata, foi eleito governador de Nevada, tornando-se o primeiro governador negro da história do estado. Ele derrotou o republicano Joe Lombardo, que buscava a reeleição.",
-      "source": "bluesky",
-      "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/camarotedacpi.bsky.social/post/3mzj6d75zqc24",
-      "createdAt": "2026-11-04T20:17:47.452000+00:00",
-      "rawScore": 0.09158867069519391,
-      "relevanceScore": 0.10176518966132657,
-      "suggestedRadius": 55.14,
-      "imageUrl": "assets/images/bsky_3mzj6d75zqc24_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzj6d75zqc24_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pa",
-      "sources": [
         {
           "title": "🟦🌊 Democratas viraram Nevada para o azul e elegem Aaron Ford, o primeiro governador negro da história do estado. Aaron derrotou o republicano Joe Lombardo, que tentava a reeleição.",
           "url": "https://bsky.app/profile/camarotedacpi.bsky.social/post/3mzj6d75zqc24",
@@ -445,7 +238,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A eleição de Aaron Ford é um marco histórico e um avanço para a representatividade em Nevada, mostrando que o estado está progredindo e abraçando a diversidade em seus líderes.",
+          "text": "As instituições de ciência estão certas em cobrar o Governo: salários acordados e formalizados precisam ser pagos. Sem essa garantia, os pesquisadores ficam sem previsibilidade e a ciência perde.",
           "source": "sintese",
           "evidence": [
             1
@@ -455,44 +248,57 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A virada para o azul em Nevada com a eleição de Ford demonstra uma mudança política preocupante, que pode levar a políticas que não beneficiam todos os cidadãos do estado.",
+          "text": "O Governo falha ao não se manifestar e deixar as instituições apelarem publicamente. Essa omissão compromete a confiança na ciência e desvaloriza o trabalho dos pesquisadores.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2,
+            3
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A eleição de um governador negro em Nevada é um fato notável, mas o foco principal deveria ser nas políticas que ele implementará e como elas afetarão a vida dos moradores.",
+          "text": "A situação reflete um problema recorrente: a ciência depende de decisões políticas e orçamentárias. É preciso entender se há verba disponível ou se é uma questão de prioridade do Governo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "models/gemini-2.5-flash-lite",
+      "enrichedBy": "deepseek-chat",
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzq4r7i2332h",
-      "rank": 10,
-      "title": "Editais culturais: modelo de Collor sob crítica por fragmentação e burocracia",
-      "label": "Gestão cultural: editais em debate",
-      "context": "Os editais culturais, modelo criado no governo Collor, são criticados por fragmentar o fomento à cultura e priorizar projetos em detrimento de polos permanentes. Essa abordagem seleciona artistas pela habilidade burocrática, não pela capacidade artística.",
+      "id": "bsky_3mzjmomnus227",
+      "rank": 6,
+      "title": "David Crowley (D) se torna o primeiro governador negro eleito em Wisconsin",
+      "label": "Crowley eleito · marco racial em Wisconsin",
+      "context": "David Crowley, do Partido Democrata, venceu a eleição para governador do Wisconsin em novembro de 2026, tornando-se o primeiro governador negro do estado. A eleição representa um marco na representação racial na política estadual.",
       "source": "bluesky",
       "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/caioalmendra.bsky.social/post/3mzq4r7i2332h",
-      "createdAt": "2026-11-07T14:38:22.971000+00:00",
-      "rawScore": 0.09098329056291006,
-      "relevanceScore": 0.10109254506990006,
-      "suggestedRadius": 55.08,
-      "imageUrl": "assets/images/bsky_3mzq4r7i2332h_ai.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzq4r7i2332h_ai_thumb.jpg",
-      "category": "economia",
+      "permalink": "https://bsky.app/profile/camarotedacpi.bsky.social/post/3mzjmomnus227",
+      "createdAt": "2026-11-05T00:34:41.692000+00:00",
+      "rawScore": 0.20512788501533702,
+      "relevanceScore": 0.39735234979457146,
+      "suggestedRadius": 73.82,
+      "imageUrl": "assets/images/bsky_3mzjmomnus227_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzjmomnus227_reddit_thumb.jpg",
+      "category": "geopolitica",
       "region": "br-pa",
       "sources": [
         {
-          "title": "Editais são o modelo criado por Collor para gerir a cultura. Ele colocam os artistas sob dupla peneira, um do estado e outro do mercado. Depois, editais são fragmentários. Faz-se um projeto, ao invés de fazer um polo cultural permanente. Escolhem artistas pela capacidade de resolver burocracia. +",
-          "url": "https://bsky.app/profile/caioalmendra.bsky.social/post/3mzq4r7i2332h",
+          "title": "🟦🌊 David Crowley (D) se torna o primeiro governador negro eleito no estado do Wisconsin",
+          "url": "https://bsky.app/profile/camarotedacpi.bsky.social/post/3mzjmomnus227",
+          "subreddit": "bsky_pa"
+        },
+        {
+          "title": "Esses vermes fascistas todos são desgraças.Essa fala do governador eleito pelo RS Zucco disse que a crise fiscal do estado é grave. Mas o estado foi governado pelo \"aliado\" Eduardo Leite, que em seus discursos tinha solução para tudo. São todos canalhas essa direita escrota 🤔🇧🇷⚖️",
+          "url": "https://bsky.app/profile/pkne52.bsky.social/post/3mzsmnuucek2h",
+          "subreddit": "bsky_pa"
+        },
+        {
+          "title": "James Talarico, eleito senador pelo estado do texas, para o atual titular do cargo, John Cornyn:",
+          "url": "https://bsky.app/profile/remuly.bsky.social/post/3mzmgyb4a7224",
           "subreddit": "bsky_pa"
         }
       ],
@@ -500,17 +306,65 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Os editais foram criados a partir de reivindicações dos próprios coletivos culturais, e a maioria deles aprovou o modelo. Além disso, a cultura abrange muito mais do que as artes tradicionais, e os editais permitem essa diversidade.",
+          "text": "A eleição de David Crowley é um marco histórico para Wisconsin e mostra que o estado está pronto para diversificar sua liderança. Ter o primeiro governador negro é uma conquista que inspira e abre portas para futuras gerações.",
           "source": "sintese",
-          "evidence": [
-            3
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O artista gasta mais tempo lidando com a burocracia dos editais do que produzindo arte. Essa seleção funciona como um corte de classe, impedindo o desenvolvimento de projetos de longo prazo e a sustentabilidade de grupos culturais.",
+          "text": "O foco na raça de Crowley desvia do que realmente importa: suas propostas e capacidade de governar. Destacar a cor da pele como o fato principal é uma forma de reduzir a complexidade da política a identitarismo.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A eleição de Crowley é significativa, mas o mais importante será seu desempenho à frente do estado. O simbolismo da vitória só terá valor real se vier acompanhado de políticas que melhorem a vida dos habitantes de Wisconsin.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzsws2qwjs2k",
+      "rank": 7,
+      "title": "Enem acertou ao pautar o SUS, diz defesa da saúde pública universal",
+      "label": "SUS no Enem · Defesa da saúde pública",
+      "context": "O Enem abordou o SUS como tema de redação, e a escolha foi defendida publicamente como acerto por pautar a saúde pública universal e gratuita. O debate destaca o SUS como conquista social e dever do Estado, com defesa de mais investimentos para garantir cidadania e vida.",
+      "source": "bluesky",
+      "subreddit": "bsky_pa",
+      "permalink": "https://bsky.app/profile/jd1311.bsky.social/post/3mzsws2qwjs2k",
+      "createdAt": "2026-11-08T17:29:34.077000+00:00",
+      "rawScore": 0.23202801928552277,
+      "relevanceScore": 0.36185238383924984,
+      "suggestedRadius": 72.09,
+      "imageUrl": "assets/images/bsky_3mzsws2qwjs2k_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzsws2qwjs2k_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pa",
+      "sources": [
+        {
+          "title": "​O Enem acertou ao pautar o SUS. Saúde pública universal e gratuita é conquista social e dever do Estado. Fortalecer o sistema com mais investimentos é garantir cidadania e vida para todos.",
+          "url": "https://bsky.app/profile/jd1311.bsky.social/post/3mzsws2qwjs2k",
+          "subreddit": "bsky_pa"
+        },
+        {
+          "title": "No Brasil, o que é obrigatório é obrigatório não só para o cidadão mas para o Estado também: para garantir o direito do cidadão de votar o Estado precisa criar toda uma infraestrutura pra isso: tem que ter transporte e/ou zona eleitoral perto de todo mundo, por exemplo.",
+          "url": "https://bsky.app/profile/coalacroata.bsky.social/post/3mzg3tulgys2g",
+          "subreddit": "bsky_pa"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O Enem acertou ao trazer o SUS para a redação porque saúde pública universal e gratuita é conquista social e dever do Estado. Fortalecer o sistema com mais investimentos é garantir cidadania e vida para todos, e pautar isso no exame ajuda a formar consciência sobre direitos.",
           "source": "sintese",
           "evidence": [
             1
@@ -518,17 +372,223 @@
           "votes": 0
         },
         {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Gastar milhões para garantir acesso a direitos é ninharia perto do que se gasta em outras áreas, mas o problema é que o SUS enfrenta filas e falta de estrutura. Sem gestão eficiente, só mais dinheiro não resolve, e o Enem deveria cobrar soluções práticas, não só defender o sistema.",
+          "source": "sintese",
+          "evidence": [
+            4
+          ],
+          "votes": 0
+        },
+        {
           "id": "op3",
           "tone": "neutral",
-          "text": "É difícil fortalecer grupos culturais específicos, como congadas mineiras, ou viabilizar projetos como documentários sobre quilombos destruídos, sem o financiamento que os editais proporcionam, mesmo com suas limitações.",
+          "text": "O SUS é direito garantido pela Constituição, mas o debate precisa ir além do Enem: é preciso discutir como financiar e gerir o sistema para que funcione de verdade. A comparação com outros países mostra que o Estado pode garantir direitos, mas a execução é o desafio.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzq4r7i2332h",
+      "rank": 8,
+      "title": "Editais de cultura são modelo criado por Collor, diz artista",
+      "label": "Editais culturais · Crítica ao modelo",
+      "context": "Um post no Bluesky critica os editais como modelo de gestão cultural, afirmando que foram criados no governo Collor e submetem artistas a uma dupla peneira: o Estado e o mercado. A crítica aponta que os editais são fragmentários, priorizam projetos em vez de polos culturais permanentes e selecionam artistas pela capacidade de lidar com burocracia.",
+      "source": "bluesky",
+      "subreddit": "bsky_pa",
+      "permalink": "https://bsky.app/profile/caioalmendra.bsky.social/post/3mzq4r7i2332h",
+      "createdAt": "2026-11-07T14:38:22.971000+00:00",
+      "rawScore": 0.14982027564636632,
+      "relevanceScore": 0.33521122263903785,
+      "suggestedRadius": 70.74,
+      "imageUrl": "assets/images/bsky_3mzq4r7i2332h_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzq4r7i2332h_reddit_thumb.jpg",
+      "category": "economia",
+      "region": "br-pa",
+      "sources": [
+        {
+          "title": "Editais são o modelo criado por Collor para gerir a cultura. Ele colocam os artistas sob dupla peneira, um do estado e outro do mercado. Depois, editais são fragmentários. Faz-se um projeto, ao invés de fazer um polo cultural permanente. Escolhem artistas pela capacidade de resolver burocracia. +",
+          "url": "https://bsky.app/profile/caioalmendra.bsky.social/post/3mzq4r7i2332h",
+          "subreddit": "bsky_pa"
+        },
+        {
+          "title": "Palavras para quê? É um atleta português e ... não tem casa própria, não recebe apoios do estado, só aparece nas tv's depois do Caralhinho do Ronaldo.",
+          "url": "https://bsky.app/profile/nestesitio.bsky.social/post/3mzsb5xn36222",
+          "subreddit": "bsky_pa"
+        },
+        {
+          "title": "O paulista do interior do estado é muito cara de pau, a grande maioria de extrema direita, gastam dinheiro destinado a saúde promovendo show para vagabundo e depois recorrem ao Alckmin pedindo ajuda.",
+          "url": "https://bsky.app/profile/marcocarneiroleao.bsky.social/post/3mzso7muagc2e",
+          "subreddit": "bsky_pa"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Os editais são um corte de classe nítido: o artista passa mais tempo olhando editais do que desenvolvendo sua arte. A comparação com os pontos de cultura é inevitável, porque eles davam sustento permanente aos artistas nos territórios, algo que o edital fragmentado não faz.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Sem dinheiro de editais não tem como desenvolver um documentário sobre o Quilombo destruído nem fortalecer um grupo de congada de Minas. Os editais são o que existe para financiar projetos específicos, e criticar o modelo sem propor alternativa concreta não resolve o problema de quem precisa do recurso.",
           "source": "sintese",
           "evidence": [
             2
           ],
           "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Os editais foram criados a partir de reivindicações dos coletivos e boa parte deles aprovou o modelo. Além disso, cultura vai muito além das artes tradicionais, então reduzir a discussão a 'edital bom ou ruim' ignora que o instrumento nasceu de uma demanda real dos próprios artistas.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
         }
       ],
-      "enrichedBy": "models/gemini-2.5-flash-lite",
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzr5yrr6hs26",
+      "rank": 9,
+      "title": "Pessoa sonha repetidamente com Belém do Pará sem nunca ter visitado a cidade",
+      "label": "Sonhos recorrentes com Belém do Pará",
+      "context": "Uma pessoa relata no Bluesky que nunca esteve em Belém do Pará, mas sonha com frequência visitando a cidade e conhecendo pessoas interessantes. O relato viralizou e outros usuários responderam comentando sobre a cidade e sua cultura.",
+      "source": "bluesky",
+      "subreddit": "bsky_pa",
+      "permalink": "https://bsky.app/profile/curupira85.bsky.social/post/3mzr5yrr6hs26",
+      "createdAt": "2026-11-08T00:33:13.470000+00:00",
+      "rawScore": 0.055457825549793505,
+      "relevanceScore": 0.27582157904504956,
+      "suggestedRadius": 67.51,
+      "imageUrl": "assets/images/bsky_3mzr5yrr6hs26_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzr5yrr6hs26_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pa",
+      "sources": [
+        {
+          "title": "Nunca estive em Belém do Pará. Mas nos últimos meses vira e mexe sonho estar visitando a cidade e conhecendo pessoas muito interessantes. Nunca aconteceu de sonhar tantas vezes com um lugar que não conheço!",
+          "url": "https://bsky.app/profile/curupira85.bsky.social/post/3mzr5yrr6hs26",
+          "subreddit": "bsky_pa"
+        },
+        {
+          "title": "o cara vai em Belém do PARÁ tentar meter o \"minha bandeira jamais será vermelha\" READ THE ROOM",
+          "url": "https://bsky.app/profile/ademare.bsky.social/post/3mzij5rhtq22y",
+          "subreddit": "bsky_pa"
+        },
+        {
+          "title": "@goku_curitibano Belém do Pará é assim todo o dia.",
+          "url": "https://bsky.app/profile/kaedu.organica.social.ap.brid.gy/post/3mzqkfm764fl2",
+          "subreddit": "bsky_pa"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Sonhar tanto com um lugar que nunca visitou é um sinal de que Belém tem algo que atrai, seja a cultura, a comida ou o jeito do povo. A cidade desperta curiosidade em quem nem conhece, e isso diz muito sobre a força dela.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Sonho é sonho, não significa nada demais. Ficar repetindo que sonha com Belém só rende conversa fiada na internet, e o pessoal ainda aproveita para puxar assunto sobre política e bandeira, o que não tem nada a ver com o relato original.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O relato é curioso, mas o que chama atenção é como qualquer menção a Belém vira gancho para falar de identidade regional, como a discussão sobre o Amapá e o Pará. A cidade acaba servindo de ponto de partida para outras conversas.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzqb2qc6ls2d",
+      "rank": 10,
+      "title": "Comprador de apartamento em leilão se beneficia da desgraça alheia, diz post",
+      "label": "Leilão de imóveis · Crítica ao comprador",
+      "context": "Um post no Bluesky afirma que quem compra apartamento em leilão se beneficia da situação de desgraça da família que perdeu o imóvel, pagando abaixo do preço de mercado. A discussão gira em torno de como o mercado de leilões funciona e de quem lucra com a perda do imóvel.",
+      "source": "bluesky",
+      "subreddit": "bsky_pa",
+      "permalink": "https://bsky.app/profile/keshi.bsky.social/post/3mzqb2qc6ls2d",
+      "createdAt": "2026-11-07T15:55:20.382000+00:00",
+      "rawScore": 0.14837925590839057,
+      "relevanceScore": 0.15551294362150916,
+      "suggestedRadius": 59.66,
+      "imageUrl": "assets/images/bsky_3mzqb2qc6ls2d_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzqb2qc6ls2d_wiki_thumb.jpg",
+      "category": "economia",
+      "region": "br-pa",
+      "sources": [
+        {
+          "title": "Toda e qualquer pessoa que compra apartamento em leilão é, inerentemente, filha da puta. Pq um apartamento só vai a leilão pq a família está em um estado de desgraça aguda e a pessoa que compra se beneficia da desgraça alheia para comprar um imóvel abaixo do preço do mercado.",
+          "url": "https://bsky.app/profile/keshi.bsky.social/post/3mzqb2qc6ls2d",
+          "subreddit": "bsky_pa"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O mercado de leilão é predatório: a família perde a casa de infância e ainda dificultam o pagamento da dívida para a especulação imobiliária lucrar. Quem compra nesse sistema se beneficia diretamente da desgraça alheia, como o post original aponta.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Generalizar todo comprador de leilão como vilão ignora que existem vários tipos de leilão, inclusive por dívida trabalhista, condomínio ou partilha. O preço mínimo muitas vezes é o valor da dívida, e a demora no processo faz a dívida continuar correndo — não é simplesmente alguém se aproveitando.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A credora às vezes leiloa o imóvel por valor abaixo da dívida só para tirar o devedor do imóvel da forma mais humilhante possível. Isso mostra que o problema não é só o comprador, mas todo o sistema que permite esse tipo de desfecho.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
       "promptVersion": 2
     }
   ]

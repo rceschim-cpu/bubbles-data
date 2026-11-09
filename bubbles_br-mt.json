@@ -1,23 +1,88 @@
 {
-  "generatedAt": "2026-11-09T13:09:21.725606+00:00",
+  "generatedAt": "2026-11-09T22:11:42.236501+00:00",
   "region": "br-mt",
-  "count": 10,
+  "count": 5,
   "items": [
     {
-      "id": "bsky_3mzuvkfcit22h",
+      "id": "bsky_3mzvd3xgci22q",
       "rank": 1,
-      "title": "Brasil de Fato: \"E... Bora!!!!\"",
-      "label": "Brasil de Fato: \"E... Bora!!!!\"",
-      "context": "O portal Brasil de Fato publicou um artigo com o título \"E... Bora!!!!\". A publicação foi feita em 8 de novembro de 2026. O conteúdo exato do artigo não está disponível.",
+      "title": "Flagra de 'Lope' em Mato Grosso viraliza nas redes",
+      "label": "Lope em Mato Grosso · Post viral",
+      "context": "Um post no Bluesky mostra um 'Lope' em Mato Grosso, e a expressão viralizou entre usuários da rede. O termo, usado de forma jocosa, gerou reações e comentários sobre o que seria um 'Lope' no estado.",
+      "source": "bluesky",
+      "subreddit": "bsky_mt",
+      "permalink": "https://bsky.app/profile/ceumadruga.bsky.social/post/3mzvd3xgci22q",
+      "createdAt": "2026-11-09T16:15:06.787000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3mzvd3xgci22q_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzvd3xgci22q_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-mt",
+      "sources": [
+        {
+          "title": "Eu quando vejo um Lope em Mato Grosso 📍",
+          "url": "https://bsky.app/profile/ceumadruga.bsky.social/post/3mzvd3xgci22q",
+          "subreddit": "bsky_mt"
+        },
+        {
+          "title": "pqp os cara escrevendo em inglês no mato grosso a troco de que",
+          "url": "https://bsky.app/profile/remuly.bsky.social/post/3mzvbvlygus2h",
+          "subreddit": "bsky_mt"
+        },
+        {
+          "title": "Incêndio, atropelamentos e ameaça de envenenamento marcam período posterior às eleições no Mato Grosso do Sul; especialistas e lideranças indígenas apontam demora nas demarcações de territórios tradicionais como origem dos conflitos. reporterbrasil.org.br/2026/11/viol...",
+          "url": "https://bsky.app/profile/reporterbrasil.org.br/post/3mzv2rhfrys2p",
+          "subreddit": "bsky_mt"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O post é uma brincadeira leve e engraçada, típica das redes sociais, e ajuda a descontrair o clima pesado de tantas notícias ruins sobre Mato Grosso. Zoar com um 'Lope' é inofensivo e aproxima as pessoas.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Enquanto a internet se diverte com um 'Lope', o estado enfrenta incêndios, atropelamentos e ameaças a indígenas, além do avanço do agro sobre o Pantanal. Essa piada desvia o foco de problemas sérios que precisam de atenção.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A expressão 'Lope' pode ter vários significados e o post é ambíguo, então cada um interpreta como quer. O importante é que o humor não ofusque a discussão sobre o uso do termo e o contexto local.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzuvkfcit22h",
+      "rank": 2,
+      "title": "Brasil de Fato publica matéria e chama público para ação",
+      "label": "Chamada do Brasil de Fato · Mobilização",
+      "context": "O perfil do Brasil de Fato no Bluesky divulgou, em 9 de novembro de 2026, um link para uma matéria publicada no site no dia anterior, acompanhado da convocação \"Bora!!!!\". A publicação funciona como chamada para o público acessar o conteúdo e se engajar com a pauta proposta pelo veículo.",
       "source": "bluesky",
       "subreddit": "bsky_mt",
       "permalink": "https://bsky.app/profile/jurnalista.bsky.social/post/3mzuvkfcit22h",
       "createdAt": "2026-11-09T12:12:41.470000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3mzuvkfcit22h_ai.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzuvkfcit22h_ai_thumb.jpg",
+      "rawScore": 0.6003729206042565,
+      "relevanceScore": 0.42238753634137743,
+      "suggestedRadius": 74.99,
+      "imageUrl": "assets/images/bsky_3mzuvkfcit22h_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzuvkfcit22h_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-mt",
       "sources": [
@@ -31,7 +96,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Achei o título \"E... Bora!!!!\" super instigante e direto, me deixou curioso para saber o que o Brasil de Fato preparou. É um convite para ação e para descobrir o conteúdo.",
+          "text": "A chamada do Brasil de Fato cumpre o papel de mobilizar o público em torno de uma pauta que o veículo considera relevante, e o tom direto do \"Bora!!!!\" aproxima o leitor em vez de soar formal demais.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -39,7 +104,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Esse título \"E... Bora!!!!\" do Brasil de Fato é muito vago e pouco profissional. Não diz nada sobre o assunto e parece mais uma gíria informal do que uma chamada para uma notícia séria.",
+          "text": "Divulgar só o link com um \"Bora!!!!\" e nenhuma explicação sobre o conteúdo da matéria deixa o leitor sem saber do que se trata, o que enfraquece a própria chamada e não ajuda quem ainda não conhece a pauta.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -47,30 +112,30 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O título \"E... Bora!!!!\" pode funcionar para gerar curiosidade inicial, mas o conteúdo do artigo precisa entregar algo relevante para justificar essa abordagem informal. Depende muito do público e do tema.",
+          "text": "O post é apenas uma chamada para a matéria do site, então o que realmente importa está no texto completo publicado no dia anterior; o tuíte sozinho diz pouco sobre o assunto em si.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "models/gemini-2.5-flash-lite",
+      "enrichedBy": "deepseek-chat",
       "promptVersion": 2
     },
     {
       "id": "bsky_3mztjww5spc2x",
-      "rank": 2,
-      "title": "Alvinho, tamanduá de pelagem clara, é monitorado no Cerrado após 4 anos de sua descoberta",
-      "label": "Tamanduá Alvinho é monitorado no Cerrado",
-      "context": "Um tamanduá com pelagem clara, apelidado de Alvinho, foi avistado pela primeira vez em 2022 no Cerrado de Mato Grosso do Sul. Pesquisadores do ICAS passaram a monitorar o animal desde então. Agora, após quatro anos, começam a surgir respostas sobre sua sobrevivência.",
+      "rank": 3,
+      "title": "Alvinho, o tamanduá-bandeira de pelagem clara, é monitorado no Cerrado do MS",
+      "label": "Tamanduá Alvinho · Monitoramento no Cerrado",
+      "context": "Alvinho, um tamanduá-bandeira de pelagem clara avistado em 2022 por funcionários de uma fazenda no Cerrado do Mato Grosso do Sul, é monitorado desde então por pesquisadores do ICAS. Quatro anos depois, os estudos começam a responder perguntas sobre a sobrevivência do animal.",
       "source": "bluesky",
       "subreddit": "bsky_mt",
       "permalink": "https://bsky.app/profile/conexaoplaneta.bsky.social/post/3mztjww5spc2x",
       "createdAt": "2026-11-08T23:12:17.678000+00:00",
-      "rawScore": 0.6965003041297086,
-      "relevanceScore": 0.7738892268107873,
-      "suggestedRadius": 88.78,
-      "imageUrl": "assets/images/bsky_3mztjww5spc2x_ai.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztjww5spc2x_ai_thumb.jpg",
+      "rawScore": 0.5445446693850378,
+      "relevanceScore": 0.37738863504260733,
+      "suggestedRadius": 72.86,
+      "imageUrl": "assets/images/bsky_3mztjww5spc2x_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mztjww5spc2x_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-mt",
       "sources": [
@@ -84,17 +149,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "É fundamental que a gente proteja e mantenha a fauna, como o Alvinho, pois isso é um dever de toda a humanidade e garante a biodiversidade.",
+          "text": "O trabalho do ICAS com o Alvinho mostra como a pesquisa de campo é essencial para entender a fauna do Cerrado. Acompanhar um animal de pelagem diferente por quatro anos gera dados que ajudam a proteger a espécie e o bioma.",
           "source": "sintese",
           "evidence": [
-            1
+            2
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A falta de monitoramento adequado e de políticas públicas eficazes para a conservação de espécies como o Alvinho é preocupante.",
+          "text": "Quatro anos de monitoramento e ainda não há resposta clara sobre a sobrevivência do Alvinho. A divulgação de reportagens bonitas sem dados concretos sobre o que aconteceu com o animal não ajuda em nada a conservação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -102,32 +167,30 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A história do Alvinho é um exemplo interessante de como a ciência pode acompanhar a vida selvagem e responder dúvidas sobre a sobrevivência de animais com características incomuns.",
+          "text": "A história do Alvinho é interessante, mas o que importa mesmo é saber se a pelagem clara traz alguma desvantagem para ele na natureza. Sem essa resposta, o monitoramento fica mais como curiosidade do que como ferramenta de proteção.",
           "source": "sintese",
-          "evidence": [
-            2
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "models/gemini-2.5-flash-lite",
+      "enrichedBy": "deepseek-chat",
       "promptVersion": 2
     },
     {
       "id": "bsky_3mzss4qyxik2n",
-      "rank": 3,
-      "title": "Incêndios no Pará coincidem com pressão do agronegócio e posse de infrator ambiental",
-      "label": "Incêndios no Pará e agronegócio",
-      "context": "O estado do Pará registra um aumento de incêndios em áreas de pressão do agronegócio, especialmente no trecho da Cuiabá-Santarém e no Marajó. Isso ocorre no momento em que a secretaria de meio ambiente estadual será assumida por um advogado de infratores ambientais.",
+      "rank": 4,
+      "title": "Pará tem muitos incêndios em áreas de pressão do agronegócio",
+      "label": "Incêndios no Pará · Pressão do agronegócio",
+      "context": "O Pará registra muitos incêndios, concentrados no trecho da Cuiabá-Santarém e no Marajó, áreas de pressão do agronegócio. O momento coincide com a chegada de um advogado de infratores ambientais à secretaria estadual de meio ambiente.",
       "source": "bluesky",
       "subreddit": "bsky_mt",
       "permalink": "https://bsky.app/profile/yrs-pa.bsky.social/post/3mzss4qyxik2n",
       "createdAt": "2026-11-08T16:06:00.769000+00:00",
-      "rawScore": 0.6005340619671289,
-      "relevanceScore": 0.6672600688523654,
-      "suggestedRadius": 85.01,
-      "imageUrl": "assets/images/bsky_3mzss4qyxik2n_ai.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzss4qyxik2n_ai_thumb.jpg",
+      "rawScore": 0.50937263485225,
+      "relevanceScore": 0.34903913678941817,
+      "suggestedRadius": 71.45,
+      "imageUrl": "assets/images/bsky_3mzss4qyxik2n_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzss4qyxik2n_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-mt",
       "sources": [
@@ -141,166 +204,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A coincidência dos incêndios com a pressão do agronegócio e a nomeação de um defensor de infratores para a secretaria de meio ambiente mostra um descaso com a preservação. É um sinal claro de que os interesses econômicos estão se sobrepondo à proteção ambiental no Pará.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A proibição da governadora de apoio da PM ao Ibama e ICMBio, visando votos, facilita a ação de grileiros e fazendeiros que causam os incêndios. Essa política é um desserviço ao meio ambiente e à população que sofre com a fumaça e a destruição.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A nomeação de um advogado de infratores ambientais para a secretaria de meio ambiente, somada aos incêndios em áreas de agronegócio, levanta sérias questões sobre a fiscalização e o futuro da proteção ambiental no Pará. É preciso investigar a fundo essas conexões.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "models/gemini-2.5-flash-lite",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzstzu3bn22t",
-      "rank": 4,
-      "title": "Sem intervenção federal, Estado vai exterminar Amazônia, diz post",
-      "label": "Amazônia em risco por falta de ação federal",
-      "context": "Um post afirma que a ausência de intervenção forte do Governo Federal levará um Estado a exterminar a Floresta Amazônica. A publicação compara a situação com o Pantanal, que estaria sendo devastado pelo agronegócio.",
-      "source": "bluesky",
-      "subreddit": "bsky_mt",
-      "permalink": "https://bsky.app/profile/belga.bsky.social/post/3mzstzu3bn22t",
-      "createdAt": "2026-11-08T16:40:11.769000+00:00",
-      "rawScore": 0.3271568134849362,
-      "relevanceScore": 0.363507570538818,
-      "suggestedRadius": 72.17,
-      "imageUrl": "assets/images/bsky_3mzstzu3bn22t_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzstzu3bn22t_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-mt",
-      "sources": [
-        {
-          "title": "Sem intervenção forte do Governo Federal, aquele Estado vai exterminar a Floresta Amazônia que é seu maior patrimônio. Assim como o Mato Grosso do Sul está fazendo com o Pantanal. É boi, soja e milho e o resto que se FODA!",
-          "url": "https://bsky.app/profile/belga.bsky.social/post/3mzstzu3bn22t",
-          "subreddit": "bsky_mt"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A Amazônia é um patrimônio que precisa ser protegido com unhas e dentes, e a falta de ação do governo federal é um convite à destruição. Precisamos de intervenção forte para evitar que o agronegócio avance sobre a floresta, como já acontece no Pantanal.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Essa visão de que o Estado vai destruir a Amazônia sem o governo federal é um exagero. O agronegócio é fundamental para a economia e não é o vilão que pintam. A floresta e o desenvolvimento podem coexistir.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A questão é complexa e envolve o equilíbrio entre preservação ambiental e desenvolvimento econômico. A falta de clareza sobre as políticas federais dificulta a definição de responsabilidades e ações eficazes.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "models/gemini-2.5-flash-lite",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzprcv5trk2q",
-      "rank": 5,
-      "title": "Em Paranhos, Mato Grosso do Sul, estado dominado pelo agronegócio sojeiro tóxico",
-      "label": "Agronegócio e domínio político no MS",
-      "context": "O post descreve Paranhos, no Mato Grosso do Sul, como um estado dominado política e economicamente pelo agronegócio da soja. Essa influência do setor é apontada como tóxica.",
-      "source": "bluesky",
-      "subreddit": "bsky_mt",
-      "permalink": "https://bsky.app/profile/beatrizdiniz.bsky.social/post/3mzprcv5trk2q",
-      "createdAt": "2026-11-07T11:13:32.574000+00:00",
-      "rawScore": 0.13820031844625882,
-      "relevanceScore": 0.15355590938473201,
-      "suggestedRadius": 59.51,
-      "imageUrl": "assets/images/bsky_3mzprcv5trk2q_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzprcv5trk2q_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-mt",
-      "sources": [
-        {
-          "title": "Em Paranhos, no Mato Grosso do Sul, aquele estado dominado politica e economicamente pelo agro latifundiário sojeiro tóxico",
-          "url": "https://bsky.app/profile/beatrizdiniz.bsky.social/post/3mzprcv5trk2q",
-          "subreddit": "bsky_mt"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O agronegócio é a força motriz do Mato Grosso do Sul, gerando empregos e riqueza para o estado. A soja, em particular, tem sido um motor de desenvolvimento econômico, impulsionando a infraestrutura e o comércio.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A concentração de poder nas mãos do agronegócio sojeiro sufoca a diversidade econômica e política do Mato Grosso do Sul. Essa dependência excessiva cria um ambiente tóxico que prejudica o desenvolvimento sustentável e a justiça social.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "É preciso analisar o impacto real do agronegócio no Mato Grosso do Sul, considerando tanto os benefícios econômicos quanto os custos ambientais e sociais. Uma gestão equilibrada é fundamental para o futuro do estado.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "models/gemini-2.5-flash-lite",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzp3vtx6fc2v",
-      "rank": 6,
-      "title": "Fazendo minha parte no interior de Mato Grosso do Sul",
-      "label": "Vida no interior de Mato Grosso do Sul",
-      "context": "Um usuário do Bluesky compartilhou uma postagem sobre suas ações em uma localidade remota de Mato Grosso do Sul. A postagem reflete a iniciativa individual em contribuir para a região.",
-      "source": "bluesky",
-      "subreddit": "bsky_mt",
-      "permalink": "https://bsky.app/profile/neoboy.bsky.social/post/3mzp3vtx6fc2v",
-      "createdAt": "2026-11-07T04:50:26.779000+00:00",
-      "rawScore": 0.10434741805235742,
-      "relevanceScore": 0.11594157561373046,
-      "suggestedRadius": 56.43,
-      "imageUrl": "assets/images/bsky_3mzp3vtx6fc2v_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzp3vtx6fc2v_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-mt",
-      "sources": [
-        {
-          "title": "fazendo minha parte aqui no cu de Mato Grosso do Sul",
-          "url": "https://bsky.app/profile/neoboy.bsky.social/post/3mzp3vtx6fc2v",
-          "subreddit": "bsky_mt"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "É muito bom ver gente fazendo a diferença onde mora, mesmo que seja um lugar mais afastado. Cada um fazendo sua parte ajuda a comunidade a crescer e melhora a vida de todo mundo.",
+          "text": "A coincidência entre os focos de incêndio e as áreas de pressão do agronegócio não é acaso: o fogo serve para abrir pasto e lavoura. E a nomeação de um advogado de infratores para a secretaria de meio ambiente só confirma que a fiscalização vai afrouxar justamente onde precisa apertar.",
           "source": "sintese",
           "evidence": [
             1
@@ -310,66 +214,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa expressão 'cu de Mato Grosso do Sul' mostra o descaso com as regiões mais afastadas. Precisamos de mais atenção e investimento nessas áreas, não de piadas.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A expressão pode ser vista como um jeito informal de falar de um lugar distante, mas o importante é a ação de quem está lá. O que realmente importa é o que a pessoa está fazendo.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "models/gemini-2.5-flash-lite",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mziphybics2s",
-      "rank": 7,
-      "title": "Motoqueiro Fantasma se muda para Mato Grosso, passa em concurso do IBAMA e explode balsa de garimpo",
-      "label": "Motoqueiro Fantasma explode balsa de garimpo no MT",
-      "context": "Um motoqueiro fantasma se mudou para o Mato Grosso e passou em um concurso do IBAMA. Ele agora explodiu uma balsa usada para garimpo ilegal. A ação visa combater atividades ilegais na região.",
-      "source": "bluesky",
-      "subreddit": "bsky_mt",
-      "permalink": "https://bsky.app/profile/emoviolencedagama.bsky.social/post/3mziphybics2s",
-      "createdAt": "2026-11-04T15:51:59.489000+00:00",
-      "rawScore": 0.0826830074997574,
-      "relevanceScore": 0.09187000833306379,
-      "suggestedRadius": 54.19,
-      "imageUrl": "assets/images/bsky_3mziphybics2s_ai.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mziphybics2s_ai_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-mt",
-      "sources": [
-        {
-          "title": "URGENTE: motoqueiro fantasma se mudou pro Mato Grosso, passou no concurso do ibama e agora explode balsa de garimpo",
-          "url": "https://bsky.app/profile/emoviolencedagama.bsky.social/post/3mziphybics2s",
-          "subreddit": "bsky_mt"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O Espírito da Vingança estudou no cursinho para isso! Finalmente alguém com poder para acabar com o garimpo ilegal no Mato Grosso.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Explodir balsas de garimpo, mesmo ilegais, pode causar danos ambientais e colocar vidas em risco. É preciso ter cuidado com ações extremas.",
+          "text": "Atribuir os incêndios a pressão do agronegócio ignora que o Pará tem seca severa e queimadas por fatores climáticos e culturais de manejo. A nomeação do novo secretário é legal e ele tem direito de defesa; julgar antes de assumir é condenação sem prova.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -377,30 +222,32 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A presença do Motoqueiro Fantasma e suas ações contra o garimpo levantam questões sobre a eficácia e os limites da lei em áreas remotas.",
+          "text": "A governadora já tinha barrado apoio da PM ao IBAMA e ao ICMBio em busca de voto, então o problema é maior que um secretário. Sem dados oficiais de origem dos focos e sem saber o que a nova gestão vai fazer, fica difícil separar coincidência de intenção.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
-      "enrichedBy": "models/gemini-2.5-flash-lite",
+      "enrichedBy": "deepseek-chat",
       "promptVersion": 2
     },
     {
       "id": "bsky_3mzo6hla7lc2n",
-      "rank": 8,
-      "title": "Medida protege território quilombola Mata Cavalo e cemitério de exploração de ouro",
+      "rank": 5,
+      "title": "Medida protege território quilombola Mata Cavalo e cemitério centenário de impactos da exploração de ouro",
       "label": "Proteção de território quilombola contra mineração",
-      "context": "Uma nova medida foi implementada com o objetivo de salvaguardar o território da comunidade quilombola Mata Cavalo e seu Cemitério Centenário. A ação visa prevenir potenciais danos decorrentes da exploração de ouro na região.",
+      "context": "Uma medida busca proteger o território da comunidade quilombola Mata Cavalo e seu Cemitério Centenário dos possíveis impactos da exploração de ouro. A decisão envolve diretamente a preservação do local e da memória da comunidade diante da atividade mineradora.",
       "source": "bluesky",
       "subreddit": "bsky_mt",
       "permalink": "https://bsky.app/profile/taniapac.bsky.social/post/3mzo6hla7lc2n",
       "createdAt": "2026-11-06T20:03:31.286000+00:00",
-      "rawScore": 0.08221753837652614,
-      "relevanceScore": 0.09135282041836237,
-      "suggestedRadius": 54.13,
-      "imageUrl": "assets/images/bsky_3mzo6hla7lc2n_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzo6hla7lc2n_wiki_thumb.jpg",
+      "rawScore": 0.07633440388211978,
+      "relevanceScore": 0.0,
+      "suggestedRadius": 36.0,
+      "imageUrl": "assets/images/bsky_3mzo6hla7lc2n_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzo6hla7lc2n_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-mt",
       "sources": [
@@ -414,7 +261,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Essa proteção é fundamental para garantir a preservação da história e da cultura da comunidade quilombola Mata Cavalo. O cemitério centenário é um patrimônio que precisa ser resguardado de qualquer impacto negativo da mineração.",
+          "text": "A proteção do território quilombola Mata Cavalo e do seu Cemitério Centenário é uma vitória para a comunidade, que preserva sua história e cultura. A medida impede que a exploração de ouro destrua um patrimônio de valor inestimável.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -422,7 +269,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A exploração de ouro pode trazer desenvolvimento e empregos para a região, e essa medida restritiva pode acabar prejudicando a economia local. É preciso encontrar um equilíbrio entre a preservação e o progresso.",
+          "text": "A restrição à exploração de ouro pode prejudicar o desenvolvimento econômico local, gerando desemprego e perda de renda. A medida precisa considerar também o sustento das famílias que dependem da mineração na região.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -430,125 +277,13 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A real necessidade dessa proteção depende de uma avaliação técnica detalhada sobre os riscos da exploração de ouro. É importante entender se os impactos são realmente significativos a ponto de justificar a restrição.",
+          "text": "A proteção do território quilombola é importante, mas é preciso avaliar se a medida foi discutida com todos os envolvidos, incluindo a comunidade e os setores econômicos, para garantir que não haja impactos negativos imprevistos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "models/gemini-2.5-flash-lite",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzsjlxhfus2l",
-      "rank": 9,
-      "title": "Veterana foi jurada de morte em MT e deixou de fiscalizar fazenda por medo",
-      "label": "Ameaça a fiscal em Mato Grosso",
-      "context": "Uma fiscal de fazenda foi ameaçada de morte em Mato Grosso e, por medo, deixou de realizar suas atividades na região. A situação ocorreu em meio ao trabalho de fiscalização de propriedades rurais.",
-      "source": "bluesky",
-      "subreddit": "bsky_mt",
-      "permalink": "https://bsky.app/profile/hitaisaka.bsky.social/post/3mzsjlxhfus2l",
-      "createdAt": "2026-11-08T13:32:51.176000+00:00",
-      "rawScore": 0.07778711755652629,
-      "relevanceScore": 0.08643013061836254,
-      "suggestedRadius": 53.64,
-      "imageUrl": "assets/images/bsky_3mzsjlxhfus2l_ai.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzsjlxhfus2l_ai_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-mt",
-      "sources": [
-        {
-          "title": "Uma veterana minha simplesmente foi jurada de morte no mato grosso, e não podia mais ir lá fiscalizar fazenda, por medo à própria vida.",
-          "url": "https://bsky.app/profile/hitaisaka.bsky.social/post/3mzsjlxhfus2l",
-          "subreddit": "bsky_mt"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A segurança da fiscal precisa ser garantida para que ela possa continuar o trabalho importante de fiscalização. Ameaças assim são inaceitáveis e precisam ser investigadas a fundo para punir os responsáveis.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "É revoltante que profissionais que realizam um trabalho essencial para o meio ambiente e a sociedade sejam alvo de ameaças e intimidação. Isso mostra a fragilidade da proteção a esses trabalhadores.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A situação levanta a questão sobre as condições de trabalho e segurança dos fiscais em áreas de conflito. É preciso entender o que levou a essa ameaça para evitar que se repita.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "models/gemini-2.5-flash-lite",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzasqbdbrc2i",
-      "rank": 10,
-      "title": "Força Nacional reforçará segurança em aldeias Guarani Kaiowá no MS",
-      "label": "Segurança em aldeias indígenas Guarani Kaiowá",
-      "context": "O governo federal anunciou a ampliação do efetivo da Força Nacional em aldeias Guarani Kaiowá em Mato Grosso do Sul. A medida visa o monitoramento permanente das comunidades indígenas.",
-      "source": "bluesky",
-      "subreddit": "bsky_mt",
-      "permalink": "https://bsky.app/profile/luisnassif.bsky.social/post/3mzasqbdbrc2i",
-      "createdAt": "2026-11-01T12:29:55.879000+00:00",
-      "rawScore": 0.0763450300552508,
-      "relevanceScore": 0.08482781117250089,
-      "suggestedRadius": 53.48,
-      "imageUrl": "assets/images/bsky_3mzasqbdbrc2i_ai.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzasqbdbrc2i_ai_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-mt",
-      "sources": [
-        {
-          "title": "Força Nacional reforçará segurança em aldeias Guarani Kaiowá Governo federal anuncia ampliação do efetivo em Mato Grosso do Sul e monitoramento permanente das comunidades indígenas. jornalggn.com.br/cidadania/fo...",
-          "url": "https://bsky.app/profile/luisnassif.bsky.social/post/3mzasqbdbrc2i",
-          "subreddit": "bsky_mt"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "É muito bom que as forças de segurança garantam que invasores não violem o povo originário. A presença policial é necessária para assegurar o respeito a essas comunidades.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A presença da Força Nacional pode gerar mais conflitos e não resolve a questão da invasão de terras indígenas. Precisamos de soluções que garantam o respeito sem a necessidade de polícia.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A ampliação do efetivo da Força Nacional é um passo importante, mas é preciso questionar se essa é a única ou a melhor forma de garantir a segurança e o respeito aos povos originários.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "models/gemini-2.5-flash-lite",
+      "enrichedBy": "deepseek-chat",
       "promptVersion": 2
     }
   ]
