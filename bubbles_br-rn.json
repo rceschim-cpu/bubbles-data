@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-09T22:11:42.236501+00:00",
+  "generatedAt": "2026-11-10T06:39:44.986513+00:00",
   "region": "br-rn",
   "count": 8,
   "items": [
     {
       "id": "bsky_3mztzasl35c22",
       "rank": 1,
-      "title": "Lula parabeniza pronunciamento que celebra a vitória da democracia",
-      "label": "Lula e RN · Vitória da democracia",
-      "context": "O presidente Luiz Inácio Lula da Silva recebeu parabéns de um perfil do Rio Grande do Norte por um pronunciamento que, segundo a mensagem, celebra a vitória da democracia. A publicação também afirma que o estado está pronto para seguir construindo, em parceria com o Governo Federal, um Brasil mais justo e desenvolvido.",
+      "title": "Lula elogia pronunciamento e parceria com o Rio Grande do Norte",
+      "label": "Lula e Rio Grande do Norte · Parceria",
+      "context": "O presidente Lula da Silva recebeu elogios de um perfil potiguar no Bluesky por seu pronunciamento, que foi descrito como uma celebração da vitória da democracia. A mensagem também afirma que o Rio Grande do Norte está pronto para seguir construindo, em parceria com o Governo Federal, um Brasil mais justo e desenvolvido.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/ribeirotrilhas.bsky.social/post/3mztzasl35c22",
@@ -41,7 +41,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O pronunciamento do Lula renova a esperança e mostra que o Rio Grande do Norte pode contar com o Governo Federal para construir um Brasil mais justo. Celebrar a vitória da democracia é fundamental nesse momento.",
+          "text": "A parceria entre o Rio Grande do Norte e o Governo Federal é o caminho para um Brasil mais justo e desenvolvido, e o pronunciamento de Lula renova a esperança ao celebrar a vitória da democracia.",
           "source": "sintese",
           "evidence": [
             1
@@ -51,20 +51,21 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ficar só no discurso bonito não resolve. O Rio Grande do Norte precisa é de ações concretas na segurança pública e de cobrança sobre quem foge das responsabilidades, não de parceria que não sai do papel.",
+          "text": "Lula poderia usar o quarto mandato para se consagrar com retomada do crescimento e controle da inflação, mas não demonstra inteligência para isso; além disso, a autonomia do Banco Central deveria ser revista.",
           "source": "sintese",
           "evidence": [
-            5
+            4,
+            6
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A parceria com o Governo Federal é bem-vinda, mas antes de comemorar é preciso discutir a autonomia do Banco Central e outras questões econômicas que afetam diretamente o estado e o país.",
+          "text": "A segurança pública precisa ser cobrada do governador ou de seu suplente, e não apenas celebrada em pronunciamentos; é preciso saber que história é essa na segurança do estado.",
           "source": "sintese",
           "evidence": [
-            4
+            5
           ],
           "votes": 0
         }
@@ -75,18 +76,18 @@
     {
       "id": "bsky_3mznyxqheak2e",
       "rank": 2,
-      "title": "Após reunião com Lula, Cadu anuncia avanços para construção da terceira ponte de Natal blogdobarreto.com.br/apos-reuniao...",
-      "label": "",
-      "context": "",
+      "title": "Após reunião com Lula, Cadu anuncia avanços para construção da terceira ponte de Natal",
+      "label": "Terceira ponte de Natal · Anúncio de avanços",
+      "context": "O prefeito de Natal, Cadu, anunciou avanços para a construção da terceira ponte da cidade após uma reunião com o presidente Lula. O anúncio indica que o projeto, que depende de articulação com o governo federal, pode entrar em uma nova fase.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/brunobarretojor.bsky.social/post/3mznyxqheak2e",
       "createdAt": "2026-11-06T18:25:09.580000+00:00",
-      "rawScore": 0.0946715675205322,
-      "relevanceScore": 0.14974735963117863,
-      "suggestedRadius": 59.22,
+      "rawScore": 0.10313032176494288,
+      "relevanceScore": 0.15625409366534068,
+      "suggestedRadius": 59.72,
       "imageUrl": "assets/images/bsky_3mznyxqheak2e_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mznyxqheak2e_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mznyxqheak2e_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-rn",
       "sources": [
@@ -101,23 +102,48 @@
           "subreddit": "bsky_rn"
         }
       ],
-      "opinions": [],
-      "enrichedBy": "",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A reunião com Lula destrava um projeto que a cidade espera há anos. Se o anúncio virar obra, a terceira ponte vai melhorar o trânsito e o desenvolvimento da zona Norte, mostrando que a parceria com o governo federal funciona.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Mais um anúncio de avanço que não sai do papel. A terceira ponte é prometida há tanto tempo que já virou piada, e enquanto isso o natalense continua enfrentando engarrafamento. Cadu precisa apresentar prazo e verba, não só foto com Lula.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O anúncio é positivo, mas depende de licitação, recursos e cronograma. Sem esses detalhes divulgados, fica difícil saber se é um avanço real ou apenas mais uma etapa burocrática. A população merece transparência sobre os próximos passos.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
       "promptVersion": 2
     },
     {
       "id": "bsky_3mzqmzyc6js2u",
       "rank": 3,
-      "title": "Chuva forte causa alagamentos no Rio e na Baixada Fluminense",
+      "title": "Chuva forte causa alagamentos em bairros do Rio e na Baixada Fluminense",
       "label": "Alagamentos no Rio após chuva forte",
-      "context": "Uma chuva forte atingiu o Rio de Janeiro na tarde desta sexta-feira, provocando alagamentos em bairros como Jacarepaguá e Lapa, no Centro, além de ruas de Duque de Caxias, na Baixada Fluminense. As zonas Norte e Sul da cidade também registraram chuva intensa, segundo o g1.",
+      "context": "Por volta das 15h50, choveu forte em áreas das zonas Norte e Sul do Rio, no Centro e na Baixada Fluminense, deixando ruas alagadas em bairros como Jacarepaguá, Lapa e Duque de Caxias. Os alagamentos afetam a rotina de moradores e o trânsito nessas regiões.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/beatrizdiniz.bsky.social/post/3mzqmzyc6js2u",
       "createdAt": "2026-11-07T19:29:40.069000+00:00",
-      "rawScore": 0.1737032773732949,
-      "relevanceScore": 0.13361790567176532,
-      "suggestedRadius": 57.93,
+      "rawScore": 0.1813665282556374,
+      "relevanceScore": 0.139512714042798,
+      "suggestedRadius": 58.41,
       "imageUrl": "assets/images/bsky_3mzqmzyc6js2u_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzqmzyc6js2u_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -133,7 +159,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A previsão de chuva forte para o Rio se confirmou e os alagamentos em Jacarepaguá e na Lapa mostram que o volume de água foi realmente alto. Pelo menos o g1 alertou a população em tempo real, o que ajuda as pessoas a se prepararem e evitarem áreas de risco.",
+          "text": "A prefeitura precisa agir rápido para limpar os bueiros e evitar que a água se acumule ainda mais. Com a chuva forte que caiu em pouco tempo, é essencial que a Defesa Civil esteja preparada para atender emergências e orientar a população.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -141,7 +167,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ruas de Duque de Caxias e bairros como Jacarepaguá alagaram com poucas horas de chuva, o que expõe a falta de manutenção no sistema de drenagem. A prefeitura precisa investir em limpeza de bueiros e obras de contenção, porque todo ano a história se repete.",
+          "text": "A falta de investimento em drenagem urbana é evidente. Bairros como Jacarepaguá e Duque de Caxias sofrem com alagamentos recorrentes, e nada é feito para resolver o problema de forma estrutural. A população fica refém da chuva.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -149,7 +175,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Alagamentos em pontos como a Lapa e Jacarepaguá são um problema recorrente, mas é preciso ver se a chuva foi realmente excepcional ou se a infraestrutura está aquém do esperado. Sem dados pluviométricos fica difícil cobrar responsabilidade ou minimizar a situação.",
+          "text": "A chuva forte foi um evento pontual, mas os alagamentos mostram a necessidade de melhorar a infraestrutura da cidade. É preciso um plano de contenção que envolva poder público e comunidade para minimizar os impactos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -161,16 +187,16 @@
     {
       "id": "bsky_3mzsntrof7s2b",
       "rank": 4,
-      "title": "Colmeias derretendo: vídeo mostra impacto do calor extremo",
-      "label": "Colmeias derretem com calor extremo",
-      "context": "Um vídeo publicado no Bluesky mostra colmeias derretendo, atribuindo o fato ao calor extremo. A imagem viraliza como exemplo visível de como temperaturas altas afetam a apicultura e a produção de mel.",
+      "title": "Colmeias derretendo: vídeo mostra colmeias derretendo",
+      "label": "Colmeias derretendo em vídeo viral",
+      "context": "Um vídeo publicado no Bluesky mostra colmeias derretendo, com a legenda \"As colmeias derretendo meu Deus\". A publicação viralizou ao exibir a cena, que gerou reações de espanto nas redes.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/escorpionica.bsky.social/post/3mzsntrof7s2b",
       "createdAt": "2026-11-08T14:49:26.069000+00:00",
-      "rawScore": 0.14705543695197176,
-      "relevanceScore": 0.11311956688613212,
-      "suggestedRadius": 56.18,
+      "rawScore": 0.14083925595423433,
+      "relevanceScore": 0.10833788919556486,
+      "suggestedRadius": 55.75,
       "imageUrl": "assets/images/bsky_3mzsntrof7s2b_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzsntrof7s2b_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -186,7 +212,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O vídeo escancara um problema que muita gente ainda ignora: o calor extremo está derretendo colmeias e colocando em risco a apicultura. Mostrar isso de forma direta é o melhor jeito de chamar atenção para o que está acontecendo com as abelhas.",
+          "text": "O vídeo escancara um problema real: as colmeias estão derretendo e isso mostra o quanto as abelhas sofrem com o calor extremo. Divulgar imagens assim é o que faz as pessoas prestarem atenção no que está acontecendo com os polinizadores.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -194,7 +220,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Uma imagem de colmeia derretendo não prova nada sobre o clima. Pode ser calor local, manejo errado ou até encenação para viralizar. Usar um vídeo solto como prova de um fenômeno global é sensacionalismo barato que só confunde quem quer entender o assunto.",
+          "text": "Postar um vídeo de colmeias derretendo com uma legenda de espanto não resolve nada e ainda pode ser alarmismo. Sem explicar a causa nem dar contexto, a publicação só assusta quem vê e não ajuda a entender o que realmente aconteceu ali.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -202,7 +228,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O vídeo impressiona, mas falta saber onde e quando foi gravado, qual a temperatura no momento e se outras colmeias da região também derreteram. Sem esses dados, dá para se preocupar com as abelhas, mas ainda não dá para afirmar que é um padrão generalizado.",
+          "text": "O vídeo impressiona, mas antes de tirar conclusões vale saber onde e quando foi gravado. Colmeias podem derreter por calor extremo, mas também por outras razões, e sem essa informação fica difícil dizer o que a cena realmente representa.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -215,17 +241,17 @@
       "id": "bsky_3mzsfdmtzbs2h",
       "rank": 5,
       "title": "Nascido em Natal, potiguar significa \"comedor de camarão\", mas não gosta de camarão",
-      "label": "Gentílico potiguar · ironia de natalense",
-      "context": "Uma pessoa nascida em Natal, no Rio Grande do Norte, comentou que acha engraçado ser chamada de potiguar, termo associado a \"comedor de camarão\", mesmo sem gostar do crustáceo. A observação brinca com o contraste entre o gentílico e a preferência pessoal de quem nasceu na capital potiguar.",
+      "label": "Gentílico potiguar · ironia pessoal",
+      "context": "Uma pessoa nascida em Natal, no Rio Grande do Norte, comentou que acha engraçado ser chamada de potiguar, termo que significa \"comedor de camarão\", mesmo sem gostar do crustáceo. A observação brinca com a distância entre o gentílico e a experiência pessoal de quem nasceu na capital potiguar.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/heloisarmarques.bsky.social/post/3mzsfdmtzbs2h",
       "createdAt": "2026-11-08T12:19:21.371000+00:00",
-      "rawScore": 0.14244209207612166,
-      "relevanceScore": 0.10957084005855512,
-      "suggestedRadius": 55.86,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.13838161570868057,
+      "relevanceScore": 0.10644739669898505,
+      "suggestedRadius": 55.58,
+      "imageUrl": "assets/images/bsky_3mzsfdmtzbs2h_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzsfdmtzbs2h_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-rn",
       "sources": [
@@ -239,7 +265,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A piada funciona porque o apelido \"comedor de camarão\" virou marca do povo potiguar, e brincar com isso é uma forma leve de celebrar a identidade de quem nasceu em Natal, mesmo sem curtir o crustáceo.",
+          "text": "A piada funciona porque o gentílico potiguar vem mesmo do tupi e significa \"comedor de camarão\", então nascer em Natal e não gostar do crustáceo é uma ironia genuína que vale a brincadeira.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -247,7 +273,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O gentílico potiguar carrega uma história que vai muito além do camarão, e reduzir tudo a uma piada sobre gostar ou não do crustáceo apaga a cultura e a origem do termo para quem é do Rio Grande do Norte.",
+          "text": "O termo potiguar é o gentílico oficial do Rio Grande do Norte e não deveria ser tratado como piada, já que reduz a identidade de um estado inteiro a um apelido sobre camarão que nem todo mundo conhece.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -255,7 +281,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A associação entre potiguar e camarão é curiosa, mas o termo tem origem indígena e ganhou esse sentido popular com o tempo; a ironia de não gostar do crustáceo é só uma coincidência engraçada, não uma regra.",
+          "text": "A origem de potiguar como \"comedor de camarão\" é curiosa, mas o significado real do termo se perdeu com o tempo, então a brincadeira só funciona para quem conhece a etimologia e a relação com Natal.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -269,14 +295,14 @@
       "rank": 6,
       "title": "Luan, você nem imagina que estudo no maior aglomerado de conservadores do MBL e seguidores de Augusto Cury do semiárido potiguar",
       "label": "Conservadores no interior potiguar · relato",
-      "context": "Um usuário relata estudar em uma universidade estadual no semiárido do Rio Grande do Norte, em uma cidade pequena, onde diz haver concentração de conservadores ligados ao MBL e a Augusto Cury. O relato descreve o ambiente do curso de Letras como isolado em relação aos demais, especialmente Matemática e Contabilidade, onde conversas conservadoras seriam frequentes.",
+      "context": "Um usuário relata estudar em uma cidade pequena do semiárido potiguar, em um polo da universidade estadual, onde o curso de Letras seria o único com viés mais progressista. Segundo o relato, os estudantes de Matemática e Contabilidade expressam ideias conservadoras, com referências ao MBL e ao autor Augusto Cury.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/labisfinete.bsky.social/post/3mzljdxzsrk2p",
       "createdAt": "2026-11-05T18:40:20.679000+00:00",
-      "rawScore": 0.03240113085762614,
-      "relevanceScore": 0.024923946813558567,
-      "suggestedRadius": 45.47,
+      "rawScore": 0.03628938039296305,
+      "relevanceScore": 0.027914907994586957,
+      "suggestedRadius": 46.02,
       "imageUrl": "assets/images/bsky_3mzljdxzsrk2p_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzljdxzsrk2p_wiki_thumb.jpg",
       "category": "ciencia",
@@ -292,7 +318,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O relato mostra que o ambiente universitário no interior não é monolítico: mesmo em um polo com forte presença conservadora, o curso de Letras consegue manter um espaço próprio, com menos interação com os demais. Isso indica que a diversidade de pensamento existe, só não é a maioria.",
+          "text": "O relato mostra que o interior potiguar tem diversidade de pensamento, com estudantes de exatas e contabilidade defendendo ideias conservadoras e se organizando em torno de nomes como MBL e Augusto Cury. Isso contraria a ideia de que universidade pública é só de esquerda.",
           "source": "sintese",
           "evidence": [
             1
@@ -302,7 +328,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A descrição de que conversas em Matemática e Contabilidade remetem a 1964 revela um problema real: a universidade pública deveria ser plural, mas em cidades pequenas o conservadorismo do MBL e de Augusto Cury domina o ambiente e isola quem pensa diferente, como no curso de Letras.",
+          "text": "A descrição de que ouvir uma conversa dos colegas de Matemática e Contabilidade faz voltar a 1964 acende um alerta sobre o ambiente universitário em cidades pequenas, onde o conservadorismo pode dominar e isolar quem pensa diferente, como o próprio autor do post sugere ao falar do curso de Letras.",
           "source": "sintese",
           "evidence": [
             1
@@ -312,10 +338,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O relato é de uma experiência pessoal em um polo específico, e a percepção de 'maior aglomerado de conservadores' pode variar conforme o curso e o turno. Letras e Matemática quase não se cruzam, então generalizar o ambiente da universidade inteira a partir dessa convivência limitada é um exagero.",
+          "text": "O comentário sobre precisar ir na bicicleta mostra que a preocupação prática do dia a dia se sobrepõe à discussão ideológica. Em cidade pequena, o deslocamento até o polo da estadual é uma questão concreta que afeta a rotina dos estudantes, independentemente da orientação política dos colegas.",
           "source": "sintese",
           "evidence": [
-            1,
             2
           ],
           "votes": 0
@@ -329,14 +354,14 @@
       "rank": 7,
       "title": "Potiguar elogia sotaque de Rayssa e diz que achava que ela era carioca",
       "label": "Sotaque de Rayssa · Reação potiguar",
-      "context": "Um potiguar publicou no Bluesky que ama como Rayssa conseguiu chegar perto do sotaque do Rio Grande do Norte, e que chegou a achar que ela era carioca pela facilidade com o chiado. O comentário destaca a cadência da fala dela como impecável.",
+      "context": "Um potiguar publicou no Bluesky que Rayssa conseguiu chegar muito perto do sotaque do Rio Grande do Norte, e que por causa da facilidade com o chiado chegou a achar que ela era carioca. O comentário destaca a cadência da fala dela como um ponto forte.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/annesauro.bsky.social/post/3mzjcg5qqw22u",
       "createdAt": "2026-11-04T21:30:57.772000+00:00",
-      "rawScore": 0.021114642418858694,
-      "relevanceScore": 0.016242032629891302,
-      "suggestedRadius": 43.65,
+      "rawScore": 0.02447415756895734,
+      "relevanceScore": 0.018826275053044107,
+      "suggestedRadius": 44.23,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -352,7 +377,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Rayssa acertou o chiado e a cadência de um jeito que engana até quem é daqui. Um potiguar assumiu que achava ela carioca justamente pela facilidade com o nosso jeito de falar, e isso mostra o quanto ela se dedicou.",
+          "text": "A cadência da Rayssa é impecável e ela realmente pegou o chiado do jeito que a gente fala aqui. É raro ver alguém de fora chegar tão perto do nosso sotaque sem soar forçado.",
           "source": "sintese",
           "evidence": [
             1
@@ -362,7 +387,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Chegar perto do sotaque não é o mesmo que falar como a gente. O chiado pode até enganar quem é de fora, mas quem é potiguar percebe que a cadência ainda não é a mesma de quem cresceu ouvindo e falando assim todos os dias.",
+          "text": "Achar que ela é carioca por causa do chiado é um exagero, porque o sotaque potiguar tem particularidades que vão além disso. Soa mais como uma impressão passageira do que como um domínio real do nosso jeito de falar.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -370,11 +395,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O elogio funciona porque a Rayssa claramente se esforçou para soar natural, mas o próprio potiguar admite que ela chegou perto, não que acertou tudo. A cadência impecável ajuda, só que sotaque é detalhe que só quem é da terra reconhece de verdade.",
+          "text": "O comentário mostra como a percepção de sotaque varia: o que para um potiguar soa como chiado carioca pode ser só uma aproximação. Vale ver se outras pessoas da região concordam com essa leitura.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -386,7 +409,7 @@
       "rank": 8,
       "title": "Saudade de Ed*ard* C*sta na voz de Zezo Potiguar",
       "label": "Saudade de Ed*ard* C*sta · Versão Zezo Potiguar",
-      "context": "Um post no Bluesky expressa saudade de Ed*ard* C*sta na voz de Zezo Potiguar, citando o cantor e o intérprete. A publicação gerou comentários que mencionam outras versões e trechos de músicas, indicando que a referência foi reconhecida por quem acompanha o assunto.",
+      "context": "Um post no Bluesky expressa saudade de Ed*ard* C*sta na voz de Zezo Potiguar. A publicação gerou comentários que citam outras versões musicais e um clima de nostalgia.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/cumade.bsky.social/post/3mzlhlyc3mc2r",
@@ -409,17 +432,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A versão de Zezo Potiguar para Ed*ard* C*sta merece ser lembrada, e o post acerta ao trazer essa saudade. É uma forma de valorizar o intérprete e manter viva a memória do cantor.",
+          "text": "A versão de Zezo Potiguar traz uma nostalgia boa demais, dá vontade de ouvir no loop e lembrar de tempos mais simples. Esse ano eu só quero paz no meu coração e quem quiser ser meu amigo me dê a mão.",
           "source": "sintese",
           "evidence": [
-            1
+            2
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ficar preso à versão de Zezo Potiguar é limitar o alcance da obra de Ed*ard* C*sta. Outros artistas, como a MC Carol, também merecem espaço, e a nostalgia não deveria ofuscar novas interpretações.",
+          "text": "Prefiro a versão da MC Carol, que é mais animada e combina com o clima de festa. A versão de Zezo Potiguar é melancólica demais para o meu gosto.",
           "source": "sintese",
           "evidence": [
             3
@@ -429,11 +452,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A saudade de Ed*ard* C*sta na voz de Zezo Potiguar é só um ponto de partida: os comentários mostram que cada um associa a lembrança a uma versão diferente, seja com Grimes ou com MC Carol, e todas têm seu valor.",
+          "text": "Cada versão tem seu momento: a de Zezo Potiguar para relaxar e a da MC Carol para animar. Depende do que você está buscando ouvir agora.",
           "source": "sintese",
           "evidence": [
             1,
-            2,
             3
           ],
           "votes": 0

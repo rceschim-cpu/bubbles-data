@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-09T22:11:42.236501+00:00",
+  "generatedAt": "2026-11-10T06:39:44.986513+00:00",
   "region": "br-df",
-  "count": 8,
+  "count": 10,
   "items": [
     {
       "id": "bsky_3mzulghr6ek2u",
       "rank": 1,
       "title": "Jornalista argentino e o papel da Ford na tortura de sindicalistas",
       "label": "Ford e tortura na Argentina · Entrevista de Lobo",
-      "context": "Um vídeo viral mostra o jornalista argentino Lobo entrevistando executivos da Ford sobre o uso de instalações da empresa para tortura de sindicalistas durante a ditadura argentina. O caso é lembrado como exemplo do envolvimento de empresas com regimes autoritários, e comentários citam episódios semelhantes no Brasil, como a Volkswagen e a Ultragaz.",
+      "context": "Um vídeo viral mostra o jornalista argentino Lobo entrevistando representantes da Ford sobre o uso de instalações da empresa para sequestro e tortura de sindicalistas e dissidentes durante a ditadura argentina. O caso é lembrado como exemplo do envolvimento de empresas com regimes autoritários, e comentários citam episódios semelhantes no Brasil, como a Volkswagen e a Ultragaz.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/jotatx.eurosky.social/post/3mzulghr6ek2u",
@@ -31,7 +31,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O vídeo é fabuloso porque expõe a responsabilidade da Ford na tortura de sindicalistas, com salas usadas dentro da própria fábrica. O jornalista Lobo teve coragem de confrontar os executivos, e isso serve de alerta para outras empresas.",
+          "text": "O vídeo é fabuloso porque expõe a responsabilidade da Ford na Argentina, que cedeu salas para tortura de sindicalistas. O jornalista Lobo conduz a entrevista com coragem, e os executivos riem sem dar explicações. Isso mostra que empresas também foram instrumentais na repressão.",
           "source": "sintese",
           "evidence": [
             1
@@ -41,19 +41,18 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Aqui aconteceu o mesmo com a Volkswagen e a Ultragaz, e muita gente nunca soube. Focar só na Ford argentina esconde que a tortura nas instalações de empresas foi prática comum na América Latina, e o Brasil tem seus próprios casos graves.",
+          "text": "Aqui aconteceu o mesmo, e o caso da Volkswagen em São Bernardo é emblemático: um trabalhador foi torturado e morto nas próprias instalações. A Ultragaz também teve seu presidente, Henning Boilesen, torturando pessoalmente. Não dá para tratar isso como coisa do passado ou só da Argentina.",
           "source": "sintese",
           "evidence": [
             2,
-            3,
-            4
+            3
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O trecho da entrevista é forte, mas o assunto é pouco conhecido. Muitos só descobrem agora, como mostra o comentário surpreso, e vale buscar mais informações sobre o envolvimento de empresas com a ditadura antes de tirar conclusões.",
+          "text": "Nunca soube disso antes, e acho que muita gente também não. O vídeo traz à tona um episódio pouco divulgado, e seria importante que mais pessoas conhecessem esses fatos para entender o que aconteceu nas empresas durante as ditaduras.",
           "source": "sintese",
           "evidence": [
             4
@@ -65,18 +64,124 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzvbj66nec27",
+      "id": "bsky_3mzwh5mmems27",
       "rank": 2,
+      "title": "Cadê um espião pra fingir que gosta de mim em troca de segredos do GDF",
+      "label": "Piada sobre espião e segredos do GDF",
+      "context": "Um usuário do Bluesky publicou uma piada pedindo um espião que finja gostar dele em troca de segredos do GDF. O post brinca com a ideia de espionagem e com o governo do Distrito Federal como alvo, sem apresentar nenhum fato ou denúncia concreta.",
+      "source": "bluesky",
+      "subreddit": "bsky_df",
+      "permalink": "https://bsky.app/profile/julianamarques.bsky.social/post/3mzwh5mmems27",
+      "createdAt": "2026-11-10T03:00:16.983000+00:00",
+      "rawScore": 0.7896457124502106,
+      "relevanceScore": 0.875807520380568,
+      "suggestedRadius": 92.15,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-df",
+      "sources": [
+        {
+          "title": "Cadê um espião pra fingir que gosta de mim em troca de segredos do GDF",
+          "url": "https://bsky.app/profile/julianamarques.bsky.social/post/3mzwh5mmems27",
+          "subreddit": "bsky_df"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A piada funciona porque brinca com a fama de sigilo e bastidor do GDF, e humor é uma forma legítima de comentar política sem levar tudo tão a sério. Rir do governo não ofende ninguém e ainda chama atenção para a falta de transparência.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Tratar segredos do GDF como piada banaliza algo sério: se há informação escondida do público, isso deveria virar cobrança real, não meme. A brincadeira desvia o foco do que importa e ainda dá a impressão de que espionagem é coisa divertida.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O post é só uma brincadeira sem nenhuma informação concreta sobre o GDF, então não dá para tirar conclusão nenhuma dali. Serve como humor do dia, mas quem quiser discutir transparência no governo do Distrito Federal precisa de dados e não de uma piada.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzvy2hqvok2p",
+      "rank": 3,
+      "title": "Brasil registra 832 casos de mpox e uma morte",
+      "label": "Mpox no Brasil · 832 casos e 1 morte",
+      "context": "O Brasil chegou a 832 casos confirmados de mpox (varíola dos macacos) e registrou uma morte pela doença, segundo dados divulgados pela CNN Brasil. O número serve de alerta para o avanço da infecção e para a necessidade de acompanhamento das autoridades de saúde.",
+      "source": "bluesky",
+      "subreddit": "bsky_df",
+      "permalink": "https://bsky.app/profile/contagemcorona1.bsky.social/post/3mzvy2hqvok2p",
+      "createdAt": "2026-11-09T22:30:07.179000+00:00",
+      "rawScore": 0.7050432018781538,
+      "relevanceScore": 0.7805960355958701,
+      "suggestedRadius": 89.01,
+      "imageUrl": "assets/images/bsky_3mzvy2hqvok2p_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzvy2hqvok2p_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-df",
+      "sources": [
+        {
+          "title": "🔵BRASIL Número de casos da varíola MPOX chega a 832 com 1 morte. www.cnnbrasil.com.br/saude/brasil...",
+          "url": "https://bsky.app/profile/contagemcorona1.bsky.social/post/3mzvy2hqvok2p",
+          "subreddit": "bsky_df"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A divulgação rápida desses números pela imprensa é fundamental para que a população se previna e procure ajuda médica ao primeiro sintoma. Com 832 casos e uma morte, a transparência das autoridades de saúde ajuda a conter o avanço da mpox.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O registro de 832 casos e uma morte mostra que a resposta do poder público está lenta. Faltam campanhas de vacinação e orientação clara para grupos mais expostos, e a população fica sem saber como se proteger de verdade.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Os números de mpox no Brasil precisam ser acompanhados com cautela: 832 casos e uma morte ainda são poucos perto de outras doenças, mas o monitoramento contínuo é essencial para evitar um surto maior. A comparação com outros países ajudaria a entender a gravidade.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzvbj66nec27",
+      "rank": 4,
       "title": "Ouvinte conta que corretor de Gaspar-SC vendeu apartamento em evento no DF",
       "label": "Corretor de Gaspar-SC · Evento no DF",
-      "context": "Uma ouvinte relatou que um evento de corretores imobiliários no Distrito Federal teve a participação de um corretor de Gaspar-SC, cidade onde ela ouviu falar dele pela segunda vez. O corretor foi o mesmo que vendeu o apartamento onde ela mora até hoje.",
+      "context": "Uma ouvinte relatou a um locutor que um evento de corretores imobiliários no Distrito Federal teve a participação de um corretor de Gaspar, em Santa Catarina. O corretor citado, Elói Tomio, foi o mesmo que vendeu o apartamento onde o locutor mora até hoje.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/marceloguaxinim.bsky.social/post/3mzvbj66nec27",
       "createdAt": "2026-11-09T15:46:43.773000+00:00",
-      "rawScore": 0.8570470735334076,
-      "relevanceScore": 0.9518465683521034,
-      "suggestedRadius": 94.54,
+      "rawScore": 0.7029974287957125,
+      "relevanceScore": 0.7782937269362954,
+      "suggestedRadius": 88.93,
       "imageUrl": "assets/images/bsky_3mzvbj66nec27_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzvbj66nec27_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -92,7 +197,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O corretor de Gaspar-SC que vendeu o apartamento da ouvinte mostra como um bom profissional pode atuar em eventos no Distrito Federal e ainda manter clientes satisfeitos por anos. Isso prova que competência não tem fronteira.",
+          "text": "O corretor Elói Tomio vendeu o apartamento do locutor e depois apareceu num evento no Distrito Federal, o que mostra que profissionais de cidades pequenas conseguem atuar em mercados grandes sem perder a origem.",
           "source": "sintese",
           "evidence": [
             1
@@ -102,7 +207,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A ouvinte riu porque ouviu falar do corretor de Gaspar-SC pela segunda vez, e isso expõe como eventos de corretores no DF podem ser repetitivos e pouco relevantes para quem já conhece o profissional. A coincidência só reforça a falta de novidade.",
+          "text": "A ouvinte riu ao saber que um corretor de Gaspar-SC estava num evento no DF, e isso revela o preconceito com profissionais de cidades pequenas, como se só quem é de capital pudesse ter espaço em eventos nacionais.",
           "source": "sintese",
           "evidence": [
             1
@@ -112,7 +217,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A história da ouvinte com o corretor de Gaspar-SC que vendeu seu apartamento e apareceu num evento no DF é curiosa, mas não diz muita coisa sobre o mercado. Pode ser só uma coincidência que ela quis compartilhar, sem grande significado.",
+          "text": "A história da ouvinte Glaupe, que já gravou com o locutor, e o nome do corretor Elói Tomio mostram como uma conversa informal pode revelar conexões inesperadas entre cidades e profissionais.",
           "source": "sintese",
           "evidence": [
             1
@@ -125,17 +230,17 @@
     },
     {
       "id": "bsky_3mzjaqiihbs2c",
-      "rank": 3,
+      "rank": 5,
       "title": "PEC da Segurança Pública é aprovada no Senado Federal",
       "label": "PEC 18/2025 · Integração da segurança pública",
-      "context": "A PEC 18/2025, de autoria do Governo do Brasil, foi aprovada no Senado Federal e amplia a integração entre União, estados, Distrito Federal e municípios para fortalecer a coordenação das ações de segurança pública. A proposta estabelece na Constituição o Sistema Único de Segurança Pública (SUSP) e prevê medidas contra facções criminosas e milícias, incluindo o confisco de bens vinculados a atividades criminosas.",
+      "context": "A PEC 18/2025, de autoria do Governo do Brasil, foi aprovada no Senado Federal e amplia a integração entre União, estados, Distrito Federal e municípios na área de segurança pública. A proposta estabelece na Constituição o Sistema Único de Segurança Pública (SUSP) e prevê medidas contra facções criminosas e milícias, incluindo o confisco de bens vinculados a atividades criminosas.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/mjspgov.bsky.social/post/3mzjaqiihbs2c",
       "createdAt": "2026-11-04T21:01:05.285000+00:00",
-      "rawScore": 0.062082956445139365,
-      "relevanceScore": 0.39695490575702974,
-      "suggestedRadius": 73.8,
+      "rawScore": 0.08607036037987653,
+      "relevanceScore": 0.3999444447857786,
+      "suggestedRadius": 73.94,
       "imageUrl": "assets/images/bsky_3mzjaqiihbs2c_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzjaqiihbs2c_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -161,7 +266,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A PEC é um avanço histórico porque coloca na Constituição o Sistema Único de Segurança Pública e força União, estados e municípios a atuarem juntos contra facções e milícias. O confisco de bens sem indenização atinge o patrimônio das organizações criminosas, o que é uma boa notícia para os brasileiros.",
+          "text": "A PEC é um avanço histórico porque coloca na Constituição o Sistema Único de Segurança Pública e força a União, estados e municípios a atuarem juntos contra facções, milícias e grupos paramilitares. O confisco de bens sem indenização atinge o patrimônio das organizações criminosas, o que é uma boa notícia para os brasi",
           "source": "sintese",
           "evidence": [
             1
@@ -171,7 +276,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Os profissionais da segurança pública vão contribuir com RPPS e RGPS até os 65 anos, enquanto os militares não passam por esse transtorno. Colocar esses profissionais para correr atrás de jovens em pleno vigor físico é irresponsável, e a PEC não resolve essa distorção.",
+          "text": "Os profissionais da segurança pública vão contribuir com RPPS e RGPS até os 65 anos, enquanto os militares não passam por esse transtorno. É irresponsável colocar esses profissionais correndo atrás de jovens no pleno vigor físico em ocorrências, sem uma regra previdenciária específica para a categoria.",
           "source": "sintese",
           "evidence": [
             2
@@ -181,7 +286,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A integração entre os entes federativos é bem-vinda, mas é preciso ver como a coordenação vai funcionar na prática, respeitando as atribuições de cada um. O texto também precisa deixar claro como será feita a divisão de recursos e responsabilidades entre União, estados e municípios.",
+          "text": "A integração entre os entes federativos é bem-vinda, mas é preciso ver como as atribuições de cada um serão respeitadas na prática. A PEC define o SUSP, porém ainda faltam detalhes sobre como estados e municípios vão coordenar ações sem sobreposição de competências.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -192,17 +297,17 @@
     },
     {
       "id": "bsky_3mzktcwv7h22m",
-      "rank": 4,
+      "rank": 6,
       "title": "Império bilionário das 'bets do crime' desmorona em megaoperação policial",
-      "label": "Operação contra bets clandestinas · Bloqueio de R$ 3,48 bi",
-      "context": "Uma megaoperação policial cumpriu 50 mandados de busca em cinco estados e no Distrito Federal e bloqueou R$ 3,48 bilhões ligados a um esquema de apostas clandestinas. A ação mira um império bilionário de 'bets do crime' e representa um dos maiores bloqueios financeiros já feitos contra esse tipo de rede.",
+      "label": "Operação contra bets clandestinas · R$ 3,48 bi bloqueados",
+      "context": "Uma megaoperação policial bloqueou R$ 3,48 bilhões e cumpriu 50 mandados de busca em cinco estados e no Distrito Federal contra um esquema de apostas clandestinas. A ação mira um império bilionário de 'bets do crime' que movimentava apostas ilegais.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/blogdonoblat.bsky.social/post/3mzktcwv7h22m",
       "createdAt": "2026-11-05T12:06:08.380000+00:00",
-      "rawScore": 0.13435303065121068,
-      "relevanceScore": 0.14165268730568523,
-      "suggestedRadius": 58.58,
+      "rawScore": 0.18237619177532896,
+      "relevanceScore": 0.19238769823826626,
+      "suggestedRadius": 62.32,
       "imageUrl": "assets/images/bsky_3mzktcwv7h22m_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzktcwv7h22m_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -218,7 +323,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A operação acertou em cheio ao bloquear R$ 3,48 bilhões e cumprir 50 mandados em cinco estados e no DF. Esse tipo de ação é o que realmente enfraquece o crime organizado, que lucra com apostas clandestinas e lava dinheiro sem controle.",
+          "text": "A operação acertou em cheio ao bloquear R$ 3,48 bilhões e desarticular esse esquema de apostas clandestinas. Isso mostra que a polícia está atenta e não vai tolerar que bilionários do crime lavem dinheiro por meio de bets ilegais.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -226,7 +331,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Bloquear bilhões e cumprir mandados pode parecer eficaz, mas sem uma regulação clara para as apostas esportivas, esses esquemas continuam surgindo. A operação trata o sintoma, não a causa: a falta de controle sobre o setor de bets.",
+          "text": "Bloquear valores e cumprir mandados é só o começo; sem punição efetiva aos donos dessas bets clandestinas, o esquema pode se reconstruir. A operação precisa resultar em prisões e condenações para realmente desmoronar esse império.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -234,7 +339,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O bloqueio de R$ 3,48 bilhões e os 50 mandados são números expressivos, mas ainda é cedo para saber se a operação vai desarticular de fato o esquema. O sucesso depende de como as investigações avançarem e se os responsáveis serão punidos.",
+          "text": "A megaoperação contra as 'bets do crime' é necessária, mas é preciso ver se o bloqueio de R$ 3,48 bilhões não afeta também apostadores comuns que usavam plataformas legalizadas. O foco deve ser nos esquemas clandestinos, não no setor inteiro.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -245,17 +350,17 @@
     },
     {
       "id": "bsky_3mznxkuqv2s25",
-      "rank": 5,
-      "title": "E se Ibaneis e Celina fossem petistas?",
-      "label": "Ibaneis e Celina · Lenência institucional",
-      "context": "O post questiona se Ibaneis Rocha e Celina Leão seriam tratados de forma diferente pelas instituições e pela mídia caso fossem petistas. A comparação sugere que aliados de Bolsonaro teriam recebido tratamento mais brando de órgãos como PGR, STF e PF.",
+      "rank": 7,
+      "title": "E se Ibaneis e Celina fossem petistas? Aliados de Bolsonaro teriam sido presos?",
+      "label": "Leniência institucional com aliados de Bolsonaro",
+      "context": "O post questiona se Ibaneis Rocha e Celina Leão seriam tratados de forma diferente pelas instituições caso fossem petistas, sugerindo que aliados de Bolsonaro contam com leniência da mídia e de órgãos como PGR, STF e PF. A comparação levanta a discussão sobre se a Justiça e a imprensa agem de forma seletiva conforme a afinidade política dos investigados.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/klingerericeira.bsky.social/post/3mznxkuqv2s25",
       "createdAt": "2026-11-06T18:00:07.480000+00:00",
-      "rawScore": 0.13256012895470762,
-      "relevanceScore": 0.1396427108874054,
-      "suggestedRadius": 58.42,
+      "rawScore": 0.17797161268260783,
+      "relevanceScore": 0.18743079433040366,
+      "suggestedRadius": 61.98,
       "imageUrl": "assets/images/bsky_3mznxkuqv2s25_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mznxkuqv2s25_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -271,7 +376,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A comparação escancara o dois pesos e duas medidas: se Ibaneis e Celina fossem petistas, já estariam algemados. As instituições e a mídia tratam aliados de Bolsonaro com leniência que nunca teriam com o outro lado.",
+          "text": "A denúncia mostra que as instituições não agem com o mesmo rigor quando o investigado é aliado do bolsonarismo. Se fossem petistas, Ibaneis e Celina já estariam algemados, mas a mídia e os órgãos de controle preferem prevaricar diante dos comparsas.",
           "source": "sintese",
           "evidence": [
             1
@@ -281,10 +386,9 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ficar no 'e se fosse petista' não leva a nada. Se há denúncias formais, o caminho é cobrar resposta das autoridades com fatos e provas, não alimentar narrativa de perseguição ou de proteção sem apresentar o que de fato foi apurado.",
+          "text": "Ficar comparando cenários hipotéticos não resolve nada. O que falta é os próprios parlamentares de oposição formalizarem representações nos órgãos competentes em vez de só reclamar nas redes sociais.",
           "source": "sintese",
           "evidence": [
-            1,
             2
           ],
           "votes": 0
@@ -292,11 +396,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A pergunta que fica é por que deputados e senadores que apoiam o governo não formalizaram representação nos órgãos de investigação. Sem esse passo, a discussão sobre leniência ou perseguição fica no campo da suposição.",
+          "text": "A pergunta sobre a seletividade é válida, mas o post não apresenta provas concretas de que houve prevaricação. Sem denúncias formais e investigações abertas, fica só a especulação sobre o que aconteceria se os envolvidos fossem de outro partido.",
           "source": "sintese",
-          "evidence": [
-            2
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -305,7 +407,7 @@
     },
     {
       "id": "bsky_3mzqtakwaa22b",
-      "rank": 6,
+      "rank": 8,
       "title": "Brasília Vôlei BRB x Dentil Praia Clube pela Superliga Feminina",
       "label": "Superliga Feminina · Brasília x Praia Clube",
       "context": "O Brasília Vôlei BRB enfrenta o Dentil Praia Clube neste sábado, 7 de novembro de 2026, às 18h30, no ginásio da FVDF, em Brasília, pela quarta rodada do turno da Superliga Feminina. A partida será transmitida pelo SporTV2.",
@@ -313,9 +415,9 @@
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/portalvolei.bsky.social/post/3mzqtakwaa22b",
       "createdAt": "2026-11-07T21:20:41.879000+00:00",
-      "rawScore": 0.0944616542185064,
-      "relevanceScore": 0.09693148140864893,
-      "suggestedRadius": 54.68,
+      "rawScore": 0.1169928733059583,
+      "relevanceScore": 0.1188054512159697,
+      "suggestedRadius": 56.68,
       "imageUrl": "assets/images/bsky_3mzqtakwaa22b_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzqtakwaa22b_reddit_thumb.jpg",
       "category": "esportes",
@@ -331,7 +433,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Brasília Vôlei BRB joga em casa, no ginásio da FVDF, e isso dá ao time a chance de mostrar seu voleibol para a torcida local em um duelo contra o Praia Clube, que é uma equipe tradicional da Superliga. É o tipo de jogo que valoriza a competição e dá visibilidade ao time da capital.",
+          "text": "O Brasília Vôlei BRB joga em casa, no ginásio da FVDF, e isso dá ao time a chance de crescer na competição com o apoio da torcida. Enfrentar o Praia Clube é um teste duro, mas é exatamente esse tipo de jogo que mostra a força do projeto do vôlei brasiliense.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -339,7 +441,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O Dentil Praia Clube chega como favorito contra o Brasília Vôlei BRB, e jogos assim podem virar um confronto desigual na Superliga. A diferença de investimento e elenco entre as equipes torna a partida previsível, o que diminui o interesse do público neutro.",
+          "text": "O Dentil Praia Clube chega como favorito claro contra o Brasília Vôlei BRB, e a diferença de investimento entre os elencos torna a partida previsível. A Superliga Feminina precisa de mais equilíbrio para não virar sempre o mesmo duelo entre os clubes grandes e os times em formação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -347,7 +449,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A transmissão no SporTV2 e o horário das 18h30 de sábado facilitam o acompanhamento, mas o duelo entre Brasília Vôlei BRB e Dentil Praia Clube ainda é uma incógnita: depende de como cada equipe chega para a quarta rodada. Só o resultado em quadra vai mostrar o equilíbrio real.",
+          "text": "A transmissão no SporTV2 às 18h30 de um sábado é o que vai definir se o público acompanha Brasília Vôlei BRB e Dentil Praia Clube. O horário e o canal importam tanto quanto o resultado para quem quer ver a Superliga Feminina crescer fora do eixo tradicional.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -358,17 +460,17 @@
     },
     {
       "id": "bsky_3mzljejbnxc2q",
-      "rank": 7,
+      "rank": 9,
       "title": "Operação contra bets ilegais no Brasil",
-      "label": "Operação contra bets · Legalização e fiscalização",
-      "context": "Uma operação foi deflagrada contra bets ilegais no Brasil, conforme noticiado pelo portal ICL Notícias. A ação ocorre em meio ao debate sobre a regulamentação e os riscos das apostas esportivas no país.",
+      "label": "Operação contra bets · Regulamentação",
+      "context": "Uma operação contra bets ilegais foi divulgada em novembro de 2026, com a hashtag #ComLulaNaoTemBets. A ação busca coibir práticas irregulares no setor de apostas esportivas.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/nildete.bsky.social/post/3mzljejbnxc2q",
       "createdAt": "2026-11-05T18:40:41.773000+00:00",
-      "rawScore": 0.04787432752538009,
-      "relevanceScore": 0.044703616252115455,
-      "suggestedRadius": 48.69,
+      "rawScore": 0.0653879940595858,
+      "relevanceScore": 0.06072943028042792,
+      "suggestedRadius": 50.79,
       "imageUrl": "assets/images/bsky_3mzljejbnxc2q_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzljejbnxc2q_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -384,7 +486,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A operação contra bets ilegais é necessária para proteger os consumidores de fraudes e garantir que apenas empresas regulamentadas operem. O governo está certo em fiscalizar e punir quem não segue as regras.",
+          "text": "A operação contra bets ilegais é um passo importante para proteger os consumidores e combater a lavagem de dinheiro. O governo está certo em fiscalizar e punir quem opera fora das regras.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -392,7 +494,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa operação é só mais uma forma de perseguir empresas e interferir no mercado. As bets legalizadas já pagam impostos e geram empregos; o problema é a burocracia e a insegurança jurídica que afastam investimentos.",
+          "text": "Proibir ou restringir bets não resolve o problema; a ilegalidade já existe e a operação pode afastar investimentos e empregos formais. O foco deveria ser regulamentar e educar, não apenas reprimir.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -400,7 +502,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A operação em si é válida, mas o combate às bets ilegais só funciona se vier acompanhado de educação financeira e limites claros para o jogo. Sem isso, a fiscalização vira apenas marketing político.",
+          "text": "A operação contra bets ilegais levanta dúvidas sobre a eficácia: é preciso ver se as punições serão aplicadas e se o mercado será realmente regulamentado, evitando que os apostadores migrem para o mercado clandestino.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -411,15 +513,15 @@
     },
     {
       "id": "bsky_3mzmh3nzflk2y",
-      "rank": 8,
+      "rank": 10,
       "title": "GDF apresenta 420 projetos e busca R$ 4,3 bilhões em emendas federais para 2027",
       "label": "GDF busca R$ 4,3 bi em emendas",
-      "context": "O Governo do Distrito Federal apresentou 420 projetos e pediu R$ 4,3 bilhões em emendas federais para 2027, em carta encaminhada aos parlamentares pela governadora Celina Leão. O pedido depende da atuação dos parlamentares na destinação das emendas no orçamento federal.",
+      "context": "O Governo do Distrito Federal apresentou 420 projetos e pediu R$ 4,3 bilhões em emendas federais para 2027, em carta encaminhada aos parlamentares pela governadora Celina Leão. O pedido depende da articulação com a bancada federal para que os recursos entrem no orçamento da União.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/dilmaresiste.bsky.social/post/3mzmh3nzflk2y",
       "createdAt": "2026-11-06T03:39:34.177000+00:00",
-      "rawScore": 0.007998641079848115,
+      "rawScore": 0.011425362566618752,
       "relevanceScore": 0.0,
       "suggestedRadius": 36.0,
       "imageUrl": "assets/images/bsky_3mzmh3nzflk2y_reddit.jpg",
@@ -437,7 +539,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A governadora Celina Leão fez o certo ao organizar 420 projetos e mandar a carta aos parlamentares: sem esse pedido formal, o DF fica sem base para negociar emendas e perde recursos para outros estados que se movimentam primeiro.",
+          "text": "A governadora Celina Leão fez o certo ao organizar 420 projetos antes de pedir as emendas: chegar com proposta pronta e detalhada aos parlamentares aumenta a chance de o dinheiro virar obra de verdade, em vez de ficar só no anúncio.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -445,7 +547,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Pedir R$ 4,3 bilhões em emendas federais para 2027 soa como transferir ao Congresso a responsabilidade de decidir onde o dinheiro do DF vai cair, e esse modelo de emenda parlamentar costuma priorizar acordo político em vez de projeto com mais retorno.",
+          "text": "Pedir R$ 4,3 bilhões em emendas federais para 2027 soa como empurrar o custo do DF para o orçamento da União, e o risco é que os 420 projetos virem lista de intenção sem garantia de execução nem de onde sairá o dinheiro.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -453,7 +555,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O volume de 420 projetos e R$ 4,3 bilhões só vai significar algo se a carta detalhar quais obras saem primeiro e como o GDF vai executar cada uma; sem esse critério, o pedido vira lista de intenções que depende do calendário eleitoral de 2026.",
+          "text": "O volume de 420 projetos e R$ 4,3 bilhões só vai significar algo se a carta aos parlamentares vier acompanhada de prioridades claras e prazos; sem isso, fica difícil saber o que é plano concreto e o que é pedido para negociar emenda.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

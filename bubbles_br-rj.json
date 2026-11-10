@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-09T22:11:42.236501+00:00",
+  "generatedAt": "2026-11-10T06:39:44.986513+00:00",
   "region": "br-rj",
   "count": 10,
   "items": [
@@ -7,8 +7,8 @@
       "id": "bsky_3mzuwqpfu322k",
       "rank": 1,
       "title": "Gustavo Gomez fala de cartão vermelho e PM do Rio entende 'Comando Vermelho'",
-      "label": "Gafe policial · Gomez e o Comando Vermelho",
-      "context": "O jogador Gustavo Gomez se dirigiu ao árbitro para reclamar de um cartão vermelho e a Polícia Militar do Rio de Janeiro teria confundido a expressão com uma referência à facção Comando Vermelho. O episódio gerou piadas nas redes e questionamentos sobre a presença e a conduta da PM em campo durante partidas de futebol.",
+      "label": "Gafe policial · Gomez e o PM no Rio",
+      "context": "O jogador Gustavo Gomez foi falar com o árbitro sobre um cartão vermelho e a Polícia Militar do Rio de Janeiro entendeu que ele dizia 'Comando Vermelho', segundo relatos nas redes. O episódio virou piada e levantou questionamentos sobre a presença e a conduta da PM em campo durante a partida.",
       "source": "bluesky",
       "subreddit": "bsky_rj",
       "permalink": "https://bsky.app/profile/crisvector.com/post/3mzuwqpfu322k",
@@ -36,7 +36,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A confusão entre 'cartão vermelho' e 'Comando Vermelho' rendeu a piada mais engraçada do dia, e o Gomez virou personagem sem querer. O diálogo imaginário com o PM já nasceu clássico e mostra como o futebol produz situações absurdas que a gente só pode rir.",
+          "text": "A confusão toda é tão absurda que virou comédia: o Gomez tentando explicar cartão vermelho e o PM achando que ele era de facção. O diálogo que circulou é hilário e mostra como o episódio é mais uma piada pronta do que qualquer coisa séria.",
           "source": "sintese",
           "evidence": [
             1,
@@ -47,10 +47,11 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A presença de um paredão de PMs em campo, olhando os jogadores de forma intimidadora, não deveria ser normal em partida de futebol. Se o policial confunde uma reclamação de cartão com facção, falta preparo e sobra truculência num ambiente que deveria ser esportivo.",
+          "text": "A presença da PM em campo desse jeito é bizarra e desnecessária. Ficam um paredão olhando os jogadores, não têm preparo para lidar com a situação e ainda confundem uma reclamação normal de jogo com coisa de facção. Isso não é normal e não deveria acontecer.",
           "source": "sintese",
           "evidence": [
             4,
+            6,
             7,
             8
           ],
@@ -59,11 +60,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A PM costuma fazer escolta de árbitros e atuar em situações de segurança, mas não deveria estar no vestiário discutindo com jogador. O problema é que ninguém explica direito qual é o protocolo, e aí qualquer fala mais exaltada vira mal-entendido.",
+          "text": "A PM em campo costuma existir para escoltar árbitros e lidar com segurança, mas o problema é que eles não deveriam estar no vestiário discutindo com jogador. O episódio mostra que falta clareza sobre o papel da polícia ali e que a abordagem precisa ser mais profissional.",
           "source": "sintese",
           "evidence": [
-            5,
-            6
+            5
           ],
           "votes": 0
         }
@@ -72,71 +72,18 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzvsvqxhqc2v",
-      "rank": 2,
-      "title": "Movimento carioca Buzina Não É Freio",
-      "label": "Buzina Não É Freio · Movimento no Rio",
-      "context": "O movimento carioca Buzina Não É Freio aparece em post no Bluesky em novembro de 2026. A iniciativa trata do uso da buzina no trânsito do Rio de Janeiro.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/fimoseosbourne.bsky.social/post/3mzvsvqxhqc2v",
-      "createdAt": "2026-11-09T20:57:57.873000+00:00",
-      "rawScore": 0.8419480641385128,
-      "relevanceScore": 0.8393106424042523,
-      "suggestedRadius": 90.97,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "movimento carioca Buzina Não É Freio",
-          "url": "https://bsky.app/profile/fimoseosbourne.bsky.social/post/3mzvsvqxhqc2v",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Buzinar sem necessidade virou hábito no trânsito carioca, e um movimento que lembra que buzina não é freio ajuda a cobrar mais respeito e paciência de quem dirige.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Campanha com nome bonito não resolve o caos do trânsito do Rio; o que falta é fiscalização e educação de verdade, não um movimento que só aparece em post de rede social.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A ideia do Buzina Não É Freio é válida, mas ainda não dá para saber o alcance real: sem ações concretas nas ruas, fica difícil medir se o movimento muda algo no comportamento de quem dirige.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3mzvaoa3uyk2r",
-      "rank": 3,
-      "title": "Mulheres e agressões: notícia gera apelo por doações",
-      "label": "Agressões a mulheres · Apelo por doações",
-      "context": "Uma notícia do portal ICL Notícias sobre mulheres e agressões foi compartilhada no Bluesky. O post recebeu um comentário de uma mãe que pede doações para tratar o filho doente no exterior.",
+      "rank": 2,
+      "title": "Mulheres agricultoras enfrentam desafios no campo",
+      "label": "Mulheres agricultoras · Desafios no campo",
+      "context": "Uma reportagem do portal ICL Notícias destaca as dificuldades enfrentadas por mulheres agricultoras. O tema aborda a realidade dessas trabalhadoras rurais e os obstáculos que enfrentam em suas atividades.",
       "source": "bluesky",
       "subreddit": "bsky_rj",
       "permalink": "https://bsky.app/profile/nildete.bsky.social/post/3mzvaoa3uyk2r",
       "createdAt": "2026-11-09T15:31:40.679000+00:00",
-      "rawScore": 0.7399182250308387,
-      "relevanceScore": 0.7355782255094798,
-      "suggestedRadius": 87.46,
+      "rawScore": 0.6649697414636152,
+      "relevanceScore": 0.6639541892045202,
+      "suggestedRadius": 84.89,
       "imageUrl": "assets/images/bsky_3mzvaoa3uyk2r_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzvaoa3uyk2r_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -152,7 +99,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A notícia sobre agressões a mulheres é importante para dar visibilidade ao problema e mostrar que muitas vítimas não têm apoio. Casos assim precisam ser divulgados para gerar solidariedade e pressão por políticas de proteção.",
+          "text": "A reportagem dá visibilidade a um problema real e urgente: mulheres agricultoras precisam de apoio para superar barreiras e garantir seu sustento. Iniciativas como essa são essenciais para pressionar por políticas públicas efetivas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -160,7 +107,72 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O comentário pedindo doações para tratamento no exterior desvia o foco da notícia sobre agressões a mulheres. A postagem original deveria ser um espaço para discutir o tema, não para pedidos pessoais de ajuda financeira.",
+          "text": "Ficar só na denúncia não resolve a vida de quem está no campo. As mulheres agricultoras precisam de ações concretas, como crédito acessível e assistência técnica, e não apenas de matérias que retratam a dificuldade sem apontar soluções.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A situação das mulheres agricultoras varia muito conforme a região e o tipo de produção. Algumas conseguem avançar com apoio de cooperativas e programas locais, enquanto outras seguem invisibilizadas. É preciso olhar para essas diferenças antes de generalizar.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzw5jphyd22f",
+      "rank": 3,
+      "title": "O segundo turno no Rio de Janeiro é justo.",
+      "label": "Segundo turno no Rio · Disputa eleitoral",
+      "context": "O segundo turno no Rio de Janeiro é defendido em publicações que pedem sua realização. A discussão ocorre em meio a comentários que questionam a atuação da Justiça Eleitoral e o papel de Garotinho no processo.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/fabridosreis.bsky.social/post/3mzw5jphyd22f",
+      "createdAt": "2026-11-10T00:08:09.475000+00:00",
+      "rawScore": 0.3001752701349427,
+      "relevanceScore": 0.4570306315214578,
+      "suggestedRadius": 76.56,
+      "imageUrl": "assets/images/bsky_3mzw5jphyd22f_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzw5jphyd22f_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "O SEGUNDO TURNO NO RIO DE JANEIRO É JUSTO.",
+          "url": "https://bsky.app/profile/fabridosreis.bsky.social/post/3mzw5jphyd22f",
+          "subreddit": "bsky_rj"
+        },
+        {
+          "title": "QUEREMOS O SEGUNDO TURNO NO RIO DE JANEIRO! 🤝🫶✊️",
+          "url": "https://bsky.app/profile/taniarivera.bsky.social/post/3mzok5gxptk2o",
+          "subreddit": "bsky_rj"
+        },
+        {
+          "title": "🏐 🟢 FLUMINENSE x OSASCO SÃO CRISTÓVÃO 🟠 🏆 Superliga | Feminina ➡️ Rodada 04 | Turno 📆 06/11/2026 (sexta) ⏰ 21h00 🏟️ Hebraica Rio 📍 Rio de Janeiro - Rio de Janeiro 📺 SporTV2",
+          "url": "https://bsky.app/profile/portalvolei.bsky.social/post/3mzokrdtga22n",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O segundo turno no Rio é justo porque dá ao eleitor a chance de rever sua escolha e decidir com mais informação. A Justiça Eleitoral permitiu que o processo chegasse a esse ponto, e agora a população pode participar de novo.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Garotinho entrou só para atrapalhar, e a Justiça Eleitoral deixou isso acontecer. O segundo turno no Rio não é justo porque foi armado para favorecer quem já sabia que poderia ocorrer essa situação.",
           "source": "sintese",
           "evidence": [
             1
@@ -170,10 +182,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A notícia sobre agressões a mulheres e o pedido de doação no comentário mostram duas urgências diferentes. É compreensível que a mãe busque ajuda, mas também é preciso manter o debate sobre violência de gênero no centro da conversa.",
+          "text": "No Rio de Janeiro nada surpreende, e o segundo turno é mais um capítulo de uma eleição conturbada. A insatisfação com o processo eleitoral é grande, mas a realização do segundo turno segue o que foi decidido pela Justiça.",
           "source": "sintese",
           "evidence": [
-            1
+            2
           ],
           "votes": 0
         }
@@ -182,18 +194,298 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzvcrbexis2l",
+      "id": "bsky_3mzvsvqxhqc2v",
       "rank": 4,
-      "title": "Doar sangue é um gesto de amor. Atenção Rio de Janeiro",
-      "label": "Doação de sangue · Rio de Janeiro",
-      "context": "Posts no Bluesky divulgam a doação de sangue como um gesto de amor e chamam a atenção do Rio de Janeiro. A mobilização busca incentivar a participação de doadores no estado.",
+      "title": "Movimento carioca Buzina Não É Freio",
+      "label": "Buzina Não É Freio · Movimento carioca",
+      "context": "O movimento carioca Buzina Não É Freio aparece em post no Bluesky em novembro de 2026. A iniciativa trata do uso da buzina no trânsito do Rio de Janeiro.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/fimoseosbourne.bsky.social/post/3mzvsvqxhqc2v",
+      "createdAt": "2026-11-09T20:57:57.873000+00:00",
+      "rawScore": 0.4446120694626125,
+      "relevanceScore": 0.442928563411561,
+      "suggestedRadius": 75.93,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "movimento carioca Buzina Não É Freio",
+          "url": "https://bsky.app/profile/fimoseosbourne.bsky.social/post/3mzvsvqxhqc2v",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A buzina virou grito no trânsito carioca, e o movimento Buzina Não É Freio acerta ao lembrar que o som serve para alertar, não para descarregar raiva em quem está na frente.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "No trânsito do Rio, buzinar muitas vezes é o único jeito de avisar que você está ali, então o movimento Buzina Não É Freio pode soar como cobrança de educação sem olhar para o caos real das ruas.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O movimento Buzina Não É Freio levanta uma discussão válida, mas o efeito prático depende de como a ideia chega às ruas e se vira campanha de conscientização ou só mais um post no Bluesky.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzvzguof4k2i",
+      "rank": 5,
+      "title": "Rio de Janeiro registra 19 graus em pleno novembro",
+      "label": "Frio fora de época no Rio",
+      "context": "O Rio de Janeiro registrou 19 graus em novembro, temperatura considerada baixa para o mês. O fato chamou atenção por contrariar o calor típico da primavera carioca.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/thiagoradice.art/post/3mzvzguof4k2i",
+      "createdAt": "2026-11-09T22:54:54.981000+00:00",
+      "rawScore": 0.4114622029199313,
+      "relevanceScore": 0.40967821214847516,
+      "suggestedRadius": 74.4,
+      "imageUrl": "assets/images/bsky_3mzvzguof4k2i_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzvzguof4k2i_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "Tem noção que ta DEZENOVE graus no meio de novembro no RIO DE JANEIRO??",
+          "url": "https://bsky.app/profile/thiagoradice.art/post/3mzvzguof4k2i",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Uma temperatura de 19 graus em novembro no Rio é um alívio, ainda mais depois de tantos dias de calor forte. Dá para dormir melhor e até arriscar um cobertor à noite, sem precisar ligar o ar-condicionado.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Ver 19 graus em novembro no Rio é preocupante, porque o clima está completamente fora do padrão. Isso mostra que as estações estão bagunçadas e que as mudanças climáticas já afetam até a primavera carioca.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Uma frente fria pode derrubar a temperatura para 19 graus em novembro, mas isso não significa que o mês inteiro será assim. O carioca já sabe que o calor volta logo, então é melhor aproveitar enquanto dura.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzt64xzccs25",
+      "rank": 6,
+      "title": "Mulheres de esquerda no Congresso e a ligação com Marielle Franco",
+      "label": "Homenagem a Marielle · Congresso e esquerda",
+      "context": "Um post no Bluesky afirma que mulheres de esquerda eleitas para o Congresso estão ligadas à vereadora do Rio de Janeiro Marielle Franco, descrita como mulher negra, lésbica e periférica. A publicação gerou comentários que associam discursos atuais à fala de Marielle de que não seria interrompida e discutiram sua orientação sexual.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/magapatalogika.bsky.social/post/3mzt64xzccs25",
+      "createdAt": "2026-11-08T19:40:53.178000+00:00",
+      "rawScore": 0.3839529770696461,
+      "relevanceScore": 0.38208559963162364,
+      "suggestedRadius": 73.09,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "Sabe todas essas mulheres de esquerda extraordinárias hoje no congresso? Elas estão ligadas a uma vereadora do Rio de Janeiro chamada Mariele Franco. Mulher negra, lésbica e periférica que tinha a segurança de conhecer os desafios que a cercavam e não teve medo de desafia-los.",
+          "url": "https://bsky.app/profile/magapatalogika.bsky.social/post/3mzt64xzccs25",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Marielle Franco virou símbolo de resistência e os discursos dessas mulheres no Congresso mostram que a luta dela continua viva. A frase 'não serei interrompida' ecoa hoje como um recado de que a periferia e as minorias têm voz.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Chamar Marielle de lésbica sem checar é um erro que apaga a bissexualidade dela. A própria viúva, Monica Benício, é lésbica, mas Marielle se identificava como bissexual, e precisão importa quando se trata de representatividade.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3,
+            4
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A ligação entre as mulheres de esquerda no Congresso e Marielle é simbólica, mas vale lembrar que ela era uma vereadora do Rio, não nacional. A associação faz sentido como inspiração, mas cada trajetória tem suas particularidades.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzopgfwwys25",
+      "rank": 7,
+      "title": "Ave é comparada a socialite carioca de 85 anos",
+      "label": "Ave exótica · Comparação com socialite",
+      "context": "Uma ave foi descrita como parecida com uma socialite carioca de 85 anos, comparação que viralizou no Bluesky. O comentário rendeu piadas sobre cabelo, bairro e comportamento da ave.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/verdakulto.bsky.social/post/3mzopgfwwys25",
+      "createdAt": "2026-11-07T01:07:04.381000+00:00",
+      "rawScore": 0.36186391855456607,
+      "relevanceScore": 0.35992958419935567,
+      "suggestedRadius": 72.0,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "Parece uma socialite carioca de 85 anos.",
+          "url": "https://bsky.app/profile/verdakulto.bsky.social/post/3mzopgfwwys25",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A comparação é ótima porque a ave tem mesmo cara de madame carioca: permanente no cabelo, pose de quem mora em Copacabana e um ar de quem frequenta reality de ricos. É humor leve e criativo, do tipo que faz a internet valer a pena.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2,
+            7
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Chamar a ave de socialite de 85 anos é forçar a piada e ainda reforça estereótipo de bairro e de idade. O bicho é uma espécie amazônica, e o comentário vira deboche de gente velha e de moradora de Copacabana em vez de falar da ave.",
+          "source": "sintese",
+          "evidence": [
+            4,
+            8
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A graça está no exagero, mas o detalhe é que a ave é nortista, dos Maús que vivem no Amazonas e no Pará. A comparação com socialite carioca funciona como piada, só não vale confundir a origem real do bicho com o estereótipo do Rio.",
+          "source": "sintese",
+          "evidence": [
+            8
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzuuloax7s2f",
+      "rank": 8,
+      "title": "Rede Globo é o maior antro de xenofobia do país, diz post",
+      "label": "Crítica à Globo · Visão carioca do Leblon",
+      "context": "Um post no Bluesky afirma que a Rede Globo é o maior antro de xenofobia do Brasil e que sua produção reflete a visão de um carioca do Leblon sobre o resto do país. A declaração gerou debate sobre a representação regional na mídia.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/dogsrenasce.bsky.social/post/3mzuuloax7s2f",
+      "createdAt": "2026-11-09T11:55:29.673000+00:00",
+      "rawScore": 0.3552599673902307,
+      "relevanceScore": 0.35330561496992613,
+      "suggestedRadius": 71.66,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "A rede globo é o maior antro de xenofobia desse país. Tudo que eles produzem é a visão de um carioca do Leblon sobre o resto do país.",
+          "url": "https://bsky.app/profile/dogsrenasce.bsky.social/post/3mzuuloax7s2f",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Globo realmente concentra sua produção no eixo Rio-São Paulo e isso transparece na forma como retrata o resto do país. Quem é do Nordeste ou do Sul sabe que a visão passada muitas vezes não corresponde à realidade local.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Chamar a Globo de 'antro de xenofobia' é um exagero que ignora a diversidade de sua programação e o fato de que a emissora emprega profissionais de todas as regiões. A crítica generaliza e desconsidera avanços recentes.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A crítica tem um fundo de verdade, mas precisa ser matizada: a Globo é uma empresa de mídia com sede no Rio, e isso influencia sua visão de mundo. Porém, reduzir tudo a 'carioca do Leblon' é simplificar uma produção complexa e variada.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzvcrbexis2l",
+      "rank": 9,
+      "title": "Doação de sangue é um gesto de amor. Atenção, Rio de Janeiro",
+      "label": "Doação de sangue no Rio de Janeiro",
+      "context": "Posts nas redes sociais divulgam a doação de sangue como um gesto de amor e pedem atenção do público do Rio de Janeiro. A iniciativa busca mobilizar possíveis doadores na cidade.",
       "source": "bluesky",
       "subreddit": "bsky_rj",
       "permalink": "https://bsky.app/profile/contagemcorona1.bsky.social/post/3mzvcrbexis2l",
       "createdAt": "2026-11-09T16:09:11.272000+00:00",
-      "rawScore": 0.287905943508552,
-      "relevanceScore": 0.3776918948213094,
-      "suggestedRadius": 72.87,
+      "rawScore": 0.21233288148939183,
+      "relevanceScore": 0.31024840739215753,
+      "suggestedRadius": 69.42,
       "imageUrl": "assets/images/bsky_3mzvcrbexis2l_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzvcrbexis2l_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -214,7 +506,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Doar sangue é um ato simples que salva vidas, e divulgar isso no Rio de Janeiro ajuda a mobilizar mais pessoas. Cada doação pode fazer a diferença para quem precisa de transfusão.",
+          "text": "Doar sangue é um ato simples que pode salvar vidas, e divulgar isso no Rio é essencial para manter os estoques dos hemocentros. Cada doação faz diferença real para quem precisa de transfusão.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -222,7 +514,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Só divulgar que doar sangue é um gesto de amor não resolve o problema. Faltam informações sobre onde doar, horários e requisitos, e sem isso a campanha fica vaga e não alcança quem realmente pode doar.",
+          "text": "Só dizer que é um gesto de amor não resolve: faltam informações práticas como onde doar, horários e requisitos. Sem esses dados, a campanha fica no discurso e não chega a quem realmente pode doar.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -230,178 +522,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A mensagem é bonita, mas depende de mais detalhes práticos para ser eficaz. Seria útil saber quais hemocentros estão com estoque baixo e como se preparar para doar, para que a intenção se transforme em ação.",
+          "text": "A mensagem é bonita, mas o impacto depende de como ela circula. Se não vier acompanhada de um link ou endereço atualizado dos postos de coleta, pode acabar esquecida em meio a tantas outras postagens.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzuuloax7s2f",
-      "rank": 5,
-      "title": "Rede Globo é o maior antro de xenofobia do país, diz post",
-      "label": "Globo · Xenofobia e visão carioca",
-      "context": "Um post no Bluesky afirma que a Rede Globo é o maior antro de xenofobia do Brasil e que sua produção reflete a visão de um carioca do Leblon sobre o resto do país. A declaração gerou discussão sobre regionalismo e representação na mídia.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/dogsrenasce.bsky.social/post/3mzuuloax7s2f",
-      "createdAt": "2026-11-09T11:55:29.673000+00:00",
-      "rawScore": 0.36823750869063415,
-      "relevanceScore": 0.35769525170157657,
-      "suggestedRadius": 71.88,
-      "imageUrl": "assets/images/bsky_3mzuuloax7s2f_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzuuloax7s2f_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "A rede globo é o maior antro de xenofobia desse país. Tudo que eles produzem é a visão de um carioca do Leblon sobre o resto do país.",
-          "url": "https://bsky.app/profile/dogsrenasce.bsky.social/post/3mzuuloax7s2f",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A Globo realmente concentra sua produção no eixo Rio-São Paulo e trata o resto do país como exótico ou atrasado. Quem é do Nordeste ou do Norte sente na pele essa visão caricata e preconceituosa nas novelas e telejornais.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Chamar a Globo de 'antro de xenofobia' é um exagero que ignora a diversidade de sua programação e o fato de que ela emprega gente de todo o Brasil. A emissora tem problemas, mas reduzir tudo a isso é simplismo.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A crítica à visão carioca do Leblon tem fundamento, mas generalizar toda a produção da Globo como xenófoba é injusto. Há programas e profissionais que fogem desse padrão, e a discussão deveria ser sobre representatividade, não sobre rótulos.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzv5smgxd22q",
-      "rank": 6,
-      "title": "Se incluir a máfia chinesa na história a gente ainda consegue chegar no king size do Rio de Janeiro",
-      "label": "Piada sobre máfia chinesa e cama king size",
-      "context": "Um post no Bluesky brinca que, se a máfia chinesa entrar na história, dá para chegar ao tamanho king size no Rio de Janeiro. A frase é uma piada solta, sem contexto factual ou desdobramento associado.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/noonechomsky.bsky.social/post/3mzv5smgxd22q",
-      "createdAt": "2026-11-09T14:40:24.483000+00:00",
-      "rawScore": 0.3424685579883864,
-      "relevanceScore": 0.3314962930384598,
-      "suggestedRadius": 70.55,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "Se incluir a máfia chinesa na história a gente ainda consegue chegar no king size do rio de janeiro",
-          "url": "https://bsky.app/profile/noonechomsky.bsky.social/post/3mzv5smgxd22q",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A piada funciona porque exagera de propósito: pega uma expressão de medida de cama e joga num cenário de máfia, criando um absurdo que só faz sentido no humor. É o tipo de frase que viraliza justamente por não ter pé nem cabeça.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Frase solta assim não diz nada e ainda mistura máfia chinesa com cama king size sem nexo nenhum. Postar isso como se fosse conteúdo só polui o feed e não gera conversa real sobre nada.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Sem contexto, fica difícil saber se é piada interna, referência a algum caso ou só uma frase aleatória. O post pode render risada para quem conhece a origem, mas para quem chega de fora não passa de um enigma.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzt64xzccs25",
-      "rank": 7,
-      "title": "Mulheres de esquerda no Congresso são ligadas a Marielle Franco, diz post",
-      "label": "Marielle Franco · Legado no Congresso",
-      "context": "Um post no Bluesky afirma que mulheres de esquerda eleitas para o Congresso estão ligadas à vereadora do Rio de Janeiro Marielle Franco, descrita como mulher negra, lésbica e periférica. A publicação destaca que ela conhecia os desafios que a cercavam e não teve medo de enfrentá-los.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/magapatalogika.bsky.social/post/3mzt64xzccs25",
-      "createdAt": "2026-11-08T19:40:53.178000+00:00",
-      "rawScore": 0.32197364172680076,
-      "relevanceScore": 0.310659376931725,
-      "suggestedRadius": 69.44,
-      "imageUrl": "assets/images/bsky_3mzt64xzccs25_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzt64xzccs25_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "Sabe todas essas mulheres de esquerda extraordinárias hoje no congresso? Elas estão ligadas a uma vereadora do Rio de Janeiro chamada Mariele Franco. Mulher negra, lésbica e periférica que tinha a segurança de conhecer os desafios que a cercavam e não teve medo de desafia-los.",
-          "url": "https://bsky.app/profile/magapatalogika.bsky.social/post/3mzt64xzccs25",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Os discursos de muitas mulheres da esquerda hoje remetem à fala de Marielle dizendo que não será interrompida. A presença dela segue viva nas pautas e na postura dessas parlamentares, e reconhecer essa ligação é valorizar uma trajetória que inspira até hoje.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A publicação erra ao chamar Marielle de lésbica, já que ela se reconhecia como bissexual. Detalhes assim importam quando se trata de representatividade, e a correção foi feita nos comentários. Precisão é o mínimo ao falar de uma figura pública.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3,
-            4
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A ligação entre as parlamentares e Marielle é real, mas vale checar a orientação sexual dela: a viúva Mônica Benício é lésbica, e há discussão sobre como Marielle se identificava. O post original reconheceu o erro, o que mostra que o debate pode corrigir informações sem perder o foco.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3,
-            4
-          ],
           "votes": 0
         }
       ],
@@ -410,17 +533,17 @@
     },
     {
       "id": "bsky_3mztwpneyok2h",
-      "rank": 8,
-      "title": "Em Vasco-Madureira pelo Carioca sub-15, centroavante diferente quase marca o segundo gol do Vasco",
-      "label": "Quase gol no Carioca sub-15",
-      "context": "Em uma partida entre Vasco e Madureira pelo Campeonato Carioca sub-15, um centroavante diferente quase marcou o segundo gol do Vasco. O lance chamou atenção por envolver um jogador fora do comum na posição.",
+      "rank": 10,
+      "title": "Centroavante diferente quase marca o segundo gol do Vasco em jogo contra o Madureira pelo Carioca sub-15",
+      "label": "Vasco e Madureira · Carioca sub-15",
+      "context": "Em um jogo entre Vasco e Madureira pelo Campeonato Carioca sub-15, um centroavante diferente quase marcou o segundo gol do Vasco. O lance chamou atenção por envolver um jogador fora do padrão habitual da posição.",
       "source": "bluesky",
       "subreddit": "bsky_rj",
       "permalink": "https://bsky.app/profile/caiobitencourt.net/post/3mztwpneyok2h",
       "createdAt": "2026-11-09T03:00:50.372000+00:00",
-      "rawScore": 0.2768050165072202,
-      "relevanceScore": 0.2647370202680375,
-      "suggestedRadius": 66.87,
+      "rawScore": 0.30078612204282973,
+      "relevanceScore": 0.2986666471140514,
+      "suggestedRadius": 68.79,
       "imageUrl": "assets/images/bsky_3mztwpneyok2h_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mztwpneyok2h_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -436,129 +559,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O centroavante diferente quase marcou um golaço e mostrou que o Vasco tem talento na base. Esse tipo de lance no sub-15 é emocionante e merece ser valorizado, independentemente do resultado.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A divulgação desse quase gol como urgente é exagero. O foco deveria ser no desenvolvimento dos jovens, não em lances isolados que não mudam o placar. O sensacionalismo em cima da base prejudica os atletas.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O lance aconteceu no mês passado e só agora foi notado por causa da psicose eleitoral. Isso mostra como o noticiário esportivo fica em segundo plano em períodos de eleição, e o quase gol acabou passando batido.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzopgfwwys25",
-      "rank": 9,
-      "title": "Parece uma socialite carioca de 85 anos.",
-      "label": "Ave rara comparada a socialite carioca",
-      "context": "Um post no Bluesky comparou uma ave a uma socialite carioca de 85 anos, e a imagem viralizou entre os usuários da rede. A comparação gerou comentários sobre a aparência da ave, seu habitat e até o som que ela emite.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/verdakulto.bsky.social/post/3mzopgfwwys25",
-      "createdAt": "2026-11-07T01:07:04.381000+00:00",
-      "rawScore": 0.26775162987811396,
-      "relevanceScore": 0.2555325592561082,
-      "suggestedRadius": 66.33,
-      "imageUrl": "assets/images/bsky_3mzopgfwwys25_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzopgfwwys25_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "Parece uma socialite carioca de 85 anos.",
-          "url": "https://bsky.app/profile/verdakulto.bsky.social/post/3mzopgfwwys25",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A comparação é genial: a ave tem mesmo um ar de socialite carioca, com permanente no cabelo e tudo. É uma forma divertida de celebrar a biodiversidade brasileira, como mostram os comentários sobre a 'permanente de respeito' e a 'estética' perfeita.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            7
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A piada reforça um estereótipo elitista e preconceituoso, associando a ave a um grupo específico de mulheres mais velhas do Rio. Melhor focar na beleza natural da ave sem precisar rotular como 'socialite' ou 'madame'.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            4
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A ave é da região Norte, não do Rio, então a comparação com socialite carioca é geograficamente equivocada. O som estranho que ela emite também chama atenção e pode ser o motivo real da viralização, mais do que a aparência.",
-          "source": "sintese",
-          "evidence": [
-            5,
-            8
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzqxsqwcnc2s",
-      "rank": 10,
-      "title": "Bolsonarista carioca é preso por ofender nordestinos em Natal",
-      "label": "Preso por ofensas a nordestinos em Natal",
-      "context": "Um homem identificado como bolsonarista e carioca foi preso em Natal após ofender nordestinos. O caso ganhou repercussão nas redes sociais, com usuários cobrando a divulgação do nome do detido.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mzqxsqwcnc2s",
-      "createdAt": "2026-11-07T22:42:31.375000+00:00",
-      "rawScore": 0.15129705596903503,
-      "relevanceScore": 0.23880340692684573,
-      "suggestedRadius": 65.32,
-      "imageUrl": "assets/images/bsky_3mzqxsqwcnc2s_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzqxsqwcnc2s_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "Bolsonarista carioca é preso por ofender nordestinos em Natal www.diariodocentrodomundo.com.br/essencial/ho...",
-          "url": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mzqxsqwcnc2s",
-          "subreddit": "bsky_rj"
-        },
-        {
-          "title": "acabaram de me ofender aqui no fiq (acharam que eu era carioca",
-          "url": "https://bsky.app/profile/carolborgesart.bsky.social/post/3mzqfgkemp226",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A prisão mostra que ofender nordestinos não é brincadeira e tem consequência. Quem usa o preconceito regional como piada precisa entender que a lei vale para todos, e esse episódio em Natal serve de recado para quem se acha no direito de humilhar os outros.",
+          "text": "Um centroavante diferente quase marcou o segundo gol do Vasco e mostrou que o futebol de base pode revelar talentos fora do padrão. A jogada foi no mês passado, mas vale a pena destacar porque esse tipo de lance merece ser visto e valorizado.",
           "source": "sintese",
           "evidence": [
             1
@@ -568,20 +569,20 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Sem o nome divulgado, a prisão perde força e vira só notícia solta. O sujeito ofendeu nordestinos em praça pública e agora some no anonimato, enquanto a sociedade fica sem saber quem é esse escroto que precisa ser mantido longe da convivência.",
+          "text": "A notícia é de um jogo do mês passado e só apareceu agora por causa da psicose eleitoral. O foco deveria ser o futebol de base, mas a divulgação atrasada e fora de contexto tira a relevância do quase gol do centroavante diferente.",
           "source": "sintese",
           "evidence": [
-            2
+            1
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O caso rende piada nas redes, mas o detalhe curioso é que o próprio autor da ofensa teria sido confundido com carioca no episódio. Isso mostra como o preconceito regional é confuso e se volta contra qualquer um, independente de quem começou a hostilidade.",
+          "text": "O quase gol do centroavante diferente no Vasco-Madureira sub-15 aconteceu no mês passado, e só foi notado agora. A informação chega tarde e sem detalhes, então fica difícil avaliar o lance ou o contexto do jogo.",
           "source": "sintese",
           "evidence": [
-            3
+            1
           ],
           "votes": 0
         }

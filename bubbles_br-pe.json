@@ -1,11 +1,139 @@
 {
-  "generatedAt": "2026-11-09T22:11:42.236501+00:00",
+  "generatedAt": "2026-11-10T06:39:44.986513+00:00",
   "region": "br-pe",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3mztp4nihyd2y",
+      "id": "bsky_3mzwk5y637s2j",
       "rank": 1,
+      "title": "Imitando robô no centro do Recife para comprar coxinha no bar da Galega",
+      "label": "Brincadeira de imitar robô no Recife",
+      "context": "Uma pessoa publicou nas redes que imitou um robô no centro do Recife para comprar coxinha no bar da Galega. A brincadeira gerou comentários sobre a camiseta usada e a recordação do momento.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/saluak.bsky.social/post/3mzwk5y637s2j",
+      "createdAt": "2026-11-10T03:54:10.670000+00:00",
+      "rawScore": 0.8518204842231553,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3mzwk5y637s2j_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzwk5y637s2j_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "imitando robô no centro do recife pra comprar coxinha no bar da galega",
+          "url": "https://bsky.app/profile/saluak.bsky.social/post/3mzwk5y637s2j",
+          "subreddit": "bsky_pe"
+        },
+        {
+          "title": "Partiu centro do Recife! Resolver coisinhas e passear!",
+          "url": "https://bsky.app/profile/joulee.bsky.social/post/3mzpth36ndc2g",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A camiseta usada na brincadeira virou o centro das atenções e muita gente quer uma igual. A recordação do momento, comprada na Lojinha Reflexiva, foi um sucesso entre os comentários.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3,
+            5
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A dificuldade de escolher entre várias cores da camiseta foi o único ponto negativo da história. Fora isso, a brincadeira no centro do Recife rendeu boas risadas.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O look escolhido para imitar o robô no centro do Recife chamou atenção e rendeu elogios. A camiseta e a recordação da lojinha foram os detalhes mais comentados.",
+          "source": "sintese",
+          "evidence": [
+            4,
+            5
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzvyidrbnk2d",
+      "rank": 2,
+      "title": "Audiência pública no Recife para regulamentar lei de cinema nacional nas escolas",
+      "label": "Cinema nacional nas escolas · Regulamentação no Recife",
+      "context": "Nesta quarta-feira, a Câmara dos Vereadores do Recife realiza uma audiência pública para regulamentar a lei que prevê a exibição de cinema nacional nas escolas. A regulamentação define como a lei será aplicada na prática, e a presença de pessoas na audiência é vista como forma de pressionar pela aprovação.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/caroltypes.bsky.social/post/3mzvyidrbnk2d",
+      "createdAt": "2026-11-09T22:37:37.975000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 0.9452442440867657,
+      "suggestedRadius": 94.33,
+      "imageUrl": "assets/images/bsky_3mzvyidrbnk2d_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzvyidrbnk2d_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "Povo do audiovisual do Recife: nesta quarta teremos um dos momentos políticos mais importantes na luta pela soberania audiovisual. Haverá Audiência Pública na Câmara dos Vereadores pra regulamentar a lei que prevê cinema nacional nas escolas. Espalhem pq é crucial ter gente (e pressão) na audiência.",
+          "url": "https://bsky.app/profile/caroltypes.bsky.social/post/3mzvyidrbnk2d",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Cinema nacional nas escolas pode inspirar as novas gerações e fortalecer a cultura brasileira. A audiência é uma chance de garantir que a lei saia do papel, e por isso vale espalhar e comparecer para pressionar os vereadores.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A discussão sobre cinema nacional nas escolas não deveria ofuscar crises humanitárias urgentes, como o sofrimento de famílias em Gaza. Enquanto isso, pessoas doentes e feridas seguem sem ajuda, e a prioridade deveria ser salvar vidas.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Mesmo quem não é de Recife pode apoiar a iniciativa, compartilhando a informação para que a regulamentação avance e sirva de exemplo para outras cidades. A pressão popular na audiência é o que pode fazer a diferença.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mztp4nihyd2y",
+      "rank": 3,
       "title": "Ramal do Agreste leva água do São Francisco a Pernambuco",
       "label": "Ramal do Agreste · Infraestrutura hídrica",
       "context": "O Ramal do Agreste é uma obra de infraestrutura hídrica em Pernambuco com mais de 70 km de canais e estruturas que transportam água do Rio São Francisco. A obra busca ampliar o abastecimento e fortalecer a produção na região do Agreste.",
@@ -13,9 +141,9 @@
       "subreddit": "bsky_pe",
       "permalink": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mztp4nihyd2y",
       "createdAt": "2026-11-09T00:44:58.173000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.398059074585707,
+      "relevanceScore": 0.41487184006806477,
+      "suggestedRadius": 74.65,
       "imageUrl": "assets/images/bsky_3mztp4nihyd2y_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mztp4nihyd2y_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -31,7 +159,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Água chegando pelo Ramal do Agreste significa mais oportunidades, crescimento e futuro para o semiárido. A obra leva o São Francisco a uma região que sempre sofreu com a seca e agora pode produzir e se desenvolver.",
+          "text": "Água chegando pelo Ramal do Agreste vira oportunidade de crescimento e futuro para o semiárido. Com mais de 70 km de canais, a obra amplia o abastecimento e fortalece a produção, impulsionando o desenvolvimento de toda a região.",
           "source": "sintese",
           "evidence": [
             1
@@ -41,7 +169,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O Ramal do Agreste é uma obra cara e demorada, e a água do São Francisco não resolve tudo. Sem manutenção e gestão eficiente, os canais podem não garantir o abastecimento prometido.",
+          "text": "Obra desse porte anunciada com pompa precisa mostrar resultado concreto na torneira das pessoas. Enquanto o abastecimento não melhora de fato, o discurso de desenvolvimento fica só no papel e não resolve a vida de quem vive no Agreste.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -49,7 +177,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O Ramal do Agreste é uma grande obra, mas seu impacto real depende de como a água será distribuída. É preciso acompanhar se o abastecimento e a produção vão melhorar de fato para quem vive na região.",
+          "text": "O Ramal do Agreste é uma obra importante, mas o impacto real depende de como a água será distribuída e gerida. Sem manutenção e planejamento, os canais podem não garantir o abastecimento nem o desenvolvimento esperado para a região.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -60,17 +188,17 @@
     },
     {
       "id": "bsky_3mztlovpgkk2l",
-      "rank": 2,
-      "title": "Papai Noel, puxa Recife com seu trenó para mais perto do Polo Norte porque esse calor está insuportável",
-      "label": "Calor no Recife · Reclamações e ironias",
-      "context": "Uma publicação no Bluesky pediu, em tom de brincadeira, que o Papai Noel puxasse Recife com seu trenó para mais perto do Polo Norte por causa do calor insuportável na cidade. O post gerou comentários sobre a dificuldade de lidar com as temperaturas altas e as mudanças bruscas de previsão do tempo na região.",
+      "rank": 4,
+      "title": "Papai Noel, puxe Recife com seu trenó para mais perto do Polo Norte porque esse calor está insuportável",
+      "label": "Calor em Recife · Reclamação nas redes",
+      "context": "Uma publicação no Bluesky pede, em tom de brincadeira, que o Papai Noel puxe Recife para perto do Polo Norte por causa do calor insuportável na cidade. O post viralizou e virou conversa sobre as temperaturas altas e as mudanças bruscas de clima na região.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
       "permalink": "https://bsky.app/profile/luaminguante.bsky.social/post/3mztlovpgkk2l",
       "createdAt": "2026-11-08T23:43:32.974000+00:00",
-      "rawScore": 0.23924773619140716,
-      "relevanceScore": 0.4880530402126746,
-      "suggestedRadius": 77.92,
+      "rawScore": 0.09441594380705391,
+      "relevanceScore": 0.3053580434280956,
+      "suggestedRadius": 69.16,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -96,7 +224,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O calor no Recife realmente passou dos limites, e a brincadeira do trenó traduz bem o que a gente sente. Quem vive aqui sabe que não é exagero: é um sol que castiga o dia inteiro e não dá trégua nem à noite.",
+          "text": "Recife realmente tem um calor que não dá trégua, e a brincadeira do trenó traduz o que todo mundo sente. Quem mora aqui sabe que a sensação térmica passa dos 30 graus fácil e não tem jeito de escapar.",
           "source": "sintese",
           "evidence": [
             1
@@ -106,7 +234,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Reclamar do calor de Recife enquanto tem gente passando calor em São Paulo ou em João Pessoa é uma palhaçada. Cada lugar tem seu problema, e ficar nessa competição de quem sofre mais não resolve nada.",
+          "text": "Reclamar do calor de Recife enquanto tem gente passando calor em São Paulo é uma palhaçada, e ainda tem quem critique quem vai para João Pessoa. Cada cidade tem seu clima e ninguém deveria ficar medindo sofrimento.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -114,245 +242,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O problema é que a previsão do tempo muda do nada: você arruma a mala com roupa de frio e no dia seguinte faz trinta graus. A imprevisibilidade é o que mais irrita, não só o calor em si.",
+          "text": "O problema maior é a previsão do tempo que muda do nada: a mínima era 14 e virou 19, e o dia bate 30 graus. Quem fez a mala cheia de manga comprida e moletom se deu mal porque não trouxe uma roupa leve.",
           "source": "sintese",
           "evidence": [
             1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzpth36ndc2g",
-      "rank": 3,
-      "title": "Partiu centro do Recife! Resolver coisinhas e passear!",
-      "label": "Passeio e compras no centro do Recife",
-      "context": "Uma pessoa publicou no Bluesky que estava indo ao centro do Recife para resolver tarefas e passear. O post gerou comentários sobre uma camiseta vista no local e elogios ao visual.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/joulee.bsky.social/post/3mzpth36ndc2g",
-      "createdAt": "2026-11-07T11:52:01.475000+00:00",
-      "rawScore": 0.4229199516868908,
-      "relevanceScore": 0.46991105742987865,
-      "suggestedRadius": 77.13,
-      "imageUrl": "assets/images/bsky_3mzpth36ndc2g_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzpth36ndc2g_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "Partiu centro do Recife! Resolver coisinhas e passear!",
-          "url": "https://bsky.app/profile/joulee.bsky.social/post/3mzpth36ndc2g",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A camiseta que a pessoa mostrou é exatamente o tipo de recordação que vale a pena trazer de um passeio pelo centro do Recife. Peças assim guardam a memória do dia e ainda rendem elogios.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3,
-            5
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O centro do Recife tem tanta perturbação que a pessoa precisou de uma recordação para compensar. Passear por lá virou mais uma corrida para resolver coisinhas do que um lazer tranquilo.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A dificuldade mesmo foi escolher entre as várias cores da camiseta, como a própria pessoa comentou. O passeio rendeu uma recordação, mas a indecisão na hora da compra virou parte da história.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mztiisstq22i",
-      "rank": 4,
-      "title": "#FinalFeliz (1982) estreia no Globoplay Novelas (Canal VIVA) a partir desta segunda-feira, dia 09 de novembro, às 13h50",
-      "label": "Estreia de #FinalFeliz no Globoplay Novelas",
-      "context": "A novela #FinalFeliz, de 1982, escrita por Ivani Ribeiro e ambientada no Ceará e em Pernambuco, estreia no Globoplay Novelas (Canal VIVA) nesta segunda-feira, 09 de novembro, às 13h50. A exibição marca a volta de uma produção antiga da autora em um canal dedicado a novelas.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/brandwainvielmond.bsky.social/post/3mztiisstq22i",
-      "createdAt": "2026-11-08T22:46:31.672000+00:00",
-      "rawScore": 0.2702791751115954,
-      "relevanceScore": 0.3003101945684393,
-      "suggestedRadius": 68.88,
-      "imageUrl": "assets/images/bsky_3mztiisstq22i_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztiisstq22i_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "#FinalFeliz (1982) estreia no Globoplay Novelas (Canal VIVA) a partir desta segunda-feira, dia 09 de novembro, às 13h50. Novela de Ivani Ribeiro, ambientada em dois estados do Nordeste: Ceará e Pernambuco.",
-          "url": "https://bsky.app/profile/brandwainvielmond.bsky.social/post/3mztiisstq22i",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A estreia de #FinalFeliz no Globoplay Novelas é uma ótima chance de rever ou conhecer uma novela de Ivani Ribeiro, que tem um estilo único e histórias envolventes. A ambientação no Ceará e em Pernambuco traz um charme regional especial.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O horário das 13h50 não é dos melhores para quem trabalha ou estuda, e a novela é muito antiga, de 1982. Poderia ser exibida em outro horário ou ter uma divulgação maior para alcançar mais público.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A novela é um clássico, mas o público atual talvez não se identifique com o formato e o ritmo de 1982. Vale a pena assistir para conhecer, mas não sei se vai atrair novos espectadores.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzptq5qkjs27",
-      "rank": 5,
-      "title": "Campanha de vacinação antirrábica acontece hoje no Recife",
-      "label": "Vacinação antirrábica no Recife",
-      "context": "Uma campanha de vacinação antirrábica para pets está sendo realizada hoje no Recife, conforme divulgado em post no Bluesky. A ação é uma oportunidade para tutores protegerem seus animais contra a raiva, doença grave que pode ser transmitida a humanos.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/peitica.bsky.social/post/3mzptq5qkjs27",
-      "createdAt": "2026-11-07T11:56:45.879000+00:00",
-      "rawScore": 0.2514171869500828,
-      "relevanceScore": 0.27935242994453646,
-      "suggestedRadius": 67.71,
-      "imageUrl": "assets/images/bsky_3mzptq5qkjs27_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzptq5qkjs27_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "amigas de recife ta tendo campanha de vacina antirrabica hj. levem seus pets",
-          "url": "https://bsky.app/profile/peitica.bsky.social/post/3mzptq5qkjs27",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Levar meu pet para vacinar é essencial, ainda mais com uma campanha gratuita assim. Já vou garantir a proteção do meu filho de quatro patas hoje mesmo.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A campanha é da prefeitura, mas o calendário parece meio fora de época. Normalmente a vacinação antirrábica aqui acontece em dezembro, então fico na dúvida se essa é a oficial.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Fiquei sabendo que a campanha é organizada pela prefeitura do Recife, mas não vi divulgação oficial. Vou confirmar nos canais da prefeitura antes de levar meu cachorro.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzq5j6wk5c2w",
-      "rank": 6,
-      "title": "Consultoria aprova curta de Pernambuco na Lei Rouanet após falha na Aldir Blanc",
-      "label": "Lei Rouanet · Alternativa à Aldir Blanc",
-      "context": "A Pantografica, empresa de consultoria de projetos, vai encerrar o ano aprovando um curta-metragem do interior de Pernambuco na Lei Rouanet porque o proponente não conseguiu acesso à Lei Aldir Blanc. A Lei Aldir Blanc foi criada justamente para projetos que não dependem do mecanismo de renúncia fiscal da Rouanet, e o caso expõe a dependência de produtores do interior de leis alternativas de fomento.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/marinarodri.bsky.social/post/3mzq5j6wk5c2w",
-      "createdAt": "2026-11-07T14:51:49.577000+00:00",
-      "rawScore": 0.2478172680945474,
-      "relevanceScore": 0.2753525201050527,
-      "suggestedRadius": 67.48,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "Deveria ser óbvio, mas não é. Este ano a Pantografica (minha empresa de consultoria de projetos) vai encerrar o ano aprovando um curta-metragem do interior de Pernambuco na Lei Rouanet pq o proponente não conseguiu a Lei Aldir Blanc, uma lei criada justamente para não depender +",
-          "url": "https://bsky.app/profile/marinarodri.bsky.social/post/3mzq5j6wk5c2w",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A Lei Rouanet acaba virando a saída real para um proponente do interior de Pernambuco que não conseguiu a Aldir Blanc. Se o projeto é de interesse popular e a consultoria consegue captar com empresa privada, o caminho funciona e o curta sai do papel.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O problema é a Lei Aldir Blanc não chegar a quem deveria: um curta do interior de Pernambuco só se viabiliza porque o proponente não acessou a lei criada exatamente para isso. Depender da Rouanet e de vender o projeto como case para empresário mostra que a política pública falhou na ponta.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Comparar a seleção artística brasileira com a dos Estados Unidos ignora a diversidade cultural daqui, e o proponente ainda precisa de outra ocupação para se sustentar. O caso reflete a resposta do MinC depois dos anos de secura, mas não dá para tratar como solução ideal.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            3
           ],
           "votes": 0
         }
@@ -362,17 +255,17 @@
     },
     {
       "id": "bsky_3mztjcmcz4c25",
-      "rank": 7,
+      "rank": 5,
       "title": "Confirmadíssimo no carnaval de Olinda e Recife",
       "label": "Carnaval de Olinda e Recife · Atração confirmada",
-      "context": "Um post no Bluesky afirma que uma atração está confirmada no carnaval de Olinda e Recife, sem especificar qual artista ou evento. A publicação gerou expectativa entre foliões que acompanham a programação da festa.",
+      "context": "Um post no Bluesky afirma que uma atração está confirmada para o carnaval de Olinda e Recife, sem especificar qual artista ou data. A publicação gerou expectativa entre foliões que aguardam anúncios oficiais para o período carnavalesco.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
       "permalink": "https://bsky.app/profile/marsspider.bsky.social/post/3mztjcmcz4c25",
       "createdAt": "2026-11-08T23:00:53.270000+00:00",
-      "rawScore": 0.1406557396248104,
-      "relevanceScore": 0.2673952662497893,
-      "suggestedRadius": 67.03,
+      "rawScore": 0.05043115304545436,
+      "relevanceScore": 0.1532175110430775,
+      "suggestedRadius": 59.49,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -393,7 +286,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Carnaval de Olinda e Recife merece atração de peso, e esse anúncio já anima quem planeja a folia. A festa tem histórico de grandes shows, como Ney Matogrosso em 2025, e isso reforça a expectativa por uma programação forte.",
+          "text": "A confirmação anima quem já planeja ir ao carnaval de Olinda e Recife; a notícia traz expectativa e deve movimentar a cidade, mesmo sem detalhes oficiais sobre a atração.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -401,7 +294,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Anúncio sem nome de artista nem data não passa confiança; parece mais boato pra gerar engajamento do que informação útil. Quem vai organizar viagem precisa de dados concretos, não de 'confirmadíssimo' solto.",
+          "text": "Faltam informações concretas: o post não diz qual atração foi confirmada nem a data, o que pode gerar frustração e especulação entre os foliões que esperam anúncios oficiais.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -409,7 +302,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A informação ainda está vaga, e o próprio post não diz qual atração é. Vale esperar a divulgação oficial da prefeitura ou dos organizadores antes de comemorar ou criticar.",
+          "text": "A informação ainda é vaga e precisa ser confirmada por fontes oficiais; enquanto isso, resta acompanhar os canais da prefeitura e dos organizadores para saber se a atração realmente virá.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -419,26 +312,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mztetiyfr22s",
-      "rank": 8,
-      "title": "São Juninho Pernambuco, rogai por nós",
-      "label": "Juninho Pernambuco · Homenagem de torcedores",
-      "context": "Torcedores publicaram nas redes a expressão \"São Juninho Pernambuco, rogai por nós\", tratando o ex-jogador como santo. A brincadeira viralizou entre fãs do futebol e mostra como ídolos esportivos viram figura de devoção no humor da internet.",
+      "id": "bsky_3mzptq5qkjs27",
+      "rank": 6,
+      "title": "Campanha de vacinação antirrábica acontece hoje no Recife",
+      "label": "Vacinação antirrábica no Recife",
+      "context": "Uma campanha de vacinação antirrábica para pets está sendo realizada hoje no Recife. A ação é organizada pela prefeitura da cidade, segundo informações compartilhadas nas redes sociais.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/emoviolencedagama.bsky.social/post/3mztetiyfr22s",
-      "createdAt": "2026-11-08T21:40:51.679000+00:00",
-      "rawScore": 0.21922454129975968,
-      "relevanceScore": 0.24358282366639963,
-      "suggestedRadius": 65.61,
-      "imageUrl": "assets/images/bsky_3mztetiyfr22s_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztetiyfr22s_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/peitica.bsky.social/post/3mzptq5qkjs27",
+      "createdAt": "2026-11-07T11:56:45.879000+00:00",
+      "rawScore": 0.12127775089453058,
+      "relevanceScore": 0.122412770482528,
+      "suggestedRadius": 56.99,
+      "imageUrl": "assets/images/bsky_3mzptq5qkjs27_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzptq5qkjs27_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pe",
       "sources": [
         {
-          "title": "São Juninho Pernambuco, rogai por nós",
-          "url": "https://bsky.app/profile/emoviolencedagama.bsky.social/post/3mztetiyfr22s",
+          "title": "amigas de recife ta tendo campanha de vacina antirrabica hj. levem seus pets",
+          "url": "https://bsky.app/profile/peitica.bsky.social/post/3mzptq5qkjs27",
           "subreddit": "bsky_pe"
         }
       ],
@@ -446,25 +339,32 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Juninho Pernambuco merece essa brincadeira porque foi um dos maiores cobradores de falta que o futebol já viu, e transformar ídolo em santo é o jeito mais carinhoso que a torcida tem de reconhecer o que ele fez em campo.",
+          "text": "Levar os pets para vacinar contra raiva é essencial, ainda mais com uma campanha da prefeitura facilitando o acesso. Quem tem animal em casa deveria aproveitar e garantir a proteção.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Tratar jogador como santo banaliza a fé de quem realmente reza, e a piada já se repete tanto que perdeu a graça; virou clichê de internet que qualquer um copia sem pensar no que está dizendo.",
+          "text": "A campanha está sendo divulgada em cima da hora, o que dificulta o planejamento de quem trabalha. Além disso, geralmente a vacinação antirrábica no Recife ocorre em dezembro, então esse timing fora do comum gera desconfiança.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            3
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A expressão funciona como meme porque mistura devoção religiosa com memória do futebol, e isso diz mais sobre como a torcida cria seus próprios rituais do que sobre Juninho em si; é humor de nicho que só pega entre quem viveu aquela época.",
+          "text": "A informação de que a campanha é da prefeitura procede, mas é bom confirmar os postos e horários oficiais antes de sair de casa. Como a data habitual é dezembro, vale checar se não houve mudança no calendário.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2,
+            3
+          ],
           "votes": 0
         }
       ],
@@ -472,26 +372,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mztddf6g6k2o",
-      "rank": 9,
-      "title": "Tsunami no Brasil: estudo mostra mar avançando até 4 km em Pernambuco após terremoto em Portugal",
-      "label": "Tsunami em Pernambuco · Estudo",
-      "context": "Um estudo mostrou que o mar avançou até 4 km continente adentro no litoral de Pernambuco após um terremoto em Portugal. O caso é analisado para entender os efeitos de tsunamis no Brasil.",
+      "id": "bsky_3mzq5j6wk5c2w",
+      "rank": 7,
+      "title": "Consultoria aprova curta de Pernambuco na Lei Rouanet após falha na Aldir Blanc",
+      "label": "Lei Rouanet · Curta pernambucano aprovado",
+      "context": "A Pantografica, empresa de consultoria de projetos, vai encerrar o ano aprovando um curta-metragem do interior de Pernambuco na Lei Rouanet porque o proponente não conseguiu acesso à Lei Aldir Blanc. A Lei Aldir Blanc foi criada justamente para projetos que não dependem do mecanismo de renúncia fiscal da Rouanet.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/wilsonsilva.bsky.social/post/3mztddf6g6k2o",
-      "createdAt": "2026-11-08T21:14:00.179000+00:00",
-      "rawScore": 0.2152042853240493,
-      "relevanceScore": 0.239115872582277,
-      "suggestedRadius": 65.34,
-      "imageUrl": "assets/images/bsky_3mztddf6g6k2o_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztddf6g6k2o_reddit_thumb.jpg",
-      "category": "ciencia",
+      "permalink": "https://bsky.app/profile/marinarodri.bsky.social/post/3mzq5j6wk5c2w",
+      "createdAt": "2026-11-07T14:51:49.577000+00:00",
+      "rawScore": 0.1185694170257093,
+      "relevanceScore": 0.11955102824920362,
+      "suggestedRadius": 56.75,
+      "imageUrl": "assets/images/bsky_3mzq5j6wk5c2w_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzq5j6wk5c2w_wiki_thumb.jpg",
+      "category": "geopolitica",
       "region": "br-pe",
       "sources": [
         {
-          "title": "Tsunami no Brasil: Estudo mostra como o mar avançou até 4 km continente adentro no litoral de Pernambuco após terremoto em Portugal | CNN Brasil share.google/F7jnI1peGlZA...",
-          "url": "https://bsky.app/profile/wilsonsilva.bsky.social/post/3mztddf6g6k2o",
+          "title": "Deveria ser óbvio, mas não é. Este ano a Pantografica (minha empresa de consultoria de projetos) vai encerrar o ano aprovando um curta-metragem do interior de Pernambuco na Lei Rouanet pq o proponente não conseguiu a Lei Aldir Blanc, uma lei criada justamente para não depender +",
+          "url": "https://bsky.app/profile/marinarodri.bsky.social/post/3mzq5j6wk5c2w",
           "subreddit": "bsky_pe"
         }
       ],
@@ -499,7 +399,133 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O estudo é importante para entendermos os riscos de tsunamis no Brasil e preparar as cidades costeiras. Com dados concretos como esse, podemos desenvolver planos de evacuação e alerta mais eficazes.",
+          "text": "A Lei Rouanet acaba funcionando como saída real para um proponente do interior de Pernambuco que não conseguiu a Aldir Blanc. Sem essa alternativa, o curta simplesmente não sairia, e o proponente não trabalharia com o que dedicou a vida a fazer.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O projeto ter que virar case econômico para empresário captar recurso mostra o tamanho do problema: a Lei Aldir Blanc não chegou a quem devia, e a Rouanet vira plano B para um curta de interesse popular que deveria ter sido financiado direto.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Comparar a seleção artística brasileira com a dos Estados Unidos ignora a diversidade cultural daqui. O modelo de curadoria e fomento precisa caber nessa realidade, e não dá para cobrar do MinC respostas que o próprio desenho das leis não entrega.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzk7ibck5z2w",
+      "rank": 8,
+      "title": "Orocó é um município brasileiro do estado de Pernambuco",
+      "label": "Orocó · Município de Pernambuco",
+      "context": "Orocó é um município brasileiro localizado no estado de Pernambuco. A informação foi compartilhada em post no Bluesky, com dados do IBGE, fotos do Google Places e mapas do Google Maps.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/cidades-do-brasil.bsky.social/post/3mzk7ibck5z2w",
+      "createdAt": "2026-11-05T06:11:07.075000+00:00",
+      "rawScore": 0.011881939108552009,
+      "relevanceScore": 0.11248475100389396,
+      "suggestedRadius": 56.12,
+      "imageUrl": "assets/images/bsky_3mzk7ibck5z2w_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzk7ibck5z2w_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "Orocó é um município brasileiro do estado de Pernambuco.",
+          "url": "https://bsky.app/profile/cidades-do-brasil.bsky.social/post/3mzk7ibck5z2w",
+          "subreddit": "bsky_pe"
+        },
+        {
+          "title": "Falando Humberto Costa, pq é um senador por Pernambuco, e Pernambuco pra mim é tipo o Michigan lá… um estado importante. Mas que já brilhou mais em outros momentos…",
+          "url": "https://bsky.app/profile/metheoro.com.br/post/3mzkkmlwc2c26",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Orocó é um município pernambucano e merece ser conhecido. A postagem traz dados do IBGE e imagens do Google, o que ajuda a divulgar o lugar e sua localização no estado.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Falar de Orocó sem contexto político não faz sentido, ainda mais com uma eleição se aproximando. A postagem ignora a disputa local e vira só uma ficha técnica do município.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A postagem sobre Orocó é só informativa, com dados do IBGE e do Google. Não vejo problema nisso, mas também não vejo por que tanta gente está comentando política em vez do município.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            4
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mztiisstq22i",
+      "rank": 9,
+      "title": "#FinalFeliz (1982) estreia no Globoplay Novelas (Canal VIVA) a partir desta segunda-feira, dia 09 de novembro, às 13h50",
+      "label": "Estreia de #FinalFeliz no Globoplay Novelas",
+      "context": "A novela #FinalFeliz, de 1982, escrita por Ivani Ribeiro e ambientada no Ceará e em Pernambuco, estreia no canal VIVA (Globoplay Novelas) nesta segunda-feira, 9 de novembro, às 13h50. A exibição marca a volta de uma produção regionalista de Ivani Ribeiro na faixa de reprises do canal.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/brandwainvielmond.bsky.social/post/3mztiisstq22i",
+      "createdAt": "2026-11-08T22:46:31.672000+00:00",
+      "rawScore": 0.10967524804339503,
+      "relevanceScore": 0.11015306616630496,
+      "suggestedRadius": 55.91,
+      "imageUrl": "assets/images/bsky_3mztiisstq22i_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mztiisstq22i_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "#FinalFeliz (1982) estreia no Globoplay Novelas (Canal VIVA) a partir desta segunda-feira, dia 09 de novembro, às 13h50. Novela de Ivani Ribeiro, ambientada em dois estados do Nordeste: Ceará e Pernambuco.",
+          "url": "https://bsky.app/profile/brandwainvielmond.bsky.social/post/3mztiisstq22i",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A volta de #FinalFeliz é uma ótima notícia para quem gosta de novela clássica: texto da Ivani Ribeiro, ambientação no Nordeste e a chance de rever um trabalho que marcou época. O horário das 13h50 no VIVA facilita para quem trabalha em casa ou está de folga.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -507,7 +533,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Esse tipo de estudo pode gerar alarmismo desnecessário. O Brasil não tem histórico de tsunamis devastadores, e focar em um evento raro desvia atenção de problemas mais urgentes, como enchentes e deslizamentos.",
+          "text": "O canal VIVA já tem uma grade cheia de reprises e agora coloca mais uma novela antiga no horário. Quem esperava conteúdo inédito ou pelo menos uma curadoria diferente fica frustrado com mais do mesmo. A emissora podia investir em tramas menos conhecidas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -515,7 +541,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O avanço do mar em Pernambuco após um terremoto distante mostra que precisamos de mais monitoramento, mas ainda faltam dados para saber se isso é excepcional ou parte de um padrão. É um alerta, não uma previsão.",
+          "text": "A estreia de #FinalFeliz no VIVA é válida para preservar a memória da teledramaturgia, mas o horário das 13h50 limita o público. Quem não tem acesso ao canal pago ou ao Globoplay Novelas fica de fora, e a novela merecia uma janela mais ampla.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -527,16 +553,16 @@
     {
       "id": "bsky_3mzqdts4fgs2v",
       "rank": 10,
-      "title": "Siba critica uso do termo 'esquerda cirandeira' e defende a seriedade da ciranda em Pernambuco",
+      "title": "Siba critica uso do termo 'esquerda cirandeira' em Pernambuco",
       "label": "Siba e o termo 'esquerda cirandeira'",
-      "context": "O músico Siba criticou nesta semana o uso do termo 'esquerda cirandeira', afirmando que a ciranda é uma manifestação cultural séria em Pernambuco. A declaração reacende a discussão sobre o respeito às tradições populares e o uso de expressões que as banalizam.",
+      "context": "O músico Siba criticou nesta semana o uso da expressão 'esquerda cirandeira', argumentando que a ciranda é uma manifestação cultural séria em Pernambuco. A fala reacende a discussão sobre como termos ligados à cultura popular são usados no debate político.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
       "permalink": "https://bsky.app/profile/sucodebile.bsky.social/post/3mzqdts4fgs2v",
       "createdAt": "2026-11-07T16:45:10.180000+00:00",
-      "rawScore": 0.21361961004940722,
-      "relevanceScore": 0.23735512227711913,
-      "suggestedRadius": 65.23,
+      "rawScore": 0.10190863897099034,
+      "relevanceScore": 0.1019465324563772,
+      "suggestedRadius": 55.16,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -552,7 +578,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Siba está coberto de razão: ciranda é patrimônio cultural pernambucano, não rótulo político. Usar 'esquerda cirandeira' de forma pejorativa desrespeita a história de quem mantém essa tradição viva. A crítica dele é um alerta necessário contra a apropriação leviana de termos culturais.",
+          "text": "Siba tem razão de cobrar respeito: a ciranda é patrimônio cultural de Pernambuco, não rótulo para rotular grupo político. Quem usa 'esquerda cirandeira' como piada desrespeita uma tradição que tem peso e história no estado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -560,7 +586,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A crítica de Siba parece exagerada: o termo 'esquerda cirandeira' é usado de forma bem-humorada, sem intenção de ofender a ciranda. Criar polêmica em cima disso desvia o foco de debates políticos reais e só serve para gerar briga desnecessária.",
+          "text": "A expressão 'esquerda cirandeira' é só uma forma bem-humorada de descrever um jeito de fazer política, e transformar isso em polêmica é exagero. Siba pode discordar, mas ninguém está ofendendo a ciranda ao usar o termo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -568,7 +594,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A discussão mostra como expressões que misturam cultura e política podem ter significados diferentes para cada grupo. Enquanto alguns veem desrespeito, outros enxergam apenas uma brincadeira. O importante é ouvir a perspectiva de quem vive a ciranda na prática.",
+          "text": "O termo virou moda no debate político e cada um interpreta de um jeito; o ponto é que a ciranda tem significado próprio para quem vive dela. Vale separar o uso político da expressão do respeito real à manifestação cultural.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

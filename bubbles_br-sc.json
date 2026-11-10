@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-09T22:11:42.236501+00:00",
+  "generatedAt": "2026-11-10T06:39:44.986513+00:00",
   "region": "br-sc",
   "count": 10,
   "items": [
     {
       "id": "bsky_3mzvgbgnct22b",
       "rank": 1,
-      "title": "Anúncio da OAB apareceu no Instagram uma semana após evento",
-      "label": "Anúncio da OAB · Campanha antiga no Instagram",
-      "context": "Um anúncio da OAB continuou aparecendo no Instagram mesmo uma semana depois do evento que promovia. A campanha segue no ar e gerando comentários sobre gasto de dinheiro e o papel da entidade.",
+      "title": "Anúncio da OAB aparece no Instagram uma semana após evento",
+      "label": "OAB · Anúncio antigo no Instagram",
+      "context": "Um anúncio da OAB continuava sendo exibido no Instagram uma semana depois do evento que ele divulgava. A situação gerou críticas ao gasto de dinheiro em uma campanha que já havia passado.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/mulhertamarindo.bsky.social/post/3mzvgbgnct22b",
@@ -31,34 +31,33 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A OAB está tentando se posicionar em um momento em que o sistema bancário daquele país precisa ser reconstruído do zero, e usar o Instagram para isso faz sentido. A campanha pode parecer tardia, mas ainda cumpre o papel de marcar presença.",
+          "text": "A OAB está certa em litigar em causa própria em país estrangeiro, porque isso pode render lucro e visibilidade. A campanha, mesmo atrasada, mostra que a entidade está agindo.",
           "source": "sintese",
           "evidence": [
-            6
+            11
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A OAB só aparece para cobrar anuidade dos advogados e passar vergonha; manter um anúncio no ar uma semana depois do evento é mais um exemplo de dinheiro jogado fora. Litigar em causa perdida no exterior não traz lucro nenhum.",
+          "text": "A OAB só aparece para cobrar anuidade dos advogados e passar vergonha. Esse anúncio rodando uma semana depois do evento é mais uma prova de que a entidade é ineficaz e gasta dinheiro à toa.",
           "source": "sintese",
           "evidence": [
             2,
-            4,
-            9,
-            10
+            3,
+            9
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O anúncio da OAB no Instagram levanta dúvida sobre o motivo de a entidade se prestar a esse papel e por que a campanha continua rodando. Sem saber o contrato ou a estratégia, fica difícil dizer se é erro ou se ainda faz sentido.",
+          "text": "O anúncio atrasado pode ser só um detalhe técnico da campanha, mas vale questionar por que a OAB está se prestando a esse papel. A entidade precisa explicar o motivo de manter o anúncio no ar.",
           "source": "sintese",
           "evidence": [
             1,
-            11
+            12
           ],
           "votes": 0
         }
@@ -67,36 +66,36 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzvqxu25q22t",
+      "id": "bsky_3mzto43s7p22y",
       "rank": 2,
-      "title": "Santa Catarina vive numa realidade paralela, diz usuário",
-      "label": "Santa Catarina · Crítica a eleitores bolsonaristas",
-      "context": "Um post no Bluesky afirma que Santa Catarina vive numa realidade paralela e associa isso a remédios como cloroquina e vermífugos ou a pura ignorância. A publicação gerou comentários que criticam eleitores bolsonaristas do estado e mencionam enchentes e a atuação de políticos catarinenses.",
+      "title": "Kauã Liecheski diz que a verdade sobre Santa Catarina precisa ser dita e agradece votos ao PT",
+      "label": "Apoio ao PT em Santa Catarina",
+      "context": "Kauã Liecheski publicou uma mensagem agradecendo aos catarinenses que apoiaram o trabalho do PT no estado e afirmando que a verdade sobre Santa Catarina precisa ser dita. O post circula em meio a críticas ao governo estadual e a eleitores bolsonaristas, citando enchentes e nomeações polêmicas.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/tchris030508.bsky.social/post/3mzvqxu25q22t",
-      "createdAt": "2026-11-09T20:23:21.877000+00:00",
-      "rawScore": 0.39280801724488434,
-      "relevanceScore": 0.8890269110529383,
-      "suggestedRadius": 92.57,
-      "imageUrl": "assets/images/bsky_3mzvqxu25q22t_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzvqxu25q22t_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mzto43s7p22y",
+      "createdAt": "2026-11-09T00:27:06.777000+00:00",
+      "rawScore": 0.4134746741905506,
+      "relevanceScore": 0.9115753631654188,
+      "suggestedRadius": 93.29,
+      "imageUrl": "assets/images/bsky_3mzto43s7p22y_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzto43s7p22y_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sc",
       "sources": [
         {
-          "title": "Lamentavelmente Santa Catarina vive numa realidade paralela às vezes me pergunto se foi oxonioterapia demais, cloroquina demais ou remédios pra vermes ou se é somente pura ignorância mesmo",
-          "url": "https://bsky.app/profile/tchris030508.bsky.social/post/3mzvqxu25q22t",
-          "subreddit": "bsky_sc"
-        },
-        {
-          "title": "Quem nasce em Santa Catarina é brasileiro ‼️ O resto são imbecibilidades bolsonaristas ...",
-          "url": "https://bsky.app/profile/hamorc.bsky.social/post/3mzvogvxepc25",
-          "subreddit": "bsky_sc"
-        },
-        {
           "title": "Kauã Liecheski: 🔥 \"A VERDADE SOBRE SANTA CATARINA PRECISA SER DITA! Obrigado aos milhões de catarinenses que deram o seu voto de apoio e gratidão ao trabalho do PT no estado ⭐️\"⤵️",
           "url": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mzto43s7p22y",
+          "subreddit": "bsky_sc"
+        },
+        {
+          "title": "Santa Catarina embaixo d'água e aquela da tiara criticando a Erika Hilton pela proposta de cota de 5% para LBGTQIA+ nas universidades federais. Os eleitores do Estado devem estar muito contentes com essas prioridades né? Vídeo no X. x.com/Rembodinho/s...",
+          "url": "https://bsky.app/profile/akaishiri.bsky.social/post/3mzswtbctv22f",
+          "subreddit": "bsky_sc"
+        },
+        {
+          "title": "Cinco tornados atingem o Sul do Brasil em menos de uma semana e deixam mortos Santa Catarina foi o estado com o maior número de tornados confirmados durante o período #Resistencia3049Dias Siga nosso BlueSky dilmaresiste",
+          "url": "https://bsky.app/profile/dilmaresiste.bsky.social/post/3mzozvup2p22p",
           "subreddit": "bsky_sc"
         }
       ],
@@ -104,31 +103,36 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O eleitor catarinense que insiste em votar em bolsonaristas enquanto o estado enfrenta enchentes e tornados mostra que a prioridade é pauta ideológica, não a realidade local. Enquanto isso, a esquerda segue sendo atacada por propostas como a cota de 5% para LGBTQIA+ nas universidades.",
+          "text": "Obrigado aos catarinenses que reconhecem o trabalho do PT é o mínimo, porque o estado vive uma realidade paralela e precisa encarar os fatos. Enquanto isso, a direita local só se preocupa com pautas ideológicas e ignora as enchentes e tornados que castigam a população.",
           "source": "sintese",
           "evidence": [
-            4,
-            6
+            1,
+            2,
+            3
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Chamar Santa Catarina de realidade paralela e culpar remédios como cloroquina e vermífugos é uma generalização preguiçosa. O estado tem milhões de eleitores que votam no PT e não merecem ser tratados como ignorantes por causa de uma minoria barulhenta.",
+          "text": "Agradecer votos ao PT em Santa Catarina é piada: o estado está embaixo d'água e a preocupação é fazer média política. O governador nomeia a ex-mulher para conselho e os eleitores bolsonaristas aplaudem, então essa tal verdade é só cortina de fumaça.",
           "source": "sintese",
           "evidence": [
-            3
+            4,
+            5,
+            6
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A crítica à prioridade dos políticos catarinenses é válida, mas o post original exagera ao sugerir que todo o estado vive numa bolha. O problema é a falta de debate sobre propostas concretas, como a cota de 5% para LGBTQIA+ nas universidades federais, que foi distorcida nos comentários.",
+          "text": "O post mistura agradecimento com crítica e não fica claro se é ironia ou apoio real. As enchentes e a nomeação da ex-mulher são fatos graves, mas a discussão sobre cotas e a troca de acusações desviam do que realmente importa para quem vive a tragédia.",
           "source": "sintese",
           "evidence": [
-            6
+            6,
+            7,
+            8
           ],
           "votes": 0
         }
@@ -141,14 +145,14 @@
       "rank": 3,
       "title": "Amiga não sabia que você tinha aberto uma loja em Floripa",
       "label": "Amiga descobre loja em Floripa",
-      "context": "Uma pessoa abriu uma loja em Floripa e uma amiga não sabia. O post original no Bluesky gerou poucas curtidas e comentários de pessoas que não reconheceram a amiga.",
+      "context": "Uma pessoa abriu uma loja em Floripa e uma amiga só descobriu depois, o que virou piada no Bluesky. O post rendeu comentários sobre amizades que não acompanham as novidades umas das outras.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/kodoji.bsky.social/post/3mzvjiqproc2j",
       "createdAt": "2026-11-09T18:09:46.378000+00:00",
-      "rawScore": 0.2384759172845746,
-      "relevanceScore": 0.25429580069666724,
-      "suggestedRadius": 66.26,
+      "rawScore": 0.2079280204006688,
+      "relevanceScore": 0.21320432684474078,
+      "suggestedRadius": 63.7,
       "imageUrl": "assets/images/bsky_3mzvjiqproc2j_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzvjiqproc2j_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -164,15 +168,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Abrir uma loja em Floripa é uma conquista e a amiga deveria sim saber, mas o post mostra que nem todo mundo acompanha a vida dos outros. O importante é que a loja existe e está aberta.",
+          "text": "A piada funciona porque é uma situação real: amizade que não acompanha as novidades da outra vira meme fácil. O post é leve e todo mundo já passou por descobrir tarde demais algo importante de um amigo.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A pessoa reclama que só duas pessoas curtiram, mas o post é confuso e não dá para entender se a amiga não sabia ou se a loja é em Floripa. Assim fica difícil apoiar.",
+          "text": "O post só teve duas curtidas e uma delas é de mutual, então nem faz sentido reclamar de quem não viu. Se a loja em Floripa era tão importante, era só ter falado diretamente com a amiga.",
           "source": "sintese",
           "evidence": [
             1
@@ -182,7 +188,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O comentário de que todas as amigas são top e não reconheceu a pessoa mostra que o post pode ser uma brincadeira interna. Sem contexto, não dá para saber se é sério ou ironia.",
+          "text": "A resposta da amiga mostra que o problema foi ela não ter reconhecido a pessoa, não a loja em si. O caso rende mais como brincadeira sobre amizade do que como algo para levar a sério.",
           "source": "sintese",
           "evidence": [
             2
@@ -194,78 +200,20 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mztt4fjv7k2f",
-      "rank": 4,
-      "title": "Prefeitos de São José e Florianópolis também são 'bem feios', diz post",
-      "label": "Aparência de prefeitos catarinenses em debate",
-      "context": "Um post no Bluesky afirma que os prefeitos de São José e Florianópolis também são 'bem feios' e propõe checar os fatos. A declaração surge em meio a discussões sobre a atuação da Polícia Municipal de Florianópolis e decretos do prefeito.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/afasia.bsky.social/post/3mztt4fjv7k2f",
-      "createdAt": "2026-11-09T01:56:21.774000+00:00",
-      "rawScore": 0.05212480085798941,
-      "relevanceScore": 0.15695635105861697,
-      "suggestedRadius": 59.77,
-      "imageUrl": "assets/images/bsky_3mztt4fjv7k2f_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztt4fjv7k2f_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "Peraí, peraí, peraí que o prefeito de São José e o prefeito de Florianópolis também são BEM feios! Vamos checar os fatos!",
-          "url": "https://bsky.app/profile/afasia.bsky.social/post/3mztt4fjv7k2f",
-          "subreddit": "bsky_sc"
-        },
-        {
-          "title": "Em Florianópolis posso dizer com certa margem de certeza que o trabalho principal da Polícia Municipal será o de garantir a execução dos decretos inconstitucionais do prefeito que visam eliminar os moradores de rua na cidade.",
-          "url": "https://bsky.app/profile/lingnau.bsky.social/post/3mznighkngk2q",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Aparência de político não deveria ser assunto, mas já que o post levantou, é bom lembrar que feiúra não é crime e nem indica competência. O foco deveria ser o trabalho na prefeitura, não o rosto de cada um.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Ficar julgando a aparência dos prefeitos é uma cortina de fumaça para não discutir o que realmente importa: os decretos inconstitucionais do prefeito de Florianópolis que querem tirar moradores de rua da cidade. Isso sim é feio.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O post fala em 'checar os fatos', mas beleza é subjetiva e não dá para checar. O que dá para checar é a atuação da Polícia Municipal e os decretos do prefeito, que são temas concretos e merecem atenção.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3mztkeimkfk2k",
-      "rank": 5,
-      "title": "Acompanhamento em ambulatório trans em Florianópolis foi ótimo, diz usuário",
-      "label": "Ambulatório trans · Atendimento por equipe trans",
-      "context": "Uma pessoa relatou no Bluesky que iniciou acompanhamento no ambulatório trans de Florianópolis e foi bem atendida, com médico e atendente do balcão também trans. O relato destaca a presença de profissionais trans nesse tipo de serviço, algo que também aparece em comentários sobre outras cidades.",
+      "rank": 4,
+      "title": "Acompanhamento em ambulatório trans em Florianópolis e mudança para DIY",
+      "label": "Ambulatório trans · Atendimento e DIY",
+      "context": "Uma pessoa relatou ter iniciado o acompanhamento no ambulatório trans de Florianópolis, onde o médico e a atendente do balcão também eram trans, e depois de quase dois anos passou a fazer o processo por conta própria (DIY). O relato destaca a presença de profissionais trans no atendimento e a transição posterior para o autocuidado.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/lexosesbico.bsky.social/post/3mztkeimkfk2k",
       "createdAt": "2026-11-08T23:19:50.183000+00:00",
-      "rawScore": 0.08767698096640443,
-      "relevanceScore": 0.08430743141259735,
-      "suggestedRadius": 53.42,
-      "imageUrl": "assets/images/bsky_3mztkeimkfk2k_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztkeimkfk2k_wiki_thumb.jpg",
+      "rawScore": 0.12258054749524286,
+      "relevanceScore": 0.11617536977642928,
+      "suggestedRadius": 56.45,
+      "imageUrl": "assets/images/bsky_3mztkeimkfk2k_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mztkeimkfk2k_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sc",
       "sources": [
@@ -279,7 +227,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Ter médico e atendente trans no ambulatório faz toda a diferença: a pessoa se sente acolhida e entendida sem precisar explicar o básico. Em Florianópolis deu certo, e em São Paulo também tem psicóloga trans no postinho sendo elogiada.",
+          "text": "Ter um médico e uma atendente trans no ambulatório faz toda a diferença: o acolhimento é outro, sem precisar explicar o básico a cada consulta. Em São Paulo também tem psicóloga trans no postinho e a galera só elogia, o que mostra que esse modelo funciona.",
           "source": "sintese",
           "evidence": [
             1
@@ -289,7 +237,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O relato termina dizendo que a pessoa foi pro DIY depois de quase dois anos, ou seja, o ambulatório não segurou o acompanhamento. Atendimento humano é ótimo, mas se o serviço não garante continuidade, o paciente acaba se virando por conta própria.",
+          "text": "Quase dois anos de acompanhamento e a pessoa foi para o DIY: isso mostra que o serviço público, mesmo com equipe trans, não consegue dar conta da demanda ou da continuidade. O ambulatório acolhe, mas não segura o paciente no cuidado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -297,62 +245,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A experiência varia muito conforme a cidade e a equipe. Em Florianópolis o relato foi positivo, e em São Paulo a psicóloga trans do postinho também é elogiada, mas isso ainda depende de cada serviço e não dá pra generalizar.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzsyg6h2e22d",
-      "rank": 6,
-      "title": "Matéria do Diário do Litoral publicada em 5 de maio de 2025",
-      "label": "Publicação do Diário do Litoral",
-      "context": "O Diário do Litoral publicou uma matéria em 5 de maio de 2025, divulgada também no Bluesky. O conteúdo exato da reportagem não está detalhado nas fontes disponíveis.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/arlindars.bsky.social/post/3mzsyg6h2e22d",
-      "createdAt": "2026-11-08T17:58:42.174000+00:00",
-      "rawScore": 0.07260321726355345,
-      "relevanceScore": 0.06731550445752442,
-      "suggestedRadius": 51.57,
-      "imageUrl": "assets/images/bsky_3mzsyg6h2e22d_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzsyg6h2e22d_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "www.diariodolitoral.com.br/diario-mais/... Matéria publicada em 05/05/2025.",
-          "url": "https://bsky.app/profile/arlindars.bsky.social/post/3mzsyg6h2e22d",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A divulgação da matéria no Bluesky ajuda a levar informação local para quem está fora das redes tradicionais, alcançando um público que talvez não acessasse o site do jornal diretamente.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Publicar só o link da matéria, sem nenhum resumo ou destaque do assunto, deixa quem vê o post sem saber do que se trata e acaba não clicando para ler o conteúdo completo.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Sem saber qual é o tema da reportagem, fica difícil avaliar se a publicação faz sentido no Bluesky ou se é só mais um link solto sem contexto para quem acompanha a rede.",
+          "text": "O relato mistura duas coisas: a qualidade do atendimento no ambulatório e a escolha pelo DIY depois. Ter equipe trans ajuda no acolhimento, mas não resolve tudo; a ida para o DIY pode ser por falta de acesso, demora ou vontade de autonomia, e cada caso é um caso.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -363,7 +256,7 @@
     },
     {
       "id": "bsky_3mznhlgo5xs23",
-      "rank": 7,
+      "rank": 5,
       "title": "7 capitais iniciaram processos para criar Polícia Municipal após aval da PEC da Segurança: SP, Curitiba, Goiânia, Palmas, Maceió, Belém e BH optaram. oglobo.globo.com/politica/not...",
       "label": "",
       "context": "",
@@ -371,9 +264,9 @@
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/cecillia.com.br/post/3mznhlgo5xs23",
       "createdAt": "2026-11-06T13:14:04.585000+00:00",
-      "rawScore": 0.06549777419445676,
-      "relevanceScore": 0.059305881115035326,
-      "suggestedRadius": 50.61,
+      "rawScore": 0.11057098163194731,
+      "relevanceScore": 0.10252205807439434,
+      "suggestedRadius": 55.21,
       "imageUrl": "assets/images/bsky_3mznhlgo5xs23_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mznhlgo5xs23_reddit.jpg",
       "category": "geopolitica",
@@ -390,18 +283,71 @@
       "promptVersion": 2
     },
     {
+      "id": "bsky_3mzsyg6h2e22d",
+      "rank": 6,
+      "title": "Matéria do Diário do Litoral publicada em 5 de maio de 2025",
+      "label": "Publicação de matéria no Diário do Litoral",
+      "context": "O Diário do Litoral publicou uma matéria em 5 de maio de 2025, divulgada também no Bluesky. O conteúdo específico da reportagem não está detalhado nas fontes disponíveis.",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/arlindars.bsky.social/post/3mzsyg6h2e22d",
+      "createdAt": "2026-11-08T17:58:42.174000+00:00",
+      "rawScore": 0.10544808714284654,
+      "relevanceScore": 0.0966979944843774,
+      "suggestedRadius": 54.66,
+      "imageUrl": "assets/images/bsky_3mzsyg6h2e22d_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzsyg6h2e22d_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "www.diariodolitoral.com.br/diario-mais/... Matéria publicada em 05/05/2025.",
+          "url": "https://bsky.app/profile/arlindars.bsky.social/post/3mzsyg6h2e22d",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A divulgação da matéria no Bluesky ajuda a levar informação local para quem está nessa rede, ampliando o alcance do jornalismo do Diário do Litoral além do site próprio.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Publicar só o link da matéria, sem nenhum resumo ou contexto na postagem, dificulta o entendimento de quem vê o conteúdo no feed e não sabe do que se trata.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Sem o conteúdo completo da matéria disponível, fica difícil avaliar a relevância da publicação; o que se sabe é apenas a data e o veículo responsável pela reportagem.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
       "id": "bsky_3mzqiuxn55k2f",
-      "rank": 8,
-      "title": "Fatalidade noticiada pelo Jornal Razão",
-      "label": "Fatalidade · Notícia do Jornal Razão",
-      "context": "O Jornal Razão publicou uma notícia sobre uma fatalidade, divulgada no Bluesky. O caso gerou reações de leitores que consideram o conteúdo cada vez mais absurdo.",
+      "rank": 7,
+      "title": "Fatalidade noticiada pelo Jornal da Razão",
+      "label": "Fatalidade · Notícia do Jornal da Razão",
+      "context": "O Jornal da Razão publicou uma notícia sobre uma fatalidade, divulgada no Bluesky em 7 de novembro de 2026. O caso chamou atenção pelo conteúdo, que um leitor classificou como cada vez mais absurdo à medida que se lê.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/gabrieldivan.bsky.social/post/3mzqiuxn55k2f",
       "createdAt": "2026-11-07T18:15:13.079000+00:00",
-      "rawScore": 0.058132414689742486,
-      "relevanceScore": 0.051003266508022053,
-      "suggestedRadius": 49.55,
+      "rawScore": 0.09312552089191127,
+      "relevanceScore": 0.08268884212132706,
+      "suggestedRadius": 53.25,
       "imageUrl": "assets/images/bsky_3mzqiuxn55k2f_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzqiuxn55k2f_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -417,7 +363,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A divulgação desse tipo de fatalidade pelo Jornal Razão é importante para alertar a população sobre riscos e prevenir novos casos. A imprensa cumpre seu papel ao tornar públicos esses episódios.",
+          "text": "A divulgação desse caso é necessária para que a população saiba o que aconteceu e cobre providências. Noticiar a fatalidade ajuda a evitar que situações parecidas se repitam.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -425,7 +371,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ler essa notícia causa revolta porque a situação é absurda e fica pior a cada detalhe. O Jornal Razão deveria apurar melhor antes de publicar, para não banalizar uma fatalidade.",
+          "text": "O conteúdo da notícia é absurdo e choca quem lê. A forma como o Jornal da Razão expôs a fatalidade parece explorar o sensacionalismo em vez de informar com respeito.",
           "source": "sintese",
           "evidence": [
             1
@@ -435,7 +381,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A fatalidade em si é trágica, mas o que chama atenção é como a cobertura do Jornal Razão vai ficando mais absurda conforme se lê. É preciso ver o contexto completo antes de tirar conclusões.",
+          "text": "A fatalidade em si já é grave, mas o que mais chama atenção é como a história vai ficando absurda a cada parágrafo. Vale acompanhar os desdobramentos antes de tirar conclusões.",
           "source": "sintese",
           "evidence": [
             1
@@ -447,18 +393,71 @@
       "promptVersion": 2
     },
     {
+      "id": "bsky_3mztt4fjv7k2f",
+      "rank": 8,
+      "title": "Prefeito de São José e prefeito de Florianópolis também são bem feios, diz post",
+      "label": "Aparência de prefeitos · Checagem de fatos",
+      "context": "Um post no Bluesky afirma que o prefeito de São José e o prefeito de Florianópolis também são 'bem feios' e propõe checar os fatos. A publicação viraliza ao comparar a aparência dos dois políticos e sugerir uma verificação factual sobre o tema.",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/afasia.bsky.social/post/3mztt4fjv7k2f",
+      "createdAt": "2026-11-09T01:56:21.774000+00:00",
+      "rawScore": 0.06839903408641787,
+      "relevanceScore": 0.05457804815137622,
+      "suggestedRadius": 50.02,
+      "imageUrl": "assets/images/bsky_3mztt4fjv7k2f_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mztt4fjv7k2f_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "Peraí, peraí, peraí que o prefeito de São José e o prefeito de Florianópolis também são BEM feios! Vamos checar os fatos!",
+          "url": "https://bsky.app/profile/afasia.bsky.social/post/3mztt4fjv7k2f",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O post acerta ao colocar a aparência dos prefeitos de São José e Florianópolis em pauta: se o critério é comparar feiúra, é justo incluir os dois e não só um. A checagem de fatos é uma forma bem-humorada de expor a inconsistência de quem critica só um lado.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Ficar discutindo se prefeito é feio ou bonito é uma bobagem que desvia do que importa: gestão, obras e serviços. A piada pode até ser engraçada, mas não deveria virar assunto público nem pauta de checagem, porque não acrescenta nada ao debate político.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A brincadeira funciona como crítica social, mas o post não apresenta nenhum fato verificável sobre a aparência dos prefeitos. Sem dados objetivos, a checagem proposta não tem como confirmar ou desmentir a afirmação, e o assunto acaba sendo só opinião pessoal.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
       "id": "bsky_3mzqgisyk422v",
       "rank": 9,
       "title": "Pior seria se ele tivesse fugido para Itapirubá",
-      "label": "Comentário sobre fuga para Itapirubá",
-      "context": "Uma publicação no Bluesky afirma que a situação seria pior se a pessoa tivesse fugido para Itapirubá. A frase circula como comentário sobre um caso não detalhado na fonte.",
+      "label": "Fuga para Itapirubá · Comentário viral",
+      "context": "Um post no Bluesky usou a expressão 'fugido para Itapirubá' como uma hipótese sobre a fuga de alguém. A frase viralizou e gerou discussões sobre o significado e o contexto da declaração.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/dcdez.bsky.social/post/3mzqgisyk422v",
       "createdAt": "2026-11-07T17:32:43.182000+00:00",
-      "rawScore": 0.036876192644051675,
-      "relevanceScore": 0.027042152385417323,
-      "suggestedRadius": 45.87,
+      "rawScore": 0.05842357905494522,
+      "relevanceScore": 0.04323725544790419,
+      "suggestedRadius": 48.48,
       "imageUrl": "assets/images/bsky_3mzqgisyk422v_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzqgisyk422v_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -474,7 +473,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A frase acerta ao dizer que fugir para Itapirubá seria pior: a cidade é pequena e isolada, o que tornaria a fuga mais difícil e exporia a pessoa rapidamente.",
+          "text": "A frase é engraçada e criativa, e o humor ajuda a chamar atenção para a situação. Itapirubá é um lugar real, e a menção inesperada torna o comentário memorável e compartilhável.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -482,7 +481,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Falar que seria pior em Itapirubá desvia do problema real: o comentário brinca com o nome da cidade em vez de tratar do que aconteceu de fato com a pessoa envolvida.",
+          "text": "Ficar fazendo piada com uma fuga séria é desrespeitoso com as vítimas e com a gravidade do caso. A brincadeira banaliza um assunto que deveria ser tratado com seriedade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -490,7 +489,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A frase funciona como ironia, mas sem saber quem é a pessoa e o que aconteceu, fica difícil avaliar se fugir para Itapirubá seria mesmo pior ou apenas um detalhe pitoresco.",
+          "text": "A frase é ambígua e pode ser interpretada de várias formas. Sem contexto claro, é difícil saber se é uma piada ou uma crítica, e isso gera discussões sobre o real significado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -503,15 +502,15 @@
       "id": "bsky_3mzlri7kepc2e",
       "rank": 10,
       "title": "Animação \"Ana, en Passant\" estreia nos cinemas",
-      "label": "Estreia de \"Ana, en Passant\" · Animação brasileira",
-      "context": "O longa de animação \"Ana, en Passant\", dirigido por Fernanda Salgado e distribuído pela Embaúba Filmes, estreia nesta quinta-feira (5) nos cinemas, incluindo o Cinesystem do Shopping Villa Romana, em Florianópolis. A produção aborda temas como luto, ancestralidade, identidade e a experiência geracional de mulheres negras.",
+      "label": "Animação brasileira · Estreia nacional",
+      "context": "A animação \"Ana, en Passant\", dirigida por Fernanda Salgado e distribuída pela Embaúba Filmes, estreia hoje nos cinemas, com sessão em Florianópolis no Cinesystem do Shopping Villa Romana. O filme aborda luto, ancestralidade, identidade e a experiência geracional de mulheres negras.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/cinelivre.bsky.social/post/3mzlri7kepc2e",
       "createdAt": "2026-11-05T21:05:57.169000+00:00",
-      "rawScore": 0.025144706048057453,
-      "relevanceScore": 0.013817813246025839,
-      "suggestedRadius": 43.05,
+      "rawScore": 0.0427434907437963,
+      "relevanceScore": 0.025411037942252912,
+      "suggestedRadius": 45.56,
       "imageUrl": "assets/images/bsky_3mzlri7kepc2e_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzlri7kepc2e_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -527,7 +526,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A estreia de uma animação brasileira que trata de luto, ancestralidade e identidade negra é uma conquista para o cinema nacional. Levar esses temas para as telonas, com distribuição da Embaúba Filmes, amplia a representatividade e enriquece o repertório cultural do país.",
+          "text": "Uma animação brasileira dirigida por Fernanda Salgado que coloca luto, ancestralidade e a experiência de mulheres negras no centro da história merece ser vista na tela grande. A estreia no Cinesystem de Florianópolis é a chance de prestigiar essa produção nacional.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -535,7 +534,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O lançamento chega com pouca divulgação e poucas salas exibindo, o que limita o acesso do público. Sem uma campanha maior, a animação corre o risco de passar despercebida, apesar da relevância dos temas que aborda.",
+          "text": "O circuito de estreia se resume a poucas salas, como a do Shopping Villa Romana em Florianópolis, e isso limita quem consegue assistir. Uma produção com esse tema e distribuição da Embaúba Filmes deveria chegar a mais cidades e não ficar restrita a quem mora perto de shopping.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -543,7 +542,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A proposta de misturar luto, ancestralidade e identidade em uma animação é interessante, mas ainda é cedo para avaliar se a obra consegue equilibrar tantos temas sem soar didática. O resultado dependerá da recepção do público e da crítica.",
+          "text": "Temas como luto e ancestralidade em animação podem funcionar muito bem, mas dependem de como são tratados na tela. Vale conferir \"Ana, en Passant\" antes de assumir que o formato dá conta dessa experiência geracional de mulheres negras.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

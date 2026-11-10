@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-09T22:11:42.236501+00:00",
+  "generatedAt": "2026-11-10T06:39:44.986513+00:00",
   "region": "br-ap",
-  "count": 5,
+  "count": 4,
   "items": [
     {
       "id": "bsky_3mzri4xkfb22t",
       "rank": 1,
       "title": "O maior de Macapá",
-      "label": "Maior de Macapá · Post viral",
-      "context": "Um post no Bluesky chamou de \"o maior de Macapá\" o usuário @saruzilla.bsky.social, e a publicação gerou comentários de pessoas que dizem ter conhecido o autor pessoalmente ou acompanham seu conteúdo há anos.",
+      "label": "Humor no Bluesky · Macapá",
+      "context": "Uma publicação no Bluesky chama de \"o maior de Macapá\" um perfil da rede, e os comentários tratam do assunto em tom de brincadeira. A conversa gira em torno de apelidos e encontros entre usuários, sem relação com algum fato ou decisão pública.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
       "permalink": "https://bsky.app/profile/tavosmm.bsky.social/post/3mzri4xkfb22t",
@@ -36,18 +36,18 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O apelido de \"maior de Macapá\" é merecido: o cara é uma figura lendária na internet desde 2011, e quem o encontrou pessoalmente só confirma isso. O doce de leite de Viçosa que ele trouxe virou patrimônio do encontro.",
+          "text": "O apelido \"o maior de Macapá\" é uma brincadeira carinhosa entre usuários da rede, e o clima de zoeira é justamente o que torna o Bluesky um lugar mais leve e divertido de acompanhar.",
           "source": "sintese",
           "evidence": [
-            3,
-            5
+            1,
+            3
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Chamar alguém de \"o maior de Macapá\" soa como piada interna ou exagero de fã. O post não mostra nada concreto que justifique o título, e a brincadeira com o \"pequeno burguês\" só reforça o tom de deboche.",
+          "text": "Chamar alguém de \"o maior de Macapá\" sem nenhum feito concreto é exagero de quem quer atenção, e o apelido de \"pequeno burguês\" mostra que nem todo mundo leva essa fama a sério.",
           "source": "sintese",
           "evidence": [
             2
@@ -57,11 +57,12 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O título é claramente uma brincadeira afetiva entre amigos, não uma afirmação séria sobre ser o melhor do Amapá. O valor está nos encontros e nas histórias que o pessoal compartilha nos comentários.",
+          "text": "A conversa virou mais sobre encontros presenciais e o doce de leite de Viçosa do que sobre o título em si, então o \"maior de Macapá\" acaba sendo só um gancho para os usuários contarem suas histórias.",
           "source": "sintese",
           "evidence": [
-            1,
-            4
+            3,
+            4,
+            5
           ],
           "votes": 0
         }
@@ -74,14 +75,14 @@
       "rank": 2,
       "title": "TSE flexibiliza regra de cassação de chapa por fraude na cota de gênero",
       "label": "TSE flexibiliza cassação por fraude na cota de gênero",
-      "context": "O Tribunal Superior Eleitoral flexibilizou nesta quinta-feira (5) a regra que determina a cassação da chapa completa que tiver fraudado a cota de gênero. A mudança altera a punição para partidos e candidatos envolvidos em fraudes na cota de gênero, tema que afeta a representação feminina na política.",
+      "context": "O Tribunal Superior Eleitoral flexibilizou nesta quinta-feira (5) a regra que determina a cassação da chapa completa que tiver fraudado a cota de gênero. A mudança altera como a Justiça Eleitoral pune candidaturas que usam nomes de mulheres apenas para cumprir a cota, sem que elas de fato disputem o cargo.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
       "permalink": "https://bsky.app/profile/iclnoticias.com.br/post/3mzlz52cskk2w",
       "createdAt": "2026-11-05T23:23:08.172000+00:00",
-      "rawScore": 0.6630574048739516,
-      "relevanceScore": 0.7567559184779483,
-      "suggestedRadius": 88.2,
+      "rawScore": 0.7358713108520101,
+      "relevanceScore": 0.8271304051444447,
+      "suggestedRadius": 90.57,
       "imageUrl": "assets/images/bsky_3mzlz52cskk2w_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzlz52cskk2w_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -102,7 +103,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A flexibilização do TSE evita punir candidatos que não participaram da fraude e corrige distorções, permitindo que a Justiça Eleitoral avalie cada caso individualmente em vez de cassar a chapa inteira automaticamente.",
+          "text": "A flexibilização do TSE corrige um exagero: cassar a chapa inteira por causa de uma fraude na cota de gênero punia candidatos que não participaram do esquema. Agora a punição pode ser mais justa e focada em quem realmente se beneficiou da fraude.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -110,10 +111,9 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A medida do TSE enfraquece o combate à fraude na cota de gênero, pois partidos podem usar candidaturas laranjas sem o risco de cassação da chapa completa, o que na prática incentiva a continuidade da prática e reduz a punição efetiva.",
+          "text": "Com essa flexibilização, a lei da cota de gênero perde força. Quem fraudar pode escapar da cassação da chapa completa, o que abre espaço para continuar usando mulheres como laranjas sem medo de punição severa. Na prática, é um incentivo à fraude.",
           "source": "sintese",
           "evidence": [
-            1,
             2
           ],
           "votes": 0
@@ -121,9 +121,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A flexibilização do TSE precisa ser acompanhada de critérios claros para identificar a responsabilidade individual, senão a mudança pode gerar insegurança jurídica e dificultar a aplicação da lei, dependendo de como os tribunais regionais interpretarem.",
+          "text": "A mudança do TSE precisa ser analisada com cuidado: é preciso ver se a flexibilização mantém a punição para os responsáveis diretos pela fraude e se não acaba beneficiando apenas um lado político. O ideal é que a regra seja clara e aplicada igualmente.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
@@ -133,16 +135,16 @@
     {
       "id": "bsky_3mzjwj2jclk2f",
       "rank": 3,
-      "title": "Fotozine para testar vontade de fazer zine e nova encadernação",
+      "title": "Fotozine para testar nova encadernação e matar a vontade de fazer zine",
       "label": "Fotozine · Teste de encadernação",
-      "context": "Um usuário do Bluesky publicou um fotozine para testar uma nova técnica de encadernação e ver se a vontade de fazer zines passava. A experiência não eliminou a vontade de fazer zines, mas o usuário se divertiu com o teste.",
+      "context": "Um usuário publicou no Bluesky um fotozine feito para testar uma nova técnica de encadernação e tentar matar a vontade de fazer zines. A experiência não eliminou a vontade de continuar produzindo zines, mas o autor relatou ter se divertido com o teste.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
       "permalink": "https://bsky.app/profile/luanagm.bsky.social/post/3mzjwj2jclk2f",
       "createdAt": "2026-11-05T03:30:36.971000+00:00",
-      "rawScore": 0.5353703642589076,
-      "relevanceScore": 0.5230135428640678,
-      "suggestedRadius": 79.39,
+      "rawScore": 0.607969590507212,
+      "relevanceScore": 0.5870914560283279,
+      "suggestedRadius": 81.97,
       "imageUrl": "assets/images/bsky_3mzjwj2jclk2f_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzjwj2jclk2f_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -158,7 +160,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Testar uma encadernação nova num fotozine é uma ótima forma de experimentar sem compromisso, e o fato de a vontade de fazer zine não ter passado mostra que a prática é viciante e criativa.",
+          "text": "Testar uma encadernação nova num fotozine é o melhor jeito de aprender fazendo, mesmo que o resultado não fique perfeito. O relato mostra que o processo divertiu mais do que o produto final, e isso já justifica o experimento.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -166,7 +168,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Fotozine não substitui um zine de verdade, então a tentativa de matar a vontade não funcionou porque a experiência é limitada e não explora todo o potencial do formato.",
+          "text": "Fazer um fotozine só para testar encadernação e admitir que a vontade de produzir zine continuou igual mostra que o formato não resolveu nada. O esforço vira só um exercício técnico sem propósito editorial claro.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -174,60 +176,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O resultado depende do objetivo: se a ideia era só se divertir testando a encadernação, funcionou; mas se a intenção era realmente parar de fazer zines, o fotozine não foi suficiente.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzhzz4pizk2w",
-      "rank": 4,
-      "title": "Vídeo mostra IBAMA explodindo barca e equipamento de garimpeiro",
-      "label": "IBAMA destrói equipamentos de garimpo",
-      "context": "Um vídeo que circula no Instagram mostra o IBAMA explodindo uma barca e equipamentos de garimpeiro. A ação faz parte da fiscalização ambiental contra a mineração ilegal, e as imagens geraram reações nas redes sociais.",
-      "source": "bluesky",
-      "subreddit": "bsky_ap",
-      "permalink": "https://bsky.app/profile/gatosabado.bsky.social/post/3mzhzz4pizk2w",
-      "createdAt": "2026-11-04T09:27:55.370000+00:00",
-      "rawScore": 0.3681741248262513,
-      "relevanceScore": 0.3513707207994987,
-      "suggestedRadius": 71.57,
-      "imageUrl": "assets/images/bsky_3mzhzz4pizk2w_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzhzz4pizk2w_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ap",
-      "sources": [
-        {
-          "title": "Video de barca e equipamento de garimpeiro sendo explodido pelo IBAMA (finalmente apareceu pra mim no Instagram) Os comentarios",
-          "url": "https://bsky.app/profile/gatosabado.bsky.social/post/3mzhzz4pizk2w",
-          "subreddit": "bsky_ap"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A destruição de barcas e equipamentos usados no garimpo ilegal é uma medida necessária para coibir crimes ambientais e proteger rios e terras indígenas. O IBAMA está cumprindo seu papel ao inviabilizar a atividade criminosa.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Explodir equipamentos sem dar chance de defesa ou realocação para trabalhadores que dependem do garimpo é uma ação truculenta e desumana. Muitas famílias ficam sem sustento e o prejuízo é irreversível.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A fiscalização precisa ser firme contra o garimpo ilegal, mas a destruição de bens deve seguir critérios claros e ser acompanhada de alternativas econômicas para as comunidades envolvidas. Sem isso, o problema só muda de lugar.",
+          "text": "O resultado depende do que a pessoa busca: se o objetivo era praticar a encadernação, o teste cumpriu o papel; se era matar a vontade de fazer zine, o próprio autor confirma que não funcionou. São duas expectativas diferentes no mesmo post.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -238,15 +187,15 @@
     },
     {
       "id": "bsky_3mzjlfptank2r",
-      "rank": 5,
-      "title": "Estadão lança vídeo criticando Alcolumbre por rodovia no Amapá",
+      "rank": 4,
+      "title": "Estadão lança vídeo criticando Alcolumbre sobre rodovia no Amapá",
       "label": "Rodovia no Amapá · Vídeo do Estadão",
-      "context": "O Estadão publicou um vídeo de cinco minutos sobre a rodovia federal que liga Macapá a Oiapoque, no Amapá, destacando que a estrada é de chão batido e fica com lodo na estação de chuvas. O vídeo associa a situação da via ao senador Davi Alcolumbre, e o Amapá é um estado cercado por rios, com apenas uma ponte ligando o território à Guiana Francesa.",
+      "context": "O Estadão publicou um vídeo de cinco minutos sobre a rodovia federal que liga Macapá a Oiapoque, no Amapá, destacando que a estrada é de chão batido e fica com lodo na estação de chuvas. O vídeo associa a situação da via ao senador Davi Alcolumbre, e o tema levanta a discussão sobre a infraestrutura de transporte do estado.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
       "permalink": "https://bsky.app/profile/stoicchicken.bsky.social/post/3mzjlfptank2r",
       "createdAt": "2026-11-05T00:11:49.777000+00:00",
-      "rawScore": 0.025906021460308327,
+      "rawScore": 0.05056358068559733,
       "relevanceScore": 0.0,
       "suggestedRadius": 36.0,
       "imageUrl": "assets/images/bsky_3mzjlfptank2r_reddit.jpg",
@@ -264,7 +213,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Estadão fez certo em cobrar Alcolumbre: a rodovia até Oiapoque é federal, está de chão batido e vira lodo na chuva, e o combustível caro pesa no bolso de quem depende dela. Um vídeo de cinco minutos expõe o descaso com uma estrada estratégica para o Amapá.",
+          "text": "O Estadão fez certo em expor a situação dessa rodovia: uma estrada federal de chão batido que vira lodo na chuva e encarece o combustível é um problema real para quem vive no Amapá. Mostrar a responsabilidade de quem tem poder sobre isso é jornalismo útil.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -272,7 +221,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O Amapá está praticamente ilhado, cercado por rios e sem pontes que liguem o estado ao resto do Brasil, só uma ponte para a Guiana Francesa. Cobrar Alcolumbre por uma rodovia de chão batido sem considerar essa geografia é simplista e ignora o isolamento histórico da região.",
+          "text": "O vídeo do Estadão parece mais uma peça de ataque político do que reportagem: foca em uma rodovia específica e joga a culpa em um senador, sem mostrar o contexto todo. O Amapá é cercado por rios e quase sem pontes, então a logística é muito mais complexa do que o vídeo sugere.",
           "source": "sintese",
           "evidence": [
             1
@@ -282,9 +231,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A rodovia até Oiapoque é de chão batido e fica com lodo na chuva, mas o vídeo do Estadão foca em Alcolumbre sem mostrar o que já foi feito ou o que está previsto. Sem dados de orçamento e cronograma, fica difícil saber se é descaso ou falta de alternativa viável.",
+          "text": "A rodovia é um problema concreto, mas o Amapá está praticamente ilhado, cercado por rios e com apenas uma ponte para a Guiana Francesa. Antes de apontar culpados, o vídeo deveria explicar como essa geografia dificulta qualquer obra e o que já foi tentado.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
