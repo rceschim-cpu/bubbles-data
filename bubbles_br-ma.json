@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-11-10T06:39:44.986513+00:00",
+  "generatedAt": "2026-11-10T19:34:54.737566+00:00",
   "region": "br-ma",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3mzwlrwamx22l",
+      "id": "bsky_3mzxi5y2q322s",
       "rank": 1,
-      "title": "Sensação térmica de 31° faz usuário se sentir no Maranhão outra vez",
-      "label": "Calor de 31° e sensação maranhense",
-      "context": "Um usuário do Bluesky relatou sensação térmica de 31° e disse se sentir no Maranhão outra vez. O comentário sobre ter morado 18 anos no estado e não saber como aguentava o calor mostra como a temperatura alta reacende memórias de quem viveu na região.",
+      "title": "Moradora de São Luís relata atendimento na UBS via WhatsApp",
+      "label": "Atendimento na UBS · Relato de São Luís",
+      "context": "Uma moradora de São Luís (MA) contou que agenda consultas na UBS pelo WhatsApp com a Agente de Saúde da Família e fez pré-natal, tratamento odontológico e acompanhamento ginecológico na unidade. O relato descreve o funcionamento do posto de saúde do bairro, incluindo a espera de até 15 dias por consulta e a falta eventual de medicamentos na farmácia.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
-      "permalink": "https://bsky.app/profile/nigthstrange.bsky.social/post/3mzwlrwamx22l",
-      "createdAt": "2026-11-10T04:23:12.869000+00:00",
+      "permalink": "https://bsky.app/profile/gerusasilva.bsky.social/post/3mzxi5y2q322s",
+      "createdAt": "2026-11-10T12:37:23.578000+00:00",
       "rawScore": 0.9,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
@@ -22,8 +22,13 @@
       "region": "br-ma",
       "sources": [
         {
-          "title": "Sensação térmica de 31°... tô me sentindo no Maranhão outra vez",
-          "url": "https://bsky.app/profile/nigthstrange.bsky.social/post/3mzwlrwamx22l",
+          "title": "Aqui em São Luís, que é a capital do Maranhão, eu mando um zap pra Agente de Saúde da Família caso precise marcar uma consulta na UBS. Fiz todo meu pré-natal na UBS, e agora vou colocar meu implanon. Também já fiz tratamento odontológico lá, e acompanhamento ginecológico.",
+          "url": "https://bsky.app/profile/gerusasilva.bsky.social/post/3mzxi5y2q322s",
+          "subreddit": "bsky_ma"
+        },
+        {
+          "title": "Show do Bostavo Lima aqui em São Luís - MA. CANCELADO ❌",
+          "url": "https://bsky.app/profile/silverhorse.bsky.social/post/3mznfvraz2s2b",
           "subreddit": "bsky_ma"
         }
       ],
@@ -31,7 +36,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Morei 18 anos no Maranhão e hoje não sei como aguentava aquele calor todo. A sensação térmica de 31° me faz lembrar de tempos que parecem impossíveis de repetir, mas que a gente encarava como rotina.",
+          "text": "O postinho resolve muita coisa: pré-natal, dentista e ginecologista sem precisar sair do bairro, e o agendamento por WhatsApp com a agente de saúde facilita demais. Mesmo com falhas pontuais, não tenho do que reclamar do atendimento.",
           "source": "sintese",
           "evidence": [
             1
@@ -41,72 +46,21 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Sensação térmica de 31° não é exclusividade do Maranhão, e comparar qualquer calor com o estado acaba virando um exagero. Quem já passou por verões em outras regiões sabe que a sensação de 'estar no Maranhão' pode ser só uma forma de falar.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A lembrança de quem morou 18 anos no Maranhão mostra que a percepção de calor é muito pessoal. Talvez a sensação térmica de 31° reacenda memórias, mas cada um sente a temperatura de um jeito diferente.",
+          "text": "A farmácia da UBS nem sempre tem o medicamento, e exames e consultas com especialidades que saíram do esquema do posto demoram bastante. O atendimento básico funciona, mas quando precisa de algo além disso a espera pesa.",
           "source": "sintese",
           "evidence": [
             1
           ],
           "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzv7toxyyk2o",
-      "rank": 2,
-      "title": "Jornal catarinense noticia chegada de ônibus com nordestinos em SC em tom de denúncia",
-      "label": "Xenofobia contra nordestinos em Santa Catarina",
-      "context": "Um jornal de Santa Catarina publicou uma reportagem em tom de denúncia sobre a chegada de ônibus com trabalhadores do Maranhão a Bombinhas, no litoral catarinense. O caso gerou discussão sobre xenofobia contra pessoas de outras regiões do Brasil, que o autor do post considera mais comum do que a xenofobia contra estrangeiros.",
-      "source": "bluesky",
-      "subreddit": "bsky_ma",
-      "permalink": "https://bsky.app/profile/aluizcosta.bsky.social/post/3mzv7toxyyk2o",
-      "createdAt": "2026-11-09T15:16:49.472000+00:00",
-      "rawScore": 0.841523097711481,
-      "relevanceScore": 0.9350256641238678,
-      "suggestedRadius": 94.02,
-      "imageUrl": "assets/images/bsky_3mzv7toxyyk2o_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzv7toxyyk2o_reddit_thumb.jpg",
-      "category": "economia",
-      "region": "br-ma",
-      "sources": [
-        {
-          "title": "Jornal catarinense em tom de denúncia: \"Ônibus com nordestinos começam a chegar em SC: trabalhadores do Maranhão descem em Bombinhas\". No Brasil, a xenofobia contra estrangeiros vem muito depois da xenofobia contra os compatriotas de outras regiões. jornalrazao.com/economia/oni...",
-          "url": "https://bsky.app/profile/aluizcosta.bsky.social/post/3mzv7toxyyk2o",
-          "subreddit": "bsky_ma"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A reportagem expõe um preconceito real: tratar trabalhadores nordestinos como invasores é xenofobia contra compatriotas, e o jornal deveria ser criticado por dar palco a esse tipo de discurso.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O jornal só noticiou um fato: a chegada de ônibus com trabalhadores de outro estado. Chamar isso de denúncia é exagero e ignora que a matéria pode estar apenas informando sobre o fluxo migratório.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A discussão sobre xenofobia contra nordestinos é válida, mas o post original não traz o conteúdo completo da reportagem, então fica difícil julgar se o tom era realmente de denúncia ou apenas descritivo.",
+          "text": "O relato é de uma moradora do Bacanga, na periferia de São Luís, e mostra uma realidade que varia muito conforme o bairro. A experiência dela com o posto é boa, mas não dá para generalizar para toda a cidade.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         }
       ],
@@ -115,17 +69,17 @@
     },
     {
       "id": "bsky_3mztfs6xqn22y",
-      "rank": 3,
+      "rank": 2,
       "title": "Matheus Barroso registra momento da virada e explosão de alegria em São Luís, MA",
-      "label": "Alegria em São Luís · Discurso pró-democracia",
-      "context": "Matheus Barroso registrou o momento da virada e a explosão de alegria em São Luís, no Maranhão, em 25 de outubro de 2026. No registro, ele afirma que o grupo mostra sua força e que está do lado da democracia, não da milícia nem do golpe.",
+      "label": "Registro de virada política em São Luís",
+      "context": "Matheus Barroso registrou o momento da virada e a explosão de alegria em São Luís, MA, em 25/10/26. Ele declarou que mostrou sua força e que está do lado da Democracia, não da milícia nem do golpe.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mztfs6xqn22y",
       "createdAt": "2026-11-08T21:58:02.771000+00:00",
-      "rawScore": 0.8126556292797562,
-      "relevanceScore": 0.9029506991997291,
-      "suggestedRadius": 93.01,
+      "rawScore": 0.30142332469841254,
+      "relevanceScore": 0.30142332469841254,
+      "suggestedRadius": 68.94,
       "imageUrl": "assets/images/bsky_3mztfs6xqn22y_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mztfs6xqn22y_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -141,7 +95,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O vídeo mostra um povo que não tem medo de se posicionar: em São Luís, a alegria tomou conta e deixou claro que a maioria está do lado da democracia, não do golpe. É esse tipo de manifestação que renova a esperança.",
+          "text": "Ver vídeos como esse me enche de orgulho. O povo mostrou sua força e deixou claro de que lado está: do lado da democracia, não da milícia nem do golpe. É isso que é liberdade de verdade.",
           "source": "sintese",
           "evidence": [
             1,
@@ -152,7 +106,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Falar em nome da democracia enquanto se comemora uma vitória política é perigoso, pois cria a ideia de que só um lado representa o povo. O vídeo da virada em São Luís soa mais como triunfalismo do que como defesa real da democracia.",
+          "text": "Falar em 'lado da democracia' enquanto se comemora uma virada política é no mínimo contraditório. Democracia é respeito ao processo, não explosão de alegria partidária. Esse tipo de discurso só acirra os ânimos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -160,7 +114,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A explosão de alegria em São Luís é compreensível, mas o discurso de 'lado da democracia' contra 'milícia e golpe' simplifica um debate que precisa de mais nuance. Celebrar é legítimo, mas rotular adversários não ajuda a construir diálogo.",
+          "text": "O registro mostra a emoção do momento, mas é preciso cuidado para não transformar a política em torcida. O que importa é o respeito às instituições e o diálogo, independentemente de quem está no poder.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -170,26 +124,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mznfvraz2s2b",
-      "rank": 4,
-      "title": "Show de Gusttavo Lima em São Luís é cancelado",
-      "label": "Cancelamento de show · Gusttavo Lima em São Luís",
-      "context": "O show de Gusttavo Lima em São Luís, no Maranhão, foi cancelado, conforme anunciado em post no Bluesky. O cancelamento gerou reações nas redes, com comentários que associam a decisão a posicionamentos políticos do cantor.",
+      "id": "bsky_3mzv7toxyyk2o",
+      "rank": 3,
+      "title": "Jornal catarinense noticia chegada de ônibus com nordestinos em SC em tom de denúncia",
+      "label": "Xenofobia contra nordestinos em Santa Catarina",
+      "context": "Um jornal de Santa Catarina publicou uma reportagem em tom de denúncia sobre a chegada de ônibus com trabalhadores do Maranhão em Bombinhas. O caso gerou discussão sobre xenofobia contra pessoas de outras regiões do Brasil, que o post original aponta como anterior à xenofobia contra estrangeiros.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
-      "permalink": "https://bsky.app/profile/silverhorse.bsky.social/post/3mznfvraz2s2b",
-      "createdAt": "2026-11-06T12:44:01.173000+00:00",
-      "rawScore": 0.3700118511473158,
-      "relevanceScore": 0.4111242790525731,
-      "suggestedRadius": 74.47,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
+      "permalink": "https://bsky.app/profile/aluizcosta.bsky.social/post/3mzv7toxyyk2o",
+      "createdAt": "2026-11-09T15:16:49.472000+00:00",
+      "rawScore": 0.2514559220057851,
+      "relevanceScore": 0.2514559220057851,
+      "suggestedRadius": 66.09,
+      "imageUrl": "assets/images/bsky_3mzv7toxyyk2o_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzv7toxyyk2o_reddit_thumb.jpg",
+      "category": "economia",
       "region": "br-ma",
       "sources": [
         {
-          "title": "Show do Bostavo Lima aqui em São Luís - MA. CANCELADO ❌",
-          "url": "https://bsky.app/profile/silverhorse.bsky.social/post/3mznfvraz2s2b",
+          "title": "Jornal catarinense em tom de denúncia: \"Ônibus com nordestinos começam a chegar em SC: trabalhadores do Maranhão descem em Bombinhas\". No Brasil, a xenofobia contra estrangeiros vem muito depois da xenofobia contra os compatriotas de outras regiões. jornalrazao.com/economia/oni...",
+          "url": "https://bsky.app/profile/aluizcosta.bsky.social/post/3mzv7toxyyk2o",
           "subreddit": "bsky_ma"
         }
       ],
@@ -197,17 +151,15 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Cancelar show de quem ataca o Nordeste e a democracia é uma decisão acertada. Artistas que se posicionam contra direitos e instituições não deveriam ter espaço garantido em eventos públicos.",
+          "text": "A reportagem expõe um preconceito real: tratar trabalhadores nordestinos como ameaça só porque chegam para trabalhar é xenofobia contra compatriotas, e o jornal acertou em denunciar esse tom.",
           "source": "sintese",
-          "evidence": [
-            3
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O cancelamento do show de Gusttavo Lima em São Luís parece mais uma perseguição política do que uma decisão artística. Fãs que pagaram ingresso e esperavam o evento saem prejudicados sem qualquer explicação clara.",
+          "text": "O jornal errou ao dar manchete em tom de denúncia para a chegada de trabalhadores. Noticiar assim alimenta a ideia de que nordestinos são um problema, quando deveriam ser tratados como qualquer outro trabalhador.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -215,11 +167,67 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Ainda faltam informações sobre o motivo real do cancelamento do show em São Luís. Antes de comemorar ou criticar, seria bom saber se foi por questões de logística, contrato ou pressão política.",
+          "text": "A discussão sobre xenofobia contra nordestinos é válida, mas o post original generaliza ao dizer que ela vem antes da xenofobia contra estrangeiros. Cada caso precisa ser analisado pelo que a reportagem realmente diz.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzwlrwamx22l",
+      "rank": 4,
+      "title": "Sensação térmica de 31° faz maranhense se sentir no Maranhão outra vez",
+      "label": "Calor de 31° · sensação no Maranhão",
+      "context": "Um post no Bluesky relata sensação térmica de 31° e compara a experiência ao calor do Maranhão. O comentário reforça a memória de quem viveu 18 anos na região e hoje estranha a intensidade do calor.",
+      "source": "bluesky",
+      "subreddit": "bsky_ma",
+      "permalink": "https://bsky.app/profile/nigthstrange.bsky.social/post/3mzwlrwamx22l",
+      "createdAt": "2026-11-10T04:23:12.869000+00:00",
+      "rawScore": 0.22914996159793669,
+      "relevanceScore": 0.22914996159793669,
+      "suggestedRadius": 64.72,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-ma",
+      "sources": [
+        {
+          "title": "Sensação térmica de 31°... tô me sentindo no Maranhão outra vez",
+          "url": "https://bsky.app/profile/nigthstrange.bsky.social/post/3mzwlrwamx22l",
+          "subreddit": "bsky_ma"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Morei 18 anos no Maranhão e aguentava firme esse calor de 31° de sensação térmica. Hoje, longe de lá, é que percebo o quanto o corpo se adapta e como o maranhense encara isso com naturalidade.",
           "source": "sintese",
           "evidence": [
-            1,
-            2
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Sensação térmica de 31° não é calor de Maranhão, é calor comum. Quem passou 18 anos lá sabe que o Maranhão é bem mais quente e úmido, então essa comparação acaba minimizando o que é o calor real da região.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A lembrança de quem viveu 18 anos no Maranhão mostra que a percepção de calor muda com o tempo e o lugar. Comparar sensação térmica de 31° com o Maranhão é mais uma forma de expressar saudade do que medir temperatura de verdade.",
+          "source": "sintese",
+          "evidence": [
+            1
           ],
           "votes": 0
         }
@@ -232,14 +240,14 @@
       "rank": 5,
       "title": "Prefeito de Maricá é alvo de notícia no portal ICL Notícias",
       "label": "Prefeito de Maricá · Notícia no ICL",
-      "context": "O portal ICL Notícias publicou uma matéria sobre o prefeito de Maricá, no estado do Rio de Janeiro. O conteúdo foi compartilhado no Bluesky, mas não há detalhes disponíveis sobre o teor da reportagem.",
+      "context": "O portal ICL Notícias publicou uma reportagem sobre o prefeito de Maricá, no estado do Rio de Janeiro. O conteúdo foi compartilhado no Bluesky, mas não há detalhes disponíveis sobre o teor da matéria ou seus desdobramentos.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/arlindars.bsky.social/post/3mzpz4qln2s2s",
       "createdAt": "2026-11-07T13:33:18.873000+00:00",
-      "rawScore": 0.3121329008563617,
-      "relevanceScore": 0.3468143342848463,
-      "suggestedRadius": 71.33,
+      "rawScore": 0.1306325139056294,
+      "relevanceScore": 0.1306325139056294,
+      "suggestedRadius": 57.69,
       "imageUrl": "assets/images/bsky_3mzpz4qln2s2s_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzpz4qln2s2s_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -255,7 +263,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A imprensa tem que noticiar o que acontece nas prefeituras, e o ICL Notícias está cumprindo esse papel ao publicar a matéria sobre o prefeito de Maricá. Sem cobertura local, o eleitor fica sem informação para cobrar resultados.",
+          "text": "A imprensa tem o papel de fiscalizar o poder público, e o ICL Notícias ao publicar uma reportagem sobre o prefeito de Maricá cumpre essa função de levar informação ao eleitor. Quem está no cargo precisa estar sob escrutínio constante.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -263,7 +271,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Publicar matéria sobre o prefeito de Maricá sem dar o contexto completo vira palanque disfarçado de jornalismo. O leitor fica sem saber o que de fato aconteceu e só vê o nome do gestor exposto na rede.",
+          "text": "Publicar uma reportagem sobre o prefeito de Maricá sem que a população tenha acesso ao conteúdo completo gera suspeita e desgasta a imagem do gestor antes de qualquer esclarecimento. Notícia sem contexto vira julgamento antecipado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -271,7 +279,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Antes de formar opinião sobre o prefeito de Maricá, preciso ver o conteúdo da matéria do ICL Notícias. O post no Bluesky só traz o link, sem resumo, e não dá para saber se a reportagem é elogiosa, crítica ou apenas informativa.",
+          "text": "Antes de formar opinião sobre o prefeito de Maricá, é preciso ler a reportagem inteira e verificar se há documentos ou respostas da prefeitura. Uma manchete compartilhada no Bluesky, sozinha, não permite concluir nada sobre o caso.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -285,14 +293,14 @@
       "rank": 6,
       "title": "Vídeo não é de Igreja Universal no Maranhão; imagens são de Bangladesh",
       "label": "Vídeo viral · Igreja Universal e Bangladesh",
-      "context": "Um vídeo que circula nas redes sociais mostra imagens atribuídas à Igreja Universal no Maranhão, mas as cenas são na verdade de Bangladesh. A associação incorreta levanta discussões sobre a disseminação de conteúdo enganoso e sobre o histórico de escândalos envolvendo igrejas evangélicas.",
+      "context": "Um vídeo que circula nas redes sociais atribui à Igreja Universal no Maranhão imagens que, na verdade, são de Bangladesh. A associação incorreta da igreja a cenas de outro país levanta dúvidas sobre a origem e a intenção da publicação.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/narcisopolitico.bsky.social/post/3mzmezm2ckk2u",
       "createdAt": "2026-11-06T02:55:38.279000+00:00",
-      "rawScore": 0.21307599821828624,
-      "relevanceScore": 0.23675110913142916,
-      "suggestedRadius": 65.19,
+      "rawScore": 0.09480052934686081,
+      "relevanceScore": 0.09480052934686081,
+      "suggestedRadius": 54.47,
       "imageUrl": "assets/images/bsky_3mzmezm2ckk2u_og.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzmezm2ckk2u_og_thumb.jpg",
       "category": "geopolitica",
@@ -308,31 +316,31 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Igreja Universal é alvo constante de fake news e esse vídeo de Bangladesh é mais um exemplo. Quem compartilha sem checar só ajuda a espalhar mentira contra a instituição, que já foi vítima de tantas outras distorções.",
+          "text": "A Igreja Universal tem histórico de escândalos financeiros e morais, como o helicóptero fretado para transportar dízimos em São Paulo. Mesmo que o vídeo seja de Bangladesh, ele ilustra práticas que já foram documentadas e merecem ser lembradas.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1,
+            2,
+            3
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Mesmo que o vídeo seja de Bangladesh, a Igreja Universal tem um histórico de escândalos financeiros e morais que não pode ser ignorado. Helicóptero para transportar dízimo e pastor pedindo senha do cartão são exemplos reais que justificam a desconfiança.",
+          "text": "Atribuir à Igreja Universal um vídeo de Bangladesh é desinformação grave. Quem compartilha esse tipo de conteúdo sem checar a origem só prejudica a reputação da igreja e engana as pessoas que confiam na publicação.",
           "source": "sintese",
           "evidence": [
-            1,
-            2,
-            3,
-            5
+            4
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O vídeo é claramente uma montagem ou imagem ilustrativa, e as notas não parecem reais. Isso não justifica a associação falsa, mas também não apaga os casos concretos de má conduta que já foram amplamente noticiados.",
+          "text": "O vídeo pode ter usado uma imagem ilustrativa de Bangladesh, mas isso não invalida as críticas a escândalos financeiros e morais em igrejas evangélicas, como o caso do pastor Marco Feliciano pedindo a senha do cartão para sacar o dízimo.",
           "source": "sintese",
           "evidence": [
-            4,
             5
           ],
           "votes": 0
@@ -346,14 +354,14 @@
       "rank": 7,
       "title": "Governo autoriza 716 unidades do Minha Casa, Minha Vida Rural para 12 municípios",
       "label": "Minha Casa, Minha Vida Rural · 716 unidades",
-      "context": "O governo federal autorizou a contratação de 716 unidades habitacionais do Programa Minha Casa, Minha Vida Rural, voltadas a agricultores familiares, trabalhadores rurais e famílias quilombolas de 12 municípios brasileiros. A medida amplia o acesso à moradia para famílias do campo e de comunidades tradicionais que normalmente ficam fora dos programas habitacionais urbanos.",
+      "context": "O governo federal autorizou a contratação de 716 unidades habitacionais do Programa Minha Casa, Minha Vida Rural, voltadas a agricultores familiares, trabalhadores rurais e famílias quilombolas de 12 municípios brasileiros. A medida amplia o acesso à moradia para famílias do campo e de comunidades tradicionais atendidas pela modalidade rural do programa.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/beatrizdiniz.bsky.social/post/3mzndo43abc2q",
       "createdAt": "2026-11-06T12:03:58.672000+00:00",
-      "rawScore": 0.18524000527838225,
-      "relevanceScore": 0.20582222808709139,
-      "suggestedRadius": 63.22,
+      "rawScore": 0.08143411560394427,
+      "relevanceScore": 0.08143411560394427,
+      "suggestedRadius": 53.12,
       "imageUrl": "assets/images/bsky_3mzndo43abc2q_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzndo43abc2q_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -369,7 +377,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Levar o Minha Casa, Minha Vida para o campo é reconhecer que agricultor familiar e família quilombola também precisam de moradia digna. São 716 unidades em 12 municípios, e isso chega justamente a quem quase nunca aparece nos programas habitacionais.",
+          "text": "A modalidade rural do Minha Casa, Minha Vida chega a quem historicamente ficou de fora do crédito habitacional, como agricultores familiares e famílias quilombolas. Autorizar 716 unidades em 12 municípios é reconhecer que moradia digna no campo também é política pública.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -377,7 +385,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Autorizar a contratação é só o começo: o que importa é a obra sair do papel e a casa chegar pronta. Sem fiscalização e prazo claro, essas 716 unidades viram anúncio e a família rural continua esperando, como já aconteceu em outras edições do programa.",
+          "text": "Autorizar a contratação de 716 unidades é só o começo: o que decide o resultado é a obra sair do papel e chegar às famílias. Sem acompanhamento da execução nos municípios, o anúncio vira número no papel e a demanda rural continua sem resposta.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -385,7 +393,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O número é pequeno diante da demanda por moradia no campo, e 12 municípios é uma fatia limitada do país. A medida ajuda, mas o alcance real depende de como será a distribuição entre agricultores, trabalhadores rurais e quilombolas em cada local.",
+          "text": "O alcance real depende de como as 716 unidades serão distribuídas entre os 12 municípios e do ritmo de liberação dos recursos. A modalidade rural tem regras próprias de financiamento e execução, então vale acompanhar os critérios de seleção das famílias beneficiadas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -399,14 +407,14 @@
       "rank": 8,
       "title": "Agência Brasil publica notícia em seu site",
       "label": "Publicação da Agência Brasil",
-      "context": "A Agência Brasil publicou uma nova notícia em seu site na área geral. O conteúdo específico da matéria não está detalhado nas fontes disponíveis.",
+      "context": "A Agência Brasil publicou uma notícia em seu site, divulgada também no Bluesky. O conteúdo específico da matéria não está detalhado nas fontes disponíveis.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/arlindars.bsky.social/post/3mznfneouek2e",
       "createdAt": "2026-11-06T12:39:22.370000+00:00",
-      "rawScore": 0.13409688601139227,
-      "relevanceScore": 0.14899654001265808,
-      "suggestedRadius": 59.16,
+      "rawScore": 0.058997721324029404,
+      "relevanceScore": 0.058997721324029404,
+      "suggestedRadius": 50.57,
       "imageUrl": "assets/images/bsky_3mznfneouek2e_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mznfneouek2e_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -422,7 +430,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Agência Brasil é uma fonte pública de informação e continua cumprindo o papel de divulgar notícias para a população. Ter esse tipo de veículo estatal ativo ajuda no acesso à informação de qualidade.",
+          "text": "A Agência Brasil cumpre seu papel de veículo público ao divulgar informação no Bluesky, ampliando o alcance para quem está nessa rede e não acompanha o site oficial.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -430,7 +438,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Publicar uma notícia sem que o conteúdo esteja claro nas fontes dificulta o acompanhamento do que realmente está sendo divulgado. O leitor fica sem saber do que se trata e não consegue avaliar a relevância.",
+          "text": "Divulgar só o link sem nenhum resumo ou contexto no post obriga o leitor a sair da rede para entender do que se trata, o que reduz o alcance real da informação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -438,7 +446,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Sem o texto completo da matéria e sem comentários, fica difícil formar qualquer opinião sobre o assunto. O ideal é acessar o link original para entender o que a Agência Brasil está noticiando.",
+          "text": "Sem saber o conteúdo da matéria em si, o post é apenas um link solto; dá para avaliar a divulgação, mas não a notícia, então fica difícil opinar sobre o mérito.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -452,14 +460,14 @@
       "rank": 9,
       "title": "Obrigado, moot do Maranhão, pelos mimos",
       "label": "Agradecimento ao moot do Maranhão",
-      "context": "Um usuário do Bluesky publicou uma mensagem agradecendo ao \"moot do Maranhão\" por presentes ou mimos recebidos. A publicação registra o agradecimento público feito na rede social.",
+      "context": "Um usuário do Bluesky publicou uma mensagem agradecendo ao \"moot do Maranhão\" por presentes ou mimos recebidos. A publicação registra o agradecimento público sem detalhar quais itens foram enviados nem o motivo da cortesia.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/zepicelli.bsky.social/post/3mzn5x45dpc22",
       "createdAt": "2026-11-06T10:21:36.677000+00:00",
-      "rawScore": 0.09616372206164345,
-      "relevanceScore": 0.10684858006849271,
-      "suggestedRadius": 55.61,
+      "rawScore": 0.042612180777276756,
+      "relevanceScore": 0.042612180777276756,
+      "suggestedRadius": 48.39,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -475,7 +483,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O agradecimento público ao moot do Maranhão mostra que os mimos foram recebidos e reconhecidos, e divulgar isso na rede é uma forma de retribuir a gentileza e valorizar quem enviou.",
+          "text": "O agradecimento público ao moot do Maranhão mostra que gestos de cortesia entre perfis ainda rendem conteúdo leve e simpático na rede, algo que muita gente prefere ver em vez de briga.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -483,7 +491,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Publicar um agradecimento genérico ao moot do Maranhão sem dizer o que foi recebido nem quem enviou deixa a mensagem vaga e não ajuda ninguém a entender do que se trata.",
+          "text": "Postar só \"obrigado pelos mimos\" sem dizer o que veio nem de onde deixa qualquer leitor sem contexto; se é para agradecer em público, o mínimo é contar o que foi recebido.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -491,7 +499,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post é só um agradecimento curto e não traz detalhes sobre os mimos nem sobre o moot do Maranhão, então fica difícil saber se é um evento, uma pessoa ou outra coisa.",
+          "text": "O post funciona como recado direto ao moot do Maranhão, não como notícia: sem lista de itens ou explicação, o agradecimento fica restrito a quem já acompanha a conversa entre os dois.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -504,15 +512,15 @@
       "id": "bsky_3mzh46sihdc2x",
       "rank": 10,
       "title": "3x Melhor Senadora do Brasil: grande senadora que o Maranhão não reelegeu",
-      "label": "Não reeleição de senadora no Maranhão",
-      "context": "O Maranhão não reelegeu a senadora que foi eleita três vezes a melhor do Brasil, e a falta dela será sentida em 2027. A não reeleição é vista como uma perda para o estado.",
+      "label": "Senadora não reeleita no Maranhão",
+      "context": "Um post no Bluesky afirma que a senadora foi eleita três vezes a melhor do Brasil, mas não conseguiu se reeleger no Maranhão. A não reeleição é lamentada como uma perda para o estado e para o Senado a partir de 2027.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mzh46sihdc2x",
       "createdAt": "2026-11-04T00:34:14.405000+00:00",
-      "rawScore": 0.08846815825402876,
-      "relevanceScore": 0.0982979536155875,
-      "suggestedRadius": 54.81,
+      "rawScore": 0.042282533392875674,
+      "relevanceScore": 0.042282533392875674,
+      "suggestedRadius": 48.34,
       "imageUrl": "assets/images/bsky_3mzh46sihdc2x_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzh46sihdc2x_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -528,7 +536,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A senadora foi eleita três vezes a melhor do Brasil e mesmo assim o Maranhão não a reelegeu. Isso mostra que o eleitorado local não soube reconhecer o trabalho dela, e a falta que ela vai fazer em 2027 será enorme para o estado.",
+          "text": "A senadora foi eleita três vezes a melhor do Brasil e mesmo assim o Maranhão não a reelegeu. Isso mostra que o eleitor muitas vezes não reconhece o trabalho de quem tem projeção nacional, e o estado perde uma representante experiente.",
           "source": "sintese",
           "evidence": [
             1
@@ -538,15 +546,17 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O Maranhão não reelegeu a senadora porque a população quis mudar. Se ela era tão boa assim, por que não conseguiu se reeleger? O eleitor deu o recado nas urnas, e agora é seguir em frente com novos representantes.",
+          "text": "O Maranhão não reelegeu a senadora e isso é um recado claro das urnas. Não adianta o título de melhor do Brasil se a população local não aprovou o mandato; o eleitor quis mudança e a vontade dele deve ser respeitada.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A não reeleição da senadora no Maranhão é uma perda para o estado, mas também mostra que o eleitorado está atento. O caso do ES, que não reelegeu Contarato, indica que a população tem feito escolhas diferentes e nem sempre mantém os bons nomes.",
+          "text": "A não reeleição da senadora no Maranhão segue a mesma lógica do Espírito Santo, que também não reelegeu Contarato. O eleitor tem trocado nomes com boa avaliação nacional, e isso mostra que a dinâmica local pesa mais do que o reconhecimento externo.",
           "source": "sintese",
           "evidence": [
             1

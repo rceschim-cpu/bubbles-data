@@ -1,21 +1,74 @@
 {
-  "generatedAt": "2026-11-10T06:39:44.986513+00:00",
+  "generatedAt": "2026-11-10T19:34:54.737566+00:00",
   "region": "br-go",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3mzw6yik6ek24",
+      "id": "bsky_3mzxtmtoedc2x",
       "rank": 1,
+      "title": "Família que vinha de avião estava a caminho de Gramado",
+      "label": "Família em voo para Gramado",
+      "context": "Uma família que estava em um avião vinha a caminho de Gramado, destino turístico no Rio Grande do Sul. O caso foi mencionado em uma publicação que comparou a cidade a uma \"Goiás gaúcha\".",
+      "source": "bluesky",
+      "subreddit": "bsky_go",
+      "permalink": "https://bsky.app/profile/msoares.bsky.social/post/3mzxtmtoedc2x",
+      "createdAt": "2026-11-10T16:16:11.482000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3mzxtmtoedc2x_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzxtmtoedc2x_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-go",
+      "sources": [
+        {
+          "title": "(Ah, sim: a família que vinha no avião estava a caminho de Gramado, nossa Goiás gaúcha.)",
+          "url": "https://bsky.app/profile/msoares.bsky.social/post/3mzxtmtoedc2x",
+          "subreddit": "bsky_go"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Gramado virou o destino preferido de muita gente de fora, e essa família escolher Gramado mostra como a cidade se consolidou como referência de turismo no Sul, atraindo visitantes de vários lugares do país.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Chamar Gramado de \"Goiás gaúcha\" pega mal, porque a comparação soa como deboche com uma cidade que tem identidade própria e recebe turistas de todo o Brasil sem precisar de rótulo de outro estado.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A menção à família no avião só faz sentido dentro do contexto da publicação original, que não detalha o que aconteceu com essas pessoas, então fica difícil tirar qualquer conclusão sobre o caso em si.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzw6yik6ek24",
+      "rank": 2,
       "title": "Papa Leão XIV pode vir ao Brasil em setembro de 2027 para congresso eucarístico e encontro com Lula",
       "label": "Visita do Papa Leão XIV ao Brasil",
-      "context": "O Papa Leão XIV pode vir ao Brasil em setembro de 2027 para participar de um congresso eucarístico e se encontrar com o presidente Lula. A possível visita foi noticiada pela coluna da Folha de S.Paulo, que trata do tema como uma articulação em andamento.",
+      "context": "O Papa Leão XIV pode vir ao Brasil em setembro de 2027 para participar de um congresso eucarístico e se encontrar com o presidente Lula, segundo informação publicada pela Folha. A possível visita envolve tanto um evento religioso quanto um encontro com a principal autoridade do país.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/jnascim.info/post/3mzw6yik6ek24",
       "createdAt": "2026-11-10T00:34:19.974000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.5013020176886871,
+      "relevanceScore": 0.557002241876319,
+      "suggestedRadius": 80.78,
       "imageUrl": "assets/images/bsky_3mzw6yik6ek24_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzw6yik6ek24_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -31,7 +84,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A vinda do Papa Leão XIV ao Brasil em 2027 para um congresso eucarístico e um encontro com Lula é uma oportunidade de o país aparecer no centro de um evento religioso de grande porte, com impacto para o turismo e para a comunidade católica.",
+          "text": "A vinda do Papa Leão XIV ao Brasil em 2027 para um congresso eucarístico e um encontro com Lula é uma oportunidade de o país se projetar no cenário religioso internacional e de estreitar laços com o Vaticano.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -39,7 +92,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A agenda do Papa Leão XIV no Brasil em 2027 incluir um encontro com Lula mistura uma visita religiosa com a política nacional, e isso pode transformar o congresso eucarístico em palco de disputa partidária em vez de um evento de fé.",
+          "text": "A agenda do Papa no Brasil não deveria incluir um encontro político com Lula, porque misturar a visita religiosa com a política pode desviar o foco do congresso eucarístico e gerar desgaste para a Igreja.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -47,64 +100,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A possível vinda do Papa Leão XIV em setembro de 2027 ainda depende de confirmação, e o noticiário trata a visita como algo em articulação, então convém esperar o anúncio oficial antes de tratar o congresso eucarístico como certo.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzwa76jygc2y",
-      "rank": 2,
-      "title": "Meu amor voltou para Goiânia e fiquei com um vazio, sem BTS, sem Taemin, só contas para pagar",
-      "label": "Volta à rotina após eventos e fandom",
-      "context": "Uma pessoa desabafa que seu amor voltou para Goiânia e que, sem a presença dela, sem BTS e sem Taemin, só restaram contas para pagar. O post reflete a sensação de vazio e o retorno à realidade após um período de eventos e experiências intensas.",
-      "source": "bluesky",
-      "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/tangmi.bsky.social/post/3mzwa76jygc2y",
-      "createdAt": "2026-11-10T00:55:52.573000+00:00",
-      "rawScore": 0.5861257132341098,
-      "relevanceScore": 0.6512507924823442,
-      "suggestedRadius": 84.42,
-      "imageUrl": "assets/images/bsky_3mzwa76jygc2y_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzwa76jygc2y_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-go",
-      "sources": [
-        {
-          "title": "Meu amor voltou pra Goiânia. To sentindo um vazio sem ela, sem bts, sem Taemin...unica coisa que me restou foram contas pra pagar 😭",
-          "url": "https://bsky.app/profile/tangmi.bsky.social/post/3mzwa76jygc2y",
-          "subreddit": "bsky_go"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A temporada de eventos e a presença de quem a gente gosta deixam uma marca boa, e sentir esse vazio depois é sinal de que valeu a pena. Ficar com as contas e os gatos roendo a rede é o preço de ter vivido aventuras intensas.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Voltar para a realidade depois de um período intenso é muito triste, ainda mais quando o amor vai embora e só sobram boletos. A gente fica se sentindo perdido, sem aquela alegria toda que os eventos e o fandom traziam.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O vazio depois que o amor volta para Goiânia e a temporada de eventos acaba é real, mas também é um momento de transição. A gente sente falta da agitação, mas a vida cotidiana com suas contas e pequenos problemas continua.",
+          "text": "A confirmação da vinda do Papa Leão XIV em setembro de 2027 ainda depende de detalhes logísticos e da agenda do Vaticano, então a notícia deve ser tratada como possibilidade até haver anúncio oficial.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -117,15 +113,15 @@
       "id": "bsky_3mzvkpq5exc2d",
       "rank": 3,
       "title": "Vereadora Aava Santiago diz ter ouvido do prefeito que merecia apanhar por ser intrometida",
-      "label": "Aava Santiago · Ameaça de agressão",
-      "context": "A vereadora de Goiânia Aava Santiago relatou ter ouvido do prefeito que merecia apanhar por ser intrometida. O episódio expõe a violência política enfrentada por mulheres no exercício de mandato.",
+      "label": "Aava Santiago · Declaração do prefeito",
+      "context": "A vereadora de Goiânia Aava Santiago relatou que o prefeito da cidade disse que ela merecia apanhar por ser intrometida. O episódio gerou discussão sobre violência política e machismo enfrentado por mulheres na política.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/anacbpc.bsky.social/post/3mzvkpq5exc2d",
       "createdAt": "2026-11-09T18:31:26.677000+00:00",
-      "rawScore": 0.3094424511816338,
-      "relevanceScore": 0.454936056868482,
-      "suggestedRadius": 76.47,
+      "rawScore": 0.2085881564108355,
+      "relevanceScore": 0.34287572934537275,
+      "suggestedRadius": 71.13,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -146,7 +142,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A fala do prefeito é inaceitável e revela como mulheres na política são tratadas quando fiscalizam o poder. Aava Santiago foi a 7ª candidata a deputada federal mais votada do estado e merece respeito, não ameaça de agressão.",
+          "text": "A fala do prefeito é inaceitável e expõe o machismo que mulheres na política enfrentam diariamente. Aava Santiago é uma vereadora atuante e merece respeito, não ameaças veladas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -154,7 +150,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A vereadora precisa ter responsabilidade com o que diz. Se ela realmente foi chamada de intrometida, isso pode ser só um desabafo do prefeito, não uma ameaça. Transformar isso em escândalo desvia o foco dos problemas reais da cidade.",
+          "text": "A vereadora precisa ter mais cuidado com o que fala e faz; ser intrometida pode gerar reações duras. O prefeito pode ter se exaltado, mas ela também provoca.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -162,7 +158,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O caso precisa ser apurado com seriedade, mas também é preciso evitar julgamento precipitado. Se houve ameaça, é grave e deve ser investigado; se foi apenas uma expressão infeliz, o debate público deve cobrar retratação e não linchamento.",
+          "text": "A declaração do prefeito foi infeliz, mas é preciso ouvir os dois lados antes de julgar. O episódio reflete a tensão política em Goiânia e a falta de diálogo entre os poderes.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -172,26 +168,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzw5w5o2g222",
+      "id": "bsky_3mzwa76jygc2y",
       "rank": 4,
-      "title": "Bomba em Agulhas Negras e no batalhão de Goiás acabaria com metade do golpismo, diz post",
-      "label": "Golpismo · Crítica a militares",
-      "context": "Um post no Bluesky defende que bombardear a Academia Militar das Agulhas Negras e um batalhão em Goiás eliminaria metade do golpismo no Brasil. A declaração gerou reações que tratam a ideia como absurda e assustadora, citando o trauma de pessoas presas.",
+      "title": "Meu amor voltou pra Goiânia e fiquei com o vazio e as contas",
+      "label": "Fim de temporada de eventos · vazio pós-fandom",
+      "context": "Uma pessoa relata no Bluesky que seu amor voltou para Goiânia e que ficou sentindo um vazio, sem a companhia dela e sem os eventos de BTS e Taemin. O desabafo virou conversa entre fãs que, após o fim da temporada de eventos e encontros, voltaram à rotina comum de contas a pagar e tarefas domésticas.",
       "source": "bluesky",
       "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/hashitaguicansada.bsky.social/post/3mzw5w5o2g222",
-      "createdAt": "2026-11-10T00:15:04.680000+00:00",
-      "rawScore": 0.3749298247002229,
-      "relevanceScore": 0.4165886941113588,
-      "suggestedRadius": 74.73,
-      "imageUrl": "assets/images/bsky_3mzw5w5o2g222_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzw5w5o2g222_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/tangmi.bsky.social/post/3mzwa76jygc2y",
+      "createdAt": "2026-11-10T00:55:52.573000+00:00",
+      "rawScore": 0.2888506835290288,
+      "relevanceScore": 0.3209452039211431,
+      "suggestedRadius": 69.99,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-go",
       "sources": [
         {
-          "title": "Podem jogar uma bomba em agulhas negras e outra no batalhão de Goiás, que acaba metade do golpismo no Brasil.",
-          "url": "https://bsky.app/profile/hashitaguicansada.bsky.social/post/3mzw5w5o2g222",
+          "title": "Meu amor voltou pra Goiânia. To sentindo um vazio sem ela, sem bts, sem Taemin...unica coisa que me restou foram contas pra pagar 😭",
+          "url": "https://bsky.app/profile/tangmi.bsky.social/post/3mzwa76jygc2y",
           "subreddit": "bsky_go"
         }
       ],
@@ -199,7 +195,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A piada acerta o alvo: enquanto esses núcleos militares não forem tratados como parte do problema, o golpismo segue vivo. Rir disso é uma forma de apontar que a impunidade nesses quartéis é o que mantém a ameaça.",
+          "text": "A temporada de eventos vale cada centavo e cada cansaço: quem foi na Grell, no Qi Rong, no Xue Yang e dançou até o fim leva histórias e amizades que compensam o retorno à rotina de pão e rede roída pelos gatos.",
           "source": "sintese",
           "evidence": [
             1
@@ -209,10 +205,9 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Falar em bombardear quartéis é assustador, não é piada. Um sujeito medíocre conseguiu mover 21 PMs para prender jovens aleatórios, e agora a resposta seria outra violência? Isso só mostra como o discurso extremista contamina os dois lados.",
+          "text": "Voltar pra realidade depois de viver tanta coisa boa é um baque difícil de engolir, e o vazio que fica é real: a pessoa fica só com as contas pra pagar e a sensação de que a vida comum não tem a mesma graça.",
           "source": "sintese",
           "evidence": [
-            1,
             2
           ],
           "votes": 0
@@ -220,7 +215,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A reação de rir e ao mesmo tempo lembrar do trauma de quem foi preso mostra que a linha entre deboche e ameaça é tênue. O post pode ser lido como crítica, mas o efeito prático é banalizar a violência que já vitimou gente.",
+          "text": "O fim da temporada de eventos mexe com qualquer fã, mas o desabafo também mostra que a rotina de comprar pão e trocar a rede dos gatos continua igual, e cada um lida com esse retorno do seu jeito.",
           "source": "sintese",
           "evidence": [
             1,
@@ -235,16 +230,16 @@
     {
       "id": "bsky_3mztpv7yzk223",
       "rank": 5,
-      "title": "Vídeos de apuração mostram eleitores de Flávio Bolsonaro apostando em Goiás",
-      "label": "Apuração eleitoral · Goiás e Flávio Bolsonaro",
-      "context": "Posts no Bluesky mostram vídeos de pessoas acompanhando a apuração eleitoral e comentando que Goiás, região que teria ajudado a eleger Flávio Bolsonaro, ainda poderia virar o resultado. A discussão gira em torno da expectativa sobre o desempenho do candidato em diferentes regiões do país.",
+      "title": "Vídeos de apuração mostram eleitores apostando em Goiás para virar o resultado",
+      "label": "Apuração eleitoral · Reação a vídeos de Goiás",
+      "context": "Posts no Bluesky compartilham vídeos de pessoas acompanhando a apuração da eleição e citando Goiás como região que ainda poderia mudar o resultado. A piada é que a mesma região foi a que mais votou em Flávio Bolsonaro, o que gera reação entre quem acompanha a apuração.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/lumendes.bsky.social/post/3mztpv7yzk223",
       "createdAt": "2026-11-09T00:58:39.571000+00:00",
-      "rawScore": 0.22050260014107798,
-      "relevanceScore": 0.3561140001567533,
-      "suggestedRadius": 71.81,
+      "rawScore": 0.18490770565065254,
+      "relevanceScore": 0.31656411738961393,
+      "suggestedRadius": 69.76,
       "imageUrl": "assets/images/bsky_3mztpv7yzk223_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mztpv7yzk223_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -265,7 +260,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A ansiedade de quem acompanhava a apuração era real: quando as urnas do Nordeste adiantaram, muita gente ficou com medo de o Sudeste e o Centro-Oeste não compensarem. No fim, o Piauí acabou segurando a situação, e isso mostra como cada região pesa no resultado.",
+          "text": "A ansiedade de quem acompanha a apuração é real: quando as urnas do Nordeste adiantaram em relação ao Sudeste e Centro-Oeste, o clima foi de tensão até o fim. Ver os vídeos de gente apostando em Goiás é engraçado justamente porque todo mundo já passou por esse nervosismo.",
           "source": "sintese",
           "evidence": [
             1,
@@ -276,7 +271,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ficar apostando que Goiás vai virar a qualquer momento é um exagero: a região já deu a vitória a Flávio Bolsonaro e não tem essa de 'calma que ainda tem Goiás'. Esse tipo de comentário só mostra como as pessoas se agarram a qualquer esperança durante a apuração.",
+          "text": "Goiás ser tratado como reduto bolsonarista e ao mesmo tempo como esperança de virada é uma contradição que os vídeos expõem. A região que mais ajudou a eleger Flávio Bolsonaro não pode ser a mesma que salva o resultado, e rir disso é reconhecer o tamanho da confusão.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -284,7 +279,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A expressão 'Grande Goiás' usada pelo Flávio Bolsonaro no podcast pode ter sido só uma brincadeira ou influência do João Carvalho, e não necessariamente uma aposta eleitoral. O vídeo da apuração virou meme, mas o contexto real é mais de descontração do que de estratégia política.",
+          "text": "A expressão 'Grande Goiás' no podcast pode ter vindo de amizade com João Carvalho, e não de uma leitura real da apuração. Boa parte da repercussão é sobre de onde saiu a frase e o que ela significava no contexto do programa, mais do que sobre o resultado em si.",
           "source": "sintese",
           "evidence": [
             3,
@@ -299,16 +294,16 @@
     {
       "id": "bsky_3mzt4punbpk2o",
       "rank": 6,
-      "title": "Depois das eleições não sobrou nada para as pesquisadoras que não seja apostar na Mega Sena",
+      "title": "Depois das eleições, não sobrou nada para as pesquisadoras além de apostar na Mega-Sena",
       "label": "Pesquisas eleitorais · Crise pós-eleição",
-      "context": "Uma publicação no Bluesky afirma que, após as eleições, as pesquisadoras de opinião não têm mais trabalho e só lhes resta apostar na Mega Sena. A frase sugere que o período eleitoral é a principal fonte de renda dessas profissionais, e que fora dele a atividade fica sem demanda.",
+      "context": "Uma publicação no Bluesky afirma que, após as eleições, as pesquisadoras de opinião não têm mais trabalho relevante e só lhes resta apostar na Mega-Sena. A frase sugere que o período eleitoral é a principal fonte de renda ou visibilidade dessas profissionais, e que fora dele a atividade perde espaço.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/gugpizzo.bsky.social/post/3mzt4punbpk2o",
       "createdAt": "2026-11-08T19:15:52.971000+00:00",
-      "rawScore": 0.2809191659475533,
-      "relevanceScore": 0.31213240660839253,
-      "suggestedRadius": 69.52,
+      "rawScore": 0.24735739765174597,
+      "relevanceScore": 0.2748415529463844,
+      "suggestedRadius": 67.46,
       "imageUrl": "assets/images/bsky_3mzt4punbpk2o_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzt4punbpk2o_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -324,7 +319,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A piada acerta o ponto: o mercado de pesquisas eleitorais realmente seca depois das eleições. As empresas e os institutos demitem, os contratos acabam, e quem vive de pesquisa fica sem fonte de renda até a próxima disputa. Não é exagero dizer que sobra só a Mega Sena.",
+          "text": "As pesquisas eleitorais realmente concentram quase todo o mercado de opinião pública. Fora do período de eleição, sobra pouco espaço para esse tipo de trabalho, e a piada da Mega-Sena reflete essa realidade de forma bem-humorada.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -332,7 +327,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa frase desqualifica uma profissão séria. Pesquisadoras de opinião não trabalham só em eleição: fazem pesquisa de mercado, avaliação de políticas públicas, estudos acadêmicos. Reduzir a atividade a um período eleitoral e sugerir que o resto é loteria é um deboche injusto com quem produz dados confiáveis.",
+          "text": "Reduzir a atuação das pesquisadoras a eleições é um exagero. Elas também trabalham com avaliação de políticas públicas, estudos de mercado e pesquisas acadêmicas ao longo do ano. A frase desvaloriza uma área que vai muito além do pleito.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -340,7 +335,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A saída pode ser diversificar. Se o mercado eleitoral é sazonal, institutos e profissionais poderiam buscar contratos com empresas, governos e universidades ao longo do ano. A piada escancara uma dependência real, mas também aponta para a necessidade de repensar o modelo de negócio das pesquisas.",
+          "text": "A piada pode ser lida como uma crítica à dependência do calendário eleitoral, mas também como um comentário sobre a instabilidade da profissão. Sem dados concretos, fica difícil saber se é só humor ou um retrato real da área.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -350,36 +345,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzowdeusqk2w",
+      "id": "bsky_3mzpxg7qcls2k",
       "rank": 7,
-      "title": "Flávio Bolsonaro cita Goiás como exemplo do crescimento de Lula",
-      "label": "Flávio Bolsonaro · Entrevista e voto em Goiás",
-      "context": "Em entrevista, Flávio Bolsonaro usou Goiás como primeiro exemplo para reclamar do crescimento de Lula no segundo turno. O episódio gerou críticas nas redes, com usuários apontando contradições entre o voto em deputados de direita e o voto em Lula no estado.",
+      "title": "Pastor preso por estupro em Goiás gera comparação com debate sobre banheiros femininos",
+      "label": "Pastor preso por estupro · Goiás",
+      "context": "Um pastor foi preso por estupro em Goiás, segundo notícia do site Mais Goiás. O caso gerou comparações nas redes entre a violência cometida por um líder religioso e o debate sobre acesso de mulheres trans a banheiros femininos.",
       "source": "bluesky",
       "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/lumendes.bsky.social/post/3mzowdeusqk2w",
-      "createdAt": "2026-11-07T03:10:38.462000+00:00",
-      "rawScore": 0.11785400246806974,
-      "relevanceScore": 0.3070558361557615,
-      "suggestedRadius": 69.25,
-      "imageUrl": "assets/images/bsky_3mzowdeusqk2w_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzowdeusqk2w_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/lunna.bsky.social/post/3mzpxg7qcls2k",
+      "createdAt": "2026-11-07T13:02:48.181000+00:00",
+      "rawScore": 0.22441286781842737,
+      "relevanceScore": 0.24934763090936374,
+      "suggestedRadius": 65.96,
+      "imageUrl": "assets/images/bsky_3mzpxg7qcls2k_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzpxg7qcls2k_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-go",
       "sources": [
         {
-          "title": "Rindo aqui assistindo a entrevista do Flávio Bolsonaro porque o primeiro exemplo que ele usa pra reclamar do crescimento do Lula no segundo turno é GOIÁS. É pra não fazer sentido mesmo seu desgraçado, a gente lutou dia após dia pra fazer essa eleição acontecer e te mandar pra casa do caralho.",
-          "url": "https://bsky.app/profile/lumendes.bsky.social/post/3mzowdeusqk2w",
-          "subreddit": "bsky_go"
-        },
-        {
-          "title": "aqui em Goiás as igrejas são bem fuleira mesmo, nunca vi uma dessas church (talvez deva ter alguma na capital, sei lá)",
-          "url": "https://bsky.app/profile/lilithoff.bsky.social/post/3mztmy3nxjc2r",
-          "subreddit": "bsky_go"
-        },
-        {
-          "title": "Essa aqui do Fabrício Rosa Assinem aliás, isso aqui é muito ridículo. Não precisa ser de Goiás! fabriciorosa.com.br/abaixo-assin...",
-          "url": "https://bsky.app/profile/soukyuu.neocities.org/post/3mzrfijynns2i",
+          "title": "Mais um dia, mais um pastor preso por estupro. SEMPRE UM PASTOR, NUNCAAAAA UMA MULHER TRANS NUM BANHEIRO FEMININO. 55/26 www.maisgoias.com.br/cidades/goia...",
+          "url": "https://bsky.app/profile/lunna.bsky.social/post/3mzpxg7qcls2k",
           "subreddit": "bsky_go"
         }
       ],
@@ -387,31 +372,32 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O eleitor brasileiro vota em deputado de direita e em Lula para presidente sem ver contradição nisso, e Flávio Bolsonaro demonstra não conhecer o próprio país ao se surpreender com esse comportamento em Goiás.",
+          "text": "O caso expõe a hipocrisia de quem demoniza mulheres trans em banheiros enquanto líderes religiosos cometem estupro. A violência real vem de pastores, não de pessoas trans usando o banheiro que lhes corresponde.",
           "source": "sintese",
           "evidence": [
             1,
-            2
+            3
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Flávio Bolsonaro escolheu Goiás como exemplo justamente porque o estado tem peso simbólico na política nacional, e usar esse caso para reclamar do crescimento de Lula soa como desespero de quem não tem argumento melhor.",
+          "text": "A comparação é forçada: um crime de estupro cometido por um pastor não tem relação com o debate sobre banheiros. Misturar os dois temas só desvia a atenção do que realmente importa, que é punir o criminoso.",
           "source": "sintese",
           "evidence": [
-            1
+            3
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A ausência de Flávio Bolsonaro no Senado nos últimos anos pode explicar por que ele parece desconectado do eleitorado goiano, e a entrevista expõe mais uma lacuna de percepção do que uma contradição real do voto.",
+          "text": "O caso do pastor preso é grave e deve ser tratado como crime, mas a discussão sobre banheiros femininos segue sem dados concretos. Falta separar os assuntos e olhar para os fatos de cada um.",
           "source": "sintese",
           "evidence": [
-            3
+            3,
+            4
           ],
           "votes": 0
         }
@@ -422,16 +408,16 @@
     {
       "id": "bsky_3mzuxhuysp22d",
       "rank": 8,
-      "title": "Alerta extremo de alagamento em Goiânia",
+      "title": "Alerta extremo de alagamento em Goiânia. Gzuis",
       "label": "Alerta de alagamento em Goiânia",
-      "context": "Um alerta extremo de alagamento foi emitido para Goiânia em 9 de novembro de 2026. O aviso chegou quando o temporal já estava em curso, e moradores relataram que a orientação era evitar a cidade como um todo, sem especificar bairros.",
+      "context": "Um alerta extremo de alagamento foi emitido para Goiânia em 9 de novembro de 2026. O aviso chegou quando o temporal já estava em curso, e a orientação foi evitar a cidade como um todo, sem especificar bairros.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/frozencerrado.bsky.social/post/3mzuxhuysp22d",
       "createdAt": "2026-11-09T12:47:00.980000+00:00",
-      "rawScore": 0.17288152438249538,
-      "relevanceScore": 0.3032016937583282,
-      "suggestedRadius": 69.04,
+      "rawScore": 0.12233552501427981,
+      "relevanceScore": 0.2470394722380887,
+      "suggestedRadius": 65.82,
       "imageUrl": "assets/images/bsky_3mzuxhuysp22d_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzuxhuysp22d_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -452,7 +438,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O alerta extremo foi essencial para mobilizar as pessoas rapidamente, mesmo tendo chegado durante o temporal. Em situações assim, qualquer aviso é melhor do que nenhum, e a Defesa Civil cumpriu seu papel ao emitir o comunicado.",
+          "text": "O alerta extremo foi essencial para avisar a população sobre o risco de alagamento em Goiânia. Mesmo tendo chegado durante o temporal, a informação pode ter ajudado muita gente a buscar abrigo ou evitar áreas perigosas. Em situações assim, qualquer aviso é melhor do que nenhum.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -460,7 +446,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O alerta veio tarde demais, quando o dilúvio já estava em curso, e ainda por cima foi genérico: mandar evitar Goiânia inteira não ajuda ninguém a se proteger. Faltou precisão nos bairros e antecedência para as pessoas se prepararem.",
+          "text": "O alerta de alagamento em Goiânia chegou tarde demais, quando o dilúvio já estava acontecendo. A orientação de evitar a cidade inteira é inútil, pois não diz quais bairros estão em risco. Sem precisão e antecedência, o aviso não cumpre seu papel de proteger as pessoas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -468,7 +454,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A eficácia do alerta depende de como ele é interpretado: se por um lado a emissão mostra que o sistema de monitoramento funcionou, por outro a falta de detalhamento e o timing deixam dúvidas sobre a utilidade prática para quem estava na rua.",
+          "text": "O alerta extremo de alagamento em Goiânia levanta uma questão: a orientação de evitar toda a cidade é muito ampla. Sem indicar bairros específicos, fica difícil saber onde o risco é maior. Talvez o sistema de alerta precise ser mais detalhado para ser realmente útil.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -478,26 +464,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzw6gl3knc26",
+      "id": "bsky_3mzw5w5o2g222",
       "rank": 9,
-      "title": "Pessoal vai a Goiânia e de lá para Brasília no dia da posse, diz post",
-      "label": "Deslocamento para posse via Goiânia",
-      "context": "Um post no Bluesky afirma que as pessoas devem ir para Goiânia e de lá seguir para Brasília no dia da posse. O autor do post classifica a situação como \"canalhice\", sem detalhar o motivo da crítica.",
+      "title": "Bomba em Agulhas Negras e no batalhão de Goiás acabaria com metade do golpismo, diz post",
+      "label": "Golpismo · Bomba em quartéis",
+      "context": "Um post no Bluesky defende que bombardear a Academia Militar das Agulhas Negras e um batalhão em Goiás eliminaria metade do golpismo no Brasil. A declaração gerou reações que tratam o autor como fracassado e medíocre, mas também destacam o susto com a capacidade de um 'fracassado' de mobilizar 21 PMs para prender jovens aleatórios.",
       "source": "bluesky",
       "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/xenotar.bsky.social/post/3mzw6gl3knc26",
-      "createdAt": "2026-11-10T00:24:13.874000+00:00",
-      "rawScore": 0.2349509906372285,
-      "relevanceScore": 0.2610566562635872,
-      "suggestedRadius": 66.66,
-      "imageUrl": "assets/images/bsky_3mzw6gl3knc26_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzw6gl3knc26_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/hashitaguicansada.bsky.social/post/3mzw5w5o2g222",
+      "createdAt": "2026-11-10T00:15:04.680000+00:00",
+      "rawScore": 0.21711225994861488,
+      "relevanceScore": 0.24123584438734985,
+      "suggestedRadius": 65.47,
+      "imageUrl": "assets/images/bsky_3mzw5w5o2g222_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzw5w5o2g222_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-go",
       "sources": [
         {
-          "title": "O negócio é o pessoal ir pra Goiania e dali pra BSB no dia da posse. Que canalhice",
-          "url": "https://bsky.app/profile/xenotar.bsky.social/post/3mzw6gl3knc26",
+          "title": "Podem jogar uma bomba em agulhas negras e outra no batalhão de Goiás, que acaba metade do golpismo no Brasil.",
+          "url": "https://bsky.app/profile/hashitaguicansada.bsky.social/post/3mzw5w5o2g222",
           "subreddit": "bsky_go"
         }
       ],
@@ -505,73 +491,20 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Passar por Goiânia antes de Brasília no dia da posse pode ser uma forma de organizar o deslocamento de quem vem de fora, já que a logística de chegar à capital nesse dia é complicada e exige planejamento.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A crítica do post faz sentido: usar Goiânia como escala para chegar a Brasília no dia da posse soa como manobra para inflar a movimentação ou desviar o foco do que realmente importa na data.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O post fala em \"canalhice\" mas não explica o que exatamente está sendo criticado, então fica difícil saber se a objeção é à rota, ao custo ou a outra coisa. Sem esse detalhe, a acusação fica solta.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzpxg7qcls2k",
-      "rank": 10,
-      "title": "Pastor preso por estupro em Goiás e a comparação com mulheres trans em banheiros",
-      "label": "Pastor preso por estupro · Comparação com banheiros",
-      "context": "Um pastor foi preso por estupro em Goiás, segundo notícia do site Mais Goiás. O caso gerou comparações nas redes entre a violência do crime e o debate sobre o acesso de mulheres trans a banheiros femininos.",
-      "source": "bluesky",
-      "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/lunna.bsky.social/post/3mzpxg7qcls2k",
-      "createdAt": "2026-11-07T13:02:48.181000+00:00",
-      "rawScore": 0.2286715800786553,
-      "relevanceScore": 0.2540795334207281,
-      "suggestedRadius": 66.24,
-      "imageUrl": "assets/images/bsky_3mzpxg7qcls2k_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzpxg7qcls2k_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-go",
-      "sources": [
-        {
-          "title": "Mais um dia, mais um pastor preso por estupro. SEMPRE UM PASTOR, NUNCAAAAA UMA MULHER TRANS NUM BANHEIRO FEMININO. 55/26 www.maisgoias.com.br/cidades/goia...",
-          "url": "https://bsky.app/profile/lunna.bsky.social/post/3mzpxg7qcls2k",
-          "subreddit": "bsky_go"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O caso mostra que o perigo real está em homens que se dizem pastores e cometem estupro, não em mulheres trans usando o banheiro feminino. A prioridade deveria ser prender e punir esses criminosos, não criar pânico moral contra pessoas trans.",
+          "text": "O post acerta ao apontar que esses dois quartéis concentram a formação e a articulação do golpismo, então atacar esses pontos enfraqueceria metade da estrutura. É uma hipérbole, mas o alvo está certo.",
           "source": "sintese",
           "evidence": [
-            1,
-            3
+            1
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A comparação não se sustenta: um pastor criminoso não tem relação com a discussão sobre banheiros. Usar um caso de estupro para atacar quem critica a presença de mulheres trans nesses espaços desvia o foco do crime e transforma uma tragédia em palanque ideológico.",
+          "text": "A fala é absurda e traumatizante para quem já sofreu com violência, e ainda expõe o autor como medíocre e fracassado. Não dá para rir de uma proposta de bomba em quartéis com gente dentro.",
           "source": "sintese",
           "evidence": [
+            1,
             2
           ],
           "votes": 0
@@ -579,11 +512,75 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O debate sobre banheiros femininos segue sem dados concretos, e o caso do pastor não resolve essa discussão. O que se sabe é que a violência sexual tem autores conhecidos, e a polícia deve investigar o crime sem usar o episódio para alimentar uma guerra cultural.",
+          "text": "O mais assustador é que até um 'fracassado' conseguiu mover 21 PMs para prender jovens aleatórios. O post pode ser exagero, mas revela uma capacidade de articulação que merece atenção.",
           "source": "sintese",
           "evidence": [
-            3,
-            4
+            2
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mztmy3nxjc2r",
+      "rank": 10,
+      "title": "Igrejas em Goiás são 'fuleiras' e sem o estilo 'church', diz post",
+      "label": "Igrejas de parede preta · Goiás",
+      "context": "Um post no Bluesky afirma que em Goiás as igrejas são 'bem fuleiras' e que o autor nunca viu uma 'church' (igreja com estética de parede preta) no estado, talvez exista na capital. Nos comentários, pessoas dizem que esse estilo é mais comum no Sudeste e em Goiânia, onde há 'church de parede preta que parece boate', enquanto no interior seria diferente.",
+      "source": "bluesky",
+      "subreddit": "bsky_go",
+      "permalink": "https://bsky.app/profile/lilithoff.bsky.social/post/3mztmy3nxjc2r",
+      "createdAt": "2026-11-09T00:06:35.573000+00:00",
+      "rawScore": 0.08599459436100786,
+      "relevanceScore": 0.20666066040111983,
+      "suggestedRadius": 63.28,
+      "imageUrl": "assets/images/bsky_3mztmy3nxjc2r_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mztmy3nxjc2r_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-go",
+      "sources": [
+        {
+          "title": "aqui em Goiás as igrejas são bem fuleira mesmo, nunca vi uma dessas church (talvez deva ter alguma na capital, sei lá)",
+          "url": "https://bsky.app/profile/lilithoff.bsky.social/post/3mztmy3nxjc2r",
+          "subreddit": "bsky_go"
+        },
+        {
+          "title": "Essa aqui do Fabrício Rosa Assinem aliás, isso aqui é muito ridículo. Não precisa ser de Goiás! fabriciorosa.com.br/abaixo-assin...",
+          "url": "https://bsky.app/profile/soukyuu.neocities.org/post/3mzrfijynns2i",
+          "subreddit": "bsky_go"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Goiânia já tem várias igrejas com parede preta que parecem boate, então o estilo 'church' existe sim no estado, só não é tão comum no interior. Quem mora na capital vê isso com frequência.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Esse negócio de igreja de parede preta é mais tendência no Sudeste e passa uma vibe Balneário Camboriú, não combina com Goiás. Aqui as igrejas são mais simples e tradicionais, e isso não é defeito.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Depende de onde a pessoa está: em Goiânia o estilo 'church' de parede preta já é comum, mas no interior pode ser mais difícil encontrar. A percepção varia muito conforme a cidade.",
+          "source": "sintese",
+          "evidence": [
+            3
           ],
           "votes": 0
         }

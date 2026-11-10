@@ -1,23 +1,85 @@
 {
-  "generatedAt": "2026-11-10T06:39:44.986513+00:00",
+  "generatedAt": "2026-11-10T19:34:54.737566+00:00",
   "region": "br-ce",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3mzwfsic4f22d",
+      "id": "bsky_3mzxtlwopr22n",
       "rank": 1,
-      "title": "Torcedor do Ceará liga para pai de santo, descobre que ele torce para o Fortaleza, e time toma gol",
-      "label": "Ligação para pai de santo e gol do Ceará",
-      "context": "Um torcedor do Ceará ligou para um pai de santo pedindo ajuda para o time não perder, mas o religioso revelou torcer para o Fortaleza, e o torcedor desligou. Pouco depois, o Ceará sofreu um gol do América-MG, deixando o time ameaçado de rebaixamento para a Série C.",
+      "title": "Nordestina relata pergunta sobre internet no Ceará em entrevista de mestrado na UFMG",
+      "label": "Estereótipo nordestino · Relato na UFMG",
+      "context": "Uma pessoa aprovada com a maior nota no mestrado da UFMG em 2019 relatou que, ao chegar em Minas Gerais, foi perguntada se tinha internet em casa no Ceará. O episódio gerou discussão sobre estereótipos regionais e desinformação sobre o Nordeste.",
+      "source": "bluesky",
+      "subreddit": "bsky_ce",
+      "permalink": "https://bsky.app/profile/cuscuzero.gay/post/3mzxtlwopr22n",
+      "createdAt": "2026-11-10T16:15:41.487000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3mzxtlwopr22n_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzxtlwopr22n_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ce",
+      "sources": [
+        {
+          "title": "quando cheguei em minas gerais me perguntaram na ufmg, no programa de mestrado no qual eu tinha passado com a maior nota da prova, em 2019, se eu tinha internet em casa no ceará dai ces tiram o motivo da RAIVA que da essa representação estereotipada do nordeste na mídia",
+          "url": "https://bsky.app/profile/cuscuzero.gay/post/3mzxtlwopr22n",
+          "subreddit": "bsky_ce"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A reação nas redes mostra que o Nordeste não é mais o que a mídia insiste em retratar: cidades como a minha têm 270 mil habitantes, são polos salineiros e petrolíferos, e ninguém merece ser questionado se tem TV ou carro. Expor esses episódios é o primeiro passo para desmontar o preconceito.",
+          "source": "sintese",
+          "evidence": [
+            3,
+            5
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A pergunta na UFMG revela um problema estrutural: a Globo e outras emissoras reduzem o Nordeste a atraso e pobreza, e isso se reproduz até em ambientes acadêmicos. Enquanto a mídia não mudar essa representação, o sudestino continuará achando que o Nordeste é um safari.",
+          "source": "sintese",
+          "evidence": [
+            7,
+            9
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O caso é grave, mas a reação também precisa ser cuidadosa: generalizar o sudestino como burro não resolve o problema. O foco deve ser cobrar da mídia uma cobertura mais justa e do ambiente acadêmico uma postura menos preconceituosa, sem transformar o episódio em guerra regional.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            4
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzwfsic4f22d",
+      "rank": 2,
+      "title": "Torcedor do Ceará liga para pai de santo, descobre que ele torce para o Fortaleza, e Ceará toma gol",
+      "label": "Ceará · Pai de santo e gol do América",
+      "context": "Um torcedor do Ceará ligou para um pai de santo pedindo ajuda para o time não perder, mas o religioso revelou torcer para o Fortaleza, e o torcedor desligou. Pouco depois, o Ceará sofreu um gol do América-MG, e o vídeo da ligação viralizou nas redes.",
       "source": "bluesky",
       "subreddit": "bsky_ce",
       "permalink": "https://bsky.app/profile/megidolaon.bsky.social/post/3mzwfsic4f22d",
       "createdAt": "2026-11-10T02:36:09.281000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3mzwfsic4f22d_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzwfsic4f22d_reddit_thumb.jpg",
+      "rawScore": 0.13202707018695084,
+      "relevanceScore": 0.36891896687438985,
+      "suggestedRadius": 72.44,
+      "imageUrl": "assets/images/bsky_3mzwfsic4f22d_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzwfsic4f22d_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-ce",
       "sources": [
@@ -41,7 +103,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A história é hilária e típica do futebol brasileiro: a ironia do pai de santo torcer para o rival e o gol sair logo depois mostra que o humor está vivo. É o tipo de causo que a gente compartilha e ri junto, sem levar a sério.",
+          "text": "A história é hilária e típica do futebol brasileiro: a coincidência do pai de santo ser rival e o gol sair logo depois virou uma piada que todo mundo está compartilhando. É o tipo de causo que mostra a criatividade e a superstição do torcedor.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -49,7 +111,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Torcer para o time do coração é uma coisa, mas expor a fé alheia desse jeito é desrespeitoso. O vídeo viraliza e vira piada, mas o pai de santo não pediu para ser tratado como personagem de comédia.",
+          "text": "Torcer para o time assim, recorrendo a pai de santo, é coisa de quem não confia no próprio time. O Ceará precisa de reforço e planejamento, não de macumba. E ainda por cima o pai de santo era rival, o que só piorou a situação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -57,7 +119,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O episódio é engraçado, mas também revela como a religiosidade de matriz africana é vista como exótica. A risada geral pode esconder um preconceito velado contra o candomblé, e vale a reflexão.",
+          "text": "O vídeo é engraçado, mas o gol do América-MG pode ter consequências sérias para o Ceará na tabela. A brincadeira não muda o fato de que o time está em situação delicada e precisa de resultados dentro de campo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -67,31 +129,31 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mztrcxiuok27",
-      "rank": 2,
-      "title": "Ceará vai à última rodada da Série B com risco de novo rebaixamento quase impossível",
-      "label": "Ceará · Risco de rebaixamento na Série B",
-      "context": "O Ceará chega à última rodada da Série B de 2026 com 43 pontos, na 16ª posição, e pode ser rebaixado para a Série C. O time precisa de um resultado contra o CRB, enquanto o Avaí, com 40 pontos, enfrenta o América-MG na disputa para evitar a queda.",
+      "id": "bsky_3mztnk6wsa227",
+      "rank": 3,
+      "title": "Briga contra o rebaixamento na Série B: Ceará e Avaí na última rodada",
+      "label": "Série B · Luta contra a queda",
+      "context": "O Ceará chega à última rodada da Série B com 43 pontos, na 16ª posição, enquanto o Avaí tem 40 e ocupa o 17º lugar. Na rodada final, o Ceará enfrenta o CRB e o Avaí joga contra o América-MG, definindo quem escapa do rebaixamento para a Série C.",
       "source": "bluesky",
       "subreddit": "bsky_ce",
-      "permalink": "https://bsky.app/profile/bslenke.bsky.social/post/3mztrcxiuok27",
-      "createdAt": "2026-11-09T01:24:13.875000+00:00",
-      "rawScore": 0.15344516530288885,
-      "relevanceScore": 0.25422014916890184,
-      "suggestedRadius": 66.25,
-      "imageUrl": "assets/images/bsky_3mztrcxiuok27_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztrcxiuok27_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/htesports.bsky.social/post/3mztnk6wsa227",
+      "createdAt": "2026-11-09T00:16:45.578000+00:00",
+      "rawScore": 0.03326327119893844,
+      "relevanceScore": 0.21306613474561562,
+      "suggestedRadius": 63.7,
+      "imageUrl": "assets/images/bsky_3mztnk6wsa227_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mztnk6wsa227_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-ce",
       "sources": [
         {
-          "title": "Cara o Ceará aparentemente vai pra última rodada da Série B com chances de outro rebaixamento que era quase impossível",
-          "url": "https://bsky.app/profile/bslenke.bsky.social/post/3mztrcxiuok27",
+          "title": "BRIGA CONTRA O REBAIXAMENTO NA SÉRIE B 16º Ceará 43 17º Avaí 40 Última rodada: CRB x Ceará América-MG x Avaí",
+          "url": "https://bsky.app/profile/htesports.bsky.social/post/3mztnk6wsa227",
           "subreddit": "bsky_ce"
         },
         {
-          "title": "BRIGA CONTRA O REBAIXAMENTO NA SÉRIE B 16º Ceará 43 17º Avaí 40 Última rodada: CRB x Ceará América-MG x Avaí",
-          "url": "https://bsky.app/profile/htesports.bsky.social/post/3mztnk6wsa227",
+          "title": "Cara o Ceará aparentemente vai pra última rodada da Série B com chances de outro rebaixamento que era quase impossível",
+          "url": "https://bsky.app/profile/bslenke.bsky.social/post/3mztrcxiuok27",
           "subreddit": "bsky_ce"
         },
         {
@@ -104,7 +166,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A situação do Ceará é grave, mas ainda não está definida: com 43 pontos e uma rodada pela frente, o time depende só de si para escapar. O Avaí tem 40 e pega o América-MG, então uma vitória contra o CRB resolve sem depender de ninguém.",
+          "text": "O Ceará ainda depende só de si: se vencer o CRB, não precisa torcer contra ninguém. O time tem elenco para isso e a pressão da última rodada pode ser o combustível que faltou nas anteriores.",
           "source": "sintese",
           "evidence": [
             3
@@ -114,7 +176,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O Ceará precisava de apenas dois pontos nas últimas cinco rodadas para se livrar e fez só um, perdendo até para time já rebaixado. Essa campanha de covardia no fim quase transforma uma vaga tranquila em queda para a Série C, e a diretoria precisa ser cobrada.",
+          "text": "Precisava de dois pontos nas últimas cinco rodadas e fez só um, perdendo até para time já rebaixado. O Ceará não merece escapar: a campanha na reta final é de quem já caiu e a diretoria errou feio.",
           "source": "sintese",
           "evidence": [
             2
@@ -124,100 +186,36 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O rebaixamento do Ceará no ano passado já foi surpreendente, e agora repete o mesmo roteiro de queda quase impossível. O time estava tranquilo na Série A e caiu; na Série B, a irregularidade no fim mostra que o problema é estrutural, não só de elenco.",
+          "text": "Nada está definido matematicamente, mas a experiência de brigar contra a queda depois de cair da Série A no ano passado mostra que o futebol não perdoa. O Ceará precisa vencer e ainda secar o Avaí.",
           "source": "sintese",
           "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mztlbey5bk2n",
-      "rank": 3,
-      "title": "Ceará perde para time rebaixado na noite do primeiro dia de ENEM",
-      "label": "Ceará · Derrota na noite do ENEM",
-      "context": "O Ceará perdeu para um time já rebaixado na noite do primeiro dia do ENEM. A coincidência entre o resultado ruim e a data do exame virou piada entre torcedores nas redes.",
-      "source": "bluesky",
-      "subreddit": "bsky_ce",
-      "permalink": "https://bsky.app/profile/mthlimao.bsky.social/post/3mztlbey5bk2n",
-      "createdAt": "2026-11-08T23:36:01.372000+00:00",
-      "rawScore": 0.30539764320483426,
-      "relevanceScore": 0.24827049340731036,
-      "suggestedRadius": 65.9,
-      "imageUrl": "assets/images/bsky_3mztlbey5bk2n_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztlbey5bk2n_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ce",
-      "sources": [
-        {
-          "title": "O time do Ceará estar perdendo pra um time REBAIXADO na noite do primeiro dia de ENEM é muito roteiro forçado da vida",
-          "url": "https://bsky.app/profile/mthlimao.bsky.social/post/3mztlbey5bk2n",
-          "subreddit": "bsky_ce"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A derrota do Ceará para um time rebaixado na noite do ENEM virou um roteiro tão absurdo que é impossível não rir. O apresentador comentando ao vivo deixou tudo ainda mais engraçado, e esses vídeos são um alívio cômico para quem acompanha o futebol brasileiro.",
-          "source": "sintese",
-          "evidence": [
-            2,
+            1,
             3
           ],
           "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Perder para um time já rebaixado na noite do primeiro dia de ENEM é a prova de que o futebol brasileiro está nivelado por baixo. As bets inflacionaram jogadores ruins, e o torcedor do Ceará fica com essa vergonha em plena noite de prova.",
-          "source": "sintese",
-          "evidence": [
-            5
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Enquanto o Ceará toma essa derrota bizarra, o Goiás empata com a Ponte e ninguém fala nada. O futebol brasileiro é essa bagunça mesmo, e cada rodada tem seu roteiro forçado — não dá para levar tão a sério.",
-          "source": "sintese",
-          "evidence": [
-            4
-          ],
-          "votes": 0
         }
       ],
       "enrichedBy": "deepseek-chat",
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mztpvjyh7s2y",
+      "id": "bsky_3mzqtzy2csk2r",
       "rank": 4,
-      "title": "Classificação da Série B de 2026 após a 37ª rodada: Novorizontino sobe, Ceará ameaçado",
-      "label": "Série B · Rodada final e acessos",
-      "context": "Após a 37ª rodada da Série B de 2026, o Novorizontino garantiu um acesso inédito à primeira divisão, enquanto Criciúma e Fortaleza disputam vaga no playoff e CRB, Goiás e Atlético brigam pela última posição no G6. O Ceará corre risco de rebaixamento inédito e depende de resultados da última rodada para permanecer na divisão.",
+      "title": "Novorizontino sobe sem torcida e gera recalque em times tradicionais",
+      "label": "Novorizontino na Série A · Recalque e times culpados",
+      "context": "O Novorizontino, clube sem torcida expressiva, subiu para a primeira divisão, enquanto times tradicionais como Fortaleza, Ceará, Goiás, Vila Nova, Atlético, Náutico e Sport não conseguiram o acesso. A situação gera comparações e críticas sobre o mérito esportivo e o romantismo no futebol.",
       "source": "bluesky",
       "subreddit": "bsky_ce",
-      "permalink": "https://bsky.app/profile/cassiozirpoli.bsky.social/post/3mztpvjyh7s2y",
-      "createdAt": "2026-11-09T00:58:51.072000+00:00",
-      "rawScore": 0.13003042704274806,
-      "relevanceScore": 0.23293126123502073,
-      "suggestedRadius": 64.96,
-      "imageUrl": "assets/images/bsky_3mztpvjyh7s2y_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztpvjyh7s2y_reddit_thumb.jpg",
-      "category": "geopolitica",
+      "permalink": "https://bsky.app/profile/caiobitencourt.net/post/3mzqtzy2csk2r",
+      "createdAt": "2026-11-07T21:34:55.472000+00:00",
+      "rawScore": 0.02182876252430531,
+      "relevanceScore": 0.13536529169367256,
+      "suggestedRadius": 58.08,
+      "imageUrl": "assets/images/bsky_3mzqtzy2csk2r_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzqtzy2csk2r_uns_thumb.jpg",
+      "category": "esportes",
       "region": "br-ce",
       "sources": [
-        {
-          "title": "A classificação da Série B de 2026 após a 37ª rodada: - Novorizontino conseguiu acesso inédito - Criciúma x Fortaleza no playoff (empate pra quem?) - CRB, Goiás e Atlético disputam última vaga no G6 - Ceará com risco de rebaixamento inédito cassiozirpoli.com.br/a-classifica...",
-          "url": "https://bsky.app/profile/cassiozirpoli.bsky.social/post/3mztpvjyh7s2y",
-          "subreddit": "bsky_ce"
-        },
         {
           "title": "Haverá muito recalque e inveja de \"ah, como o Novorizontino que não tem torcida subiu e outros não\". Mas o que não falta é time pra culpar: Fortaleza, Ceará, Goiás, Vila, Atlético, Náutico, Sport, etc, etc e etc.",
           "url": "https://bsky.app/profile/caiobitencourt.net/post/3mzqtzy2csk2r",
@@ -233,20 +231,79 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Novorizontino subiu de forma orgânica, sem investimento artificial, e isso mostra que é possível competir com trabalho sério. Times como Mirassol e Novorizontino merecem estar na primeira divisão e trazem novas histórias ao campeonato.",
+          "text": "O Novorizontino subiu com mérito e trabalho orgânico, sem precisar de torcida gigante ou investimento artificial. Times como Mirassol e Novorizontino mostram que é possível competir com projetos sérios, e isso enriquece o futebol com novas histórias.",
           "source": "sintese",
           "evidence": [
-            4
+            3
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ver Bragantino, Mirassol e Novorizontino na primeira divisão é triste para o futebol, porque são clubes sem torcida tradicional. O romantismo do esporte pede times com história e apaixonados nas arquibancadas, como Remo ou Portuguesa.",
+          "text": "Ver Bragantino, Mirassol e Novorizontino na primeira divisão é triste para quem valoriza a tradição e a torcida. O Bragantino trapaceou com a Red Bull, e os outros não têm a mesma paixão de clubes como Portuguesa, Ponte Preta ou Guarani.",
           "source": "sintese",
           "evidence": [
-            3,
+            2,
+            4
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O acesso do Novorizontino é merecido, mas ainda prefiro a emoção de um clube com torcida apaixonada como o Remo. É uma visão romântica do futebol, mas não tiro o mérito de quem subiu com trabalho orgânico.",
+          "source": "sintese",
+          "evidence": [
+            4
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mztlbey5bk2n",
+      "rank": 5,
+      "title": "Ceará perde para time rebaixado na noite do primeiro dia de ENEM",
+      "label": "Ceará derrota · Noite de ENEM",
+      "context": "O Ceará perdeu para um time já rebaixado na noite do primeiro dia do ENEM. O resultado gerou comentários sobre o roteiro improvável da partida e sobre o futebol brasileiro.",
+      "source": "bluesky",
+      "subreddit": "bsky_ce",
+      "permalink": "https://bsky.app/profile/mthlimao.bsky.social/post/3mztlbey5bk2n",
+      "createdAt": "2026-11-08T23:36:01.372000+00:00",
+      "rawScore": 0.07870432157632028,
+      "relevanceScore": 0.08744924619591142,
+      "suggestedRadius": 53.74,
+      "imageUrl": "assets/images/bsky_3mztlbey5bk2n_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mztlbey5bk2n_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ce",
+      "sources": [
+        {
+          "title": "O time do Ceará estar perdendo pra um time REBAIXADO na noite do primeiro dia de ENEM é muito roteiro forçado da vida",
+          "url": "https://bsky.app/profile/mthlimao.bsky.social/post/3mztlbey5bk2n",
+          "subreddit": "bsky_ce"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O apresentador que narrou a situação é incrível, e o humor em torno da derrota do Ceará para um time rebaixado na noite do ENEM rendeu momentos memoráveis para quem acompanha o futebol.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O futebol brasileiro está tão nivelado por baixo que um time rebaixado vence o Ceará, e as bets só inflacionam jogadores ruins, o que explica resultados como esse.",
+          "source": "sintese",
+          "evidence": [
             5
           ],
           "votes": 0
@@ -254,10 +311,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O Ceará chegar à última rodada com risco de rebaixamento é inacreditável, mas a situação depende de combinações. O jogo contra o CRB, que precisa vencer para subir, e um possível tropeço do Avaí em BH definem a permanência.",
+          "text": "Enquanto o Ceará perde para um rebaixado, o Goiás empata com a Ponte, e o torcedor fica sem saber o que é mais surpreendente na noite do ENEM.",
           "source": "sintese",
           "evidence": [
-            2
+            4
           ],
           "votes": 0
         }
@@ -267,17 +324,17 @@
     },
     {
       "id": "bsky_3mzsny2x4m22w",
-      "rank": 5,
+      "rank": 6,
       "title": "Kleber Mendonça Filho revela novo filme passado nos anos 1930 e quer Wagner Moura no elenco",
       "label": "Novo filme de Kleber Mendonça Filho",
-      "context": "O diretor Kleber Mendonça Filho anunciou no Cine Ceará que seu próximo filme, ambientado na década de 1930, deve se chamar O Correspondente Estrangeiro (título provisório). O objetivo declarado é voltar a trabalhar com o ator Wagner Moura, com quem já colaborou anteriormente.",
+      "context": "Durante o Cine Ceará, o diretor Kleber Mendonça Filho revelou que seu novo filme, ambientado na década de 1930, deve se chamar O Correspondente Estrangeiro (título provisório). O objetivo é voltar a trabalhar com Wagner Moura, com quem já colaborou anteriormente.",
       "source": "bluesky",
       "subreddit": "bsky_ce",
       "permalink": "https://bsky.app/profile/brunocarmelo.bsky.social/post/3mzsny2x4m22w",
       "createdAt": "2026-11-08T14:51:58.082000+00:00",
-      "rawScore": 0.2201718947818972,
-      "relevanceScore": 0.1707824861915447,
-      "suggestedRadius": 60.8,
+      "rawScore": 0.05792652976545868,
+      "relevanceScore": 0.06436281085050964,
+      "suggestedRadius": 51.22,
       "imageUrl": "assets/images/bsky_3mzsny2x4m22w_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzsny2x4m22w_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -293,7 +350,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A parceria entre Kleber Mendonça Filho e Wagner Moura já rendeu trabalhos marcantes, e a possibilidade de vê-los juntos de novo em um filme de época é animadora. O diretor tem sensibilidade para retratar o Brasil em diferentes contextos históricos, e o período de 1930 oferece um pano de fundo riquíssimo para isso.",
+          "text": "A parceria entre Kleber Mendonça Filho e Wagner Moura é um dos grandes encontros do cinema nacional, e ver os dois juntos de novo em um filme de época é motivo de empolgação. O diretor tem um olhar único e Moura é um ator versátil, então a combinação promete.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -301,7 +358,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Anunciar um projeto com título provisório e elenco ainda não confirmado soa mais como uma forma de chamar atenção no festival do que como um plano concreto. Kleber Mendonça Filho costuma fazer filmes densos, mas essa mistura de época com correspondente estrangeiro pode não funcionar bem.",
+          "text": "Ficar preso a Wagner Moura de novo pode soar como falta de ousadia na escolha do elenco. O cinema brasileiro tem tantos talentos novos que mereciam chance, e o diretor poderia apostar em nomes menos óbvios para renovar suas parcerias.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -309,62 +366,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O anúncio é empolgante, mas ainda há muitas incertezas: o título é provisório, o roteiro não foi detalhado e a participação de Wagner Moura é uma intenção, não uma confirmação. Vale esperar por mais informações antes de criar expectativas muito altas.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzlzupzi4c2u",
-      "rank": 6,
-      "title": "Professor do Ceará concorre a prêmio de melhores em Comunicação",
-      "label": "Prêmio Nosso Meio · Votação aberta",
-      "context": "Um professor universitário da área de Comunicação do Ceará está entre os 10 indicados ao Prêmio Nosso Meio e pediu votos nas redes. A votação popular começou em 5 de novembro e segue até 12 de novembro pelo site do prêmio.",
-      "source": "bluesky",
-      "subreddit": "bsky_ce",
-      "permalink": "https://bsky.app/profile/hqsemroteiro.bsky.social/post/3mzlzupzi4c2u",
-      "createdAt": "2026-11-05T23:36:08.875000+00:00",
-      "rawScore": 0.20159581380522462,
-      "relevanceScore": 0.1538929484239461,
-      "suggestedRadius": 59.54,
-      "imageUrl": "assets/images/bsky_3mzlzupzi4c2u_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzlzupzi4c2u_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ce",
-      "sources": [
-        {
-          "title": "Tô na lista de 10 melhores professores universitários do Prêmio Nosso Meio, que celebra a área de Comunicação do Ceará. Para quem quiser votar em mim, o link é esse: nossomeio.com.br/premio-nosso... Eu fico bastante agradecido! A votação abriu agora dia 5 de novembro e vai até 12 de novembro.",
-          "url": "https://bsky.app/profile/hqsemroteiro.bsky.social/post/3mzlzupzi4c2u",
-          "subreddit": "bsky_ce"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Estar entre os 10 melhores professores de Comunicação do Ceará já é um reconhecimento enorme, e o convite ao voto é justo: quem acompanha o trabalho dele sabe o quanto merece esse espaço.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Divulgar o link de votação para os próprios seguidores pode transformar um prêmio de mérito em disputa de popularidade nas redes, e isso acaba pesando mais do que a avaliação real do trabalho docente.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A indicação é válida, mas o resultado vai depender de quem mobilizar mais gente para votar nesses sete dias; sem critérios claros de avaliação, o prêmio acaba medindo alcance digital tanto quanto qualidade.",
+          "text": "Ainda é cedo para comemorar ou criticar: o título é provisório e o projeto está no começo. O que dá para dizer é que um filme de época dirigido por Kleber Mendonça Filho sempre gera expectativa, mas só saberemos se a parceria com Moura funciona vendo o resultado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -376,16 +378,16 @@
     {
       "id": "bsky_3mzsochxx5s2a",
       "rank": 7,
-      "title": "Ceará querido lançando tendência desde 2014",
+      "title": "Ceará lançando tendência desde 2014",
       "label": "Ceará · Tendência desde 2014",
-      "context": "Uma postagem no Bluesky afirma que o Ceará vem lançando tendência desde 2014. A publicação não detalha qual tendência seria essa nem apresenta dados que comprovem a afirmação.",
+      "context": "Uma publicação no Bluesky afirma que o Ceará vem lançando tendência desde 2014. O post não detalha qual tendência seria essa nem traz dados que sustentem a afirmação.",
       "source": "bluesky",
       "subreddit": "bsky_ce",
       "permalink": "https://bsky.app/profile/tiavelha.bsky.social/post/3mzsochxx5s2a",
       "createdAt": "2026-11-08T14:57:39.879000+00:00",
-      "rawScore": 0.15288864034434102,
-      "relevanceScore": 0.10960795382505173,
-      "suggestedRadius": 55.86,
+      "rawScore": 0.03622018571525465,
+      "relevanceScore": 0.04024465079472739,
+      "suggestedRadius": 48.04,
       "imageUrl": "assets/images/bsky_3mzsochxx5s2a_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzsochxx5s2a_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -401,7 +403,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Ceará realmente tem histórico de sair na frente em várias áreas, e essa postagem só reforça o que muita gente de lá já sabe. Ser reconhecido como lançador de tendência desde 2014 é motivo de orgulho para quem acompanha o estado.",
+          "text": "O Ceará tem mesmo histórico de sair na frente e virar referência pro resto do país, e essa postagem só reforça o que muita gente de lá já percebe no dia a dia.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -409,7 +411,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Afirmar que o Ceará lança tendência desde 2014 sem mostrar exemplos concretos ou dados não passa de força de expressão. Fica difícil levar a sério quando a postagem não diz qual tendência seria essa nem o que mudou de lá para cá.",
+          "text": "Jogar a data de 2014 sem dizer qual tendência é o problema: a frase soa bonita, mas não aponta nada concreto que tenha começado no Ceará e se espalhado depois.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -417,7 +419,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A frase pode até ter um fundo de verdade, mas depende do que se entende por tendência. Sem contexto sobre qual área ou qual movimento começou em 2014, a afirmação fica solta e cada um interpreta de um jeito.",
+          "text": "Falta saber a que tendência o post se refere, porque sem esse detalhe não dá pra confirmar nem negar a afirmação — fica só como uma provocação solta na rede.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -427,31 +429,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzhchhcy222v",
+      "id": "bsky_3mzlc262qos2l",
       "rank": 8,
-      "title": "Show de Jorge e Mateus no Réveillon de Fortaleza é cancelado",
-      "label": "Cancelamento de show sertanejo em Fortaleza",
-      "context": "O prefeito de Fortaleza, Evandro Leitão (PT), cancelou em 3 de novembro de 2026 o show da dupla Jorge e Mateus previsto para o Réveillon 2027 da cidade. O cancelamento ocorre após a contratação da dupla, que apoia adversários políticos do prefeito, gerar revolta na população.",
+      "title": "Minha proposta é levar minha próstata para todo o Ceará",
+      "label": "Proposta de levar próstata ao Ceará",
+      "context": "Uma pessoa publicou no Bluesky a frase \"minha proposta é levar minha próstata para todo o Ceará\", sem explicar o que isso significa na prática. A publicação gerou respostas bem-humoradas de quem se identificou como cearense e se ofereceu para receber a pessoa.",
       "source": "bluesky",
       "subreddit": "bsky_ce",
-      "permalink": "https://bsky.app/profile/jakedomingos.bsky.social/post/3mzhchhcy222v",
-      "createdAt": "2026-11-04T02:26:23.282000+00:00",
-      "rawScore": 0.04444122385469329,
-      "relevanceScore": 0.10192748774505855,
-      "suggestedRadius": 55.16,
-      "imageUrl": "assets/images/bsky_3mzhchhcy222v_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzhchhcy222v_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/osrjacinto.bsky.social/post/3mzlc262qos2l",
+      "createdAt": "2026-11-05T16:29:35.379000+00:00",
+      "rawScore": 0.025509883448403055,
+      "relevanceScore": 0.02834431494267006,
+      "suggestedRadius": 46.1,
+      "imageUrl": "assets/images/bsky_3mzlc262qos2l_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzlc262qos2l_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-ce",
       "sources": [
         {
-          "title": "O show da dupla sertaneja Jorge e Mateus no Réveillon 2027 de Fortaleza foi cancelado em 3 de novembro de 2026 pelo prefeito Evandro Leitão (PT) Show de Jorge e Mateus no réveillon de Fortaleza é cancelado | G1 g1.globo.com/ce/ceara/not...",
-          "url": "https://bsky.app/profile/jakedomingos.bsky.social/post/3mzhchhcy222v",
-          "subreddit": "bsky_ce"
-        },
-        {
-          "title": "População de Fortaleza se revoltou aqui com o Prefeito, do PT, que contratou pro Ano Novo uma dupla sertaneja apoiadora do Demaio e companhia. Acabam de cancelar o show deles. Eu amo essa cidade bit.ly/4ixMMaV",
-          "url": "https://bsky.app/profile/hojenon.bsky.social/post/3mzh3o3x4ac2s",
+          "title": "minha proposta é levar minha prostata para todo o ceará",
+          "url": "https://bsky.app/profile/osrjacinto.bsky.social/post/3mzlc262qos2l",
           "subreddit": "bsky_ce"
         }
       ],
@@ -459,25 +456,25 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A prefeitura acertou ao cancelar o show de uma dupla que apoia o Demaio e companhia. Não faz sentido usar dinheiro público para contratar artistas alinhados com adversários políticos do prefeito, ainda mais depois da revolta da população.",
+          "text": "Achei ótima a proposta, ainda mais vindo de alguém que quer conhecer o Ceará. Sou cearense e já me ofereci para receber muito bem, porque esse tipo de brincadeira mostra que a pessoa tem humor e vontade de se aproximar da gente.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Cancelar um show já contratado só porque a dupla apoia outro político é um absurdo. O prefeito está usando o cargo para perseguir artistas por posição política, e quem perde é a população de Fortaleza que queria curtir o Réveillon.",
+          "text": "Essa história de levar próstata para todo o Ceará não faz sentido nenhum e só serve para chamar atenção. Se a pessoa quer visitar o estado, que fale sério e proponha algo concreto, porque do jeito que está parece piada sem graça.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O cancelamento em Fortaleza pode até se repetir em outras cidades, como Recife. Mas o que importa é saber se o contrato foi rescindido com justificativa legal ou se foi só pressão política — sem essa resposta, fica difícil apoiar ou condenar.",
+          "text": "Fiquei na dúvida se era brincadeira ou se a pessoa realmente quis dizer algo com essa proposta. O povo do Ceará respondeu na zoeira, mas ainda não entendi qual é a intenção por trás da frase.",
           "source": "sintese",
           "evidence": [
             1
@@ -493,14 +490,14 @@
       "rank": 9,
       "title": "Lula tem que fazer um ITA em cada esquina do Ceará",
       "label": "ITA no Ceará · Proposta de Lula",
-      "context": "Um usuário do Bluesky defendeu que o presidente Lula construa um ITA (Instituto Tecnológico de Aeronáutica) em cada esquina do Ceará. A proposta gerou reação de quem pede equilíbrio na distribuição de investimentos pelo restante do Brasil.",
+      "context": "O presidente Lula defendeu a criação de um ITA (Instituto Tecnológico de Aeronáutica) em cada esquina do Ceará. A declaração gerou reações sobre a concentração de investimentos em educação no estado.",
       "source": "bluesky",
       "subreddit": "bsky_ce",
       "permalink": "https://bsky.app/profile/alvany.bsky.social/post/3mzpuu6mapk2j",
       "createdAt": "2026-11-07T12:16:55.975000+00:00",
-      "rawScore": 0.10112226883084552,
-      "relevanceScore": 0.06254150919301868,
-      "suggestedRadius": 51.0,
+      "rawScore": 0.023407932717546914,
+      "relevanceScore": 0.026008814130607683,
+      "suggestedRadius": 45.68,
       "imageUrl": "assets/images/bsky_3mzpuu6mapk2j_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzpuu6mapk2j_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -516,7 +513,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Ceará precisa de mais polos de ensino técnico e superior como o ITA, e o Lula deveria levar essa estrutura para cada esquina do estado. Isso descentraliza a educação de elite e dá chance real de formação para quem não pode ir para São Paulo.",
+          "text": "O Ceará tem se destacado na educação e merece investimentos como o ITA. Se o Lula quer levar ensino de ponta para cada esquina, isso mostra compromisso com a região e pode formar muitos engenheiros.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -524,7 +521,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Um ITA em cada esquina do Ceará é exagero e ignora o restante do Brasil, que também precisa de investimento em educação. O certo é distribuir os recursos de forma equilibrada, sem concentrar tudo em um estado só.",
+          "text": "Um ITA em cada esquina do Ceará é exagero e ignora as necessidades do restante do Brasil. O país inteiro precisa de investimentos em educação, não só um estado. Deixa alguns para os outros.",
           "source": "sintese",
           "evidence": [
             1
@@ -534,11 +531,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A ideia de espalhar ITAs pelo Ceará é boa, mas precisa vir junto com planejamento e verba para o resto do país. Sem equilíbrio, vira só promessa eleitoral e não resolve a falta de escolas técnicas de qualidade.",
+          "text": "A fala do Lula parece mais uma provocação para destacar a importância do Ceará do que uma proposta concreta. O ideal seria distribuir polos de excelência pelo país, mas o gesto chama atenção para a região.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -546,26 +541,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzlc262qos2l",
+      "id": "bsky_3mzktjibims2r",
       "rank": 10,
-      "title": "Minha proposta é levar minha próstata para todo o Ceará",
-      "label": "Piada com próstata e viagem pelo Ceará",
-      "context": "Uma pessoa publicou no Bluesky a frase \"minha proposta é levar minha próstata para todo o Ceará\", sem explicar o que isso significa. A publicação virou conversa entre usuários do Ceará, que reagiram à frase com humor e convites para visitar o estado.",
+      "title": "Será que existe um Clube da Luta na Universidade Federal do Ceará?",
+      "label": "Clube da Luta na UFC · Boato",
+      "context": "Um post no Bluesky pergunta se existe um Clube da Luta na Universidade Federal do Ceará, fazendo referência ao filme em que lutas clandestinas têm regras próprias. A brincadeira gerou comentários que associam a ideia a cursos como Educação Física e a artes marciais como jiu-jítsu e muay thai.",
       "source": "bluesky",
       "subreddit": "bsky_ce",
-      "permalink": "https://bsky.app/profile/osrjacinto.bsky.social/post/3mzlc262qos2l",
-      "createdAt": "2026-11-05T16:29:35.379000+00:00",
-      "rawScore": 0.10056933664238031,
-      "relevanceScore": 0.06203877833758521,
-      "suggestedRadius": 50.94,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "permalink": "https://bsky.app/profile/munky.bsky.social/post/3mzktjibims2r",
+      "createdAt": "2026-11-05T12:09:42.778000+00:00",
+      "rawScore": 0.01726107067014202,
+      "relevanceScore": 0.019178967411268913,
+      "suggestedRadius": 44.31,
+      "imageUrl": "assets/images/bsky_3mzktjibims2r_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzktjibims2r_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-ce",
       "sources": [
         {
-          "title": "minha proposta é levar minha prostata para todo o ceará",
-          "url": "https://bsky.app/profile/osrjacinto.bsky.social/post/3mzlc262qos2l",
+          "title": "Será que existe um Clube da Luta na Universidade Federal do Ceará?",
+          "url": "https://bsky.app/profile/munky.bsky.social/post/3mzktjibims2r",
           "subreddit": "bsky_ce"
         }
       ],
@@ -573,18 +568,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A frase é só uma brincadeira e o pessoal do Ceará entrou no jogo na hora, respondendo com convite e recepção calorosa. Esse tipo de humor sem noção é o que faz a internet valer a pena.",
+          "text": "A piada funciona porque a UFC tem cursos como Educação Física e gente que treina jiu-jítsu e muay thai, então um 'clube da luta' ali seria quase natural. Se existe, é só uma brincadeira interna que mostra a cultura de luta da universidade.",
           "source": "sintese",
           "evidence": [
-            1,
-            2
+            1
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Falar em levar a próstata para todo o Ceará é sem graça e forçado, e ainda expõe uma intimidade que ninguém pediu para ver. Piada com órgão íntimo não é engraçada, é só constrangedora.",
+          "text": "Falar em Clube da Luta na UFC é irresponsável porque pode dar a impressão de que a universidade tolera violência organizada. A instituição precisa deixar claro que não compactua com lutas clandestinas, mesmo em tom de piada.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -592,7 +586,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A frase não faz sentido literal, mas o pessoal do Ceará respondeu com bom humor e transformou o post em conversa. No fim, é só uma piada sem explicação que virou interação entre usuários.",
+          "text": "A pergunta 'cursa o quê?' mostra que a história tem tudo para ser só uma brincadeira de calouro. Sem provas, o melhor é tratar como meme e não como denúncia, até porque a primeira regra do clube é justamente não falar sobre ele.",
           "source": "sintese",
           "evidence": [
             1,

@@ -1,21 +1,86 @@
 {
-  "generatedAt": "2026-11-10T06:39:44.986513+00:00",
+  "generatedAt": "2026-11-10T19:34:54.737566+00:00",
   "region": "br-rr",
-  "count": 8,
+  "count": 7,
   "items": [
     {
-      "id": "bsky_3mzvzw5a2hk2y",
+      "id": "bsky_3mzxdbs2i4c2y",
       "rank": 1,
-      "title": "Só acredito na Fundação Cobra Coral quando chover em Roraima nas cabeceiras dos rios",
+      "title": "Mãe e ex faziam trilha e educavam sobre natureza em sítio",
+      "label": "Educação ambiental · Sítio e consumo",
+      "context": "Uma pessoa relata que a mãe e o ex dela faziam trilhas, subiram o Monte Roraima e mantinham um sítio onde passavam fins de semana, ensinando a respeitar a natureza. O ex intervia pouco nas terras e comprava alimentos direto de pequenos agricultores, o que gerou reflexão sobre consumo e preservação.",
+      "source": "bluesky",
+      "subreddit": "bsky_rr",
+      "permalink": "https://bsky.app/profile/solavanca.bsky.social/post/3mzxdbs2i4c2y",
+      "createdAt": "2026-11-10T11:23:42.280000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3mzxdbs2i4c2y_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzxdbs2i4c2y_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rr",
+      "sources": [
+        {
+          "title": "Minha mãe e o ex dela faziam trecking direto, subiram o monte Roraima e tudo. Ele tinha um sítio que a gente passava os fds quando eu era pré-adolescente e os dois sempre me educavam sobre respeitar a natureza. Ele interviu muito pouco nas terras dele, não sei se poderia considerar como área de +",
+          "url": "https://bsky.app/profile/solavanca.bsky.social/post/3mzxdbs2i4c2y",
+          "subreddit": "bsky_rr"
+        },
+        {
+          "title": "Notícia de hoje: megaloja da Havan, a de nº200, vai ser inaugurada em Roraima. Semana passada ele já tinha inaugurado 2 mega lojas no Sul. Tem alguma Havan no Paraguai?",
+          "url": "https://bsky.app/profile/vanemtranse.bsky.social/post/3mzm4da66lk2l",
+          "subreddit": "bsky_rr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O contato frequente com a natureza e a mudança de perspectiva sobre consumo foram o que realmente me fez tomar consciência. Viver em apartamento e ter medo das coisas não ensina nada; foi a convivência no sítio e as conversas sobre respeitar a natureza que mudaram minha forma de ver o mundo.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Um lugar enorme, de gente rica, com pequenos agricultores comprando direto dele: isso não é preservação, é exceção. A maioria das pessoas não tem sítio nem tempo para trilha, e a consciência ambiental não pode depender de privilégio. O discurso de respeito à natureza fica fácil quando se tem terra sobrando.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A história mostra que a educação ambiental funciona na prática, mas também escancara a diferença de realidade: ele era rico e tinha um sítio enorme. Fica a dúvida se esse tipo de consciência se sustenta sem o privilégio da terra e do tempo livre, ou se é só um caso isolado.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzvzw5a2hk2y",
+      "rank": 2,
+      "title": "Só acreditarei na Fundação Cobra Coral quando chover em Roraima nas cabeceiras dos rios",
       "label": "Descrença na Fundação Cobra Coral",
-      "context": "Um post no Bluesky ironiza a Fundação Cobra Coral dizendo que só vai acreditar nela quando chover em Roraima nas cabeceiras dos rios. A frase usa uma condição tida como improvável para expressar descrença total na instituição.",
+      "context": "Um post no Bluesky expressou descrença na Fundação Cobra Coral usando a expressão \"quando chover em Roraima nas cabeceiras dos rios\", que indica algo muito improvável de acontecer. A frase virou piada entre os usuários, que compararam a situação a um feitiço de alcance limitado.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/leveneficor.bsky.social/post/3mzvzw5a2hk2y",
       "createdAt": "2026-11-09T23:03:28.376000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.329661651574809,
+      "relevanceScore": 0.329661651574809,
+      "suggestedRadius": 70.45,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -31,7 +96,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Fundação Cobra Coral merece desconfiança mesmo, porque prometer o que não cumpre é fácil e a frase de Roraima traduz bem esse ceticismo de quem já viu promessa demais.",
+          "text": "A descrença faz sentido: a Fundação Cobra Coral ainda não mostrou nada concreto que justifique confiança, então exigir um sinal impossível como chuva em Roraima é uma forma honesta de dizer que a credibilidade não vem de graça.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -39,78 +104,20 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa comparação com chuva em Roraima é exagero e desmerece o trabalho da Fundação Cobra Coral, que existe para uma causa séria e não merece ser tratada como piada de internet.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O comentário sobre o alcance pequeno do feitiço mostra que a discussão virou brincadeira, e a frase original funciona mais como humor do que como crítica real à Fundação Cobra Coral.",
+          "text": "Essa piada toda é exagero: comparar a Fundação Cobra Coral a um feitiço de range pequeno só serve para ridicularizar sem discutir o que ela realmente faz, e quem repete a frase nem sabe direito o que está criticando.",
           "source": "sintese",
           "evidence": [
             1
           ],
           "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzm4da66lk2l",
-      "rank": 2,
-      "title": "Havan inaugura megaloja de número 200 em Roraima",
-      "label": "Havan · 200ª loja em Roraima",
-      "context": "A Havan inaugura em Roraima sua megaloja de número 200, após abrir duas unidades no Sul na semana anterior. A expansão ocorre em meio a questionamentos sobre a presença da rede no exterior e a contradição com declarações anteriores do dono sobre deixar o Brasil.",
-      "source": "bluesky",
-      "subreddit": "bsky_rr",
-      "permalink": "https://bsky.app/profile/vanemtranse.bsky.social/post/3mzm4da66lk2l",
-      "createdAt": "2026-11-06T00:20:03.580000+00:00",
-      "rawScore": 0.4138311017645074,
-      "relevanceScore": 0.43673814972867586,
-      "suggestedRadius": 75.65,
-      "imageUrl": "assets/images/bsky_3mzm4da66lk2l_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzm4da66lk2l_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rr",
-      "sources": [
-        {
-          "title": "Notícia de hoje: megaloja da Havan, a de nº200, vai ser inaugurada em Roraima. Semana passada ele já tinha inaugurado 2 mega lojas no Sul. Tem alguma Havan no Paraguai?",
-          "url": "https://bsky.app/profile/vanemtranse.bsky.social/post/3mzm4da66lk2l",
-          "subreddit": "bsky_rr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A abertura da 200ª loja mostra que o empresário segue confiando no mercado brasileiro e gerando empregos, mesmo com toda a grita política. Se o país estivesse quebrado como alguns dizem, ele não estaria investindo em novas unidades pelo Brasil.",
-          "source": "sintese",
-          "evidence": [
-            7
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O dono da Havan ameaçou fechar tudo e sair do Brasil se o Lula ganhasse, mas agora aparece inaugurando megalojas como se nada tivesse acontecido. Essa contradição expõe um discurso que nunca foi sério e só serviu para atacar o governo.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            4
-          ],
-          "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O crescimento acelerado da rede chama atenção, mas fica a dúvida sobre como esse modelo se sustenta: são tantas lojas abertas em pouco tempo que seria importante entender a estrutura por trás dessa expansão toda.",
+          "text": "A brincadeira do feitiço de range pequeno é engraçada, mas o alcance da piada é curto também: ela funciona no Bluesky e morre ali, sem dizer nada de útil sobre a Fundação Cobra Coral ou sobre o que seria preciso para acreditar nela.",
           "source": "sintese",
           "evidence": [
-            5
+            1
           ],
           "votes": 0
         }
@@ -123,14 +130,14 @@
       "rank": 3,
       "title": "Quem abastece os aviões do garimpo ilegal na Amazônia?",
       "label": "Combustível de aviação e garimpo ilegal",
-      "context": "Uma fiscalização em Roraima revelou falhas no controle do combustível de aviação usado para abastecer os aviões do garimpo ilegal na Terra Yanomami. O caso expõe os desafios para interromper o abastecimento que sustenta a atividade garimpeira na região.",
+      "context": "Uma fiscalização em Roraima revelou falhas no controle do combustível de aviação usado para abastecer os aviões do garimpo ilegal na Terra Yanomami. O caso expõe os desafios para interromper o abastecimento dessas aeronaves e o funcionamento do garimpo na região.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/akaishiri.bsky.social/post/3mzu3rmaet227",
       "createdAt": "2026-11-09T04:31:29.080000+00:00",
-      "rawScore": 0.3673239009282994,
-      "relevanceScore": 0.3828561920612527,
-      "suggestedRadius": 73.13,
+      "rawScore": 0.20112759918096138,
+      "relevanceScore": 0.20112759918096138,
+      "suggestedRadius": 62.91,
       "imageUrl": "assets/images/bsky_3mzu3rmaet227_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzu3rmaet227_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -146,7 +153,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A fiscalização em Roraima escancarou o que todo mundo sabia: o combustível de aviação circula sem controle e abastece o garimpo ilegal na Terra Yanomami. Sem rastrear quem vende e quem compra, nenhuma operação contra o garimpo vai funcionar de verdade.",
+          "text": "A fiscalização em Roraima escancarou o que todo mundo já sabia: o combustível de aviação chega ao garimpo sem controle. Mostrar essas falhas é o primeiro passo para cortar o abastecimento e sufocar a logística do garimpo ilegal na Terra Yanomami.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -154,17 +161,15 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Enquanto a fiscalização só aponta falhas no papel, os amigos do Ramagem continuam abastecendo aviões e ajudando garimpeiros a fugir pela Guiana. O problema não é falta de controle, é falta de vontade de mexer com quem tem padrinho político.",
+          "text": "Enquanto a fiscalização só aponta falhas no papel, o garimpo continua abastecido e operando. Quem lucra com o combustível de aviação tem nome e endereço, mas a resposta fica no discurso. Sem punir os postos e as distribuidoras, nada muda na prática.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Rastrear o combustível de aviação é só uma parte do quebra-cabeça. Sem saber quem são os donos dos aviões e para onde eles voam, a fiscalização em Roraima fica travada na superfície e o garimpo na Terra Yanomami continua abastecido por outras rotas.",
+          "text": "O controle do combustível de aviação é só uma parte do problema. Sem rastrear quem vende, quem transporta e quem financia o garimpo, a fiscalização em Roraima vira medida isolada. A pergunta do título é boa, mas a resposta exige cadeia inteira, não só o posto.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -178,16 +183,16 @@
       "rank": 4,
       "title": "Vou molhar as plantas da minha mãe antes de entrar na floresta de Roraima",
       "label": "Plantas e floresta de Roraima",
-      "context": "Uma pessoa publicou que vai molhar as plantas da mãe antes de entrar na floresta de Roraima e pediu sorte aos seguidores. O post viralizou e gerou comentários sobre critérios geográficos, como a definição do que é montanha.",
+      "context": "Uma pessoa publicou que vai molhar as plantas da mãe e pediu sorte antes de entrar na floresta de Roraima. O post gerou comentários sobre critérios geográficos, como a definição de montanha e se o Monte Roraima se encaixa nela.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/leveneficor.bsky.social/post/3mzssqdumoc27",
       "createdAt": "2026-11-08T16:16:58.073000+00:00",
-      "rawScore": 0.07657622196473521,
-      "relevanceScore": 0.16186120250530828,
-      "suggestedRadius": 60.14,
-      "imageUrl": "assets/images/bsky_3mzssqdumoc27_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzssqdumoc27_uns_thumb.jpg",
+      "rawScore": 0.03651764064292201,
+      "relevanceScore": 0.13651764064292202,
+      "suggestedRadius": 58.17,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-rr",
       "sources": [
@@ -206,7 +211,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Achei divertido e corajoso compartilhar esse momento de cuidar das plantas antes de uma aventura na floresta. Mostra carinho com a mãe e espírito aventureiro, e o pedido de sorte deixa tudo mais leve e humano.",
+          "text": "A brincadeira de molhar as plantas antes de encarar a floresta é um jeito leve de falar do dia a dia na região. Quem mora perto da natureza sabe que essas tarefas simples fazem parte da rotina e merecem bom humor.",
           "source": "sintese",
           "evidence": [
             1
@@ -216,15 +221,17 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Critérios geográficos como altura mínima de 300m e topo aguçado são arbitrários e ignoram a diversidade de formações. Monte Roraima pode não se encaixar, mas isso não deveria definir o que é montanha de forma tão rígida.",
+          "text": "Ficar discutindo se o Monte Roraima é montanha ou não com critérios tão específicos parece perda de tempo. O que importa é a beleza e a importância do lugar, não se ele se encaixa em definições geográficas rígidas.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Fico na dúvida se esses critérios são universais ou se cada país adota definições próprias. Sem uma padronização global, a classificação de montanha varia conforme o instituto, o que torna o debate inconclusivo.",
+          "text": "A dúvida sobre a unificação dos critérios geográficos entre países é pertinente. Cada instituto pode adotar definições diferentes, e isso mostra que a classificação de formas de relevo não é consenso global.",
           "source": "sintese",
           "evidence": [
             1
@@ -236,53 +243,20 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzpnaq67js2t",
-      "rank": 5,
-      "title": "#boralula @lulaoficialbluesky.bsky.social Mª LUCIA FATORELLI PARA MINISTÉRIO DA ECONOMIA JÁ. #acre #alagoas #amapa #amazonas #bahia #ceara #distritofederal #es #goias #maranhao #mt #ms #minasgerais #para #paraiba #parana #pb #piaui #riodejaneiro #rn #rs #rondonia #roraima #sc #sp #sergipe #to",
-      "label": "",
-      "context": "",
-      "source": "bluesky",
-      "subreddit": "bsky_rr",
-      "permalink": "https://bsky.app/profile/dongo-ducongo.bsky.social/post/3mzpnaq67js2t",
-      "createdAt": "2026-11-07T10:00:46.878000+00:00",
-      "rawScore": 0.033122095427851474,
-      "relevanceScore": 0.1115164523497079,
-      "suggestedRadius": 56.04,
-      "imageUrl": null,
-      "imageThumbUrl": "",
-      "category": "economia",
-      "region": "br-rr",
-      "sources": [
-        {
-          "title": "#boralula @lulaoficialbluesky.bsky.social Mª LUCIA FATORELLI PARA MINISTÉRIO DA ECONOMIA JÁ. #acre #alagoas #amapa #amazonas #bahia #ceara #distritofederal #es #goias #maranhao #mt #ms #minasgerais #para #paraiba #parana #pb #piaui #riodejaneiro #rn #rs #rondonia #roraima #sc #sp #sergipe #to",
-          "url": "https://bsky.app/profile/dongo-ducongo.bsky.social/post/3mzpnaq67js2t",
-          "subreddit": "bsky_rr"
-        },
-        {
-          "title": "roraima flipped. mato grosso do sul flipped. GOIAS flipped",
-          "url": "https://bsky.app/profile/microplasticos.gripe/post/3mzkwtbemhs2v",
-          "subreddit": "bsky_rr"
-        }
-      ],
-      "opinions": [],
-      "enrichedBy": "",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3mzhflid73s2h",
-      "rank": 6,
+      "rank": 5,
       "title": "Elegeram um senador do PT em Roraima",
       "label": "Senador do PT eleito em Roraima",
-      "context": "Um post no Bluesky afirma que um senador do PT foi eleito em Roraima. A informação gerou surpresa e comentários sobre a composição do Senado.",
+      "context": "Um senador do PT foi eleito em Roraima, conforme post publicado no Bluesky em 4 de novembro de 2026. O resultado surpreende por ocorrer em um estado onde o partido tem pouca tradição eleitoral.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/tiavelha.bsky.social/post/3mzhflid73s2h",
       "createdAt": "2026-11-04T03:22:19.177000+00:00",
-      "rawScore": 0.11216085997653516,
-      "relevanceScore": 0.08723134421726143,
-      "suggestedRadius": 53.72,
-      "imageUrl": "assets/images/bsky_3mzhflid73s2h_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzhflid73s2h_wiki_thumb.jpg",
+      "rawScore": 0.08733351875334432,
+      "relevanceScore": 0.08733351875334432,
+      "suggestedRadius": 53.73,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-rr",
       "sources": [
@@ -296,7 +270,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A eleição de um senador do PT em Roraima mostra que o eleitorado do estado quis mudar e dar voz a uma força política diferente, mesmo em uma região onde o partido não tem tradição. Isso é democracia funcionando.",
+          "text": "A eleição de um senador do PT em Roraima mostra que o eleitorado do estado quis mudar e deu uma chance a uma proposta diferente. É um sinal de que a população está aberta a alternativas, mesmo em regiões onde o partido nunca teve força.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -304,7 +278,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Roraima eleger um senador do PT é um sinal de que o eleitor foi enganado ou votou sem pensar, porque o partido tem pouca identificação com as demandas locais e pode não representar os interesses do estado no Senado.",
+          "text": "Um senador do PT eleito em Roraima é um resultado que não combina com a história do estado e pode não representar a maioria da população. Fica a dúvida se esse voto reflete realmente o que os roraimenses querem ou se foi um acidente de percurso.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -312,7 +286,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A dúvida é se a informação procede, já que o comentário pede confirmação no Senado. Antes de comemorar ou criticar, seria bom checar a fonte oficial para saber se realmente houve essa eleição e quem é o senador.",
+          "text": "A informação de que elegeram um senador do PT em Roraima ainda precisa ser confirmada, porque o comentário pede o link do Senado e não encontra. Antes de tirar qualquer conclusão, é preciso checar se o resultado é oficial e se o cargo está correto.",
           "source": "sintese",
           "evidence": [
             1
@@ -325,17 +299,17 @@
     },
     {
       "id": "bsky_3mzqvgjpbvk2w",
-      "rank": 7,
-      "title": "Amigo, em Roraima está chegando a 45°C… linha do equador, né…",
-      "label": "Calor extremo em Roraima · 45°C",
-      "context": "Um post no Bluesky relata que a temperatura em Roraima está chegando a 45°C, atribuindo o calor à localização do estado na linha do equador. A menção destaca a intensidade do calor em uma região tropical, mas não há dados oficiais ou comentários que confirmem a medição.",
+      "rank": 6,
+      "title": "Amigo. Em Roraima tá chegando em 45°… linha do equador né…",
+      "label": "Calor de 45° em Roraima",
+      "context": "Uma publicação no Bluesky afirma que a temperatura em Roraima está chegando a 45°C, mencionando a localização do estado na linha do equador. O comentário relaciona o calor intenso à posição geográfica do estado, que fica próximo à linha do equador.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/baronsolucena.bsky.social/post/3mzqvgjpbvk2w",
       "createdAt": "2026-11-07T21:59:51.578000+00:00",
-      "rawScore": 0.06105782891320723,
-      "relevanceScore": 0.02802478465396264,
-      "suggestedRadius": 46.04,
+      "rawScore": 0.03485776784920185,
+      "relevanceScore": 0.03485776784920185,
+      "suggestedRadius": 47.2,
       "imageUrl": "assets/images/bsky_3mzqvgjpbvk2w_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzqvgjpbvk2w_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -351,7 +325,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Roraima fica na linha do equador, então esse calor de 45°C é esperado e faz parte do clima local. Quem mora na região já sabe que essa época do ano é assim, e não tem como fugir muito disso.",
+          "text": "Roraima fica praticamente em cima da linha do equador, então esse calor de 45° é esperado para a região. Quem mora lá já sabe que essa época do ano é assim mesmo, e a localização geográfica explica bem a temperatura alta.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -359,7 +333,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "45°C não é normal nem para quem mora na linha do equador. O calor está cada vez mais intenso e isso prejudica a saúde e o dia a dia da população, que precisa de políticas públicas para lidar com ondas de calor extremo.",
+          "text": "Chegar a 45° em Roraima não é só questão de linha do equador, é calor extremo que prejudica a saúde e o trabalho de quem vive lá. A gente precisa falar de adaptação e infraestrutura para enfrentar essas temperaturas, não só justificar com a geografia.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -367,7 +341,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A temperatura de 45°C em Roraima precisa ser confirmada por dados oficiais, porque a sensação térmica pode ser diferente da medição real. O clima equatorial explica o calor, mas é bom verificar se esse número é preciso.",
+          "text": "A linha do equador explica parte do calor, mas 45° é um número que precisa de confirmação de fonte oficial. Vale verificar se essa temperatura foi medida em estação meteorológica e em qual horário, antes de tratar como recorde ou tendência.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -377,26 +351,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzh53kvq7k2l",
-      "rank": 8,
-      "title": "Sócio oculto do Banco Master: nome pode ser obtido com IA, diz usuário",
-      "label": "Sócio oculto do Banco Master · Nome e IA",
-      "context": "Um usuário do Bluesky afirmou que não quer responder processo em Roraima e sugeriu perguntar a qualquer IA o nome do sócio oculto do Banco Master. A declaração ocorre em meio a discussões sobre a existência de um sócio oculto na instituição financeira.",
+      "id": "bsky_3mzkwtbemhs2v",
+      "rank": 7,
+      "title": "Roraima virou, Mato Grosso do Sul virou, Goiás virou",
+      "label": "Virada eleitoral em Roraima, MS e Goiás",
+      "context": "Uma postagem no Bluesky afirma que Roraima, Mato Grosso do Sul e Goiás viraram, indicando mudança de resultado eleitoral nesses estados. A publicação circula como registro de virada em três unidades da federação, sem detalhar cargos ou números.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
-      "permalink": "https://bsky.app/profile/elonmuskeh1corno.bsky.social/post/3mzh53kvq7k2l",
-      "createdAt": "2026-11-04T00:50:14.986000+00:00",
-      "rawScore": 0.036868761835540095,
+      "permalink": "https://bsky.app/profile/microplasticos.gripe/post/3mzkwtbemhs2v",
+      "createdAt": "2026-11-05T13:08:52.275000+00:00",
+      "rawScore": 0.0,
       "relevanceScore": 0.0,
       "suggestedRadius": 36.0,
-      "imageUrl": "assets/images/bsky_3mzh53kvq7k2l_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzh53kvq7k2l_uns_thumb.jpg",
+      "imageUrl": "assets/images/bsky_3mzkwtbemhs2v_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzkwtbemhs2v_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-rr",
       "sources": [
         {
-          "title": "Eu não quero responder processo em Roraima. Quer saber o nome do sócio oculto do Banco Master pergunta pra qualquer IA que ela te diz.",
-          "url": "https://bsky.app/profile/elonmuskeh1corno.bsky.social/post/3mzh53kvq7k2l",
+          "title": "roraima flipped. mato grosso do sul flipped. GOIAS flipped",
+          "url": "https://bsky.app/profile/microplasticos.gripe/post/3mzkwtbemhs2v",
           "subreddit": "bsky_rr"
         }
       ],
@@ -404,32 +378,25 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A IA pode ajudar a revelar o nome do sócio oculto do Banco Master, já que jornalistas não falam por medo de assédio judicial. Se a informação está disponível, é justo usar ferramentas de busca para trazer transparência.",
+          "text": "A virada em Roraima, Mato Grosso do Sul e Goiás mostra que o eleitorado desses estados mudou de posição e isso precisa ser reconhecido como um resultado concreto das urnas, não como acidente.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Confiar em IA para apontar o sócio oculto do Banco Master é arriscado, pois esses sistemas podem errar ou inventar respostas. O caminho correto é a investigação oficial, como a CPI, que já ouviu depoente sobre o assunto.",
+          "text": "Falar em virada em três estados ao mesmo tempo soa mais como torcida do que como apuração: sem números, sem cargos e sem fonte, o post não passa de uma frase solta que não sustenta nada.",
           "source": "sintese",
-          "evidence": [
-            3
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A informação sobre o sócio oculto do Banco Master já circula em depoimentos e notícias, como o depoente que chamou Vorcaro de pau-mandado. Perguntar à IA pode ser um atalho, mas o ideal é checar as fontes originais.",
+          "text": "Roraima, Mato Grosso do Sul e Goiás podem ter virado, mas o post não diz em qual disputa nem com qual placar, então o dado fica incompleto e difícil de checar antes de tirar qualquer conclusão.",
           "source": "sintese",
-          "evidence": [
-            1,
-            3
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],

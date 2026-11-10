@@ -1,29 +1,82 @@
 {
-  "generatedAt": "2026-11-10T06:39:44.986513+00:00",
+  "generatedAt": "2026-11-10T19:34:54.737566+00:00",
   "region": "br-pb",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3mzwfi7qbys22",
+      "id": "bsky_3mzy3rzhdjc2h",
       "rank": 1,
-      "title": "Leitor elogia HQ João Pé de Feijão após o FIQ",
-      "label": "HQ João Pé de Feijão · Retrato do autismo",
-      "context": "Após o Festival Internacional de Quadrinhos (FIQ), um leitor publicou no Bluesky elogios à HQ João Pé de Feijão, de autoria de Inglee. A obra é descrita como tendo projeto gráfico cuidadoso e uma abordagem afetuosa, sem pieguice, sobre conviver com uma pessoa autista.",
+      "title": "Homens armados incendeiam 12 barracos e ameaçam 40 famílias, denuncia movimento",
+      "label": "Incêndio criminoso atinge 40 famílias",
+      "context": "Homens armados incendiaram 12 barracos e fizeram disparos, segundo denúncia do movimento, que cobra proteção para cerca de 40 famílias. O episódio expõe a vulnerabilidade das famílias atingidas e a pressão por resposta das autoridades.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/shinjoao.bsky.social/post/3mzwfi7qbys22",
-      "createdAt": "2026-11-10T02:30:26.079000+00:00",
+      "permalink": "https://bsky.app/profile/alma-preta.bsky.social/post/3mzy3rzhdjc2h",
+      "createdAt": "2026-11-10T18:42:18.687000+00:00",
       "rawScore": 0.9,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3mzwfi7qbys22_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzwfi7qbys22_reddit_thumb.jpg",
+      "imageUrl": "assets/images/bsky_3mzy3rzhdjc2h_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzy3rzhdjc2h_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
         {
-          "title": "Voltei lendo alguns espolios de guerra do FIQ e olha: João Pé de Feijão da @inglee.bsky.social . Puta merda, que quentinho no coração que deu durante a viagem toda a leitura dessa hq. Um projeto gráfico primoroso e uma abordagem muito carinhosa e sem pieguice sobre conviver com uma pessoa autisma.♡",
-          "url": "https://bsky.app/profile/shinjoao.bsky.social/post/3mzwfi7qbys22",
+          "title": "Homens armados incendiaram 12 barracos e fizeram disparos; movimento denuncia ameaças e cobra proteção para cerca de 40 famílias almapreta.com.br/sessao/cotid...",
+          "url": "https://bsky.app/profile/alma-preta.bsky.social/post/3mzy3rzhdjc2h",
+          "subreddit": "bsky_pb"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A denúncia do movimento é essencial para dar visibilidade ao ataque e pressionar as autoridades a agir. Sem essa cobrança pública, as 40 famílias ficariam desamparadas e o caso seria esquecido.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Ataques como esse mostram a falha do poder público em garantir segurança e proteção às famílias. Incendiar barracos e ameaçar pessoas é crime e não pode ficar impune; é preciso responsabilizar os autores e prevenir novas ações.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A cobertura do caso ainda é limitada a uma única fonte, o que dificulta uma compreensão mais ampla dos fatos. Seria importante que mais veículos investigassem o ocorrido para confirmar detalhes e contextualizar as ameaças.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzxdtrydxs22",
+      "rank": 2,
+      "title": "Casos de COVID sobem e vacinação é restrita a grupos de risco em algumas cidades",
+      "label": "Vacinação contra COVID · Acesso restrito e aumento de casos",
+      "context": "Posts no Bluesky relatam aumento de casos e internações de COVID-19 e apontam que em cidades como João Pessoa a vacinação está restrita a grupos de risco. A discussão gira em torno da dificuldade de acesso à dose mais recente e das acusações de negacionismo contra quem não se vacinou.",
+      "source": "bluesky",
+      "subreddit": "bsky_pb",
+      "permalink": "https://bsky.app/profile/thaiskisuki.bsky.social/post/3mzxdtrydxs22",
+      "createdAt": "2026-11-10T11:33:45.574000+00:00",
+      "rawScore": 0.4177035895606126,
+      "relevanceScore": 0.8621192339715482,
+      "suggestedRadius": 91.71,
+      "imageUrl": "assets/images/bsky_3mzxdtrydxs22_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzxdtrydxs22_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pb",
+      "sources": [
+        {
+          "title": "Casos e internações de COVID aumentando e a galera chamando os outros de negacionista pq não tão se vacinando, sendo que em muitas cidades (tipo João Pessoa) não dá pra tomar se vc não for grupo de risco. Nem a versão mais recente consegui tomar pq adoeci na época e perdi a campanha.",
+          "url": "https://bsky.app/profile/thaiskisuki.bsky.social/post/3mzxdtrydxs22",
           "subreddit": "bsky_pb"
         },
         {
@@ -32,8 +85,8 @@
           "subreddit": "bsky_pb"
         },
         {
-          "title": "indo ali em joão pessoa, alguém precisa de algo?",
-          "url": "https://bsky.app/profile/carolramos.bsky.social/post/3mzvy72fgss2x",
+          "title": "Voltei lendo alguns espolios de guerra do FIQ e olha: João Pé de Feijão da @inglee.bsky.social . Puta merda, que quentinho no coração que deu durante a viagem toda a leitura dessa hq. Um projeto gráfico primoroso e uma abordagem muito carinhosa e sem pieguice sobre conviver com uma pessoa autisma.♡",
+          "url": "https://bsky.app/profile/shinjoao.bsky.social/post/3mzwfi7qbys22",
           "subreddit": "bsky_pb"
         }
       ],
@@ -41,29 +94,30 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A HQ acerta ao tratar a convivência com uma pessoa autista de forma carinhosa e sem pieguice, e o projeto gráfico primoroso mostra o cuidado da autora. É o tipo de leitura que aquece o coração e merece ser divulgada.",
+          "text": "Quem já tomou as doses anteriores tem alguma imunidade e não precisa entrar em pânico com o aumento de casos. O foco agora deve ser proteger os grupos de risco, e não cobrar vacinação de todo mundo como se estivéssemos no início da pandemia.",
           "source": "sintese",
           "evidence": [
-            4
+            3
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Elogiar o projeto gráfico e o tom afetuoso não basta: o que importa é se a obra realmente representa a experiência autista com honestidade, e não apenas o olhar de quem convive de fora.",
+          "text": "Chamar de negacionista quem não tomou a dose mais recente é injusto quando muitas cidades só liberam a vacina para grupos de risco. A falta de estoque e a burocracia para conseguir a dose atrapalham quem quer se vacinar, e a culpa não é da população.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1,
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A leitura parece ter sido marcante para quem comentou, mas o alcance da obra ainda depende de divulgação e do boca a boca. Vale ver como o público autista recebe a abordagem antes de tratá-la como referência.",
+          "text": "A situação é complexa: ao mesmo tempo em que a vacinação é restrita em alguns lugares, há pessoas que perderam a campanha por terem adoecido na época. O ideal seria ampliar o acesso e esclarecer quem pode se vacinar, sem acusações precipitadas.",
           "source": "sintese",
-          "evidence": [
-            9
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -71,23 +125,33 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzuvxotuok2b",
-      "rank": 2,
-      "title": "Nove barracos do Acampamento Marilene Dantas são incendiados na Paraíba",
-      "label": "Incêndio criminoso em acampamento na Paraíba",
-      "context": "Na madrugada de 8 de novembro, nove barracos do Acampamento Marilene Dantas, na Paraíba, foram incendiados e completamente destruídos em um ataque criminoso com disparos de arma de fogo. O episódio deixou famílias sem moradia e expôs a vulnerabilidade de comunidades rurais diante de ações violentas.",
+      "id": "bsky_3mzxcauydc22h",
+      "rank": 3,
+      "title": "Ataque incendeia nove barracos de acampamento do MST na Paraíba",
+      "label": "Incêndio criminoso em acampamento do MST",
+      "context": "Na madrugada de 8 de novembro, nove barracos do Acampamento Marilene Dantas, ligado ao MST, foram incendiados e destruídos em um ataque com disparos de arma de fogo, na Paraíba. O acampamento abriga 40 famílias e fica às margens da BR-101, entre Alhandra e Pedras de Fogo.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/taniapac.bsky.social/post/3mzuvxotuok2b",
-      "createdAt": "2026-11-09T12:20:08.380000+00:00",
-      "rawScore": 0.3510185518531042,
-      "relevanceScore": 0.2672411767126731,
-      "suggestedRadius": 67.02,
-      "imageUrl": "assets/images/bsky_3mzuvxotuok2b_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzuvxotuok2b_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/taniapac.bsky.social/post/3mzxcauydc22h",
+      "createdAt": "2026-11-10T11:05:22.178000+00:00",
+      "rawScore": 0.2649153440171605,
+      "relevanceScore": 0.46920606328534903,
+      "suggestedRadius": 77.1,
+      "imageUrl": "assets/images/bsky_3mzxcauydc22h_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzxcauydc22h_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
+        {
+          "title": "“Foi uma madrugada de terror. As famílias, as crianças e os idosos correram e se esconderam dentro da mata. Felizmente ninguém se feriu, mas ficou a violência psicológica nessas famílias”, afirma Eva Vilma Alves, da coordenação nacional do MST na Paraíba.",
+          "url": "https://bsky.app/profile/taniapac.bsky.social/post/3mzxcauydc22h",
+          "subreddit": "bsky_pb"
+        },
+        {
+          "title": "Nove barracos foram completamente destruídos durante um ataque a tiros seguido de incêndios contra o acampamento, ligado ao(MST), na madrugada de domingo (8), na Paraíba. A comunidade, situada às margens da BR-101, entre os municípios de Alhandra e Pedras de Fogo, abriga 40 famílias...",
+          "url": "https://bsky.app/profile/renildoborges.bsky.social/post/3mzvey3rdrk2j",
+          "subreddit": "bsky_pb"
+        },
         {
           "title": "\"Na madrugada de 8 de novembro, nove barracos do Acampamento Marilene Dantas, na Paraíba, foram incendiados e completamente destruídos em um ataque criminoso marcado por disparos de arma de fogo.\"",
           "url": "https://bsky.app/profile/taniapac.bsky.social/post/3mzuvxotuok2b",
@@ -98,23 +162,27 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A resposta das autoridades precisa ser imediata e exemplar: identificar e punir os responsáveis pelo incêndio e pelos disparos, além de garantir abrigo e assistência às famílias que perderam tudo. Sem isso, o crime compensa e outras comunidades ficam expostas.",
+          "text": "O MST precisa se armar para se defender de bandidos ligados ao agronegócio, que atacam acampamentos como esse impunemente. Se reagir, a mídia vai chamar de terrorismo, mas as famílias não podem ficar indefesas diante de tiros e incêndios.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O poder público falhou feio ao permitir que um acampamento inteiro fosse destruído sem qualquer proteção. Nove barracos queimados e ninguém preso mostra que a segurança no campo é só discurso; falta presença do Estado e política fundiária séria.",
+          "text": "Ataques como esse mostram que a impunidade é o problema central: é preciso cadeia pesada para todos os envolvidos no incêndio e nos disparos. Sem punição exemplar, a violência contra acampamentos vai continuar.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Antes de apontar culpados, é preciso apurar as circunstâncias do ataque e ouvir as famílias atingidas. O foco deve ser reconstruir os barracos e evitar novos episódios, mas sem transformar a tragédia em palanque político.",
+          "text": "O ataque deixou famílias, crianças e idosos em pânico, correndo para a mata no meio da madrugada. Mesmo sem feridos físicos, a violência psicológica nessas famílias é um dano real que precisa ser levado em conta.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -124,26 +192,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzri57levc2t",
-      "rank": 3,
-      "title": "Mesmo sem produzir e indo para São Paulo, Dave Nadave ainda é o maior da Paraíba no meu coração",
-      "label": "Dave Nadave · Maior da Paraíba",
-      "context": "O usuário @davenadave.bsky.social foi elogiado em um post no Bluesky como 'o maior da Paraíba no meu coração', mesmo sem produzir conteúdo e estando em São Paulo. A publicação gerou comentários de pessoas que o conheceram pessoalmente e destacaram o encontro e o doce de leite Viçosa.",
+      "id": "bsky_3mzxibgp5zc2b",
+      "rank": 4,
+      "title": "A cor da turmalina Paraíba é a mais perfeita",
+      "label": "Turmalina Paraíba · Cor e beleza",
+      "context": "Um post no Bluesky afirmou que a cor da turmalina Paraíba é a mais perfeita, destacando os tons azul e verde da gema. A publicação recebeu concordância imediata nos comentários, tratando a pedra como referência de beleza entre as gemas.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/tavosmm.bsky.social/post/3mzri57levc2t",
-      "createdAt": "2026-11-08T03:34:56.578000+00:00",
-      "rawScore": 0.17807752416888076,
-      "relevanceScore": 0.12759690314793712,
-      "suggestedRadius": 57.43,
-      "imageUrl": "assets/images/bsky_3mzri57levc2t_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzri57levc2t_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/elfadafloresta.bsky.social/post/3mzxibgp5zc2b",
+      "createdAt": "2026-11-10T12:52:58.874000+00:00",
+      "rawScore": 0.20311387218864055,
+      "relevanceScore": 0.22385243401806063,
+      "suggestedRadius": 64.39,
+      "imageUrl": "assets/images/bsky_3mzxibgp5zc2b_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzxibgp5zc2b_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
         {
-          "title": "mesmo sem produzir e indo pra sao paulo o @davenadave.bsky.social ainda é o maior da paraiba no meu coração",
-          "url": "https://bsky.app/profile/tavosmm.bsky.social/post/3mzri57levc2t",
+          "title": "A cor da turmalina Paraíba é a mais perfeita 🩵💚",
+          "url": "https://bsky.app/profile/elfadafloresta.bsky.social/post/3mzxibgp5zc2b",
           "subreddit": "bsky_pb"
         }
       ],
@@ -151,17 +219,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Dave continua sendo uma referência afetiva para a Paraíba, mesmo de longe. Conhecer ele pessoalmente foi massa demais, e o doce de leite Viçosa só confirmou o patrimônio que ele é.",
+          "text": "A turmalina Paraíba tem mesmo a combinação de azul e verde mais bonita que existe entre as gemas. Quem já viu de perto sabe que nenhuma outra pedra chega perto desse tom, e o post está certíssimo em dizer que essa cor é a mais perfeita.",
           "source": "sintese",
           "evidence": [
-            2
+            1
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O título de 'maior da Paraíba' não se sustenta se ele não produz mais e está em São Paulo. O carinho é válido, mas o posto de maior exige presença e conteúdo, não só memória afetiva.",
+          "text": "Chamar a turmalina Paraíba de cor mais perfeita é exagero, porque gosto por cor de gema é subjetivo e outras pedras têm tons igualmente marcantes. Eleger uma única gema como a mais bonita de todas ignora a variedade de cores que existem no mundo das gemas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -169,11 +237,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A história do Dave é curiosa: tem gente que o acompanha desde 2011 e nem sabia que era ele pessoalmente. O reconhecimento vem mais das conexões criadas do que da produção atual.",
+          "text": "A cor da turmalina Paraíba é linda, mas o que pesa mesmo é ver a pedra ao natural, com boa luz, porque foto e tela mudam bastante o tom. Antes de cravar qual gema tem a cor mais perfeita, vale comparar de perto em vez de decidir só pelo post.",
           "source": "sintese",
-          "evidence": [
-            5
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -182,17 +248,17 @@
     },
     {
       "id": "bsky_3mzqd3mah5k2l",
-      "rank": 4,
+      "rank": 5,
       "title": "Memórias de família entre São Paulo, Guaratinguetá e Rio nos anos 90",
-      "label": "Memórias de família · Anos 90",
-      "context": "Uma pessoa conta no Bluesky memórias de quando era pré-adolescente em São Paulo, em 1995 ou 1996, com a família paterna dividida entre Guaratinguetá e o Rio. O relato virou uma thread com outras pessoas compartilhando histórias de migração e parentes que se mudaram entre essas regiões.",
+      "label": "Memórias familiares · Anos 90",
+      "context": "Uma pessoa conta no Bluesky memórias de meados dos anos 90, quando era pré-adolescente e morava com os pais em São Paulo, enquanto a família paterna vivia entre Guaratinguetá e o Rio. O relato virou uma thread com outras pessoas compartilhando histórias de mudanças e imigração na própria família.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/miscellaneous.bsky.social/post/3mzqd3mah5k2l",
       "createdAt": "2026-11-07T16:31:43.781000+00:00",
-      "rawScore": 0.17231251545942639,
-      "relevanceScore": 0.12294184550137278,
-      "suggestedRadius": 57.04,
+      "rawScore": 0.0707107105935806,
+      "relevanceScore": 0.07639019090660566,
+      "suggestedRadius": 52.58,
       "imageUrl": "assets/images/bsky_3mzqd3mah5k2l_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzqd3mah5k2l_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -208,18 +274,18 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Histórias assim mostram como as famílias brasileiras se espalham pelo país e mantêm laços entre São Paulo, o Vale do Paraíba e o Rio. O detalhe da avó com ascendência inglesa e o tio casado com uma russa enriquece o relato e faz a gente querer contar as nossas próprias memórias.",
+          "text": "Fios de memória assim são ótimos porque mostram como as famílias brasileiras se formaram de mudanças e imigrações, como os tios-avós ingleses e a russa que vieram para o Brasil. Compartilhar essas histórias ajuda a entender de onde viemos.",
           "source": "sintese",
           "evidence": [
-            1,
-            2
+            2,
+            3
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Fios de memória pessoal rendem pouco quando viram só uma lista de parentes e cidades, sem um ponto ou uma reflexão que conecte as histórias. O comentário pedindo opinião depois da leitura mostra que o texto ainda não entregou o que prometia.",
+          "text": "O relato se perde em detalhes de parentesco e nomes de cidades sem chegar a uma história de verdade, e ainda pede opinião antes de terminar. Fica difícil acompanhar e se envolver com um fio que parece mais um diário solto do que uma narrativa.",
           "source": "sintese",
           "evidence": [
             4
@@ -229,12 +295,71 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O valor dessas threads está na troca: cada pessoa que responde traz a própria história de migração familiar, como o pai carioca que se mudou para São Paulo ou os tios que foram para perto de Aparecida. O fio funciona mais como um espaço de memória coletiva do que como um relato fechado.",
+          "text": "Histórias de família como essa dependem de quem lê se identificar com mudanças e imigrações parecidas. Para quem tem parentes que vieram de outros países ou cidades, o fio prende; para quem não, vira só um relato pessoal sem gancho.",
           "source": "sintese",
           "evidence": [
-            1,
-            2,
-            3
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzri57levc2t",
+      "rank": 6,
+      "title": "Mesmo sem produzir e indo para São Paulo, Dave Nadave ainda é o maior da Paraíba",
+      "label": "Dave Nadave · Maior da Paraíba",
+      "context": "O usuário Dave Nadave foi elogiado em post no Bluesky como 'o maior da Paraíba', mesmo sem produzir conteúdo e estando em São Paulo. A publicação gerou comentários de pessoas que o conheceram pessoalmente e destacaram o encontro e o doce de leite Viçosa.",
+      "source": "bluesky",
+      "subreddit": "bsky_pb",
+      "permalink": "https://bsky.app/profile/tavosmm.bsky.social/post/3mzri57levc2t",
+      "createdAt": "2026-11-08T03:34:56.578000+00:00",
+      "rawScore": 0.0705781969879196,
+      "relevanceScore": 0.07624260565789899,
+      "suggestedRadius": 52.57,
+      "imageUrl": "assets/images/bsky_3mzri57levc2t_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzri57levc2t_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pb",
+      "sources": [
+        {
+          "title": "mesmo sem produzir e indo pra sao paulo o @davenadave.bsky.social ainda é o maior da paraiba no meu coração",
+          "url": "https://bsky.app/profile/tavosmm.bsky.social/post/3mzri57levc2t",
+          "subreddit": "bsky_pb"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Dave Nadave continua sendo o maior da Paraíba mesmo sem produzir e estando em São Paulo. O carinho dos fãs e os encontros pessoais, como o doce de leite Viçosa, mostram que a conexão vai além do conteúdo.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O título de 'maior da Paraíba' soa exagerado para alguém que nem está produzindo e já foi para São Paulo. O reconhecimento deveria vir de quem está presente e atuante, não de uma lembrança afetiva.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A história tem um lado engraçado: o 'lendário Judeu Ateu' foi visto por alguém que não sabia que era ele, e outra pessoa preferiu o karaokê a sair com o grupo. O título é mais uma brincadeira afetiva do que uma disputa real.",
+          "source": "sintese",
+          "evidence": [
+            3,
+            4,
+            5
           ],
           "votes": 0
         }
@@ -244,17 +369,17 @@
     },
     {
       "id": "bsky_3mzlshhn5l22f",
-      "rank": 5,
+      "rank": 7,
       "title": "Cartaz para o evento Insônia Sônica neste sábado",
       "label": "Insônia Sônica · Festival independente",
-      "context": "Um cartaz foi divulgado para o evento Insônia Sônica, marcado para este sábado, com mais informações disponíveis em um link do Instagram. O festival é descrito como independente e reúne um público considerado \"gente massa\".",
+      "context": "Um cartaz foi divulgado para o evento Insônia Sônica, marcado para este sábado. O festival reúne música independente e tem divulgação por redes sociais.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/137magdiel.bsky.social/post/3mzlshhn5l22f",
       "createdAt": "2026-11-05T21:23:35.385000+00:00",
-      "rawScore": 0.12885322896940146,
-      "relevanceScore": 0.0878498804956918,
-      "suggestedRadius": 53.78,
+      "rawScore": 0.055456381625362344,
+      "relevanceScore": 0.0594008868770451,
+      "suggestedRadius": 50.62,
       "imageUrl": "assets/images/bsky_3mzlshhn5l22f_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzlshhn5l22f_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -270,7 +395,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Insônia Sônica é um festival de música independente que valoriza a cena local e reúne gente massa. O cartaz divulgado neste sábado mostra a força da produção cultural independente, e quem for vai encontrar um ambiente acolhedor e cheio de boas vibrações.",
+          "text": "Festival de música independente com gente massa é exatamente o tipo de evento que a cena local precisa. O cartaz divulgado ajuda a mobilizar quem curte som autoral e fortalece a cena.",
           "source": "sintese",
           "evidence": [
             2
@@ -280,7 +405,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A divulgação do Insônia Sônica só com um cartaz e um link do Instagram deixa muita gente sem saber o básico: local, horário e atrações. Para um evento que se diz independente, a comunicação precisa ser mais clara e acessível, senão o público fica perdido.",
+          "text": "Só o cartaz não diz muita coisa: falta link com programação, horário e local. Quem vê a arte solta precisa correr atrás de informação no Instagram, o que atrapalha a divulgação do evento.",
           "source": "sintese",
           "evidence": [
             1
@@ -290,7 +415,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O cartaz do Insônia Sônica cumpre o papel de chamar atenção, mas as informações essenciais estão concentradas no link do Instagram. Quem não usa a rede social pode ficar de fora, então seria útil ter os detalhes também em outros canais.",
+          "text": "O cartaz cumpre o papel de avisar, mas o evento depende do boca a boca e do link nos comentários para alcançar quem não segue a página. A divulgação funciona melhor combinada do que só com a arte.",
           "source": "sintese",
           "evidence": [
             1,
@@ -303,26 +428,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mztcqqbmls2w",
-      "rank": 6,
-      "title": "Paraibano volta para casa após evento em BH e exalta a Paraíba",
-      "label": "Volta para casa · Paraíba",
-      "context": "Um paraibano publicou que voltou para casa após participar do FIQ, em Belo Horizonte, e disse que, apesar de gostar do evento e da cidade, nada se compara ao seu lar na Paraíba. A declaração destaca o vínculo afetivo com o estado natal e o sentimento de pertencimento.",
+      "id": "bsky_3mzvda2s4ws2a",
+      "rank": 8,
+      "title": "Chuva? Na Paraíba tá um solzão",
+      "label": "Sol forte na Paraíba · Contraste com chuva",
+      "context": "Um usuário do Bluesky publicou que, enquanto se fala em chuva, na Paraíba o dia está de sol forte. A publicação contrasta a condição local com a menção à chuva, destacando a diferença de tempo na região.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/tiagoikari.bsky.social/post/3mztcqqbmls2w",
-      "createdAt": "2026-11-08T21:03:31.969000+00:00",
-      "rawScore": 0.08390950136827457,
-      "relevanceScore": 0.05155927741444689,
-      "suggestedRadius": 49.62,
-      "imageUrl": "assets/images/bsky_3mztcqqbmls2w_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztcqqbmls2w_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/leleostories.bsky.social/post/3mzvda2s4ws2a",
+      "createdAt": "2026-11-09T16:17:24.371000+00:00",
+      "rawScore": 0.02816498546750654,
+      "relevanceScore": 0.029005460917436332,
+      "suggestedRadius": 46.22,
+      "imageUrl": "assets/images/bsky_3mzvda2s4ws2a_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzvda2s4ws2a_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
         {
-          "title": "Finalmente em casa. Amo o FIQ, BH e a galera, mas nada como o nosso lar #Paraiba",
-          "url": "https://bsky.app/profile/tiagoikari.bsky.social/post/3mztcqqbmls2w",
+          "title": "chuva? não sei do que vcs tão falando aqui na paraíba tá um solzão",
+          "url": "https://bsky.app/profile/leleostories.bsky.social/post/3mzvda2s4ws2a",
           "subreddit": "bsky_pb"
         }
       ],
@@ -330,7 +455,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O relato mostra como é bom voltar para a Paraíba depois de um evento em outra cidade. A saudade de casa e o orgulho do nosso estado falam mais alto, e isso é uma coisa bonita de se ver.",
+          "text": "O solzão na Paraíba é uma realidade e mostra como o clima brasileiro é diverso. Enquanto uns falam de chuva, aqui o tempo está firme e quente, o que é ótimo para quem gosta de praia e calor.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -338,7 +463,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A publicação exagera no ufanismo e acaba desvalorizando Belo Horizonte e o próprio FIQ. Dá para elogiar a Paraíba sem precisar diminuir a experiência fora, que também foi positiva.",
+          "text": "Falar de chuva quando na Paraíba faz sol só mostra como as pessoas generalizam o tempo no Brasil. Cada região tem seu clima e é preciso parar de achar que o que acontece no Sudeste vale para todo mundo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -346,69 +471,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post é só um desabafo pessoal de quem voltou de viagem e sentiu saudade de casa. Não precisa ser lido como uma crítica a BH ou ao evento, é apenas a expressão de um sentimento comum a quem viaja.",
+          "text": "A diferença de tempo entre regiões é normal, mas o post pode ser só uma brincadeira com a fama de calor da Paraíba. Sem dados concretos, fica difícil saber se é uma crítica ou apenas um comentário leve.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mztl3rdwvc2p",
-      "rank": 7,
-      "title": "Moro na Paraíba e a distância me prejudica toda vez",
-      "label": "Dificuldade de encontrar pessoas por perto",
-      "context": "Uma pessoa que mora na Paraíba desabafou nas redes sociais sobre como a distância geográfica atrapalha sua vida. O relato gerou identificação de outros usuários que também enfrentam dificuldade para encontrar pessoas por perto.",
-      "source": "bluesky",
-      "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/goon3x.bsky.social/post/3mztl3rdwvc2p",
-      "createdAt": "2026-11-08T23:32:51.377000+00:00",
-      "rawScore": 0.07647019046033722,
-      "relevanceScore": 0.04555227501905231,
-      "suggestedRadius": 48.81,
-      "imageUrl": "assets/images/bsky_3mztl3rdwvc2p_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztl3rdwvc2p_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pb",
-      "sources": [
-        {
-          "title": "Grrrr moro na Paraíba... maldita distância que me fode toda vez...",
-          "url": "https://bsky.app/profile/goon3x.bsky.social/post/3mztl3rdwvc2p",
-          "subreddit": "bsky_pb"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Moro na Paraíba e a distância realmente complica tudo. Encontrar gente por perto é difícil, e quando aparece alguém interessante, a quilometragem vira um obstáculo. O desabafo é real e muita gente passa por isso.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A distância não é o único problema. Mesmo com gente por perto, tem quem não possa sair de casa e acaba dependendo da internet para qualquer contato. A limitação física pesa tanto quanto a geográfica.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A dificuldade de achar gente por perto é comum, mas cada um lida como pode. Uns reclamam da distância, outros tentam manter contato online. No fim, a solidão geográfica atinge de formas diferentes.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
           "votes": 0
         }
       ],
@@ -417,17 +482,17 @@
     },
     {
       "id": "bsky_3mzjhli6ajc2d",
-      "rank": 8,
+      "rank": 9,
       "title": "Ou seriam os fenícios?",
       "label": "Vídeo de divulgação científica · Teoria fenícia",
-      "context": "Um post no Bluesky compartilhou um vídeo do YouTube que levanta a hipótese de os fenícios serem os responsáveis por algo, em tom de pergunta. A publicação repercutiu entre seguidores que acompanham o trabalho do divulgador científico Henrique.",
+      "context": "Um post no Bluesky compartilhou um vídeo do YouTube que levanta a hipótese de os fenícios serem os responsáveis por algo, em tom de pergunta. A publicação gerou comentários elogiando o vídeo e o trabalho do divulgador científico Henrique.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/nsathena.bsky.social/post/3mzjhli6ajc2d",
       "createdAt": "2026-11-04T23:03:27.789000+00:00",
-      "rawScore": 0.066488146791169,
-      "relevanceScore": 0.03749209834762832,
-      "suggestedRadius": 47.62,
+      "rawScore": 0.026472247709986765,
+      "relevanceScore": 0.027120196972707133,
+      "suggestedRadius": 45.88,
       "imageUrl": "assets/images/bsky_3mzjhli6ajc2d_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzjhli6ajc2d_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -443,7 +508,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Henrique é um baita divulgador científico, e vídeos assim ajudam a levar hipóteses históricas para quem nunca teve contato com o assunto. Trazer a possibilidade dos fenícios de forma acessível é o tipo de conteúdo que vale a pena compartilhar.",
+          "text": "O Henrique é um baita divulgador científico, e vídeos assim mostram como dá pra levantar hipóteses históricas de forma acessível e interessante pra quem não é da área.",
           "source": "sintese",
           "evidence": [
             2
@@ -453,15 +518,17 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Levantar a hipótese fenícia desse jeito soa mais como especulação do que ciência. Jogar uma teoria dessas no vídeo sem base sólida só confunde quem está chegando agora no tema e não sabe separar o que é consenso do que é chute.",
+          "text": "Jogar a hipótese fenícia no ar desse jeito, sem aprofundar as evidências, soa mais como especulação chamativa do que como divulgação científica de verdade.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O vídeo em si é interessante, mas o que me chamou atenção foi topar com ele do nada hoje. Conteúdo de divulgação assim aparece sem aviso e desperta curiosidade, mesmo quando a hipótese levantada ainda carece de mais evidências para ser levada a sério.",
+          "text": "O vídeo apareceu na minha timeline e chamou atenção pela pergunta provocativa, mas ainda não sei o que ele de fato defende nem quais evidências apresenta sobre os fenícios.",
           "source": "sintese",
           "evidence": [
             1
@@ -473,79 +540,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzsydajyak2d",
-      "rank": 9,
-      "title": "Link do g1 sobre política é compartilhado com desdém",
-      "label": "Link do g1 · Reação de desdém",
-      "context": "Um usuário do Bluesky compartilhou um link do g1 com emojis de revirada de olhos, sem detalhar o conteúdo da matéria. A reação indica desconfiança ou cansaço em relação à cobertura veiculada pelo portal.",
-      "source": "bluesky",
-      "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/arlindars.bsky.social/post/3mzsydajyak2d",
-      "createdAt": "2026-11-08T17:57:03.080000+00:00",
-      "rawScore": 0.06572200213919949,
-      "relevanceScore": 0.03687346137754427,
-      "suggestedRadius": 47.52,
-      "imageUrl": "assets/images/bsky_3mzsydajyak2d_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzsydajyak2d_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pb",
-      "sources": [
-        {
-          "title": "g1.globo.com/google/amp/p... 🙄🙄🙄🙄",
-          "url": "https://bsky.app/profile/arlindars.bsky.social/post/3mzsydajyak2d",
-          "subreddit": "bsky_pb"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Compartilhar o link já cumpre o papel de expor a matéria, e os emojis mostram que o usuário não engoliu a cobertura do g1. Trazer a fonte para a conversa é melhor do que só reclamar sem mostrar do que se está falando.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Postar só o link com carinha de revirada de olhos não informa nada: quem lê não sabe o que o usuário critica na matéria do g1. Sem dizer o que está errado, a postagem vira só desabafo e não ajuda ninguém a entender o assunto.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O link do g1 sozinho não diz muito sobre o que está sendo criticado, e os emojis podem significar desde discordância com a pauta até cansaço com o noticiário. Sem o texto da matéria e sem comentários, fica difícil saber o que motivou a reação.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzsglstrq222",
+      "id": "bsky_3mztcqqbmls2w",
       "rank": 10,
-      "title": "Orquestra Sinfônica da Paraíba com Nação Zumbi dia 26 ❤️",
-      "label": "Orquestra Sinfônica da Paraíba e Nação Zumbi",
-      "context": "A Orquestra Sinfônica da Paraíba fará um show com a banda Nação Zumbi no dia 26. O encontro mistura música erudita e maracatu, ampliando o alcance das duas manifestações culturais.",
+      "title": "Finalmente em casa. Amo o FIQ, BH e a galera, mas nada como o nosso lar #Paraíba",
+      "label": "Volta para casa após FIQ em BH",
+      "context": "O autor do post comemora o retorno para casa depois de participar do FIQ, em Belo Horizonte, e afirma que, apesar de gostar do evento e da companhia, nada se compara ao seu lar na Paraíba. A publicação expressa um sentimento comum de valorização do aconchego do lar após viagens.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/ismaelgrilo.bsky.social/post/3mzsglstrq222",
-      "createdAt": "2026-11-08T12:39:40.770000+00:00",
-      "rawScore": 0.04436520181817485,
-      "relevanceScore": 0.019628537449243404,
-      "suggestedRadius": 44.41,
-      "imageUrl": "assets/images/bsky_3mzsglstrq222_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzsglstrq222_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/tiagoikari.bsky.social/post/3mztcqqbmls2w",
+      "createdAt": "2026-11-08T21:03:31.969000+00:00",
+      "rawScore": 0.024649571962758864,
+      "relevanceScore": 0.0250902163369494,
+      "suggestedRadius": 45.5,
+      "imageUrl": "assets/images/bsky_3mztcqqbmls2w_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mztcqqbmls2w_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
         {
-          "title": "Orquestra Sinfônica da Paraíba com Nação Zumbi dia 26 ❤️",
-          "url": "https://bsky.app/profile/ismaelgrilo.bsky.social/post/3mzsglstrq222",
+          "title": "Finalmente em casa. Amo o FIQ, BH e a galera, mas nada como o nosso lar #Paraiba",
+          "url": "https://bsky.app/profile/tiagoikari.bsky.social/post/3mztcqqbmls2w",
           "subreddit": "bsky_pb"
         }
       ],
@@ -553,7 +567,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A mistura da Orquestra Sinfônica da Paraíba com a Nação Zumbi é um presente para a música brasileira. Ver o maracatu dialogando com instrumentos eruditos mostra que a cultura popular pode ocupar qualquer espaço, e isso só fortalece nossa identidade.",
+          "text": "O FIQ em BH é um evento que reúne gente de todo o país, e a galera da Paraíba marca presença. Voltar para casa depois de dias intensos é uma sensação boa demais, ainda mais com o orgulho de representar nosso estado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -561,7 +575,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Colocar a Nação Zumbi ao lado de uma orquestra sinfônica pode descaracterizar a força bruta do maracatu. O risco é que a sonoridade original da banda se perca em arranjos excessivamente formais, tirando a essência que faz o grupo tão único.",
+          "text": "A saudade de casa é real, mas o FIQ e BH deixam uma vontade de ficar. A energia do evento e a galera que a gente encontra fazem valer cada minuto longe do lar, e voltar é sempre um misto de alívio e melancolia.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -569,7 +583,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O encontro entre a Orquestra Sinfônica da Paraíba e a Nação Zumbi depende muito da proposta do show. Se for uma parceria respeitosa, pode render momentos interessantes; se for apenas sobreposição de estilos, pode soar artificial. Vou esperar para ver.",
+          "text": "Cada lugar tem seu valor: o FIQ proporciona experiências e conexões, enquanto o lar traz o conforto e a paz que a gente precisa. O equilíbrio entre aproveitar os eventos e valorizar o aconchego de casa é o que faz a vida mais rica.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
