@@ -1,21 +1,82 @@
 {
-  "generatedAt": "2026-11-11T05:23:48.269760+00:00",
+  "generatedAt": "2026-11-11T19:29:26.726534+00:00",
   "region": "br-ma",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3mzxi5y2q322s",
+      "id": "bsky_3mzzpc2nl7k2f",
       "rank": 1,
-      "title": "Moradora de São Luís relata atendimento na UBS via WhatsApp",
+      "title": "Globo é acusada de fazer propaganda de que o Brasil está quebrado",
+      "label": "Globo · novela e propaganda política",
+      "context": "Um usuário do Bluesky elogiou a novela Da Cor do Pecado por ensinar sobre São Luís do Maranhão, mas acusou a Globo de ser 'facho até o extremo' e de querer fazer propaganda de que o Brasil está quebrado. A acusação sugere que a emissora teria um projeto de desinformação sobre a situação do país.",
+      "source": "bluesky",
+      "subreddit": "bsky_ma",
+      "permalink": "https://bsky.app/profile/hitaisaka.bsky.social/post/3mzzpc2nl7k2f",
+      "createdAt": "2026-11-11T10:03:20.280000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-ma",
+      "sources": [
+        {
+          "title": "Eu lembro o quanto aprendi sobre São Luís do Maranhão com a novela Da Cor Morena. A Globo sabe fazer. É só que agora eles estão facho até o extremo e querem fazer propaganda de que o Brasil está quebrado. É um projeto.",
+          "url": "https://bsky.app/profile/hitaisaka.bsky.social/post/3mzzpc2nl7k2f",
+          "subreddit": "bsky_ma"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Globo acertou em cheio com Da Cor do Pecado ao mostrar São Luís e sua cultura. A novela cumpriu um papel educativo e de valorização regional que poucas emissoras conseguem.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2,
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A Globo virou 'facho até o extremo' e usa seu alcance para propagar a ideia de que o Brasil está quebrado. Isso é um projeto político, não jornalismo ou entretenimento.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A confusão no nome da novela mostra como detalhes passam batido. O foco no suposto viés político da Globo ofusca a discussão sobre o papel das novelas na formação cultural.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2,
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzxi5y2q322s",
+      "rank": 2,
+      "title": "Moradora de São Luís relata atendimento na UBS por WhatsApp e pré-natal",
       "label": "Atendimento na UBS · Relato de São Luís",
-      "context": "Uma moradora de São Luís (MA) contou que marca consultas na UBS pelo WhatsApp com a Agente de Saúde da Família e fez pré-natal, tratamento odontológico e acompanhamento ginecológico na unidade. O relato descreve como o posto de saúde funciona no dia a dia de quem depende do atendimento público.",
+      "context": "Uma moradora de São Luís (MA) contou que marca consultas na UBS pelo WhatsApp com a Agente de Saúde da Família e fez pré-natal, tratamento odontológico e acompanhamento ginecológico na unidade. O relato descreve o funcionamento do posto de saúde no bairro do Bacanga, na periferia da capital.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/gerusasilva.bsky.social/post/3mzxi5y2q322s",
       "createdAt": "2026-11-10T12:37:23.578000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.4683998018329324,
+      "relevanceScore": 0.6315553353699248,
+      "suggestedRadius": 83.68,
       "imageUrl": "assets/images/bsky_3mzxi5y2q322s_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzxi5y2q322s_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -36,17 +97,18 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O postinho resolve: marcar consulta pelo zap com a agente de saúde e esperar no máximo 15 dias é um atendimento que funciona. Fiz pré-natal, odontologia e ginecologia na UBS e não tenho do que reclamar do serviço.",
+          "text": "O postinho resolve: consigo consulta em no máximo 15 dias e fiz pré-natal, dentista e ginecologista tudo pela UBS. Marcar pelo zap com a Agente de Saúde da Família facilita demais a vida de quem mora na periferia.",
           "source": "sintese",
           "evidence": [
-            1
+            1,
+            2
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A UBS tem limite: quando falta remédio na farmácia base e o exame ou a consulta com especialista sai do esquema do postinho, a espera demora. O atendimento básico funciona, mas o resto ainda trava.",
+          "text": "A farmácia da UBS vive sem o medicamento e exames com especialidades que saíram do esquema demoram bastante. O atendimento básico funciona, mas quando precisa de algo além do posto a fila trava.",
           "source": "sintese",
           "evidence": [
             1
@@ -56,10 +118,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O relato é de quem mora na periferia de São Luís, no Bacanga, e isso muda a leitura: o que funciona no postinho do bairro não é igual em toda a cidade. A experiência varia conforme a região e a unidade.",
+          "text": "Depende do que se espera: consulta rápida e acompanhamento de rotina a UBS dá conta, mas remédio em falta e especialidade demorada mostram que o serviço tem limites. Não é reclamação do postinho, é a realidade dele.",
           "source": "sintese",
           "evidence": [
-            2
+            1
           ],
           "votes": 0
         }
@@ -69,7 +131,7 @@
     },
     {
       "id": "bsky_3mztfs6xqn22y",
-      "rank": 2,
+      "rank": 3,
       "title": "Matheus Barroso registra momento da virada e explosão de alegria em São Luís, MA",
       "label": "Alegria em São Luís · Virada e apoio a Lula",
       "context": "Matheus Barroso registrou o momento da virada e a explosão de alegria em São Luís, no Maranhão, em 25 de outubro de 2026. No registro, ele afirma que o grupo mostra sua força e que está do lado da democracia, não da milícia nem do golpe.",
@@ -77,9 +139,9 @@
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mztfs6xqn22y",
       "createdAt": "2026-11-08T21:58:02.771000+00:00",
-      "rawScore": 0.4287525891993312,
-      "relevanceScore": 0.4287525891993312,
-      "suggestedRadius": 75.29,
+      "rawScore": 0.3012793411871615,
+      "relevanceScore": 0.33475482354129055,
+      "suggestedRadius": 70.71,
       "imageUrl": "assets/images/bsky_3mztfs6xqn22y_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mztfs6xqn22y_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -95,7 +157,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O vídeo mostra um povo que ama o Brasil e defende a democracia. Ver essa explosão de alegria em São Luís, com gente dizendo claramente de que lado está, é a prova de que a força do povo elegeu Lula e segue nas ruas.",
+          "text": "O vídeo mostra um povo que ama o Brasil e defende a democracia. Ver essa explosão de alegria em São Luís, com gente dizendo que não está do lado da milícia nem do golpe, é a prova de que a força popular está do lado certo.",
           "source": "sintese",
           "evidence": [
             1,
@@ -106,7 +168,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ficar repetindo que é 'do lado da democracia' e chamar os outros de milícia ou golpista não une ninguém. Esse tipo de discurso só aumenta a divisão no país e transforma uma festa em palanque político, o que afasta quem quer diálogo.",
+          "text": "Ficar repetindo que não é do lado da milícia nem do golpe soa mais como tentativa de criar inimigos do que de unir o país. Esse tipo de discurso só aumenta a divisão e não resolve os problemas reais da população.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -114,7 +176,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A emoção do momento é genuína, mas o vídeo é um recorte de uma manifestação específica. Não dá para tirar conclusões sobre o humor do eleitorado em geral só por essa gravação, nem afirmar que isso representa a maioria dos brasileiros.",
+          "text": "A alegria registrada no vídeo é genuína, mas o momento da virada em São Luís precisa ser entendido dentro de um contexto maior. Sem saber o que aconteceu antes e depois, fica difícil avaliar o real significado desse tipo de manifestação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -125,17 +187,17 @@
     },
     {
       "id": "bsky_3mzv7toxyyk2o",
-      "rank": 3,
+      "rank": 4,
       "title": "Jornal catarinense noticia chegada de ônibus com nordestinos em SC em tom de denúncia",
       "label": "Xenofobia contra nordestinos em Santa Catarina",
-      "context": "Um jornal de Santa Catarina publicou uma reportagem em tom de denúncia sobre a chegada de ônibus com trabalhadores do Maranhão a Bombinhas. O caso gerou discussão sobre xenofobia contra pessoas de outras regiões do Brasil, que, segundo a publicação, é mais comum do que contra estrangeiros.",
+      "context": "Um jornal de Santa Catarina publicou uma reportagem em tom de denúncia sobre a chegada de ônibus com trabalhadores nordestinos, vindos do Maranhão, à cidade de Bombinhas. O episódio reacende a discussão sobre a xenofobia contra pessoas de outras regiões do Brasil, que, segundo a publicação, é mais comum do que a xenofobia contra estrangeiros.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/aluizcosta.bsky.social/post/3mzv7toxyyk2o",
       "createdAt": "2026-11-09T15:16:49.472000+00:00",
-      "rawScore": 0.3177447369672251,
-      "relevanceScore": 0.3177447369672251,
-      "suggestedRadius": 69.82,
+      "rawScore": 0.21145739399569566,
+      "relevanceScore": 0.2349526599952174,
+      "suggestedRadius": 65.08,
       "imageUrl": "assets/images/bsky_3mzv7toxyyk2o_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzv7toxyyk2o_reddit_thumb.jpg",
       "category": "economia",
@@ -151,7 +213,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A reportagem expõe um preconceito real: tratar trabalhadores nordestinos como ameaça só porque chegam para trabalhar é xenofobia contra compatriotas, e o jornal acertou em denunciar esse tom.",
+          "text": "A reportagem do jornal catarinense expõe um preconceito real: a chegada de trabalhadores nordestinos é tratada como problema, não como contribuição econômica. É preciso reconhecer que a xenofobia contra compatriotas existe e precisa ser combatida, e o jornalismo tem papel fundamental nisso.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -159,7 +221,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O jornal não deveria dar espaço para esse tipo de manchete, que reforça a ideia de que nordestinos são invasores; publicar a denúncia sem criticar o tom original só amplifica o preconceito.",
+          "text": "O jornal apenas noticiou um fato: a chegada de ônibus com trabalhadores do Maranhão em Bombinhas. Chamar isso de xenofobia é exagero e vitimismo. A imprensa tem o dever de informar sobre fluxos migratórios e impactos locais, sem ser acusada de preconceito por isso.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -167,68 +229,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A chegada de trabalhadores de outros estados é um fenômeno econômico comum, mas a forma como a notícia é veiculada pode alimentar hostilidade; seria melhor focar nos fatos da migração sem sensacionalismo.",
+          "text": "A matéria levanta uma questão válida sobre como a imprensa retrata migrantes internos, mas o termo 'xenofobia' pode ser forte demais para um simples relato de chegada de trabalhadores. O ideal é analisar o contexto completo da reportagem, sem julgamentos precipitados de ambos os lados.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzwlrwamx22l",
-      "rank": 4,
-      "title": "Sensação térmica de 31° faz pessoa se sentir no Maranhão",
-      "label": "Calor de 31° e memória do Maranhão",
-      "context": "Uma pessoa relatou no Bluesky que a sensação térmica de 31° a fez se sentir novamente no Maranhão. O comentário destaca a dificuldade de lidar com o calor após 18 anos vivendo no estado.",
-      "source": "bluesky",
-      "subreddit": "bsky_ma",
-      "permalink": "https://bsky.app/profile/nigthstrange.bsky.social/post/3mzwlrwamx22l",
-      "createdAt": "2026-11-10T04:23:12.869000+00:00",
-      "rawScore": 0.2355093658427557,
-      "relevanceScore": 0.2355093658427557,
-      "suggestedRadius": 65.12,
-      "imageUrl": "assets/images/bsky_3mzwlrwamx22l_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzwlrwamx22l_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ma",
-      "sources": [
-        {
-          "title": "Sensação térmica de 31°... tô me sentindo no Maranhão outra vez",
-          "url": "https://bsky.app/profile/nigthstrange.bsky.social/post/3mzwlrwamx22l",
-          "subreddit": "bsky_ma"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Quem passou anos no Maranhão desenvolve uma resistência ao calor que hoje parece impossível. A sensação de 31° pode até ser amena perto do que já enfrentou, e a lembrança traz uma certa nostalgia de tempos difíceis mas superados.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Calor de 31° é insuportável e não tem nada de nostálgico. Quem viveu 18 anos no Maranhão sabe o quanto é desgastante, e a comparação só reforça como esse clima é opressivo no dia a dia.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A reação depende muito da experiência de cada um: para quem morou no Maranhão, 31° pode ser só mais um dia quente, mas para quem não está acostumado, é motivo de reclamação. O comentário mostra que a memória do calor é relativa.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
           "votes": 0
         }
       ],
@@ -240,14 +243,14 @@
       "rank": 5,
       "title": "Prefeito de Maricá é alvo de notícia no portal ICL Notícias",
       "label": "Prefeito de Maricá · Notícia no ICL",
-      "context": "O portal ICL Notícias publicou uma reportagem sobre o prefeito de Maricá, no estado do Rio de Janeiro. O conteúdo foi compartilhado no Bluesky, mas não há detalhes disponíveis sobre o teor da matéria nem sobre a resposta do prefeito.",
+      "context": "O portal ICL Notícias publicou uma reportagem sobre o prefeito de Maricá, no estado do Rio de Janeiro. O conteúdo foi compartilhado no Bluesky, mas não há detalhes disponíveis sobre o teor da matéria ou as alegações envolvidas.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/arlindars.bsky.social/post/3mzpz4qln2s2s",
       "createdAt": "2026-11-07T13:33:18.873000+00:00",
-      "rawScore": 0.17694330589357082,
-      "relevanceScore": 0.17694330589357082,
-      "suggestedRadius": 61.24,
+      "rawScore": 0.14831747213367338,
+      "relevanceScore": 0.1647971912596371,
+      "suggestedRadius": 60.36,
       "imageUrl": "assets/images/bsky_3mzpz4qln2s2s_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzpz4qln2s2s_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -263,7 +266,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O portal ICL Notícias fez certo em publicar a reportagem sobre o prefeito de Maricá, porque a imprensa precisa fiscalizar quem está no poder municipal e trazer à tona o que acontece na cidade.",
+          "text": "A imprensa tem o papel de fiscalizar o poder público, e o ICL Notícias ao publicar uma matéria sobre o prefeito de Maricá cumpre essa função de levar informação ao eleitor. Sem esse tipo de apuração, a população fica sem saber o que acontece na gestão municipal.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -271,7 +274,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A reportagem do ICL Notícias sobre o prefeito de Maricá levanta suspeita justamente por não deixar claro o teor da matéria, o que abre espaço para acusação sem prova e prejudica a imagem do gestor.",
+          "text": "Publicar uma reportagem sobre o prefeito de Maricá sem que se conheça o conteúdo ou as provas expõe a imagem de um gestor eleito antes de qualquer apuração. Esse tipo de pauta vira julgamento público antecipado e prejudica o debate político sério no município.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -279,7 +282,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Sem saber o que a reportagem do ICL Notícias efetivamente aponta sobre o prefeito de Maricá, fica difícil tomar posição: é preciso ler o conteúdo completo antes de apoiar ou criticar o gestor.",
+          "text": "A notícia sobre o prefeito de Maricá só pode ser avaliada quando se sabe o que a matéria do ICL Notícias efetivamente afirma e quais documentos sustenta. Antes disso, tanto defender quanto condenar o prefeito é opinar no escuro, sem base concreta para nenhuma das duas posições.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -289,18 +292,77 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzmezm2ckk2u",
+      "id": "bsky_3mzwlrwamx22l",
       "rank": 6,
-      "title": "Vídeo não é da Igreja Universal no Maranhão, mas de Bangladesh",
-      "label": "Vídeo viral · Origem geográfica",
-      "context": "Um vídeo que circula nas redes sociais atribuído à Igreja Universal no Maranhão é, na verdade, de Bangladesh. A origem incorreta das imagens levanta dúvidas sobre a veracidade do conteúdo compartilhado.",
+      "title": "Sensação térmica de 31° faz pessoa se sentir no Maranhão de novo",
+      "label": "Calor de 31° e memória do Maranhão",
+      "context": "Uma pessoa relatou sensação térmica de 31° e disse se sentir novamente no Maranhão. O comentário lembra que viveu 18 anos na região e hoje não entende como suportava o calor.",
+      "source": "bluesky",
+      "subreddit": "bsky_ma",
+      "permalink": "https://bsky.app/profile/nigthstrange.bsky.social/post/3mzwlrwamx22l",
+      "createdAt": "2026-11-10T04:23:12.869000+00:00",
+      "rawScore": 0.14233691018908914,
+      "relevanceScore": 0.15815212243232127,
+      "suggestedRadius": 59.86,
+      "imageUrl": "assets/images/bsky_3mzwlrwamx22l_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzwlrwamx22l_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ma",
+      "sources": [
+        {
+          "title": "Sensação térmica de 31°... tô me sentindo no Maranhão outra vez",
+          "url": "https://bsky.app/profile/nigthstrange.bsky.social/post/3mzwlrwamx22l",
+          "subreddit": "bsky_ma"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Quem passou anos no Maranhão sabe que 31° de sensação térmica é só mais um dia normal por lá. A lembrança mostra que o corpo acostuma com o calor forte e depois estranha quando fica longe.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Morar 18 anos no Maranhão e só agora perceber o quanto era quente mostra como a gente se acostuma com condições ruins. Esse calor de 31° não é motivo de nostalgia, é sinal de que o corpo aguentou demais.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A sensação térmica de 31° pode parecer muito para quem está em outra região, mas para quem viveu no Maranhão é quase uma brisa. Depende muito do lugar e do tempo que a pessoa passou por lá.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzmezm2ckk2u",
+      "rank": 7,
+      "title": "Vídeo não é de Igreja Universal no Maranhão; imagens são de Bangladesh",
+      "label": "Vídeo falso · Igreja Universal e Bangladesh",
+      "context": "Um vídeo que circula nas redes sociais foi atribuído à Igreja Universal no Maranhão, mas as imagens são de Bangladesh. A associação incorreta levanta discussão sobre a disseminação de conteúdo enganoso envolvendo instituições religiosas.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/narcisopolitico.bsky.social/post/3mzmezm2ckk2u",
       "createdAt": "2026-11-06T02:55:38.279000+00:00",
-      "rawScore": 0.12359814052999321,
-      "relevanceScore": 0.12359814052999321,
-      "suggestedRadius": 57.09,
+      "rawScore": 0.11640673109291332,
+      "relevanceScore": 0.12934081232545924,
+      "suggestedRadius": 57.58,
       "imageUrl": "assets/images/bsky_3mzmezm2ckk2u_og.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzmezm2ckk2u_og_thumb.jpg",
       "category": "geopolitica",
@@ -316,7 +378,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A correção da origem do vídeo é essencial para evitar a disseminação de informações falsas sobre a Igreja Universal no Maranhão. Mostrar que as imagens são de Bangladesh desmonta a narrativa enganosa e protege a reputação da instituição.",
+          "text": "A Igreja Universal é alvo constante de fake news e esse vídeo de Bangladesh é mais um exemplo. Associar a igreja a imagens falsas só prejudica a reputação de uma instituição séria sem provas concretas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -324,20 +386,19 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Mesmo que o vídeo seja de Bangladesh, a Igreja Universal tem um histórico de escândalos financeiros e morais que não pode ser ignorado. Casos como o helicóptero fretado para transportar dízimos e pastores pedindo senha de cartão mostram que a crítica é pertinente.",
+          "text": "Mesmo que o vídeo seja de Bangladesh, a Igreja Universal tem um histórico de escândalos financeiros e morais que não pode ser ignorado. Quem lembra do helicóptero fretado para transportar dízimo sabe que a desconfiança é justificada.",
           "source": "sintese",
           "evidence": [
             1,
             2,
-            3,
-            5
+            3
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A origem do vídeo é um erro, mas isso não invalida as críticas às práticas de algumas igrejas evangélicas. O foco deveria ser discutir os escândalos reais, como os mostrados nas reportagens, em vez de compartilhar conteúdo sem checar a fonte.",
+          "text": "O vídeo pode ter sido usado como imagem ilustrativa, mas isso não justifica a associação errada. O problema é que a internet mistura tudo e acaba prejudicando a discussão sobre os reais escândalos envolvendo igrejas evangélicas.",
           "source": "sintese",
           "evidence": [
             4,
@@ -350,71 +411,18 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzndo43abc2q",
-      "rank": 7,
-      "title": "Governo autoriza 716 unidades do Minha Casa, Minha Vida Rural para 12 municípios",
-      "label": "Minha Casa, Minha Vida Rural · 716 unidades",
-      "context": "O governo federal autorizou a contratação de 716 unidades habitacionais do Programa Minha Casa, Minha Vida Rural, voltadas a agricultores familiares, trabalhadores rurais e famílias quilombolas de 12 municípios brasileiros. A medida amplia o acesso à moradia para famílias do campo e de comunidades tradicionais que vivem fora dos centros urbanos.",
-      "source": "bluesky",
-      "subreddit": "bsky_ma",
-      "permalink": "https://bsky.app/profile/beatrizdiniz.bsky.social/post/3mzndo43abc2q",
-      "createdAt": "2026-11-06T12:03:58.672000+00:00",
-      "rawScore": 0.09968970891617365,
-      "relevanceScore": 0.09968970891617365,
-      "suggestedRadius": 54.94,
-      "imageUrl": "assets/images/bsky_3mzndo43abc2q_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzndo43abc2q_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ma",
-      "sources": [
-        {
-          "title": "\"O governo federal autorizou a contratação de 716 unidades habitacionais do Programa Minha Casa, Minha Vida Rural, que beneficiará agricultores familiares, trabalhadores rurais e famílias quilombolas de 12 municípios brasileiros.\" agenciabrasil.ebc.com.br/node/1707894/",
-          "url": "https://bsky.app/profile/beatrizdiniz.bsky.social/post/3mzndo43abc2q",
-          "subreddit": "bsky_ma"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A contratação dessas 716 unidades finalmente olha para quem vive no campo, um público que quase nunca aparece nas políticas habitacionais. Incluir agricultores familiares e famílias quilombolas entre os beneficiários reconhece que moradia digna também é uma demanda rural.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Autorizar a contratação é só o começo: o que decide se a política funciona é a obra sair do papel e chegar aos 12 municípios. Sem prazo claro e sem fiscalização, o risco é a unidade ser anunciada, virar número no papel e a família continuar esperando.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O número de 716 unidades precisa ser lido no contexto: é uma fatia pequena diante do déficit habitacional rural, e o alcance real depende de como a distribuição entre os 12 municípios será feita. Vale acompanhar se a cota quilombola será cumprida de fato.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3mznfneouek2e",
       "rank": 8,
       "title": "Agência Brasil publica notícia em seu site",
-      "label": "Notícia da Agência Brasil · Publicação",
-      "context": "A Agência Brasil, da EBC, publicou uma notícia em seu site, compartilhada no Bluesky em 6 de novembro de 2026. O conteúdo específico da matéria não está detalhado nas fontes disponíveis.",
+      "label": "Publicação da Agência Brasil",
+      "context": "A Agência Brasil publicou uma nova notícia em sua editoria de geral, divulgada também no Bluesky. O conteúdo específico da matéria não está detalhado nas fontes disponíveis.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/arlindars.bsky.social/post/3mznfneouek2e",
       "createdAt": "2026-11-06T12:39:22.370000+00:00",
-      "rawScore": 0.06159568792895136,
-      "relevanceScore": 0.06159568792895136,
-      "suggestedRadius": 50.89,
+      "rawScore": 0.07136976474493618,
+      "relevanceScore": 0.07929973860548464,
+      "suggestedRadius": 52.9,
       "imageUrl": "assets/images/bsky_3mznfneouek2e_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mznfneouek2e_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -430,7 +438,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Agência Brasil é uma fonte pública de informação e cumpre o papel de levar notícias ao cidadão de forma gratuita, o que faz diferença para quem não tem acesso a veículos pagos.",
+          "text": "A Agência Brasil cumpre seu papel de divulgar informação pública de forma acessível, e usar o Bluesky amplia o alcance da notícia para quem não acompanha o site oficial.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -438,7 +446,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Compartilhar só o link sem nenhum resumo ou destaque do assunto dificulta o entendimento de quem vê a publicação no Bluesky e não sabe do que se trata a notícia.",
+          "text": "Divulgar só o link sem nenhum resumo ou contexto no post dificulta o entendimento de quem vê a publicação na rede social e não sabe do que se trata a notícia.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -446,7 +454,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Sem o conteúdo da matéria detalhado, fica difícil avaliar o peso da notícia; o post funciona mais como um encaminhamento para o site do que como informação em si.",
+          "text": "Sem o conteúdo da matéria detalhado, fica difícil avaliar a publicação em si; o post apenas aponta para o site e o leitor precisa clicar para entender o assunto.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -460,14 +468,14 @@
       "rank": 9,
       "title": "Obrigado, moot do Maranhão, pelos mimos",
       "label": "Agradecimento ao moot do Maranhão",
-      "context": "Um usuário do Bluesky publicou um agradecimento ao \"moot do Maranhão\" pelos mimos recebidos. A publicação registra o agradecimento sem detalhar quais foram os presentes ou o motivo da cortesia.",
+      "context": "Um usuário do Bluesky publicou uma mensagem agradecendo ao \"moot do Maranhão\" por presentes ou mimos recebidos. A publicação registra o agradecimento público feito na rede social.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/zepicelli.bsky.social/post/3mzn5x45dpc22",
       "createdAt": "2026-11-06T10:21:36.677000+00:00",
-      "rawScore": 0.03403993879958149,
-      "relevanceScore": 0.03403993879958149,
-      "suggestedRadius": 47.07,
+      "rawScore": 0.05202617248360913,
+      "relevanceScore": 0.05780685831512125,
+      "suggestedRadius": 50.43,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -483,7 +491,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O agradecimento público ao moot do Maranhão mostra que os mimos foram recebidos e reconhecidos, e quem publica esse tipo de post costuma querer retribuir a gentileza com visibilidade para quem enviou.",
+          "text": "O agradecimento público ao moot do Maranhão mostra que os mimos foram recebidos e reconhecidos, e esse tipo de post é uma forma simples de retribuir a gentileza e valorizar quem enviou.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -491,7 +499,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Agradecer publicamente ao moot do Maranhão sem dizer o que foram os mimos deixa o post vago, e quem lê fica sem saber o que aconteceu de fato ou o que motivou a cortesia.",
+          "text": "Publicar um agradecimento ao moot do Maranhão sem dizer o que foi recebido deixa o post vago, e quem lê fica sem saber do que se trata nem o que motivou os mimos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -499,7 +507,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post funciona como um registro simples de gratidão ao moot do Maranhão, e sem mais detalhes sobre os mimos ou o contexto, o agradecimento fica restrito a quem já sabe do que se trata.",
+          "text": "O post sobre o moot do Maranhão é curto e direto, então dá para entender como um registro pessoal de gratidão, sem que isso indique qualquer coisa além do agradecimento em si.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -509,26 +517,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzj42ez2n22o",
+      "id": "bsky_3mzo7nj34ac2t",
       "rank": 10,
-      "title": "Brinque com o povo do Maranhão, principalmente se for de Codó",
-      "label": "Povo do Maranhão · Reação de Codó",
-      "context": "Uma publicação viral ironiza o povo do Maranhão e, em especial, os moradores de Codó, sugerindo que provocá-los rende reação forte. O post circula como brincadeira e destaca a fama de resposta intensa atribuída a quem é de Codó.",
+      "title": "Censo pode não ter cadastrado bairros a tempo do início da coleta",
+      "label": "Bairros ausentes no Censo · Maior cidade do país",
+      "context": "Um autor aponta que o Censo pode não ter cadastrado os bairros da maior cidade do país a tempo do início do bloco censitário. A ausência dessa divisão afeta uma referência usada tanto no imaginário popular quanto no tecnocrático, o que levanta dúvidas sobre a qualidade dos dados.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
-      "permalink": "https://bsky.app/profile/fassminus.bsky.social/post/3mzj42ez2n22o",
-      "createdAt": "2026-11-04T19:37:00.582000+00:00",
+      "permalink": "https://bsky.app/profile/angelward.bsky.social/post/3mzo7nj34ac2t",
+      "createdAt": "2026-11-06T20:27:43.287000+00:00",
       "rawScore": 0.0,
       "relevanceScore": 0.0,
       "suggestedRadius": 36.0,
-      "imageUrl": "assets/images/bsky_3mzj42ez2n22o_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzj42ez2n22o_wiki_thumb.jpg",
+      "imageUrl": "assets/images/bsky_3mzo7nj34ac2t_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzo7nj34ac2t_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-ma",
       "sources": [
         {
-          "title": "Brinque com o povo do Maranhão, pra vc vê! Principalmente se for de Codó! Haha Diva dms! ❤️🔥",
-          "url": "https://bsky.app/profile/fassminus.bsky.social/post/3mzj42ez2n22o",
+          "title": "isso é tratado em seguida! O autor diz que é possível que não tenha sido cadastrado a tempo do início do bloco censitário, mas é interessante que a maior cidade do país não esteja propriamente dividida nessa peça do imaginário tanto tecnocrático quanto popular que é o bairro",
+          "url": "https://bsky.app/profile/angelward.bsky.social/post/3mzo7nj34ac2t",
           "subreddit": "bsky_ma"
         }
       ],
@@ -536,15 +544,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O povo de Codó tem fama de não levar desaforo pra casa, e essa postagem só confirma isso de um jeito divertido. Quem provoca já sabe que a resposta vem forte, e é essa personalidade que faz a cidade ser lembrada com orgulho.",
+          "text": "O próximo censo precisa ser melhor elaborado e produzido, porque esse último não parece ter tido qualidade suficiente. Se a maior cidade do país não aparece dividida por bairros, isso mostra falha no planejamento da coleta, e não dá para tratar o resultado como retrato confiável do território.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Brincar com o povo do Maranhão e apontar Codó como alvo reforça um estereótipo que não ajuda em nada. A piada transforma uma cidade inteira em personagem de reação exagerada, e quem é de lá acaba reduzido a esse rótulo.",
+          "text": "A explicação de que o cadastro pode não ter chegado a tempo do início do bloco censitário não resolve o problema: bairro é uma referência básica para qualquer leitura da cidade. Deixar a maior cidade do país sem essa divisão compromete o uso dos dados tanto por quem planeja políticas quanto por quem vive ali.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -552,7 +562,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A postagem funciona como humor e não passa disso, mas vale lembrar que generalizar o comportamento de uma cidade inteira é sempre simplista. Codó tem muita gente diferente, e a fama de reação forte é só uma parte da história.",
+          "text": "Antes de culpar o Censo, vale separar o que é falha de coleta do que é limite do próprio conceito de bairro, que não tem divisão oficial uniforme. A ausência na peça pode refletir mais a dificuldade de mapear essas fronteiras do que necessariamente um erro do levantamento.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

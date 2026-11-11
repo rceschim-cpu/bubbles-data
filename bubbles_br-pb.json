@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-11T05:23:48.269760+00:00",
+  "generatedAt": "2026-11-11T19:29:26.726534+00:00",
   "region": "br-pb",
   "count": 10,
   "items": [
     {
       "id": "bsky_3mzyhrtnv2k2c",
       "rank": 1,
-      "title": "Globo faz novela com nordestino sonhando ir pro sudeste enquanto sudestino se muda pro Nordeste",
+      "title": "Globo faz novela com nordestino sonhando ir pro sudeste enquanto sudestino se muda pro nordeste",
       "label": "Novela da Globo e migração sudeste-nordeste",
-      "context": "Uma postagem no Bluesky critica a Globo por retratar em novela o nordestino que sonha em migrar para o Sudeste, enquanto, na vida real, pessoas do Sudeste estariam se mudando para o Nordeste em busca de qualidade de vida. A postagem cita problemas como a qualidade da água da Sabesp em São Paulo e o custo de vida, e recebeu comentários de pessoas que relatam ter deixado o Sudeste ou o Sul para morar no Nordeste.",
+      "context": "Uma postagem no Bluesky critica a Globo por retratar em novela o nordestino que sonha em migrar para o sudeste, enquanto na vida real pessoas do sudeste estariam se mudando para o nordeste em busca de qualidade de vida. A postagem cita problemas como a qualidade da água da Sabesp em São Paulo e o custo de vida, e recebeu comentários de pessoas que dizem ter deixado o sudeste para morar em estados nordestinos.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/danielduncan.bsky.social/post/3mzyhrtnv2k2c",
@@ -36,40 +36,45 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Globo está totalmente desconectada da realidade: enquanto a novela mostra nordestino querendo ir pro Sudeste, quem mora lá está fugindo da água contaminada da Sabesp e dos aluguéis absurdos pra viver no Nordeste. Conheço vários paulistas que se mudaram pra João Pessoa e não voltam mais.",
+          "text": "A Globo está desatualizada ao mostrar o nordestino sonhando com o sudeste, porque hoje o movimento é o contrário: gente do sul e sudeste está indo para o nordeste em busca de qualidade de vida, como mostram os relatos de quem se mudou e não quer voltar.",
           "source": "sintese",
           "evidence": [
             1,
             2,
-            5,
-            7,
-            11
+            4,
+            8,
+            10,
+            17,
+            19
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa onda de sudestinos se mudando pro Nordeste está inchando as capitais e encarecendo o custo de vida. João Pessoa já está ficando insuportável com tanta gente de fora, e os locais estão sendo empurrados pra periferia. A novela pode até ser antiquada, mas a migração em massa traz problemas.",
+          "text": "Essa inversão migratória está inchando as capitais nordestinas e encarecendo o custo de vida, como em João Pessoa, onde o aluguel de um apartamento pequeno já chega a R$ 2.000 e os moradores locais se sentem cada vez mais raros.",
           "source": "sintese",
           "evidence": [
             6,
-            12,
+            11,
             13,
-            17
+            14,
+            15,
+            20
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A novela é só uma obra de ficção e não precisa refletir estatísticas atuais. O que importa é que muitas pessoas, de fato, estão buscando qualidade de vida em outras regiões, seja no Nordeste ou no interior. Cada um tem sua experiência e não dá pra generalizar.",
+          "text": "A novela pode até estar defasada, mas o que explica a migração é a busca por qualidade de vida, e isso não é exclusividade do nordeste: cada região tem seus problemas e vantagens, e a decisão de se mudar depende de fatores como emprego, estudo e serviços.",
           "source": "sintese",
           "evidence": [
-            10,
-            14,
-            22,
-            23
+            12,
+            18,
+            25,
+            26,
+            27
           ],
           "votes": 0
         }
@@ -78,18 +83,76 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzyluusxy224",
+      "id": "bsky_3n226soeeik2m",
       "rank": 2,
+      "title": "Nordeste tem computador quântico, diz g1",
+      "label": "Computador quântico no Nordeste · anúncio",
+      "context": "Uma reportagem do g1 afirma que o Nordeste tem um computador quântico. A notícia gerou reações nas redes sociais, com destaque para o tom de surpresa e descrença.",
+      "source": "bluesky",
+      "subreddit": "bsky_pb",
+      "permalink": "https://bsky.app/profile/patriciojunior.com.br/post/3n226soeeik2m",
+      "createdAt": "2026-11-11T14:41:40.671000+00:00",
+      "rawScore": 0.6209300948982639,
+      "relevanceScore": 0.7194726518803763,
+      "suggestedRadius": 86.89,
+      "imageUrl": "assets/images/bsky_3n226soeeik2m_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n226soeeik2m_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pb",
+      "sources": [
+        {
+          "title": "O Nordeste tem computador quântico, tá? g1.globo.com/google/amp/p...",
+          "url": "https://bsky.app/profile/patriciojunior.com.br/post/3n226soeeik2m",
+          "subreddit": "bsky_pb"
+        },
+        {
+          "title": "g1.globo.com/google/amp/p... 🙄🙄🙄🙄",
+          "url": "https://bsky.app/profile/arlindars.bsky.social/post/3mzsydajyak2d",
+          "subreddit": "bsky_pb"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A chegada de um computador quântico ao Nordeste mostra que a região está avançando em tecnologia de ponta, o que pode atrair investimentos e talentos. É uma conquista que merece ser celebrada e divulgada.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A notícia parece exagerada ou mal apurada, e o tom de deboche nas redes reflete a desconfiança. Sem detalhes concretos sobre onde ele está e quem opera, fica difícil acreditar que seja verdade.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A informação ainda é vaga e carece de fontes independentes. Antes de comemorar ou criticar, seria bom entender o que exatamente foi instalado, onde e com qual finalidade.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzyluusxy224",
+      "rank": 3,
       "title": "Lrp não vão para João Pessoa, ninguém aguenta mais",
-      "label": "João Pessoa · Especulação e vacinação",
-      "context": "Posts no Bluesky dizem que João Pessoa está passando por especulação imobiliária e gentrificação, e que a cidade não oferece vacina contra a Covid para quem não é do grupo de risco. A discussão mistura críticas ao crescimento desordenado com queixas sobre a falta de doses disponíveis.",
+      "label": "João Pessoa · Migração e gentrificação",
+      "context": "Posts no Bluesky pedem que pessoas de fora não se mudem para João Pessoa, citando o aumento de moradores vindos do Sul e Sudeste. A discussão associa essa migração à especulação imobiliária e à gentrificação da cidade.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/yaneyao.bsky.social/post/3mzyluusxy224",
       "createdAt": "2026-11-10T23:30:11.790000+00:00",
-      "rawScore": 0.21847643873577136,
-      "relevanceScore": 0.5876468301232448,
-      "suggestedRadius": 81.99,
+      "rawScore": 0.18370049885239542,
+      "relevanceScore": 0.5398058707264375,
+      "suggestedRadius": 80.08,
       "imageUrl": "assets/images/bsky_3mzyluusxy224_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzyluusxy224_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -101,13 +164,13 @@
           "subreddit": "bsky_pb"
         },
         {
-          "title": "Casos e internações de COVID aumentando e a galera chamando os outros de negacionista pq não tão se vacinando, sendo que em muitas cidades (tipo João Pessoa) não dá pra tomar se vc não for grupo de risco. Nem a versão mais recente consegui tomar pq adoeci na época e perdi a campanha.",
-          "url": "https://bsky.app/profile/thaiskisuki.bsky.social/post/3mzxdtrydxs22",
+          "title": "Voltei lendo alguns espolios de guerra do FIQ e olha: João Pé de Feijão da @inglee.bsky.social . Puta merda, que quentinho no coração que deu durante a viagem toda a leitura dessa hq. Um projeto gráfico primoroso e uma abordagem muito carinhosa e sem pieguice sobre conviver com uma pessoa autisma.♡",
+          "url": "https://bsky.app/profile/shinjoao.bsky.social/post/3mzwfi7qbys22",
           "subreddit": "bsky_pb"
         },
         {
-          "title": "Porra, sim. Pensando bem, continua com as novelas, Globo, João Pessoa tá ficando inchada demais.",
-          "url": "https://bsky.app/profile/thaiskisuki.bsky.social/post/3mzynhya72s2n",
+          "title": "Fala isso não. João Pessoa já está ficando insuportável com quantidade de gente vindo morar aqui. No prédio em q resido q maioria do povo é do sul e sudeste.",
+          "url": "https://bsky.app/profile/fmartin6.bsky.social/post/3mzyrkmvuqc2f",
           "subreddit": "bsky_pb"
         }
       ],
@@ -115,7 +178,18 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A cidade virou paraíso de especulador imobiliário, enquanto os moradores de sempre são empurrados para fora. Chamar João Pessoa de paraíso é ignorar a gentrificação que expulsa quem nasceu ali.",
+          "text": "A cidade está sendo gentrificada para agradar quem chega de fora e vota em Bolsonaro, enquanto os moradores locais perdem espaço. João Pessoa já não é mais a mesma com tanta gente do Sul e Sudeste comprando imóveis e encarecendo tudo.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Culpar quem se muda para João Pessoa é injusto: a especulação imobiliária é o problema real, não as pessoas que vêm morar aqui. A cidade precisa de políticas de habitação, não de hostilidade contra migrantes.",
           "source": "sintese",
           "evidence": [
             1
@@ -123,21 +197,12 @@
           "votes": 0
         },
         {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Não dá para culpar só a especulação: a falta de vacina contra a Covid em João Pessoa é descaso com a saúde pública. Quem não é grupo de risco fica sem dose e ainda é chamado de negacionista.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
           "id": "op3",
           "tone": "neutral",
-          "text": "A ansiedade é compreensível, mas é preciso olhar os números: quem já tem quatro vacinas tem alguma imunidade, e o foco agora é proteger os mais vulneráveis. O problema é que antes não havia nada.",
+          "text": "A migração para João Pessoa é um fenômeno complexo: ao mesmo tempo que movimenta a economia, pressiona infraestrutura e moradia. O debate deveria focar em planejamento urbano e controle da especulação, não em culpar indivíduos.",
           "source": "sintese",
           "evidence": [
+            1,
             3
           ],
           "votes": 0
@@ -148,17 +213,17 @@
     },
     {
       "id": "bsky_3mzy3rzhdjc2h",
-      "rank": 3,
+      "rank": 4,
       "title": "Homens armados incendeiam 12 barracos e ameaçam 40 famílias na Paraíba",
       "label": "Incêndio criminoso em acampamento na Paraíba",
-      "context": "Homens armados incendiaram barracos e fizeram disparos no Acampamento Marilene Dantas, na Paraíba, na madrugada de 8 de novembro. O movimento denuncia ameaças e cobra proteção para cerca de 40 famílias atingidas.",
+      "context": "Homens armados incendiaram 12 barracos e fizeram disparos no Acampamento Marilene Dantas, na Paraíba, na madrugada de 8 de novembro. O movimento denuncia ameaças e cobra proteção para cerca de 40 famílias.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/alma-preta.bsky.social/post/3mzy3rzhdjc2h",
       "createdAt": "2026-11-10T18:42:18.687000+00:00",
-      "rawScore": 0.23690740845235667,
-      "relevanceScore": 0.33549964796101056,
-      "suggestedRadius": 70.75,
+      "rawScore": 0.2786338437288425,
+      "relevanceScore": 0.3753887580013833,
+      "suggestedRadius": 72.76,
       "imageUrl": "assets/images/bsky_3mzy3rzhdjc2h_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzy3rzhdjc2h_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -179,7 +244,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A resposta precisa ser cadeia pesada para todos os envolvidos. Incendiar barracos e atirar contra famílias é crime grave e não pode ficar impune; a lei tem que pesar e servir de exemplo para que ninguém repita isso.",
+          "text": "A resposta precisa ser cadeia pesada para todos os envolvidos. Incendiar barracos e atirar contra famílias é crime grave e não pode ficar impune. As autoridades têm que agir rápido e prender os responsáveis.",
           "source": "sintese",
           "evidence": [
             1
@@ -189,7 +254,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O poder público demorou a agir: as ameaças já eram conhecidas e nada foi feito para proteger as 40 famílias. Cobrar proteção depois do incêndio é o mínimo; faltou presença do Estado antes para evitar a destruição dos barracos.",
+          "text": "O poder público falhou feio ao não garantir proteção para essas 40 famílias. O movimento já vinha denunciando ameaças e nada foi feito. Agora, só depois do incêndio, correm atrás do prejuízo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -197,7 +262,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A violência é condenável, mas é preciso apurar quem são os autores e qual a motivação antes de tirar conclusões. O caso envolve disputa por terra e ameaças; a investigação deve esclarecer os fatos e garantir a segurança das famílias.",
+          "text": "A violência no campo é um problema estrutural no Brasil, e esse ataque é mais um exemplo. Sem uma política efetiva de proteção e reforma agrária, casos como esse vão continuar se repetindo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -208,17 +273,17 @@
     },
     {
       "id": "bsky_3mzysbusgtc27",
-      "rank": 4,
-      "title": "Propagandas de prefeituras no Vale do Paraíba usam IA com animações estilo Pixar",
+      "rank": 5,
+      "title": "Propagandas de prefeitura no Vale do Paraíba usam IA com animações estilo Pixar",
       "label": "Propaganda pública · IA estilo Pixar",
-      "context": "No Vale do Paraíba, interior de São Paulo, propagandas de prefeituras estão usando inteligência artificial para criar animações no estilo dos estúdios Pixar. O caso gerou discussão sobre o uso desse tipo de recurso em publicidade oficial e sobre os gastos com comunicação pública.",
+      "context": "Moradores do Vale do Paraíba, no interior de São Paulo, relatam que propagandas de prefeituras da região estão usando inteligência artificial para criar animações no estilo dos filmes da Pixar. O uso dessa estética em peças publicitárias oficiais levanta discussão sobre gastos com publicidade e sobre a transparência do conteúdo produzido por IA.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/tiul.bsky.social/post/3mzysbusgtc27",
       "createdAt": "2026-11-11T01:24:50.076000+00:00",
-      "rawScore": 0.17348406350652387,
-      "relevanceScore": 0.33056209275401754,
-      "suggestedRadius": 70.5,
+      "rawScore": 0.11813304121949915,
+      "relevanceScore": 0.27285148662877573,
+      "suggestedRadius": 67.34,
       "imageUrl": "assets/images/bsky_3mzysbusgtc27_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzysbusgtc27_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -244,7 +309,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "As animações em IA deixam a propaganda oficial mais leve e chamativa, o que ajuda a população a prestar atenção em campanhas de vacinação e serviços públicos. Se a prefeitura tem verba de publicidade, usar tecnologia atual para comunicar melhor não é problema.",
+          "text": "As animações em IA deixam a propaganda mais atrativa e ajudam a prefeitura a se comunicar com um público que não lê jornal nem acompanha site oficial. Se o resultado fica bonito e barato, é uma forma legítima de informar a população sobre serviços e campanhas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -252,7 +317,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Uma prefeitura anunciar orçamento de 11 milhões em publicidade para 2027 enquanto usa IA para fazer animação estilo Pixar é um despropósito. Esse dinheiro deveria ir para saúde e educação, não para vídeos bonitinhos que não resolvem os problemas reais da cidade.",
+          "text": "Uma prefeitura que anuncia orçamento de 11 milhões em publicidade para 2027 não precisa gastar com animação estilo Pixar feita por IA. Esse dinheiro deveria ir para saúde e educação, e não para peça publicitária que parece trailer de cinema.",
           "source": "sintese",
           "evidence": [
             1
@@ -262,11 +327,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O uso de IA em propaganda de prefeitura pode até ser uma tendência, mas o que importa é se o conteúdo é claro e útil. No caso da vacina, por exemplo, a informação precisa chegar certa, independentemente do estilo da animação.",
+          "text": "O problema não é a IA em si, mas a falta de aviso de que aquilo foi gerado por inteligência artificial. Se a prefeitura deixasse claro que é conteúdo sintético, a população poderia avaliar melhor o que é real e o que é animação.",
           "source": "sintese",
-          "evidence": [
-            2
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -275,17 +338,17 @@
     },
     {
       "id": "bsky_3mzxcauydc22h",
-      "rank": 5,
-      "title": "Ataque a tiros e incêndio destrói barracos de acampamento do MST na Paraíba",
+      "rank": 6,
+      "title": "Ataque a tiros e incêndio destrói acampamento do MST na Paraíba",
       "label": "Ataque a acampamento do MST · Paraíba",
-      "context": "Nove barracos foram destruídos em um ataque a tiros seguido de incêndios contra um acampamento do MST às margens da BR-101, entre Alhandra e Pedras de Fogo, na Paraíba, na madrugada de domingo (8). A comunidade abriga 40 famílias, e segundo a coordenação nacional do MST, moradores correram para a mata e ninguém se feriu fisicamente, mas ficou a violência psicológica.",
+      "context": "Nove barracos foram destruídos em um ataque a tiros seguido de incêndios contra um acampamento do MST na madrugada de domingo (8), às margens da BR-101, entre Alhandra e Pedras de Fogo, na Paraíba. O acampamento abriga 40 famílias, e segundo a coordenação nacional do MST ninguém se feriu, mas as famílias relatam violência psicológica após correrem para a mata.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/taniapac.bsky.social/post/3mzxcauydc22h",
       "createdAt": "2026-11-10T11:05:22.178000+00:00",
-      "rawScore": 0.1156935636097241,
-      "relevanceScore": 0.21402846339848255,
-      "suggestedRadius": 63.76,
+      "rawScore": 0.14853705946866305,
+      "relevanceScore": 0.24461254308098815,
+      "suggestedRadius": 65.67,
       "imageUrl": "assets/images/bsky_3mzxcauydc22h_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzxcauydc22h_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -306,7 +369,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O MST precisa se armar para se defender de bandidos ligados ao agronegócio, que atacam acampamentos como esse na Paraíba. Se reagir, a mídia vai chamar de organização terrorista, mas as famílias não podem ficar indefesas diante de tiros e incêndios.",
+          "text": "O MST precisa se armar para se defender, porque ataques como esse mostram que o movimento está exposto a bandidos ligados ao agronegócio e à mídia trata qualquer reação como terrorismo. Sem defesa própria, as famílias continuam vulneráveis a incêndios e tiros na madrugada.",
           "source": "sintese",
           "evidence": [
             1
@@ -316,7 +379,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ataques como esse mostram que a violência no campo não é caso isolado, e o Estado precisa garantir segurança para as 40 famílias do acampamento. Sem resposta rápida, a impunidade estimula novas ações contra trabalhadores rurais.",
+          "text": "A violência contra o acampamento é grave, mas armar o MST só aumentaria o conflito e daria munição para quem quer criminalizar o movimento. O caminho é cobrar investigação e segurança pública, não transformar famílias em milícias.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -324,7 +387,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O ataque destruiu nove barracos e deixou famílias, crianças e idosos em pânico, mas ninguém se feriu fisicamente. O episódio expõe a tensão fundiária na região e a necessidade de apuração, sem que se transforme em palco de disputa política.",
+          "text": "O ataque em si precisa ser investigado e os responsáveis punidos, mas o debate sobre armar o MST desvia do foco: ninguém se feriu, mas 40 famílias perderam seus barracos e vivem sob terror psicológico. A prioridade deveria ser garantir proteção e reparação para essas pessoas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -335,19 +398,19 @@
     },
     {
       "id": "bsky_3mzys7yxqd22y",
-      "rank": 6,
-      "title": "​...túneis — chegam ao Ceará com toda a sua imponência. Deste reservatório, a água ganha dois rumos vitais: segue pelo Cinturão das Águas (CAC) até abastecer o Açude Castanhão e a Região Metropolitana de Fortaleza, e continua pelo canal do Eixo Norte para socorrer a Paraíba e o Rio Grande do Norte.",
-      "label": "",
-      "context": "",
+      "rank": 7,
+      "title": "Água do reservatório no Ceará segue para o Castanhão e abastece Paraíba e Rio Grande do Norte",
+      "label": "Transposição do São Francisco · Eixo Norte",
+      "context": "A água que chega ao Ceará por túneis do projeto de transposição segue dois caminhos: pelo Cinturão das Águas até o Açude Castanhão e a Região Metropolitana de Fortaleza, e pelo canal do Eixo Norte em direção à Paraíba e ao Rio Grande do Norte. A distribuição define quais estados e regiões recebem a água do sistema.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mzys7yxqd22y",
       "createdAt": "2026-11-11T01:23:50.087000+00:00",
-      "rawScore": 0.21176434833898997,
-      "relevanceScore": 0.21009090631532185,
-      "suggestedRadius": 63.5,
-      "imageUrl": null,
-      "imageThumbUrl": "",
+      "rawScore": 0.16901903095902693,
+      "relevanceScore": 0.1646792315425163,
+      "suggestedRadius": 60.35,
+      "imageUrl": "assets/images/bsky_3mzys7yxqd22y_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzys7yxqd22y_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
@@ -357,25 +420,50 @@
           "subreddit": "bsky_pb"
         }
       ],
-      "opinions": [],
-      "enrichedBy": "",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A água que chega ao Ceará e segue pelo Eixo Norte até a Paraíba e o Rio Grande do Norte mostra que a transposição está cumprindo o papel de socorrer estados que sofrem com a seca. O Castanhão e a Região Metropolitana de Fortaleza ganham reforço hídrico com essa estrutura.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O Cinturão das Águas e os túneis custaram caro e ainda dependem de obras complementares para a água chegar de fato às torneiras. Enquanto isso, a promessa de abastecer o Castanhão e a Região Metropolitana de Fortaleza convive com trechos inacabados e perdas no caminho.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O trajeto da água pelo Cinturão das Águas e pelo Eixo Norte envolve estados com realidades diferentes: o Ceará usa o volume para o Castanhão e Fortaleza, enquanto Paraíba e Rio Grande do Norte recebem pelo canal. O resultado depende de como cada trecho for operado e mantido.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
       "promptVersion": 2
     },
     {
       "id": "bsky_3mzxibgp5zc2b",
-      "rank": 7,
+      "rank": 8,
       "title": "A cor da turmalina Paraíba é a mais perfeita",
-      "label": "Turmalina Paraíba · Cor exaltada",
-      "context": "Uma publicação no Bluesky exaltou a cor da turmalina Paraíba, pedra azul-esverdeada associada ao estado da Paraíba, como a mais perfeita. O comentário recebido concorda de imediato com a afirmação, sem apresentar contrapontos.",
+      "label": "Turmalina Paraíba · Cor e beleza",
+      "context": "Um post no Bluesky afirmou que a cor da turmalina Paraíba é a mais perfeita, usando emojis de coração azul e verde. A publicação gerou concordância imediata de outros usuários, que destacaram a combinação de tons da pedra.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/elfadafloresta.bsky.social/post/3mzxibgp5zc2b",
       "createdAt": "2026-11-10T12:52:58.874000+00:00",
-      "rawScore": 0.07812348560417749,
-      "relevanceScore": 0.07616632102202267,
-      "suggestedRadius": 52.56,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.09325188417811554,
+      "relevanceScore": 0.08851639071849109,
+      "suggestedRadius": 53.85,
+      "imageUrl": "assets/images/bsky_3mzxibgp5zc2b_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzxibgp5zc2b_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
@@ -389,7 +477,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A turmalina Paraíba tem um azul-esverdeado que nenhuma outra pedra reproduz, e quem já viu de perto entende por que ela é considerada tão especial. A combinação de cores é única e justifica a fama que a pedra carrega.",
+          "text": "A turmalina Paraíba tem mesmo a cor mais bonita que existe, aquele azul-esverdeado que muda conforme a luz não aparece em nenhuma outra pedra. Quem já viu uma de perto sabe que a fama é merecida.",
           "source": "sintese",
           "evidence": [
             1
@@ -399,7 +487,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Chamar a cor da turmalina Paraíba de mais perfeita é exagero, porque gosto por cor é subjetivo e outras gemas têm tons igualmente marcantes. Eleger uma pedra como a melhor diz mais sobre preferência pessoal do que sobre qualquer qualidade objetiva.",
+          "text": "Chamar a turmalina Paraíba de cor mais perfeita é exagero, porque gosto de cor é subjetivo e outras gemas têm tons igualmente marcantes. A pedra é bonita, mas eleger uma cor como a melhor de todas não faz sentido.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -407,7 +495,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A beleza da turmalina Paraíba é inegável, mas o que chama atenção nessa pedra vai além da cor: a raridade e a origem paraibana pesam bastante na forma como ela é valorizada. A cor é um dos fatores, não o único.",
+          "text": "A cor da turmalina Paraíba impressiona, mas o que chama atenção nela é a raridade da combinação de tons, não uma hierarquia de beleza entre pedras. Cada gema tem seu apelo e o azul-esverdeado é só um deles.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -418,17 +506,17 @@
     },
     {
       "id": "bsky_3mzqd3mah5k2l",
-      "rank": 8,
+      "rank": 9,
       "title": "Memórias de família entre São Paulo, Guaratinguetá e Rio nos anos 90",
       "label": "Memórias de família · Anos 90",
-      "context": "Uma pessoa conta no Bluesky lembranças de meados dos anos 90, quando era pré-adolescente em São Paulo e tinha familiares em Guaratinguetá e no Rio. A história envolve avós, tios e parentes de ascendência inglesa que se mudaram para o Brasil, e os comentários continuam o relato com detalhes de outras famílias.",
+      "context": "Uma pessoa conta no Bluesky lembranças de meados dos anos 90, quando era pré-adolescente em São Paulo e tinha parentes em Guaratinguetá e no Rio. A história envolve a avó com ascendência inglesa e um casal de tios-avós que adotou um filho no Brasil.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/miscellaneous.bsky.social/post/3mzqd3mah5k2l",
       "createdAt": "2026-11-07T16:31:43.781000+00:00",
-      "rawScore": 0.05002022556145533,
-      "relevanceScore": 0.04800339712591038,
-      "suggestedRadius": 49.15,
+      "rawScore": 0.0924416685142222,
+      "relevanceScore": 0.08770194370201999,
+      "suggestedRadius": 53.77,
       "imageUrl": "assets/images/bsky_3mzqd3mah5k2l_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzqd3mah5k2l_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -444,18 +532,19 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Fios de memória assim são ótimos porque mostram como as famílias brasileiras se espalharam entre São Paulo, Vale do Paraíba e Rio, com histórias de imigração e mudanças que explicam muita coisa da nossa formação.",
+          "text": "Fios assim são ótimos porque mostram como as famílias brasileiras se misturam: ingleses, russos, cariocas e paulistas tudo na mesma árvore. A história da avó que se mudou para perto de Aparecida e dos tios-avós que adotaram um menino aqui é o retrato de um país feito de migrações.",
           "source": "sintese",
           "evidence": [
             1,
-            2
+            2,
+            3
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O relato fica confuso com tantos parentes e mudanças de cidade, e sem uma linha do tempo clara fica difícil acompanhar quem foi para onde e em que época, o que atrapalha quem tenta ler o fio inteiro.",
+          "text": "Fiquei esperando o ponto do fio e até agora só vi apresentação de parentes. A história promete uma memória dos anos 90 em São Paulo, mas se perde em detalhes de ascendência e ramificações familiares sem chegar ao episódio que justifica o relato.",
           "source": "sintese",
           "evidence": [
             4
@@ -465,11 +554,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Histórias de família sempre dependem de quem conta, e cada comentário acrescenta uma versão diferente da mesma mudança, então o fio funciona mais como um mosaico de lembranças do que como um relato único e organizado.",
+          "text": "O começo é promissor, mas o fio ainda está no meio: tem a avó, os tios-avós, o filho adotado, e a história principal parece que vem depois. Vou acompanhar até o fim para entender onde essa rede familiar toda se conecta com a lembrança dos anos 90.",
           "source": "sintese",
           "evidence": [
-            1,
-            3
+            4
           ],
           "votes": 0
         }
@@ -479,17 +567,17 @@
     },
     {
       "id": "bsky_3mzri57levc2t",
-      "rank": 9,
+      "rank": 10,
       "title": "Mesmo sem produzir e indo para São Paulo, Dave Nadave ainda é o maior da Paraíba no meu coração",
       "label": "Dave Nadave · Maior da Paraíba",
-      "context": "O usuário Dave Nadave (@davenadave.bsky.social) foi elogiado em um post no Bluesky como 'o maior da Paraíba no meu coração', mesmo sem produzir conteúdo e estando em São Paulo. A publicação gerou comentários de pessoas que o conheceram pessoalmente e destacaram o doce de leite Viçosa e o encontro com outros usuários.",
+      "context": "O usuário Dave Nadave deixou de produzir conteúdo e se mudou para São Paulo, mas um post no Bluesky o chama de 'o maior da Paraíba no meu coração'. A publicação gerou comentários de pessoas que o conheceram pessoalmente ou pela internet, destacando o afeto e a memória que ele deixou no estado.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/tavosmm.bsky.social/post/3mzri57levc2t",
       "createdAt": "2026-11-08T03:34:56.578000+00:00",
-      "rawScore": 0.04851060776423435,
-      "relevanceScore": 0.046490574376139716,
-      "suggestedRadius": 48.94,
+      "rawScore": 0.08764775279427511,
+      "relevanceScore": 0.08288299174969295,
+      "suggestedRadius": 53.27,
       "imageUrl": "assets/images/bsky_3mzri57levc2t_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzri57levc2t_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -505,17 +593,19 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Dave continua sendo uma referência afetiva para a Paraíba, mesmo sem produzir e estando em São Paulo. O carinho de quem o conheceu pessoalmente, como no comentário sobre o doce de leite Viçosa, mostra que a conexão vai além do conteúdo.",
+          "text": "Dave Nadave marcou a Paraíba de um jeito que nem a mudança para São Paulo apaga. Quem acompanha desde 2011 sabe o quanto ele foi importante para a cena local, e o carinho nos comentários mostra que o legado dele continua vivo.",
           "source": "sintese",
           "evidence": [
-            2
+            1,
+            2,
+            5
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O título de 'maior da Paraíba' soa exagerado para alguém que nem está mais produzindo e já se mudou para São Paulo. A ausência de produção e a distância física enfraquecem a ideia de representatividade local.",
+          "text": "Falar que ele é 'o maior da Paraíba' depois de ir embora e parar de produzir soa como exagero. O reconhecimento deveria valorizar quem ficou e continua construindo algo no estado, não quem saiu.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -523,71 +613,13 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A história do Dave é mais sobre os encontros e a memória afetiva do que sobre produção atual. Comentários como o de quem o viu de longe e não sabia que era ele mostram que a fama dele é construída em experiências pessoais, não em conteúdo recente.",
+          "text": "O post é mais uma homenagem afetiva do que uma disputa de título. As pessoas nos comentários lembram de encontros, do doce de leite e de conhecer o Dave pessoalmente, o que mostra que o valor dele está nas conexões que criou.",
           "source": "sintese",
           "evidence": [
+            2,
+            3,
             4,
             5
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzlshhn5l22f",
-      "rank": 10,
-      "title": "Cartaz para o evento Insônia Sônica neste sábado",
-      "label": "Insônia Sônica · Festival independente",
-      "context": "Um cartaz foi divulgado para o evento Insônia Sônica, que acontece neste sábado. O festival reúne música independente e tem divulgação nas redes sociais.",
-      "source": "bluesky",
-      "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/137magdiel.bsky.social/post/3mzlshhn5l22f",
-      "createdAt": "2026-11-05T21:23:35.385000+00:00",
-      "rawScore": 0.04088691622479513,
-      "relevanceScore": 0.03885069756803028,
-      "suggestedRadius": 47.83,
-      "imageUrl": "assets/images/bsky_3mzlshhn5l22f_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzlshhn5l22f_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pb",
-      "sources": [
-        {
-          "title": "CARTAZ PARA O EVENTO INSÔNIA SÔNICA. NESTE SÁBADO!",
-          "url": "https://bsky.app/profile/137magdiel.bsky.social/post/3mzlshhn5l22f",
-          "subreddit": "bsky_pb"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O Insônia Sônica é o tipo de festival que vale a pena: música independente feita por gente massa, sem aquele clima corporativo dos eventos grandes. O cartaz já mostra que a cena local está viva e produzindo.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Só o cartaz não diz quase nada: falta horário, local e atrações. Divulgar um evento assim, sem essas informações básicas, atrapalha quem quer ir e precisa se organizar com antecedência.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O link do Instagram nos comentários ajuda, mas o cartaz sozinho não segura a curiosidade. Quem não conhece o festival fica sem saber o que esperar e acaba não indo atrás de mais detalhes.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
           ],
           "votes": 0
         }

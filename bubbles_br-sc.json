@@ -1,11 +1,79 @@
 {
-  "generatedAt": "2026-11-11T05:23:48.269760+00:00",
+  "generatedAt": "2026-11-11T19:29:26.726534+00:00",
   "region": "br-sc",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3mzyebgerw22u",
+      "id": "bsky_3n22l3izluk2o",
       "rank": 1,
+      "title": "Santa Catarina tem 30 prefeitos presos, nenhum de esquerda, e 67% dos votos em Flávio Bolsonaro",
+      "label": "Prefeitos presos em Santa Catarina · Perfil político",
+      "context": "Santa Catarina registra 30 prefeitos presos, nenhum deles de esquerda, segundo post no Bluesky. O estado também deu 67% dos votos a Flávio Bolsonaro contra Lula, e o caso é usado para discutir a relação entre prisões e orientação política no estado.",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/ribeirotrilhas.bsky.social/post/3n22l3izluk2o",
+      "createdAt": "2026-11-11T18:21:24.073000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n22l3izluk2o_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n22l3izluk2o_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "Santa Catarina é o estado com o maior número de prefeitos presos do Brasil: 30 no total, nenhum deles de esquerda. Em Santa Catarina, Flávio Bolsonaro teve 67% dos votos, contra Lula. Santa Catarina é o estado onde não há nenhum prefeito ou deputado de esquerda.",
+          "url": "https://bsky.app/profile/ribeirotrilhas.bsky.social/post/3n22l3izluk2o",
+          "subreddit": "bsky_sc"
+        },
+        {
+          "title": "Cinco tornados atingem o Sul do Brasil em menos de uma semana e deixam mortos Santa Catarina foi o estado com o maior número de tornados confirmados durante o período #Resistencia3049Dias Siga nosso BlueSky dilmaresiste",
+          "url": "https://bsky.app/profile/dilmaresiste.bsky.social/post/3mzozvup2p22p",
+          "subreddit": "bsky_sc"
+        },
+        {
+          "title": "Camboriú News dia 7 de novembro de 2026. Santa Catarina. A Polícia Civil prende prefeito, afasta 15 agentes públicos e cumpre 309 buscas em operações contra corrupção em SC\" AGORA Santa Catarina é o estado mais fascista e mais racista e ladrão de dinheiro público do Brasil. Lamentável 🤔 🇧🇷",
+          "url": "https://bsky.app/profile/pkne52.bsky.social/post/3mzxsh3ylc22t",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Os números mostram que a maioria dos catarinenses confia na direita e não se envergonha disso, mesmo com as prisões. O estado é um exemplo de que a população prefere gestões de direita, e isso não muda por causa de casos isolados.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Santa Catarina é uma vergonha moral, social e política: ter 30 prefeitos presos e ainda assim votar em massa na extrema direita mostra que a população não aprendeu nada. O estado está doente e precisa rever seus valores.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O dado de 30 prefeitos presos não diz muito sobre ideologia, já que a maioria dos municípios é pequena e as prisões podem ter outras causas. O que importa é investigar cada caso e cobrar transparência, independente do partido.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzyebgerw22u",
+      "rank": 2,
       "title": "Pessoas de Florianópolis: conhecem escolas ou entidades filantrópicas que precisam de celular, tablet e eletrônicos?",
       "label": "Doação de eletrônicos em Florianópolis",
       "context": "Uma pessoa está montando uma lista de escolas e entidades filantrópicas de Florianópolis que precisam de celulares, tablets e outros eletrônicos. A ideia é destinar bens apreendidos (perdimento) a essas instituições.",
@@ -13,9 +81,9 @@
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/yoginijurista.bsky.social/post/3mzyebgerw22u",
       "createdAt": "2026-11-10T21:14:03.480000+00:00",
-      "rawScore": 0.8255743458485743,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.07368028010794309,
+      "relevanceScore": 0.13360021546764853,
+      "suggestedRadius": 57.93,
       "imageUrl": "assets/images/bsky_3mzyebgerw22u_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzyebgerw22u_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -36,7 +104,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Destinar celulares e tablets apreendidos para escolas e entidades filantrópicas de Florianópolis é uma forma inteligente de dar utilidade a esses bens em vez de deixá-los parados. A iniciativa ajuda quem precisa e evita desperdício.",
+          "text": "Destinar celulares e tablets apreendidos para escolas e entidades filantrópicas de Florianópolis é uma forma inteligente de dar utilidade a esses bens em vez de deixá-los parados ou descartá-los. A iniciativa ajuda quem precisa e evita desperdício.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -44,7 +112,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Fazer uma listinha pessoal para decidir o destino de bens apreendidos soa como algo que deveria passar por um processo oficial e transparente. Sem critérios claros, há risco de favorecimento ou de má distribuição.",
+          "text": "Ainda falta clareza sobre como funciona esse perdimento de bens: quem decide, quais critérios são usados e como as entidades serão escolhidas. Sem transparência, a doação pode virar favorecimento ou má distribuição dos equipamentos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -52,7 +120,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A ideia é boa, mas depende de como o perdimento é regulamentado. Se houver um edital ou chamamento público, a doação pode funcionar bem; sem isso, fica difícil saber se as entidades escolhidas serão as mais necessitadas.",
+          "text": "A ideia é boa, mas depende de as entidades terem estrutura para receber, armazenar e dar manutenção aos eletrônicos. Sem isso, os aparelhos podem acabar encostados ou quebrados, e a doação não resolve o problema de quem precisa.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -62,23 +130,28 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzymsmeloc2x",
-      "rank": 2,
-      "title": "Programação do Cine Estreia de novembro em Florianópolis",
-      "label": "Cine Estreia · Sessões de novembro no CIC",
-      "context": "O Cine Estreia divulgou sua programação de novembro, com sessões na Sala de Cinema Gilberto Gerlach, no CIC, em Florianópolis, exibindo filmes em DCP. A divulgação foi feita pelo Instagram do projeto, que reúne informações sobre os filmes e horários.",
+      "id": "bsky_3n22ewbq4c22k",
+      "rank": 3,
+      "title": "O que está acontecendo com o trânsito de Florianópolis hoje?",
+      "label": "Trânsito travado em Florianópolis",
+      "context": "Moradores de Florianópolis relataram nesta terça-feira (11) um trânsito intenso na cidade, sem que houvesse uma causa aparente. A situação gerou questionamentos nas redes sobre o motivo da lentidão nas vias.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/cinelivre.bsky.social/post/3mzymsmeloc2x",
-      "createdAt": "2026-11-10T23:46:52.190000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 0.9718219530337414,
-      "suggestedRadius": 95.15,
-      "imageUrl": "assets/images/bsky_3mzymsmeloc2x_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzymsmeloc2x_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/barelancheseireli.bsky.social/post/3n22ewbq4c22k",
+      "createdAt": "2026-11-11T16:31:02.175000+00:00",
+      "rawScore": 0.06645751163094012,
+      "relevanceScore": 0.1280442397161078,
+      "suggestedRadius": 57.47,
+      "imageUrl": "assets/images/bsky_3n22ewbq4c22k_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n22ewbq4c22k_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sc",
       "sources": [
+        {
+          "title": "Mas O QUE ESTÁ ROLANDO com o trânsito de Florianópolis hoje?????",
+          "url": "https://bsky.app/profile/barelancheseireli.bsky.social/post/3n22ewbq4c22k",
+          "subreddit": "bsky_sc"
+        },
         {
           "title": "Florianópolis e Região!! A programação do Cine Estreia no mês de novembro está imperdível!! Todas as sessões do Cine Estreia acontecem na Sala de Cinema Gilberto Gerlach no CIC, exibindo filmes em DCP. Confira mais informações no nosso Instagram: www.instagram.com/cinelivre_la...",
           "url": "https://bsky.app/profile/cinelivre.bsky.social/post/3mzymsmeloc2x",
@@ -89,7 +162,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A programação do Cine Estreia em novembro é uma ótima notícia para quem gosta de cinema em Florianópolis, ainda mais com sessões no CIC e filmes em DCP, que garantem qualidade de imagem e som.",
+          "text": "A cidade está crescendo e o trânsito é consequência natural disso. Florianópolis virou um polo de moradia e trabalho, e a infraestrutura viária não acompanha o ritmo. Não é um evento isolado, é o reflexo de uma cidade que atrai cada vez mais gente.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -97,15 +170,17 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Divulgar a programação só pelo Instagram dificulta o acesso de quem não usa a rede, e o post não detalha os filmes nem os horários das sessões no CIC, o que atrapalha o planejamento de quem quer ir.",
+          "text": "Não tinha acidente, não tinha obra, não tinha nada. A galera simplesmente decidiu travar o trânsito sem motivo nenhum. Isso mostra como o comportamento no volante piorou e como falta fiscalização para coibir atitudes que prejudicam todo mundo.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A programação do Cine Estreia no CIC é bem-vinda, mas o anúncio ficou vago: sem a lista de filmes e horários no próprio post, só dá para avaliar de fato quem for até o Instagram do projeto.",
+          "text": "O trânsito de Florianópolis já é imprevisível por natureza. Sem uma causa clara, fica difícil saber se foi falha de sinalização, excesso de carros ou só um dia atípico. O jeito é acompanhar os relatos e ver se o padrão se repete nos próximos dias.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -115,36 +190,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzycldqnu22k",
-      "rank": 3,
-      "title": "Programas da TV Cultura e enchentes em SP e Santa Catarina em 2008",
-      "label": "TV Cultura e enchentes de 2008",
-      "context": "Posts no Bluesky relembram os programas da TV Cultura e as enchentes que atingiram São Paulo e Santa Catarina em 2008. A associação entre os dois temas aparece em meio a comentários sobre políticas ambientais e críticas a gestões passadas.",
+      "id": "bsky_3n226jnj3dk2b",
+      "rank": 4,
+      "title": "Ponte Hercílio Luz em 2008, Florianópolis - SC",
+      "label": "Ponte Hercílio Luz · Registro de 2008",
+      "context": "Uma foto da Ponte Hercílio Luz, em Florianópolis, foi publicada com a data de 2008. A imagem registra o estado da ponte naquele ano, antes das obras de restauração concluídas em 2019.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/atrolhado.bsky.social/post/3mzycldqnu22k",
-      "createdAt": "2026-11-10T20:43:49.585000+00:00",
-      "rawScore": 0.4798851192421401,
-      "relevanceScore": 0.9496591943820957,
-      "suggestedRadius": 94.47,
-      "imageUrl": "assets/images/bsky_3mzycldqnu22k_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzycldqnu22k_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/rbonelli.bsky.social/post/3n226jnj3dk2b",
+      "createdAt": "2026-11-11T14:36:41.573000+00:00",
+      "rawScore": 0.11482103370712224,
+      "relevanceScore": 0.08832387208240172,
+      "suggestedRadius": 53.83,
+      "imageUrl": "assets/images/bsky_3n226jnj3dk2b_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n226jnj3dk2b_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sc",
       "sources": [
         {
-          "title": "Acho que os programas da TV Cultura e as enchentes que aconteciam em SP e em Santa Catarina em 2008",
-          "url": "https://bsky.app/profile/atrolhado.bsky.social/post/3mzycldqnu22k",
-          "subreddit": "bsky_sc"
-        },
-        {
-          "title": "Santa Catarina se acabando em chuvas, enchentes, tornados etc. e olha a preocupação dos bolsonaristas... (principalmente essa da tiara e cabeça avantajada)",
-          "url": "https://bsky.app/profile/nikyas.bsky.social/post/3mzsmytfcpc2o",
-          "subreddit": "bsky_sc"
-        },
-        {
-          "title": "Não sabia que a galera de Santa Catarina se vestiam como caricaturas de alemãs. Só faltou o tirolês.",
-          "url": "https://bsky.app/profile/cosmosrebellion.bsky.social/post/3mzy43l6rtc2o",
+          "title": "Ponte Hercílio Luz 2008 Florianópolis - SC #foto #fotografia #photo #photography #florianopolis #hercilioluz",
+          "url": "https://bsky.app/profile/rbonelli.bsky.social/post/3n226jnj3dk2b",
           "subreddit": "bsky_sc"
         }
       ],
@@ -152,17 +217,15 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A lembrança das enchentes de 2008 em SP e SC serve para cobrar políticas ambientais que evitassem os alagamentos. Quem viveu aquilo sabe que qualquer chuva deixava a cidade ilhada, e isso não pode ser esquecido.",
+          "text": "A foto de 2008 mostra a Ponte Hercílio Luz ainda em seu estado original, o que é um registro histórico importante para quem acompanha a recuperação da estrutura. Ver a ponte antes das obras ajuda a entender a dimensão do trabalho feito depois.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ficar relembrando programas antigos da TV Cultura e enchentes de 2008 não resolve nada. O problema é a falta de ação prática hoje, e não sair por aí nostálgico enquanto as cidades continuam vulneráveis.",
+          "text": "Publicar uma foto antiga da Ponte Hercílio Luz sem contexto pode passar a impressão de que a situação atual é a mesma, o que não é verdade. O registro de 2008 é interessante, mas precisa vir acompanhado da informação de que a ponte foi restaurada e reaberta.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -170,7 +233,60 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A relação entre os programas da TV Cultura e as enchentes de 2008 é curiosa, mas cada um tem sua história. Talvez a memória sirva para refletir sobre como a mídia e as políticas públicas se conectam, sem simplificações.",
+          "text": "A Ponte Hercílio Luz em 2008 era um cartão-postal, mas também um símbolo de descaso com o patrimônio. A foto serve tanto para lembrar da beleza da estrutura quanto para refletir sobre a demora na restauração. Depende do olhar de quem vê.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2254beecs2l",
+      "rank": 5,
+      "title": "A cafeteria que fui hoje de manhã",
+      "label": "Cafeteria · Relato de visita matinal",
+      "context": "Um usuário do Bluesky publicou um relato sobre a cafeteria que visitou na manhã de 11 de novembro de 2026. O post não traz detalhes sobre o local, o que foi consumido ou qualquer avaliação do estabelecimento.",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/luluzinha.bsky.social/post/3n2254beecs2l",
+      "createdAt": "2026-11-11T14:11:40.982000+00:00",
+      "rawScore": 0.10892854603567206,
+      "relevanceScore": 0.08379118925820928,
+      "suggestedRadius": 53.37,
+      "imageUrl": "assets/images/bsky_3n2254beecs2l_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2254beecs2l_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "A cafeteria que fui hoje de manhã",
+          "url": "https://bsky.app/profile/luluzinha.bsky.social/post/3n2254beecs2l",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Compartilhar a cafeteria visitada de manhã é um jeito simples de movimentar a rede com conteúdo cotidiano, sem precisar de polêmica ou assunto pesado para render conversa.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Um post só dizendo que foi à cafeteria de manhã, sem nome do lugar, sem foto e sem dizer o que pediu, não dá nem para saber do que se trata nem para aproveitar a indicação.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O relato é curto demais para gerar qualquer posição: sem detalhes sobre o café, o atendimento ou o ambiente, fica difícil concordar, discordar ou tirar algo útil da publicação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -181,17 +297,17 @@
     },
     {
       "id": "bsky_3mzvgbgnct22b",
-      "rank": 4,
+      "rank": 6,
       "title": "Anúncio da OAB aparece no Instagram uma semana após evento",
-      "label": "OAB · Anúncio após evento",
-      "context": "Um anúncio da OAB continuava sendo exibido no Instagram cerca de uma semana depois do evento que promovia. A situação gerou críticas à entidade por gastar dinheiro em uma campanha que já havia passado.",
+      "label": "OAB · Anúncio antigo no Instagram",
+      "context": "Um anúncio da OAB continuava sendo exibido no Instagram cerca de uma semana depois do evento que promovia. A campanha segue no ar mesmo após a data, o que gerou críticas ao gasto e à escolha da entidade em se envolver no episódio.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/mulhertamarindo.bsky.social/post/3mzvgbgnct22b",
       "createdAt": "2026-11-09T17:11:54.374000+00:00",
-      "rawScore": 0.6797178991974537,
-      "relevanceScore": 0.7291131299423264,
-      "suggestedRadius": 87.23,
+      "rawScore": 0.0964233407743613,
+      "relevanceScore": 0.07417180059566253,
+      "suggestedRadius": 52.34,
       "imageUrl": "assets/images/bsky_3mzvgbgnct22b_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzvgbgnct22b_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -207,28 +323,30 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A OAB está certa em anunciar no Instagram, é onde o público está. Se o anúncio continua rodando, é porque ainda tem gente vendo e clicando. Criticar isso é não entender como funciona publicidade digital.",
+          "text": "A OAB está certa em se posicionar e divulgar seu papel institucional, mesmo que o anúncio tenha ficado no ar além do evento. A entidade precisa marcar presença e mostrar que atua em causas relevantes, e um erro de veiculação não apaga o mérito da iniciativa.",
           "source": "sintese",
           "evidence": [
-            1
+            12
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A OAB erra ao manter um anúncio de evento que já aconteceu, gastando dinheiro dos advogados sem retorno. A entidade que cobra anuidade deveria dar exemplo de gestão e não deixar campanha vencida rodando.",
+          "text": "A OAB só aparece para cobrar anuidade e passar vergonha, e esse anúncio rodando uma semana depois do evento mostra descaso com o dinheiro dos advogados. Gastar em campanha vencida e se meter em causa perdida no exterior é um tiro no pé.",
           "source": "sintese",
           "evidence": [
+            2,
             3,
-            10
+            10,
+            11
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O anúncio da OAB aparecer uma semana depois pode ser só falha de configuração da campanha, algo comum em plataformas digitais. Antes de acusar má-fé, vale entender se foi erro técnico ou descuido na gestão.",
+          "text": "O anúncio continuar no ar uma semana depois pode ser só falha de veiculação, mas fica a dúvida sobre por que a OAB se envolveu nesse evento específico. Sem entender o contrato e a estratégia, fica difícil saber se foi descuido ou escolha deliberada.",
           "source": "sintese",
           "evidence": [
             1,
@@ -242,17 +360,17 @@
     },
     {
       "id": "bsky_3mzy7i4nvrc2i",
-      "rank": 5,
-      "title": "Gilberto Gil é anunciado como headliner do ARVO Festival em maio de 2027, em Florianópolis",
-      "label": "Gilberto Gil no ARVO Festival 2027",
-      "context": "Gilberto Gil foi anunciado como atração principal do ARVO Festival, que acontece em maio de 2027, em Florianópolis. O anúncio antecipado de um nome de peso pode influenciar a expectativa do público e a organização do evento.",
+      "rank": 7,
+      "title": "Gilberto Gil é anunciado como headliner do ARVO Festival em Florianópolis",
+      "label": "Gilberto Gil · Headliner do ARVO Festival",
+      "context": "Gilberto Gil foi anunciado como atração principal (headliner) do ARVO Festival, marcado para maio de 2027 em Florianópolis. O anúncio foi divulgado pelo site Tracklist, que também publicou o link com mais informações sobre o evento.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/tracklist.com.br/post/3mzy7i4nvrc2i",
       "createdAt": "2026-11-10T19:48:21.471000+00:00",
-      "rawScore": 0.3303378086058041,
-      "relevanceScore": 0.34416296699158794,
-      "suggestedRadius": 71.2,
+      "rawScore": 0.025723281559214623,
+      "relevanceScore": 0.019787139660934323,
+      "suggestedRadius": 44.44,
       "imageUrl": "assets/images/bsky_3mzy7i4nvrc2i_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzy7i4nvrc2i_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -268,7 +386,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Gilberto Gil como headliner do ARVO é uma escolha que valoriza a música brasileira e traz prestígio para o festival. Um artista com essa trajetória merece ser celebrado e atrai público de várias gerações.",
+          "text": "Gilberto Gil como headliner dá peso e credibilidade ao ARVO Festival logo na primeira edição, e um nome desse tamanho em Florianópolis atrai público de fora e movimenta a cena musical da cidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -276,7 +394,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Anunciar um headliner para maio de 2027 agora parece exagero e pode gerar expectativa que não se sustenta. Além disso, o preço dos ingressos pode ficar inviável para muitos fãs.",
+          "text": "Anunciar um festival para maio de 2027 com tanta antecedência parece mais marketing do que planejamento real, e o público fica refém de uma promessa que pode mudar de data ou de line-up até lá.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -284,7 +402,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A escolha de Gilberto Gil é interessante, mas o anúncio tão antecipado levanta dúvidas sobre a organização do festival. É preciso ver se o evento realmente acontecerá como planejado.",
+          "text": "O anúncio de Gilberto Gil chama atenção, mas o que vai definir o ARVO Festival é o restante do line-up e o preço dos ingressos, informações que ainda não foram divulgadas junto com o nome do headliner.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -295,17 +413,17 @@
     },
     {
       "id": "bsky_3mzvjiqproc2j",
-      "rank": 6,
+      "rank": 8,
       "title": "Amiga não sabia que você tinha aberto uma loja em Floripa",
-      "label": "Amiga descobre loja em Floripa",
-      "context": "Uma pessoa abriu uma loja em Floripa e uma amiga só descobriu depois, o que virou piada no Bluesky. O post rendeu comentários sobre amizades que não acompanham as novidades umas das outras.",
+      "label": "Amizade · Loja em Floripa",
+      "context": "Uma pessoa abriu uma loja em Floripa e uma amiga não sabia. O post no Bluesky gerou comentários sobre amizade e reconhecimento.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/kodoji.bsky.social/post/3mzvjiqproc2j",
       "createdAt": "2026-11-09T18:09:46.378000+00:00",
-      "rawScore": 0.13143333678324584,
-      "relevanceScore": 0.1250082100331661,
-      "suggestedRadius": 57.21,
+      "rawScore": 0.009313522923027303,
+      "relevanceScore": 0.0071642484023286945,
+      "suggestedRadius": 41.08,
       "imageUrl": "assets/images/bsky_3mzvjiqproc2j_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzvjiqproc2j_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -321,7 +439,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A piada funciona porque é uma situação que todo mundo já viveu: você abre um negócio, muda de vida e a amiga só descobre por acaso. Rir disso é mais leve do que cobrar satisfação de quem não acompanha seu dia a dia.",
+          "text": "A amiga que não sabia da loja em Floripa só mostra que a gente às vezes tá tão corrido que não acompanha as novidades das amizades. O importante é que a loja existe e a amizade continua.",
           "source": "sintese",
           "evidence": [
             1
@@ -331,7 +449,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Amizade que não sabe que a outra abriu uma loja em Floripa não é amizade de verdade, é contato de rede social. Se a pessoa não acompanha nem uma mudança dessas, é porque nunca perguntou nada sobre a vida da outra.",
+          "text": "Se a amiga não sabia da loja em Floripa, é porque a comunicação entre elas tá falha. Amizade de verdade acompanha os passos importantes da outra pessoa, ainda mais abrir um negócio.",
           "source": "sintese",
           "evidence": [
             2
@@ -341,7 +459,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post virou uma competição de quem tem menos curtidas e de quem é mais top, e a loja em Floripa ficou de lado. A graça está mais na reação das amigas do que na descoberta em si, e cada uma puxa a piada para o próprio lado.",
+          "text": "O post sobre a amiga que não sabia da loja em Floripa virou uma piada com os comentários sobre curtidas e reconhecimento. No fim, cada um tem seu jeito de demonstrar apoio nas redes.",
           "source": "sintese",
           "evidence": [
             1,
@@ -354,73 +472,18 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mztkeimkfk2k",
-      "rank": 7,
-      "title": "Acompanhamento em ambulatório trans de Florianópolis e mudança para DIY",
-      "label": "Ambulatório trans · Atendimento e DIY",
-      "context": "Uma pessoa relatou ter iniciado o acompanhamento no ambulatório trans de Florianópolis, onde o médico e a atendente do balcão também eram trans, e depois de quase dois anos passou a fazer o processo por conta própria (DIY). O relato destaca a presença de profissionais trans no atendimento e a transição para o autocuidado.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/lexosesbico.bsky.social/post/3mztkeimkfk2k",
-      "createdAt": "2026-11-08T23:19:50.183000+00:00",
-      "rawScore": 0.1124422631800149,
-      "relevanceScore": 0.10408367233042172,
-      "suggestedRadius": 55.36,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "fiz o início do acompanhamento pelo ambulatório trans em florianópolis e foi ótimo pra mim, meu médico era trans, a atendente do balcão era trans. fui pro diy depois de uns quase dois anos",
-          "url": "https://bsky.app/profile/lexosesbico.bsky.social/post/3mztkeimkfk2k",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Ter um médico e uma atendente trans no ambulatório faz toda a diferença: o acolhimento é outro, sem aquela sensação de precisar explicar o básico. Em Florianópolis deu certo, e em São Paulo também tem psicóloga trans no postinho, o que mostra que esse modelo funciona.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Quase dois anos de acompanhamento para depois ir pro DIY mostra que o ambulatório, mesmo com equipe trans, não deu conta do que a pessoa precisava. Se o serviço público fosse ágil e resolvesse, ninguém largaria a mão do profissional para se automedicar.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O relato mistura duas coisas: o atendimento humanizado no ambulatório e a escolha pelo DIY depois. Ter equipe trans ajuda no acolhimento, mas não resolve tudo; a ida pro DIY pode ser tanto falta de acesso quanto uma decisão pessoal de autonomia.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3mzqiuxn55k2f",
-      "rank": 8,
-      "title": "Fatalidade noticiada pelo Jornal Razão",
-      "label": "Fatalidade · Notícia do Jornal Razão",
-      "context": "O Jornal Razão publicou uma notícia sobre uma fatalidade, divulgada no Bluesky. O caso chama atenção pela forma como o conteúdo foi apresentado, gerando reações de estranhamento.",
+      "rank": 9,
+      "title": "Acidente fatal é noticiado pelo Jornal Razão",
+      "label": "Acidente fatal · cobertura do Jornal Razão",
+      "context": "O Jornal Razão publicou uma reportagem sobre um acidente com morte, no link jornalrazao.com/seguranca/cr. O caso gerou reação de leitores nas redes, que comentam o teor da matéria.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/gabrieldivan.bsky.social/post/3mzqiuxn55k2f",
       "createdAt": "2026-11-07T18:15:13.079000+00:00",
-      "rawScore": 0.10849254338852432,
-      "relevanceScore": 0.0997318351242166,
-      "suggestedRadius": 54.95,
+      "rawScore": 0.009235530093624286,
+      "relevanceScore": 0.007104253918172527,
+      "suggestedRadius": 41.06,
       "imageUrl": "assets/images/bsky_3mzqiuxn55k2f_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzqiuxn55k2f_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -436,7 +499,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A notícia cumpre o papel de informar sobre uma fatalidade que precisa ser de conhecimento público, e o Jornal Razão está fazendo sua parte ao divulgar o caso.",
+          "text": "A reportagem do Jornal Razão cumpre o papel de informar sobre um acidente fatal que precisa ser de conhecimento público, e a cobertura ajuda a pressionar por responsabilização e prevenção.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -444,7 +507,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O conteúdo fica cada vez mais absurdo conforme a leitura avança, e isso compromete a credibilidade da notícia e a seriedade com que o caso deveria ser tratado.",
+          "text": "O conteúdo da matéria vai ficando mais absurdo à medida que a gente lê, e isso compromete a credibilidade da cobertura sobre um assunto tão sério quanto uma morte.",
           "source": "sintese",
           "evidence": [
             1
@@ -454,9 +517,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A fatalidade em si já é um fato grave, mas a forma como o Jornal Razão apresenta a história gera dúvidas sobre a objetividade e o propósito da publicação.",
+          "text": "A reação de estranhamento ao ler a reportagem mostra que o texto pode ter problemas de clareza ou de abordagem, mas ainda faltam detalhes para avaliar se o erro é da matéria ou do próprio caso.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
@@ -464,79 +529,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzqgisyk422v",
-      "rank": 9,
-      "title": "Pior seria se ele tivesse fugido para Itapirubá",
-      "label": "Fuga para Itapirubá · Comentário viral",
-      "context": "Um post no Bluesky usou a frase 'Pior seria se ele tivesse fugido pra Itapirubá' para comentar uma situação não especificada. A menção a Itapirubá, localidade conhecida por suas praias, transformou a frase em um meme que circula nas redes.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/dcdez.bsky.social/post/3mzqgisyk422v",
-      "createdAt": "2026-11-07T17:32:43.182000+00:00",
-      "rawScore": 0.06220957921214984,
-      "relevanceScore": 0.04873684404911732,
-      "suggestedRadius": 49.25,
-      "imageUrl": "assets/images/bsky_3mzqgisyk422v_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzqgisyk422v_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "Pior seria se ele tivesse fugido pra Itapirubá.",
-          "url": "https://bsky.app/profile/dcdez.bsky.social/post/3mzqgisyk422v",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A frase funciona porque Itapirubá é um lugar remoto e pacato, então fugir para lá seria quase uma piada pronta. O humor está exatamente em exagerar a alternativa e mostrar que a situação original não era tão ruim assim.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Ficar repetindo essa frase sem contexto só banaliza o que quer que tenha acontecido. Itapirubá é uma comunidade real, não um cenário de fuga, e transformar o nome do lugar em piada pode incomodar quem mora lá.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A piada só faz sentido para quem conhece Itapirubá ou entendeu a referência original. Sem saber o caso concreto, fica difícil julgar se a comparação é justa ou apenas um meme passageiro que viralizou no Bluesky.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mztt4fjv7k2f",
+      "id": "bsky_3mztkeimkfk2k",
       "rank": 10,
-      "title": "Internauta questiona aparência dos prefeitos de São José e Florianópolis",
-      "label": "Aparência de prefeitos catarinenses em debate",
-      "context": "Um post no Bluesky questiona a aparência física dos prefeitos de São José e Florianópolis, pedindo checagem de fatos. A publicação viraliza ao transformar a aparência de autoridades públicas em assunto de discussão nas redes.",
+      "title": "Acompanhamento em ambulatório trans de Florianópolis é elogiado por paciente",
+      "label": "Ambulatório trans · Relato de atendimento",
+      "context": "Uma pessoa relatou no Bluesky que iniciou o acompanhamento no ambulatório trans de Florianópolis e teve uma boa experiência, com médico e atendente trans. O relato destaca a presença de profissionais trans no atendimento e a continuidade do cuidado por quase dois anos antes de migrar para o DIY.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/afasia.bsky.social/post/3mztt4fjv7k2f",
-      "createdAt": "2026-11-09T01:56:21.774000+00:00",
-      "rawScore": 0.05271969259065391,
-      "relevanceScore": 0.038280800617613894,
-      "suggestedRadius": 47.74,
-      "imageUrl": "assets/images/bsky_3mztt4fjv7k2f_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztt4fjv7k2f_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/lexosesbico.bsky.social/post/3mztkeimkfk2k",
+      "createdAt": "2026-11-08T23:19:50.183000+00:00",
+      "rawScore": 0.008347844016460233,
+      "relevanceScore": 0.006421418474200179,
+      "suggestedRadius": 40.81,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-sc",
       "sources": [
         {
-          "title": "Peraí, peraí, peraí que o prefeito de São José e o prefeito de Florianópolis também são BEM feios! Vamos checar os fatos!",
-          "url": "https://bsky.app/profile/afasia.bsky.social/post/3mztt4fjv7k2f",
+          "title": "fiz o início do acompanhamento pelo ambulatório trans em florianópolis e foi ótimo pra mim, meu médico era trans, a atendente do balcão era trans. fui pro diy depois de uns quase dois anos",
+          "url": "https://bsky.app/profile/lexosesbico.bsky.social/post/3mztkeimkfk2k",
           "subreddit": "bsky_sc"
         }
       ],
@@ -544,15 +556,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Aparência de político não deveria ser pauta, mas o post expõe como a internet trata autoridades como personagens. Questionar a beleza de prefeitos vira piada e desvia do que realmente importa na gestão das cidades.",
+          "text": "Ter profissionais trans no ambulatório faz toda a diferença: o paciente se sente acolhido e representado. Em Florianópolis, o médico e a atendente eram trans, e isso mostra que o serviço funciona quando a equipe entende a realidade de quem procura.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Se o assunto é checar fatos, o mínimo é ter critério: chamar prefeito de feio não é fato verificável, é opinião. Publicações assim só alimentam ataques pessoais e não contribuem em nada para o debate público.",
+          "text": "O relato de que a pessoa foi para o DIY depois de quase dois anos no ambulatório acende um alerta: o acompanhamento público pode não estar dando conta da demanda ou demorando demais. A experiência positiva no atendimento não esconde a falta de continuidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -560,9 +574,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post é claramente uma brincadeira e não deveria ser levado a sério como pauta política. Ainda assim, vale observar como esse tipo de conteúdo ganha tração e acaba pautando conversas sobre figuras públicas nas redes.",
+          "text": "A experiência em Florianópolis foi boa, mas em São Paulo a psicóloga trans do postinho também era muito elogiada, mesmo sem atender todo mundo. O que pesa é a lotação e a rotatividade: ter profissionais trans ajuda, mas não resolve a fila.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],

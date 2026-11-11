@@ -1,21 +1,85 @@
 {
-  "generatedAt": "2026-11-11T05:23:48.269760+00:00",
+  "generatedAt": "2026-11-11T19:29:26.726534+00:00",
   "region": "br-es",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3mzyki7fpbk2n",
+      "id": "bsky_3n22mctmmnk2m",
       "rank": 1,
+      "title": "Eleitor capixaba diz que Contarato se apresentou como delegado e foi visto como 'bancada da bala'",
+      "label": "Contarato · Imagem de delegado e voto conservador",
+      "context": "Um eleitor capixaba que votou em Fabio Contarato há oito anos afirma que ele se apresentou como delegado na campanha, o que teria levado eleitores conservadores a acreditar que ele seria da 'bancada da bala'. A discussão gira em torno de como a imagem de delegado pode ter atraído um eleitorado que não conhecia seu histórico partidário e pessoal.",
+      "source": "bluesky",
+      "subreddit": "bsky_es",
+      "permalink": "https://bsky.app/profile/theoniros.bsky.social/post/3n22mctmmnk2m",
+      "createdAt": "2026-11-11T18:43:20.669000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n22mctmmnk2m_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n22mctmmnk2m_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-es",
+      "sources": [
+        {
+          "title": "Enquanto capixaba que inclusive votou no Contarato há 8 anos atras, não foi bem isso não. Ele era (é) delegado e, na campanha, se apresentou como delegado, o que já foi suficiente pro conservador médio achar que ele seria bancada da bala",
+          "url": "https://bsky.app/profile/theoniros.bsky.social/post/3n22mctmmnk2m",
+          "subreddit": "bsky_es"
+        },
+        {
+          "title": "📰Cidade capixaba celebra 45 anos com tradição tropeira e cafés especiais Capital dos Tropeiros comemora a trajetória unindo turismo de montanha, cafés de qualidade e memórias que fortalecem o interior capixaba www.correiobraziliense.com.br/brasil/2026/...",
+          "url": "https://bsky.app/profile/correiocb.bsky.social/post/3mzo6n46zk224",
+          "subreddit": "bsky_es"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Contarato se apresentou como delegado e isso foi decisivo para conquistar o eleitor conservador que queria alguém da segurança pública. A estratégia funcionou na época e mostra como ele soube dialogar com um público que normalmente não votaria na REDE.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O eleitor médio não pesquisa os candidatos e acaba votando por impressão, como meu irmão que jurava que Contarato era do PSDB. Essa falta de informação distorce o voto e permite que candidatos sejam eleitos por uma imagem que não corresponde ao seu histórico real.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A não reeleição de Contarato ao Senado tem mais a ver com o anti-petismo forte no Espírito Santo do que com sua imagem de delegado. O fato de ele ter se filiado ao PT pode ter pesado mais do que a confusão sobre seu passado partidário.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzyki7fpbk2n",
+      "rank": 2,
       "title": "Mineiro encaixa bem no capixaba e estreia quinta no Laranjinha",
-      "label": "Conteúdo adulto · Estreia no Laranjinha",
-      "context": "Um perfil do Privacy anunciou a estreia de um conteúdo com um mineiro e um capixaba, marcada para quinta-feira no Laranjinha. O anúncio usa o trocadilho entre os apelidos dos dois estados para divulgar a nova produção.",
+      "label": "Mineiro no Capixaba · Estreia quinta",
+      "context": "Um perfil anuncia que o \"mineiro\" encaixa bem no \"capixaba\" e que o conteúdo estará disponível na quinta-feira no Laranjinha. A publicação divulga o link de um perfil na plataforma Privacy.",
       "source": "bluesky",
       "subreddit": "bsky_es",
       "permalink": "https://bsky.app/profile/agroboy31.bsky.social/post/3mzyki7fpbk2n",
       "createdAt": "2026-11-10T23:05:13.685000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.8528049792285954,
+      "relevanceScore": 0.8497869000464513,
+      "suggestedRadius": 91.31,
       "imageUrl": "assets/images/bsky_3mzyki7fpbk2n_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzyki7fpbk2n_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -31,7 +95,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A combinação de mineiro com capixaba no Laranjinha é exatamente o tipo de novidade que o público do Privacy pede, e anunciar a estreia de quinta já cria expectativa em quem acompanha o perfil.",
+          "text": "A combinação de mineiro com capixaba funciona e o anúncio já deixa claro quando o conteúdo sai: quinta no Laranjinha. Quem acompanha o perfil ganha uma data certa e um link direto pra acessar.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -39,7 +103,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Divulgar a estreia só com o trocadilho de mineiro e capixaba não diz nada sobre o conteúdo em si, e quem assina o Privacy espera saber mais antes de decidir se vale acompanhar na quinta.",
+          "text": "Anúncio assim só serve pra chamar atenção e empurrar assinatura na Privacy, sem mostrar nada de concreto. Fica a promessa de quinta no Laranjinha e um link, mas o conteúdo em si ninguém vê antes de pagar.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -47,7 +111,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O anúncio cumpre o papel de avisar que tem novidade chegando no Laranjinha na quinta, mas o trocadilho entre os estados é o que chama atenção, e o resto só dá para avaliar quando o conteúdo sair.",
+          "text": "O post aposta em termos regionais pra criar identidade, mas sem detalhes do que é o conteúdo fica difícil saber se vale. Quinta no Laranjinha é a única informação concreta além do link da Privacy.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -57,93 +121,31 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzy2s4avkk2n",
-      "rank": 2,
-      "title": "Visita técnica ao parque Paulo Cesar Vinha nunca aconteceu após mês de estudo",
-      "label": "Visita escolar frustrada · Parque Paulo Cesar Vinha",
-      "context": "No ensino fundamental, um estudante passou um mês estudando o Parque Estadual Paulo Cesar Vinha e a Reserva de Jacarenema para uma visita técnica que nunca aconteceu. O parque leva o nome do biólogo Paulo Cesar Vinha, morto em decorrência da extração de areia, atividade presente na região onde o estudante vivia.",
-      "source": "bluesky",
-      "subreddit": "bsky_es",
-      "permalink": "https://bsky.app/profile/dreeh.bsky.social/post/3mzy2s4avkk2n",
-      "createdAt": "2026-11-10T18:24:24.481000+00:00",
-      "rawScore": 0.3406004447163037,
-      "relevanceScore": 0.48665988487976275,
-      "suggestedRadius": 77.86,
-      "imageUrl": "assets/images/bsky_3mzy2s4avkk2n_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzy2s4avkk2n_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-es",
-      "sources": [
-        {
-          "title": "No ensino fundamental, na preparação para uma visita técnica ao parque estadual Paulo Cesar Vinha, passamos um mês estudando o parque e a reserva de Jacarenema, no fim a visita nunca aconteceu, no dia VV estava fazendo o que fazia de melhor, sendo a Veneza Capixaba, mas algo mudou pra mim",
-          "url": "https://bsky.app/profile/dreeh.bsky.social/post/3mzy2s4avkk2n",
-          "subreddit": "bsky_es"
-        },
-        {
-          "title": "Tem razão, erro meu. Mas Godzilla Capixaba é um nome ainda melhor",
-          "url": "https://bsky.app/profile/netsuke.bsky.social/post/3mzlwtsa3rs2q",
-          "subreddit": "bsky_es"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Mesmo sem a visita, o mês estudando o parque mudou minha forma de ver o lugar onde eu vivia, principalmente por morar numa área de extração de areia que matou o biólogo que dá nome ao parque. O aprendizado veio antes da frustração.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Preparar os alunos por um mês inteiro para uma visita técnica e simplesmente não realizar é desrespeitoso com o tempo e o entusiasmo da turma. A escola criou uma expectativa concreta e não cumpriu o combinado.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Visitas técnicas boas marcam justamente porque unem estudo e experiência, mas o valor do aprendizado não depende só da saída acontecer. O mês de preparação já ensinou algo, mesmo que a visita tenha ficado no caminho.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzyf2edbgk2g",
+      "id": "bsky_3mzzqekmrw223",
       "rank": 3,
-      "title": "Grande vitória, agora só falta adicionarem automaticamente o título dos artigos partilhados",
-      "label": "Bluesky · Título automático em artigos",
-      "context": "Um usuário do Bluesky comemorou uma mudança na plataforma e pediu que o título dos artigos compartilhados seja adicionado automaticamente. O pedido indica que a exibição de links ainda depende de ajuste manual, o que limita a apresentação das publicações.",
+      "title": "Governo Lula e os 200 decretos após grande vitória",
+      "label": "Decretos do governo Lula · Aliança com o centrão",
+      "context": "O governo Lula foi criticado por não ter editado 200 decretos após uma vitória política, enquanto se aproxima novamente do centrão. A crítica sugere que essa aproximação pode diluir os resultados da vitória.",
       "source": "bluesky",
       "subreddit": "bsky_es",
-      "permalink": "https://bsky.app/profile/pedrojdoc.bsky.social/post/3mzyf2edbgk2g",
-      "createdAt": "2026-11-10T21:27:59.474000+00:00",
-      "rawScore": 0.1456912389694664,
-      "relevanceScore": 0.4459714892491084,
-      "suggestedRadius": 76.07,
-      "imageUrl": "assets/images/bsky_3mzyf2edbgk2g_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzyf2edbgk2g_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/avidago.bsky.social/post/3mzzqekmrw223",
+      "createdAt": "2026-11-11T10:23:12.671000+00:00",
+      "rawScore": 0.5007177654226204,
+      "relevanceScore": 0.7542769519760182,
+      "suggestedRadius": 88.11,
+      "imageUrl": "assets/images/bsky_3mzzqekmrw223_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzzqekmrw223_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-es",
       "sources": [
+        {
+          "title": "Errado é o governo Lula não ter 200 decretos com essa grande vitória! Já tão querendo ser miguxo do centrão de novo ! Pelo amor !",
+          "url": "https://bsky.app/profile/avidago.bsky.social/post/3mzzqekmrw223",
+          "subreddit": "bsky_es"
+        },
         {
           "title": "Grande vitória hehe se não for pedir muito, agora só falta adicionarem automaticamente o título dos artigos partilhados 😅",
           "url": "https://bsky.app/profile/pedrojdoc.bsky.social/post/3mzyf2edbgk2g",
-          "subreddit": "bsky_es"
-        },
-        {
-          "title": "Uma grande vitória do meu mano Talarico, agora o Texas é nosso partido Caprichoso",
-          "url": "https://bsky.app/profile/ezatanamente.bsky.social/post/3mziulqlyyk2a",
           "subreddit": "bsky_es"
         },
         {
@@ -156,7 +158,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A mudança já é uma grande vitória para quem usa o Bluesky, e pedir a inclusão automática do título dos artigos é o próximo passo natural para deixar as postagens mais completas e informativas.",
+          "text": "A grande vitória do governo Lula deveria ser consolidada com 200 decretos, mas a aproximação com o centrão ameaça esse avanço. É preciso garantir que as conquistas não sejam desfeitas por alianças políticas.",
           "source": "sintese",
           "evidence": [
             1
@@ -166,17 +168,129 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Mexer demais na plataforma pode piorar a experiência, e parte dos usuários prefere que os desenvolvedores parem por aqui em vez de acumular mudanças que ninguém pediu.",
+          "text": "Prefiro que não mexam mais em nada, pois a aproximação com o centrão e a edição de decretos podem reverter conquistas. Melhor manter o que já foi alcançado do que arriscar retrocessos.",
           "source": "sintese",
           "evidence": [
-            2
+            1
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A insatisfação geral com a plataforma existe, mas é preciso direcioná-la a quem realmente causa os problemas, e não a cada pequena atualização feita no aplicativo.",
+          "text": "A grande vitória já foi conquistada, e agora a prioridade deveria ser implementar medidas concretas, como o fim da escala 6x1, em vez de focar em decretos ou alianças políticas.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzy2s4avkk2n",
+      "rank": 4,
+      "title": "Visita técnica ao parque Paulo Cesar Vinha nunca aconteceu após mês de estudo",
+      "label": "Visita escolar frustrada · Parque Paulo Cesar Vinha",
+      "context": "Um estudante relata que, no ensino fundamental, passou um mês estudando o Parque Estadual Paulo Cesar Vinha e a Reserva de Jacarenema para uma visita técnica que nunca ocorreu. O episódio marcou o aluno, que passou a enxergar o entorno de outra forma, especialmente por morar em área de extração de areia ligada à morte do biólogo que dá nome ao parque.",
+      "source": "bluesky",
+      "subreddit": "bsky_es",
+      "permalink": "https://bsky.app/profile/dreeh.bsky.social/post/3mzy2s4avkk2n",
+      "createdAt": "2026-11-10T18:24:24.481000+00:00",
+      "rawScore": 0.36558500852430287,
+      "relevanceScore": 0.3525769959666873,
+      "suggestedRadius": 71.63,
+      "imageUrl": "assets/images/bsky_3mzy2s4avkk2n_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzy2s4avkk2n_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-es",
+      "sources": [
+        {
+          "title": "No ensino fundamental, na preparação para uma visita técnica ao parque estadual Paulo Cesar Vinha, passamos um mês estudando o parque e a reserva de Jacarenema, no fim a visita nunca aconteceu, no dia VV estava fazendo o que fazia de melhor, sendo a Veneza Capixaba, mas algo mudou pra mim",
+          "url": "https://bsky.app/profile/dreeh.bsky.social/post/3mzy2s4avkk2n",
+          "subreddit": "bsky_es"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Mesmo sem a visita, o mês estudando o parque e a reserva mudou minha forma de ver o lugar onde eu vivia. Aprendi sobre a extração de areia e a história do Paulo Cesar Vinha, e isso me marcou mais do que qualquer passeio.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Prometer uma visita técnica e não cumprir depois de um mês de preparação é frustrante e desmotiva os alunos. A escola criou uma expectativa que nunca foi atendida, e o aprendizado prático ficou só no papel.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Visitas técnicas boas são assim: às vezes o trajeto muda, mas o que fica é o aprendizado. O relato mostra que a preparação em si já valeu, mesmo sem o passeio, porque despertou um olhar crítico sobre o entorno.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzvgtcuyhc2e",
+      "rank": 5,
+      "title": "Cai uma gota de chuva no ES e capixaba esquece como dirige",
+      "label": "Chuva no ES · Motoristas despreparados",
+      "context": "Um post no Bluesky ironizou a reação de motoristas capixabas a uma chuva leve no Espírito Santo, dizendo que até uma gota faz o capixaba esquecer como dirigir. A piada repercutiu entre pessoas que também notaram motoristas confusos ou lentos ao volante em dias de chuva.",
+      "source": "bluesky",
+      "subreddit": "bsky_es",
+      "permalink": "https://bsky.app/profile/rainha.bsky.social/post/3mzvgtcuyhc2e",
+      "createdAt": "2026-11-09T17:21:54.579000+00:00",
+      "rawScore": 0.33576525752532477,
+      "relevanceScore": 0.32214582231743827,
+      "suggestedRadius": 70.05,
+      "imageUrl": "assets/images/bsky_3mzvgtcuyhc2e_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzvgtcuyhc2e_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-es",
+      "sources": [
+        {
+          "title": "cai teis gota de chuva no ES Capixaba: -esqueci como dirige",
+          "url": "https://bsky.app/profile/rainha.bsky.social/post/3mzvgtcuyhc2e",
+          "subreddit": "bsky_es"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A piada acerta em cheio: basta uma garoa para o trânsito travar e aparecer gente perdida no volante. O capixaba não está acostumado com chuva e reage como se fosse temporal, esquecendo até onde ficam os pedais.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa fama de que capixaba esquece como dirigir na chuva é exagero. O problema é a falta de educação no trânsito e de manutenção das vias, não a chuva em si. Culpar o motorista por uma gota é fácil e não resolve nada.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A reação exagerada pode ser só falta de costume com chuva, mas também reflete o quanto as pessoas se distraem ao volante. O comentário de que ninguém lembra onde ficam os pedais mostra que a atenção anda baixa em qualquer clima.",
           "source": "sintese",
           "evidence": [
             1
@@ -189,17 +303,17 @@
     },
     {
       "id": "bsky_3mzvnq7mo4227",
-      "rank": 4,
-      "title": "Capixabas com sobrenomes europeus e a piada do chá revelação de ancestralidade",
-      "label": "Piada com sobrenomes europeus no ES",
-      "context": "Uma postagem no Bluesky ironiza capixabas que se dizem europeus por causa dos sobrenomes, sugerindo um 'chá revelação' para descendentes de alemães e italianos no Espírito Santo. A piada viraliza ao expor a distância entre a origem familiar real e a imagem de nobreza europeia que alguns mantêm.",
+      "rank": 6,
+      "title": "Capixabas com sobrenomes europeus e a piada sobre ancestralidade",
+      "label": "Sobrenomes europeus no ES · Piada",
+      "context": "Um post no Bluesky ironiza capixabas que se dizem europeus por causa dos sobrenomes, sugerindo um 'chá revelação' para descendentes de alemães e italianos no Espírito Santo. A piada viraliza ao brincar com a ideia de que muitos descendentes exageram a origem nobre ou europeia da família.",
       "source": "bluesky",
       "subreddit": "bsky_es",
       "permalink": "https://bsky.app/profile/adealinee.bsky.social/post/3mzvnq7mo4227",
       "createdAt": "2026-11-09T19:25:24.177000+00:00",
-      "rawScore": 0.1310940969695423,
-      "relevanceScore": 0.2525542758651262,
-      "suggestedRadius": 66.15,
+      "rawScore": 0.19580886297439598,
+      "relevanceScore": 0.2813701638949756,
+      "suggestedRadius": 67.83,
       "imageUrl": "assets/images/bsky_3mzvnq7mo4227_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzvnq7mo4227_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -220,180 +334,57 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A piada acerta em cheio porque muita gente no Espírito Santo realmente se agarra a sobrenomes alemães e italianos para se sentir superior, ignorando que a maioria descende de camponeses e não de nobres. Rir disso é uma forma de quebrar essa pose.",
+          "text": "A piada acerta em cheio: muita gente no ES se acha europeia só pelo sobrenome, mas a maioria descende de imigrantes pobres que vieram para trabalhar na roça, não de nobres. Rir disso é saudável e ajuda a desmontar essa pose.",
           "source": "sintese",
           "evidence": [
             1,
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa ironia é desnecessária e generaliza. Ter sobrenome italiano ou alemão é motivo de orgulho para famílias que preservaram tradições, e não significa que a pessoa se sinta superior. Zoar a ancestralidade dos outros é desrespeitoso.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A brincadeira tem um fundo de verdade, mas também revela como a imigração europeia foi idealizada. O problema não é ter sobrenome, é achar que isso define status. Vale a reflexão, mas sem levar a piada tão a sério.",
+          "source": "sintese",
+          "evidence": [
             2
           ],
           "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Quem critica a piada diz que ela generaliza e ridiculariza a herança familiar de milhares de capixabas, transformando orgulho legítimo das origens em motivo de chacota. Para eles, o deboche reforça estereótipos e não ajuda em nada.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A brincadeira funciona como catarse, mas também revela o quanto a sociedade capixaba ainda valoriza sobrenomes europeus como sinal de status. Talvez o melhor seja rir sem perder de vista que a mistura real é bem mais complexa do que a piada sugere.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
         }
       ],
       "enrichedBy": "deepseek-chat",
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzvgtcuyhc2e",
-      "rank": 5,
-      "title": "Capixaba esquece como dirigir após primeiras gotas de chuva no ES",
-      "label": "Chuva no ES · Motoristas despreparados",
-      "context": "Um post no Bluesky ironiza o comportamento de motoristas capixabas após as primeiras gotas de chuva no Espírito Santo, dizendo que eles esquecem como dirigir. A piada repercutiu entre usuários que comentam a falta de preparo ao volante em dias de chuva.",
-      "source": "bluesky",
-      "subreddit": "bsky_es",
-      "permalink": "https://bsky.app/profile/rainha.bsky.social/post/3mzvgtcuyhc2e",
-      "createdAt": "2026-11-09T17:21:54.579000+00:00",
-      "rawScore": 0.2178318419102582,
-      "relevanceScore": 0.23773482847867272,
-      "suggestedRadius": 65.25,
-      "imageUrl": "assets/images/bsky_3mzvgtcuyhc2e_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzvgtcuyhc2e_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-es",
-      "sources": [
-        {
-          "title": "cai teis gota de chuva no ES Capixaba: -esqueci como dirige",
-          "url": "https://bsky.app/profile/rainha.bsky.social/post/3mzvgtcuyhc2e",
-          "subreddit": "bsky_es"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A piada acerta em cheio: basta cair meia dúzia de gotas para o capixaba esquecer onde ficam os pedais. É um jeito leve de rir de uma cena que todo mundo que dirige no ES já viu, sem ofender ninguém.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Rir disso esconde um problema real: tem gente que realmente trava com a primeira chuva e vira risco na rua. O comentário de que as pessoas não lembram nem onde ficam os pedais mostra que a falta de preparo não é só piada.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A brincadeira funciona como alerta: a primeira chuva sempre pega o motorista desprevenido, e o comentário sobre esquecer os pedais reflete isso. Vale rir, mas também lembrar de redobrar a atenção quando a pista molha.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzihfb2q7c2e",
-      "rank": 6,
-      "title": "Eixo SP-RJ se acusa enquanto resto do Brasil é chamado de Hitler Júnior e Mussolini Capixaba",
-      "label": "Crítica ao eixo SP-RJ e apelidos políticos",
-      "context": "Um post no Bluesky critica o eixo SP-RJ por se acusar mutuamente de eleger Tarcísio ou milicianos, enquanto o resto do Brasil é rotulado com apelidos como Adolf Hitler Júnior, Mussolini Capixaba e Oliveira Salazar da Silva. A postagem gerou comentários que desviam para nomes de bairros da Grande Vitória, como Boa Vista, Jardim do Vale e Gaivota.",
-      "source": "bluesky",
-      "subreddit": "bsky_es",
-      "permalink": "https://bsky.app/profile/pangolimgigante.bsky.social/post/3mzihfb2q7c2e",
-      "createdAt": "2026-11-04T13:27:17.272000+00:00",
-      "rawScore": 0.032710165409956464,
-      "relevanceScore": 0.14261856049075894,
-      "suggestedRadius": 58.66,
-      "imageUrl": "assets/images/bsky_3mzihfb2q7c2e_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzihfb2q7c2e_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-es",
-      "sources": [
-        {
-          "title": "O eixo SP-RJ é tão RJ-SP centrado que eles acham que ficar um ao outro acusando eh uma grande coisa “Ah vcs elegeram Tarcísio” “Mas vcs só elegem miliciano” (Inclusive opiniões sobre isso aqui) E o resto do Brasil tb tá tipo Adolf Hitler Júnior. Mussolini Capixaba. Oliveira Salazar da Silva.",
-          "url": "https://bsky.app/profile/pangolimgigante.bsky.social/post/3mzihfb2q7c2e",
-          "subreddit": "bsky_es"
-        },
-        {
-          "title": "Amg, dou altas risadas com vários nomes de bairro da Grande Vitória, Duas Bocas e Sabão para mim são uma coisa que não dá",
-          "url": "https://bsky.app/profile/dreeh.bsky.social/post/3mzjgqep6i22s",
-          "subreddit": "bsky_es"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A crítica acerta em cheio: o eixo SP-RJ fica nessa troca de acusações sobre Tarcísio e milicianos como se fosse o grande debate nacional, enquanto o resto do Brasil é reduzido a apelidos como Hitler Júnior e Mussolini Capixaba. Isso mostra como a política é vista de forma caricata fora do eixo.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Rotular o resto do Brasil de Hitler Júnior ou Mussolini Capixaba é um exagero que só reforça o preconceito contra quem vive fora do eixo SP-RJ. A crítica original perde a força quando usa esses apelidos, pois generaliza e ofende em vez de debater ideias.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A discussão sobre o eixo SP-RJ e os apelidos políticos acabou desviando para nomes de bairros da Grande Vitória, como Boa Vista e Jardim do Vale. Isso mostra que o assunto principal não engajou tanto quanto os comentários sobre curiosidades locais.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2,
-            3
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mztti6f3qk22",
+      "id": "bsky_3mzxyuyx45s2v",
       "rank": 7,
-      "title": "FIQ2026 chega ao fim com agradecimentos e expectativa para a CCXP",
-      "label": "FIQ2026 · Encerramento e balanço",
-      "context": "O Festival Internacional de Quadrinhos (FIQ) 2026 terminou, e a organização agradeceu publicamente a participação do público e dos profissionais que passaram pelo evento. O encerramento já direciona a expectativa para a próxima CCXP, principal convenção de cultura pop do país.",
+      "title": "Faço dessa luta uma grande vitória todos os dias, sertanejo? Eca!",
+      "label": "Crítica ao sertanejo · Rejeição ao gênero",
+      "context": "Um usuário do Bluesky publicou uma mensagem dizendo que transforma sua luta em vitória diária e, em seguida, criticou o sertanejo com a expressão 'eca'. A postagem expressa rejeição ao gênero musical, mas não há comentários que detalhem os motivos dessa crítica.",
       "source": "bluesky",
       "subreddit": "bsky_es",
-      "permalink": "https://bsky.app/profile/daieny.bsky.social/post/3mztti6f3qk22",
-      "createdAt": "2026-11-09T02:02:58.773000+00:00",
-      "rawScore": 0.07779638203548941,
-      "relevanceScore": 0.0812570559901099,
-      "suggestedRadius": 53.1,
-      "imageUrl": "assets/images/bsky_3mztti6f3qk22_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztti6f3qk22_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/dabeeshoo.bsky.social/post/3mzxyuyx45s2v",
+      "createdAt": "2026-11-10T17:50:15.878000+00:00",
+      "rawScore": 0.268400149638257,
+      "relevanceScore": 0.2533994637015663,
+      "suggestedRadius": 66.2,
+      "imageUrl": "assets/images/bsky_3mzxyuyx45s2v_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzxyuyx45s2v_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-es",
       "sources": [
         {
-          "title": "Chegamos ao fim do FIQ2026! Muito obrigada a todos que passaram na mesa e aos tantos que esbarrei pelos corredores! Nos vemos na CCXP! 👀 #fiqbh #fiq #fiq2026 #quadrinhos #capixaba",
-          "url": "https://bsky.app/profile/daieny.bsky.social/post/3mztti6f3qk22",
+          "title": "Faço dessa luta uma grande vitoria todos os dias, Sertanejo? eca!",
+          "url": "https://bsky.app/profile/dabeeshoo.bsky.social/post/3mzxyuyx45s2v",
           "subreddit": "bsky_es"
         }
       ],
@@ -401,7 +392,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O FIQ2026 cumpriu o papel de celebrar os quadrinhos e reunir tanta gente bacana. A organização agradecer e já apontar para a CCXP mostra que o evento foi um sucesso e que a cena está viva.",
+          "text": "O sertanejo virou fórmula repetitiva de sofrência e ostentação, e quem gosta de música de verdade tem todo o direito de torcer o nariz para o gênero sem ser chamado de preconceituoso.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -409,7 +400,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ainda falta mais estrutura e divulgação para o FIQ. O evento é bom, mas poderia ter mais espaço, mais convidados e melhor organização para não depender só da boa vontade dos artistas.",
+          "text": "Criticar o sertanejo com um 'eca' é desrespeito com um gênero que move multidões e sustenta a carreira de milhares de músicos e trabalhadores do setor em todo o país.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -417,7 +408,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O FIQ2026 acabou e já estamos na expectativa da CCXP, mas cada evento tem seu propósito. O FIQ é mais focado nos quadrinhos independentes, enquanto a CCXP é generalista. Ambos são importantes para o mercado.",
+          "text": "Gosto musical é algo pessoal e cada um reage como quer, mas reduzir o sertanejo a um 'eca' ignora que o gênero tem vertentes e qualidade variada, então o comentário diz mais sobre quem postou do que sobre a música.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -430,15 +421,15 @@
       "id": "bsky_3mzrkfqifc22z",
       "rank": 8,
       "title": "Capixaba fica famoso no mundo inteiro após levar lapada de Erika Hilton",
-      "label": "Capixaba famoso · Lapada de Erika Hilton",
-      "context": "Um homem capixaba ficou conhecido internacionalmente depois de levar uma lapada da deputada Erika Hilton. O episódio viralizou e gerou comentários sobre a exposição do envolvido.",
+      "label": "Capixaba famoso após lapada de Erika Hilton",
+      "context": "Um homem capixaba ficou conhecido internacionalmente depois de levar uma lapada de Erika Hilton, conforme post no Bluesky. O episódio gerou repercussão e comentários sobre a fama repentina do envolvido.",
       "source": "bluesky",
       "subreddit": "bsky_es",
       "permalink": "https://bsky.app/profile/followlori.bsky.social/post/3mzrkfqifc22z",
       "createdAt": "2026-11-08T04:15:12.573000+00:00",
-      "rawScore": 0.07669445750587534,
-      "relevanceScore": 0.08002574860554662,
-      "suggestedRadius": 52.97,
+      "rawScore": 0.13258438372626308,
+      "relevanceScore": 0.11479893826742435,
+      "suggestedRadius": 56.33,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -454,7 +445,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Erika Hilton deu uma resposta à altura e o capixaba virou exemplo de que não se pode sair por aí envergonhando os outros. A lapada foi merecida e agora ele é famoso do jeito que merece.",
+          "text": "Erika Hilton deu uma aula e o capixaba virou famoso mundialmente, mostrando que quem se envolve com ela sai conhecido. A lapada foi tão forte que virou meme e notícia no exterior.",
           "source": "sintese",
           "evidence": [
             1
@@ -464,7 +455,64 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Expor alguém assim, mesmo que ele tenha errado, só aumenta a vergonha e vira espetáculo. O capixaba pode ter exagerado, mas a reação pública foi desproporcional e só serviu para humilhar.",
+          "text": "Esse capixaba envergonha a gente mais que o Roberto Carlos, e agora ficou famoso por levar uma lapada. É uma pena que a fama venha de algo assim, mas pelo menos serve de alerta.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A fama do capixaba após a lapada de Erika Hilton é curiosa: ele ficou conhecido no mundo inteiro, mas será que isso traz alguma consequência real? O episódio rendeu memes, mas talvez não passe disso.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mztti6f3qk22",
+      "rank": 9,
+      "title": "FIQ2026 chega ao fim com agradecimentos e expectativa para a CCXP",
+      "label": "FIQ2026 · Encerramento e balanço",
+      "context": "O Festival Internacional de Quadrinhos (FIQ) 2026 terminou, e a organização agradeceu publicamente a participação do público e dos profissionais que passaram pelo evento. O encerramento já direciona a expectativa para a próxima CCXP, principal convenção de cultura pop do país.",
+      "source": "bluesky",
+      "subreddit": "bsky_es",
+      "permalink": "https://bsky.app/profile/daieny.bsky.social/post/3mztti6f3qk22",
+      "createdAt": "2026-11-09T02:02:58.773000+00:00",
+      "rawScore": 0.1255873825985889,
+      "relevanceScore": 0.10765847098627432,
+      "suggestedRadius": 55.69,
+      "imageUrl": "assets/images/bsky_3mztti6f3qk22_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mztti6f3qk22_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-es",
+      "sources": [
+        {
+          "title": "Chegamos ao fim do FIQ2026! Muito obrigada a todos que passaram na mesa e aos tantos que esbarrei pelos corredores! Nos vemos na CCXP! 👀 #fiqbh #fiq #fiq2026 #quadrinhos #capixaba",
+          "url": "https://bsky.app/profile/daieny.bsky.social/post/3mztti6f3qk22",
+          "subreddit": "bsky_es"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O FIQ2026 cumpriu o papel de celebrar os quadrinhos e reunir gente de todo o país. A organização agradecer a presença e já apontar para a CCXP mostra que o evento termina em alta e mantém a comunidade animada para o próximo encontro.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O FIQ2026 termina com um post de agradecimento genérico, sem balanço do que funcionou ou falhou. Quem foi ao evento merecia um retorno mais concreto sobre estrutura, programação e os problemas que aconteceram nos corredores.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -472,7 +520,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A fama mundial veio de um episódio negativo, e isso diz mais sobre como as redes amplificam conflitos do que sobre o capixaba em si. O caso mostra que qualquer um pode virar meme sem querer.",
+          "text": "O encerramento do FIQ2026 e a menção à CCXP mostram que o calendário de eventos de quadrinhos não para. O ideal é que o FIQ mantenha sua identidade própria, sem virar apenas uma prévia ou aquecimento para a CCXP.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -483,17 +531,17 @@
     },
     {
       "id": "bsky_3mzlztln5d22w",
-      "rank": 9,
+      "rank": 10,
       "title": "Fazer um McFish 100% capixaba para o pererecababy",
-      "label": "McFish capixaba · receita com tilápia e coentro",
-      "context": "Um usuário do Bluesky anunciou que vai preparar um sanduíche inspirado no McFish, mas com ingredientes capixabas, para outra pessoa. A receita inclui filé de tilápia empanado no pão francês, coleslaw com muito coentro e queijo prato.",
+      "label": "McFish capixaba · receita com tilápia",
+      "context": "Um usuário do Bluesky anunciou que vai preparar um McFish 100% capixaba para o pererecababy. A receita usa filé de tilápia empanado no pão francês, coleslaw com muito coentro e queijo prato.",
       "source": "bluesky",
       "subreddit": "bsky_es",
       "permalink": "https://bsky.app/profile/karmalopice.bsky.social/post/3mzlztln5d22w",
       "createdAt": "2026-11-05T23:35:23.985000+00:00",
-      "rawScore": 0.056794783628372474,
-      "relevanceScore": 0.057789547543435946,
-      "suggestedRadius": 50.42,
+      "rawScore": 0.10546058828360748,
+      "relevanceScore": 0.08711899790942311,
+      "suggestedRadius": 53.71,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -509,7 +557,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A combinação de tilápia empanada com coentro e queijo prato no pão francês é uma sacada genial, porque valoriza ingredientes locais e ainda faz graça com o queijo. Um McFish capixaba assim mostra criatividade e identidade regional.",
+          "text": "A combinação de tilápia empanada com pão francês e coleslaw com coentro é uma sacada genial, porque valoriza ingredientes locais e dá um toque capixaba de verdade ao sanduíche. O queijo prato só pra fazer graça mostra que a receita foi pensada com humor e identidade.",
           "source": "sintese",
           "evidence": [
             1
@@ -519,70 +567,21 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Trocar o peixe original por tilápia e exagerar no coentro pode descaracterizar totalmente o sanduíche. McFish é uma referência e mexer assim na receita pode não agradar quem espera o sabor clássico.",
+          "text": "Chamar de McFish uma receita com tilápia e pão francês é forçar a barra, já que o original leva peixe branco e pão de hambúrguer. O coentro em excesso no coleslaw pode dominar o sabor e desviar da proposta inicial.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A receita é criativa, mas o resultado final depende do equilíbrio dos ingredientes. Tilápia empanada e coentro em excesso podem dominar o sabor, então só provando para saber se a versão capixaba funciona.",
+          "text": "A receita é criativa, mas o resultado final depende do equilíbrio do coentro no coleslaw e do ponto do peixe empanado. Sem uma prova, fica difícil dizer se a versão capixaba realmente funciona ou se é só uma brincadeira.",
           "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzsgomstmc2q",
-      "rank": 10,
-      "title": "Moqueca Capixaba: desenho feito durante almoço em dia de chuva",
-      "label": "Moqueca Capixaba · Desenho e almoço",
-      "context": "O post mostra um desenho em acrílico sobre papel offset A4 chamado 'Moqueca Capixaba', feito durante um almoço em um sábado chuvoso. O autor relata ter ido de bicicleta ao local na Rua Mourato Coelho, 615, e destaca o custo-benefício do restaurante.",
-      "source": "bluesky",
-      "subreddit": "bsky_es",
-      "permalink": "https://bsky.app/profile/artistasiqueira.bsky.social/post/3mzsgomstmc2q",
-      "createdAt": "2026-11-08T12:41:21.778000+00:00",
-      "rawScore": 0.033640610934114426,
-      "relevanceScore": 0.03191671954506261,
-      "suggestedRadius": 46.72,
-      "imageUrl": "assets/images/bsky_3mzsgomstmc2q_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzsgomstmc2q_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-es",
-      "sources": [
-        {
-          "title": "Moqueca Capixaba. Acrílico sobre papel offset 240g A4 Chovia enquanto eu desenhava durante o almoço. Sábado a tarde, havíamos ido de bicicleta comer emoção, alimento para a alma e para o espírito. Mais do que um preparo com carinho, o custo benefício desse local é nota mil. Rua Mourato Coelho, 615",
-          "url": "https://bsky.app/profile/artistasiqueira.bsky.social/post/3mzsgomstmc2q",
-          "subreddit": "bsky_es"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O custo-benefício desse restaurante na Mourato Coelho é realmente nota mil, como o autor disse. Ir de bicicleta num sábado chuvoso só para comer algo feito com carinho mostra que a experiência vale a pena.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Desenhar durante o almoço e postar a arte não torna o restaurante especial. O texto fala mais de emoção e alma do que da comida em si, e isso não prova que a moqueca capixaba seja boa.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O relato mistura arte, chuva e bicicleta, mas não detalha o sabor da moqueca. Sem comentários de outras pessoas, fica difícil saber se o custo-benefício é mesmo nota mil ou se é só uma impressão pessoal.",
-          "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],

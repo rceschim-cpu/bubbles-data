@@ -1,21 +1,93 @@
 {
-  "generatedAt": "2026-11-11T05:23:48.269760+00:00",
+  "generatedAt": "2026-11-11T19:29:26.726534+00:00",
   "region": "br-go",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3mzyrp2ndis26",
+      "id": "bsky_3n22evffvbc2f",
       "rank": 1,
-      "title": "Usuária de Goiás pede que amigos da internet a visitem em vez de ela viajar",
-      "label": "Visitas entre amigos de internet · Goiás",
-      "context": "Uma usuária do Bluesky que se apresenta como moradora do interior de Goiás disse que já viajou várias vezes para outros estados para conhecer pessoas da internet e agora pede que os amigos venham até ela. O pedido inverte a lógica das visitas e vira conversa sobre receber gente de fora em cidades pequenas.",
+      "title": "Globo repetiu com Goiânia o que fez em 2014 com novela gravada no interior",
+      "label": "Novela das 21h · Gravação no interior",
+      "context": "Um post no Bluesky compara a situação atual de Goiânia com uma novela das 21h da Globo gravada no interior goiano em 2014, com cenas de pessoas andando a cavalo. A comparação gerou comentários ironizando a ideia de cavalos e carroças circulando pela cidade, como se o transporte rural fosse realidade no trânsito urbano.",
+      "source": "bluesky",
+      "subreddit": "bsky_go",
+      "permalink": "https://bsky.app/profile/lumendes.bsky.social/post/3n22evffvbc2f",
+      "createdAt": "2026-11-11T16:30:32.470000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-go",
+      "sources": [
+        {
+          "title": "A Globo fez a mesma coisa com Goiânia em 2014, foram pro interior gravar uma novela com gente andando a cavalo e foi uma das piores novelas das 21h",
+          "url": "https://bsky.app/profile/lumendes.bsky.social/post/3n22evffvbc2f",
+          "subreddit": "bsky_go"
+        },
+        {
+          "title": "Vc tá me dizendo que não tem engarrafamento de cavalo em Goiânia no horário de pico? Não acredito!",
+          "url": "https://bsky.app/profile/nvaidarcerto.bsky.social/post/3n22fsn5ucc23",
+          "subreddit": "bsky_go"
+        },
+        {
+          "title": "Meu amor voltou pra Goiânia. To sentindo um vazio sem ela, sem bts, sem Taemin...unica coisa que me restou foram contas pra pagar 😭",
+          "url": "https://bsky.app/profile/tangmi.bsky.social/post/3mzwa76jygc2y",
+          "subreddit": "bsky_go"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Globo errou feio ao levar uma novela para o interior e retratar Goiânia com gente a cavalo, como se fosse uma cidade rural. Foi uma das piores novelas das 21h justamente por esse retrato desconectado da realidade urbana.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Goiânia tem avenidas movimentadas e ruas com nomes como C-144, mas nada de engarrafamento de cavalo no horário de pico. A piada com carroças e colheita de milho na Praça Cívica mostra como o estereótipo de cidade do interior é exagerado.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3,
+            4
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A comparação com a novela de 2014 rendeu piadas sobre cavalos e carroças, mas o post original só citava a gravação no interior. O assunto virou conversa sobre a vida real em Goiânia, com direito a desabafo sobre voltar à rotina e às contas.",
+          "source": "sintese",
+          "evidence": [
+            5,
+            6
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzyrp2ndis26",
+      "rank": 2,
+      "title": "Usuária do Bluesky pede que amigos da internet a visitem em Goiás",
+      "label": "Visitas entre amigos virtuais · Goiás",
+      "context": "Uma usuária do Bluesky que se identifica como moradora de uma cidade pequena de Goiás publicou um pedido para que amigos que conheceu pela internet venham visitá-la em vez de chamá-la para outros estados. Ela diz que já fez esse deslocamento várias vezes e que desta vez prefere receber as visitas em sua cidade.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/felicitriste.bsky.social/post/3mzyrp2ndis26",
       "createdAt": "2026-11-11T01:14:18.769000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.48950493860387306,
+      "relevanceScore": 0.6121903489330645,
+      "suggestedRadius": 82.95,
       "imageUrl": "assets/images/bsky_3mzyrp2ndis26_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzyrp2ndis26_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -27,13 +99,13 @@
           "subreddit": "bsky_go"
         },
         {
-          "title": "aqui em Goiás as igrejas são bem fuleira mesmo, nunca vi uma dessas church (talvez deva ter alguma na capital, sei lá)",
-          "url": "https://bsky.app/profile/lilithoff.bsky.social/post/3mztmy3nxjc2r",
+          "title": "Essa aqui do Fabrício Rosa Assinem aliás, isso aqui é muito ridículo. Não precisa ser de Goiás! fabriciorosa.com.br/abaixo-assin...",
+          "url": "https://bsky.app/profile/soukyuu.neocities.org/post/3mzrfijynns2i",
           "subreddit": "bsky_go"
         },
         {
-          "title": "Essa aqui do Fabrício Rosa Assinem aliás, isso aqui é muito ridículo. Não precisa ser de Goiás! fabriciorosa.com.br/abaixo-assin...",
-          "url": "https://bsky.app/profile/soukyuu.neocities.org/post/3mzrfijynns2i",
+          "title": "aqui em Goiás as igrejas são bem fuleira mesmo, nunca vi uma dessas church (talvez deva ter alguma na capital, sei lá)",
+          "url": "https://bsky.app/profile/lilithoff.bsky.social/post/3mztmy3nxjc2r",
           "subreddit": "bsky_go"
         }
       ],
@@ -41,7 +113,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Quem já se deslocou tantas vezes para visitar gente de outros estados tem todo o direito de agora só receber. Viajar é caro e cansativo, e quem quer manter a amizade que faça o esforço de ir até a cidade dela dessa vez.",
+          "text": "Quem já pegou estrada várias vezes para ver amigos virtuais tem todo o direito de inverter a mão e pedir que venham até ela. Visitar a cidade pequena da pessoa também é conhecer a vida real dela, não só a versão que aparece na tela.",
           "source": "sintese",
           "evidence": [
             1
@@ -51,7 +123,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Receber alguém de internet em casa é outra história: a pessoa chega falando 'vou te visitar aí na sua quebrada' e você é que decide se abre a porta ou não. Quem mora em cidade pequena sabe que expor endereço e rotina para desconhecido tem risco.",
+          "text": "Receber gente que só se conhece pela internet em casa é arriscado, e o comentário sobre decidir se recebe com espingarda ou não mostra que a confiança ainda é baixa. Antes de cobrar visita, o pessoal precisa combinar bem quem é quem e em que condições.",
           "source": "sintese",
           "evidence": [
             1
@@ -61,11 +133,13 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A conversa sobre igrejas de parede preta mostra que o interior de Goiás tem menos dessas estruturas que a capital ou o Sudeste. Então a troca de visitas também depende de quanto a cidade oferece para quem vem de fora, e não só da boa vontade dos dois lados.",
+          "text": "A conversa toda acabou virando piada com o nome da cidade e com igrejas de parede preta, o que mostra que o pedido original ficou em segundo plano. Talvez o mais útil fosse ela dizer em qual cidade está e o que tem por aí para visitar.",
           "source": "sintese",
           "evidence": [
             2,
-            4
+            3,
+            4,
+            5
           ],
           "votes": 0
         }
@@ -74,18 +148,128 @@
       "promptVersion": 2
     },
     {
+      "id": "bsky_3mzzwxwpbwk2t",
+      "rank": 3,
+      "title": "Mulheres relatam abusos sexuais e trabalho sem salário por pastor Pablo Godoi em Goiânia",
+      "label": "Denúncias contra pastor Pablo Godoi · Goiânia",
+      "context": "Mulheres denunciam o pastor Pablo Godoi, em Goiânia, por abusos sexuais, trabalho sem salário e controle da vida pessoal ao longo de dez anos de submissão. As denúncias apontam para a necessidade de responsabilização do pastor e de investigação das acusações.",
+      "source": "bluesky",
+      "subreddit": "bsky_go",
+      "permalink": "https://bsky.app/profile/brasinha.bsky.social/post/3mzzwxwpbwk2t",
+      "createdAt": "2026-11-11T12:21:35.180000+00:00",
+      "rawScore": 0.6013690805321906,
+      "relevanceScore": 0.5681352961724893,
+      "suggestedRadius": 81.22,
+      "imageUrl": "assets/images/bsky_3mzzwxwpbwk2t_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzzwxwpbwk2t_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-go",
+      "sources": [
+        {
+          "title": "ESTES VAGABUNDOS SUJOS TRAVESTIDOS DE PASTORES CADEIA NESTE VAGABUNDO CANALHA SUJO CRIMINOSO DEZ ANOS DE SUBMISSÃO: MULHERES RELATAM ABUSOS SEXU4IS, TRABALHO SEM SALÁRIO E CONTROLE DA VIDA PESSOAL POR PASTOR PABLO GODOI, EM GOIÂNIA CADEIA NESTE MONSTRO.",
+          "url": "https://bsky.app/profile/brasinha.bsky.social/post/3mzzwxwpbwk2t",
+          "subreddit": "bsky_go"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "As denúncias contra o pastor Pablo Godoi precisam ser investigadas a fundo e ele deve responder na Justiça por abusos sexuais, trabalho escravo e controle sobre a vida das mulheres. Casos assim mostram a urgência de proteger vítimas em ambientes religiosos.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A imagem de IA usada na notícia desvia o foco do que realmente importa: as acusações graves contra o pastor. Em vez de sensacionalismo visual, a imprensa deveria investir em apuração séria e em dar voz às vítimas com responsabilidade.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O caso envolvendo o pastor Pablo Godoi é grave, mas é preciso cautela para não transformar a denúncia em espetáculo midiático. A prioridade deve ser a apuração dos fatos e o acolhimento das mulheres, sem julgamentos precipitados.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n22g6hjmk223",
+      "rank": 4,
+      "title": "Ruas de Goiânia com nome C + número são para cavalos ou carroças?",
+      "label": "Nomes de ruas em Goiânia · C + número",
+      "context": "Um post no Bluesky pergunta se ruas de Goiânia nomeadas com a letra C seguida de um número são destinadas a cavalos ou carroças. A dúvida surgiu porque esse padrão de nome não é comum e gerou uma piada nos comentários.",
+      "source": "bluesky",
+      "subreddit": "bsky_go",
+      "permalink": "https://bsky.app/profile/nvaidarcerto.bsky.social/post/3n22g6hjmk223",
+      "createdAt": "2026-11-11T16:53:31.878000+00:00",
+      "rawScore": 0.5703240894817447,
+      "relevanceScore": 0.5388059612331063,
+      "suggestedRadius": 80.04,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-go",
+      "sources": [
+        {
+          "title": "Tem umas ruas em Goiânia que o nome é C + número, então essas ruas são pra cavalos ou carroças?",
+          "url": "https://bsky.app/profile/nvaidarcerto.bsky.social/post/3n22g6hjmk223",
+          "subreddit": "bsky_go"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A piada do C-144 como limite de carroças faz sentido: se a rua tem número, é porque foi planejada para algum tipo de tráfego específico, e a brincadeira ajuda a lembrar que nem toda nomenclatura urbana é óbvia.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Ruas com C + número não têm nada a ver com cavalos ou carroças; é só uma forma de identificar vias em conjuntos habitacionais, e a piada só confunde quem realmente quer entender o endereço.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A dúvida é válida porque o padrão C + número não é explicado em lugar nenhum, mas a resposta mais provável é que seja apenas uma convenção urbanística antiga, sem relação com tração animal.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
       "id": "bsky_3mzyj6o7ngk2b",
-      "rank": 2,
+      "rank": 5,
       "title": "Somando os kg de ácido hialurônico da foto, dá a distância de Goiás ao Paraguai",
       "label": "Ácido hialurônico · Exagero em foto",
-      "context": "Uma foto com grande quantidade de ácido hialurônico viralizou e gerou comparações bem-humoradas sobre o volume do produto. A piada relaciona a quantidade de quilos do material à distância entre Goiás e o Paraguai.",
+      "context": "Uma publicação no Bluesky comparou a quantidade de ácido hialurônico em uma foto à distância entre Goiás e o Paraguai. A comparação viralizou e gerou comentários sobre a economia e a população paraguaia.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/pracmarina.bsky.social/post/3mzyj6o7ngk2b",
       "createdAt": "2026-11-10T22:41:58.284000+00:00",
-      "rawScore": 0.4046219880463483,
-      "relevanceScore": 0.5319983307263475,
-      "suggestedRadius": 79.76,
+      "rawScore": 0.359472628037357,
+      "relevanceScore": 0.4893440841894181,
+      "suggestedRadius": 77.97,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -111,33 +295,34 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A comparação com a quilometragem de Goiás ao Paraguai é uma forma criativa de expor o exagero da foto. O humor ajuda a chamar atenção para o volume absurdo de ácido hialurônico mostrado, sem precisar de discurso moralista.",
+          "text": "A comparação é engraçada e exagerada, mas o fundo é real: o Paraguai tem uma economia muito menor que a de Goiás e apenas 6 milhões de habitantes, então quem vê oportunidade lá precisa considerar esses números.",
           "source": "sintese",
           "evidence": [
-            1
+            2,
+            3,
+            5
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ficar só na piada sobre a quantidade de ácido hialurônico esconde o problema real: o Paraguai tem economia menor que a de Goiás e 60% dos trabalhadores na informalidade. A brincadeira desvia o foco de questões econômicas sérias.",
+          "text": "O problema não é o exagero da piada, é que ela esconde a real: 60% dos trabalhadores paraguaios estão na informalidade, e isso sim é uma bomba-relógio para o futuro do país, muito mais do que a quantidade de ácido hialurônico.",
           "source": "sintese",
           "evidence": [
-            2,
-            3
+            4
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A piada funciona, mas os dados que aparecem nos comentários mostram que o Paraguai tem só 6 milhões de habitantes e economia menor que a de Goiás. Então a comparação é engraçada, mas não diz nada sobre as oportunidades reais no país.",
+          "text": "A conta do ácido hialurônico é só uma brincadeira, mas os dados que apareceram nos comentários mostram que a economia paraguaia é bem menor e a informalidade é alta, o que torna a comparação com Goiás mais complexa do que parece.",
           "source": "sintese",
           "evidence": [
-            1,
             2,
-            4
+            4,
+            5
           ],
           "votes": 0
         }
@@ -146,26 +331,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzxtmtoedc2x",
-      "rank": 3,
-      "title": "Família que vinha de avião estava a caminho de Gramado, a 'Goiás gaúcha'",
-      "label": "Família em voo para Gramado · Goiás gaúcha",
-      "context": "Uma família que estava em um avião vinha a caminho de Gramado, destino comparado à 'Goiás gaúcha'. A comparação associa a cidade serrana do Rio Grande do Sul a uma referência goiana.",
+      "id": "bsky_3n22535bvwk2c",
+      "rank": 6,
+      "title": "Goiânia: Papangu no Shiva nesta sexta-feira 13",
+      "label": "Show de Papangu no Shiva em Goiânia",
+      "context": "O evento Papangu acontece no Shiva, em Goiânia, nesta sexta-feira 13. A data é divulgada como atração da casa de shows para a noite.",
       "source": "bluesky",
       "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/msoares.bsky.social/post/3mzxtmtoedc2x",
-      "createdAt": "2026-11-10T16:16:11.482000+00:00",
-      "rawScore": 0.2939312663164627,
-      "relevanceScore": 0.27768758396303916,
-      "suggestedRadius": 67.62,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "permalink": "https://bsky.app/profile/papangu.bandcamp.com/post/3n22535bvwk2c",
+      "createdAt": "2026-11-11T14:10:42.376000+00:00",
+      "rawScore": 0.3520219901164142,
+      "relevanceScore": 0.3325680087127667,
+      "suggestedRadius": 70.6,
+      "imageUrl": "assets/images/bsky_3n22535bvwk2c_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n22535bvwk2c_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-go",
       "sources": [
         {
-          "title": "(Ah, sim: a família que vinha no avião estava a caminho de Gramado, nossa Goiás gaúcha.)",
-          "url": "https://bsky.app/profile/msoares.bsky.social/post/3mzxtmtoedc2x",
+          "title": "Goiânia: tem Papangu no Shiva nesta sexta-feira 13 ⭐ shotgun.live/en/events/sh...",
+          "url": "https://bsky.app/profile/papangu.bandcamp.com/post/3n22535bvwk2c",
           "subreddit": "bsky_go"
         }
       ],
@@ -173,7 +358,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A comparação com a 'Goiás gaúcha' é certeira: Gramado tem o mesmo clima de serra e o charme que atrai famílias goianas. A família estava no avião justamente para curtir esse destino que já é quase uma extensão de Goiás.",
+          "text": "Papangu no Shiva é uma combinação que promete lotar a casa, ainda mais numa sexta-feira 13. A cena de Goiânia ganha um reforço de peso com esse show, e quem for vai curtir muito.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -181,7 +366,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Chamar Gramado de 'Goiás gaúcha' é um exagero que ignora as diferenças culturais e geográficas. A família estava a caminho de Gramado, mas a cidade tem identidade própria, não é uma cópia de Goiás.",
+          "text": "Sexta-feira 13 é uma data que muita gente evita para sair, e o Shiva não costuma ser um espaço tão confortável assim. O público pode acabar dividido entre a superstição e a vontade de ver Papangu.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -189,7 +374,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A associação entre Gramado e Goiás pode fazer sentido para quem é de fora, mas quem conhece as duas regiões sabe que a comparação é limitada. A família estava no avião, e o destino é Gramado, com suas particularidades.",
+          "text": "O evento está marcado, mas ainda não se sabe muito sobre horários, ingressos ou atrações de apoio. Quem pretende ir precisa acompanhar as atualizações do Shiva para não perder as informações.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -200,17 +385,17 @@
     },
     {
       "id": "bsky_3mzw6yik6ek24",
-      "rank": 4,
+      "rank": 7,
       "title": "Papa Leão XIV pode vir ao Brasil em setembro de 2027 para congresso eucarístico e encontro com Lula",
-      "label": "Visita do Papa ao Brasil em 2027",
-      "context": "O Papa Leão XIV pode visitar o Brasil em setembro de 2027 para participar de um congresso eucarístico e se encontrar com o presidente Lula. A possível vinda do pontífice ocorre em um momento de expectativa para a Igreja no país e para as relações entre o Vaticano e o governo brasileiro.",
+      "label": "Visita do Papa Leão XIV ao Brasil",
+      "context": "O Papa Leão XIV pode vir ao Brasil em setembro de 2027 para participar de um congresso eucarístico e se encontrar com o presidente Lula, segundo informação publicada pela Folha. A possível visita envolve tanto um evento religioso quanto um encontro com o chefe de Estado brasileiro.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/jnascim.info/post/3mzw6yik6ek24",
       "createdAt": "2026-11-10T00:34:19.974000+00:00",
-      "rawScore": 0.28490383951950493,
-      "relevanceScore": 0.2691590447298178,
-      "suggestedRadius": 67.13,
+      "rawScore": 0.2534976257314697,
+      "relevanceScore": 0.23948844950012707,
+      "suggestedRadius": 65.36,
       "imageUrl": "assets/images/bsky_3mzw6yik6ek24_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzw6yik6ek24_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -226,7 +411,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A vinda do Papa Leão XIV ao Brasil em 2027 para o congresso eucarístico e o encontro com Lula é uma oportunidade de fortalecer os laços entre a Igreja e o Estado, além de promover a fé católica em um país com tantos fiéis.",
+          "text": "A vinda do Papa Leão XIV ao Brasil em 2027 para um congresso eucarístico é uma oportunidade de fortalecer a fé católica no país, que tem a maior população católica do mundo. O encontro com Lula também mostra a disposição da Igreja de dialogar com o governo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -234,7 +419,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A visita do Papa Leão XIV ao Brasil em 2027 pode ser vista como um gesto político, já que o encontro com Lula pode ser interpretado como apoio ao governo, o que não deveria misturar religião e política.",
+          "text": "A visita do Papa Leão XIV ao Brasil em 2027 pode acabar sendo usada politicamente pelo governo Lula, que busca se aproximar de eleitores católicos. O encontro com o presidente pode desviar o foco do congresso eucarístico e transformar um evento religioso em palanque.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -242,7 +427,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A possível vinda do Papa Leão XIV ao Brasil em 2027 ainda depende de confirmação oficial, e o encontro com Lula pode ter tanto um caráter religioso quanto diplomático, sendo necessário aguardar mais detalhes.",
+          "text": "A possível vinda do Papa Leão XIV ao Brasil em 2027 ainda depende de confirmação oficial, e a informação publicada pela Folha não detalha a agenda. Antes de comemorar ou criticar, é preciso esperar o anúncio formal do Vaticano e do governo brasileiro.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -253,17 +438,17 @@
     },
     {
       "id": "bsky_3mzuxhuysp22d",
-      "rank": 5,
+      "rank": 8,
       "title": "Alerta extremo de alagamento em Goiânia",
-      "label": "Alagamento em Goiânia · Alerta tardio",
-      "context": "Um alerta extremo de alagamento foi emitido para Goiânia em 9 de novembro de 2026. O aviso chegou quando o temporal já estava em curso, e moradores relataram que a orientação para evitar a cidade veio depois que o dilúvio já havia começado.",
+      "label": "Alerta de alagamento em Goiânia",
+      "context": "Um alerta extremo de alagamento foi emitido para Goiânia em 9 de novembro de 2026. O aviso chegou quando o temporal já estava em curso, e moradores relatam que a orientação para evitar a cidade veio tarde.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/frozencerrado.bsky.social/post/3mzuxhuysp22d",
       "createdAt": "2026-11-09T12:47:00.980000+00:00",
-      "rawScore": 0.06498284184713397,
-      "relevanceScore": 0.21112884613811708,
-      "suggestedRadius": 63.57,
+      "rawScore": 0.057990732281914016,
+      "relevanceScore": 0.20452314530096855,
+      "suggestedRadius": 63.13,
       "imageUrl": "assets/images/bsky_3mzuxhuysp22d_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzuxhuysp22d_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -289,7 +474,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O alerta extremo foi essencial para avisar a população sobre o risco de alagamento em Goiânia. Mesmo com a chuva já forte, a emissão do aviso permitiu que as pessoas buscassem abrigo e evitassem áreas perigosas, mostrando que o sistema de defesa civil está atento e funcionando.",
+          "text": "O alerta extremo é essencial para salvar vidas, mesmo que chegue em cima da hora. Em Goiânia, qualquer aviso de alagamento precisa ser levado a sério, e a população deve se proteger assim que receber a notificação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -297,7 +482,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O alerta de alagamento em Goiânia chegou tarde demais, quando o dilúvio já estava em curso. A orientação para evitar a cidade só veio depois que o estrago estava feito, o que demonstra falta de planejamento e de agilidade dos órgãos responsáveis em avisar a população com antecedência.",
+          "text": "O alerta veio quando o dilúvio já estava em curso, como dizem os próprios moradores. Avisar para evitar Goiânia depois que a água já tomou conta não ajuda em nada; o sistema precisa ser mais rápido e preciso.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -305,7 +490,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O alerta de alagamento em Goiânia precisa ser mais específico, indicando os bairros afetados para que as pessoas possam se preparar melhor. A menção genérica de evitar toda a cidade não ajuda quem precisa tomar decisões práticas, como sair de casa ou proteger o comércio.",
+          "text": "O alerta sempre indica os bairros a evitar, mas hoje foi a cidade inteira. Isso mostra que o sistema funciona, mas a comunicação ainda é confusa e chega tarde demais para ser realmente útil.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -315,207 +500,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mztpv7yzk223",
-      "rank": 6,
-      "title": "Vídeos de apuração eleitoral e a virada em Goiás",
-      "label": "Apuração eleitoral · Goiás e Flávio Bolsonaro",
-      "context": "Posts no Bluesky comentam vídeos de apuração eleitoral em que pessoas dizem que Goiás, majoritariamente bolsonarista, ainda poderia virar o resultado. A discussão cita também uma fala sobre \"Grande Goiás\" em um podcast.",
-      "source": "bluesky",
-      "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/lumendes.bsky.social/post/3mztpv7yzk223",
-      "createdAt": "2026-11-09T00:58:39.571000+00:00",
-      "rawScore": 0.11389022206814149,
-      "relevanceScore": 0.20206989118154092,
-      "suggestedRadius": 62.97,
-      "imageUrl": "assets/images/bsky_3mztpv7yzk223_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztpv7yzk223_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-go",
-      "sources": [
-        {
-          "title": "Eu não me canso de ver vídeos sobre a eleição, vi um agora de um pessoal na apuração falando \"Calma que tem Goiás ainda onde é majoritariamente bolsoanrista, vamos virar\" A REGIÃO QUE MAIS AJUDOU A ENFIAR O GROSSO NO FLÁVIO BOLSONARO KAKSKSKSKSKSKSKSKSKSKSKSKS",
-          "url": "https://bsky.app/profile/lumendes.bsky.social/post/3mztpv7yzk223",
-          "subreddit": "bsky_go"
-        },
-        {
-          "title": "NÃO TAVA PREPARADO PRA VER O @fbctadoido.bsky.social FALANDO EM \"GRANDE GOIÁS\" NO PODPAH www.youtube.com/live/5cOG8CB...",
-          "url": "https://bsky.app/profile/antroproletario.bsky.social/post/3mzlyocnn4c2o",
-          "subreddit": "bsky_go"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A ansiedade de acompanhar a apuração foi real: quando as urnas do Nordeste adiantaram em relação ao Sudeste e Centro-Oeste, o medo de virada era geral, e o Piauí acabou sendo o que segurou a situação naquele momento.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Goiás ser tratado como reduto bolsonarista garantido virou piada justamente porque a região que mais ajudou a eleger Flávio Bolsonaro não conseguiu virar o resultado como os vídeos de apuração prometiam.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A expressão \"Grande Goiás\" no podcast pode ter vindo do João Carvalho, amigo do Flávio, e não ser invenção dele — o que muda a leitura sobre a fala que viralizou na apuração.",
-          "source": "sintese",
-          "evidence": [
-            3,
-            4
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzsm6vjar22w",
-      "rank": 7,
-      "title": "Pé de jaca no interior de Goiás",
-      "label": "Pé de jaca · Foto no interior goiano",
-      "context": "Uma foto de um pé de jaca no interior de Goiás foi publicada no Bluesky com as tags #jaca e #fotografia. O post aparece junto a outra publicação que critica o uso da figura da \"dona Maria do interior de Goiás\" como referência em discussões sobre preconceito.",
-      "source": "bluesky",
-      "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/amwishmaster.bsky.social/post/3mzsm6vjar22w",
-      "createdAt": "2026-11-08T14:20:04.183000+00:00",
-      "rawScore": 0.0770309777765778,
-      "relevanceScore": 0.16724761921878953,
-      "suggestedRadius": 60.54,
-      "imageUrl": "assets/images/bsky_3mzsm6vjar22w_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzsm6vjar22w_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-go",
-      "sources": [
-        {
-          "title": "Pé de jaca no interior de Goiás.. #jaca #fotografia",
-          "url": "https://bsky.app/profile/amwishmaster.bsky.social/post/3mzsm6vjar22w",
-          "subreddit": "bsky_go"
-        },
-        {
-          "title": "Não quero mais saber de ninguém falando \"ai mas a dona maria do interior de Goiás\", FODA-SE ESSA VELHA",
-          "url": "https://bsky.app/profile/niniand.bsky.social/post/3mzjhaanyrk2q",
-          "subreddit": "bsky_go"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A foto do pé de jaca é uma imagem simples e bonita do interior goiano, e registros assim mostram o cotidiano e a paisagem de quem cresceu por essas bandas. Vale compartilhar sem precisar carregar o post com outra discussão.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Usar a \"dona Maria do interior de Goiás\" como exemplo de preconceito contra pessoas LGBTQIA+ é generalizar o interior como se todo mundo de lá pensasse igual. Quem cresceu em cidade pequena sabe que essa imagem não representa todo mundo.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A foto do pé de jaca é só uma foto, mas o comentário que aparece junto lembra que a expressão \"dona Maria do interior\" virou atalho para falar de preconceito. Dá para curtir a imagem e ao mesmo tempo reconhecer o problema que a outra publicação aponta.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzt4punbpk2o",
-      "rank": 8,
-      "title": "Após as eleições, só resta às pesquisadoras apostar na Mega Sena",
-      "label": "Pesquisas eleitorais · Pós-eleição",
-      "context": "Uma publicação no Bluesky afirma que, depois das eleições, não sobrou nada para as pesquisadoras fazerem além de apostar na Mega Sena. A frase sugere que o trabalho de pesquisa eleitoral perde espaço quando o pleito termina.",
-      "source": "bluesky",
-      "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/gugpizzo.bsky.social/post/3mzt4punbpk2o",
-      "createdAt": "2026-11-08T19:15:52.971000+00:00",
-      "rawScore": 0.16108833402957773,
-      "relevanceScore": 0.15218602240546694,
-      "suggestedRadius": 59.41,
-      "imageUrl": "assets/images/bsky_3mzt4punbpk2o_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzt4punbpk2o_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-go",
-      "sources": [
-        {
-          "title": "Depois das eleições não sobrou nada pras pesquiseiras que não seja apostar na Mega Sena",
-          "url": "https://bsky.app/profile/gugpizzo.bsky.social/post/3mzt4punbpk2o",
-          "subreddit": "bsky_go"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "As pesquisas eleitorais realmente perdem função depois que o pleito acaba, e a piada acerta ao mostrar que o trabalho dessas profissionais fica sem mercado até a próxima eleição. É um intervalo natural da atividade, não um problema.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Reduzir pesquisadoras a apostadoras de Mega Sena desvaloriza um trabalho técnico que continua existindo fora do período eleitoral, com pesquisas de opinião e estudos de comportamento. A piada simplifica uma profissão inteira a um único momento.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A frase funciona como humor sobre o calendário eleitoral, mas vale lembrar que pesquisa eleitoral é só uma parte do setor. Entre eleições, essas profissionais costumam migrar para outros tipos de levantamento, então o intervalo não é exatamente ócio.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzwa76jygc2y",
+      "id": "bsky_3mzxtmtoedc2x",
       "rank": 9,
-      "title": "Meu amor voltou para Goiânia e fiquei sem BTS, sem Taemin e só com contas para pagar",
-      "label": "Volta à rotina após eventos e fandom",
-      "context": "Uma pessoa relata que seu amor voltou para Goiânia e que, com isso, ficou sem a companhia da pessoa, sem BTS e sem Taemin, restando apenas contas para pagar. O desabafo reflete a transição de um período de eventos e convivência para a rotina comum, como mostram os comentários sobre o fim da temporada de eventos e as tarefas do dia a dia.",
+      "title": "Família que vinha de avião estava a caminho de Gramado, a Goiás gaúcha",
+      "label": "Família em voo para Gramado · Goiás gaúcha",
+      "context": "Uma família que estava em um avião vinha a caminho de Gramado, destino comparado à 'Goiás gaúcha'. A menção ao trajeto e à comparação com Goiás aparece em post publicado no Bluesky.",
       "source": "bluesky",
       "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/tangmi.bsky.social/post/3mzwa76jygc2y",
-      "createdAt": "2026-11-10T00:55:52.573000+00:00",
-      "rawScore": 0.15450537459428287,
-      "relevanceScore": 0.14596686061358874,
-      "suggestedRadius": 58.92,
-      "imageUrl": "assets/images/bsky_3mzwa76jygc2y_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzwa76jygc2y_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/msoares.bsky.social/post/3mzxtmtoedc2x",
+      "createdAt": "2026-11-10T16:16:11.482000+00:00",
+      "rawScore": 0.21119170740354232,
+      "relevanceScore": 0.1995205059906011,
+      "suggestedRadius": 62.8,
+      "imageUrl": "assets/images/bsky_3mzxtmtoedc2x_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzxtmtoedc2x_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-go",
       "sources": [
         {
-          "title": "Meu amor voltou pra Goiânia. To sentindo um vazio sem ela, sem bts, sem Taemin...unica coisa que me restou foram contas pra pagar 😭",
-          "url": "https://bsky.app/profile/tangmi.bsky.social/post/3mzwa76jygc2y",
+          "title": "(Ah, sim: a família que vinha no avião estava a caminho de Gramado, nossa Goiás gaúcha.)",
+          "url": "https://bsky.app/profile/msoares.bsky.social/post/3mzxtmtoedc2x",
           "subreddit": "bsky_go"
         }
       ],
@@ -523,34 +527,25 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A temporada de eventos e a presença de quem a gente gosta deixam uma saudade boa, e voltar à rotina é só o intervalo até a próxima aventura. Viver esses momentos intensamente já valeu, e as contas e tarefas viram detalhe perto das memórias.",
+          "text": "A comparação de Gramado com a 'Goiás gaúcha' faz sentido: a cidade tem esse apelo de serra, frio e clima de interior que atrai muita gente de Goiás. A família estava indo para um destino que muita gente daqui escolhe para férias.",
           "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O vazio bate forte quando o amor vai embora e a gente fica só com boletos e a rede roída pelos gatos. A rotina sem BTS, sem Taemin e sem a pessoa amada é um balde de água fria que ninguém merece enfrentar sozinho.",
+          "text": "Chamar Gramado de 'Goiás gaúcha' é um exagero: a cidade é muito mais turística e cara, e a comparação acaba apagando as diferenças culturais e econômicas entre as duas regiões. Cada lugar tem sua identidade própria.",
           "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Cada um sente o fim de um ciclo de um jeito: uns ficam na fossa, outros já pensam no próximo evento. O jeito é aceitar que a vida alterna entre fandom e contas a pagar, e que a saudade também faz parte da experiência.",
+          "text": "A expressão 'Goiás gaúcha' é só uma forma de falar, mas vale lembrar que a família estava em um avião a caminho de Gramado, e o post não dá detalhes sobre o que aconteceu. A comparação pode ser só uma brincadeira.",
           "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -560,16 +555,16 @@
     {
       "id": "bsky_3mzpxg7qcls2k",
       "rank": 10,
-      "title": "Pastor preso por estupro em Goiás e a comparação com o debate sobre banheiros",
+      "title": "Pastor preso por estupro em Goiás gera comparação com debate sobre banheiros",
       "label": "Pastor preso por estupro · Goiás",
-      "context": "Um pastor foi preso por estupro em Goiás, segundo notícia do site Mais Goiás. O caso é usado nas redes para comparar a violência cometida por religiosos com o debate sobre o acesso de mulheres trans a banheiros femininos.",
+      "context": "Um pastor foi preso por estupro em Goiás, segundo notícia do portal Mais Goiás. O caso viralizou nas redes porque o autor da postagem comparou a violência do pastor com o debate sobre o acesso de mulheres trans a banheiros femininos.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/lunna.bsky.social/post/3mzpxg7qcls2k",
       "createdAt": "2026-11-07T13:02:48.181000+00:00",
-      "rawScore": 0.15390925446708792,
-      "relevanceScore": 0.1454036841950097,
-      "suggestedRadius": 58.88,
+      "rawScore": 0.16891901360984002,
+      "relevanceScore": 0.15958395090991728,
+      "suggestedRadius": 59.97,
       "imageUrl": "assets/images/bsky_3mzpxg7qcls2k_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzpxg7qcls2k_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -585,7 +580,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O caso escancara a hipocrisia de quem passa o dia demonizando mulheres trans no banheiro enquanto pastores estupram e a igreja finge que não vê. A violência real está dentro das igrejas, não no banheiro feminino.",
+          "text": "O caso escancara a hipocrisia de quem usa o pânico moral contra pessoas trans como bandeira: enquanto isso, um pastor é preso por estupro. A comparação é certeira, porque mostra que o perigo real não está no banheiro, está em quem se esconde atrás da fé.",
           "source": "sintese",
           "evidence": [
             1,
@@ -596,7 +591,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Usar um crime de estupro para atacar pautas religiosas é oportunismo. O pastor deve responder pelo que fez na Justiça, mas isso não tem relação nenhuma com a discussão sobre quem entra no banheiro feminino.",
+          "text": "A comparação não se sustenta: um crime individual de um pastor não tem relação com o debate sobre banheiros. Misturar as duas coisas desvia o foco do que importa, que é a violência sexual e a responsabilização do agressor, não pauta ideológica.",
           "source": "sintese",
           "evidence": [
             3
@@ -606,7 +601,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A comparação entre os dois assuntos não se sustenta: são problemas diferentes. O caso do pastor é crime e deve ser tratado como tal, enquanto o debate sobre banheiros envolve outras questões que merecem discussão separada.",
+          "text": "O caso é grave e deve ser tratado como crime, mas a discussão sobre banheiros trans é outra e não se resolve com ironia. Cada assunto tem seus próprios dados e argumentos, e misturar os dois só atrapalha quem quer entender o que realmente está em jogo.",
           "source": "sintese",
           "evidence": [
             3,
