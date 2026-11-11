@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T19:34:54.737566+00:00",
+  "generatedAt": "2026-11-11T05:23:48.269760+00:00",
   "region": "br-al",
   "count": 10,
   "items": [
@@ -7,7 +7,7 @@
       "id": "bsky_3mzy2u2vizc2m",
       "rank": 1,
       "title": "Tulla lê acordo do 11º Juizado de Maceió no início do vídeo",
-      "label": "Tulla lê acordo do Juizado de Maceió",
+      "label": "Tulla lê acordo judicial em vídeo",
       "context": "A Tulla aparece no começo de um vídeo lendo o acordo do 11º Juizado de Maceió. O vídeo também mostra o problema causado pela Braskem em Maceió.",
       "source": "bluesky",
       "subreddit": "bsky_al",
@@ -36,18 +36,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A leitura da Tulla dá peso ao vídeo, porque transforma um documento do Juizado de Maceió em algo que qualquer pessoa entende. É o tipo de abertura que prende a atenção e deixa claro o problema da Braskem.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O vídeo não foi premiado em festivais, e isso mostra que a leitura do acordo não segurou o público. Faltou ritmo e impacto para um tema tão sério como o da Braskem em Maceió.",
+          "text": "A Tulla lendo o acordo do 11º Juizado de Maceió no início do vídeo é um achado, rende um momento inacreditavelmente não premiado em festivais e merecia reconhecimento.",
           "source": "sintese",
           "evidence": [
             1
@@ -55,9 +44,19 @@
           "votes": 0
         },
         {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O vídeo que mostra o problema causado pela Braskem em Maceió não deveria abrir com a leitura do acordo do 11º Juizado; isso desvia o foco do que realmente importa.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
           "id": "op3",
           "tone": "neutral",
-          "text": "A cena da Tulla lendo o acordo renderia uma cinebiografia intensa, mas o vídeo em si ainda é lembrado mais pelo problema da Braskem do que pela atuação. O acordo é o ponto de partida, não o centro.",
+          "text": "A cena da Tulla lendo o acordo do 11º Juizado de Maceió renderia uma cinebiografia tão intensa que a gente morreria derretida assistindo, com Olivia Colman no papel.",
           "source": "sintese",
           "evidence": [
             2,
@@ -70,31 +69,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzxkqzl5zc2e",
+      "id": "bsky_3mzllxsowps2k",
       "rank": 2,
-      "title": "Para a Globo, o Nordeste é seca e atraso. Você também é de Maceió?",
-      "label": "Crítica à cobertura da Globo sobre o Nordeste",
-      "context": "Uma publicação no Bluesky critica a Globo por associar o Nordeste a seca e atraso, citando Maceió como exemplo. A crítica surge em meio à discussão sobre a criação de polícias municipais em sete capitais, incluindo Maceió, após aval da PEC da Segurança.",
+      "title": "Fico mal demais com essas porra: Mariana, Brumadinho, Maceió e outras tantas",
+      "label": "Tragédias da mineração · Revolta e impunidade",
+      "context": "O post cita os desastres de Mariana, Brumadinho e Maceió como exemplos de tragédias ligadas à mineração que continuam afetando a população. A discussão gira em torno da responsabilidade das empresas e da sensação de que nada mudou depois desses episódios.",
       "source": "bluesky",
       "subreddit": "bsky_al",
-      "permalink": "https://bsky.app/profile/sigaaborboleta.bsky.social/post/3mzxkqzl5zc2e",
-      "createdAt": "2026-11-10T13:37:31.176000+00:00",
-      "rawScore": 0.12590712636333254,
-      "relevanceScore": 0.22590712636333254,
-      "suggestedRadius": 64.52,
-      "imageUrl": "assets/images/bsky_3mzxkqzl5zc2e_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzxkqzl5zc2e_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/moara.bsky.social/post/3mzllxsowps2k",
+      "createdAt": "2026-11-05T19:27:15.181000+00:00",
+      "rawScore": 0.3687371079887945,
+      "relevanceScore": 0.3687371079887945,
+      "suggestedRadius": 72.43,
+      "imageUrl": "assets/images/bsky_3mzllxsowps2k_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzllxsowps2k_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-al",
       "sources": [
         {
-          "title": "Pra Globo o Nordeste é seca e atraso. Você também é de Maceió?",
-          "url": "https://bsky.app/profile/sigaaborboleta.bsky.social/post/3mzxkqzl5zc2e",
-          "subreddit": "bsky_al"
-        },
-        {
-          "title": "7 capitais iniciaram processos para criar Polícia Municipal após aval da PEC da Segurança: SP, Curitiba, Goiânia, Palmas, Maceió, Belém e BH optaram. oglobo.globo.com/politica/not...",
-          "url": "https://bsky.app/profile/cecillia.com.br/post/3mznhlgo5xs23",
+          "title": "fico mal demais com essas porra pqp mariana, brumadinho, maceió entre outras tantas",
+          "url": "https://bsky.app/profile/moara.bsky.social/post/3mzllxsowps2k",
           "subreddit": "bsky_al"
         }
       ],
@@ -102,31 +96,32 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Globo insiste em retratar o Nordeste como seca e atraso, ignorando a realidade de cidades como Maceió. Essa visão estereotipada prejudica a imagem da região e desconsidera seus avanços.",
+          "text": "A primeira barragem que estourou já deveria ter sido motivo para reestatizar a mineração, e a segunda deveria ter levado todo o quadro de executivos e acionistas da Vale para a prisão. Do jeito que está, a empresa segue como se nada tivesse acontecido.",
           "source": "sintese",
           "evidence": [
-            1
+            2,
+            6
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Polícia Municipal nas mãos de prefeito é perigoso, pois pode servir para executar decretos inconstitucionais, como eliminar moradores de rua. Já temos abusos com a polícia estadual, imagina com mais essa instância.",
+          "text": "A Vale nunca pagou a multa e, no máximo, um ou outro engenheiro foi preso, enquanto a empresa continua a caminho de deixar mais barragens estourarem. Essa impunidade é o que mais revolta.",
           "source": "sintese",
           "evidence": [
-            1,
-            2
+            3
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Moro em Fortaleza e vejo que a situação no interior é ainda mais precária. A crítica à Globo é válida, mas a realidade do Nordeste é diversa e não se resume a seca e atraso.",
+          "text": "Quem trabalha na área sabe que a responsabilidade é técnica e ética: em Brumadinho havia relatório dizendo que as pessoas teriam minutos para evacuar o refeitório em caso de acidente, e isso foi ignorado. A vida das pessoas está na mão de quem assina esses laudos.",
           "source": "sintese",
           "evidence": [
-            3
+            1,
+            4
           ],
           "votes": 0
         }
@@ -137,16 +132,16 @@
     {
       "id": "bsky_3mzx56gtjzc2h",
       "rank": 3,
-      "title": "Penedo é uma bela cidade no interior de Alagoas",
-      "label": "Penedo · Cidade de Alagoas",
-      "context": "Thiago Penedo publicou no Bluesky uma mensagem destacando Penedo como uma bela cidade no interior de Alagoas. A publicação é uma declaração elogiosa sobre o município, sem menção a outros fatos ou acontecimentos.",
+      "title": "Thiago Penedo // Penedo é uma bela cidade no interior de Alagoas",
+      "label": "Thiago Penedo · Elogio a Penedo-AL",
+      "context": "Thiago Penedo publicou uma mensagem no Bluesky elogiando Penedo, cidade do interior de Alagoas, como um belo lugar. A publicação destaca a cidade alagoana sem entrar em detalhes sobre seus atrativos ou motivos do elogio.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/galovasco.bsky.social/post/3mzx56gtjzc2h",
       "createdAt": "2026-11-10T09:34:26.870000+00:00",
-      "rawScore": 0.19366125675242843,
-      "relevanceScore": 0.19366125675242843,
-      "suggestedRadius": 62.4,
+      "rawScore": 0.34850766496143526,
+      "relevanceScore": 0.34850766496143526,
+      "suggestedRadius": 71.42,
       "imageUrl": "assets/images/bsky_3mzx56gtjzc2h_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzx56gtjzc2h_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -162,7 +157,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Penedo merece esse reconhecimento: é uma cidade histórica às margens do São Francisco, com casario colonial e patrimônio que muita gente ainda não conhece. Divulgar o interior de Alagoas assim ajuda a atrair visitantes e valorizar o que a região tem de melhor.",
+          "text": "Penedo merece esse reconhecimento. Quem conhece a cidade sabe que ela tem um charme histórico e cultural que muita gente no Brasil ainda não descobriu. Elogios assim ajudam a divulgar o interior de Alagoas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -170,7 +165,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Elogiar a cidade em uma postagem não resolve os problemas de quem vive lá: falta de infraestrutura, emprego e serviços básicos continuam. Uma frase bonita sobre a beleza de Penedo não muda a realidade de quem mora no interior e convive com essas dificuldades todos os dias.",
+          "text": "Elogiar é fácil, mas a publicação não mostra nada de concreto sobre Penedo. Falta falar dos problemas da cidade, do acesso, da infraestrutura. Fica só na beleza genérica, sem ajudar quem realmente quer conhecer ou morar lá.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -178,7 +173,64 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Penedo tem mesmo um centro histórico bonito, mas o alcance de um elogio no Bluesky depende de quem lê. Para quem nunca foi, a mensagem pode despertar curiosidade; para quem conhece, soa como constatação. O efeito prático da publicação ainda é difícil de medir.",
+          "text": "A mensagem é simpática, mas não passa de uma opinião pessoal. Sem fotos, sem detalhes, fica difícil saber o que exatamente torna Penedo tão bela assim. Talvez o próximo passo seja compartilhar mais informações para quem se interessar.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzqabgi6kc2b",
+      "rank": 4,
+      "title": "Ele acha que certa região tem voto monolítico, mas o mapa eleitoral de 24 anos atrás mostra o contrário",
+      "label": "Voto monolítico por região · Mapa eleitoral de 24 anos",
+      "context": "Um usuário do Bluesky criticou quem trata uma região como se tivesse voto monolítico em um candidato ou posição política, citando um mapa eleitoral de 24 anos atrás que mostrava divisão e um segundo turno ainda mais fragmentado. O comentário aparece na semana em que os Democratas ganharam uma vaga no Senado no Mississippi.",
+      "source": "bluesky",
+      "subreddit": "bsky_al",
+      "permalink": "https://bsky.app/profile/elinhas.bsky.social/post/3mzqabgi6kc2b",
+      "createdAt": "2026-11-07T15:41:11.375000+00:00",
+      "rawScore": 0.248683701597048,
+      "relevanceScore": 0.248683701597048,
+      "suggestedRadius": 65.92,
+      "imageUrl": "assets/images/bsky_3mzqabgi6kc2b_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzqabgi6kc2b_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-al",
+      "sources": [
+        {
+          "title": "Muito corajoso dele achar que certa região tem um voto MONOLÍTICO em relação a algum candidato ou posição política sendo que há 24 anos o mapa eleitoral foi ASSIM (e no 2º turno foi pior)",
+          "url": "https://bsky.app/profile/elinhas.bsky.social/post/3mzqabgi6kc2b",
+          "subreddit": "bsky_al"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O mapa eleitoral de 24 anos atrás mostra que nenhuma região vota em bloco, e o segundo turno deixou isso ainda mais claro. Tratar um território inteiro como se fosse um só eleitorado ignora a diversidade de voto que os dados sempre revelaram.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A vitória democrata no Mississippi nesta semana mostra que o voto não é monolítico, mas também não é aleatório: há padrões regionais que se repetem. Usar um mapa antigo para negar qualquer tendência regional é forçar a barra e ignorar o que os resultados recentes dizem.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Depende de qual região e de qual eleição estamos falando. O mapa de 24 anos atrás pode mostrar divisão, mas também pode ter mudado muito desde então. Sem olhar os dados atuais, os dois lados estão discutindo com retratos parciais do eleitorado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -189,17 +241,17 @@
     },
     {
       "id": "bsky_3mzwag5f6o22t",
-      "rank": 4,
+      "rank": 5,
       "title": "Turistando na minha capital Maceió",
       "label": "Maceió · Turismo na própria capital",
-      "context": "Uma pessoa publicou no Bluesky que está turistando em Maceió, sua própria capital. O post mostra como moradores podem explorar a própria cidade como turistas, e outro post menciona um ímã de geladeira com o nome da cidade.",
+      "context": "Uma pessoa publicou no Bluesky que está turistando em Maceió, sua própria capital. O post mostra como moradores podem explorar a própria cidade como turistas.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/opedrodonato.bsky.social/post/3mzwag5f6o22t",
       "createdAt": "2026-11-10T00:59:58.482000+00:00",
-      "rawScore": 0.06777744510164951,
-      "relevanceScore": 0.16777744510164952,
-      "suggestedRadius": 60.58,
+      "rawScore": 0.13703153456979925,
+      "relevanceScore": 0.23703153456979925,
+      "suggestedRadius": 65.21,
       "imageUrl": "assets/images/bsky_3mzwag5f6o22t_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzwag5f6o22t_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -220,7 +272,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Turistar na própria cidade é uma ótima forma de valorizar Maceió e descobrir lugares que a gente passa todo dia e não dá atenção. Acho que todo mundo deveria fazer isso de vez em quando.",
+          "text": "Turistar na própria cidade é uma ótima forma de valorizar Maceió e descobrir lugares que a gente acaba ignorando no dia a dia. Acho que todo mundo deveria fazer isso de vez em quando.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -228,7 +280,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Postar que está turistando na própria capital parece só uma forma de se exibir nas redes sociais. Quem mora em Maceió conhece os problemas da cidade e não precisa posar de turista para mostrar que ama o lugar.",
+          "text": "Maceió tem problemas sérios de infraestrutura e segurança que não somem só porque a pessoa resolve brincar de turista. Postar isso parece ignorar a realidade de quem vive na cidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -236,7 +288,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Achei curioso o post porque turistar na própria cidade pode ser legal, mas também pode ser só uma saída para postar algo diferente. Depende da intenção de quem publica.",
+          "text": "A graça do post é justamente a ironia de morar em Maceió e ainda assim querer turistar, como se fosse uma visita. É uma brincadeira leve, mas que mostra como a gente se acostuma com a própria cidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -246,95 +298,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzllxsowps2k",
-      "rank": 5,
-      "title": "Fico mal demais com essas porra: Mariana, Brumadinho, Maceió e outras tantas",
-      "label": "Tragédias da mineração · Revolta e impunidade",
-      "context": "O post cita os desastres de Mariana, Brumadinho e Maceió como exemplos de tragédias ligadas à mineração que continuam afetando a população. A discussão gira em torno da responsabilidade das empresas e da sensação de que nada muda após esses episódios.",
-      "source": "bluesky",
-      "subreddit": "bsky_al",
-      "permalink": "https://bsky.app/profile/moara.bsky.social/post/3mzllxsowps2k",
-      "createdAt": "2026-11-05T19:27:15.181000+00:00",
-      "rawScore": 0.12494966620394539,
-      "relevanceScore": 0.12494966620394539,
-      "suggestedRadius": 57.21,
-      "imageUrl": "assets/images/bsky_3mzllxsowps2k_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzllxsowps2k_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-al",
-      "sources": [
-        {
-          "title": "fico mal demais com essas porra pqp mariana, brumadinho, maceió entre outras tantas",
-          "url": "https://bsky.app/profile/moara.bsky.social/post/3mzllxsowps2k",
-          "subreddit": "bsky_al"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A primeira barragem que estourou já deveria ter sido motivo para reestatizar a mineração, e a segunda deveria levar todo o quadro de executivos e acionistas para a prisão. Do jeito que está, a Vale nunca pagou a multa e segue a caminho de deixar mais barragens estourarem.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Brumadinho tinha um relatório da própria empresa dizendo que, em caso de acidente, as pessoas teriam minutos para evacuar o refeitório, e isso foi ignorado. A impunidade e a falta de ética de colegas de profissão me deixam fudido de raiva, porque a vida das pessoas está na nossa responsabilidade.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            4
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Uso água do Rio Doce até hoje e me entristece ver a Vale seguindo como se nada tivesse acontecido. Fico desgraçada da cabeça de pensar que a mesma empresa que causou o desastre pode estar ligada às empresas hospitalares que vão tratar as consequências.",
-          "source": "sintese",
-          "evidence": [
-            5,
-            6,
-            7,
-            8
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzm7ttjfnc2m",
+      "id": "bsky_3mznn5yz4cc2t",
       "rank": 6,
-      "title": "Collor era a mídia: família dele era dona da retransmissora da Globo em Alagoas",
-      "label": "Collor e o controle da mídia em Alagoas",
-      "context": "A família de Fernando Collor era dona da retransmissora da Globo em Alagoas, além de jornal e rádio, o que lhe dava controle sobre veículos de comunicação no estado. A série da Globo sobre Collor foi lançada depois que a emissora encerrou a parceria com a TV dele em Alagoas.",
+      "title": "Prefeito de Maceió que liberou isso e seus políticos deveriam estar presos e pagar o prejuízo",
+      "label": "Responsabilização por danos em Maceió",
+      "context": "Um post no Bluesky critica o prefeito de Maceió por ter liberado uma situação que, segundo o autor, gerou prejuízos, e defende que ele e seus aliados políticos sejam presos e tenham as contas usadas para ressarcir os danos. Um comentário associa o problema mostrado no vídeo à atuação da Braskem em Maceió.",
       "source": "bluesky",
       "subreddit": "bsky_al",
-      "permalink": "https://bsky.app/profile/grimsborken.bsky.social/post/3mzm7ttjfnc2m",
-      "createdAt": "2026-11-06T01:22:55.370000+00:00",
-      "rawScore": 0.008724362851246333,
-      "relevanceScore": 0.10872436285124634,
-      "suggestedRadius": 55.78,
-      "imageUrl": "assets/images/bsky_3mzm7ttjfnc2m_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzm7ttjfnc2m_uns_thumb.jpg",
+      "permalink": "https://bsky.app/profile/akaishiri.bsky.social/post/3mznn5yz4cc2t",
+      "createdAt": "2026-11-06T14:53:54.984000+00:00",
+      "rawScore": 0.22016027024135987,
+      "relevanceScore": 0.22016027024135987,
+      "suggestedRadius": 64.15,
+      "imageUrl": "assets/images/bsky_3mznn5yz4cc2t_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mznn5yz4cc2t_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-al",
       "sources": [
         {
-          "title": "Collor ERA a mídia! A família dele era dona da retransmissora da Globo em Alagoas, tinha jornal, rádio, etc.",
-          "url": "https://bsky.app/profile/grimsborken.bsky.social/post/3mzm7ttjfnc2m",
-          "subreddit": "bsky_al"
-        },
-        {
-          "title": "Até pegar pra rever aquela série do Collor que a Globo lançou depois que deu um pé na bunda da TV dele em Alagoas",
-          "url": "https://bsky.app/profile/absurdao.rio/post/3mzlfwgu5yk23",
+          "title": "O prefeito de Maceió que liberou isso e seus políticos deveriam estar presos e suas contas usadas para pagar todo esse prejuízo.",
+          "url": "https://bsky.app/profile/akaishiri.bsky.social/post/3mznn5yz4cc2t",
           "subreddit": "bsky_al"
         }
       ],
@@ -342,7 +325,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Collor era a mídia em Alagoas: a família controlava a retransmissora da Globo, jornal e rádio, o que mostra como o poder político e o controle dos veículos de comunicação andavam juntos no estado.",
+          "text": "O prefeito e os políticos envolvidos precisam responder pelo que liberaram em Maceió. Se a decisão gerou prejuízo, a prisão e o uso das contas pessoais para pagar os danos é o mínimo que a população pode exigir.",
           "source": "sintese",
           "evidence": [
             1
@@ -352,19 +335,19 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A Globo só lançou a série sobre Collor depois que rompeu a parceria com a TV dele em Alagoas, o que sugere que a emissora evitou criticá-lo enquanto havia interesse comercial envolvido.",
+          "text": "Jogar toda a culpa no prefeito é simplista quando o vídeo mostra um problema causado pela Braskem em Maceió. A empresa é que deveria ser responsabilizada e pagar o prejuízo, não servir de escudo para desviar o foco de quem realmente causou o dano.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A relação entre Collor e a Globo era comercial, mas ele acabou prejudicando as finanças da emissora, que chegou a não ter dinheiro para mandar equipe à Copa na Itália.",
+          "text": "Antes de pedir prisão e confisco, falta saber exatamente o que o prefeito liberou e qual foi o prejuízo. Sem esses dados, a discussão vira acusação solta e não ajuda a resolver o problema mostrado no vídeo.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -375,15 +358,15 @@
       "id": "bsky_3mzvj7wjc3k2o",
       "rank": 7,
       "title": "Festival Carambola completa 10 anos em Maceió",
-      "label": "Festival Carambola · 10 anos",
+      "label": "Festival Carambola · 10 anos em Maceió",
       "context": "O Festival Carambola, principal festival independente de artes integradas de Alagoas, completa 10 anos no dia 14/11 com evento na Arena Alagoas, em Maceió. A edição comemorativa tem shows de Gaby Amarantos, IDLIBRA, Marcelo D2 e Arnaldo Antunes.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/renan-guerra.bsky.social/post/3mzvj7wjc3k2o",
       "createdAt": "2026-11-09T18:04:47.173000+00:00",
-      "rawScore": 0.08926096038289767,
-      "relevanceScore": 0.08926096038289767,
-      "suggestedRadius": 53.93,
+      "rawScore": 0.20544747614849632,
+      "relevanceScore": 0.20544747614849632,
+      "suggestedRadius": 63.2,
       "imageUrl": "assets/images/bsky_3mzvj7wjc3k2o_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzvj7wjc3k2o_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -399,7 +382,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Carambola é o melhor festival que já fui, estive lá em 2024 e a experiência foi incrível. Ver um festival independente de Alagoas chegar aos 10 anos com essa line-up mostra a força da cena local.",
+          "text": "O Carambola é o melhor festival que já fui, em 2024. Ver um festival independente de Alagoas chegar a 10 anos com essa line-up mostra que a cena local tem força e público.",
           "source": "sintese",
           "evidence": [
             1
@@ -409,7 +392,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A line-up desse ano tem nomes muito mais conhecidos do que nas edições anteriores, o que pode descaracterizar o espírito independente do festival. O Carambola sempre foi espaço de artistas locais e menos óbvios.",
+          "text": "A line-up com Gaby Amarantos, Marcelo D2 e Arnaldo Antunes tem pouco de independente. Um festival que se diz independente e ocupa a Arena Alagoas com nomes já consagrados perde a identidade que diz ter.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -417,125 +400,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Dez anos é uma marca e tanto para um festival independente em Alagoas, mas o evento na Arena Alagoas levanta dúvidas sobre o formato. Vale ver como a organização vai equilibrar a celebração com a proposta original.",
+          "text": "Dez anos de festival independente em Alagoas é uma marca e tanto, mas o teste é se a edição comemorativa mantém o espírito das primeiras. Só indo na Arena Alagoas no dia 14 pra saber.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzw6emzluc25",
-      "rank": 8,
-      "title": "Pessoa de Maceió relata choque cultural com chinelos",
-      "label": "Choque cultural · Chinelos em Maceió",
-      "context": "Uma pessoa de Maceió relatou no Bluesky ter tido um choque cultural relacionado a chinelos. O comentário gerou identificação de outros usuários que também passaram por situação parecida.",
-      "source": "bluesky",
-      "subreddit": "bsky_al",
-      "permalink": "https://bsky.app/profile/masm.bsky.social/post/3mzw6emzluc25",
-      "createdAt": "2026-11-10T00:23:08.774000+00:00",
-      "rawScore": 0.089037259186295,
-      "relevanceScore": 0.089037259186295,
-      "suggestedRadius": 53.9,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-al",
-      "sources": [
-        {
-          "title": "eu sou de Maceió então eu tive esse choque tbm kk",
-          "url": "https://bsky.app/profile/masm.bsky.social/post/3mzw6emzluc25",
-          "subreddit": "bsky_al"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Quem é de Maceió entende na hora: o chinelo faz parte do dia a dia e ver alguém estranhar isso causa choque mesmo. É um costume local que a gente nem percebe até sair da cidade.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O choque cultural não é só de quem é de Maceió, quem vem de fora também estranha o uso de chinelo em qualquer lugar. A diferença é que a gente leva na esportiva e vira assunto.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Chinelo é tão comum em Maceió que o choque só aparece quando alguém de outra região comenta. Depende do olhar de quem está de fora para a coisa virar assunto.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzqabgi6kc2b",
-      "rank": 9,
-      "title": "Ele acha que certa região tem voto monolítico, mas o mapa eleitoral de 24 anos atrás mostra o contrário",
-      "label": "Voto monolítico regional · Mapa eleitoral",
-      "context": "Um usuário do Bluesky criticou quem trata uma região como se tivesse voto monolítico em um candidato ou posição política, citando um mapa eleitoral de 24 anos atrás que mostrava divisão e um segundo turno ainda mais fragmentado. O comentário aparece na semana em que os Democratas ganharam uma vaga no Senado no Mississippi.",
-      "source": "bluesky",
-      "subreddit": "bsky_al",
-      "permalink": "https://bsky.app/profile/elinhas.bsky.social/post/3mzqabgi6kc2b",
-      "createdAt": "2026-11-07T15:41:11.375000+00:00",
-      "rawScore": 0.08807438647679541,
-      "relevanceScore": 0.08807438647679541,
-      "suggestedRadius": 53.81,
-      "imageUrl": "assets/images/bsky_3mzqabgi6kc2b_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzqabgi6kc2b_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-al",
-      "sources": [
-        {
-          "title": "Muito corajoso dele achar que certa região tem um voto MONOLÍTICO em relação a algum candidato ou posição política sendo que há 24 anos o mapa eleitoral foi ASSIM (e no 2º turno foi pior)",
-          "url": "https://bsky.app/profile/elinhas.bsky.social/post/3mzqabgi6kc2b",
-          "subreddit": "bsky_al"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O mapa eleitoral de 24 anos atrás mostra que nenhuma região vota de forma monolítica, e o segundo turno foi ainda mais dividido. Quem trata um território como bloco único ignora a variação real dos resultados ao longo do tempo.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Falar em voto monolítico pode ser uma simplificação, mas o exemplo do Mississippi na semana em que os Democratas ganharam uma vaga no Senado mostra que a tendência regional ainda pesa. Um mapa antigo não apaga o padrão atual de votação.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Depende de qual região e de qual eleição estamos falando. O mapa de 24 anos atrás é um dado, mas o segundo turno e a vaga no Senado no Mississippi mostram que o comportamento eleitoral muda conforme o cargo e o momento, então generalizar qualquer lado é arriscado.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
           "votes": 0
         }
       ],
@@ -544,17 +411,17 @@
     },
     {
       "id": "bsky_3mzvdi3ucak2l",
-      "rank": 10,
+      "rank": 8,
       "title": "Cooperativa de bordadeiras da Ilha do Ferro divulga nota de repúdio à Havaianas",
-      "label": "Bordadeiras repudiam Havaianas",
-      "context": "A cooperativa de bordadeiras da Ilha do Ferro, em Alagoas, publicou uma nota de repúdio à Havaianas. O motivo do repúdio não foi detalhado nas fontes disponíveis.",
+      "label": "Bordadeiras da Ilha do Ferro · Repúdio à Havaianas",
+      "context": "A cooperativa de bordadeiras da Ilha do Ferro, em Alagoas, publicou uma nota de repúdio à Havaianas, segundo a VEJA. A nota foi divulgada após a marca de sandálias se envolver com o trabalho das bordadeiras da região.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/cmcam.bsky.social/post/3mzvdi3ucak2l",
       "createdAt": "2026-11-09T16:21:57.384000+00:00",
-      "rawScore": 0.08370407543932164,
-      "relevanceScore": 0.08370407543932164,
-      "suggestedRadius": 53.36,
+      "rawScore": 0.19522243906738235,
+      "relevanceScore": 0.19522243906738235,
+      "suggestedRadius": 62.51,
       "imageUrl": "assets/images/bsky_3mzvdi3ucak2l_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzvdi3ucak2l_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -570,7 +437,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "As bordadeiras da Ilha do Ferro têm todo o direito de se manifestar. Se a Havaianas usou o trabalho delas sem reconhecimento, a nota de repúdio é uma forma legítima de defesa.",
+          "text": "As bordadeiras da Ilha do Ferro estão certas em se posicionar publicamente contra a Havaianas: a nota de repúdio protege o trabalho artesanal da comunidade e mostra que elas não vão aceitar ser tratadas como fornecedoras invisíveis por uma marca grande.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -578,7 +445,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Uma nota de repúdio sem detalhes do que aconteceu não ajuda em nada. A Havaianas é uma marca séria e merece que os fatos sejam esclarecidos antes de qualquer julgamento público.",
+          "text": "A Havaianas é uma marca que dá visibilidade ao bordado da Ilha do Ferro e leva o nome da comunidade para o país inteiro; uma nota de repúdio pode fechar portas e prejudicar justamente as bordadeiras que dependem dessa parceria para vender.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -586,9 +453,121 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Faltam informações sobre o que motivou o repúdio. Sem saber o que a Havaianas fez, não dá para apoiar nem criticar a nota da cooperativa. O ideal é que as duas partes expliquem o ocorrido.",
+          "text": "O repúdio das bordadeiras à Havaianas levanta uma dúvida sobre o que exatamente aconteceu na parceria: sem detalhes públicos do contrato ou do uso do bordado, fica difícil saber se a crítica é ao valor pago, ao crédito pelo trabalho ou a outra questão.",
           "source": "sintese",
           "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzw6emzluc25",
+      "rank": 9,
+      "title": "Pessoa de Maceió relata choque cultural com chinelos",
+      "label": "Choque cultural · Chinelos em Maceió",
+      "context": "Uma pessoa que se identifica como sendo de Maceió comentou ter tido um choque ao se deparar com uma situação envolvendo chinelos. O relato viralizou e gerou reações de outras pessoas que se identificaram com a experiência.",
+      "source": "bluesky",
+      "subreddit": "bsky_al",
+      "permalink": "https://bsky.app/profile/masm.bsky.social/post/3mzw6emzluc25",
+      "createdAt": "2026-11-10T00:23:08.774000+00:00",
+      "rawScore": 0.18798129418947848,
+      "relevanceScore": 0.18798129418947848,
+      "suggestedRadius": 62.01,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-al",
+      "sources": [
+        {
+          "title": "eu sou de Maceió então eu tive esse choque tbm kk",
+          "url": "https://bsky.app/profile/masm.bsky.social/post/3mzw6emzluc25",
+          "subreddit": "bsky_al"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Quem é de Maceió entende na hora o choque: chinelo por lá é quase uniforme, e ver outra realidade causa estranhamento mesmo. O relato é engraçado justamente porque é verdadeiro e muita gente se identifica.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O choque cultural com chinelos é só a ponta do iceberg: a diferença de hábitos entre regiões do Brasil é enorme e muita gente ainda trata o Nordeste como se fosse outro país. Rir disso é rir da nossa própria ignorância.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Chinelo é um detalhe que revela muito sobre como cada região vive, mas o relato é leve e não precisa virar análise sociológica. Cada um tem seu choque cultural e o importante é que a conversa está sendo bem-humorada.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzvzvyzons2c",
+      "rank": 10,
+      "title": "Defesa Civil de Alagoas teria dito que alerta era focado no Sul e Sudeste",
+      "label": "Alerta da Defesa Civil · Nordeste fora do foco",
+      "context": "Um vídeo atribuído à Defesa Civil de Alagoas afirma que a recomendação de economia de água não se aplicava ao Nordeste, já que o foco seria o Sul e o Sudeste. A orientação gerou dúvida sobre o alcance real do alerta e o que valia para os moradores da região.",
+      "source": "bluesky",
+      "subreddit": "bsky_al",
+      "permalink": "https://bsky.app/profile/skriverpoel.bsky.social/post/3mzvzvyzons2c",
+      "createdAt": "2026-11-09T23:03:23.174000+00:00",
+      "rawScore": 0.178988895499145,
+      "relevanceScore": 0.178988895499145,
+      "suggestedRadius": 61.38,
+      "imageUrl": "assets/images/bsky_3mzvzvyzons2c_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzvzvyzons2c_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-al",
+      "sources": [
+        {
+          "title": "eu vi algum video da defesa civil de alagoas falando que não precisava fazer isso aqui pelo nordeste que era focado no sul e sudeste",
+          "url": "https://bsky.app/profile/skriverpoel.bsky.social/post/3mzvzvyzons2c",
+          "subreddit": "bsky_al"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A recomendação da Defesa Civil de Alagoas foi só para não desperdiçar água por aqui, sem relação com o alerta focado no Sul e Sudeste. O vídeo esclarece que o Nordeste não estava no centro da medida e evita que a população se confunda com orientações que não se aplicam à região.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A Defesa Civil de Alagoas dizer que o alerta era focado no Sul e Sudeste soa como desinformação, porque o vídeo não deixa claro se a recomendação de economia de água vale ou não para o Nordeste. A falta de precisão confunde quem precisa saber o que fazer na prática.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O vídeo da Defesa Civil de Alagoas gerou dúvida porque não ficou claro se a recomendação de não desperdiçar água era geral ou só para o Sul e Sudeste. Entender o contexto exato da fala ajudaria a saber se a orientação se aplica ao Nordeste.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
           "votes": 0
         }
       ],

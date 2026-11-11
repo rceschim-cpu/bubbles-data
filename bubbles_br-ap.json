@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T19:34:54.737566+00:00",
+  "generatedAt": "2026-11-11T05:23:48.269760+00:00",
   "region": "br-ap",
   "count": 4,
   "items": [
@@ -7,8 +7,8 @@
       "id": "bsky_3mzri4xkfb22t",
       "rank": 1,
       "title": "O maior de Macapá",
-      "label": "Maior de Macapá · Post viral",
-      "context": "Um post no Bluesky chamou alguém de 'o maior de Macapá', gerando comentários sobre outras pessoas e apelidos regionais. A publicação viralizou e virou motivo de piada entre usuários da rede.",
+      "label": "Encontro de criadores do Bluesky",
+      "context": "Posts no Bluesky marcaram encontros presenciais entre usuários da rede, incluindo o perfil conhecido como 'o maior de Macapá'. A interação entre criadores de diferentes estados virou assunto entre os seguidores, que comentaram os encontros e as piadas regionais.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
       "permalink": "https://bsky.app/profile/tavosmm.bsky.social/post/3mzri4xkfb22t",
@@ -36,34 +36,31 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O post é uma brincadeira carinhosa que celebra alguém como 'o maior de Macapá', e isso mostra como a internet pode criar apelidos afetuosos e divertidos para pessoas comuns.",
+          "text": "Conhecer pessoalmente gente que a gente acompanha há anos na internet é muito massa, ainda mais com doce de leite de Viçosa no meio. Esses encontros mostram que a rede virou uma comunidade de verdade, não só timeline.",
           "source": "sintese",
           "evidence": [
-            1,
-            3
+            3,
+            5
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Chamar alguém de 'o maior de Macapá' sem contexto é confuso e acaba desviando o foco para outras pessoas, como o 'maior da Paraíba', o que torna a conversa uma bagunça sem sentido.",
+          "text": "O cara é chamado de 'o maior de Macapá' mas tá indo pra São Paulo, e o mesmo acontece com o 'maior da Paraíba'. Esse título de maior do estado fica só na brincadeira, porque na prática todo mundo acaba migrando pra fora.",
           "source": "sintese",
           "evidence": [
-            1,
-            2
+            1
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A história toda é inofensiva e engraçada, mas o que chama atenção é como um post simples vira uma corrente de comentários sobre encontros pessoais e apelidos regionais, sem um assunto central claro.",
+          "text": "A galera se encontra, posta foto, mas nem todo mundo consegue ir no karaokê ou aparece nas fotos. O rolê existe, só que a cobertura dele depende de quem estava lá e lembrou de registrar.",
           "source": "sintese",
           "evidence": [
-            3,
-            4,
-            5
+            4
           ],
           "votes": 0
         }
@@ -74,16 +71,16 @@
     {
       "id": "bsky_3mzlz52cskk2w",
       "rank": 2,
-      "title": "TSE flexibiliza regra de cassação da chapa completa por fraude na cota de gênero",
+      "title": "TSE flexibiliza regra de cassação de chapa por fraude na cota de gênero",
       "label": "TSE flexibiliza cassação por fraude na cota de gênero",
-      "context": "O Tribunal Superior Eleitoral (TSE) flexibilizou nesta quinta-feira (5) a regra que determina a cassação da chapa completa que tiver fraudado a cota de gênero. A mudança altera a punição para partidos e candidatos envolvidos em fraude na cota de gênero, tema que afeta a representação feminina na política.",
+      "context": "O Tribunal Superior Eleitoral flexibilizou nesta quinta-feira (5) a regra que determina a cassação da chapa completa que tiver fraudado a cota de gênero. A mudança altera como a Justiça Eleitoral pune candidaturas que usam mulheres de forma fictícia para cumprir a cota mínima de 30% de gênero.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
       "permalink": "https://bsky.app/profile/iclnoticias.com.br/post/3mzlz52cskk2w",
       "createdAt": "2026-11-05T23:23:08.172000+00:00",
-      "rawScore": 0.8268067000634007,
-      "relevanceScore": 0.9201340962487282,
-      "suggestedRadius": 93.55,
+      "rawScore": 0.8835438640186657,
+      "relevanceScore": 0.9816070474472162,
+      "suggestedRadius": 95.45,
       "imageUrl": "assets/images/bsky_3mzlz52cskk2w_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzlz52cskk2w_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -104,7 +101,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A flexibilização do TSE evita punir candidatos que não participaram da fraude e corrige distorções, já que a cassação da chapa inteira podia atingir pessoas inocentes. A medida torna a punição mais justa e proporcional ao erro cometido.",
+          "text": "A flexibilização do TSE corrige um exagero: cassar a chapa inteira por fraude na cota de gênero punia candidatos que não participaram da fraude. Agora a punição pode recair só sobre quem se beneficiou diretamente, o que é mais justo e evita a perda de mandatos de inocentes.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -112,7 +109,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Com essa flexibilização, a lei perde força e a fraude na cota de gênero pode ficar impune. Na prática, partidos que usam candidatas laranjas para burlar a regra não serão punidos de forma exemplar, o que enfraquece a participação feminina na política.",
+          "text": "Com essa flexibilização, o TSE abre espaço para que partidos fraudem a cota de gênero sem perder a chapa inteira. A lei existe, mas se pode ignorar impunemente. Quem usa mulheres como laranjas para cumprir cota sai impune, e a punição exemplar que desestimulava a fraude desaparece.",
           "source": "sintese",
           "evidence": [
             2
@@ -122,7 +119,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A mudança do TSE precisa ser analisada com cautela: é preciso verificar se a flexibilização mantém a punição para os responsáveis diretos pela fraude e se não abre brechas para que partidos continuem a fraudar a cota sem consequências. O ideal é que a regra seja clara e eficaz.",
+          "text": "A mudança do TSE precisa ser vista com cautela: é preciso saber se a flexibilização vale para casos futuros ou se aplica a processos em andamento. Sem essa clareza, o risco é de insegurança jurídica e de decisões diferentes para casos semelhantes, o que prejudica a confiança na Justiça Eleitoral.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -136,14 +133,14 @@
       "rank": 3,
       "title": "Fotozine para testar nova encadernação e matar a vontade de fazer zine",
       "label": "Fotozine · Teste de encadernação",
-      "context": "Um usuário publicou no Bluesky um fotozine feito para testar uma nova técnica de encadernação, com a intenção de matar a vontade de produzir zines. A publicação compartilha o resultado do experimento com as tags #photozine, #fotozine, #zine e #fotografia.",
+      "context": "Um usuário publicou no Bluesky um fotozine feito para testar uma nova técnica de encadernação, com a intenção de matar a vontade de produzir zines. A publicação compartilha o resultado do experimento com as hashtags #photozine, #fotozine, #zine e #fotografia.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
       "permalink": "https://bsky.app/profile/luanagm.bsky.social/post/3mzjwj2jclk2f",
       "createdAt": "2026-11-05T03:30:36.971000+00:00",
-      "rawScore": 0.7014509574586969,
-      "relevanceScore": 0.6742339924925937,
-      "suggestedRadius": 85.27,
+      "rawScore": 0.7613934633771609,
+      "relevanceScore": 0.7333104981712656,
+      "suggestedRadius": 87.38,
       "imageUrl": "assets/images/bsky_3mzjwj2jclk2f_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzjwj2jclk2f_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -159,7 +156,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Testar uma encadernação nova num fotozine é o melhor jeito de aprender fazendo, e o resultado divertido já vale o experimento. Publicar o processo com as tags certas ainda ajuda outras pessoas a descobrirem técnicas diferentes de zine.",
+          "text": "Testar uma encadernação nova num fotozine é o melhor jeito de aprender fazendo, e o resultado divertido já vale o experimento. Publicar o processo com as hashtags ainda ajuda quem quer começar a fazer zine a se inspirar.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -167,7 +164,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Fazer um fotozine só para experimentar encadernação e admitir que a vontade de produzir zine não passou mostra que o formato virou desculpa para testar técnica, não para comunicar algo. O resultado fica mais como exercício pessoal do que como publicação que interessa a alguém.",
+          "text": "Fotozine feito só para testar encadernação acaba ficando mais como exercício técnico do que como zine de verdade, e a vontade de fazer zine continua sem passar. O resultado pode não convencer quem espera um trabalho com mais conteúdo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -175,7 +172,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post é mais um registro pessoal de aprendizado do que um fotozine pronto para circular, e isso muda como ele deve ser lido. A encadernação testada é o ponto central, então o valor está no processo e na troca de técnica, não no conteúdo fotográfico em si.",
+          "text": "O valor do post está mais no registro do processo do que no fotozine em si: mostrar a encadernação nova e a diversão de testar já cumpre o papel. Quem vê pode tirar ideia para o próprio teste, mesmo sem saber se a vontade de fazer zine passou.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -188,13 +185,13 @@
       "id": "bsky_3mzjlfptank2r",
       "rank": 4,
       "title": "Estadão lança vídeo criticando Alcolumbre sobre rodovia federal no Amapá",
-      "label": "Rodovia no Amapá · Vídeo do Estadão",
-      "context": "O Estadão publicou um vídeo de cinco minutos sobre a rodovia federal que liga o Amapá a Oiapoque, conhecida como estrada do petróleo, que permanece de chão batido e fica lamacenta na estação de chuva. O vídeo critica o senador Alcolumbre, e o estado é cercado por rios, sem pontes que o conectem ao resto do Brasil, apenas uma ponte para a Guiana Francesa.",
+      "label": "Rodovia no Amapá · Crítica a Alcolumbre",
+      "context": "O Estadão publicou um vídeo de cinco minutos sobre a rodovia federal que liga Macapá a Oiapoque, no Amapá, destacando que a estrada é de chão batido e fica lamacenta na estação de chuvas. O vídeo associa a situação da via ao senador Davi Alcolumbre, e o tema ganha relevância porque o Amapá é cercado por rios e tem apenas uma ponte ligando o estado à Guiana Francesa, sem conexão terrestre com o restante do Brasil.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
       "permalink": "https://bsky.app/profile/stoicchicken.bsky.social/post/3mzjlfptank2r",
       "createdAt": "2026-11-05T00:11:49.777000+00:00",
-      "rawScore": 0.08354759041421596,
+      "rawScore": 0.10530210230746137,
       "relevanceScore": 0.0,
       "suggestedRadius": 36.0,
       "imageUrl": "assets/images/bsky_3mzjlfptank2r_reddit.jpg",
@@ -212,7 +209,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Estadão acertou ao expor a situação da rodovia no Amapá: uma estrada federal que deveria escoar a produção e melhorar a vida da população continua de chão batido, com lodo na chuva e combustível caro. Cobrar o senador Alcolumbre é necessário, já que o estado precisa de infraestrutura de verdade.",
+          "text": "O Estadão fez bem em expor a situação da rodovia que liga Macapá a Oiapoque: é uma estrada federal de chão batido, que vira lodo na chuva, e o vídeo cobra responsabilidade de quem tem poder para resolver. Mostrar isso em cinco minutos é jornalismo útil.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -220,17 +217,15 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O vídeo do Estadão parece mais um ataque político direcionado ao Alcolumbre do que uma discussão séria sobre infraestrutura. O Amapá tem desafios logísticos enormes, como o isolamento por rios e a falta de pontes, e reduzir tudo a uma crítica pessoal não resolve o problema da rodovia.",
+          "text": "O vídeo do Estadão parece mais uma peça de ataque contra o Alcolumbre do que uma reportagem equilibrada. A rodovia é federal e envolve várias esferas de governo, então jogar toda a responsabilidade em um senador soa como perseguição política, não como jornalismo.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A rodovia no Amapá é um problema antigo, e o vídeo do Estadão traz visibilidade, mas é preciso lembrar que o estado é praticamente ilhado, cercado por rios e sem pontes que o conectem ao resto do Brasil. Qualquer cobrança sobre a estrada precisa considerar essas dificuldades geográficas e logísticas.",
+          "text": "O Amapá está praticamente ilhado, cercado por rios e sem pontes que liguem o estado ao resto do Brasil, exceto a ponte para a Guiana Francesa. Então a rodovia é só parte de um problema logístico muito maior, e o vídeo do Estadão foca no sintoma sem discutir a fundo a falta de conexão terrestre.",
           "source": "sintese",
           "evidence": [
             1

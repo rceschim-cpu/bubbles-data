@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-10T19:34:54.737566+00:00",
+  "generatedAt": "2026-11-11T05:23:48.269760+00:00",
   "region": "br-rj",
   "count": 10,
   "items": [
     {
       "id": "bsky_3mzxwivvxls2q",
       "rank": 1,
-      "title": "Hayley Williams, vocalista do Paramore, em turnê pelo Brasil para divulgar seu trabalho solo, mandou um recado direto para a família Bolsonaro no show do Rio de Janeiro, na noite de segunda-feira (9). 📹 @trabalhosujo",
-      "label": "",
-      "context": "",
+      "title": "Hayley Williams manda recado à família Bolsonaro em show no Rio",
+      "label": "Hayley Williams · Recado à família Bolsonaro",
+      "context": "A vocalista do Paramore, Hayley Williams, durante turnê solo pelo Brasil, fez um pronunciamento direcionado à família Bolsonaro no show do Rio de Janeiro na noite de segunda-feira (9). O episódio gerou repercussão nas redes sociais, com comentários que destacam a coragem da artista e reações de apoio e crítica.",
       "source": "bluesky",
       "subreddit": "bsky_rj",
       "permalink": "https://bsky.app/profile/iclnoticias.com.br/post/3mzxwivvxls2q",
@@ -17,7 +17,7 @@
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
       "imageUrl": "assets/images/bsky_3mzxwivvxls2q_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzxwivvxls2q_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzxwivvxls2q_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-rj",
       "sources": [
@@ -27,23 +27,52 @@
           "subreddit": "bsky_rj"
         }
       ],
-      "opinions": [],
-      "enrichedBy": "",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A atitude de Hayley Williams foi corajosa, ainda mais vindo de uma artista estrangeira em turnê no Brasil. Usar o palco para se posicionar contra a família Bolsonaro mostra que ela não tem medo de retaliação e apoia causas progressistas.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Artistas deveriam se limitar a fazer música e não usar o show para militância política. O recado de Hayley Williams desrespeita parte do público que pagou para ver sua apresentação e não quer ouvir ataques à família Bolsonaro.",
+          "source": "sintese",
+          "evidence": [
+            4
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O recado de Hayley Williams gerou reações polarizadas, mas é preciso considerar o contexto: ela está em turnê solo e o show é um espaço de expressão. Cada artista decide como usar sua voz, e o público também decide como reagir.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
       "promptVersion": 2
     },
     {
       "id": "bsky_3mzxosqu3722m",
       "rank": 2,
-      "title": "Pôster de Nelson Jungbluth para a Varig é absurdo, diz post",
-      "label": "Pôster vintage da Varig · Nostalgia e design",
-      "context": "Um post no Bluesky destaca um pôster do designer Nelson Jungbluth para a Varig, chamando-o de absurdo. A peça desperta nostalgia e interesse por itens gráficos antigos de viagens no Brasil, com pessoas guardando, imprimindo ou colecionando versões digitais.",
+      "title": "Pôster de Nelson Jungbluth para a Varig causa espanto",
+      "label": "Pôster antigo da Varig · Nostalgia e design",
+      "context": "Um pôster do designer Nelson Jungbluth feito para a Varig viralizou e foi comentado como \"absurdo\" pela beleza. A peça é lembrada junto com outros materiais gráficos antigos da aviação brasileira, como carrinhos de bordo e etiquetas de bagagem, que viraram objeto de coleção e nostalgia.",
       "source": "bluesky",
       "subreddit": "bsky_rj",
       "permalink": "https://bsky.app/profile/joannamaciel.com/post/3mzxosqu3722m",
       "createdAt": "2026-11-10T14:50:14.382000+00:00",
-      "rawScore": 0.8644136816200813,
-      "relevanceScore": 0.9604596462445347,
-      "suggestedRadius": 94.8,
+      "rawScore": 0.8618899704436962,
+      "relevanceScore": 0.9576555227152179,
+      "suggestedRadius": 94.72,
       "imageUrl": "assets/images/bsky_3mzxosqu3722m_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzxosqu3722m_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -59,29 +88,31 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O pôster do Jungbluth para a Varig é uma obra de design que merece ser celebrada, não chamada de absurda. Eu baixei e mandei imprimir alguns de tão lindos que são, e tenho uma pasta no Pinterest só com posters antigos de viagens do Brasil.",
+          "text": "Esse pôster do Jungbluth pra Varig é uma obra de design e merece ser celebrado. Baixei e mandei imprimir alguns de tão bonitos, e ainda dá pra guardar tudo digitalmente como referência sem acumular nada em casa.",
           "source": "sintese",
           "evidence": [
             2,
-            5
+            6
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Achar esse pôster absurdo faz sentido quando a Varig faliu e deixou passageiros e funcionários na mão. Exaltar a imagem da empresa sem lembrar do seu fim trágico é uma nostalgia que ignora a realidade.",
+          "text": "A Varig acabou e hoje o que sobra é nostalgia em cima de uma marca morta. Ver carrinho de bordo da Varig em voo da Gol dá um aperto, mas também lembra que a companhia não existe mais e que ficou só a lembrança bonita do que foi.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O pôster do Jungbluth é bonito, mas o que me chama atenção é a quantidade de itens da Varig que ainda circulam, como carrinhos de bordo e etiquetas de bagagem em leilão. Guardar digitalmente já basta para mim, prefiro não acumular.",
+          "text": "Esse nicho de material antigo de aviação é bem específico e rende coleção, mas eu prefiro não acumular. Guardo as imagens no Pinterest e no digital como referência, e acho curioso que etiquetas de bagagem cheguem a ser vendidas em leilão.",
           "source": "sintese",
           "evidence": [
-            1,
+            2,
             3,
             4
           ],
@@ -94,16 +125,16 @@
     {
       "id": "bsky_3mzxjuv3z2k2f",
       "rank": 3,
-      "title": "Em defesa de Niterói, o berço do progressismo no Rio de Janeiro",
-      "label": "Niterói · Defesa e identidade",
-      "context": "Um post no Bluesky defende Niterói como o berço do progressismo no Rio de Janeiro e compartilha um vídeo com a hashtag #DefendaNiteroi. A publicação gerou comentários sobre a relação entre Niterói e a capital fluminense, incluindo a percepção de que muita gente trata as duas cidades como se fossem distantes.",
+      "title": "Em defesa de Niterói, o berço do progressismo no Rio de Janeiro, compartilho esse vídeo",
+      "label": "Niterói · Berço do progressismo",
+      "context": "Um usuário do Bluesky publicou um vídeo em defesa de Niterói, chamando a cidade de berço do progressismo no Rio de Janeiro, com a hashtag #DefendaNiteroi. A publicação busca mobilizar apoio à cidade e destaca sua identidade política.",
       "source": "bluesky",
       "subreddit": "bsky_rj",
       "permalink": "https://bsky.app/profile/rosepaixao.bsky.social/post/3mzxjuv3z2k2f",
       "createdAt": "2026-11-10T13:21:47.571000+00:00",
-      "rawScore": 0.4663612917858968,
-      "relevanceScore": 0.629290324206552,
-      "suggestedRadius": 83.6,
+      "rawScore": 0.6238395156320654,
+      "relevanceScore": 0.6931550173689616,
+      "suggestedRadius": 85.95,
       "imageUrl": "assets/images/bsky_3mzxjuv3z2k2f_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzxjuv3z2k2f_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -113,163 +144,23 @@
           "title": "Em defesa de Niterói, o berço do progressismo no Rio de Janeiro, compartilho esse vídeo com todos vocês. #DefendaNiteroi",
           "url": "https://bsky.app/profile/rosepaixao.bsky.social/post/3mzxjuv3z2k2f",
           "subreddit": "bsky_rj"
-        },
-        {
-          "title": "um cara me mandando mensagem no grindr disse “não sou daqui, moro na capital” como se niterói ficasse a 600km do rio de janeiro",
-          "url": "https://bsky.app/profile/joaozinhoooooo.bsky.social/post/3mzqjuala2226",
-          "subreddit": "bsky_rj"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Niterói merece esse reconhecimento: é uma cidade com identidade própria e tradição progressista, e o vídeo ajuda a mostrar isso pra quem só conhece de passagem. Chamar Niterói de berço do progressismo no Rio faz justiça à história da cidade.",
+          "text": "Niterói sempre foi referência de vanguarda no Rio, e esse vídeo mostra bem por que a cidade merece ser defendida. O progressismo fluminense nasceu ali e precisa ser valorizado.",
           "source": "sintese",
           "evidence": [
-            1,
-            4
+            1
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O post exagera ao chamar Niterói de berço do progressismo, como se a cidade fosse um bloco único. A relação com a capital também é tratada de forma simplista, e a hashtag #DefendaNiteroi soa mais como marketing do que como debate real sobre a cidade.",
-          "source": "sintese",
-          "evidence": [
-            3,
-            5
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A comparação entre Niterói e a capital do Rio rende discussão: tem gente que acha natural falar 'moro na capital' e tem gente que estranha, já que Niterói fica logo ali. O jeito de se referir às duas cidades diz mais sobre a percepção de distância do que sobre a geografia em si.",
-          "source": "sintese",
-          "evidence": [
-            5,
-            7,
-            8
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzxivhbxwk2o",
-      "rank": 4,
-      "title": "Misturar sotaques paulista, carioca e mineiro para criar um 'sotaque sudestino'",
-      "label": "Sotaques regionais · Brincadeira sudestina",
-      "context": "Uma publicação no Bluesky propôs misturar sotaques e expressões paulistas, cariocas e mineiras na mesma frase para criar um 'sotaque sudestino'. A ideia gerou comentários que brincam com a mistura de expressões regionais e com a autenticidade dos sotaques.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/brunomsantiago.bsky.social/post/3mzxivhbxwk2o",
-      "createdAt": "2026-11-10T13:04:10.873000+00:00",
-      "rawScore": 0.39950840288577805,
-      "relevanceScore": 0.6200051699532152,
-      "suggestedRadius": 83.24,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "Tem que misturar os sotaques e expressões paulista, carioca e mineira na mesma frase, para ter um autêntico sotaque sudestino",
-          "url": "https://bsky.app/profile/brunomsantiago.bsky.social/post/3mzxivhbxwk2o",
-          "subreddit": "bsky_rj"
-        },
-        {
-          "title": "Inclusive, banda mineira que força sotaque carioca devia ser um crime se não for de Juiz de Fora.",
-          "url": "https://bsky.app/profile/pauloarana.bsky.social/post/3mzrepjvsnc2f",
-          "subreddit": "bsky_rj"
-        },
-        {
-          "title": "Nunca vou esquecer quando Luccas Neto fez os jovens portugueses falarem com sotaque carioca. É o nosso softpower!",
-          "url": "https://bsky.app/profile/lanurke.bsky.social/post/3mzlsacl7xc2o",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Misturar as expressões é uma brincadeira divertida e mostra como a gente convive com vários sotaques no dia a dia. Dá para juntar o 'uai' mineiro com o 'ixxxperto' carioca e o 'meuô' paulista numa frase só, e ainda encaixar um 'bá tche' para irritar.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Forçar a mistura de sotaques vira caricatura e apaga as particularidades de cada região. Quem é de Minas ou do Rio sabe que o jeito de falar tem história, e transformar isso em piada só reforça estereótipos que não representam ninguém.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A graça da brincadeira depende de quem faz: se for alguém que realmente viveu a mistura de regiões, soa autêntico; se for forçado, vira personagem de alívio cômico. O 'sotaque sudestino' só funciona quando a pessoa entende as expressões que está usando.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            4
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzxf6m7q6k2i",
-      "rank": 5,
-      "title": "Carioca interior manda o carioca do outro tomar no olho do cu",
-      "label": "Carioca xingando · humor no Bluesky",
-      "context": "Uma pessoa do Rio de Janeiro desabafou no Bluesky que soltou muitos palavrões no dia e mandou o 'carioca que habita' em outra pessoa ir tomar no olho do cu. O post virou conversa entre amigos, com respostas brincando sobre xingar de forma respeitosa.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/lucasvt.bsky.social/post/3mzxf6m7q6k2i",
-      "createdAt": "2026-11-10T11:57:42.177000+00:00",
-      "rawScore": 0.33782202690962343,
-      "relevanceScore": 0.3753578076773594,
-      "suggestedRadius": 72.76,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "já soltei TANTOS palavrões no dia de hoje o carioca q habita em mim manda o carioca q habita em vc ir tomar no olho do cu",
-          "url": "https://bsky.app/profile/lucasvt.bsky.social/post/3mzxf6m7q6k2i",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Xingar assim é puro humor carioca, e a resposta 'vou xingar tua mãe mas respeitosamente' mostra que a brincadeira é leve e todo mundo entende o tom.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Soltar tantos palavrões e mandar alguém tomar no olho do cu passa dos limites, mesmo em tom de brincadeira; esse tipo de post normaliza a grosseria nas redes.",
+          "text": "Chamar Niterói de berço do progressismo é forçar a barra; a cidade tem problemas sérios de gestão e o vídeo parece mais propaganda política do que retrato da realidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -277,12 +168,248 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post é claramente uma piada entre amigos, mas o exagero dos palavrões pode ser interpretado de formas diferentes dependendo de quem lê, então o contexto importa.",
+          "text": "O vídeo levanta a bandeira, mas o debate sobre o papel de Niterói no progressismo fluminense precisaria de dados concretos, não só de uma peça de divulgação.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzy3dz37uk24",
+      "rank": 4,
+      "title": "Anfitriã de Airbnb no Leblon relata cliente que pediu desconto após dez dias de negociação",
+      "label": "Airbnb no Leblon · Descontos na alta temporada",
+      "context": "Uma pessoa que administra um Airbnb no Leblon, no Rio de Janeiro, contou que passou dez dias negociando com uma cliente que queria alugar o imóvel por um mês no verão. Mesmo após enviar uma proposta com descontos de retorno, fidelidade e período prolongado, a cliente respondeu que o valor estava muito caro.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/keshi.bsky.social/post/3mzy3dz37uk24",
+      "createdAt": "2026-11-10T18:34:15.971000+00:00",
+      "rawScore": 0.5541031507733127,
+      "relevanceScore": 0.615670167525903,
+      "suggestedRadius": 83.08,
+      "imageUrl": "assets/images/bsky_3mzy3dz37uk24_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzy3dz37uk24_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "No meu Trabalho Número 2 (administração de airbnb) a sujeita me encheu o saco POR DEZ DIAS pra alugar 1 mês de bnb, no Leblon, no VERÃO. Mandei proposta com vários descontos (de retorno, de fidelidade, de período prolongado) \"ain, ta muito caro\" MOÇA RIO DE JANEIRO VERÃO CARNAVAL",
+          "url": "https://bsky.app/profile/keshi.bsky.social/post/3mzy3dz37uk24",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A anfitriã fez o que podia: cobriu exigências de criança pequena, pet, vaga de garagem e cadastro de visitantes, e ainda aplicou descontos de retorno, fidelidade e período prolongado. Depois de dez dias de negociação, ouvir 'tá muito caro' é desgastante e desrespeitoso com o trabalho de quem administra o imóvel.",
           "source": "sintese",
           "evidence": [
             1,
-            2
+            4
           ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O relato mostra como o Airbnb virou um negócio estressante: a anfitriã diz que quase morreu de estresse nos tempos de 14 imóveis e agora está saindo do ramo. A cliente só quis o Leblon no verão e levou um susto com o preço da alta temporada, o que é compreensível.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3,
+            4
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A cliente parece querer a estadia de graça, mas a anfitriã também precisa cobrir custos na alta temporada. O desgaste de dez dias de negociação mostra que falta alinhamento claro sobre preços e expectativas desde o início, tanto para quem aluga quanto para quem administra.",
+          "source": "sintese",
+          "evidence": [
+            5
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzyoxhlt6s2i",
+      "rank": 5,
+      "title": "Sotaque paulistano não tem muita coisa legal, e o carioca depende da intensidade",
+      "label": "Sotaques · Paulistano x carioca",
+      "context": "Um usuário do Bluesky criticou o sotaque paulistano e disse que o carioca só incomoda quando é exagerado, citando quem parece fazer autoparódia do próprio sotaque. A postagem gerou comentários sobre a estética associada a esse exagero, comparando-a a uma socialite carioca de 85 anos.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/guilhermefreitas.bsky.social/post/3mzyoxhlt6s2i",
+      "createdAt": "2026-11-11T00:25:21.171000+00:00",
+      "rawScore": 0.4425677037897648,
+      "relevanceScore": 0.6028530042108498,
+      "suggestedRadius": 82.59,
+      "imageUrl": "assets/images/bsky_3mzyoxhlt6s2i_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzyoxhlt6s2i_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "cara, o sotaque paulistano não vejo mta coisa legal não hahahaha o carioca depende da intensidade. só me incomoda aquela galera carioca que parece estar fazendo uma autoparódia do próprio sotaque hahahaha",
+          "url": "https://bsky.app/profile/guilhermefreitas.bsky.social/post/3mzyoxhlt6s2i",
+          "subreddit": "bsky_rj"
+        },
+        {
+          "title": "Parece uma socialite carioca de 85 anos.",
+          "url": "https://bsky.app/profile/verdakulto.bsky.social/post/3mzopgfwwys25",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O sotaque paulistano da quebrada, como o do Mano Brown, é irado e autêntico. O problema é quando gente que não é da quebrada imita esse jeito e acaba soando forçado, o que irrita muito.",
+          "source": "sintese",
+          "evidence": [
+            8,
+            10
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Carioca que força a autoparódia do próprio sotaque cansa até quem é carioca. Essa galera que parece socialite de 85 anos, com permanente e laquê, soa como personagem de reality show, não como conversa real.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2,
+            10
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Essa vontade de se apropriar do sotaque alheio irrita, e rola no Rio também, mas prefiro enxergar quase como um elogio. É uma imitação que, no fundo, admira o jeito de falar do outro.",
+          "source": "sintese",
+          "evidence": [
+            11
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzynsnw4sk2t",
+      "rank": 6,
+      "title": "Você não se emociona mais quando carioca fala \"abraço forte, seu filho da puta\"?",
+      "label": "Afeto carioca · Abraço forte e palavrão",
+      "context": "Um post no Bluesky perguntou se as pessoas ainda se emocionam quando um carioca se despede com a expressão \"abraço forte, seu filho da puta\". A frase mistura carinho e palavrão e virou marca do jeito carioca de demonstrar afeto, o que gerou reações comparando com o trato de outros estados.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/zemarcelomoraes.bsky.social/post/3mzynsnw4sk2t",
+      "createdAt": "2026-11-11T00:04:46.185000+00:00",
+      "rawScore": 0.46908388510782234,
+      "relevanceScore": 0.5212043167864693,
+      "suggestedRadius": 79.32,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "Você não se emociona mais quando carioca fala \"abraço forte, seu filho da puta\"?",
+          "url": "https://bsky.app/profile/zemarcelomoraes.bsky.social/post/3mzynsnw4sk2t",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O \"abraço forte, seu filho da puta\" é a prova de que o carioca não sabe demonstrar carinho sem xingar, e é exatamente isso que faz a gente se sentir em casa. Quem cresceu ouvindo isso sabe que o palavrão ali é abraço, não ofensa.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Mineiro recebe com um \"bença\" e um cafezinho, carioca recebe com palavrão. Essa emoção toda com xingamento é uma romantização de falta de educação que ninguém precisa achar bonito só porque é tradição local.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A graça da frase está no contraste entre o afeto e o palavrão, mas isso só funciona entre quem já conhece o código. Fora do Rio, a mesma despedida pode soar agressiva, então a emoção depende muito de quem fala e de quem ouve.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzyq4e6tvk2q",
+      "rank": 7,
+      "title": "Casal Ademir e Fábia aterroriza o Rio de Janeiro, diz post",
+      "label": "Casal Ademir e Fábia · Aterrorizando o Rio",
+      "context": "Um post no Bluesky afirma que o casal Ademir e Fábia está aterrorizando o Rio de Janeiro, mencionando também o governador Douglas Ruas. A publicação associa a atuação do casal à gestão estadual, sugerindo que a situação ocorre em meio ao governo de Ruas.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/thecosmoboy.bsky.social/post/3mzyq4e6tvk2q",
+      "createdAt": "2026-11-11T00:45:57.687000+00:00",
+      "rawScore": 0.45656402386320394,
+      "relevanceScore": 0.5072933598480044,
+      "suggestedRadius": 78.73,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "O casal Ademir e Fábia aterrorizando o Rio de Janeiro Como se já não bastasse o Douglas Ruas governador #QuemAmaCuida",
+          "url": "https://bsky.app/profile/thecosmoboy.bsky.social/post/3mzyq4e6tvk2q",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O post acerta ao expor a dupla: Ademir e Fábia estão sim causando medo na população, e associar isso ao governo Douglas Ruas é legítimo, porque a segurança pública é responsabilidade do estado. A hashtag #QuemAmaCuida deixa claro que falta cuidado com o Rio.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Jogar a culpa no governador Douglas Ruas é simplista. O casal Ademir e Fábia pode ser criminoso, mas a postagem mistura tudo e vira palanque político. Sem provas concretas, o post só espalha pânico e não ajuda em nada a resolver a violência.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A denúncia sobre Ademir e Fábia merece atenção, mas o post carece de detalhes: não diz o que exatamente o casal fez nem onde. Associar ao governador Douglas Ruas sem contexto pode desviar o foco. O ideal é cobrar investigação e apurar os fatos antes de tirar conclusões.",
+          "source": "sintese",
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -291,19 +418,19 @@
     },
     {
       "id": "bsky_3mzuwqpfu322k",
-      "rank": 6,
+      "rank": 8,
       "title": "Gustavo Gomez fala de cartão vermelho e PM do Rio entende 'Comando Vermelho'",
-      "label": "Gustavo Gomez e PM do Rio · Mal-entendido",
-      "context": "O jogador Gustavo Gomez, do Palmeiras, foi falar com o árbitro sobre um cartão vermelho e a Polícia Militar do Rio de Janeiro entendeu que ele dizia 'Comando Vermelho', segundo posts viralizados. O episódio gerou piadas e críticas à presença e à conduta da PM em campo durante a partida.",
+      "label": "Gustavo Gomez · PM do Rio e confusão no futebol",
+      "context": "O jogador Gustavo Gomez foi falar com o árbitro sobre um cartão vermelho e a Polícia Militar do Rio de Janeiro entendeu que ele estava se referindo ao Comando Vermelho. O episódio gerou piadas nas redes e questionamentos sobre a presença e a conduta da PM em campo durante partidas de futebol.",
       "source": "bluesky",
       "subreddit": "bsky_rj",
       "permalink": "https://bsky.app/profile/crisvector.com/post/3mzuwqpfu322k",
       "createdAt": "2026-11-09T12:34:04.274000+00:00",
-      "rawScore": 0.21850186213442466,
-      "relevanceScore": 0.3538909579271385,
-      "suggestedRadius": 71.69,
-      "imageUrl": "assets/images/bsky_3mzuwqpfu322k_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzuwqpfu322k_wiki_thumb.jpg",
+      "rawScore": 0.34063787820633407,
+      "relevanceScore": 0.48959764245148224,
+      "suggestedRadius": 77.98,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-rj",
       "sources": [
@@ -322,186 +449,62 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A confusão toda é uma comédia involuntária: o Gomez tentando explicar cartão vermelho e a PM entendendo facção rendeu o melhor diálogo do futebol carioca. Virou meme porque a situação é absurda demais para ser levada a sério.",
+          "text": "A presença da PM no campo é necessária para garantir a segurança de jogadores e árbitros, e o episódio não passa de um mal-entendido engraçado que viralizou. Ninguém foi preso nem houve violência, então não vejo motivo para tanta reclamação.",
           "source": "sintese",
           "evidence": [
-            1,
-            2
+            5
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A PM do Rio está em campo para garantir segurança, mas o episódio mostra despreparo: confundir a palavra do jogador com nome de facção e criar um paredão no gramado só gera tensão desnecessária. Polícia não deveria estar no campo discutindo com atleta.",
+          "text": "A PM do Rio virou piada ao confundir um jogador falando de cartão vermelho com o Comando Vermelho, e isso mostra como a abordagem é despreparada. Polícia em campo deveria estar no vestiário ou na escolta, não discutindo com jogador no gramado.",
           "source": "sintese",
           "evidence": [
+            1,
             4,
+            6
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A presença ostensiva da PM em campo já era comum para escolta de árbitros, mas o jeito como abordaram o jogador chamou atenção. O episódio serve para discutir se esse tipo de policiamento no gramado é realmente necessário ou se só gera confusão.",
+          "source": "sintese",
+          "evidence": [
             5,
             7,
             8
           ],
           "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A presença da PM em campo costuma ter função de escolta e segurança, mas o episódio do Gomez expõe um problema de comunicação: sem contexto, qualquer frase pode soar como outra coisa. O caso pede revisão de como a polícia atua perto dos jogadores.",
-          "source": "sintese",
-          "evidence": [
-            3,
-            5,
-            6
-          ],
-          "votes": 0
         }
       ],
       "enrichedBy": "deepseek-chat",
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzxedhbcjc2d",
-      "rank": 7,
-      "title": "Curta temporada no Rio de Janeiro com ingressos à venda",
-      "label": "Temporada curta no Rio · Ingressos",
-      "context": "Um evento de curta temporada no Rio de Janeiro está com ingressos disponíveis para compra. A divulgação ocorre por meio de plataforma online, sem detalhes adicionais sobre a atração.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/andredahmer.bsky.social/post/3mzxedhbcjc2d",
-      "createdAt": "2026-11-10T11:42:40.273000+00:00",
-      "rawScore": 0.20429911823800045,
-      "relevanceScore": 0.22699902026444493,
-      "suggestedRadius": 64.59,
-      "imageUrl": "assets/images/bsky_3mzxedhbcjc2d_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzxedhbcjc2d_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "Curta temporada no Rio de Janeiro. Ingressos em: bileto.sympla.com.br/event/128420...",
-          "url": "https://bsky.app/profile/andredahmer.bsky.social/post/3mzxedhbcjc2d",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A divulgação de uma temporada curta no Rio é uma boa oportunidade para quem quer garantir um programa diferente na cidade, e o link direto para compra facilita o acesso.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O anúncio não informa qual é a atração, o local exato nem as datas, o que torna impossível decidir se vale a pena comprar o ingresso só com esse post.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Sem mais detalhes sobre o evento, fica difícil avaliar se a temporada curta no Rio é relevante, mas o formato de venda online já é um indicativo de como será a experiência.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzw5jphyd22f",
-      "rank": 8,
-      "title": "O segundo turno no Rio de Janeiro é justo.",
-      "label": "Segundo turno no Rio · Disputa eleitoral",
-      "context": "O segundo turno no Rio de Janeiro é defendido em posts como uma etapa justa da eleição. A discussão ocorre após a entrada de Garotinho na disputa, com questionamentos sobre a atuação da Justiça Eleitoral.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/fabridosreis.bsky.social/post/3mzw5jphyd22f",
-      "createdAt": "2026-11-10T00:08:09.475000+00:00",
-      "rawScore": 0.060329668041214014,
-      "relevanceScore": 0.1781440756013489,
-      "suggestedRadius": 61.32,
-      "imageUrl": "assets/images/bsky_3mzw5jphyd22f_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzw5jphyd22f_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "O SEGUNDO TURNO NO RIO DE JANEIRO É JUSTO.",
-          "url": "https://bsky.app/profile/fabridosreis.bsky.social/post/3mzw5jphyd22f",
-          "subreddit": "bsky_rj"
-        },
-        {
-          "title": "QUEREMOS O SEGUNDO TURNO NO RIO DE JANEIRO! 🤝🫶✊️",
-          "url": "https://bsky.app/profile/taniarivera.bsky.social/post/3mzok5gxptk2o",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O segundo turno no Rio é justo porque dá ao eleitor a chance de rever seu voto e escolher entre os mais votados. A entrada de Garotinho não tira a legitimidade da etapa, que segue as regras definidas pela Justiça Eleitoral.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Garotinho entrou na disputa só para atrapalhar, e a Justiça Eleitoral permitiu isso. O segundo turno no Rio acaba sendo injusto porque favorece esse tipo de manobra política, que confunde o eleitor.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A situação no Rio de Janeiro causa vergonha em parte do eleitorado, como mostram os comentários. O segundo turno pode ser justo na teoria, mas a insatisfação com os candidatos e com a Justiça Eleitoral torna a disputa desacreditada.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzvcrbexis2l",
+      "id": "bsky_3mzxivhbxwk2o",
       "rank": 9,
-      "title": "Doar sangue é um gesto de amor. Atenção Rio de Janeiro",
-      "label": "Doação de sangue · Rio de Janeiro",
-      "context": "Posts no Bluesky divulgam a doação de sangue como um gesto de amor e chamam a atenção do público do Rio de Janeiro. A mensagem busca incentivar a participação de moradores da cidade nesse ato.",
+      "title": "Misturar sotaques paulista, carioca e mineiro na mesma frase para criar um sotaque sudestino",
+      "label": "Sotaque sudestino · mistura de expressões regionais",
+      "context": "Uma publicação no Bluesky propõe combinar sotaques e expressões de São Paulo, Rio de Janeiro e Minas Gerais numa mesma frase para formar um autêntico sotaque sudestino. A ideia gerou comentários que brincam com a mistura de gírias e com a possibilidade de incluir também traços de outros estados.",
       "source": "bluesky",
       "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/contagemcorona1.bsky.social/post/3mzvcrbexis2l",
-      "createdAt": "2026-11-09T16:09:11.272000+00:00",
-      "rawScore": 0.05392918977954644,
-      "relevanceScore": 0.17103243308838495,
-      "suggestedRadius": 60.81,
-      "imageUrl": "assets/images/bsky_3mzvcrbexis2l_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzvcrbexis2l_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/brunomsantiago.bsky.social/post/3mzxivhbxwk2o",
+      "createdAt": "2026-11-10T13:04:10.873000+00:00",
+      "rawScore": 0.4177270335069155,
+      "relevanceScore": 0.46414114834101716,
+      "suggestedRadius": 76.88,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-rj",
       "sources": [
         {
-          "title": "Doar sangue é um gesto de amor. Atenção Rio de Janeiro ⬇️",
-          "url": "https://bsky.app/profile/contagemcorona1.bsky.social/post/3mzvcrbexis2l",
-          "subreddit": "bsky_rj"
-        },
-        {
-          "title": "❤️Atenção Rio de Janeiro! Doar sangue é um gesto de amor.",
-          "url": "https://bsky.app/profile/contagemcorona1.bsky.social/post/3mzt5jfewjs2n",
+          "title": "Tem que misturar os sotaques e expressões paulista, carioca e mineira na mesma frase, para ter um autêntico sotaque sudestino",
+          "url": "https://bsky.app/profile/brunomsantiago.bsky.social/post/3mzxivhbxwk2o",
           "subreddit": "bsky_rj"
         }
       ],
@@ -509,68 +512,9 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Doar sangue é um gesto de amor que pode salvar vidas, e divulgar isso no Rio de Janeiro é essencial para manter os estoques dos hemocentros. A mensagem é simples e direta, e pode convencer quem nunca doou a começar.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Só dizer que doar sangue é um gesto de amor não resolve o problema. Falta informação sobre onde doar, horários e requisitos, e sem isso a campanha fica vaga e não mobiliza ninguém de verdade.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A divulgação é válida, mas depende de como for feita. Se não vier acompanhada de dados concretos sobre os hemocentros do Rio e de um convite claro, o impacto pode ser pequeno.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzqfgkemp226",
-      "rank": 10,
-      "title": "Pessoa é confundida com carioca e diz ter sido ofendida",
-      "label": "Confusão regional · Carioca como ofensa",
-      "context": "Uma pessoa relatou no Bluesky que foi ofendida após ser confundida com alguém carioca. O episódio gerou comentários tratando a confusão como brincadeira e outros pedindo identificação de quem fez a suposta ofensa.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/carolborgesart.bsky.social/post/3mzqfgkemp226",
-      "createdAt": "2026-11-07T17:13:30.477000+00:00",
-      "rawScore": 0.050290065864358795,
-      "relevanceScore": 0.1669889620715098,
-      "suggestedRadius": 60.52,
-      "imageUrl": "assets/images/bsky_3mzqfgkemp226_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzqfgkemp226_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "acabaram de me ofender aqui no fiq (acharam que eu era carioca",
-          "url": "https://bsky.app/profile/carolborgesart.bsky.social/post/3mzqfgkemp226",
-          "subreddit": "bsky_rj"
-        },
-        {
-          "title": "Bolsonarista carioca é preso por ofender nordestinos em Natal www.diariodocentrodomundo.com.br/essencial/ho...",
-          "url": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mzqxsqwcnc2s",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Ser confundido com carioca virou quase elogio disfarçado de ofensa, e o episódio rendeu piada boa. O comentário sobre 'energia de Itaquera' mostra que o pessoal levou na esportiva e transformou a situação em humor em vez de briga.",
+          "text": "Misturar paulista, carioca e mineiro na mesma frase é uma brincadeira que funciona e mostra como o sudeste tem uma identidade sonora própria, feita de encontros. Cada expressão traz um pedaço da região e o resultado fica divertido e reconhecível.",
           "source": "sintese",
           "evidence": [
-            1,
             3
           ],
           "votes": 0
@@ -578,19 +522,78 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Quem ofende alguém por achar que é carioca deveria ter o nome exposto, porque esse tipo de gente não deveria circular impune na convivência. O pedido de identificação é justo: sem saber quem foi, a ofensa fica sem resposta.",
+          "text": "Forçar a mistura de sotaques numa frase só vira caricatura e não representa como ninguém fala de verdade. Cada estado tem seu jeito próprio, e juntar tudo num amontoado de gírias acaba soando artificial e sem graça.",
           "source": "sintese",
-          "evidence": [
-            2
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A confusão regional em si não diz muita coisa: ser tratado como carioca pode soar ofensa para uns e piada para outros, dependendo de quem ouve. O que pesa é o tom de quem falou, e isso o relato não deixa claro.",
+          "text": "A brincadeira do sotaque sudestino só faz sentido se incluir também o 'bá tche' e outras expressões de fora, como sugeriram nos comentários. Misturar só os três estados principais deixa a ideia incompleta e ignora a diversidade real da região.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzxf6m7q6k2i",
+      "rank": 10,
+      "title": "Carioca que habita em mim manda o carioca que habita em você ir tomar no olho do cu",
+      "label": "Carioca · Xingamento bem-humorado",
+      "context": "Um usuário do Bluesky publicou que soltou muitos palavrões no dia e mandou o 'carioca que habita nele' mandar o 'carioca que habita no outro' ir tomar no olho do cu. A publicação virou conversa entre amigos, com respostas que tratam o xingamento como brincadeira e afeto.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/lucasvt.bsky.social/post/3mzxf6m7q6k2i",
+      "createdAt": "2026-11-10T11:57:42.177000+00:00",
+      "rawScore": 0.36383389580837494,
+      "relevanceScore": 0.4042598842315277,
+      "suggestedRadius": 74.15,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "já soltei TANTOS palavrões no dia de hoje o carioca q habita em mim manda o carioca q habita em vc ir tomar no olho do cu",
+          "url": "https://bsky.app/profile/lucasvt.bsky.social/post/3mzxf6m7q6k2i",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Xingar assim é puro carinho carioca: a gente manda a pessoa tomar no olho do cu e continua amigo, rindo junto. Esse jeito direto e bem-humorado de falar é o que torna a conversa leve e próxima, sem ninguém levar a sério.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Esse tipo de palavrão, mesmo em tom de brincadeira, pode soar agressivo para quem não é do Rio e não entende a intimidade. A brincadeira vira desrespeito quando o outro não está no mesmo clima e acaba recebendo um xingamento sem esperar.",
           "source": "sintese",
           "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Depende do contexto e da intimidade entre as pessoas: entre amigos que compartilham esse humor, o palavrão é só jeito de falar. Fora desse círculo, a mesma frase pode ser lida como ofensa real, então o tom muda conforme quem está ouvindo.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],

@@ -1,21 +1,76 @@
 {
-  "generatedAt": "2026-11-10T19:34:54.737566+00:00",
+  "generatedAt": "2026-11-11T05:23:48.269760+00:00",
   "region": "br-se",
-  "count": 9,
+  "count": 8,
   "items": [
     {
-      "id": "bsky_3mzvotdw7e22m",
+      "id": "bsky_3mzypfelcbk24",
       "rank": 1,
+      "title": "Prática de trancar vítimas e usar gás lacrimogêneo é ilegal mas comum nas forças de segurança",
+      "label": "Uso de gás e confinamento pela polícia",
+      "context": "Um post no Bluesky afirma que trancar pessoas em locais fechados e lançar spray de pimenta ou gás lacrimogêneo é uma prática ilegal, mas comum nas forças de segurança brasileiras, inclusive no treinamento de recrutas. A publicação denuncia a instituição como assassina e relaciona o método a casos de violência policial.",
+      "source": "bluesky",
+      "subreddit": "bsky_se",
+      "permalink": "https://bsky.app/profile/coalacroata.bsky.social/post/3mzypfelcbk24",
+      "createdAt": "2026-11-11T00:33:08.771000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3mzypfelcbk24_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzypfelcbk24_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-se",
+      "sources": [
+        {
+          "title": "Lembrando que essa prática de trancar vítimas dentro de lugar fechado e jogar spray de pimenta ou gás lacrimogêneo é ilegal, mas comum nas forças de segurança brasileiras. Não só é parte do treinamento como fazem com os recrutas. Instituição assassina e vagabunda.",
+          "url": "https://bsky.app/profile/coalacroata.bsky.social/post/3mzypfelcbk24",
+          "subreddit": "bsky_se"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A denúncia escancara um método cruel que a corporação usa até em treinamento: trancar pessoas e jogar gás é tortura, e chamar isso de procedimento padrão mostra como a instituição naturaliza a violência contra quem deveria proteger.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Jogar tudo no mesmo saco não ajuda: a polícia enfrenta situações de risco real e precisa de contenção, mas generalizar como se todo agente fosse assassino ignora o trabalho de quem segue protocolo e arrisca a vida todos os dias.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O caso da pessoa em surto mostra que a discussão precisa separar o que é ilegal do que é falha de treinamento: sem investigação independente e protocolo claro, fica difícil saber se o problema é a prática em si ou a falta de preparo para lidar com saúde mental.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzvotdw7e22m",
+      "rank": 2,
       "title": "Crise hídrica em Sergipe: governo culpa El Niño e anuncia racionamento",
       "label": "Racionamento de água em Sergipe · Crise hídrica",
-      "context": "O governo de Sergipe anunciou racionamento de água no estado por causa da crise hídrica, atribuída ao El Niño e à falta de chuvas. A medida ocorre após meses de denúncias sobre falta de água e cobranças por providências.",
+      "context": "O governo de Sergipe anunciou o início do racionamento de água no estado, atribuindo a crise hídrica ao fenômeno El Niño. A medida ocorre após meses de denúncias sobre falta de água e cobranças por providências.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/lindabrasilse.bsky.social/post/3mzvotdw7e22m",
       "createdAt": "2026-11-09T19:45:02.284000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.12553950639717995,
+      "relevanceScore": 0.31559528496588396,
+      "suggestedRadius": 69.71,
       "imageUrl": "assets/images/bsky_3mzvotdw7e22m_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzvotdw7e22m_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -41,9 +96,10 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O El Niño é um fenômeno climático real e agrava a seca, então o racionamento é uma resposta necessária diante da falta de chuvas e reservatórios no mínimo. O governo está sendo transparente ao explicar a causa e tomar a medida.",
+          "text": "O El Niño é um fenômeno climático real e agrava a seca, então o racionamento é uma medida necessária diante da falta de chuvas e dos reservatórios no mínimo. O governo está sendo transparente ao explicar a causa e agir para evitar um colapso no abastecimento.",
           "source": "sintese",
           "evidence": [
+            1,
             2
           ],
           "votes": 0
@@ -51,11 +107,12 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A crise hídrica em Sergipe não começou hoje: há meses faltava água e o governo não agiu. Culpar o El Niño agora é uma forma de esconder a falta de planejamento e prevenção que poderiam ter evitado o racionamento.",
+          "text": "A crise hídrica em Sergipe não começou hoje: há meses faltava água e o governo foi alertado, mas não agiu. Atribuir tudo ao El Niño é uma forma de fugir da responsabilidade por falta de planejamento e prevenção. Quem paga a conta é a população, que sofre com o racionamento.",
           "source": "sintese",
           "evidence": [
             1,
             3,
+            5,
             6
           ],
           "votes": 0
@@ -63,10 +120,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A situação é grave e o calor intenso piora tudo, mas também é preciso considerar que outros estados enfrentam enchentes enquanto Sergipe seca. A privatização da Deso pode ter contribuído para a falta de água, como relatam moradores.",
+          "text": "O El Niño realmente intensifica a seca, mas seus efeitos já eram previsíveis e o governo teve tempo para se preparar. A privatização da Deso também pode ter agravado a situação do saneamento. É preciso cobrar responsabilidade, mas sem ignorar a complexidade do problema.",
           "source": "sintese",
           "evidence": [
-            3,
+            1,
             4
           ],
           "votes": 0
@@ -77,17 +134,17 @@
     },
     {
       "id": "bsky_3mzlae6vdls2n",
-      "rank": 2,
+      "rank": 3,
       "title": "Vizinho questiona ranking que elegeu médico entre os 10 mais importantes do Brasil por seguidores no Instagram",
-      "label": "Ranking médico por seguidores · Crítica de vizinhos",
-      "context": "Em uma conversa de prédio, um vizinho afirmou que um médico estava entre os 10 mais importantes do Brasil porque tinha mais de 2 milhões de seguidores no Instagram. Outro vizinho questionou que tipo de gente vota nesse ranking e disse nunca ter ouvido falar dele.",
+      "label": "Ranking de médicos por seguidores · Crítica",
+      "context": "Em uma conversa de prédio, um morador contou que um vizinho apareceu entre os 10 médicos mais importantes do Brasil em um ranking que leva em conta ter mais de 2 milhões de seguidores no Instagram. Outro vizinho questionou que tipo de gente vota nesse ranking e disse que não ficou sabendo da votação.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/anacarlaaa.bsky.social/post/3mzlae6vdls2n",
       "createdAt": "2026-11-05T15:59:23.976000+00:00",
-      "rawScore": 0.21627483667013714,
-      "relevanceScore": 0.29879636951816246,
-      "suggestedRadius": 68.8,
+      "rawScore": 0.038334705747401936,
+      "relevanceScore": 0.1537052286082244,
+      "suggestedRadius": 59.52,
       "imageUrl": "assets/images/bsky_3mzlae6vdls2n_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzlae6vdls2n_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -108,17 +165,15 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O ranking expõe o problema: um médico com histórico gordofóbico, preconceituoso e antivax se achar entre os 10 mais importantes do Brasil só porque tem seguidores mostra como esse tipo de premiação é raso e premia popularidade, não competência.",
+          "text": "O ranking só reflete o que o público consome: um médico com 2 milhões de seguidores tem alcance e influência que a maioria não tem. Se o critério é popularidade nas redes, o resultado está coerente com a proposta.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A conversa de prédio virou uma treta desnecessária: fecharam o grupo e deram advertência pro prédio inteiro por causa de uma discussão sobre ranking médico. Ninguém precisava levar tão a sério um assunto que era só um vizinho se achando.",
+          "text": "Um ranking que mede importância médica por número de seguidores no Instagram não tem credibilidade nenhuma. Ainda mais quando o escolhido tem histórico de posições preconceituosas e antivacina, o que mostra o tipo de audiência que o valida.",
           "source": "sintese",
           "evidence": [
             1
@@ -128,11 +183,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O vizinho perguntou que tipo de gente vota nesse ranking e nunca tinha ouvido falar dele. Isso mostra que o tal ranking não é tão conhecido assim, e a discussão toda pode ser só falta de informação sobre como essa lista é feita.",
+          "text": "A pergunta do vizinho é pertinente: ninguém sabe quem vota nesse ranking nem qual é o critério real. Sem transparência sobre a metodologia, fica difícil levar a lista a sério, independentemente de quem foi escolhido.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -141,17 +194,17 @@
     },
     {
       "id": "bsky_3mzq3rdio4c23",
-      "rank": 3,
-      "title": "Chibança do PT da Bahia e banda de Sergipe em live",
-      "label": "Live sobre chibança do PT e banda",
-      "context": "Um locutor anunciou uma live para tratar da 'chibança do PT da Bahia' e de uma banda de Sergipe. O evento ocorre a partir das 12h20 e será transmitido no YouTube.",
+      "rank": 4,
+      "title": "Chibança do PT da Bahia e banda de Sergipe em conversa ao vivo",
+      "label": "Chibança do PT baiano · conversa ao vivo",
+      "context": "Um locutor anunciou uma conversa ao vivo a partir das 12h20 para tratar da \"chibança do PT da Bahia\" e de uma banda de Sergipe. O anúncio foi feito em post no Bluesky com link para transmissão no YouTube.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/fsmcruz.bsky.social/post/3mzq3rdio4c23",
       "createdAt": "2026-11-07T14:20:36.295000+00:00",
-      "rawScore": 0.25518403426519054,
-      "relevanceScore": 0.2410816611280435,
-      "suggestedRadius": 65.46,
+      "rawScore": 0.042856766042024,
+      "relevanceScore": 0.04761862893558222,
+      "suggestedRadius": 49.09,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -167,7 +220,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A live promete esclarecer o que muita gente tem vergonha de perguntar sobre a chibança do PT da Bahia e a banda de Sergipe. É uma oportunidade de entender esses assuntos de forma direta e sem rodeios.",
+          "text": "A conversa ao vivo promete destrinchar a chibança do PT baiano e a banda de Sergipe sem rodeios, o que é raro num formato que costuma evitar esses assuntos. Vale acompanhar às 12h20 pra ver o que o locutor vai soltar.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -175,7 +228,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O título sensacionalista e o horário improvisado sugerem que a live será mais um show de opiniões do que informação útil. A abordagem parece reforçar estereótipos em vez de esclarecer.",
+          "text": "Anunciar o tema como \"GRAVÍSSIMO\" e prometer \"prosopopeias\" soa mais como chamada de palco do que como informação séria sobre o PT da Bahia ou a banda de Sergipe. O formato exagerado atrapalha quem quer entender o assunto de verdade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -183,7 +236,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A transmissão pode render bons momentos se mantiver o foco nos fatos, mas o tom de 'prosopopeias' indica que será mais uma conversa informal. Vale conferir para tirar as próprias conclusões.",
+          "text": "O anúncio mistura dois assuntos bem diferentes — a chibança do PT baiano e uma banda de Sergipe — sem dizer o que os liga. Só assistindo à conversa das 12h20 pra saber se a conexão faz sentido ou se é só isca pra audiência.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -194,17 +247,17 @@
     },
     {
       "id": "bsky_3mzkxthqjzs2o",
-      "rank": 4,
+      "rank": 5,
       "title": "Segurança é percepção individual e não se mede só por números de violência",
-      "label": "Segurança pública · Percepção versus estatísticas",
-      "context": "Um usuário do Bluesky afirmou que a sensação de segurança é individual e que a violência não pode ser medida apenas por números, citando que se sente mais seguro em São Paulo do que em Sergipe. A discussão gerou relatos sobre como a percepção de segurança varia conforme a cidade, a classe social e o tipo de crime, questionando o uso de estatísticas como único parâmetro.",
+      "label": "Segurança pública · Percepção vs. estatísticas",
+      "context": "Um usuário do Bluesky afirmou que a sensação de segurança é individual e que a violência não pode ser medida apenas por números, citando que se sente mais seguro em São Paulo do que em Sergipe. A discussão gerou relatos de outras pessoas sobre como a percepção de segurança varia conforme a cidade, a classe social e o tipo de crime.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/fvrby.bsky.social/post/3mzkxthqjzs2o",
       "createdAt": "2026-11-05T13:26:52.769000+00:00",
-      "rawScore": 0.2392747413518477,
-      "relevanceScore": 0.22605157206324147,
-      "suggestedRadius": 64.53,
+      "rawScore": 0.0424383205151238,
+      "relevanceScore": 0.04715368946124866,
+      "suggestedRadius": 49.03,
       "imageUrl": "assets/images/bsky_3mzkxthqjzs2o_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzkxthqjzs2o_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -220,7 +273,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A percepção de segurança é mesmo pessoal e depende da rotina de cada um. Em São Paulo, os números de homicídios são menores que em muitas capitais, mas o medo de assalto à mão armada no dia a dia é constante, o que mostra que medir violência só por mortes não reflete a experiência real.",
+          "text": "A percepção de segurança é mesmo pessoal e depende da rotina de cada um. Em São Paulo, os números de assassinatos são menores que os de 25 capitais, mas o furto e o assalto à mão armada no dia a dia pesam muito na sensação de insegurança.",
           "source": "sintese",
           "evidence": [
             2
@@ -230,7 +283,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Dizer que segurança é só percepção individual pode relativizar demais o problema. Em São Paulo, a sensação de insegurança é concreta: todo mundo que você conhece tem história de assalto, anda na Paulista com celular escondido e desviando de golpista. Isso não é impressão, é rotina.",
+          "text": "Medir violência só com estatísticas ignora o que as pessoas sentem. Em São Paulo, todo mundo que você conhece tem uma história de assalto, anda na Paulista com celular escondido e desviando de golpista — isso não aparece nos números.",
           "source": "sintese",
           "evidence": [
             3
@@ -240,12 +293,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A experiência varia muito conforme a cidade e o recorte social. Em Recife, uma pessoa se sente mais segura do que em São Paulo, enquanto em Goiânia há relatos parecidos com os de São Paulo. O contexto local e as condições de vida pesam tanto quanto as estatísticas.",
+          "text": "A segurança varia muito conforme a cidade e o tipo de crime. Em Recife, a sensação é de mais segurança do que em São Paulo, mas lá não tem policial justiceiro; já em São Paulo, a violência urbana parece ter piorado nos últimos anos.",
           "source": "sintese",
           "evidence": [
             3,
-            4,
-            5
+            4
           ],
           "votes": 0
         }
@@ -255,17 +307,17 @@
     },
     {
       "id": "bsky_3mzobugah6s2i",
-      "rank": 5,
+      "rank": 6,
       "title": "Desembargadora que liberou bets tem histórico de críticas a Lula e defesa de Bolsonaro",
       "label": "Desembargadora e bets · Histórico político",
-      "context": "Uma desembargadora que autorizou a liberação de bets tem histórico de críticas ao presidente Lula e de defesa do ex-presidente Bolsonaro, segundo o site imprensa24h.com.br. O caso levanta questionamentos sobre a imparcialidade da decisão e sobre a estabilidade e punição de magistrados.",
+      "context": "Uma desembargadora que autorizou a liberação de bets tem histórico de críticas ao presidente Lula e de defesa do ex-presidente Bolsonaro, segundo o portal imprensa24h.com.br. O caso levanta questionamentos sobre a imparcialidade da decisão judicial e sobre a conduta de magistrados com posições políticas declaradas.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/akaishiri.bsky.social/post/3mzobugah6s2i",
       "createdAt": "2026-11-06T21:04:22.972000+00:00",
-      "rawScore": 0.23663985085373834,
-      "relevanceScore": 0.2235622949421087,
-      "suggestedRadius": 64.37,
+      "rawScore": 0.04075369026723983,
+      "relevanceScore": 0.04528187807471092,
+      "suggestedRadius": 48.77,
       "imageUrl": "assets/images/bsky_3mzobugah6s2i_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzobugah6s2i_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -281,7 +333,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A decisão da desembargadora foi correta ao liberar as bets, e seu histórico político não deveria ser usado para questionar sua imparcialidade. Criticar Lula e defender Bolsonaro é um direito de qualquer cidadão, inclusive de magistrados.",
+          "text": "A decisão de liberar as bets foi técnica e não deveria ser contaminada pelo histórico político da desembargadora. Julgar suas convicções pessoais é uma forma de pressão indevida sobre o Judiciário.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -289,7 +341,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A desembargadora tem um histórico de críticas a Lula e defesa de Bolsonaro, o que levanta suspeitas sobre a motivação de sua decisão de liberar as bets. Espero que seja punida, pois a estabilidade do judiciário não pode servir de escudo para decisões questionáveis.",
+          "text": "A estabilidade do Judiciário vira impunidade quando um magistrado com histórico de militância política toma decisões que favorecem interesses específicos. O certo seria demissão sem benefícios, não blindagem corporativa.",
           "source": "sintese",
           "evidence": [
             1,
@@ -300,64 +352,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O histórico político da desembargadora é um fato, mas é preciso avaliar se ele influenciou a decisão sobre as bets. A questão da estabilidade e punição de magistrados é complexa e merece debate, mas não pode ser reduzida a esse caso específico.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzred2cq4k2a",
-      "rank": 6,
-      "title": "Onde Lula não passou de 35%: Boa Vista 24,2%, Joinville 26,2%, Londrina 30,8%, Rio Branco 33,4%",
-      "label": "Votação de Lula por cidade · Comparação regional",
-      "context": "Um post no Bluesky listou percentuais de votação de Lula em diferentes cidades, mostrando que em Boa Vista, Joinville, Londrina e Rio Branco ele não ultrapassou 35%. Já em Salvador, Teresina, Feira de Santana, Aracaju e São Luís, os índices ficaram acima de 62%, com destaque para Salvador (73,2%).",
-      "source": "bluesky",
-      "subreddit": "bsky_se",
-      "permalink": "https://bsky.app/profile/ainporram.bsky.social/post/3mzred2cq4k2a",
-      "createdAt": "2026-11-08T02:26:19.983000+00:00",
-      "rawScore": 0.09431157345618703,
-      "relevanceScore": 0.08909958202474648,
-      "suggestedRadius": 53.91,
-      "imageUrl": "assets/images/bsky_3mzred2cq4k2a_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzred2cq4k2a_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-se",
-      "sources": [
-        {
-          "title": "Onde o lula não passou de 35%: Boa vista: 24.2% Joinville: 26.2% Londrina: 30.8% Rio Branco: 33.4% Top 5 mais lulistas: Salvador: 73.2% Teresina: 68% Feira de Santana: 64.1% Aracaju: 62.1% São Luís: 62% Salvador é a mecca lulista nacional",
-          "url": "https://bsky.app/profile/ainporram.bsky.social/post/3mzred2cq4k2a",
-          "subreddit": "bsky_se"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Os números mostram que o Nordeste é o verdadeiro berço do lulismo, com Salvador chegando a 73,2% e outras capitais acima de 62%. Isso reflete a força das políticas sociais na região, que reconhece o legado do presidente.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O Sul e o Centro-Oeste rejeitam Lula de forma clara, como mostram Joinville com 26,2% e Londrina com 30,8%. Essa baixa votação indica que as propostas do governo não dialogam com as demandas dessas regiões.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A comparação entre cidades revela um país dividido, mas é preciso considerar que fatores locais e candidatos adversários influenciam esses percentuais. Os dados isolados não explicam totalmente a complexidade do voto.",
+          "text": "O histórico político da desembargadora por si só não invalida a decisão sobre as bets, mas o caso expõe a falta de transparência sobre como magistrados com posições partidárias declaradas são tratados pelo próprio tribunal.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -369,18 +364,18 @@
     {
       "id": "bsky_3mztmbg2e6c2u",
       "rank": 7,
-      "title": "Segunda Bienal do Livro e Cultural de Sergipe acontece, após outra bienal de mesmo nome surgir em 2025",
+      "title": "Segunda Bienal do Livro e Cultural de Sergipe acontece; primeira foi em 2024",
       "label": "Bienal do Livro de Sergipe · Duas edições",
-      "context": "A segunda edição da Bienal do Livro e Cultural de Sergipe foi realizada, após a primeira em 2024. No ano passado, uma outra bienal diferente também adotou o nome 'Bienal do Livro de Sergipe', sem o termo 'e Cultural'.",
+      "context": "A segunda edição da Bienal do Livro e Cultural de Sergipe foi realizada, após a primeira edição em 2024. No ano passado, outra bienal diferente também usou o nome 'Bienal do Livro de Sergipe', sem o termo 'e Cultural'.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/matheusfreire.neocities.org/post/3mztmbg2e6c2u",
       "createdAt": "2026-11-08T23:53:53.385000+00:00",
-      "rawScore": 0.04967666598394638,
-      "relevanceScore": 0.04693135755611973,
-      "suggestedRadius": 49.0,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.0060613924317685945,
+      "relevanceScore": 0.006734880479742883,
+      "suggestedRadius": 40.92,
+      "imageUrl": "assets/images/bsky_3mztmbg2e6c2u_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mztmbg2e6c2u_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-se",
       "sources": [
@@ -394,86 +389,27 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A existência de duas bienais em anos alternados, uma par e outra ímpar, acaba ampliando a oferta de eventos literários para o público sergipano, que pode aproveitar programações diferentes a cada ano.",
+          "text": "A realização da segunda Bienal do Livro e Cultural de Sergipe mostra que o evento veio para ficar e já tem continuidade garantida, com edições em anos pares. Isso é bom para o público e para o setor literário local.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Duas bienais com nomes quase idênticos confundem o público e diluem a identidade do evento, que deveria ter uma denominação clara para não parecer que estão inventando eventos concorrentes sem necessidade.",
+          "text": "Duas bienais com nomes quase iguais confundem todo mundo. Uma se chama 'Bienal do Livro e Cultural de Sergipe' e a outra 'Bienal do Livro de Sergipe', o que gera dúvida sobre qual é a oficial e prejudica a credibilidade das duas.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O que importa é que os dois eventos aconteçam e tragam livros e cultura para Sergipe; a coincidência de nomes é secundária, desde que cada um tenha sua própria organização e proposta.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzthphsj4k2h",
-      "rank": 8,
-      "title": "Quantas pessoas de Aracaju existem no microblogging, né, amiga?",
-      "label": "Bluesky · Comunidade de Aracaju",
-      "context": "Uma pessoa de Aracaju comenta no Bluesky que a rede parece ter poucos usuários da cidade, e outra confirma que é difícil encontrar gente de Aracaju numa rede com cerca de 80 pessoas. O assunto é a sensação de comunidade pequena e a dificuldade de encontrar conterrâneos na plataforma.",
-      "source": "bluesky",
-      "subreddit": "bsky_se",
-      "permalink": "https://bsky.app/profile/catarinacristo.bsky.social/post/3mzthphsj4k2h",
-      "createdAt": "2026-11-08T22:32:17.287000+00:00",
-      "rawScore": 0.04514933332656065,
-      "relevanceScore": 0.04265422132906434,
-      "suggestedRadius": 48.39,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-se",
-      "sources": [
-        {
-          "title": "Kkkk vou te seguir entao Quantas pessoas de Aracaju visitadas em microblogging existem, né, amiga? Tava sentindo sua falta",
-          "url": "https://bsky.app/profile/catarinacristo.bsky.social/post/3mzthphsj4k2h",
-          "subreddit": "bsky_se"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A rede pode ser pequena, mas ainda tem gente de Aracaju aqui, e isso já vale o follow. Mesmo com poucos usuários, encontrar um conterrâneo no meio de tanta gente de outros lugares deixa a plataforma mais acolhedora.",
+          "text": "O calendário ficou esquisito: uma bienal em anos pares e outra em anos ímpares, como se tivessem inventado duas. O público só sai perdido sem saber qual evento é qual e quando acontece cada um.",
           "source": "sintese",
           "evidence": [
             1
           ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Numa rede com 80 pessoas, a chance de trombar com alguém de Aracaju é quase zero, então essa conversa de comunidade local não passa de ilusão. O microblogging não foi feito para aproximar gente da mesma cidade.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O número de usuários de Aracaju no microblogging depende de qual plataforma estamos falando, e o Bluesky ainda está crescendo. Talvez a cidade esteja sub-representada agora, mas isso pode mudar conforme mais gente entra.",
-          "source": "sintese",
-          "evidence": [],
           "votes": 0
         }
       ],
@@ -482,10 +418,10 @@
     },
     {
       "id": "bsky_3mzoifsmmnc27",
-      "rank": 9,
+      "rank": 8,
       "title": "Expressão 'pegou em pica' usada por amigos de Sergipe não é coisa boa",
       "label": "Gíria regional · 'Pegou em pica' em Sergipe",
-      "context": "Uma pessoa relata que amigos de Sergipe usam a expressão 'pegou em pica' e que isso não é uma coisa boa. O comentário destaca uma gíria regional com conotação negativa, mas não há detalhes sobre seu significado ou uso.",
+      "context": "Uma pessoa relatou no Bluesky que amigos de Sergipe usam a expressão 'pegou em pica', mas que ela não tem um sentido positivo. O post compartilha a dúvida sobre o significado dessa gíria regional sem explicar o que ela quer dizer.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/blonde220.bsky.social/post/3mzoifsmmnc27",
@@ -508,7 +444,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A expressão 'pegou em pica' é uma gíria regional de Sergipe que pode ser usada de forma bem-humorada entre amigos, mesmo tendo conotação negativa. Conhecer essas expressões ajuda a entender a cultura local e a evitar mal-entendidos.",
+          "text": "Gírias regionais como essa mostram como a linguagem muda de estado para estado, e compartilhar o uso de amigos de Sergipe ajuda a entender o vocabulário local antes de usar sem saber o peso que tem.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -516,7 +452,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A gíria 'pegou em pica' tem uma conotação negativa e pode ser ofensiva se usada fora de contexto. É melhor evitar esse tipo de expressão para não constranger ou desrespeitar outras pessoas.",
+          "text": "Repetir uma expressão que a própria pessoa diz não ser coisa boa acaba espalhando um termo pejorativo, e quem lê o post sem contexto pode sair usando a gíria achando que é inofensiva.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -524,7 +460,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O significado de 'pegou em pica' varia conforme o contexto e a região, e sem mais informações não dá para afirmar se é sempre negativo. O ideal é observar como os sergipanos usam a expressão no dia a dia.",
+          "text": "O post só diz que a expressão existe em Sergipe e que não é positiva, mas sem explicar o significado fica difícil saber se é brincadeira entre amigos ou ofensa de verdade, então o contexto de uso faz toda a diferença.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
