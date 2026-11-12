@@ -1,21 +1,94 @@
 {
-  "generatedAt": "2026-11-11T19:29:26.726534+00:00",
+  "generatedAt": "2026-11-12T06:29:13.508039+00:00",
   "region": "br-pr",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n22igjbw7225",
+      "id": "bsky_3n234bm3yp22o",
       "rank": 1,
-      "title": "Se fosse Lula, recusaria liberar verba ao Paraná até Moro pedir desculpas",
-      "label": "Verba federal ao Paraná · condicionada a desculpas de Moro",
-      "context": "Um post no Bluesky defende que o presidente Lula se recuse a liberar verbas federais para o Paraná enquanto o senador Sergio Moro não pedir desculpas. A declaração surge em meio a críticas à atuação de Moro como juiz da Lava Jato e à relação do estado com o governo federal.",
+      "title": "Moro é eleito governador do Paraná e gera reações nas redes",
+      "label": "Moro governador do Paraná · Reações",
+      "context": "Sergio Moro foi eleito governador do Paraná, conforme posts publicados em novembro de 2026. A eleição dele reacende a lembrança da prisão do presidente Lula por 580 dias, período em que Moro atuou como juiz responsável pelo caso.",
+      "source": "bluesky",
+      "subreddit": "bsky_pr",
+      "permalink": "https://bsky.app/profile/hqsemroteiro.bsky.social/post/3n234bm3yp22o",
+      "createdAt": "2026-11-11T23:28:58.481000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pr",
+      "sources": [
+        {
+          "title": "A punição do desgraçado que prendeu Lula por 580 dias por um triples que sequer era dele foi ganhar como governador do Paraná. Um ser humano completamente limitado intelectualmente, muito parecido com o Batoré, que deixou e ainda deixa muita gente da mídia hegemônica excitada.",
+          "url": "https://bsky.app/profile/hqsemroteiro.bsky.social/post/3n234bm3yp22o",
+          "subreddit": "bsky_pr"
+        },
+        {
+          "title": "toda essa palhaçada pra fazer um governador e um senador (pendente de julgamento) no paraná, além de colocar um negacionista da ciência na presidência durante uma pandemia parabéns a todos os envolvidos",
+          "url": "https://bsky.app/profile/hmmfalemais.bsky.social/post/3mzzwpickac2w",
+          "subreddit": "bsky_pr"
+        },
+        {
+          "title": "#farsajatonuncamais E o Moro se tornou governador do Paraná, né? Putz...",
+          "url": "https://bsky.app/profile/alannahvic.bsky.social/post/3mzzupmjias2q",
+          "subreddit": "bsky_pr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O Paraná elegeu Moro e agora vai colher o que plantou: um governador que já mostrou na Lava Jato que age por interesse, não por justiça. Quem votou nele vai ver os cargos do estado entregues a indicados de fora e ainda vai ouvir ele culpar o Lula por cada problema.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2,
+            7
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A eleição de Moro mostra que parte do eleitorado prefere ignorar o histórico dele de condenações anuladas e a proximidade com o bolsonarismo. O Paraná escolheu um governador que já teve decisões revogadas pelo STF e agora vai administrar o estado com o mesmo estilo autoritário.",
+          "source": "sintese",
+          "evidence": [
+            5,
+            9
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O resultado no Paraná reflete mais a fragmentação política do estado do que uma escolha consciente por Moro. A baixa participação e a falta de alternativas competitivas acabaram favorecendo um candidato que já estava desgastado nacionalmente, mas que ainda mobiliza parte do eleitorado local.",
+          "source": "sintese",
+          "evidence": [
+            4,
+            11
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n22igjbw7225",
+      "rank": 2,
+      "title": "Se eu fosse o Lula, me recusava a liberar verba pro Paraná até o Moro pedir desculpas",
+      "label": "Verbas federais e desculpas de Moro",
+      "context": "Um post no Bluesky defende que o presidente Lula condicione a liberação de verbas federais ao Paraná a um pedido de desculpas do senador Sergio Moro. A proposta surge em meio a críticas à atuação de Moro na Lava Jato e à relação do estado com o governo federal.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
       "permalink": "https://bsky.app/profile/tubazef.com/post/3n22igjbw7225",
       "createdAt": "2026-11-11T17:33:47.472000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.3662896064771389,
+      "relevanceScore": 0.49565945113375237,
+      "suggestedRadius": 78.24,
       "imageUrl": "assets/images/bsky_3n22igjbw7225_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n22igjbw7225_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -41,33 +114,34 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A ideia de condicionar verba ao pedido de desculpas de Moro é justa: o Paraná se beneficiou politicamente da farsa armada contra Lula e agora deveria reconhecer o erro antes de receber recursos federais.",
+          "text": "O Moro já mostrou que não tem compromisso com o Paraná, então o governo federal não tem que ficar liberando verba pra um estado que insiste em blindar ele. Enquanto não houver um pedido de desculpas público pelas armações da Lava Jato, o cofre fica fechado.",
           "source": "sintese",
           "evidence": [
-            4,
-            6
+            1,
+            8
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Reter verba do Paraná por causa de Moro pune a população que depende de saúde, educação e segurança, e ainda dá munição para a direita acusar Lula de vingança política, o que desgasta o governo.",
+          "text": "Condicionar verba federal a desculpa de político é infantil e prejudica a população que já sofre com governos estaduais ruins. O Paraná paga impostos como qualquer outro estado e tem direito aos repasses, independentemente de quem é senador ou do que fez no passado.",
           "source": "sintese",
           "evidence": [
-            5,
-            7
+            2,
+            5
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O problema é que Moro já ignora o governo federal e deixa o estado à própria sorte; condicionar verba a desculpas não muda a gestão estadual e ainda pode prejudicar quem mais precisa dos recursos.",
+          "text": "O problema é que o Moro já ignora o governo federal e deixa o estado se virar, então reter verba pode não mudar nada na prática. Talvez a discussão devesse ser sobre por que o Paraná insiste em eleger governadores que brigam com a União em vez de cobrar resultados.",
           "source": "sintese",
           "evidence": [
             1,
-            2
+            2,
+            6
           ],
           "votes": 0
         }
@@ -76,31 +150,31 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n22ndwudqc2r",
-      "rank": 2,
-      "title": "Pior ainda, vai ser governador do Paraná, estado onde eu infelizmente nasci e onde ainda estou morando.",
-      "label": "Governador do Paraná · Reação nas redes",
-      "context": "Um post no Bluesky critica a possibilidade de uma pessoa assumir o governo do Paraná, com o autor dizendo que nasceu e mora no estado. A publicação gerou comentários de apoio de outros usuários que também se disseram moradores do Paraná.",
+      "id": "bsky_3n234ebcjps2q",
+      "rank": 3,
+      "title": "Governador eleito do Paraná vai arruinar o estado, dizem críticos",
+      "label": "Governador do Paraná · Críticas à competência",
+      "context": "Posts no Bluesky criticam o governador eleito do Paraná, afirmando que ele vai arruinar o estado e que sua incompetência está no DNA. A crítica também questiona o slogan 'Menos Brasília, mais Paraná', sugerindo que ele se elegeu apenas com a pauta de oposição ao PT.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/alessandro-antifa.bsky.social/post/3n22ndwudqc2r",
-      "createdAt": "2026-11-11T19:01:51.271000+00:00",
-      "rawScore": 0.5586481860074382,
-      "relevanceScore": 0.5789695520029637,
-      "suggestedRadius": 81.65,
-      "imageUrl": "assets/images/bsky_3n22ndwudqc2r_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n22ndwudqc2r_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/pachaurbano.bsky.social/post/3n234ebcjps2q",
+      "createdAt": "2026-11-11T23:30:26.983000+00:00",
+      "rawScore": 0.3138015227238156,
+      "relevanceScore": 0.3597600191347126,
+      "suggestedRadius": 71.99,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-pr",
       "sources": [
         {
-          "title": "Pior ainda, vai ser governador do Paraná, estado onde eu infelizmente nasci e onde ainda estou morando.",
-          "url": "https://bsky.app/profile/alessandro-antifa.bsky.social/post/3n22ndwudqc2r",
+          "title": "E vai arruinar o Paraná que o elegeu. É fato. A incompetência tá no DNA desse verme.",
+          "url": "https://bsky.app/profile/pachaurbano.bsky.social/post/3n234ebcjps2q",
           "subreddit": "bsky_pr"
         },
         {
-          "title": "infelizmente estou em curitiba",
-          "url": "https://bsky.app/profile/belchiorista.bsky.social/post/3mzvy2hgpj224",
+          "title": "e o slogan dele: Menos Brasília, mais Paraná... eu fiquei tipo q???????? se elegeu só com a pauta odeio o PT",
+          "url": "https://bsky.app/profile/luzinhapr.bsky.social/post/3mzzx25bphk2s",
           "subreddit": "bsky_pr"
         }
       ],
@@ -108,7 +182,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Quem mora no Paraná sabe o tamanho do problema que é ter esse nome no governo. O comentário original fala com conhecimento de causa, e quem é daqui entende exatamente o que ele quis dizer.",
+          "text": "O governador eleito do Paraná vai arruinar o estado que o elegeu. A incompetência está no DNA dele, e esse mandato será a pá de cal na carreira política.",
           "source": "sintese",
           "evidence": [
             1
@@ -118,72 +192,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O post original só expressa desabafo e insatisfação, mas não apresenta nenhum argumento concreto contra a gestão. Ficar no 'infelizmente nasci aqui' não ajuda em nada a discussão sobre o futuro do estado.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A conversa nos comentários mostra que o momento é delicado e difícil para quem mora no Paraná, mas o debate fica só no desabafo. Sem dados ou propostas, é difícil avaliar o que realmente está em jogo.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzzwpickac2w",
-      "rank": 3,
-      "title": "Moro é eleito governador do Paraná e senador aguarda julgamento",
-      "label": "Moro governador do Paraná · reação",
-      "context": "Sergio Moro foi eleito governador do Paraná, e um senador do estado aguarda julgamento. A eleição gerou críticas nas redes, com menções à atuação de Moro como ministro da Justiça durante a pandemia.",
-      "source": "bluesky",
-      "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/hmmfalemais.bsky.social/post/3mzzwpickac2w",
-      "createdAt": "2026-11-11T12:16:41.171000+00:00",
-      "rawScore": 0.24128108471429124,
-      "relevanceScore": 0.38570757942587447,
-      "suggestedRadius": 73.26,
-      "imageUrl": "assets/images/bsky_3mzzwpickac2w_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzzwpickac2w_wiki_thumb.jpg",
-      "category": "ciencia",
-      "region": "br-pr",
-      "sources": [
-        {
-          "title": "toda essa palhaçada pra fazer um governador e um senador (pendente de julgamento) no paraná, além de colocar um negacionista da ciência na presidência durante uma pandemia parabéns a todos os envolvidos",
-          "url": "https://bsky.app/profile/hmmfalemais.bsky.social/post/3mzzwpickac2w",
-          "subreddit": "bsky_pr"
-        },
-        {
-          "title": "#farsajatonuncamais E o Moro se tornou governador do Paraná, né? Putz...",
-          "url": "https://bsky.app/profile/alannahvic.bsky.social/post/3mzzupmjias2q",
-          "subreddit": "bsky_pr"
-        },
-        {
-          "title": "E vai ser governador do Paraná.",
-          "url": "https://bsky.app/profile/pavan-vicente.bsky.social/post/3mzyryw35hc2j",
-          "subreddit": "bsky_pr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O Paraná escolheu Moro nas urnas e isso é o que vale na democracia. Quem critica deveria respeitar a decisão do eleitor paranaense em vez de ficar lamentando nas redes sociais.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Moro virou governador depois de ter sido ministro da Justiça de um governo negacionista na pandemia, e ainda tem um senador pendente de julgamento no estado. A Justiça continua tratando esse pessoal com leniência.",
+          "text": "O slogan 'Menos Brasília, mais Paraná' não faz sentido nenhum. Ele se elegeu apenas com a pauta de ódio ao PT, e quem votou não questionou.",
           "source": "sintese",
           "evidence": [
             2
@@ -193,126 +202,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O eleitor paranaense votou e agora resta acompanhar o mandato. Os cargos do governo do estado vão para indicados de fora, e quem apoiou a candidatura aqui espera espaço que talvez não venha.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            3
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n22nrwxszc2u",
-      "rank": 4,
-      "title": "Projetos contra racismo nas escolas estão parados na Câmara de Curitiba",
-      "label": "Educação antirracista · projetos parados em Curitiba",
-      "context": "Dois projetos de lei sobre educação antirracista nas escolas seguem parados na Câmara de Curitiba, enquanto uma onda de propostas semelhantes avança em câmaras de outras cidades em 16 de novembro. A paralisação local contrasta com o movimento nacional de levar o tema ao Legislativo municipal.",
-      "source": "bluesky",
-      "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/pluraljorbr.bsky.social/post/3n22nrwxszc2u",
-      "createdAt": "2026-11-11T19:09:41.385000+00:00",
-      "rawScore": 0.3773143243691668,
-      "relevanceScore": 0.32883447300765656,
-      "suggestedRadius": 70.41,
-      "imageUrl": "assets/images/bsky_3n22nrwxszc2u_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n22nrwxszc2u_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pr",
-      "sources": [
-        {
-          "title": "Projetos contra racismo nas escolas estão parados na Câmara de Curitiba Maré de PLs leva projetos de educação antirracista às câmaras em 16 de novembro; em Curitiba, os dois projetos sobre racismo nas escolas seguem parados. Leia mais: www.plural.jor.br/educacao/mar...",
-          "url": "https://bsky.app/profile/pluraljorbr.bsky.social/post/3n22nrwxszc2u",
-          "subreddit": "bsky_pr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A Câmara de Curitiba deveria destravar esses dois projetos, porque educação antirracista nas escolas é medida concreta de combate ao racismo e não pode ficar engavetada enquanto outras cidades avançam com suas propostas.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Antes de votar, os vereadores precisam explicar por que os projetos estão parados: sem debate público sobre o conteúdo e o custo de implementação, aprovar por pressa de calendário vira só marketing político.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O ritmo da Câmara de Curitiba depende de pareceres e da pauta das comissões, então o atraso pode ser burocrático e não necessariamente falta de vontade política; o eleitor precisa cobrar transparência sobre em que etapa cada projeto está.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzymmgg2ls2g",
-      "rank": 5,
-      "title": "Lula deve processar a 'quadrilha de Curitiba' e tirar até as chinelas desses vagabundos",
-      "label": "Lula e a 'quadrilha de Curitiba' · Reação",
-      "context": "Um post no Bluesky afirma que cabe ao presidente Lula processar a chamada 'quadrilha de Curitiba' e 'tirar até as chinelas' dos envolvidos. A publicação faz referência ao período em que o apartamento triplex foi apresentado pela força-tarefa como suposta vantagem indevida oferecida a Lula pela construtora.",
-      "source": "bluesky",
-      "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/sanzionovisk.bsky.social/post/3mzymmgg2ls2g",
-      "createdAt": "2026-11-10T23:43:24.270000+00:00",
-      "rawScore": 0.1345641777176765,
-      "relevanceScore": 0.25392399136914834,
-      "suggestedRadius": 66.23,
-      "imageUrl": "assets/images/bsky_3mzymmgg2ls2g_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzymmgg2ls2g_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pr",
-      "sources": [
-        {
-          "title": "Cabe agora ao Lula processar a quadrilha de Curitiba e tirar até as chinelas desses vagabundos.",
-          "url": "https://bsky.app/profile/sanzionovisk.bsky.social/post/3mzymmgg2ls2g",
-          "subreddit": "bsky_pr"
-        },
-        {
-          "title": "Durante anos, o apartamento foi apresentado pela força-tarefa de Curitiba como uma suposta vantagem indevida oferecida a Lula pela construtora. #OTriplexNuncaFoiDeLula",
-          "url": "https://bsky.app/profile/oceueazul.bsky.social/post/3mzyxhfev622q",
-          "subreddit": "bsky_pr"
-        },
-        {
-          "title": "CURITIBA, 7 DE NOVEMBRO DE 2026 🇧🇷 Mais de 40 mil pessoas lotaram a Arena da Baixada para o grande encontro do samba. E, em meio à festa, a arquibancada puxou o coro: 🎶 OLÊ, OLÊ, OLÊ, OLÁ… LULA! LULA! 🎶",
-          "url": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mzti4wp4hs2y",
-          "subreddit": "bsky_pr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A força-tarefa de Curitiba usou o triplex como prova de propina e agora deveria responder por isso. Processar os responsáveis e cobrar deles até o último centavo é o mínimo que se espera depois de tanto tempo de acusação sem fundamento.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Ficar pedindo que o Lula 'tire até as chinelas' dos outros soa mais como revanche do que como justiça. Se há irregularidades, o caminho é a Justiça comum, com due process, e não transformar o caso em palanque político.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O triplex nunca foi de Lula, e a força-tarefa errou ao usá-lo como prova. Mas a discussão sobre processar os envolvidos precisa de fatos concretos e não de frases de efeito; sem isso, vira só mais um capítulo de briga política.",
+          "text": "A crítica ao governador eleito do Paraná é compreensível, mas é preciso esperar para ver se ele realmente vai arruinar o estado ou se são apenas previsões pessimistas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -323,7 +213,7 @@
     },
     {
       "id": "bsky_3mzw677a43k2n",
-      "rank": 6,
+      "rank": 4,
       "title": "Fux suspende afastamento de juíza Gabriela Hardt aplicado pelo CNJ",
       "label": "Fux e o afastamento de Gabriela Hardt",
       "context": "O ministro Luiz Fux, do STF, suspendeu o afastamento da juíza Gabriela Hardt, que havia sido aplicado pelo CNJ. A decisão reacende a discussão sobre a atuação de integrantes da Lava-Jato e sobre os limites entre o STF e o Conselho Nacional de Justiça.",
@@ -331,9 +221,9 @@
       "subreddit": "bsky_pr",
       "permalink": "https://bsky.app/profile/sandruska.bsky.social/post/3mzw677a43k2n",
       "createdAt": "2026-11-10T00:20:09.380000+00:00",
-      "rawScore": 0.17568882625204085,
-      "relevanceScore": 0.2384788298887028,
-      "suggestedRadius": 65.3,
+      "rawScore": 0.1602828345079748,
+      "relevanceScore": 0.2229420985716852,
+      "suggestedRadius": 64.33,
       "imageUrl": "assets/images/bsky_3mzw677a43k2n_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzw677a43k2n_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -354,132 +244,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A suspensão de Fux corrige um excesso do CNJ contra Gabriela Hardt, que julgou com base no que tinha e agora paga por decisões que a cúpula do Judiciário quer enterrar. Sem esse freio, o tribunal vira palco de ajuste de contas com quem trabalhou na Lava-Jato.",
-          "source": "sintese",
-          "evidence": [
-            8,
-            13
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Fux não surpreende: suspender o afastamento de Gabriela Hardt é proteger quem atuou na Lava-Jato e blindar a turma de Curitiba de qualquer punição. O STF age para anular na prática o que o CNJ decidiu, e a impunidade segue como regra para os togados.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            6,
-            22
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A decisão de Fux precisa ser lida junto com o relatório do CNJ sobre a 13ª Vara de Curitiba: o problema não é só a juíza, é o critério moral de entrada e permanência na magistratura. Suspender o afastamento sem revisar esses parâmetros só empurra a discussão para frente.",
-          "source": "sintese",
-          "evidence": [
-            8,
-            24
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzzx25bphk2s",
-      "rank": 7,
-      "title": "Slogan 'Menos Brasília, mais Paraná' gera dúvida sobre eleição baseada só em antipetismo",
-      "label": "Slogan 'Menos Brasília, mais Paraná' · Crítica ao antipetism",
-      "context": "Um político eleito no Paraná usou o slogan 'Menos Brasília, mais Paraná' e foi criticado por ter se elegido apenas com a pauta de oposição ao PT. A discussão questiona se slogans vagos e o antipetismo bastam para explicar uma eleição, sem propostas concretas.",
-      "source": "bluesky",
-      "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/luzinhapr.bsky.social/post/3mzzx25bphk2s",
-      "createdAt": "2026-11-11T12:22:40.676000+00:00",
-      "rawScore": 0.22462708872407286,
-      "relevanceScore": 0.19307963166983325,
-      "suggestedRadius": 62.36,
-      "imageUrl": "assets/images/bsky_3mzzx25bphk2s_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzzx25bphk2s_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pr",
-      "sources": [
-        {
-          "title": "e o slogan dele: Menos Brasília, mais Paraná... eu fiquei tipo q???????? se elegeu só com a pauta odeio o PT",
-          "url": "https://bsky.app/profile/luzinhapr.bsky.social/post/3mzzx25bphk2s",
-          "subreddit": "bsky_pr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O slogan 'Menos Brasília, mais Paraná' funcionou porque falou direto com quem está cansado do PT e quer alguém que olhe para o estado, não para a capital federal. Se o eleitor entendeu a mensagem e votou, o antipetismo foi só o combustível de uma insatisfação real.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Um slogan desses não faz sentido nenhum: 'menos Brasília' e 'mais Paraná' não dizem nada sobre o que o político vai fazer. Se ele se elegeu só com a pauta odeio o PT, é porque faltou debate de propostas e o eleitor ficou no voto de rejeição, sem saber o que está levando.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O problema não é só o slogan, mas a falta de questionamento: se ninguém cobra explicação, cada um entende o que quiser. O antipetismo pode ter elegido, mas sem propostas claras o eleitor fica no escuro sobre o que esperar do mandato.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzvnknu4vk2u",
-      "rank": 8,
-      "title": "Jogo criado após quedas de galhos na Praça Osório, em Curitiba",
-      "label": "Praça Osório · Jogo após quedas de galhos",
-      "context": "Um galho caiu na Praça Osório, em Curitiba, deixando uma pessoa paraplégica, e depois disso outras duas pessoas foram atingidas por galhos no local. Um grupo criou o jogo osoriosurvival.com sobre a situação da praça.",
-      "source": "bluesky",
-      "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/ricardojuchem.com/post/3mzvnknu4vk2u",
-      "createdAt": "2026-11-09T19:22:19.078000+00:00",
-      "rawScore": 0.1029090119673721,
-      "relevanceScore": 0.17377000141939317,
-      "suggestedRadius": 61.01,
-      "imageUrl": "assets/images/bsky_3mzvnknu4vk2u_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzvnknu4vk2u_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pr",
-      "sources": [
-        {
-          "title": "Aqui em Curitiba tem a praça Osório, cheia de árvores. Faz um tempo, um galho caiu em cima de uma pessoa e ela ficou paraplégica. A prefeitura fez avaliação e disse que tava tudo bem. Depois disso mais duas pessoas foram atingidas por galhos lá. Daí um pessoal fez esse jogo. osoriosurvival.com",
-          "url": "https://bsky.app/profile/ricardojuchem.com/post/3mzvnknu4vk2u",
-          "subreddit": "bsky_pr"
-        },
-        {
-          "title": "Curitiba terá manifestação em defesa dos Povos Originários neste sábado Mobilização será às 14h, na praça da Mulher Nua, no Centro Cívico www.plural.jor.br/curitiba/cur...",
-          "url": "https://bsky.app/profile/pluraljorbr.bsky.social/post/3mzxxxrx7n22o",
-          "subreddit": "bsky_pr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O jogo é uma forma criativa de chamar atenção para o perigo real na Praça Osório. Quem criou conseguiu transformar um problema sério em algo que as pessoas compartilham e comentam, o que ajuda a cobrar uma solução da prefeitura.",
+          "text": "A suspensão de Fux corrige um excesso do CNJ, que afastou a juíza sem que o caso estivesse maduro para isso. Sem Alexandre de Moraes e Gilmar Mendes no STF, o lavajatismo estaria nadando de braçada e o bolsonarismo passaria a presidência de pai para filho.",
           "source": "sintese",
           "evidence": [
             2
@@ -489,19 +254,22 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Fazer um jogo de sobrevivência num lugar onde pessoas ficaram paraplégicas é debochar da tragédia alheia. A prefeitura disse que estava tudo bem e mais gente se machucou, então o mínimo era tratar o assunto com seriedade, não como entretenimento.",
+          "text": "Fux nunca surpreende: suspender o afastamento de Gabriela Hardt é proteger quem atuou na Lava-Jato de Curitiba. O STF deveria ser o local da suprema justiça, mas decisões assim mostram uma corte que blinda os seus e deixa a impunidade correr solta.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1,
+            7,
+            22
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O jogo pode até ser uma forma de protesto, mas o problema continua: a praça segue com risco de queda de galhos e a prefeitura não resolveu. Sem uma resposta concreta, a brincadeira não muda a segurança de quem passa por lá.",
+          "text": "O caso Hardt expõe um problema maior: os critérios de ingresso e permanência na magistratura não podem se resumir a concurso de provas e títulos. Falta um critério moral aferível, e enquanto isso não for revisto, decisões como essa vão continuar gerando desconfiança.",
           "source": "sintese",
           "evidence": [
-            3,
-            4
+            24
           ],
           "votes": 0
         }
@@ -510,26 +278,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzzvzjcpzk2m",
-      "rank": 9,
-      "title": "Falta só prender a quadrilha de Curitiba",
-      "label": "Quadrilha de Curitiba · Prisões pendentes",
-      "context": "Uma publicação no Bluesky afirma que falta apenas prender a quadrilha de Curitiba. A frase circula sem detalhar quem seria a quadrilha nem quais crimes estariam envolvidos.",
+      "id": "bsky_3n22qvxy32c2p",
+      "rank": 5,
+      "title": "Ele tentando o governo do Paraná em 2030",
+      "label": "Candidatura ao governo do Paraná em 2030",
+      "context": "Uma publicação no Bluesky mostra uma figura tentando se viabilizar para o governo do Paraná em 2030. O post sugere que a movimentação política já começa anos antes da eleição estadual.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/maironhandal.bsky.social/post/3mzzvzjcpzk2m",
-      "createdAt": "2026-11-11T12:04:24.876000+00:00",
-      "rawScore": 0.2015593035582594,
-      "relevanceScore": 0.17256997019112913,
-      "suggestedRadius": 60.92,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "permalink": "https://bsky.app/profile/afasia.bsky.social/post/3n22qvxy32c2p",
+      "createdAt": "2026-11-11T20:05:37.675000+00:00",
+      "rawScore": 0.22354999445091123,
+      "relevanceScore": 0.190205297265021,
+      "suggestedRadius": 62.17,
+      "imageUrl": "assets/images/bsky_3n22qvxy32c2p_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n22qvxy32c2p_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pr",
       "sources": [
         {
-          "title": "Falta só prender a quadrilha de Curitíba",
-          "url": "https://bsky.app/profile/maironhandal.bsky.social/post/3mzzvzjcpzk2m",
+          "title": "Ele tentando o governo do Paraná em 2030",
+          "url": "https://bsky.app/profile/afasia.bsky.social/post/3n22qvxy32c2p",
           "subreddit": "bsky_pr"
         }
       ],
@@ -537,7 +305,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A frase acerta ao apontar que a quadrilha de Curitiba ainda não foi toda presa. Se falta prender, é porque a investigação já identificou os envolvidos e o trabalho de apuração está em andamento.",
+          "text": "Começar a articulação para 2030 agora é estratégia política normal: quem quer governar o Paraná precisa construir base e se tornar conhecido muito antes da eleição, e o post só mostra alguém fazendo o dever de casa cedo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -545,7 +313,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Falar em quadrilha de Curitiba sem dizer quem são, quais crimes e quais provas existe é acusação vazia. Uma frase solta assim não prende ninguém e ainda pode atingir pessoas inocentes.",
+          "text": "Ficar tentando se posicionar para 2030 enquanto o estado tem problemas concretos agora soa como ambição pessoal disfarçada de projeto político, e o eleitor paranaense tende a cobrar resultado antes de discutir a próxima eleição.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -553,7 +321,171 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A frase funciona como cobrança, mas sem nomes, crimes ou fontes fica difícil saber do que se trata. Antes de repetir que falta prender a quadrilha, seria bom entender qual investigação está por trás disso.",
+          "text": "Ainda é cedo para levar a sério qualquer nome para 2030: muita coisa muda até lá, alianças se refazem e o que importa é ver se essa tentativa vira projeto consistente ou só aparece em post de rede social.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n23e4png5s24",
+      "rank": 6,
+      "title": "ORCRIM da Republiqueta de Curitiba. FALTA A \"CADEIA\" PARA O MARRECO.",
+      "label": "Crítica à ORCRIM e a Marreco",
+      "context": "Um post no Bluesky chama de \"ORCRIM da Republiqueta de Curitiba\" e afirma que falta \"cadeia\" para o \"Marreco\". A publicação usa termos pejorativos para atacar figuras associadas a Curitiba, sem apresentar fatos ou acusações formais.",
+      "source": "bluesky",
+      "subreddit": "bsky_pr",
+      "permalink": "https://bsky.app/profile/marcianobrito.bsky.social/post/3n23e4png5s24",
+      "createdAt": "2026-11-12T01:49:25.585000+00:00",
+      "rawScore": 0.21606000837073905,
+      "relevanceScore": 0.18353012089109053,
+      "suggestedRadius": 61.7,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pr",
+      "sources": [
+        {
+          "title": "...ORCRIM da Republiqueta de Curitiba. FALTA A \"CADEIA\" PARA O MARRECO.",
+          "url": "https://bsky.app/profile/marcianobrito.bsky.social/post/3n23e4png5s24",
+          "subreddit": "bsky_pr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A crítica expõe a impunidade de grupos que agem em Curitiba e deveriam estar presos. Chamar de ORCRIM é uma forma de cobrar justiça diante da falta de punição para o Marreco.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O post é pura agressão verbal, sem provas ou acusações concretas. Rotular alguém de ORCRIM e pedir cadeia sem processo é irresponsável e não contribui para nenhum debate sério.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A publicação é tão vaga que não dá para saber quem é o Marreco ou qual crime teria cometido. Sem contexto, vira só um xingamento que não informa nem permite discordar com base em fatos.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n22gxa2x222l",
+      "rank": 7,
+      "title": "Prefeitura de Curitiba decide acabar com o ensino fundamental na rede municipal e agora só no sambarilove para explicar",
+      "label": "Fim do fundamental na rede municipal de Curitiba",
+      "context": "A prefeitura de Curitiba decidiu encerrar a oferta do ensino fundamental na rede municipal, conforme relato publicado em 11 de novembro de 2026. A mudança afeta diretamente famílias e estudantes que contavam com essa etapa nas escolas municipais.",
+      "source": "bluesky",
+      "subreddit": "bsky_pr",
+      "permalink": "https://bsky.app/profile/nyandeco.bsky.social/post/3n22gxa2x222l",
+      "createdAt": "2026-11-11T17:07:18.281000+00:00",
+      "rawScore": 0.1936542527295228,
+      "relevanceScore": 0.16356180998965456,
+      "suggestedRadius": 60.27,
+      "imageUrl": "assets/images/bsky_3n22gxa2x222l_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n22gxa2x222l_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pr",
+      "sources": [
+        {
+          "title": "prefeitura de CÚritiba deicidiu acabar do nada com o fundamental na rede municipal e agora tá só no sambarilove pra explicar porque",
+          "url": "https://bsky.app/profile/nyandeco.bsky.social/post/3n22gxa2x222l",
+          "subreddit": "bsky_pr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A prefeitura de Curitiba acertou ao focar a rede municipal no que é sua atribuição principal, que é a educação infantil e o ensino fundamental inicial, deixando o fundamental final para o estado. Isso pode melhorar a qualidade e a gestão dos recursos.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A decisão da prefeitura de Curitiba de acabar com o fundamental na rede municipal foi tomada sem diálogo com a comunidade escolar e agora a justificativa só aparece no sambarilove, o que mostra desrespeito com famílias e professores.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Faltam detalhes sobre como será feita a transição dos alunos do fundamental da rede municipal de Curitiba para outras redes, e sem informações claras fica difícil avaliar se a mudança vai funcionar na prática.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzyxylwxic2x",
+      "rank": 8,
+      "title": "Larguei tudo em Curitiba e estou morando em Aracaju, feliz da vida. Nunca mais volto pro Sul",
+      "label": "Mudança de Curitiba para Aracaju · relato pessoal",
+      "context": "Uma pessoa relatou que deixou Curitiba e se mudou para Aracaju, dizendo estar feliz e que não pretende voltar para o Sul. O relato foi publicado no Bluesky e gerou conversas sobre trocar a rotina do Sul por uma cidade do Nordeste.",
+      "source": "bluesky",
+      "subreddit": "bsky_pr",
+      "permalink": "https://bsky.app/profile/aquelabitt.bsky.social/post/3mzyxylwxic2x",
+      "createdAt": "2026-11-11T03:07:03.072000+00:00",
+      "rawScore": 0.057609080552381224,
+      "relevanceScore": 0.13143786755028755,
+      "suggestedRadius": 57.75,
+      "imageUrl": "assets/images/bsky_3mzyxylwxic2x_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzyxylwxic2x_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pr",
+      "sources": [
+        {
+          "title": "Larguei tudo em Curitiba e to morando em Aracaju feliz da minha vida. Nunca mais volto pro sul",
+          "url": "https://bsky.app/profile/aquelabitt.bsky.social/post/3mzyxylwxic2x",
+          "subreddit": "bsky_pr"
+        },
+        {
+          "title": "Minha temporada perto de Curitiba vai passar sem nenhum rolê com mutual de Curitiba?",
+          "url": "https://bsky.app/profile/comunistasuave.estudiovostok.com.br/post/3mzxxwyev4c2y",
+          "subreddit": "bsky_pr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Aracaju oferece uma qualidade de vida que Curitiba não tem: menos estresse, custo mais baixo e um ritmo que permite viver sem a pressão toda. Quem faz essa troca e se sente feliz está certo em priorizar o próprio bem-estar.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Largar tudo e dizer que nunca mais volta é uma decisão precipitada. Curitiba tem seus problemas, mas também oferece estrutura, empregos e serviços que Aracaju não tem na mesma medida. Essa euforia inicial pode esconder dificuldades futuras.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Cada pessoa tem uma experiência diferente. O que funciona para um pode não funcionar para outro. O importante é que a mudança seja feita com planejamento e que a pessoa esteja aberta a se adaptar, sem idealizar nenhum dos lugares.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -564,17 +496,17 @@
     },
     {
       "id": "bsky_3mzysj77srk22",
-      "rank": 10,
+      "rank": 9,
       "title": "Vamos alugar um chalé no interior do Paraná e todo mundo dá a bunda",
       "label": "Chalé no Paraná · convite viral",
-      "context": "Um post no Bluesky propôs alugar um chalé no interior do Paraná e convidou os seguidores para um encontro com a frase 'todo mundo dá a bunda'. A publicação gerou reações que vão de piadas e adesão ao convite até comentários de rejeição à ideia e ao estado.",
+      "context": "Um post no Bluesky propôs alugar um chalé no interior do Paraná e convidou os seguidores para uma confraternização com conotação sexual explícita. A publicação gerou reações que vão de piadas e adesões ao convite até comentários de repulsa e associação do local a um estereótipo negativo.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
       "permalink": "https://bsky.app/profile/daszin.bsky.social/post/3mzysj77srk22",
       "createdAt": "2026-11-11T01:28:56.476000+00:00",
-      "rawScore": 0.1927388506245827,
-      "relevanceScore": 0.16472766966430386,
-      "suggestedRadius": 60.35,
+      "rawScore": 0.14355870639659418,
+      "relevanceScore": 0.11891598505201768,
+      "suggestedRadius": 56.69,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -590,7 +522,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O convite é claramente uma brincadeira entre amigos e mutuals, e quem topa já está até marcando presença. Um chalé no Paraná com essa galera seria só risada e resenha, sem levar a frase ao pé da letra.",
+          "text": "O convite é claramente uma brincadeira entre amigos e quem se sentiu ofendido está levando a sério demais. Um chalé no interior do Paraná é um ótimo lugar para reunir os mutuals, e o tom explícito faz parte da piada.",
           "source": "sintese",
           "evidence": [
             3,
@@ -601,7 +533,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A piada é de mau gosto e reforça um estereótipo preconceituoso, tanto que já tem gente dizendo que não iria ao Paraná por causa disso. Esse tipo de brincadeira afasta quem não curte esse humor.",
+          "text": "Associar o Paraná a esse tipo de convite é desrespeitoso com o estado e com as pessoas que moram aqui. O comentário sobre 'coisa de viado' mostra que a piada reforça preconceito em vez de ser apenas humor.",
           "source": "sintese",
           "evidence": [
             1,
@@ -612,13 +544,64 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post é só uma piada interna do grupo, mas a repercussão mostra que esse tipo de humor ainda gera desconforto. Depende de quem lê: para uns é resenha, para outros é motivo para nem considerar o convite.",
+          "text": "A reação depende do contexto: para quem acompanha a pessoa no Bluesky, é só uma piada interna; para quem vê de fora, o convite soa agressivo e pode manchar a imagem do interior do Paraná como destino turístico.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n22lrwldb22t",
+      "rank": 10,
+      "title": "Passagens para Curitiba compradas",
+      "label": "Passagens para Curitiba · Encontro de mutuals",
+      "context": "Uma pessoa anunciou que comprou passagens para Curitiba. O post comemorou o encontro com mutuals de outros estados.",
+      "source": "bluesky",
+      "subreddit": "bsky_pr",
+      "permalink": "https://bsky.app/profile/edulucats.bsky.social/post/3n22lrwldb22t",
+      "createdAt": "2026-11-11T18:33:53.771000+00:00",
+      "rawScore": 0.13686714405144443,
+      "relevanceScore": 0.1129523746536924,
+      "suggestedRadius": 56.17,
+      "imageUrl": "assets/images/bsky_3n22lrwldb22t_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n22lrwldb22t_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pr",
+      "sources": [
+        {
+          "title": "Pronto passagens para Curitiba compradas ✌️",
+          "url": "https://bsky.app/profile/edulucats.bsky.social/post/3n22lrwldb22t",
+          "subreddit": "bsky_pr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Comprar passagem para encontrar mutuals de outros estados é uma das melhores partes da internet. Esse tipo de encontro fortalece laços que começaram online e vira memória real.",
           "source": "sintese",
           "evidence": [
-            1,
-            2,
-            3
+            1
           ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Passagem comprada não garante que o encontro vai acontecer. Mutuals podem desmarcar em cima da hora, e a pessoa fica com a viagem e o prejuízo. Melhor confirmar antes de gastar.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Depende do quanto a pessoa confia nos mutuals. Se já tem uma relação longa e próxima, a viagem vale; se é só conhecido de timeline, talvez seja melhor esperar mais um pouco.",
+          "source": "sintese",
+          "evidence": [],
           "votes": 0
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T19:29:26.726534+00:00",
+  "generatedAt": "2026-11-12T06:29:13.508039+00:00",
   "region": "br-mt",
   "count": 8,
   "items": [
@@ -7,8 +7,8 @@
       "id": "bsky_3n227xay6ec2l",
       "rank": 1,
       "title": "Mineração na fronteira brasileira pode avançar sobre áreas protegidas em Rondônia e pressionar territórios em Mato Grosso",
-      "label": "Mineração avança sobre áreas protegidas na Amazônia",
-      "context": "Uma reportagem do Observatório da Mineração aponta que a mineração na fronteira brasileira pode avançar sobre áreas protegidas em Rondônia e pressionar territórios em Mato Grosso. O avanço da atividade sobre essas áreas ocorre em um contexto de pressão sobre a floresta e os territórios tradicionais.",
+      "label": "Mineração avança sobre áreas protegidas",
+      "context": "Uma reportagem aponta que a mineração na fronteira brasileira pode avançar sobre áreas protegidas em Rondônia e pressionar territórios em Mato Grosso. O avanço da atividade sobre essas áreas levanta a discussão sobre os impactos ambientais e territoriais na região.",
       "source": "bluesky",
       "subreddit": "bsky_mt",
       "permalink": "https://bsky.app/profile/obsmineracao.bsky.social/post/3n227xay6ec2l",
@@ -41,7 +41,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A mineração é uma atividade econômica importante para o desenvolvimento regional, e a reportagem mostra que ela pode avançar sobre áreas protegidas em Rondônia e pressionar territórios em Mato Grosso. Isso evidencia a necessidade de regulamentação clara e fiscalização para conciliar a atividade com a preservação ambien",
+          "text": "A mineração é atividade econômica que gera emprego e renda para a região, e o avanço sobre novas áreas é consequência natural do crescimento do setor. Sem esse desenvolvimento, as comunidades locais ficam sem alternativa de sustento.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -49,68 +49,17 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O avanço da mineração sobre áreas protegidas em Rondônia e Mato Grosso é uma ameaça direta à floresta e aos territórios tradicionais. A reportagem confirma que a atividade pode pressionar essas áreas, e isso reforça a urgência de medidas efetivas de proteção e demarcação.",
+          "text": "A pressão da mineração sobre áreas protegidas em Rondônia e Mato Grosso é mais um capítulo da destruição ambiental, e a falta de fiscalização permite que o setor avance sobre territórios que deveriam ser preservados.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A reportagem aponta que a mineração na fronteira pode avançar sobre áreas protegidas em Rondônia e pressionar territórios em Mato Grosso, mas ainda faltam dados concretos sobre a extensão e os impactos reais dessa atividade. É preciso acompanhar os desdobramentos e cobrar transparência nas informações.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzvwfha2jc2s",
-      "rank": 2,
-      "title": "Brasil de Fato publica reportagem em seu site",
-      "label": "Publicação do Brasil de Fato",
-      "context": "O site Brasil de Fato publicou uma reportagem em 8 de novembro de 2026, compartilhada no Bluesky no dia seguinte. O conteúdo específico da matéria não está detalhado nas fontes disponíveis.",
-      "source": "bluesky",
-      "subreddit": "bsky_mt",
-      "permalink": "https://bsky.app/profile/nildete.bsky.social/post/3mzvwfha2jc2s",
-      "createdAt": "2026-11-09T22:00:29.776000+00:00",
-      "rawScore": 0.2530981118554426,
-      "relevanceScore": 0.16931033359077077,
-      "suggestedRadius": 60.69,
-      "imageUrl": "assets/images/bsky_3mzvwfha2jc2s_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzvwfha2jc2s_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-mt",
-      "sources": [
-        {
-          "title": "www.brasildefato.com.br/2026/11/08/e...",
-          "url": "https://bsky.app/profile/nildete.bsky.social/post/3mzvwfha2jc2s",
-          "subreddit": "bsky_mt"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O Brasil de Fato mantém a produção de reportagens próprias e segue publicando conteúdo no seu site, o que garante uma fonte a mais de informação para quem acompanha o noticiário.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Publicar o link de uma reportagem sem nenhum resumo ou destaque do assunto deixa quem vê o post sem saber do que se trata, o que acaba esvaziando o alcance da própria matéria.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Sem o texto da reportagem ou um resumo do conteúdo, fica difícil avaliar o que está sendo divulgado; o post em si só indica que uma nova matéria foi ao ar no site.",
+          "text": "O avanço da mineração depende de licenciamento e fiscalização efetivos; sem controle claro, tanto o desenvolvimento econômico quanto a proteção ambiental ficam comprometidos na região de fronteira.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -121,17 +70,17 @@
     },
     {
       "id": "bsky_3mzss4qyxik2n",
-      "rank": 3,
+      "rank": 2,
       "title": "Pará registra muitos incêndios em áreas de pressão do agronegócio",
-      "label": "Incêndios no Pará · Áreas de agronegócio",
-      "context": "O Pará está com muitos incêndios concentrados no trecho da Cuiabá-Santarém e no Marajó, áreas de pressão do agronegócio. O momento coincide com a troca de comando da secretaria estadual de meio ambiente, que será assumida por um advogado de infratores ambientais.",
+      "label": "Incêndios no Pará · Pressão do agronegócio",
+      "context": "O Pará está com muitos incêndios, concentrados no trecho da Cuiabá-Santarém e no Marajó, áreas de pressão do agronegócio. O alerta ocorre às vésperas de a Secretaria de Meio Ambiente do estado ser assumida por um advogado de infratores ambientais.",
       "source": "bluesky",
       "subreddit": "bsky_mt",
       "permalink": "https://bsky.app/profile/yrs-pa.bsky.social/post/3mzss4qyxik2n",
       "createdAt": "2026-11-08T16:06:00.769000+00:00",
-      "rawScore": 0.25013836723978716,
-      "relevanceScore": 0.1669178269396433,
-      "suggestedRadius": 60.51,
+      "rawScore": 0.49196545947306514,
+      "relevanceScore": 0.348603425345106,
+      "suggestedRadius": 71.43,
       "imageUrl": "assets/images/bsky_3mzss4qyxik2n_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzss4qyxik2n_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -157,19 +106,19 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A governadora já mostrou de que lado está ao proibir a PM de dar suporte ao IBAMA e ao ICMBio em operações de fiscalização, trocando proteção ambiental por voto. Sem apoio policial, o combate ao fogo fica travado e quem lucra com o desmatamento segue impune.",
+          "text": "Atribuir os incêndios a uma suposta articulação do agronegócio é simplismo: o Pará tem seca severa e queimadas históricas, e a troca de comando na secretaria não tem relação direta com os focos. Sem dados concretos, a acusação vira especulação política.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Antes de cravar relação entre os incêndios e a troca na secretaria, seria preciso ver os dados oficiais de focos por município e comparar com anos anteriores. A correlação geográfica chama atenção, mas o quadro completo depende de informação que ainda não está disponível.",
+          "text": "A governadora ter proibido a PM de apoiar IBAMA e ICMBio em operações de fiscalização é um dado que pesa mais do que a troca na secretaria: sem apoio policial, o combate ao fogo perde eficácia, e isso vale independentemente de quem assume o comando.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
@@ -178,17 +127,17 @@
     },
     {
       "id": "bsky_3mztjww5spc2x",
-      "rank": 4,
+      "rank": 3,
       "title": "Alvinho, o tamanduá-bandeira de pelagem clara, é monitorado no Cerrado do MS",
-      "label": "Tamanduá Alvinho · Monitoramento no Cerrado",
-      "context": "Alvinho, um tamanduá-bandeira de pelagem clara, foi avistado por funcionários de uma fazenda em 2022 no Cerrado do Mato Grosso do Sul. Desde então, pesquisadores do ICAS o monitoram e, quatro anos depois, começam a responder perguntas sobre sua sobrevivência.",
+      "label": "Tamanduá Alvinho · Pelagem clara no Cerrado",
+      "context": "Alvinho, um tamanduá-bandeira de pelagem clara, foi avistado por funcionários de uma fazenda no Cerrado do Mato Grosso do Sul em 2022. Desde então, pesquisadores do ICAS monitoram o animal e, quatro anos depois, começam a responder perguntas sobre sua sobrevivência.",
       "source": "bluesky",
       "subreddit": "bsky_mt",
       "permalink": "https://bsky.app/profile/conexaoplaneta.bsky.social/post/3mztjww5spc2x",
       "createdAt": "2026-11-08T23:12:17.678000+00:00",
-      "rawScore": 0.23923446139165677,
-      "relevanceScore": 0.15810366536403644,
-      "suggestedRadius": 59.86,
+      "rawScore": 0.4641344212786912,
+      "relevanceScore": 0.32455889075022043,
+      "suggestedRadius": 70.18,
       "imageUrl": "assets/images/bsky_3mztjww5spc2x_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mztjww5spc2x_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -204,7 +153,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Proteger e manter a fauna é um dever de toda humanidade, e o trabalho do ICAS com o Alvinho mostra como o monitoramento pode ajudar a entender melhor a vida desses animais no Cerrado.",
+          "text": "Proteger a fauna é um dever de toda a humanidade, e o trabalho do ICAS com o Alvinho mostra como o monitoramento pode ajudar a entender melhor a vida selvagem e garantir a sobrevivência de animais únicos.",
           "source": "sintese",
           "evidence": [
             1
@@ -214,7 +163,62 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ainda faltam respostas sobre a sobrevivência do Alvinho, e quatro anos de monitoramento sem conclusões claras deixam dúvidas sobre a eficácia das ações de conservação na região.",
+          "text": "A reportagem é bacana, mas fica só na superfície: não explica o que os pesquisadores descobriram sobre a sobrevivência do Alvinho nem quais são as ameaças reais que ele enfrenta no Cerrado.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O caso do Alvinho é interessante, mas ainda faltam dados concretos sobre como sua pelagem clara afeta sua sobrevivência. O monitoramento é importante, mas as respostas só virão com mais tempo de estudo.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzvwfha2jc2s",
+      "rank": 4,
+      "title": "Brasil de Fato publica reportagem em novembro de 2026",
+      "label": "Publicação do Brasil de Fato · Novembro de 2026",
+      "context": "O site Brasil de Fato publicou uma reportagem em 8 de novembro de 2026, compartilhada no Bluesky no dia seguinte. O conteúdo específico da matéria não está disponível nas fontes recebidas, que trazem apenas o endereço da publicação.",
+      "source": "bluesky",
+      "subreddit": "bsky_mt",
+      "permalink": "https://bsky.app/profile/nildete.bsky.social/post/3mzvwfha2jc2s",
+      "createdAt": "2026-11-09T22:00:29.776000+00:00",
+      "rawScore": 0.4617209347026565,
+      "relevanceScore": 0.32247376690157115,
+      "suggestedRadius": 70.07,
+      "imageUrl": "assets/images/bsky_3mzvwfha2jc2s_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzvwfha2jc2s_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-mt",
+      "sources": [
+        {
+          "title": "www.brasildefato.com.br/2026/11/08/e...",
+          "url": "https://bsky.app/profile/nildete.bsky.social/post/3mzvwfha2jc2s",
+          "subreddit": "bsky_mt"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A divulgação da reportagem no Bluesky ajuda a levar o conteúdo do Brasil de Fato para quem não acompanha o site diretamente, ampliando o alcance da publicação nas redes.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Compartilhar só o link, sem nenhum resumo ou trecho da matéria, não informa nada: quem vê o post no Bluesky não tem ideia do que a reportagem trata antes de clicar.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -222,11 +226,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A reportagem sobre o Alvinho é bacana e traz visibilidade para o tamanduá-bandeira, mas é preciso acompanhar os resultados concretos do monitoramento antes de tirar conclusões.",
+          "text": "Sem o texto da reportagem disponível, fica difícil avaliar o conteúdo em si; o que dá para observar é apenas o formato da divulgação, um link solto publicado no dia seguinte à matéria.",
           "source": "sintese",
-          "evidence": [
-            2
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -237,15 +239,15 @@
       "id": "bsky_3mzwbtfztqs2e",
       "rank": 5,
       "title": "Por que os ataques contra os Guarani Kaiowá não param de acontecer?",
-      "label": "Violência contra Guarani Kaiowá · Investigação",
-      "context": "Uma investigação da Repórter Brasil, assinada pela jornalista Isabel Harari, apura por que os ataques contra os Guarani Kaiowá não param de acontecer. A reportagem foi publicada em novembro de 2026 e divulgada nas redes sociais.",
+      "label": "Violência contra os Guarani Kaiowá",
+      "context": "Uma investigação da Repórter Brasil, publicada em novembro de 2026, apura por que os ataques contra os Guarani Kaiowá continuam acontecendo. O material foi produzido pela jornalista Isabel Harari e divulgado nas redes sociais.",
       "source": "bluesky",
       "subreddit": "bsky_mt",
       "permalink": "https://bsky.app/profile/gabrieldread.bsky.social/post/3mzwbtfztqs2e",
       "createdAt": "2026-11-10T01:25:08.578000+00:00",
-      "rawScore": 0.23762955891104381,
-      "relevanceScore": 0.15680634402118565,
-      "suggestedRadius": 59.76,
+      "rawScore": 0.42648328002207614,
+      "relevanceScore": 0.2920303101719862,
+      "suggestedRadius": 68.42,
       "imageUrl": "assets/images/bsky_3mzwbtfztqs2e_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzwbtfztqs2e_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -261,7 +263,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A investigação da Repórter Brasil joga luz sobre um problema que segue invisível para a maior parte do país: os ataques contra os Guarani Kaiowá não param, e o jornalismo tem papel central em documentar e cobrar resposta das autoridades.",
+          "text": "A investigação da Repórter Brasil joga luz sobre um problema que segue sem solução: os ataques contra os Guarani Kaiowá não param, e o jornalismo tem papel de expor isso com nomes, dados e responsáveis.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -269,7 +271,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Enquanto a violência contra os Guarani Kaiowá continua acontecendo, o que se vê é mais uma reportagem denunciando o problema e pouca ação concreta do poder público para proteger essas comunidades e responsabilizar os autores dos ataques.",
+          "text": "Mais uma reportagem sobre violência contra indígenas que não muda a situação deles na prática. Os Guarani Kaiowá continuam sendo atacados enquanto o debate público se limita a repercutir o material nas redes.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -277,7 +279,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A pergunta do título é o ponto central: entender por que os ataques não param exige olhar para as causas por trás da violência, e a investigação precisa mostrar quem são os responsáveis e quais interesses estão em jogo nessas terras.",
+          "text": "A pergunta do título é o ponto central: entender por que os ataques não param exige olhar para quem os comete e para a resposta do Estado. A investigação ajuda, mas a resposta depende de acompanhar o que vem depois.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -289,16 +291,16 @@
     {
       "id": "bsky_3mzuvkfcit22h",
       "rank": 6,
-      "title": "Brasil de Fato publica matéria e chama para ação: \"Bora!!!!\"",
-      "label": "Brasil de Fato · Chamada para ação",
-      "context": "O perfil do Brasil de Fato no Bluesky divulgou em 9 de novembro de 2026 um link para uma matéria publicada no site no dia anterior, acompanhado da convocação \"Bora!!!!\". A publicação funciona como chamada para que leitores acessem e se engajem com o conteúdo veiculado pelo veículo.",
+      "title": "Brasil de Fato publica matéria e chama leitores para a ação",
+      "label": "Chamada do Brasil de Fato · Mobilização",
+      "context": "O perfil do Brasil de Fato no Bluesky divulgou em 9 de novembro de 2026 um link para uma matéria publicada no site no dia anterior, acompanhado da convocação \"Bora!!!!\". A publicação aparece como um chamado direto ao público para acessar o conteúdo e se engajar com a pauta.",
       "source": "bluesky",
       "subreddit": "bsky_mt",
       "permalink": "https://bsky.app/profile/jurnalista.bsky.social/post/3mzuvkfcit22h",
       "createdAt": "2026-11-09T12:12:41.470000+00:00",
-      "rawScore": 0.1508499442657894,
-      "relevanceScore": 0.08665812781264946,
-      "suggestedRadius": 53.66,
+      "rawScore": 0.2804555717222018,
+      "relevanceScore": 0.16587014828704513,
+      "suggestedRadius": 60.44,
       "imageUrl": "assets/images/bsky_3mzuvkfcit22h_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzuvkfcit22h_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -314,7 +316,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Brasil de Fato usa o Bluesky para chamar o público a ler e se engajar com a matéria, e esse tipo de convocação direta ajuda a mobilizar leitores em torno de pautas que o veículo considera relevantes.",
+          "text": "O Brasil de Fato acerta ao usar as redes para chamar o público direto para a matéria, com uma convocação simples e animada. Esse tipo de post ajuda a levar conteúdo de imprensa alternativa para quem não acompanha o site e transforma a leitura em convite à participação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -322,7 +324,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Uma postagem que só traz link e um \"Bora!!!!\" não informa nada a quem vê a publicação na rede — sem resumo ou contexto, o leitor fica sem saber do que se trata antes de clicar.",
+          "text": "Um post com só o link e um \"Bora!!!!\" não diz nada sobre o conteúdo da matéria, e quem vê a publicação no feed fica sem saber do que se trata. Divulgar assim, sem explicar o assunto, enfraquece o alcance da própria pauta que o veículo quer promover.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -330,7 +332,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O alcance dessa chamada depende do que a matéria linkada realmente diz, e como o post não adianta o conteúdo, só dá para avaliar o engajamento depois de abrir o link e ler a reportagem.",
+          "text": "O alcance desse tipo de chamada depende de quem já segue o perfil e reconhece a linha editorial do Brasil de Fato. Para quem acompanha o veículo, o link basta; para o público de fora, a publicação sozinha não informa nem explica o que está sendo divulgado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -344,14 +346,14 @@
       "rank": 7,
       "title": "Violência policial é tema de reportagem do Diário do Centro do Mundo",
       "label": "Violência policial · Reportagem do DCM",
-      "context": "O Diário do Centro do Mundo publicou uma reportagem sobre violência policial, compartilhada no Bluesky em 10 de novembro de 2026. O conteúdo trata de casos de violência envolvendo agentes de segurança, tema recorrente no debate público brasileiro.",
+      "context": "O Diário do Centro do Mundo publicou uma reportagem sobre violência policial, compartilhada no Bluesky em 10 de novembro de 2026. O conteúdo discute casos de violência praticados por agentes de segurança, tema que costuma gerar discussão sobre o papel da polícia.",
       "source": "bluesky",
       "subreddit": "bsky_mt",
       "permalink": "https://bsky.app/profile/nildete.bsky.social/post/3mzwhxzt6oc25",
       "createdAt": "2026-11-10T03:15:06.271000+00:00",
-      "rawScore": 0.09963390094836151,
-      "relevanceScore": 0.04525768953387501,
-      "suggestedRadius": 48.76,
+      "rawScore": 0.169073394567427,
+      "relevanceScore": 0.06964187993617033,
+      "suggestedRadius": 51.83,
       "imageUrl": "assets/images/bsky_3mzwhxzt6oc25_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzwhxzt6oc25_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -367,7 +369,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Reportagens como essa do DCM são necessárias porque expõem casos de violência policial que muitas vezes não chegam ao conhecimento do público. Dar visibilidade a esses episódios é o primeiro passo para cobrar responsabilização e mudar a prática das corporações.",
+          "text": "Reportagens como essa do Diário do Centro do Mundo são necessárias porque expõem a violência policial que muita gente prefere ignorar. Dar visibilidade a esses casos é o primeiro passo para cobrar responsabilização e mudar a forma como a segurança pública é feita no país.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -375,7 +377,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Matérias sobre violência policial costumam mostrar só um lado, sem considerar o contexto das operações e o risco que os agentes enfrentam diariamente. Publicar esses casos sem ouvir as corporações e as circunstâncias acaba reforçando uma narrativa contra a polícia.",
+          "text": "O Diário do Centro do Mundo tem linha editorial definida e publica esse tipo de matéria de forma parcial, sem ouvir o outro lado. Falar de violência policial sem contexto das operações e do risco que os agentes correm acaba virando narrativa contra a polícia, não jornalismo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -383,7 +385,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O tema merece atenção, mas o que define a qualidade da cobertura é o dado concreto: quantos casos, em que circunstâncias, com qual desfecho. Sem esses elementos, a reportagem vira opinião e não ajuda a entender a real dimensão da violência policial no país.",
+          "text": "A reportagem levanta um ponto real sobre violência policial, mas o debate precisa de dados concretos: quantos casos, em quais circunstâncias, com qual desfecho. Sem esses números, a discussão fica só na troca de acusações e não avança em nada para quem quer entender o problema.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -395,14 +397,14 @@
     {
       "id": "bsky_3mzo6hla7lc2n",
       "rank": 8,
-      "title": "Medida protege território quilombola Mata Cavalo e cemitério centenário de impactos da exploração de ouro",
+      "title": "Medida busca proteger território quilombola Mata Cavalo e seu Cemitério Centenário de impactos da exploração de ouro",
       "label": "Proteção de território quilombola contra mineração",
       "context": "Uma medida foi anunciada para proteger o território da comunidade quilombola Mata Cavalo e seu Cemitério Centenário dos possíveis impactos da exploração de ouro. A ação busca resguardar a área de atividades de mineração que poderiam afetar a comunidade e seu patrimônio.",
       "source": "bluesky",
       "subreddit": "bsky_mt",
       "permalink": "https://bsky.app/profile/taniapac.bsky.social/post/3mzo6hla7lc2n",
       "createdAt": "2026-11-06T20:03:31.286000+00:00",
-      "rawScore": 0.04364609299314919,
+      "rawScore": 0.08846439742577197,
       "relevanceScore": 0.0,
       "suggestedRadius": 36.0,
       "imageUrl": "assets/images/bsky_3mzo6hla7lc2n_reddit.jpg",
@@ -420,7 +422,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A proteção do território quilombola Mata Cavalo e do seu Cemitério Centenário é uma vitória para a comunidade, que sofre com a pressão da mineração. Essa medida garante que o patrimônio histórico e cultural seja preservado para as futuras gerações.",
+          "text": "A proteção do território quilombola Mata Cavalo e do Cemitério Centenário é uma vitória para a comunidade, que preserva sua história e cultura há gerações. Medidas assim garantem que a exploração de ouro não destrua o que é sagrado para eles.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -428,7 +430,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A medida pode inviabilizar a exploração de ouro na região, afetando a economia local e empregos. Sem um diálogo com o setor mineral, a proteção pode gerar insegurança jurídica e prejudicar o desenvolvimento.",
+          "text": "Bloquear a exploração de ouro na região pode prejudicar o desenvolvimento econômico local, gerando empregos e renda. A medida precisa considerar também o progresso e as oportunidades para a população, não só a proteção ambiental.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -436,7 +438,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A proteção é necessária, mas precisa ser acompanhada de fiscalização efetiva e de alternativas econômicas para a comunidade. Sem isso, a medida pode não impedir a mineração ilegal e ainda deixar a população sem renda.",
+          "text": "A decisão de proteger o território quilombola é importante, mas é preciso avaliar como conciliar a preservação com as necessidades econômicas da região. O diálogo entre comunidade, empresas e governo é essencial para um equilíbrio justo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

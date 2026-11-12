@@ -1,29 +1,39 @@
 {
-  "generatedAt": "2026-11-11T19:29:26.726534+00:00",
+  "generatedAt": "2026-11-12T06:29:13.508039+00:00",
   "region": "br-sp",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3mzyk77eh4s2o",
+      "id": "bsky_3n235wswb6c2k",
       "rank": 1,
-      "title": "Autor de novela estereotipada é paulistano, aponta post",
-      "label": "Estereótipos nordestinos em novelas · Autor paulistano",
-      "context": "Um post no Bluesky aponta que o autor de uma novela acusada de reforçar estereótipos sobre o Nordeste é paulistano. A informação gerou comentários sobre a recorrência do tema em obras do mesmo autor e sobre o impacto desse tipo de retrato na audiência.",
+      "title": "Alguém indica advogada especialista em violência doméstica em São Paulo?",
+      "label": "Indicação de advogada · Violência doméstica em SP",
+      "context": "Uma pessoa pediu no Bluesky indicações de advogada especializada em violência doméstica em São Paulo capital e pediu que quem não tiver contato compartilhe a mensagem. O pedido busca facilitar o acesso a apoio jurídico para mulheres que precisam sair de casa com urgência.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
-      "permalink": "https://bsky.app/profile/cuscuzero.gay/post/3mzyk77eh4s2o",
-      "createdAt": "2026-11-10T23:00:10.484000+00:00",
+      "permalink": "https://bsky.app/profile/sonambulismo.cc/post/3n235wswb6c2k",
+      "createdAt": "2026-11-11T23:58:47.981000+00:00",
       "rawScore": 0.9,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3mzyk77eh4s2o_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzyk77eh4s2o_wiki_thumb.jpg",
+      "imageUrl": "assets/images/bsky_3n235wswb6c2k_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n235wswb6c2k_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sp",
       "sources": [
         {
-          "title": "fui conferir de onde o autor da novela estereotipada é: paulistano",
-          "url": "https://bsky.app/profile/cuscuzero.gay/post/3mzyk77eh4s2o",
+          "title": "Rede, alguém indica uma advogada especialista em violência doméstica em São Paulo capital por gentileza, e quem não tiver pode dar RT nessa mensagem?",
+          "url": "https://bsky.app/profile/sonambulismo.cc/post/3n235wswb6c2k",
+          "subreddit": "bsky_sp"
+        },
+        {
+          "title": "Aqui mesmo pela ZS de São Paulo (na capital mesmo), a única maneira de ter acesso a notícias locais (como horario de funcionamento de postos de saúde e outros serviços públicos) é por rede social de jornal independente local, que ganha pouquíssimo ou NADA pra fazer aquilo Já na grande mídia... nada",
+          "url": "https://bsky.app/profile/ribeirmatheus.bsky.social/post/3mzy5l57mjc2r",
+          "subreddit": "bsky_sp"
+        },
+        {
+          "title": "Ainda estou doando plantas. Ficaram na maioria vasos grandes. É necessário retirar pessoalmente em São Paulo - Capital, Zona Leste.",
+          "url": "https://bsky.app/profile/thunder-rafael.bsky.social/post/3n23773nan227",
           "subreddit": "bsky_sp"
         }
       ],
@@ -31,10 +41,76 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O autor ser paulistano explica muita coisa: ele repete uma visão de fora sobre o Nordeste, sempre pelo viés do atraso e do exótico. Quem é de lá reconhece o estereótipo na hora e cobra coerência de quem escreve sobre uma realidade que não vive.",
+          "text": "A Lisandra atende especialmente mulheres e foi indicada por quem já conhece o trabalho dela. Ter um nome de confiança para violência doméstica faz diferença, porque a mulher precisa de acolhimento rápido e alguém que entenda o caso sem julgamento.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O Olga, da UP, tem um braço jurídico integrado na capital que faz acolhimento de mulheres que precisam sair de casa com urgência. Esse tipo de estrutura é mais seguro do que uma indicação solta, porque oferece apoio jurídico e acolhimento no mesmo lugar.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A indicação de uma advogada é útil, mas o acesso a esse tipo de serviço ainda depende muito de redes sociais e contatos pessoais. Muita gente não sabe onde procurar apoio jurídico especializado, e a informação acaba circulando de forma pouco transparente.",
+          "source": "sintese",
+          "evidence": [
+            4,
+            7
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzyk77eh4s2o",
+      "rank": 2,
+      "title": "Autor de novela estereotipada é paulistano, aponta post",
+      "label": "Estereótipos nordestinos em novelas · Autor paulistano",
+      "context": "Um post no Bluesky aponta que o autor de uma novela acusada de reforçar estereótipos sobre o Nordeste é paulistano. A discussão gira em torno de como suas obras repetem uma visão do Nordeste atrasado, apesar de promessas de retratar a região como polo de tecnologia.",
+      "source": "bluesky",
+      "subreddit": "bsky_sp",
+      "permalink": "https://bsky.app/profile/cuscuzero.gay/post/3mzyk77eh4s2o",
+      "createdAt": "2026-11-10T23:00:10.484000+00:00",
+      "rawScore": 0.2612290665621828,
+      "relevanceScore": 0.30593563837685783,
+      "suggestedRadius": 69.19,
+      "imageUrl": "assets/images/bsky_3mzyk77eh4s2o_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzyk77eh4s2o_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sp",
+      "sources": [
+        {
+          "title": "fui conferir de onde o autor da novela estereotipada é: paulistano",
+          "url": "https://bsky.app/profile/cuscuzero.gay/post/3mzyk77eh4s2o",
+          "subreddit": "bsky_sp"
+        },
+        {
+          "title": "As promessas falsas do autor da novela, 3 semanas atrás: \"Contraste entre São Paulo e um sertão moderno e verdejante\". \"O Nordeste dessa vez como um polo de tecnologia importante\".",
+          "url": "https://bsky.app/profile/marcuspessoa.bsky.social/post/3n2375fhcck2v",
+          "subreddit": "bsky_sp"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O autor ser paulistano explica muita coisa: ele repete uma visão de fora sobre o Nordeste, sempre com o mesmo estereótipo. Já são três novelas nessa pegada, então não é coincidência, é uma fixação que ignora a diversidade real da região.",
           "source": "sintese",
           "evidence": [
             2,
+            5,
             6
           ],
           "votes": 0
@@ -42,7 +118,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essas novelas estereotipadas fazem sucesso e dão audiência, então o problema não é só do autor: o público compra essa imagem distorcida. Enquanto a audiência validar esse retrato, a TV vai continuar reproduzindo o mesmo Nordeste de sempre.",
+          "text": "O problema não é o autor ser paulistano, mas o fato de que suas novelas estereotipadas dão audiência. Enquanto o público aplaudir esse tipo de retrato, a TV vai continuar produzindo e lucrando com o escárnio.",
           "source": "sintese",
           "evidence": [
             8
@@ -52,10 +128,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O autor morou no sertão nordestino quando era criança, o que pode ter marcado a forma como ele retrata a região. Isso não justifica o estereótipo, mas ajuda a entender de onde vem essa fixação e por que ele volta sempre ao mesmo cenário.",
+          "text": "Antes de julgar, vale lembrar que ele morou no sertão nordestino quando era criança. Isso pode ter marcado sua visão de mundo, mas não justifica manter o mesmo estereótipo em obras recentes. O contexto pessoal ajuda a entender, mas não isenta.",
           "source": "sintese",
           "evidence": [
-            7,
             9
           ],
           "votes": 0
@@ -65,149 +140,20 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzyjcilurc22",
-      "rank": 2,
-      "title": "Paulistano sabe votar? Crítica à corrupção em São Paulo",
-      "label": "Paulistano e voto · Crítica à corrupção",
-      "context": "Um post no Bluesky ironizou a ideia de que o paulistano sabe votar, em meio a comentários sobre políticos corruptos que não sofrem consequências. A frase questiona a confiança no eleitorado de São Paulo diante da impunidade de políticos acusados de corrupção.",
-      "source": "bluesky",
-      "subreddit": "bsky_sp",
-      "permalink": "https://bsky.app/profile/kissquerdista.bsky.social/post/3mzyjcilurc22",
-      "createdAt": "2026-11-10T22:44:04.177000+00:00",
-      "rawScore": 0.3923234277829193,
-      "relevanceScore": 0.4359149197587992,
-      "suggestedRadius": 75.61,
-      "imageUrl": "assets/images/bsky_3mzyjcilurc22_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzyjcilurc22_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sp",
-      "sources": [
-        {
-          "title": "Ah, mas o paulistano sabe votar...",
-          "url": "https://bsky.app/profile/kissquerdista.bsky.social/post/3mzyjcilurc22",
-          "subreddit": "bsky_sp"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O eleitor paulistano tem sim capacidade de avaliar seus candidatos, e a ironia do post só reforça que a impunidade é o problema real, não o voto. Políticos corruptos continuam soltos porque as instituições não punem, e culpar o eleitor é desviar o foco.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A frase acerta em cheio: o paulistano vota mal e depois reclama. Políticos corruptos e criminosos são eleitos e reeleitos, e nada acontece com eles justamente porque o eleitorado insiste nos mesmos nomes. O problema começa na escolha do voto.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A impunidade de políticos corruptos é o ponto central, e o debate sobre o voto paulistano fica em segundo plano. Sem punição efetiva, trocar o voto não resolve, e a frase do post funciona mais como desabafo do que como análise do eleitorado.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzy5l57mjc2r",
-      "rank": 3,
-      "title": "Na Zona Sul de São Paulo, só jornal independente local cobre serviços públicos",
-      "label": "Cobertura local · Jornais independentes na periferia",
-      "context": "Um usuário do Bluesky relata que, na Zona Sul da capital paulista, a única forma de saber horários de postos de saúde e outros serviços públicos é por redes sociais de jornais independentes locais, que recebem pouco ou nenhum dinheiro para isso. A grande mídia não cobre esses temas, deixando a população sem informação oficial sobre serviços básicos.",
-      "source": "bluesky",
-      "subreddit": "bsky_sp",
-      "permalink": "https://bsky.app/profile/ribeirmatheus.bsky.social/post/3mzy5l57mjc2r",
-      "createdAt": "2026-11-10T19:14:09.674000+00:00",
-      "rawScore": 0.13828082238049916,
-      "relevanceScore": 0.41163736874359486,
-      "suggestedRadius": 74.5,
-      "imageUrl": "assets/images/bsky_3mzy5l57mjc2r_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzy5l57mjc2r_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sp",
-      "sources": [
-        {
-          "title": "Aqui mesmo pela ZS de São Paulo (na capital mesmo), a única maneira de ter acesso a notícias locais (como horario de funcionamento de postos de saúde e outros serviços públicos) é por rede social de jornal independente local, que ganha pouquíssimo ou NADA pra fazer aquilo Já na grande mídia... nada",
-          "url": "https://bsky.app/profile/ribeirmatheus.bsky.social/post/3mzy5l57mjc2r",
-          "subreddit": "bsky_sp"
-        },
-        {
-          "title": "Teve um casal que passou na minha mesa que eles tavam com mala e aí eu perguntei da onde eles tavam vindo e aí eles falaram que era da capital de são paulo aí eu falei que eu nasci lá e aí perguntaram se eu voltaria e eu fiz uma careta e deram risada e soltei um \"dá pra aguentar o Tarcísio não\"",
-          "url": "https://bsky.app/profile/polvilhito.bsky.social/post/3mzsr3m7imc2a",
-          "subreddit": "bsky_sp"
-        },
-        {
-          "title": "Os bad woke precisam aprender a: - zoar países com número de habitantes menor que a Rocinha/RJ - lembrar que o Brasil tem tamanho de continente - lembrar que São Paulo *capital* tem tamanho de um país de MERDA europeu",
-          "url": "https://bsky.app/profile/sou.boio.la/post/3mzo6txn5kc2q",
-          "subreddit": "bsky_sp"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Jornais independentes locais fazem um trabalho essencial que a grande mídia ignora, como informar horários de postos de saúde na periferia. Mesmo sem recursos, eles mantêm a comunidade informada e merecem apoio, seja por assinaturas ou financiamento coletivo.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A dependência de redes sociais para notícias locais é arriscada, pois o algoritmo decide o que chega até nós. Sem veículos estruturados, a informação fica sujeita a interesses obscuros e à desinformação, como já vimos em eleições.",
-          "source": "sintese",
-          "evidence": [
-            5
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A volta do zine xerocado, mesmo na brincadeira, lembra que a informação local sempre encontrou meios alternativos de circular. O problema não é só a falta de verba, mas também a distribuição do conteúdo dentro das redes, que dificulta o acesso.",
-          "source": "sintese",
-          "evidence": [
-            3,
-            4
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3mzzbmn7tzk2k",
-      "rank": 4,
+      "rank": 3,
       "title": "Perfeito, só faltou chamar sudestino de sulista como os paulistas fazem com os nordestinos \"Esse pessoal do Norte\" e o sotaque exagerado de carioca e paulistano",
       "label": "Regionalismo e sotaques no Brasil",
-      "context": "Posts no Bluesky criticam a forma como paulistas e cariocas tratam pessoas de outras regiões, citando apelidos como \"pessoal do Norte\" e a imitação de sotaques. A discussão expõe como esses estereótipos regionais ainda aparecem em conversas e relacionamentos.",
+      "context": "Posts no Bluesky criticam a forma como paulistas e cariocas tratam pessoas de outras regiões, citando apelidos como \"pessoal do Norte\" e a imitação de sotaques. A discussão expõe como esses estereótipos regionais ainda aparecem em piadas e na fala cotidiana.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/xenotar.bsky.social/post/3mzzbmn7tzk2k",
       "createdAt": "2026-11-11T05:59:17.972000+00:00",
-      "rawScore": 0.21896522059136922,
-      "relevanceScore": 0.3544058006570769,
-      "suggestedRadius": 71.72,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.05979336124384328,
+      "relevanceScore": 0.13533374942878143,
+      "suggestedRadius": 58.07,
+      "imageUrl": "assets/images/bsky_3mzzbmn7tzk2k_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzzbmn7tzk2k_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sp",
       "sources": [
@@ -226,7 +172,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Apontar a contradição de quem chama nordestino de \"pessoal do Norte\" mas se ofende ao ser chamado de sulista é necessário para expor o preconceito regional que existe no Sudeste.",
+          "text": "Apontar a contradição de quem critica o preconceito contra nordestinos mas chama sudestino de sulista e imita sotaque é necessário para expor a hipocrisia regional que ainda existe no Brasil.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -234,7 +180,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Proibir alguém de usar \"você\" e exigir \"tu\" em relacionamentos é uma forma de controle linguístico que desrespeita a variedade do outro, e isso não deveria ser normalizado.",
+          "text": "Ficar criando novas categorias como 'sudestino' e medindo qual preconceito é pior só reforça a divisão entre regiões, em vez de combater o problema real que é tratar pessoas de forma desigual.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -242,115 +188,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A piada funciona como crítica, mas generalizar paulistas e cariocas como se todos agissem assim ignora que o preconceito regional é um problema mais amplo e não se limita a esses grupos.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzyhupiry22r",
-      "rank": 5,
-      "title": "Paulistano que se mudou para cidade do interior conta que colegas perguntavam se era um sítio no meio da seca",
-      "label": "Paulistano no interior · Estereótipo regional",
-      "context": "Um paulistano que se mudou para uma cidade do interior no começo dos anos 2000 contava que colegas perguntavam se o lugar era um sítio no meio da seca e até se havia energia elétrica na região. A cidade é a quinta maior do estado, e o relato expõe o desconhecimento de quem vive na capital sobre o resto do território.",
-      "source": "bluesky",
-      "subreddit": "bsky_sp",
-      "permalink": "https://bsky.app/profile/mthlimao.bsky.social/post/3mzyhupiry22r",
-      "createdAt": "2026-11-10T22:18:31.186000+00:00",
-      "rawScore": 0.27486570284707235,
-      "relevanceScore": 0.30540633649674703,
-      "suggestedRadius": 69.16,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-sp",
-      "sources": [
-        {
-          "title": "Adoro contar sobre um grande antigo amigo paulistano que veio viver aqui na cidade no começo dos anos 2000 e dizia que os colegas perguntavam se era um sítio no meio da seca e até se existia energia elétrica nessas bandas (a quinta maior do estado)",
-          "url": "https://bsky.app/profile/mthlimao.bsky.social/post/3mzyhupiry22r",
-          "subreddit": "bsky_sp"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O relato mostra como o paulistano da capital desconhece o próprio estado. A cidade é a quinta maior, tem estrutura e vida urbana, mas quem nunca saiu da bolha da capital imagina sítio e falta de energia. Esse tipo de pergunta revela mais sobre o preconceito de quem pergunta do que sobre o lugar.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Essa história é antiga e não representa mais nada. Hoje qualquer pessoa tem acesso à informação e sabe que o interior tem cidades grandes e desenvolvidas. Ficar repetindo esse tipo de relato só reforça uma imagem ultrapassada e não ajuda em nada a discutir as diferenças regionais reais.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O amigo tinha noção porque a mãe era pernambucana e ele já tinha passado uma temporada numa cidade próxima e bem menor, que era civilizada. Isso mostra que o desconhecimento não era total e que o contato prévio com outras regiões muda a percepção sobre o que é o interior.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzxuv6pjss2k",
-      "rank": 6,
-      "title": "Entregador de leite da Vigor passando por rua da Mooca nos anos 1950",
-      "label": "Entregador de leite · Mooca anos 1950",
-      "context": "Uma imagem mostra um entregador de leite da Vigor passando por uma rua do bairro da Mooca, em São Paulo, em meados da década de 1950. A foto registra como a distribuição de leite era feita porta a porta na cidade naquele período.",
-      "source": "bluesky",
-      "subreddit": "bsky_sp",
-      "permalink": "https://bsky.app/profile/saopauloantiga.com.br/post/3mzxuv6pjss2k",
-      "createdAt": "2026-11-10T16:38:49.574000+00:00",
-      "rawScore": 0.2531755088302368,
-      "relevanceScore": 0.28130612092248536,
-      "suggestedRadius": 67.82,
-      "imageUrl": "assets/images/bsky_3mzxuv6pjss2k_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzxuv6pjss2k_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sp",
-      "sources": [
-        {
-          "title": "Entregador de leite da Vigor passando por rua do bairro paulistano da Mooca, meados da década de 1950",
-          "url": "https://bsky.app/profile/saopauloantiga.com.br/post/3mzxuv6pjss2k",
-          "subreddit": "bsky_sp"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A foto mostra um jeito de viver que se perdeu: o leite chegava na porta de casa, entregue por alguém que conhecia a rua e os moradores. Esse contato direto entre quem entrega e quem recebe faz falta hoje, quando tudo virou aplicativo e ninguém sabe quem bateu na porta.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Olhar essa imagem com saudade esconde o quanto o trabalho era pesado: entregador carregando leite de madrugada, sem refrigeração adequada e ganhando pouco. A distribuição porta a porta só funcionava porque havia mão de obra barata sustentando a rotina da cidade.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A Mooca dos anos 1950 era um bairro industrial, com muita gente chegando para trabalhar nas fábricas, e a cena do entregador de leite ajuda a enxergar esse cotidiano. Vale lembrar que a Vigor tinha ligação com a produção de leite na época, mas a foto sozinha não conta essa história toda.",
+          "text": "A discussão sobre sotaques e apelidos regionais mostra que o Brasil ainda precisa aprender a lidar com diferenças sem transformar tudo em piada ou ofensa, mas o tom de acusação pode afastar quem poderia refletir.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -361,17 +199,17 @@
     },
     {
       "id": "bsky_3mzsvkuhzoc24",
-      "rank": 7,
-      "title": "Paulistano Barueri perde para Abel Vôlei Brusque por 3 a 1 na Superliga Feminina",
-      "label": "Superliga Feminina · Barueri 1x3 Brusque",
-      "context": "O Paulistano Barueri perdeu para o Abel Vôlei Brusque por 3 sets a 1 (25x15, 22x25, 23x25, 17x25) na Rodada 04 do turno da Superliga Feminina, em partida realizada na Arena Barueri, em São Paulo, no domingo, 8 de novembro de 2026. O resultado dá ao time de Brusque sua terceira vitória na competição e mantém o Barueri com apenas uma vitória em quatro jogos.",
+      "rank": 4,
+      "title": "Paulistano Barueri 1x3 Abel Vôlei Brusque na Superliga Feminina",
+      "label": "Superliga Feminina · Rodada 04",
+      "context": "O Abel Vôlei Brusque venceu o Paulistano Barueri por 3 sets a 1 (25x15, 22x25, 23x25, 17x25) na Rodada 04 da Superliga Feminina, em partida disputada na Arena Barueri. O resultado dá ao time de Brusque sua primeira vitória na competição e mantém o Paulistano Barueri na parte de baixo da tabela.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/portalvolei.bsky.social/post/3mzsvkuhzoc24",
       "createdAt": "2026-11-08T17:07:44.580000+00:00",
-      "rawScore": 0.03507644196998718,
-      "relevanceScore": 0.150084935522208,
-      "suggestedRadius": 59.24,
+      "rawScore": 0.012073567181665286,
+      "relevanceScore": 0.09491843678917279,
+      "suggestedRadius": 54.49,
       "imageUrl": "assets/images/bsky_3mzsvkuhzoc24_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzsvkuhzoc24_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -392,7 +230,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Abel Vôlei Brusque mostrou força ao virar o primeiro set perdido por 25x15 e dominar os três seguintes, com destaque para a virada no terceiro set (23x25). A equipe catarinense confirma a boa fase e soma pontos importantes fora de casa.",
+          "text": "O Abel Vôlei Brusque mostrou força ao virar o primeiro set perdido por 25x15 e dominar os seguintes, com destaque para a virada no terceiro set (23x25). A equipe catarinense provou que pode competir de igual para igual na Superliga.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -400,7 +238,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O Paulistano Barueri desperdiçou o bom início, vencendo o primeiro set com folga, mas caiu de rendimento nos sets seguintes, especialmente no quarto, quando perdeu por 17x25. A falta de consistência tem sido o problema da equipe na competição.",
+          "text": "O Paulistano Barueri desperdiçou a chance de vencer em casa ao perder sets apertados como o terceiro (23x25) e o quarto (17x25), mostrando falta de concentração nos momentos decisivos. A equipe precisa reagir rápido para não se distanciar dos líderes.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -408,7 +246,176 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A partida mostrou equilíbrio nos sets intermediários, com parciais apertadas (22x25 e 23x25), o que indica que a diferença entre as equipes não foi tão grande quanto o placar final sugere. O Brusque soube fechar os pontos decisivos.",
+          "text": "A partida foi decidida nos detalhes: o Brusque foi mais eficiente nos sets finais, enquanto o Barueri sentiu a pressão. O resultado mostra o equilíbrio da Superliga, onde equipes de diferentes regiões têm condições de surpreender.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzyjcilurc22",
+      "rank": 5,
+      "title": "Paulistano sabe votar? Crítica após resultado eleitoral",
+      "label": "Eleições em SP · Voto e corrupção",
+      "context": "Um post no Bluesky ironizou a ideia de que o paulistano sabe votar, sugerindo que o eleitorado da cidade escolheu mal seus representantes. A frase repercutiu entre usuários que associam o voto a políticos acusados de corrupção e à falta de punição para esses casos.",
+      "source": "bluesky",
+      "subreddit": "bsky_sp",
+      "permalink": "https://bsky.app/profile/kissquerdista.bsky.social/post/3mzyjcilurc22",
+      "createdAt": "2026-11-10T22:44:04.177000+00:00",
+      "rawScore": 0.11127398399493417,
+      "relevanceScore": 0.09424124601104397,
+      "suggestedRadius": 54.42,
+      "imageUrl": "assets/images/bsky_3mzyjcilurc22_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzyjcilurc22_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sp",
+      "sources": [
+        {
+          "title": "Ah, mas o paulistano sabe votar...",
+          "url": "https://bsky.app/profile/kissquerdista.bsky.social/post/3mzyjcilurc22",
+          "subreddit": "bsky_sp"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O eleitor de São Paulo tem todo o direito de cobrar e ironizar, porque o voto é a única ferramenta que sobra quando políticos acusados de corrupção seguem no poder sem consequência nenhuma. Zombar de quem votou errado é uma forma legítima de pressionar por mudança.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Culpar o paulistano pelo resultado é simplista, porque o eleitor escolhe entre as opções que aparecem nas urnas e a corrupção não se resolve só trocando o voto. Jogar a responsabilidade toda em quem vota ignora que o problema está nos próprios políticos e na impunidade que eles têm.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A frase pega porque mistura duas coisas: a frustração real com políticos corruptos que nada acontece e a ideia de que o eleitorado paulistano erra sempre. Antes de culpar o voto, vale separar o que é falha de quem foi eleito do que é limite das opções disponíveis na eleição.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzyhupiry22r",
+      "rank": 6,
+      "title": "Paulistano que se mudou para cidade do interior conta que colegas perguntavam se era um sítio no meio da seca",
+      "label": "Paulistano no interior · Estereótipo regional",
+      "context": "Um paulistano que se mudou para uma cidade do interior no começo dos anos 2000 contava que colegas perguntavam se o lugar era um sítio no meio da seca e até se havia energia elétrica. A cidade é a quinta maior do estado, e o relato expõe o desconhecimento de quem vive na capital sobre outras regiões.",
+      "source": "bluesky",
+      "subreddit": "bsky_sp",
+      "permalink": "https://bsky.app/profile/mthlimao.bsky.social/post/3mzyhupiry22r",
+      "createdAt": "2026-11-10T22:18:31.186000+00:00",
+      "rawScore": 0.07701532379195018,
+      "relevanceScore": 0.06522656793188794,
+      "suggestedRadius": 51.32,
+      "imageUrl": "assets/images/bsky_3mzyhupiry22r_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzyhupiry22r_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sp",
+      "sources": [
+        {
+          "title": "Adoro contar sobre um grande antigo amigo paulistano que veio viver aqui na cidade no começo dos anos 2000 e dizia que os colegas perguntavam se era um sítio no meio da seca e até se existia energia elétrica nessas bandas (a quinta maior do estado)",
+          "url": "https://bsky.app/profile/mthlimao.bsky.social/post/3mzyhupiry22r",
+          "subreddit": "bsky_sp"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O amigo tinha noção porque a mãe era pernambucana e ele já tinha morado numa cidade vizinha três vezes menor e super civilizada. Isso mostra que quem conhece outras realidades não repete esse tipo de pergunta.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "As perguntas dos colegas revelam um preconceito regional grande: duvidar que uma cidade grande do estado tenha energia elétrica é tratar o interior como atraso. Esse tipo de ignorância sobre o próprio país ainda é comum.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Mesmo naquela época, as regiões mais sertanejas da Bahia não tinham essa totalidade toda, só em certos cantinhos de áreas rurais. A pergunta dos colegas pode refletir uma confusão entre interior e áreas rurais isoladas.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzxuv6pjss2k",
+      "rank": 7,
+      "title": "Entregador de leite da Vigor passando por rua da Mooca, meados da década de 1950",
+      "label": "Entregador de leite · Mooca anos 1950",
+      "context": "Uma imagem mostra um entregador de leite da Vigor passando por uma rua do bairro paulistano da Mooca em meados da década de 1950. A foto registra a distribuição de leite porta a porta na cidade naquela época.",
+      "source": "bluesky",
+      "subreddit": "bsky_sp",
+      "permalink": "https://bsky.app/profile/saopauloantiga.com.br/post/3mzxuv6pjss2k",
+      "createdAt": "2026-11-10T16:38:49.574000+00:00",
+      "rawScore": 0.07545000020563872,
+      "relevanceScore": 0.0639008488384547,
+      "suggestedRadius": 51.17,
+      "imageUrl": "assets/images/bsky_3mzxuv6pjss2k_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzxuv6pjss2k_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sp",
+      "sources": [
+        {
+          "title": "Entregador de leite da Vigor passando por rua do bairro paulistano da Mooca, meados da década de 1950",
+          "url": "https://bsky.app/profile/saopauloantiga.com.br/post/3mzxuv6pjss2k",
+          "subreddit": "bsky_sp"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A foto é um registro histórico valioso da Mooca nos anos 1950, mostrando o cotidiano dos entregadores de leite da Vigor. É uma janela para entender como era a vida urbana em São Paulo naquela época.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A imagem idealiza o passado e ignora as dificuldades do trabalho dos entregadores, que enfrentavam longas jornadas e condições precárias. Não dá para romantizar o passado sem lembrar das desigualdades.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A foto é interessante, mas seria bom ter mais informações sobre o contexto, como o horário e as condições de trabalho. Sem isso, fica difícil tirar conclusões mais profundas sobre a época.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -422,16 +429,16 @@
       "rank": 8,
       "title": "Atrasada, usuária brinca que matará um cinéfilo paulistano se não conseguir ingresso para La Dolce Vita hoje",
       "label": "Ingressos para La Dolce Vita · Corrida e humor",
-      "context": "Uma pessoa publicou no Bluesky que está levemente atrasada e, se não conseguir ingresso para La Dolce Vita hoje, matará um cinéfilo paulistano com as próprias mãos. A frase é uma hipérbole sobre a disputa por ingressos para a exibição do filme em São Paulo.",
+      "context": "Uma pessoa publicou no Bluesky que está levemente atrasada e, se não conseguir ingresso para La Dolce Vita hoje, matará um cinéfilo paulistano com as próprias mãos. A frase é uma hipérbole sobre a disputa por ingressos para a exibição do filme.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/enrascada.bsky.social/post/3mzsn4tfitc2m",
       "createdAt": "2026-11-08T14:36:33.574000+00:00",
-      "rawScore": 0.04468306121153522,
-      "relevanceScore": 0.04964784579059469,
-      "suggestedRadius": 49.37,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.01567920906141887,
+      "relevanceScore": 0.01327918840834382,
+      "suggestedRadius": 42.91,
+      "imageUrl": "assets/images/bsky_3mzsn4tfitc2m_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzsn4tfitc2m_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sp",
       "sources": [
@@ -445,7 +452,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A brincadeira funciona porque todo mundo que já correu atrás de ingresso para sessão única de clássico em São Paulo sabe que o desespero é real. O exagero só mostra o quanto o filme importa para quem é fã.",
+          "text": "A brincadeira funciona porque todo mundo que já correu atrás de ingresso para sessão única de clássico em São Paulo sabe que a disputa é real e acirrada. O exagero é só uma forma de extravasar a ansiedade de quem está atrasado e vê a fila andar.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -453,7 +460,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Falar em matar alguém por causa de ingresso, mesmo de brincadeira, pega mal num momento em que a violência está tão presente. A piada normaliza um exagero que não deveria ser tratado com leveza.",
+          "text": "Brincar com matar alguém, mesmo no deboche, soa desproporcional e pode constranger quem está na mesma situação. A corrida por ingressos já é estressante o bastante sem precisar transformar a frustração em ameaça hipotética a outros cinéfilos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -461,7 +468,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post é claramente uma hipérbole e não deve ser levado ao pé da letra. O problema é que, sem contexto, a frase pode ser interpretada de forma errada por quem não conhece o tom de quem escreveu.",
+          "text": "O post é claramente uma piada sobre a pressa e a concorrência por ingressos, mas também escancara como a comunicação em rede social depende de contexto. Quem não conhece a dinâmica de sessões únicas pode levar a hipérbole ao pé da letra.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -473,18 +480,18 @@
     {
       "id": "bsky_3mzo3myezpc2w",
       "rank": 9,
-      "title": "Não sei quem é pior: o paulista ou o paulistano",
+      "title": "Paulista ou paulistano: quem é pior?",
       "label": "Paulista x paulistano · comparação",
-      "context": "Uma publicação no Bluesky questiona quem seria pior: o paulista ou o paulistano. A frase é uma provocação sobre as diferenças entre quem nasce no estado de São Paulo e quem nasce na capital, sem apresentar nenhum fato ou exemplo concreto.",
+      "context": "Uma publicação no Bluesky questiona quem seria pior: o paulista (nascido no estado de São Paulo) ou o paulistano (nascido na cidade de São Paulo). A provocação brinca com a rivalidade entre os dois grupos e virou tema de conversa na rede.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/fransdiary.bsky.social/post/3mzo3myezpc2w",
       "createdAt": "2026-11-06T19:12:44.183000+00:00",
-      "rawScore": 0.028889917507827455,
-      "relevanceScore": 0.032099908342030505,
-      "suggestedRadius": 46.75,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.011103300671733386,
+      "relevanceScore": 0.009403715518867857,
+      "suggestedRadius": 41.82,
+      "imageUrl": "assets/images/bsky_3mzo3myezpc2w_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzo3myezpc2w_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sp",
       "sources": [
@@ -498,7 +505,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A piada funciona porque todo mundo que já conviveu com os dois sabe que o paulistano tem um jeito mais arrogante e apressado, enquanto o paulista do interior é mais tranquilo. A brincadeira é uma forma leve de reconhecer essas diferenças regionais sem levar a sério demais.",
+          "text": "O paulistano carrega um bairrismo que irrita: trata quem é do interior como caipira e acha que só a capital tem cultura. Quem nasceu no estado sente na pele esse desprezo no dia a dia, então a comparação pesa contra o paulistano.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -506,7 +513,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ficar comparando quem é pior só reforça estereótipo e rivalidade boba entre estado e capital. Quem nasce em São Paulo, seja na capital ou no interior, já ouve piada demais de fora, e essa disputa interna não ajuda em nada a entender os problemas reais da região.",
+          "text": "O paulista do interior também tem seu preconceito: olha o paulistano como alguém perdido no trânsito e sem raiz. A implicância vai nos dois sentidos, e culpar só um lado é simplificar uma rixa que existe há décadas entre capital e interior.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -514,7 +521,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A pergunta é engraçada, mas depende muito de quem responde: quem mora na capital vai defender o paulistano, quem é do interior vai defender o paulista. No fim, é mais uma brincadeira de identificação regional do que uma discussão com resposta certa.",
+          "text": "Essa brincadeira de paulista contra paulistano depende muito de quem fala: para quem é de fora, os dois soam parecidos, com os mesmos hábitos e o mesmo sotaque. A diferença aparece mais na convivência do que em qualquer característica objetiva.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -524,26 +531,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mztlvhfagc2w",
+      "id": "bsky_3mzomjhy54c2r",
       "rank": 10,
-      "title": "Alguém acha o sotaque paulistano sexy?",
-      "label": "Sotaque paulistano · Percepção de charme",
-      "context": "Um usuário do Bluesky perguntou se alguém considera o sotaque paulistano sexy. A pergunta gerou respostas bem-humoradas sobre o quanto esse sotaque é (ou não) visto como atraente.",
+      "title": "Paulistano de Maricá vai transferir o título de eleitor",
+      "label": "Transferência de título eleitoral · Maricá",
+      "context": "Um morador que se identifica como paulistano vivendo em Maricá, no Rio de Janeiro, anunciou que vai transferir o título de eleitor agora. A mudança de domicílio eleitoral define em qual cidade a pessoa vota nas próximas eleições.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
-      "permalink": "https://bsky.app/profile/kafkadepantufa.bsky.social/post/3mztlvhfagc2w",
-      "createdAt": "2026-11-08T23:47:12.183000+00:00",
-      "rawScore": 0.026522293543125325,
-      "relevanceScore": 0.029469215047917028,
-      "suggestedRadius": 46.3,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "permalink": "https://bsky.app/profile/vindibell.bsky.social/post/3mzomjhy54c2r",
+      "createdAt": "2026-11-07T00:15:06.390000+00:00",
+      "rawScore": 0.005446398592350261,
+      "relevanceScore": 0.004612716927968103,
+      "suggestedRadius": 40.08,
+      "imageUrl": "assets/images/bsky_3mzomjhy54c2r_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzomjhy54c2r_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sp",
       "sources": [
         {
-          "title": "sera que alguem acha sotaque paulistano sexy",
-          "url": "https://bsky.app/profile/kafkadepantufa.bsky.social/post/3mztlvhfagc2w",
+          "title": "Vou transferir meu titulo agoraaaaa. Paulistano de Maricá, rj",
+          "url": "https://bsky.app/profile/vindibell.bsky.social/post/3mzomjhy54c2r",
           "subreddit": "bsky_sp"
         }
       ],
@@ -551,7 +558,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O sotaque paulistano tem seu charme justamente por ser discreto e direto, sem exageros. Quem cresceu ouvindo acha natural, mas para quem vem de fora, esse jeito de falar pode soar autêntico e até sedutor.",
+          "text": "Transferir o título é o certo: quem mora em Maricá vota em Maricá, e não faz sentido continuar votando em São Paulo só porque nasceu lá. O domicílio eleitoral tem que acompanhar onde a pessoa realmente vive.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -559,7 +566,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Sotaque paulistano não costuma ser lembrado como sexy, e sim como neutro ou até meio sem graça. Comparado a outros sotaques brasileiros, ele passa despercebido e não desperta aquele interesse romântico.",
+          "text": "Mudar o título agora só faz sentido se a pessoa já se enxerga como moradora de Maricá de verdade. Transferir por impulso, sem pensar no peso de votar por uma cidade que não é a sua de origem, pode virar arrependimento.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -567,11 +574,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A pergunta em si já é curiosa porque ninguém costuma parar para pensar nisso. O sotaque paulistano varia muito conforme a região e a classe social, então falar em um único 'sotaque sexy' é simplificar demais.",
+          "text": "A transferência depende de prazo e de comprovação de vínculo com o município, então vale conferir as regras do cartório eleitoral antes de comemorar. Morar em Maricá não garante automaticamente que o pedido será aceito no prazo.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],

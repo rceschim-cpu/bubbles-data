@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T19:29:26.726534+00:00",
+  "generatedAt": "2026-11-12T06:29:13.508039+00:00",
   "region": "br-se",
   "count": 6,
   "items": [
@@ -7,8 +7,8 @@
       "id": "bsky_3mzypfelcbk24",
       "rank": 1,
       "title": "Prática de trancar vítimas e usar gás lacrimogêneo é ilegal, mas comum nas forças de segurança brasileiras",
-      "label": "Uso de gás e confinamento pela polícia",
-      "context": "Um post no Bluesky afirma que trancar pessoas em locais fechados e lançar spray de pimenta ou gás lacrimogêneo é uma prática ilegal, mas comum nas forças de segurança do Brasil, inclusive no treinamento de recrutas. A publicação denuncia a instituição como assassina e relaciona o método a casos de violência policial.",
+      "label": "Violência policial · Prática ilegal e treinamento",
+      "context": "Um post no Bluesky denuncia que trancar vítimas em locais fechados e jogar spray de pimenta ou gás lacrimogêneo é uma prática ilegal, mas comum nas forças de segurança brasileiras, inclusive no treinamento de recrutas. A denúncia ganha força com o comentário que menciona o caso de uma pessoa com esquizofrenia assassinada pela polícia, sugerindo que a vítima estaria em surto.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/coalacroata.bsky.social/post/3mzypfelcbk24",
@@ -31,15 +31,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A denúncia escancara um método cruel que a corporação usa até em treinamento: trancar pessoas e jogar gás é tortura, e chamar isso de prática comum mostra que a instituição naturalizou a violência contra quem deveria proteger.",
+          "text": "A denúncia escancara uma prática ilegal que virou rotina nas forças de segurança: trancar pessoas e jogar gás lacrimogêneo, inclusive em treinamento de recrutas. Isso precisa ser investigado e punido, porque não é excesso isolado, é método.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Jogar tudo no mesmo saco não ajuda: a postagem chama a instituição inteira de assassina, mas generalizar assim ignora que a maioria dos agentes segue protocolo e que casos isolados precisam ser investigados, não usados para condenar a corporação toda.",
+          "text": "Falar em 'instituição assassina' generaliza e não ajuda a resolver o problema. A polícia enfrenta situações de risco real e precisa de protocolos claros, não de linchamento moral. O caso citado, de pessoa em surto, deveria ser tratado como falha específica, não como prova de que toda a corporação é criminosa.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -47,7 +49,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O relato do comentário sobre uma pessoa em surto assassinada levanta outra questão: sem dados oficiais sobre quantas vezes esse tipo de abordagem acontece, fica difícil separar o que é treinamento padrão do que é abuso e cobrar mudanças concretas.",
+          "text": "O comentário sobre a pessoa com esquizofrenia assassinada levanta uma dúvida: quantos desses casos envolvem vítimas em crise de saúde mental? A prática de trancar e usar gás pode ser ainda mais grave quando a pessoa não tem condições de obedecer ou se proteger.",
           "source": "sintese",
           "evidence": [
             1
@@ -59,89 +61,28 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzzorl7xa22z",
+      "id": "bsky_3n22uj4vne2q2",
       "rank": 2,
-      "title": "Autor de Sergipe discute como fazer evento de quadrinhos no estado",
-      "label": "Evento de quadrinhos em Sergipe · fortalecimento da cena",
-      "context": "Um autor de Sergipe participou do FIQ (Festival Internacional de Quadrinhos) e trocou ideias sobre como realizar um evento de quadrinhos no estado. A proposta é vista como caminho para estimular autores e formar público, fortalecendo toda a cadeia de produção.",
+      "title": "Crise hídrica leva a racionamento em Aracaju e cancelamento de Ano Novo e festival de verão",
+      "label": "Racionamento em Aracaju · Crise hídrica",
+      "context": "A crise hídrica na região metropolitana de Aracaju levou à implantação de racionamento de água e ao cancelamento das festas de Ano Novo e do festival de verão. A medida afeta diretamente a população e o turismo local, que dependem desses eventos.",
       "source": "bluesky",
       "subreddit": "bsky_se",
-      "permalink": "https://bsky.app/profile/murilotov.bsky.social/post/3mzzorl7xa22z",
-      "createdAt": "2026-11-11T09:54:43.770000+00:00",
-      "rawScore": 0.2949805467428267,
-      "relevanceScore": 0.5038631075721581,
-      "suggestedRadius": 78.59,
-      "imageUrl": "assets/images/bsky_3mzzorl7xa22z_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzzorl7xa22z_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/masterfade.bsky.social/post/3n22uj4vne2q2",
+      "createdAt": "2026-11-11T21:10:37.182000+00:00",
+      "rawScore": 0.42995899077432187,
+      "relevanceScore": 0.6538391564960416,
+      "suggestedRadius": 84.52,
+      "imageUrl": "assets/images/bsky_3n22uj4vne2q2_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n22uj4vne2q2_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-se",
       "sources": [
         {
-          "title": "Final do fiq vi um autor de sergipe trocando ideia sobre como fazer um evento de quadrinhos no estado dele. Esse é um dos caminhos pra fortalecer a cena,tanto pra estimular autores quanto formar publico. Não é fácil, mas é uma iniciativa que ajuda toda a cadeia de produção",
-          "url": "https://bsky.app/profile/murilotov.bsky.social/post/3mzzorl7xa22z",
+          "title": "tudo normar: crise hídrica leva à implantação de racionamento na região metropolitana e ao cancelamento do ano novo e do festival de verão de aracaju g1.globo.com/se/sergipe/n...",
+          "url": "https://bsky.app/profile/masterfade.bsky.social/post/3n22uj4vne2q2",
           "subreddit": "bsky_se"
         },
-        {
-          "title": "O governo de Sergipe anunciou oficialmente o início do racionamento de água no estado em decorrência de crise hídrica causada pelo El Niño. Simplesmente não chove e temos reservatórios no mínimo.",
-          "url": "https://bsky.app/profile/linpjs.bsky.social/post/3mztbuzzxsk2d",
-          "subreddit": "bsky_se"
-        },
-        {
-          "title": "Governo de Sergipe anuncia racionamento de água culpando El Niño como se não tivesse uma desgraça há meses",
-          "url": "https://bsky.app/profile/jonathancrane.bsky.social/post/3mzwdhrcics2q",
-          "subreddit": "bsky_se"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Eventos de quadrinhos em estados fora do eixo Rio-São Paulo são fundamentais para revelar autores locais e criar público leitor. A iniciativa de Sergipe, mesmo com dificuldades, mostra que a cena pode se organizar e crescer com apoio da comunidade.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Fazer evento de quadrinhos em Sergipe é difícil enquanto o estado enfrenta crise hídrica e problemas de saneamento. Sem infraestrutura básica, qualquer iniciativa cultural fica comprometida e não atrai o público necessário.",
-          "source": "sintese",
-          "evidence": [
-            3,
-            5
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A ideia de um evento de quadrinhos é válida, mas depende de parcerias e recursos. Não basta querer: é preciso envolver editoras, artistas e poder público para que a cena se fortaleça de verdade e não seja só um evento isolado.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzyxylwxic2x",
-      "rank": 3,
-      "title": "Larguei tudo em Curitiba e to morando em Aracaju feliz da minha vida. Nunca mais volto pro sul",
-      "label": "",
-      "context": "",
-      "source": "bluesky",
-      "subreddit": "bsky_se",
-      "permalink": "https://bsky.app/profile/aquelabitt.bsky.social/post/3mzyxylwxic2x",
-      "createdAt": "2026-11-11T03:07:03.072000+00:00",
-      "rawScore": 0.26116729594679594,
-      "relevanceScore": 0.40129699549643993,
-      "suggestedRadius": 74.01,
-      "imageUrl": null,
-      "imageThumbUrl": "",
-      "category": "geopolitica",
-      "region": "br-se",
-      "sources": [
         {
           "title": "Larguei tudo em Curitiba e to morando em Aracaju feliz da minha vida. Nunca mais volto pro sul",
           "url": "https://bsky.app/profile/aquelabitt.bsky.social/post/3mzyxylwxic2x",
@@ -153,23 +94,118 @@
           "subreddit": "bsky_se"
         }
       ],
-      "opinions": [],
-      "enrichedBy": "",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O racionamento é uma medida necessária diante da crise hídrica. Melhor garantir o abastecimento básico do que manter eventos que consomem muita água e agravam a situação. A prioridade deve ser o consumo humano.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Cancelar o Ano Novo e o festival de verão prejudica a economia local e o turismo, que são fontes de renda para muita gente. O poder público deveria ter investido em infraestrutura hídrica antes de chegar a esse ponto.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A situação é preocupante, mas é preciso entender as causas da crise hídrica e cobrar soluções estruturais. O racionamento e os cancelamentos são emergenciais, mas não resolvem o problema de fundo.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mztbuzzxsk2d",
+      "rank": 3,
+      "title": "Governo de Sergipe anuncia racionamento de água por crise hídrica causada pelo El Niño",
+      "label": "Racionamento de água em Sergipe",
+      "context": "O governo de Sergipe anunciou oficialmente o início do racionamento de água no estado, atribuindo a medida à crise hídrica provocada pelo El Niño, com reservatórios em nível mínimo. A decisão afeta diretamente o abastecimento da população e levanta questionamentos sobre a gestão dos recursos hídricos e do saneamento no estado.",
+      "source": "bluesky",
+      "subreddit": "bsky_se",
+      "permalink": "https://bsky.app/profile/linpjs.bsky.social/post/3mztbuzzxsk2d",
+      "createdAt": "2026-11-08T20:48:01.879000+00:00",
+      "rawScore": 0.24708120352983032,
+      "relevanceScore": 0.4506416151132733,
+      "suggestedRadius": 76.28,
+      "imageUrl": "assets/images/bsky_3mztbuzzxsk2d_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mztbuzzxsk2d_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-se",
+      "sources": [
+        {
+          "title": "O governo de Sergipe anunciou oficialmente o início do racionamento de água no estado em decorrência de crise hídrica causada pelo El Niño. Simplesmente não chove e temos reservatórios no mínimo.",
+          "url": "https://bsky.app/profile/linpjs.bsky.social/post/3mztbuzzxsk2d",
+          "subreddit": "bsky_se"
+        },
+        {
+          "title": "Governo de Sergipe anuncia racionamento de água culpando El Niño como se não tivesse uma desgraça há meses",
+          "url": "https://bsky.app/profile/jonathancrane.bsky.social/post/3mzwdhrcics2q",
+          "subreddit": "bsky_se"
+        },
+        {
+          "title": "Final do fiq vi um autor de sergipe trocando ideia sobre como fazer um evento de quadrinhos no estado dele. Esse é um dos caminhos pra fortalecer a cena,tanto pra estimular autores quanto formar publico. Não é fácil, mas é uma iniciativa que ajuda toda a cadeia de produção",
+          "url": "https://bsky.app/profile/murilotov.bsky.social/post/3mzzorl7xa22z",
+          "subreddit": "bsky_se"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O racionamento é uma medida necessária diante da falta de chuvas e dos reservatórios no mínimo. O El Niño é um fenômeno climático real e o governo está sendo transparente ao anunciar oficialmente a situação, permitindo que a população se prepare.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A privatização da Deso destruiu o saneamento e agora a população sofre com falta de água. Nunca houve tantos problemas como agora, e culpar o El Niño esconde a má gestão e o abandono do sistema hídrico.",
+          "source": "sintese",
+          "evidence": [
+            3,
+            5
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O El Niño é um fator natural, mas a ação humana e a falta de verde em Aracaju agravam a crise. É preciso olhar para as causas estruturais, como a redução de áreas verdes e a gestão dos recursos, sem simplificar a culpa apenas no clima.",
+          "source": "sintese",
+          "evidence": [
+            6
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
       "promptVersion": 2
     },
     {
       "id": "bsky_3mzq3rdio4c23",
       "rank": 4,
       "title": "Chibança do PT da Bahia e banda de Sergipe em live",
-      "label": "Live sobre chibança do PT baiano",
-      "context": "Um locutor anunciou uma transmissão ao vivo a partir das 12h20 para falar sobre a chibança do PT da Bahia e de uma banda de Sergipe. O anúncio foi feito em tom debochado, prometendo abordar o assunto que, segundo ele, as pessoas tinham vergonha de perguntar.",
+      "label": "Chibança do PT baiano e banda sergipana",
+      "context": "Um locutor anunciou uma live para falar sobre a 'chibança' do PT da Bahia e de uma banda de Sergipe. O termo 'chibança' é usado de forma pejorativa para descrever comportamento pretensioso ou exibicionista.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/fsmcruz.bsky.social/post/3mzq3rdio4c23",
       "createdAt": "2026-11-07T14:20:36.295000+00:00",
-      "rawScore": 0.0775276420311285,
-      "relevanceScore": 0.08614182447903167,
-      "suggestedRadius": 53.61,
+      "rawScore": 0.10032143575033142,
+      "relevanceScore": 0.11146826194481269,
+      "suggestedRadius": 56.03,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -185,7 +221,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A live promete trazer à tona um assunto que muita gente evita comentar: a chibança do PT da Bahia e essa banda de Sergipe. Um locutor disposto a falar sem rodeios sobre o que os outros calam merece audiência.",
+          "text": "A live do locutor é uma oportunidade de expor a chibança do PT da Bahia e da banda de Sergipe, que agem com arrogância e se acham superiores. É bom que alguém fale disso abertamente, sem medo de criticar.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -193,7 +229,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O anúncio já entrega o tom: chamar de 'GRAVÍSSIMO' e prometer 'prosopopeias' soa mais como teatro do que informação. A chibança do PT baiano e a banda sergipana viram desculpa para um espetáculo de retórica vazia.",
+          "text": "Ficar falando da chibança dos outros é pura hipocrisia. O locutor só quer chamar atenção e criar polêmica gratuita, sem apresentar nada construtivo. Isso é desrespeitoso e não contribui para o debate público.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -201,7 +237,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A transmissão às 12h20 sobre a chibança do PT da Bahia e a banda de Sergipe ainda não disse a que veio. O tom debochado do anúncio pode ser só estilo, mas só assistindo para saber se sobra algo além de piada interna.",
+          "text": "O termo 'chibança' é vago e pode significar coisas diferentes para cada pessoa. Sem uma definição clara, a discussão corre o risco de virar apenas um exercício de opinião sem fundamento, e a live pode não acrescentar informação útil.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -214,15 +250,15 @@
       "id": "bsky_3mzt2t4hdz22f",
       "rank": 5,
       "title": "Aracaju está impraticável com sensação térmica de 35°C",
-      "label": "Calor extremo em Aracaju · 35°C",
-      "context": "Uma pessoa relatou que Aracaju está impraticável, com sensação térmica de 35°C, e que não consegue ficar fora do ar-condicionado. O relato se soma a comentários sobre outras cidades, como Fortaleza, e a alertas ligados ao El Niño.",
+      "label": "Calor extremo em Aracaju · Sensação de 35°C",
+      "context": "Uma pessoa relatou que Aracaju está impraticável, com sensação térmica de 35°C, e que não consegue ficar fora do ar-condicionado. O relato se soma a comentários sobre o calor em outras cidades, como Fortaleza, e a alertas ligados ao El Niño.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/anacarlaaa.bsky.social/post/3mzt2t4hdz22f",
       "createdAt": "2026-11-08T18:41:41.382000+00:00",
-      "rawScore": 0.037630214278750504,
-      "relevanceScore": 0.04181134919861167,
-      "suggestedRadius": 48.27,
+      "rawScore": 0.0452949257945872,
+      "relevanceScore": 0.05032769532731911,
+      "suggestedRadius": 49.46,
       "imageUrl": "assets/images/bsky_3mzt2t4hdz22f_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzt2t4hdz22f_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -238,7 +274,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O relato de Aracaju é só a ponta: com sensação térmica de 35°C, o ar-condicionado deixa de ser luxo e vira necessidade básica para trabalhar e dormir. Quem vive no Nordeste sabe que isso não é exagero, é rotina.",
+          "text": "O relato de Aracaju é real: com sensação térmica de 35°C, ninguém consegue ficar fora do ar-condicionado. O calor virou rotina em várias capitais do Nordeste, e quem vive isso sabe o quanto o dia a dia fica insuportável.",
           "source": "sintese",
           "evidence": [
             1
@@ -248,15 +284,17 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ficar preso ao ar-condicionado o dia inteiro não resolve nada e ainda aumenta o consumo de energia, que já é caro. O calor de Aracaju é forte, mas o problema real é a falta de ventilação e sombra nas cidades.",
+          "text": "Ficar dependente de ar-condicionado o tempo todo não é solução, é sintoma. O calor extremo em Aracaju e em Fortaleza deveria levar a cobrar arborização, sombra e planejamento urbano, em vez de só reclamar da temperatura.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O comentário sobre Fortaleza e o alerta de El Niño mostram que o calor extremo não é exclusividade de Aracaju. Vale acompanhar se essas ondas de calor vão se repetir em outras capitais antes de tratar o caso como algo isolado.",
+          "text": "O alerta de El Niño em Fortaleza mostra que o problema não é só Aracaju. A sensação de 35°C pode ser pontual, mas o padrão de calor extremo em várias cidades pede atenção ao que vem pela frente, sem exagerar num dia isolado.",
           "source": "sintese",
           "evidence": [
             1
@@ -272,7 +310,7 @@
       "rank": 6,
       "title": "Expressão 'pegou em pica' usada por amigos de Sergipe não é coisa boa",
       "label": "Gíria regional · 'Pegou em pica' em Sergipe",
-      "context": "Uma pessoa relata no Bluesky que amigos de Sergipe usam a expressão 'pegou em pica', mas avisa que não se trata de algo bom. O post compartilha uma gíria regional cujo significado negativo não é explicado, deixando o sentido em aberto para quem não conhece o termo.",
+      "context": "Uma pessoa relata que amigos de Sergipe usam a expressão 'pegou em pica', mas alerta que não é uma coisa boa. O comentário destaca uma gíria regional cujo significado negativo pode não ser óbvio para quem é de fora.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/blonde220.bsky.social/post/3mzoifsmmnc27",
@@ -295,7 +333,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Gírias regionais como essa mostram como a linguagem muda de estado para estado, e compartilhar o uso de amigos de Sergipe ajuda a registrar expressões que muita gente fora da região nunca ouviu.",
+          "text": "Gírias regionais como essa mostram como a linguagem brasileira é diversa, e entender o contexto de cada estado evita mal-entendidos. Meus amigos de Sergipe usam 'pegou em pica' naturalmente, e saber que não é algo bom ajuda a não usar errado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -303,7 +341,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Postar uma expressão regional avisando que 'não é uma coisa boa' sem explicar o que ela significa só gera confusão, porque quem não é de Sergipe fica sem entender o sentido e o contexto da gíria.",
+          "text": "A expressão 'pegou em pica' pode soar agressiva ou pejorativa para quem não conhece, e usá-la sem explicar o tom negativo pode ofender. Quem é de fora deveria evitar repetir sem saber o peso real que ela tem em Sergipe.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -311,7 +349,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O sentido de 'pegou em pica' depende de quem usa e da situação, então o alerta de que não é algo bom pode variar conforme o grupo; sem mais detalhes, fica difícil saber o que a expressão realmente quer dizer.",
+          "text": "O significado de 'pegou em pica' varia conforme a região e o grupo, e o alerta de que não é coisa boa já indica que a gíria carrega um julgamento. Sem mais exemplos de uso, fica difícil saber se é sempre negativo ou depende da situação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

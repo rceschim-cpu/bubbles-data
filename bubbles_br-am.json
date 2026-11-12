@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-11T19:29:26.726534+00:00",
+  "generatedAt": "2026-11-12T06:29:13.508039+00:00",
   "region": "br-am",
   "count": 10,
   "items": [
     {
       "id": "bsky_3n22jbwzgy22x",
       "rank": 1,
-      "title": "Manaus: vídeos sobre preços altos ignoram seca e custo de transporte",
+      "title": "Manaus: vídeos sobre preços altos ignoram impacto da seca no transporte",
       "label": "Preços em Manaus · Seca e logística",
-      "context": "Em Manaus, vídeos afirmando que 'está tudo caro' circularam sem mencionar a seca, que encarece o transporte de mercadorias vindas de fora. A discussão também lembra que parte da população desconhece a realidade local, como mostra o caso de uma empresária que nunca ocupou cargo público.",
+      "context": "Em Manaus, vídeos que dizem que 'está tudo caro' circularam nas redes, mas não mencionaram a seca, que encarece o transporte de produtos vindos de fora. A seca afeta diretamente o custo de vida na cidade, já que grande parte do que é consumido é trazida de outras regiões.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/milaleonel.bsky.social/post/3n22jbwzgy22x",
@@ -41,7 +41,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A seca encarece o transporte de tudo que chega a Manaus, então quem faz vídeo reclamando de preço sem citar esse fator está distorcendo a realidade e ignorando a causa principal do custo de vida.",
+          "text": "Quem faz vídeo reclamando de preço sem citar a seca está distorcendo a realidade. A taxa de seca encarece o frete de tudo que chega aqui, e ignorar isso é desonesto com quem precisa entender por que os preços subiram.",
           "source": "sintese",
           "evidence": [
             1
@@ -51,7 +51,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Falar de seca não resolve o problema de quem está pagando caro agora; a população sente no bolso e tem direito de reclamar sem precisar justificar cada aumento com fatores climáticos.",
+          "text": "A seca pode explicar parte da alta, mas não justifica tudo. O transporte é só um dos custos, e tem muito comerciante aproveitando para aumentar a margem. Falar só da seca parece desculpa para não cobrar transparência de quem vende.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -59,7 +59,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A seca é um fator real, mas o debate precisa incluir também a falta de fiscalização ambiental e a concentração de riqueza local, que agravam a situação e não aparecem nos vídeos.",
+          "text": "O problema é que a seca é um fator sazonal e imprevisível, mas os preços não voltam ao normal depois. Sem fiscalização e sem alternativa de transporte, o consumidor fica refém tanto do clima quanto da falta de concorrência.",
           "source": "sintese",
           "evidence": [
             3,
@@ -81,9 +81,9 @@
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/camarotedacpi.bsky.social/post/3mzvvokehds23",
       "createdAt": "2026-11-09T21:47:40.987000+00:00",
-      "rawScore": 0.32867942060832334,
-      "relevanceScore": 0.3105154322331613,
-      "suggestedRadius": 69.43,
+      "rawScore": 0.8124158210206432,
+      "relevanceScore": 0.767518846632941,
+      "suggestedRadius": 88.56,
       "imageUrl": "assets/images/bsky_3mzvvokehds23_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzvvokehds23_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -99,7 +99,71 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A prisão do marqueteiro mostra que a investigação está funcionando e que ninguém está acima da lei, mesmo trabalhando em campanha política. Se ele manipulou imagens da filha de Omar Aziz para acusar o pai de pedofilia, precisa responder por isso e pelo material encontrado no tablet.",
+          "text": "A prisão do marqueteiro é um alívio para o Amazonas: alguém que usou imagens da filha de Omar Aziz para acusá-lo de pedofilia e ainda guardava material de abuso infantil não pode ficar solto. A Justiça está fazendo o que precisa ser feito.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            11
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O PL precisa ser investigado como um todo, não só esse marqueteiro. Se olharem a ficha de cada filiado, o partido acaba. A legenda que prega deus, pátria e família é a mesma que abriga gente com esse tipo de acusação.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3,
+            4,
+            10
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A prisão em SP e o tablet apreendido em Manaus precisam ser explicados com clareza: como o material foi parar ali e qual a ligação com a campanha? Sem isso, o caso vira arma política e a sociedade fica sem entender o que realmente aconteceu.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            7
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n22p53nx5c2o",
+      "rank": 3,
+      "title": "Vazamento de gás em Manaus afetou vários bairros e teve pouco destaque no G1",
+      "label": "Vazamento em Manaus · Cobertura do G1",
+      "context": "Um vazamento de gás de grande porte afetou vários bairros de Manaus e foi noticiado no portal do G1. A comparação feita é com a cobertura de episódios menores no Rio e em São Paulo, que ganhariam mais destaque no portal.",
+      "source": "bluesky",
+      "subreddit": "bsky_am",
+      "permalink": "https://bsky.app/profile/felipete42.bsky.social/post/3n22p53nx5c2o",
+      "createdAt": "2026-11-11T19:33:47.278000+00:00",
+      "rawScore": 0.6100861332464833,
+      "relevanceScore": 0.5763706136936414,
+      "suggestedRadius": 81.55,
+      "imageUrl": "assets/images/bsky_3n22p53nx5c2o_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n22p53nx5c2o_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-am",
+      "sources": [
+        {
+          "title": "Recentemente teve um problema graúdo de vazamento de gás em Manaus, afetou vários bairros da cidade, a notícia tava na pqp do portal do G1. Se estoura uma lâmpada num poste do Rio e São Paulo, colocam entre as primeiras, isso quando não vira capa.",
+          "url": "https://bsky.app/profile/felipete42.bsky.social/post/3n22p53nx5c2o",
+          "subreddit": "bsky_am"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A crítica ao critério do G1 é justa: um vazamento que atinge vários bairros de Manaus merecia mais destaque do que uma lâmpada estourada em poste no Rio ou em São Paulo. O portal trata de forma desigual tragédias e incidentes conforme a região do país.",
           "source": "sintese",
           "evidence": [
             1
@@ -109,74 +173,19 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O PL precisa ser investigado como um todo, porque não é a primeira vez que alguém ligado ao partido se envolve em escândalo. Se olharem direitinho cada membro, o partido acaba, e essa história de atacar os outros com aquilo que faz é velha conhecida.",
+          "text": "O G1 noticiou o vazamento de Manaus, então não houve omissão. O que define o destaque é o alcance e o impacto imediato de cada fato, e comparar um vazamento com uma lâmpada queimada é forçar a barra para sustentar a tese de que existe boicote ao Norte.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A fumaça que aparece em Manaus também costuma render quase nada de cobertura, o que mostra que o problema é mais amplo do que um único vazamento. Vale acompanhar se a diferença de destaque entre regiões se repete em outros episódios antes de cravar a causa.",
           "source": "sintese",
           "evidence": [
-            2,
-            3,
-            4
+            1
           ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A prisão do marqueteiro é grave, mas é preciso separar a responsabilidade individual dele da candidata Maria do Carmo e do partido. A investigação tem que apurar quem sabia e quem se beneficiou, sem transformar o caso em julgamento antecipado de toda a campanha.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzzuyvrtr22v",
-      "rank": 3,
-      "title": "Vou tentar Manaus e Macapá porque quero muito ver vocês",
-      "label": "Turnê do artista por Manaus e Macapá",
-      "context": "O artista anunciou que vai tentar incluir Manaus e Macapá na sua turnê, dizendo que quer muito encontrar o público dessas cidades. O anúncio foi feito em uma postagem nas redes sociais, sem detalhes sobre datas ou locais confirmados.",
-      "source": "bluesky",
-      "subreddit": "bsky_am",
-      "permalink": "https://bsky.app/profile/apenasumchico.bsky.social/post/3mzzuyvrtr22v",
-      "createdAt": "2026-11-11T11:46:09.671000+00:00",
-      "rawScore": 0.18560691638777158,
-      "relevanceScore": 0.17534962110175273,
-      "suggestedRadius": 61.12,
-      "imageUrl": "assets/images/bsky_3mzzuyvrtr22v_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzzuyvrtr22v_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-am",
-      "sources": [
-        {
-          "title": "Vou tentar MANAUS e MACAPÁ pq quero muito ver vcs...",
-          "url": "https://bsky.app/profile/apenasumchico.bsky.social/post/3mzzuyvrtr22v",
-          "subreddit": "bsky_am"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Manaus e Macapá finalmente entram no radar de uma turnê nacional, e isso importa para quem mora no Norte e costuma ficar de fora dos roteiros. O artista dizer que vai tentar já é um sinal de que o público da região está sendo levado a sério.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Dizer que 'vai tentar' é fácil; o que vale é data marcada e show confirmado. Quem mora em Manaus ou Macapá já cansou de ver anúncio animado que depois vira silêncio, e a postagem não traz nenhuma informação concreta sobre quando ou onde seria.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A postagem é só um aviso de intenção, sem data, local ou ingresso definido. Antes de comemorar ou cobrar, faz sentido esperar a confirmação oficial da produção, porque a logística de levar estrutura para essas duas capitais costuma ser o que decide se o show acontece.",
-          "source": "sintese",
-          "evidence": [],
           "votes": 0
         }
       ],
@@ -187,15 +196,15 @@
       "id": "bsky_3mzys6glsc224",
       "rank": 4,
       "title": "GPS com alerta de neve na pista em Manaus, AM",
-      "label": "GPS alerta neve em Manaus",
-      "context": "Um usuário publicou uma foto do GPS mostrando um alerta de neve na pista, em Manaus, Amazonas. O alerta é incomum porque Manaus tem clima tropical e não neva na região.",
+      "label": "Alerta de neve no GPS em Manaus",
+      "context": "Um usuário publicou uma imagem de um GPS exibindo um alerta de neve na pista, com localização marcada em Manaus, Amazonas. O episódio gerou comentários sobre a improbabilidade de neve na região e sobre a qualidade dos dados do aplicativo.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/vagyfaly.bsky.social/post/3mzys6glsc224",
       "createdAt": "2026-11-11T01:22:54.679000+00:00",
-      "rawScore": 0.1785243348571856,
-      "relevanceScore": 0.16865844810033356,
-      "suggestedRadius": 60.64,
+      "rawScore": 0.3547695511777266,
+      "relevanceScore": 0.3351637298229031,
+      "suggestedRadius": 70.74,
       "imageUrl": "assets/images/bsky_3mzys6glsc224_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzys6glsc224_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -211,7 +220,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O GPS só está tentando ajudar, mesmo que o alerta de neve em Manaus pareça absurdo. A tecnologia erra, mas a intenção é avisar sobre condições adversas, e isso é melhor do que não avisar nada.",
+          "text": "O GPS está mostrando um alerta de neve em Manaus, o que é completamente sem sentido para a região. Isso mostra que os dados do aplicativo não são confiáveis e podem levar os motoristas a erros perigosos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -219,7 +228,62 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Um GPS que alerta neve em Manaus é um exemplo de como esses sistemas são mal calibrados para a realidade brasileira. Em vez de ajudar, o alerta confunde o motorista e mostra que os dados não foram ajustados para a região.",
+          "text": "A explicação mais plausível é que o GPS confundiu as cinzas dos incêndios florestais com neve. Com tantas queimadas na Amazônia, partículas no ar podem enganar os sensores, e o aplicativo precisa melhorar esse tipo de detecção.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O caso do alerta de neve em Manaus é curioso, mas pode ser apenas um erro isolado do sistema. Seria útil verificar se outros usuários relataram o mesmo problema antes de concluir que o aplicativo é falho.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzzuyvrtr22v",
+      "rank": 5,
+      "title": "Vou tentar Manaus e Macapá porque quero muito ver vocês",
+      "label": "Turnê em Manaus e Macapá",
+      "context": "O artista anunciou que vai tentar incluir Manaus e Macapá em sua turnê, dizendo que quer muito ver o público dessas cidades. O anúncio foi feito em uma postagem no Bluesky, sem detalhes sobre datas ou locais.",
+      "source": "bluesky",
+      "subreddit": "bsky_am",
+      "permalink": "https://bsky.app/profile/apenasumchico.bsky.social/post/3mzzuyvrtr22v",
+      "createdAt": "2026-11-11T11:46:09.671000+00:00",
+      "rawScore": 0.27617874090479533,
+      "relevanceScore": 0.2609161259531899,
+      "suggestedRadius": 66.65,
+      "imageUrl": "assets/images/bsky_3mzzuyvrtr22v_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzzuyvrtr22v_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-am",
+      "sources": [
+        {
+          "title": "Vou tentar MANAUS e MACAPÁ pq quero muito ver vcs...",
+          "url": "https://bsky.app/profile/apenasumchico.bsky.social/post/3mzzuyvrtr22v",
+          "subreddit": "bsky_am"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Manaus e Macapá finalmente estão no radar de uma turnê nacional. O público do Norte merece esse reconhecimento, e a iniciativa de tentar incluir as duas capitais mostra respeito com quem sempre ficou de fora dos grandes circuitos.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Ficar só no 'vou tentar' não garante nada. Shows em Manaus e Macapá envolvem custos altos de logística e produção, e muitas promessas do tipo acabam não se concretizando. O público merece confirmação, não intenção.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -227,11 +291,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "As cinzas dos incêndios que se acumulam na atmosfera podem ser confundidas com neve por sensores ópticos, o que explicaria o alerta. O erro do GPS pode ter uma causa ambiental concreta, não apenas um bug.",
+          "text": "A intenção é boa, mas depende de viabilidade técnica e financeira. Levar estrutura de turnê para a região Norte é complexo, e o anúncio ainda é vago. Só com datas e locais definidos dá para avaliar se o projeto sai do papel.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -240,17 +302,17 @@
     },
     {
       "id": "bsky_3mzyeyiohfk2e",
-      "rank": 5,
-      "title": "Usuário confunde local com o Largo de São Sebastião em Manaus",
-      "label": "Confusão com o Largo de São Sebastião",
-      "context": "Um usuário do Bluesky publicou que, por um instante, achou que um determinado local fosse o Largo de São Sebastião, em Manaus. A publicação foi feita em tom de brincadeira, sem indicar qual lugar aparecia na imagem ou no vídeo.",
+      "rank": 6,
+      "title": "Por um breve instante achei que fosse o Largo de São Sebastião em Manaus kkk",
+      "label": "Confusão com Largo de São Sebastião",
+      "context": "Um usuário do Bluesky confundiu uma imagem com o Largo de São Sebastião, em Manaus, e compartilhou a confusão em tom de brincadeira. A postagem gerou identificação em quem já passou por situação parecida ao reconhecer lugares por fotos.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/sertr4linda.bsky.social/post/3mzyeyiohfk2e",
       "createdAt": "2026-11-10T21:26:57.974000+00:00",
-      "rawScore": 0.10623875162930144,
-      "relevanceScore": 0.1003676221073654,
-      "suggestedRadius": 55.01,
+      "rawScore": 0.21549030493339807,
+      "relevanceScore": 0.20358154780304294,
+      "suggestedRadius": 63.07,
       "imageUrl": "assets/images/bsky_3mzyeyiohfk2e_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzyeyiohfk2e_uns_thumb.jpg",
       "category": "geopolitica",
@@ -266,7 +328,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Largo de São Sebastião é um cartão-postal de Manaus, com o Teatro Amazonas ali do lado, então é natural que qualquer praça parecida lembre ele. A confusão mostra como esse ponto da cidade está na cabeça de quem já passou por lá.",
+          "text": "Achar que é o Largo de São Sebastião é super compreensível, porque o lugar tem um estilo arquitetônico que lembra outros cartões-postais. Essas confusões mostram como Manaus tem pontos turísticos marcantes que ficam na memória.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -274,7 +336,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Comparar qualquer lugar com o Largo de São Sebastião é forçar a barra, porque o largo tem o Teatro Amazonas como referência e não se confunde assim tão fácil. Sem saber que lugar era, a piada fica sem graça e só gera dúvida.",
+          "text": "Confundir o Largo de São Sebastião com outro lugar é um erro que revela como as pessoas prestam pouca atenção aos detalhes da própria cidade. Quem conhece bem Manaus não faria essa associação tão rápido.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -282,7 +344,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Sem saber qual local aparecia na publicação, fica difícil dizer se a semelhança com o Largo de São Sebastião faz sentido. A postagem é só uma brincadeira rápida, e o próprio autor não explicou o que estava vendo.",
+          "text": "A confusão depende do ângulo da foto e do contexto, porque sem uma referência clara qualquer lugar parece outro. O jeito é rir da situação e aproveitar para conhecer melhor os pontos turísticos da cidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -293,17 +355,17 @@
     },
     {
       "id": "bsky_3mzyarhkkcc2f",
-      "rank": 6,
+      "rank": 7,
       "title": "Umidade de Manaus faz mulher alisar o cabelo; xampu recomendado no salão dispensa alisamento",
       "label": "Xampu contra frizz em Manaus",
-      "context": "Uma mulher de Manaus contou que fazia alisamento por causa do frizz causado pela umidade da cidade, mas um xampu recomendado no salão fez com que ela não precisasse mais alisar. A história viralizou e gerou interesse de outras pessoas que enfrentam o mesmo problema.",
+      "context": "Uma pessoa relatou que, por causa da umidade de Manaus, fazia alisamento para controlar o frizz, até que um salão recomendou um xampu e ela deixou de alisar. O relato viralizou e gerou interesse de outras pessoas que enfrentam o mesmo problema.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/taitaidra.bsky.social/post/3mzyarhkkcc2f",
       "createdAt": "2026-11-10T20:11:25.987000+00:00",
-      "rawScore": 0.10150563519796837,
-      "relevanceScore": 0.09589607444622764,
-      "suggestedRadius": 54.58,
+      "rawScore": 0.2082545061497767,
+      "relevanceScore": 0.19674562487641148,
+      "suggestedRadius": 62.61,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -319,7 +381,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A umidade de Manaus é um desafio real para quem tem cabelo cacheado ou ondulado, e um xampu que resolve o frizz sem alisamento é uma solução prática e menos agressiva. Vou comprar para testar, porque o relato parece honesto e mostra que funciona.",
+          "text": "O xampu resolveu o frizz sem precisar de alisamento, e isso é uma solução prática para quem sofre com a umidade de Manaus. Se funcionou para ela, pode funcionar para outras pessoas.",
           "source": "sintese",
           "evidence": [
             1
@@ -329,7 +391,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Xampu nenhum substitui um bom alisamento para quem sofre com frizz em Manaus. Essa história parece exagero ou propaganda disfarçada, e duvido que funcione em todos os tipos de cabelo. Prefiro continuar com o alisamento que já conheço.",
+          "text": "Indicar xampu sem saber o tipo de cabelo e a causa do frizz é arriscado. O que funcionou para uma pessoa pode não funcionar para outra, e o relato não traz detalhes sobre o produto.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -337,7 +399,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O resultado pode variar muito de pessoa para pessoa, dependendo do tipo de cabelo e da rotina de cuidados. O relato é interessante, mas vale testar com cautela e ver se o xampu realmente entrega o que promete antes de abandonar o alisamento.",
+          "text": "A umidade de Manaus realmente intensifica o frizz, mas a eficácia do xampu depende do cabelo de cada um. Vale testar com cautela e observar os resultados antes de abandonar o alisamento.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -348,17 +410,17 @@
     },
     {
       "id": "bsky_3mzyg5bw4ks2e",
-      "rank": 7,
-      "title": "Jacques veio à Amazônia em 1982 e teria se envolvido com pessoas em Manaus",
+      "rank": 8,
+      "title": "Jacques veio à Amazônia em 1982 e teria se envolvido com várias pessoas em Manaus",
       "label": "Jacques na Amazônia · Parentesco e boatos",
-      "context": "Um post afirma que Jacques veio à Amazônia em 1982 e que teria se envolvido com várias pessoas em Manaus. A dúvida levantada é se existe parentesco entre ele e alguém, e um comentário diz que uma pessoa conhecida trabalhou embarcada com Jacques.",
+      "context": "Um post no Bluesky afirma que Jacques veio para a Amazônia em 1982 e teria se envolvido romanticamente com várias pessoas em Manaus. A publicação questiona se haveria parentesco e brinca com o fato de ele ser francês.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/luipoa.bsky.social/post/3mzyg5bw4ks2e",
       "createdAt": "2026-11-10T21:47:30.883000+00:00",
-      "rawScore": 0.08489289204677017,
-      "relevanceScore": 0.0802014102940718,
-      "suggestedRadius": 52.99,
+      "rawScore": 0.16784894626660213,
+      "relevanceScore": 0.1585730192763239,
+      "suggestedRadius": 59.89,
       "imageUrl": "assets/images/bsky_3mzyg5bw4ks2e_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzyg5bw4ks2e_uns_thumb.jpg",
       "category": "geopolitica",
@@ -374,7 +436,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O relato de que o pai de uma conhecida trabalhou embarcado com o Jacques mostra que ele realmente esteve na região e conviveu com moradores locais. Isso reforça a história de que ele passou pela Amazônia e teve contato com a comunidade.",
+          "text": "A história faz sentido: meu pai trabalhou embarcado com o Jacques e sempre contava casos de como ele era sociável e conquistador em Manaus. Se ele veio em 1982, é bem provável que tenha deixado contatos e até parentes por aqui.",
           "source": "sintese",
           "evidence": [
             1
@@ -384,7 +446,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Falar que ele 'passou o rodo em Manaus' é um boato sem prova, e o comentário sobre trabalho embarcado não confirma nada sobre relacionamentos. Espalhar esse tipo de história sem fonte só prejudica a imagem dele e das pessoas envolvidas.",
+          "text": "Essa história de 'passou o rodo' é exagero e não passa de boato. Trabalho com alguém que conhece o Jacques e nunca ouviu falar de envolvimento amoroso, muito menos de parentesco. Ficar repetindo isso só espalha desinformação sobre a vida pessoal dele.",
           "source": "sintese",
           "evidence": [
             1
@@ -394,7 +456,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A pergunta sobre parentesco ainda não tem resposta clara: o comentário só confirma que uma pessoa trabalhou com Jacques, mas não diz se há vínculo familiar. Seria preciso mais informação para saber se a história de 1982 tem relação com a família mencionada.",
+          "text": "A ligação com o Jacques existe, já que meu colega de trabalho teve o pai embarcado com ele, mas isso não prova parentesco nem os casos em Manaus. A brincadeira do post é engraçada, mas fica só na especulação sem documento ou testemunho direto.",
           "source": "sintese",
           "evidence": [
             1
@@ -407,7 +469,7 @@
     },
     {
       "id": "bsky_3mzwfnws65k2n",
-      "rank": 8,
+      "rank": 9,
       "title": "Você vai ser pedida em casamento durante o show da Bruna Karla no Sou Manaus",
       "label": "Pedido de casamento em show · Bruna Karla",
       "context": "Um post no Bluesky afirma que você vai ser pedida em casamento durante o show da Bruna Karla no evento Sou Manaus. A publicação viralizou e gerou expectativa sobre um possível pedido público durante a apresentação.",
@@ -415,9 +477,9 @@
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/zecapagodinhe.bsky.social/post/3mzwfnws65k2n",
       "createdAt": "2026-11-10T02:33:37.983000+00:00",
-      "rawScore": 0.07233865236911734,
-      "relevanceScore": 0.06834096234558118,
-      "suggestedRadius": 51.69,
+      "rawScore": 0.164440478149008,
+      "relevanceScore": 0.155352915173582,
+      "suggestedRadius": 59.65,
       "imageUrl": "assets/images/bsky_3mzwfnws65k2n_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzwfnws65k2n_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -433,7 +495,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Um pedido de casamento no show da Bruna Karla, em Manaus, é uma surpresa emocionante e romântica. A combinação de música gospel com um momento tão pessoal torna a ocasião ainda mais especial para quem está no evento.",
+          "text": "Um pedido de casamento no show da Bruna Karla, no Sou Manaus, é uma forma emocionante de celebrar o amor em um momento de fé e música. A combinação de um evento gospel com um pedido público torna a ocasião ainda mais especial e memorável para o casal.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -441,7 +503,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Fazer um pedido de casamento durante o show da Bruna Karla, no Sou Manaus, expõe o casal a uma situação constrangedora. O momento é íntimo e não deveria ser compartilhado com milhares de pessoas sem o consentimento da outra parte.",
+          "text": "Pedidos de casamento em shows podem ser constrangedores para quem está assistindo, pois tiram o foco da apresentação e podem parecer uma busca por atenção. Além disso, a pessoa surpreendida pode se sentir pressionada a aceitar em público.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -449,7 +511,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O pedido de casamento no show da Bruna Karla, no Sou Manaus, pode ser visto como uma surpresa ou uma exposição desnecessária. Tudo depende do combinado entre o casal e do quanto ambos se sentem à vontade com a plateia.",
+          "text": "A reação a um pedido de casamento durante o show da Bruna Karla no Sou Manaus depende do contexto: se for algo planejado e consentido, pode ser bonito; mas se for uma surpresa sem combinação prévia, pode gerar desconforto. O ideal é que ambos estejam confortáveis com a situação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -460,17 +522,17 @@
     },
     {
       "id": "bsky_3mzy5ixw3lc2f",
-      "rank": 9,
+      "rank": 10,
       "title": "Comida manauara está competindo com a baiana no coração",
       "label": "Culinária manauara · Comparação com a baiana",
-      "context": "Uma pessoa publicou no Bluesky que a comida manauara está competindo com a baiana em sua preferência. A declaração destaca a culinária de Manaus como uma forte concorrente à baiana, tradicionalmente muito valorizada.",
+      "context": "Uma pessoa publicou no Bluesky que a comida manauara está competindo com a baiana no seu coração. A declaração destaca a culinária de Manaus em uma comparação afetiva com a tradição baiana.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/naosouarutinha.bsky.social/post/3mzy5ixw3lc2f",
       "createdAt": "2026-11-10T19:13:00.379000+00:00",
-      "rawScore": 0.07084440356450802,
-      "relevanceScore": 0.06692929101986085,
-      "suggestedRadius": 51.52,
+      "rawScore": 0.1417476460796894,
+      "relevanceScore": 0.1339141693416789,
+      "suggestedRadius": 57.96,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -486,7 +548,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A comida manauara merece esse reconhecimento. Pratos como tacacá, tucumã e tambaqui têm sabores únicos que conquistam qualquer um, e é ótimo ver alguém colocando nossa culinária no mesmo patamar da baiana.",
+          "text": "A comida manauara merece esse reconhecimento, porque tem sabores únicos como o tacacá e o tambaqui que conquistam qualquer um. É justo ver a culinária do Amazonas ganhando espaço e sendo comparada com a baiana.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -494,7 +556,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A culinária baiana tem uma história e uma identidade muito mais consolidadas, com o dendê e o acarajé reconhecidos no mundo todo. Dizer que a manauara está competindo é exagero; cada uma tem seu valor, mas a baiana ainda é imbatível.",
+          "text": "A comida baiana ainda é imbatível, com acarajé, moqueca e vatapá que são patrimônio nacional. Dizer que a manauara está competindo é exagero, pois a tradição baiana tem raízes muito mais fortes.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -502,68 +564,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Cada região tem sua riqueza gastronômica e é natural que quem prova pratos novos se encante. A comparação depende muito do paladar e das experiências de cada um; não precisa haver vencedor, o importante é valorizar a diversidade.",
+          "text": "Cada culinária tem seu valor e é difícil comparar, porque a baiana tem uma história de resistência e a manauara tem ingredientes amazônicos únicos. O gosto pessoal varia e não precisa haver competição.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzr37ir5522w",
-      "rank": 10,
-      "title": "Primeira vez em Manaus e impactada com o cinema nacional construindo seu imaginário sobre o Norte",
-      "label": "Cinema nacional e imaginário sobre o Norte",
-      "context": "Uma pessoa relatou no Bluesky que visitou Manaus pela primeira vez e ficou impactada com a forma como o cinema nacional construiu seu imaginário sobre o Norte do país. O comentário destaca a força das produções brasileiras em criar expectativas sobre a região antes mesmo da visita.",
-      "source": "bluesky",
-      "subreddit": "bsky_am",
-      "permalink": "https://bsky.app/profile/naosouarutinha.bsky.social/post/3mzr37ir5522w",
-      "createdAt": "2026-11-07T23:43:18.678000+00:00",
-      "rawScore": 0.04819760467365654,
-      "relevanceScore": 0.04553403441001593,
-      "suggestedRadius": 48.8,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-am",
-      "sources": [
-        {
-          "title": "Primeira vez em Manaus e impactada em como o cinema nacional construiu perfeitamente meu imaginário sobre o Norte do país. Eu amo demais ser brasileira.",
-          "url": "https://bsky.app/profile/naosouarutinha.bsky.social/post/3mzr37ir5522w",
-          "subreddit": "bsky_am"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O cinema nacional acerta ao retratar o Norte e ajuda a criar um imaginário afetivo sobre a região. Quem cresce vendo essas produções chega a Manaus com uma conexão que dificilmente teria de outra forma.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A comida foi o destaque da viagem, não o cinema. O imaginário construído por filmes pode até ser bonito, mas a experiência real é outra, e o comentário mostra que o que marcou mesmo foi a culinária local.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A relação entre cinema e imaginário é válida, mas a experiência de quem já foi a Manaus a trabalho mostra que a comida e o contato direto pesam mais do que a expectativa criada por filmes.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
           "votes": 0
         }
       ],

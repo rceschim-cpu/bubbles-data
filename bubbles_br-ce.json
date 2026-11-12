@@ -1,74 +1,21 @@
 {
-  "generatedAt": "2026-11-11T19:29:26.726534+00:00",
+  "generatedAt": "2026-11-12T06:29:13.508039+00:00",
   "region": "br-ce",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n225nblqck2n",
-      "rank": 1,
-      "title": "O CV que está cobrando pela água no Ceará aprendeu com a milícia do Rio",
-      "label": "CV cobra pela água no Ceará · influência da milícia do Rio",
-      "context": "O CV está cobrando pelo acesso à água no Ceará, segundo reportagem de Cecilia Olliveira. A reportagem afirma que essa prática foi aprendida com a milícia do Rio de Janeiro.",
-      "source": "bluesky",
-      "subreddit": "bsky_ce",
-      "permalink": "https://bsky.app/profile/cecillia.com.br/post/3n225nblqck2n",
-      "createdAt": "2026-11-11T14:20:46.082000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3n225nblqck2n_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n225nblqck2n_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ce",
-      "sources": [
-        {
-          "title": "O CV que está cobrando pela água no Ceará aprendeu com a milícia do Rio - Como isso aconteceu? Explico aqui: ceciliaolliveira.substack.com/p/o-cv-que-c...",
-          "url": "https://bsky.app/profile/cecillia.com.br/post/3n225nblqck2n",
-          "subreddit": "bsky_ce"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A reportagem de Cecilia Olliveira expõe uma conexão importante entre a cobrança pela água no Ceará e as milícias do Rio, mostrando como práticas criminosas se espalham e afetam a população mais pobre.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Essa história de que o CV aprendeu com a milícia do Rio parece exagero. O CV sempre atuou de forma independente no Ceará, e cobrar pela água é uma prática local, não importada.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A reportagem levanta um ponto interessante sobre a influência das milícias, mas é preciso mais evidências para afirmar que o CV copiou o modelo do Rio. A cobrança pela água pode ter raízes próprias.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3mzxtlwopr22n",
-      "rank": 2,
+      "rank": 1,
       "title": "Nordestina relata pergunta sobre internet no Ceará em entrevista de mestrado na UFMG",
-      "label": "Estereótipo nordestino · Relato na UFMG",
-      "context": "Uma pessoa aprovada com a maior nota no mestrado da UFMG em 2019 relatou que, ao chegar em Minas Gerais, foi questionada se tinha internet em casa no Ceará. O episódio gerou discussão sobre estereótipos regionais e desinformação sobre o Nordeste.",
+      "label": "Estereótipo nordestino · Relato de xenofobia na UFMG",
+      "context": "Uma pessoa aprovada com a maior nota no mestrado da UFMG em 2019 relatou que, ao chegar em Minas Gerais, foi questionada se tinha internet em casa no Ceará. O episódio gerou discussão sobre estereótipos e desinformação em relação ao Nordeste.",
       "source": "bluesky",
       "subreddit": "bsky_ce",
       "permalink": "https://bsky.app/profile/cuscuzero.gay/post/3mzxtlwopr22n",
       "createdAt": "2026-11-10T16:15:41.487000+00:00",
-      "rawScore": 0.5097032999531695,
-      "relevanceScore": 0.9645718289183725,
-      "suggestedRadius": 94.93,
+      "rawScore": 0.6861382617248242,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
       "imageUrl": "assets/images/bsky_3mzxtlwopr22n_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzxtlwopr22n_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -94,7 +41,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A pergunta revela um preconceito real e ignorante, e a raiva é justificada porque o Nordeste é retratado de forma estereotipada pela mídia e pelo senso comum. Quem passou por isso sabe o quanto é humilhante.",
+          "text": "A reação de revolta é justa: quem passou com a maior nota na prova não deveria ter que provar que tem internet em casa. Esse tipo de pergunta revela um preconceito que precisa ser exposto e combatido, não passado pano.",
           "source": "sintese",
           "evidence": [
             1,
@@ -106,18 +53,18 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A reação de raiva é compreensível, mas generalizar o Sudeste como burro ou preconceituoso não ajuda. O problema é a falta de informação, não as pessoas da região, e é preciso dialogar em vez de atacar.",
+          "text": "A pergunta pode ter sido só uma tentativa desajeitada de puxar assunto, sem maldade. Ficar com raiva e taxar de xenofobia pode ser exagero, já que muita gente no Sudeste realmente não sabe como é a vida no Nordeste por falta de informação, não por preconceito.",
           "source": "sintese",
           "evidence": [
-            2,
-            14
+            11,
+            13
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O episódio mostra como a mídia constrói uma imagem limitada das regiões, mas também é preciso considerar que a pergunta pode ter sido apenas desinformação, não maldade. O diálogo e a informação são o caminho.",
+          "text": "O problema é a mídia, que insiste em mostrar o Nordeste só como seca e miséria. Enquanto a Globo e outras emissoras não mostrarem a diversidade da região, esses estereótipos vão continuar, e as pessoas vão continuar fazendo perguntas ignorantes sem nem perceber.",
           "source": "sintese",
           "evidence": [
             5,
@@ -130,26 +77,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n226goujbk2s",
-      "rank": 3,
-      "title": "Rajadas de vento de até 100 km/h no Ceará e chuvas fortes no Pará",
-      "label": "Ventos de 100 km/h no Ceará · Chuvas no Pará",
-      "context": "O Ceará registra rajadas de vento de até 100 km/h, enquanto o Pará enfrenta chuvas fortes, segundo alerta divulgado em 11 de novembro de 2026. A combinação de ventos intensos e precipitação pode causar transtornos como quedas de árvores e alagamentos nas áreas afetadas.",
+      "id": "bsky_3n23meyi7w22j",
+      "rank": 2,
+      "title": "Elmano é o irmão mais velho do El Niño, então se está ruim agora, ano que vem será pior",
+      "label": "Elmano e El Niño · previsão de piora",
+      "context": "Uma publicação no Bluesky afirma que Elmano é o irmão mais velho do El Niño, sugerindo que as condições atuais estão ruins e que no ano seguinte serão piores. A comparação usa o nome do governador do Ceará, Elmano de Freitas, como um trocadilho com o fenômeno climático El Niño.",
       "source": "bluesky",
       "subreddit": "bsky_ce",
-      "permalink": "https://bsky.app/profile/contagemcorona1.bsky.social/post/3n226goujbk2s",
-      "createdAt": "2026-11-11T14:34:58.372000+00:00",
-      "rawScore": 0.39075350362538425,
-      "relevanceScore": 0.43265985196358564,
-      "suggestedRadius": 75.47,
-      "imageUrl": "assets/images/bsky_3n226goujbk2s_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n226goujbk2s_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/cintiapudim.bsky.social/post/3n23meyi7w22j",
+      "createdAt": "2026-11-12T04:17:13.074000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 0.8603656378485922,
+      "suggestedRadius": 91.65,
+      "imageUrl": "assets/images/bsky_3n23meyi7w22j_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n23meyi7w22j_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-ce",
       "sources": [
         {
-          "title": "🔴 Rajadas de vento de até 100km/h no Ceará e chuvas fortes no Pará. Acompanhe ⬇️ www.meteored.com.br/noticias/act...",
-          "url": "https://bsky.app/profile/contagemcorona1.bsky.social/post/3n226goujbk2s",
+          "title": "Pra quem não sabe, Elmano é o irmão mais velho do el niño, ou seja, se tá ruim agora, ano que vem será PIOR!",
+          "url": "https://bsky.app/profile/cintiapudim.bsky.social/post/3n23meyi7w22j",
           "subreddit": "bsky_ce"
         }
       ],
@@ -157,7 +104,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A divulgação antecipada desses alertas meteorológicos é fundamental para que a população se prepare e evite riscos, especialmente em regiões costeiras do Ceará onde os ventos podem ser ainda mais fortes.",
+          "text": "A piada faz sentido porque o El Niño já causa seca e calor extremo no Ceará, e se o Elmano for o irmão mais velho, a tendência é realmente piorar. O governador tem que se preparar para o que vem por aí.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -165,7 +112,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A intensidade desses fenômenos preocupa, mas a infraestrutura de muitas cidades cearenses e paraenses não está preparada para suportar ventos de 100 km/h e chuvas volumosas, o que pode agravar os danos.",
+          "text": "Ficar fazendo piada com o nome do governador não resolve nada. O problema é a falta de políticas públicas para lidar com a seca, e não um trocadilho com El Niño. A população precisa de ação, não de meme.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -173,7 +120,60 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "É preciso acompanhar as atualizações dos órgãos oficiais, pois a previsão pode mudar e a intensidade dos ventos e chuvas varia conforme a região, exigindo cuidados específicos para cada localidade.",
+          "text": "A comparação é criativa, mas é só uma brincadeira. O El Niño é um fenômeno climático e o Elmano é o governador; misturar os dois pode confundir as pessoas sobre o que realmente está acontecendo com o clima.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n225nblqck2n",
+      "rank": 3,
+      "title": "O CV que está cobrando pela água no Ceará aprendeu com a milícia do Rio",
+      "label": "CV cobra pela água no Ceará · influência de milícia",
+      "context": "O Comando Vermelho (CV) está cobrando pelo acesso à água no Ceará, segundo reportagem de Cecilia Olliveira. A prática, conforme a publicação, foi aprendida com a milícia do Rio de Janeiro.",
+      "source": "bluesky",
+      "subreddit": "bsky_ce",
+      "permalink": "https://bsky.app/profile/cecillia.com.br/post/3n225nblqck2n",
+      "createdAt": "2026-11-11T14:20:46.082000+00:00",
+      "rawScore": 0.7620127983337945,
+      "relevanceScore": 0.7271487821318228,
+      "suggestedRadius": 87.16,
+      "imageUrl": "assets/images/bsky_3n225nblqck2n_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n225nblqck2n_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ce",
+      "sources": [
+        {
+          "title": "O CV que está cobrando pela água no Ceará aprendeu com a milícia do Rio - Como isso aconteceu? Explico aqui: ceciliaolliveira.substack.com/p/o-cv-que-c...",
+          "url": "https://bsky.app/profile/cecillia.com.br/post/3n225nblqck2n",
+          "subreddit": "bsky_ce"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A reportagem escancara como o crime organizado se profissionaliza: cobrar pela água é uma forma de controle territorial que imita a milícia carioca. Isso precisa ser investigado a fundo, pois afeta diretamente a população carente.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Atribuir ao CV uma cobrança de água no Ceará com base em 'aprendizado' com o Rio parece simplista e sensacionalista. Sem provas concretas, a matéria pode estigmatizar comunidades e desviar o foco da falta de políticas públicas de saneamento.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A conexão entre milícia do Rio e CV no Ceará merece cautela: é preciso diferenciar práticas de extorsão de outras formas de controle social. A reportagem levanta um alerta, mas ainda faltam dados que comprovem a extensão do fenômeno.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -187,14 +187,14 @@
       "rank": 4,
       "title": "Justiça Eleitoral aplica medidas cautelares contra deputado eleito por violência de gênero",
       "label": "Medidas cautelares contra deputado no Ceará",
-      "context": "A Justiça Eleitoral do Ceará aplicou medidas cautelares contra o deputado eleito Abreu Júnior após denúncia do Ministério Público por postagens em redes sociais. A decisão é inédita no estado e impõe restrições ao parlamentar.",
+      "context": "A Justiça Eleitoral aplicou medidas cautelares contra o deputado eleito Abreu Júnior após denúncia do Ministério Público por postagens em redes sociais. A decisão, inédita no Ceará, impõe restrições ao parlamentar por violência de gênero.",
       "source": "bluesky",
       "subreddit": "bsky_ce",
       "permalink": "https://bsky.app/profile/dilmaresiste.bsky.social/post/3mzz4ct7o5k2h",
       "createdAt": "2026-11-11T04:31:23.870000+00:00",
-      "rawScore": 0.29957688860220655,
-      "relevanceScore": 0.33108202151611577,
-      "suggestedRadius": 70.52,
+      "rawScore": 0.4942201871044851,
+      "relevanceScore": 0.46861401063577274,
+      "suggestedRadius": 77.07,
       "imageUrl": "assets/images/bsky_3mzz4ct7o5k2h_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzz4ct7o5k2h_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -210,7 +210,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A decisão da Justiça Eleitoral é um marco no combate à violência de gênero na política. Pela primeira vez no Ceará, um deputado eleito sofre restrições por postagens misóginas, o que mostra que a lei vale para todos, inclusive para quem foi votado.",
+          "text": "A decisão da Justiça Eleitoral é um marco no Ceará: pela primeira vez, um deputado eleito sofre medidas cautelares por violência de gênero. Isso mostra que as instituições estão atentas e que postagens misóginas não podem ser tratadas como liberdade de expressão.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -218,7 +218,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Aplicar medidas cautelares contra um deputado eleito com base em postagens em redes sociais soa como censura prévia e desrespeito à vontade popular. A decisão inédita no Ceará abre precedente perigoso para cercear a liberdade de expressão de parlamentares.",
+          "text": "A aplicação de medidas cautelares contra um deputado eleito pelo voto popular levanta preocupações sobre interferência judicial na vontade das urnas. Restringir um parlamentar com base em postagens pode abrir precedentes perigosos para a liberdade de expressão e o mandato.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -226,7 +226,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A decisão inédita no Ceará levanta dúvidas sobre seus efeitos práticos: medidas cautelares contra um deputado eleito podem ser questionadas no exercício do mandato. É preciso acompanhar se as restrições serão mantidas ou se haverá recurso, pois o caso ainda está em fase inicial.",
+          "text": "A decisão inédita no Ceará precisa ser analisada com cautela: é positivo que a violência de gênero seja levada a sério, mas é preciso garantir o direito de defesa e o contraditório. O caso ainda está em fase inicial e as medidas podem ser revistas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -236,31 +236,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzxw2lzmls2g",
+      "id": "bsky_3n22qeytgf22g",
       "rank": 5,
-      "title": "Homenagem do Cine Ceará a Kleber Mendonça Filho",
-      "label": "Cine Ceará · Homenagem a Kleber Mendonça Filho",
-      "context": "O Cine Ceará prestou homenagem ao diretor Kleber Mendonça Filho, que compartilhou uma foto ao lado de colegas de ofício. Durante o evento, ele revelou que seu novo filme, ambientado na década de 1930, deve se chamar O Correspondente Estrangeiro (título provisório) e tem o intuito de voltar a trabalhar com Wagner Moura.",
+      "title": "Usuário ri no ônibus a caminho do terminal da Parangaba, em Fortaleza",
+      "label": "Risada no ônibus · Terminal da Parangaba",
+      "context": "Um usuário do Bluesky publicou que está rindo muito dentro de um ônibus a caminho do terminal da Parangaba, em Fortaleza, Ceará, por causa de uma página que acompanha. O post registra a situação cotidiana de quem se diverte com conteúdo de internet durante o deslocamento no transporte público.",
       "source": "bluesky",
       "subreddit": "bsky_ce",
-      "permalink": "https://bsky.app/profile/lcmerten.bsky.social/post/3mzxw2lzmls2g",
-      "createdAt": "2026-11-10T16:59:44.973000+00:00",
-      "rawScore": 0.10494047092552021,
-      "relevanceScore": 0.22564970220403435,
-      "suggestedRadius": 64.5,
-      "imageUrl": "assets/images/bsky_3mzxw2lzmls2g_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzxw2lzmls2g_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/ojeitoeser.bsky.social/post/3n22qeytgf22g",
+      "createdAt": "2026-11-11T19:56:08.571000+00:00",
+      "rawScore": 0.41964138399525347,
+      "relevanceScore": 0.396613466140601,
+      "suggestedRadius": 73.79,
+      "imageUrl": "assets/images/bsky_3n22qeytgf22g_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n22qeytgf22g_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-ce",
       "sources": [
         {
-          "title": "Da homenagem do Cine Ceará. Tenho recebido muitas manifestações de carinho, acolhimento. Essa foto trouxe do facebook da Maria do Rosário Caetano, que escreveu \"Ele com os colegas de ofício\" ❤️",
-          "url": "https://bsky.app/profile/lcmerten.bsky.social/post/3mzxw2lzmls2g",
-          "subreddit": "bsky_ce"
-        },
-        {
-          "title": "No Cine Ceará , o diretor @kmendoncafilho.bsky.social revela que seu novo filme, passado na década de 1930, deve se chamar O Correspondente Estrangeiro (título provisório). O intuito é voltar a trabalhar com Wagner Moura.",
-          "url": "https://bsky.app/profile/brunocarmelo.bsky.social/post/3mzsny2x4m22w",
+          "title": "eu se divirto tanto com essa página to rindo muito aqui no onibus indo terminal da parangaba em fortaleza ceara",
+          "url": "https://bsky.app/profile/ojeitoeser.bsky.social/post/3n22qeytgf22g",
           "subreddit": "bsky_ce"
         }
       ],
@@ -268,7 +263,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A homenagem do Cine Ceará a Kleber Mendonça Filho é mais do que merecida. Ele é um dos grandes nomes do cinema nacional e esse reconhecimento em um festival importante como o Cine Ceará valoriza a produção brasileira. A foto com os colegas de ofício mostra a força da nossa comunidade cinematográfica.",
+          "text": "Rir no ônibus vendo página de humor é um dos pequenos prazeres do trajeto — o terminal da Parangaba fica mais leve quando a gente chega rindo de alguma bobagem que apareceu no feed.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -276,7 +271,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Fico preocupado com o anúncio do novo filme de Kleber Mendonça Filho. O título provisório O Correspondente Estrangeiro e a trama na década de 1930 podem cair em clichês históricos. Além disso, a homenagem no Cine Ceará parece mais uma jogada de marketing do que um reconhecimento genuíno.",
+          "text": "Rir alto no ônibus incomoda quem está do lado, e muita gente usa o transporte público pra descansar depois do trabalho — o bom senso pede segurar a risada ou usar fone pra não incomodar os outros passageiros.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -284,7 +279,118 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A homenagem do Cine Ceará é válida, mas o que realmente importa é o novo filme de Kleber Mendonça Filho. A volta da parceria com Wagner Moura é promissora, mas o título provisório e a ambientação na década de 1930 ainda são incógnitas. Vamos ver se o resultado fica à altura.",
+          "text": "O post é só um desabafo leve de quem está no trajeto, sem debate por trás — vale como registro do cotidiano de quem pega ônibus em Fortaleza e se distrai com conteúdo de internet no caminho.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n226goujbk2s",
+      "rank": 6,
+      "title": "Rajadas de vento de até 100 km/h no Ceará e chuvas fortes no Pará",
+      "label": "Ventos de 100 km/h no Ceará · Chuvas no Pará",
+      "context": "O Ceará registra rajadas de vento de até 100 km/h, enquanto o Pará enfrenta chuvas fortes, segundo alerta divulgado em 11 de novembro de 2026. A combinação de ventos intensos e precipitação pode causar transtornos como quedas de árvores e alagamentos nas áreas afetadas.",
+      "source": "bluesky",
+      "subreddit": "bsky_ce",
+      "permalink": "https://bsky.app/profile/contagemcorona1.bsky.social/post/3n226goujbk2s",
+      "createdAt": "2026-11-11T14:34:58.372000+00:00",
+      "rawScore": 0.32873532768745684,
+      "relevanceScore": 0.3088501167813526,
+      "suggestedRadius": 69.34,
+      "imageUrl": "assets/images/bsky_3n226goujbk2s_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n226goujbk2s_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ce",
+      "sources": [
+        {
+          "title": "🔴 Rajadas de vento de até 100km/h no Ceará e chuvas fortes no Pará. Acompanhe ⬇️ www.meteored.com.br/noticias/act...",
+          "url": "https://bsky.app/profile/contagemcorona1.bsky.social/post/3n226goujbk2s",
+          "subreddit": "bsky_ce"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A divulgação antecipada desses alertas meteorológicos é fundamental para que a população se prepare e evite riscos, especialmente em regiões costeiras onde os ventos podem ser ainda mais fortes.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A frequência de eventos extremos como esse no Ceará e no Pará acende um alerta para a falta de infraestrutura urbana adequada, que sofre com alagamentos e quedas de energia a cada temporal.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A intensidade dos ventos e das chuvas varia muito dentro dos estados, então é preciso acompanhar os boletins locais para saber quais municípios realmente serão afetados com maior gravidade.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzsny2x4m22w",
+      "rank": 7,
+      "title": "Diretor Kleber Mendonça Filho revela novo filme passado nos anos 1930",
+      "label": "Novo filme de Kleber Mendonça Filho",
+      "context": "No Cine Ceará, o diretor Kleber Mendonça Filho revelou que seu novo filme, ambientado na década de 1930, deve se chamar O Correspondente Estrangeiro (título provisório). O objetivo é voltar a trabalhar com Wagner Moura.",
+      "source": "bluesky",
+      "subreddit": "bsky_ce",
+      "permalink": "https://bsky.app/profile/brunocarmelo.bsky.social/post/3mzsny2x4m22w",
+      "createdAt": "2026-11-08T14:51:58.082000+00:00",
+      "rawScore": 0.1356132801495779,
+      "relevanceScore": 0.21894738507067701,
+      "suggestedRadius": 64.08,
+      "imageUrl": "assets/images/bsky_3mzsny2x4m22w_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzsny2x4m22w_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ce",
+      "sources": [
+        {
+          "title": "No Cine Ceará , o diretor @kmendoncafilho.bsky.social revela que seu novo filme, passado na década de 1930, deve se chamar O Correspondente Estrangeiro (título provisório). O intuito é voltar a trabalhar com Wagner Moura.",
+          "url": "https://bsky.app/profile/brunocarmelo.bsky.social/post/3mzsny2x4m22w",
+          "subreddit": "bsky_ce"
+        },
+        {
+          "title": "Da homenagem do Cine Ceará. Tenho recebido muitas manifestações de carinho, acolhimento. Essa foto trouxe do facebook da Maria do Rosário Caetano, que escreveu \"Ele com os colegas de ofício\" ❤️",
+          "url": "https://bsky.app/profile/lcmerten.bsky.social/post/3mzxw2lzmls2g",
+          "subreddit": "bsky_ce"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Kleber Mendonça Filho e Wagner Moura juntos de novo é um dos encontros mais promissores do cinema nacional. A parceria em O Som ao Redor e Aquarius mostrou uma sintonia rara, e um filme de época pode render um resultado ainda mais forte.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O anúncio de mais um filme de época com Wagner Moura soa como aposta segura demais. O cinema brasileiro precisa de histórias contemporâneas e urgentes, não de reconstituições dos anos 1930 que já nascem com cara de projeto premiado.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Ainda é cedo para comemorar ou criticar: título provisório e ambientação nos anos 1930 não dizem nada sobre o resultado. Kleber tem um histórico sólido, mas cada novo projeto é uma incógnita até vermos o primeiro material.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -295,17 +401,17 @@
     },
     {
       "id": "bsky_3mzyjguzvec2d",
-      "rank": 6,
-      "title": "Banabuiú sofre restrições de abastecimento após comerciantes recusarem cobranças de criminosos",
-      "label": "Banabuiú · Abastecimento afetado por recusa a cobranças",
-      "context": "Com pouco mais de 17 mil habitantes, Banabuiú sofreu restrições no abastecimento depois que comerciantes recusaram cobranças impostas por criminosos. A cidade ficou com o fornecimento de água comprometido após a recusa dos comerciantes em pagar as cobranças.",
+      "rank": 8,
+      "title": "Comerciantes de Banabuiú recusam cobranças de criminosos e cidade sofre restrições no abastecimento",
+      "label": "Banabuiú · Abastecimento afetado por recusa a cobranças crim",
+      "context": "Em Banabuiú, cidade com pouco mais de 17 mil habitantes, o abastecimento sofreu restrições depois que comerciantes se recusaram a pagar cobranças impostas por criminosos. A recusa dos comerciantes levou a restrições no fornecimento, afetando a população local.",
       "source": "bluesky",
       "subreddit": "bsky_ce",
       "permalink": "https://bsky.app/profile/nildete.bsky.social/post/3mzyjguzvec2d",
       "createdAt": "2026-11-10T22:46:36.586000+00:00",
-      "rawScore": 0.17617374791296256,
-      "relevanceScore": 0.19360133857531112,
-      "suggestedRadius": 62.4,
+      "rawScore": 0.20819381092140962,
+      "relevanceScore": 0.19247583240570343,
+      "suggestedRadius": 62.32,
       "imageUrl": "assets/images/bsky_3mzyjguzvec2d_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzyjguzvec2d_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -321,7 +427,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A atitude dos comerciantes de Banabuiú foi corajosa: recusar cobranças impostas por criminosos é um passo importante para não financiar o crime organizado, mesmo com o custo do abastecimento restrito.",
+          "text": "A atitude dos comerciantes de Banabuiú é corajosa: eles não cederam à extorsão do crime organizado, mesmo sabendo que isso poderia afetar o abastecimento. Recusar cobranças ilegais é um passo importante para não financiar criminosos e mostrar que a comunidade não aceita esse tipo de controle.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -329,7 +435,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A restrição no abastecimento prejudica diretamente os moradores de Banabuiú, que ficam sem água por causa de uma disputa entre comerciantes e criminosos. A população não deveria pagar por essa decisão.",
+          "text": "A recusa dos comerciantes, embora compreensível, acabou prejudicando toda a população de Banabuiú, que ficou sem abastecimento. O Estado precisa agir para proteger os moradores e garantir o fornecimento, em vez de deixar a cidade refém do crime organizado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -337,7 +443,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A situação em Banabuiú mostra como o crime organizado afeta serviços básicos: a recusa dos comerciantes em pagar cobranças acabou atingindo o abastecimento de água, deixando a população no meio do fogo cruzado.",
+          "text": "A situação em Banabuiú mostra como o crime organizado afeta a vida cotidiana: comerciantes são forçados a escolher entre pagar extorsão ou enfrentar consequências. É preciso entender melhor como o abastecimento foi restringido e quais medidas estão sendo tomadas para resolver o problema.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -347,18 +453,77 @@
       "promptVersion": 2
     },
     {
+      "id": "bsky_3mztlbey5bk2n",
+      "rank": 9,
+      "title": "Ceará perde para time rebaixado na noite do primeiro dia de ENEM",
+      "label": "Ceará · Derrota na noite do ENEM",
+      "context": "O Ceará perdeu para um time já rebaixado na noite do primeiro dia do ENEM. O resultado gerou comparações nas redes, com torcedores tratando a combinação como um roteiro forçado da vida real.",
+      "source": "bluesky",
+      "subreddit": "bsky_ce",
+      "permalink": "https://bsky.app/profile/mthlimao.bsky.social/post/3mztlbey5bk2n",
+      "createdAt": "2026-11-08T23:36:01.372000+00:00",
+      "rawScore": 0.1742417638801837,
+      "relevanceScore": 0.15969753922079505,
+      "suggestedRadius": 59.98,
+      "imageUrl": "assets/images/bsky_3mztlbey5bk2n_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mztlbey5bk2n_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ce",
+      "sources": [
+        {
+          "title": "O time do Ceará estar perdendo pra um time REBAIXADO na noite do primeiro dia de ENEM é muito roteiro forçado da vida",
+          "url": "https://bsky.app/profile/mthlimao.bsky.social/post/3mztlbey5bk2n",
+          "subreddit": "bsky_ce"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A derrota do Ceará para um time rebaixado na noite do ENEM virou piada pronta, e o apresentador que comentou o jogo merece aplausos pela forma como transformou o vexame em entretenimento de qualidade.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O futebol brasileiro virou uma bagunça com as bets inflacionando jogador ruim, e o Ceará perder para um rebaixado na noite do ENEM é só mais uma prova de que o nível técnico dos times está cada vez pior.",
+          "source": "sintese",
+          "evidence": [
+            5
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Enquanto o Ceará toma essa derrota bizarra, o Goiás empata com a Ponte e ninguém fala nada — o roteiro forçado da vida não é exclusividade do Ceará, é o futebol brasileiro inteiro sendo imprevisível.",
+          "source": "sintese",
+          "evidence": [
+            4
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
       "id": "bsky_3mztnk6wsa227",
-      "rank": 7,
+      "rank": 10,
       "title": "Briga contra o rebaixamento na Série B: Ceará e Avaí na última rodada",
       "label": "Série B · Luta contra o rebaixamento",
-      "context": "Ceará e Avaí disputam a permanência na Série B na última rodada, com o Ceará em 16º com 43 pontos e o Avaí em 17º com 40. Os jogos decisivos são CRB x Ceará e América-MG x Avaí.",
+      "context": "Ceará e Avaí chegam à última rodada da Série B ameaçados de rebaixamento para a Série C. O Ceará enfrenta o CRB e o Avaí joga contra o América-MG, resultados que definem quem cai.",
       "source": "bluesky",
       "subreddit": "bsky_ce",
       "permalink": "https://bsky.app/profile/htesports.bsky.social/post/3mztnk6wsa227",
       "createdAt": "2026-11-09T00:16:45.578000+00:00",
-      "rawScore": 0.0486145534087003,
-      "relevanceScore": 0.16289825548858797,
-      "suggestedRadius": 60.22,
+      "rawScore": 0.0651312901194649,
+      "relevanceScore": 0.15090202301466907,
+      "suggestedRadius": 59.31,
       "imageUrl": "assets/images/bsky_3mztnk6wsa227_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mztnk6wsa227_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -379,7 +544,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Ceará tem tudo para escapar: joga contra o CRB, que não tem mais objetivos na competição, e depende só de si. Com 43 pontos, uma vitória garante a permanência sem precisar torcer contra ninguém.",
+          "text": "O Ceará tem totais condições de escapar. Basta vencer o CRB fora de casa e torcer para o Avaí não ganhar do América-MG. O time mostrou força no ano passado e pode repetir uma grande atuação na última rodada.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -387,109 +552,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A situação do Ceará é preocupante: o time vem de uma temporada instável e agora precisa vencer fora de casa. Se perder, pode cair para a Série C, repetindo o que aconteceu no ano passado com o rebaixamento inesperado na Série A.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Nada está definido ainda. O Avaí tem 40 pontos e também pode escapar, mas depende de tropeços. A última rodada vai ser de muita tensão para os dois times, e o futebol já mostrou que não perdoa covardia.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzyj4kaspc2j",
-      "rank": 8,
-      "title": "Boas-vindas ao Ceará: vídeo completo",
-      "label": "Vídeo adulto gay · Ceará",
-      "context": "Um post no Bluesky divulga um vídeo adulto gay com o título 'BOAS VINDAS ao Ceará' e links para site e grupo no Telegram. O conteúdo é promovido com hashtags explícitas e sem contexto adicional.",
-      "source": "bluesky",
-      "subreddit": "bsky_ce",
-      "permalink": "https://bsky.app/profile/kxorrao.bsky.social/post/3mzyj4kaspc2j",
-      "createdAt": "2026-11-10T22:40:48.983000+00:00",
-      "rawScore": 0.1210252533231611,
-      "relevanceScore": 0.13216163244614595,
-      "suggestedRadius": 57.81,
-      "imageUrl": "assets/images/bsky_3mzyj4kaspc2j_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzyj4kaspc2j_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ce",
-      "sources": [
-        {
-          "title": "BOAS VINDAS ao Ceará! Full video 👇🏽 socyalsemcamisa.com.br/4175 Telegram Creators Group: t.me/+vpiMgGIUhpo... #gay #AmateurGay #porn #gayporn #chudai #brasilporn #gaysex #cocksucker #gayhairy #gaybigcock #hard #bareback #barebackgay #barebackbrasil #gayfetish #NSFW #cruising",
-          "url": "https://bsky.app/profile/kxorrao.bsky.social/post/3mzyj4kaspc2j",
-          "subreddit": "bsky_ce"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O post cumpre o papel de divulgar conteúdo adulto de forma direta, com links claros e hashtags que facilitam encontrar o vídeo. Para quem busca esse tipo de material, a objetividade é útil.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Divulgar vídeos adultos com hashtags explícitas em plataformas públicas pode expor pessoas que não querem ver esse tipo de conteúdo, além de dificultar o controle sobre quem acessa os links.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O post é apenas uma divulgação de conteúdo adulto, sem informações sobre consentimento ou origem do vídeo. Sem esses dados, fica difícil avaliar a responsabilidade da publicação.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mztlbey5bk2n",
-      "rank": 9,
-      "title": "Ceará perde para time rebaixado na noite do primeiro dia de ENEM",
-      "label": "Ceará derrota · Noite de ENEM",
-      "context": "O Ceará perdeu para um time já rebaixado na noite do primeiro dia do ENEM. O resultado gerou comentários sobre o roteiro improvável da partida e sobre o futebol brasileiro.",
-      "source": "bluesky",
-      "subreddit": "bsky_ce",
-      "permalink": "https://bsky.app/profile/mthlimao.bsky.social/post/3mztlbey5bk2n",
-      "createdAt": "2026-11-08T23:36:01.372000+00:00",
-      "rawScore": 0.1173499249031402,
-      "relevanceScore": 0.12806703113864243,
-      "suggestedRadius": 57.47,
-      "imageUrl": "assets/images/bsky_3mztlbey5bk2n_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztlbey5bk2n_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ce",
-      "sources": [
-        {
-          "title": "O time do Ceará estar perdendo pra um time REBAIXADO na noite do primeiro dia de ENEM é muito roteiro forçado da vida",
-          "url": "https://bsky.app/profile/mthlimao.bsky.social/post/3mztlbey5bk2n",
-          "subreddit": "bsky_ce"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O apresentador que narrou a situação é incrível, e o humor em torno da derrota do Ceará para um time rebaixado na noite do ENEM virou entretenimento para quem acompanha o futebol brasileiro.",
+          "text": "A situação do Ceará é desesperadora. O time não vence há rodadas, depende de combinação de resultados e ainda joga fora de casa contra o CRB, que briga por acesso. A queda para a Série C parece inevitável.",
           "source": "sintese",
           "evidence": [
             2
@@ -497,76 +560,14 @@
           "votes": 0
         },
         {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O futebol brasileiro está tão nivelado por baixo que um time rebaixado vence o Ceará na noite do ENEM, e as bets só inflacionam jogador ruim, o que explica resultados como esse.",
-          "source": "sintese",
-          "evidence": [
-            5
-          ],
-          "votes": 0
-        },
-        {
           "id": "op3",
           "tone": "neutral",
-          "text": "Enquanto o Ceará perde para um rebaixado, o Goiás empata com a Ponte, e esses resultados mostram que o futebol brasileiro é imprevisível e cheio de surpresas a cada rodada.",
+          "text": "A briga contra o rebaixamento é imprevisível. O Ceará já surpreendeu ao cair da Série A no ano passado, e agora repete a má campanha. Nada está definido, mas a experiência tem sido terrível para a torcida.",
           "source": "sintese",
           "evidence": [
-            4
+            1,
+            2
           ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzsochxx5s2a",
-      "rank": 10,
-      "title": "Ceará lançando tendência desde 2014",
-      "label": "Ceará · Tendência desde 2014",
-      "context": "Uma publicação no Bluesky afirma que o Ceará vem lançando tendência desde 2014. A frase é usada como referência ao estado como precursor de algo, sem detalhar nas fontes qual tendência seria essa.",
-      "source": "bluesky",
-      "subreddit": "bsky_ce",
-      "permalink": "https://bsky.app/profile/tiavelha.bsky.social/post/3mzsochxx5s2a",
-      "createdAt": "2026-11-08T14:57:39.879000+00:00",
-      "rawScore": 0.0572653939894491,
-      "relevanceScore": 0.0611281971830806,
-      "suggestedRadius": 50.83,
-      "imageUrl": "assets/images/bsky_3mzsochxx5s2a_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzsochxx5s2a_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ce",
-      "sources": [
-        {
-          "title": "Ceará querido lançando tendência desde 2014",
-          "url": "https://bsky.app/profile/tiavelha.bsky.social/post/3mzsochxx5s2a",
-          "subreddit": "bsky_ce"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O Ceará tem mesmo esse histórico de sair na frente e virar referência antes dos outros estados. Quem acompanha o estado sabe que desde 2014 muita coisa que começou por aqui depois se espalhou pelo país.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Jogar a frase solta de que o Ceará lança tendência desde 2014 não diz nada de concreto. Sem apontar qual tendência foi essa e o que mudou de fato, vira só orgulho regional sem comprovação.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A ideia de tendência cearense desde 2014 faz sentido em alguns setores, mas depende muito do que se está chamando de tendência. Sem exemplos claros, fica difícil saber se é fenômeno real ou só percepção de quem é do estado.",
-          "source": "sintese",
-          "evidence": [],
           "votes": 0
         }
       ],
