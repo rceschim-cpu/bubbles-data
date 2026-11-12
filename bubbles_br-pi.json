@@ -1,21 +1,176 @@
 {
-  "generatedAt": "2026-11-12T06:29:13.508039+00:00",
+  "generatedAt": "2026-11-12T19:47:27.340864+00:00",
   "region": "br-pi",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n22specqd22r",
+      "id": "bsky_3n253zsegic2j",
       "rank": 1,
+      "title": "Piauí desenvolve SoberanIA, primeiro modelo de IA 100% em português",
+      "label": "SoberanIA · IA em português para o setor público",
+      "context": "O Piauí desenvolveu o SoberanIA, um modelo de inteligência artificial treinado com cerca de 500 bilhões de tokens em português e alimentado por documentos oficiais do SEI do governo federal. O modelo é destinado a prefeituras, estados e órgãos públicos para compreender a legislação e os processos administrativos brasileiros sem enviar dados para fora do país.",
+      "source": "bluesky",
+      "subreddit": "bsky_pi",
+      "permalink": "https://bsky.app/profile/hiltonbastos.bsky.social/post/3n253zsegic2j",
+      "createdAt": "2026-11-12T18:34:12.979000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n253zsegic2j_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n253zsegic2j_reddit_thumb.jpg",
+      "category": "tech",
+      "region": "br-pi",
+      "sources": [
+        {
+          "title": "O Piauí desenvolveu o SoberanIA O primeiro modelo de grande escala de inteligência artificial criado 100% em língua portuguesa no Brasil. Destina-se a prefeituras, estados e órgãos públicos para compreender a legislação e os processos administrativos brasileiros sem enviar... Por @JeitoNordestino",
+          "url": "https://bsky.app/profile/hiltonbastos.bsky.social/post/3n253zsegic2j",
+          "subreddit": "bsky_pi"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Um modelo treinado com documentos oficiais do SEI e 500 bilhões de tokens em português resolve o problema real de entender a legislação brasileira, coisa que IA estrangeira não faz bem. E o fato de não enviar dados para fora é essencial para órgãos públicos.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Modelo de IA feito por governo estadual com documentos do SEI tende a reproduzir os vícios da burocracia e da linguagem oficial, sem garantia de qualidade ou neutralidade. Além disso, 500 bilhões de tokens não dizem nada sobre a capacidade real de compreender e aplicar a lei.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A iniciativa é interessante, mas o impacto depende de como prefeituras e estados vão adotar e validar as respostas do SoberanIA. Sem testes públicos e transparência sobre os dados de treinamento, fica difícil saber se o modelo realmente ajuda na prática.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n24ueifwwc27",
+      "rank": 2,
+      "title": "Piauí criou personagem adolescente mineiro para jingle presidencial, diz autora",
+      "label": "Piauí · Jingle e personagem fictício",
+      "context": "A revista Piauí publicou uma matéria sobre a música \"Tariflavio Bolsonaro na cabeça do meu pau\", atribuindo sua autoria a um adolescente mineiro. A publicação foi retirada do ar após questionamentos sobre a origem da música e a veracidade do personagem.",
+      "source": "bluesky",
+      "subreddit": "bsky_pi",
+      "permalink": "https://bsky.app/profile/caroltypes.bsky.social/post/3n24ueifwwc27",
+      "createdAt": "2026-11-12T16:12:43.684000+00:00",
+      "rawScore": 0.7019290301188387,
+      "relevanceScore": 0.8910322556875985,
+      "suggestedRadius": 92.64,
+      "imageUrl": "assets/images/bsky_3n24ueifwwc27_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24ueifwwc27_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pi",
+      "sources": [
+        {
+          "title": "A Piauí criou um personagem, um adolescente mineiro, que teria escrito o maior jingle da campanha presidencial este ano. Se eu não soubesse quem é de fato um dos autores da música - e dica, \"na cabeça do meu pau e na cabeça da minha pica\" são expressões tipicamente baianas - eu ficaria confusa.",
+          "url": "https://bsky.app/profile/caroltypes.bsky.social/post/3n24ueifwwc27",
+          "subreddit": "bsky_pi"
+        },
+        {
+          "title": "A Piauí fez uma matéria sobre a música \"Tariflavio Bolsonaro na cabeça do meu pau\" kkkkkk",
+          "url": "https://bsky.app/profile/eruilluviel.bsky.social/post/3n24n6isfpk2w",
+          "subreddit": "bsky_pi"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Piauí acertou ao apontar que a expressão \"na cabeça do meu pau\" é típica da Bahia, e a autora original da música é baiana, então a história do adolescente mineiro não se sustenta. A revista errou feio ao inventar um personagem.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            10,
+            15
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A matéria da Piauí é uma barrigada: inventaram um adolescente mineiro sem checar a origem da música, que é uma paródia da versão original sobre ACM Neto. Tirar o texto do ar só confirma o erro.",
+          "source": "sintese",
+          "evidence": [
+            3,
+            4,
+            7,
+            18
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A expressão \"na cabeça do meu pau\" não é exclusiva da Bahia; muita gente de São Paulo, Pernambuco e Piauí também usa. A Piauí pode ter se confundido, mas a discussão sobre regionalismo é mais complexa.",
+          "source": "sintese",
+          "evidence": [
+            6,
+            11,
+            12,
+            16
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n24f2j6awk2q",
+      "rank": 3,
+      "title": "está acontecendo algo no meu tiktok que só aparece conteúdo (homem) do maranhão, piauí e ceará...",
+      "label": "",
+      "context": "",
+      "source": "bluesky",
+      "subreddit": "bsky_pi",
+      "permalink": "https://bsky.app/profile/qserjo.bsky.social/post/3n24f2j6awk2q",
+      "createdAt": "2026-11-12T11:38:43.873000+00:00",
+      "rawScore": 0.20640756286805853,
+      "relevanceScore": 0.22934173652006504,
+      "suggestedRadius": 64.73,
+      "imageUrl": "assets/images/bsky_3n24f2j6awk2q_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24f2j6awk2q_uns.jpg",
+      "category": "geopolitica",
+      "region": "br-pi",
+      "sources": [
+        {
+          "title": "está acontecendo algo no meu tiktok que só aparece conteúdo (homem) do maranhão, piauí e ceará...",
+          "url": "https://bsky.app/profile/qserjo.bsky.social/post/3n24f2j6awk2q",
+          "subreddit": "bsky_pi"
+        }
+      ],
+      "opinions": [],
+      "enrichedBy": "",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n22specqd22r",
+      "rank": 4,
       "title": "Sabemos que ela não é do Piauí, porque senão poderia contar com a fibra ótica de Wellington Dias",
-      "label": "Fibra óptica no Piauí · Meme",
-      "context": "Uma publicação no Bluesky relembra a história de que Wellington Dias teria instalado fibra óptica em todo o Piauí, citando um vídeo sobre tecnologia desenvolvida no estado. A lembrança gerou comentários nostálgicos e bem-humorados sobre o episódio.",
+      "label": "Fibra ótica de Wellington Dias · Piada",
+      "context": "Uma postagem no Bluesky relembra uma história antiga em que tuiteiros afirmaram que Wellington Dias havia instalado fibra ótica em todo o Piauí. A lembrança virou piada entre usuários da rede, que reagem com humor à situação.",
       "source": "bluesky",
       "subreddit": "bsky_pi",
       "permalink": "https://bsky.app/profile/patykisses.bsky.social/post/3n22specqd22r",
       "createdAt": "2026-11-11T20:37:42.883000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.10535357665714729,
+      "relevanceScore": 0.22817064073016366,
+      "suggestedRadius": 64.66,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -36,19 +191,20 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A fibra óptica de Wellington Dias virou um marco na internet e merece ser lembrada como um dos momentos mais engraçados da política no Piauí. É impossível não rir com a criatividade dos tuiteiros de Furnas.",
+          "text": "A história da fibra ótica de Wellington Dias é um clássico da internet e merece ser lembrada. É bom ver que as pessoas ainda riem disso e mantêm viva a memória desse momento hilário.",
           "source": "sintese",
           "evidence": [
             1,
             2,
-            3
+            3,
+            4
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa história da fibra óptica em todo o Piauí foi um exagero da época e até hoje é repetida como se fosse verdade. O episódio mostra como uma informação distorcida pode viralizar e enganar muita gente.",
+          "text": "Ficar repetindo essa piada da fibra ótica já deu, né? O pessoal não supera e fica nessa de reviver meme velho como se fosse a coisa mais engraçada do mundo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -56,11 +212,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Lembrar dessa história é nostálgico, mas também serve para refletir sobre como as promessas políticas viram meme e acabam ofuscando a discussão real sobre infraestrutura no estado.",
+          "text": "A lembrança da fibra ótica de Wellington Dias mostra como uma informação duvidosa pode se espalhar e virar piada duradoura. Vale refletir sobre o poder das redes sociais em criar mitos assim.",
           "source": "sintese",
-          "evidence": [
-            4
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -69,17 +223,17 @@
     },
     {
       "id": "bsky_3mzv4uvtrb22p",
-      "rank": 2,
-      "title": "Usuária critica mídia hegemônica e pede regulamentação da Globo",
-      "label": "Crítica à mídia hegemônica · Regulamentação",
-      "context": "Uma usuária do Bluesky em Teresina (PI) afirmou desconhecer alguém chamado Severino na cidade e defendeu a regulamentação da Globo e da mídia hegemônica, além da democratização da mídia. O comentário gerou respostas sobre nomes comuns no Nordeste e sobre o papel da imprensa.",
+      "rank": 5,
+      "title": "Usuário diz não conhecer nenhum Severino em Teresina e pede regulamentação da mídia",
+      "label": "Mídia hegemônica · Regulamentação e nomes no Nordeste",
+      "context": "Um usuário do Bluesky afirma não conhecer ninguém chamado Severino em Teresina, no Piauí, e defende que a Globo e a mídia hegemônica sejam regulamentadas e democratizadas. A publicação mistura a crítica à mídia com uma observação sobre nomes comuns na região, e os comentários repercutem principalmente a questão dos nomes.",
       "source": "bluesky",
       "subreddit": "bsky_pi",
       "permalink": "https://bsky.app/profile/coffeecake5.bsky.social/post/3mzv4uvtrb22p",
       "createdAt": "2026-11-09T14:23:51.081000+00:00",
-      "rawScore": 0.2632075118325165,
-      "relevanceScore": 0.4217037619046321,
-      "suggestedRadius": 74.96,
+      "rawScore": 0.04479840370459351,
+      "relevanceScore": 0.16088711522732613,
+      "suggestedRadius": 60.07,
       "imageUrl": "assets/images/bsky_3mzv4uvtrb22p_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzv4uvtrb22p_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -94,18 +248,13 @@
           "title": "aqui! essa entrevista do cosac pra Piauí é sensacional, ele conta tudo sobre a Cosac Naïf inclusive a precificação no feeling kkkkk",
           "url": "https://bsky.app/profile/apsaramani.bsky.social/post/3mzvzyyus4k2l",
           "subreddit": "bsky_pi"
-        },
-        {
-          "title": "estou falando de política para milhares de pessoas, minhas fontes são folha de sp, jornal o globo e piauí AÍ NÃO MANO",
-          "url": "https://bsky.app/profile/ofernandoreis.bsky.social/post/3mzxuldq7q22t",
-          "subreddit": "bsky_pi"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A mídia hegemônica precisa ser regulamentada e democratizada, porque concentra poder demais e não representa a diversidade do país. Acabar com novelas e com o monopólio da Globo seria um avanço para a comunicação no Brasil.",
+          "text": "A mídia hegemônica precisa sim ser regulamentada e democratizada, porque concentra poder demais e retrata o país a partir de um só lugar. Se a Globo e as outras grandes redes fossem obrigadas a abrir espaço para outras vozes, o noticiário ficaria mais próximo da realidade de regiões como o Nordeste.",
           "source": "sintese",
           "evidence": [
             1
@@ -115,17 +264,15 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Regulamentar a mídia é um risco à liberdade de imprensa, e pedir o fim da Globo soa como censura. O problema não é a existência de veículos grandes, mas a falta de pluralidade que se resolve com mais concorrência, não com proibição.",
+          "text": "Regulamentar a mídia por lei é um caminho perigoso, porque quem define o que pode ser dito acaba tendo poder sobre a informação. O problema do retrato distorcido do país se resolve com mais concorrência e acesso, não com o Estado decidindo o que a Globo ou qualquer outro veículo pode publicar.",
           "source": "sintese",
-          "evidence": [
-            3
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A crítica ao nome Severino chamou mais atenção do que a pauta da mídia: no interior da Bahia e no Nordeste, os nomes comuns hoje são Enzo, Noah e Lorenzo. A discussão sobre regulamentação acabou ofuscada pelo debate sobre nomes.",
+          "text": "A parte do Severino é o que mais pegou: no interior da Bahia e em boa parte do Nordeste, os nomes que aparecem hoje são Enzo, Noah, Lorenzo e Gael, e quase ninguém conhece um Severino jovem. Isso mostra que a crítica à mídia talvez esteja olhando para um retrato antigo da região.",
           "source": "sintese",
           "evidence": [
             1,
@@ -138,18 +285,135 @@
       "promptVersion": 2
     },
     {
+      "id": "bsky_3n24jhoekck2r",
+      "rank": 6,
+      "title": "Treino às 10h e 15h em Teresina surpreende frequentador de academia",
+      "label": "Horários de treino · Academia em Teresina",
+      "context": "Um frequentador de academia comentou que, em Teresina, há treinos marcados para as 10h e as 15h, horários que considerou incomuns. A observação compara esses horários com os de outra academia, chamada Cross, e sugere que a rotina de treinos na capital piauiense chama atenção.",
+      "source": "bluesky",
+      "subreddit": "bsky_pi",
+      "permalink": "https://bsky.app/profile/drido.bsky.social/post/3n24jhoekck2r",
+      "createdAt": "2026-11-12T12:57:38.980000+00:00",
+      "rawScore": 0.11306303381861016,
+      "relevanceScore": 0.12562559313178906,
+      "suggestedRadius": 57.27,
+      "imageUrl": "assets/images/bsky_3n24jhoekck2r_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24jhoekck2r_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pi",
+      "sources": [
+        {
+          "title": "eu achando que no meu Cross tem muito horário de herdeiro, nesse daqui de Teresina que tou indo tem treino às 10h e as 15h rs",
+          "url": "https://bsky.app/profile/drido.bsky.social/post/3n24jhoekck2r",
+          "subreddit": "bsky_pi"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Treinar às 10h e às 15h é ótimo para quem trabalha à noite ou tem horário flexível, porque foge do pico da manhã e da noite. Teresina oferecer esses horários mostra que a academia está tentando atender quem não se encaixa no padrão comercial.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Esses horários de 10h e 15h só fazem sentido para quem é herdeiro ou funcionário público, como comentaram. Para quem trabalha o dia inteiro, é impossível treinar nesses períodos, e a academia acaba priorizando um público que não é a maioria.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O horário de treino diz muito sobre o perfil da academia e da clientela, mas não dá para generalizar. Teresina tem públicos diversos, e o que é estranho para um pode ser a única opção para outro, dependendo da rotina de cada um.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzr624e6ok2t",
+      "rank": 7,
+      "title": "Foro de Teresina: não se pode sequer discutir a proposta do ALR, isso é péssimo para a economia",
+      "label": "Foro de Teresina · Proposta do ALR",
+      "context": "O Foro de Teresina, podcast do UOL, discutiu a proposta do ALR e gerou reação nas redes. O episódio também marca a saída de Thais Bilebky e Toledo do programa, o que rendeu comentários sobre o clima do debate.",
+      "source": "bluesky",
+      "subreddit": "bsky_pi",
+      "permalink": "https://bsky.app/profile/gsc.bsky.social/post/3mzr624e6ok2t",
+      "createdAt": "2026-11-08T00:33:57.287000+00:00",
+      "rawScore": 0.010345447924488865,
+      "relevanceScore": 0.12260605324943208,
+      "suggestedRadius": 57.01,
+      "imageUrl": "assets/images/bsky_3mzr624e6ok2t_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzr624e6ok2t_uns_thumb.jpg",
+      "category": "economia",
+      "region": "br-pi",
+      "sources": [
+        {
+          "title": "Foro de Teresina: MAS NÃO PODE SEQUER DISCUTIR A PROPOSTA DO ALR OK ISSO É PÉSSIMO PRA ECONOMIA!!!",
+          "url": "https://bsky.app/profile/gsc.bsky.social/post/3mzr624e6ok2t",
+          "subreddit": "bsky_pi"
+        },
+        {
+          "title": "Gostei que a Thais Bilebky e o Toledo sairam do Foro de Teresina, pq assim temos dois foros de Teresina por semana, é dividir e se multiplicar como uma planaria",
+          "url": "https://bsky.app/profile/claudiabigoto.bsky.social/post/3mzqk2wbgck2s",
+          "subreddit": "bsky_pi"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A saída da Thais Bilebky e do Toledo do Foro de Teresina rendeu dois programas por semana, o que é ótimo para quem acompanha. Dividir e se multiplicar como uma planária é uma boa forma de ter mais conteúdo e mais debate.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O Foro de Teresina não pode sequer discutir a proposta do ALR, e isso é péssimo para a economia. O programa deveria debater o assunto em vez de evitar a discussão, porque a economia precisa desse debate.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O clima no Foro de Teresina devia ser esquisito, porque no UOL a Thais Bilebky está sempre rindo e no Foro ela ficava sempre séria. Isso mostra que o ambiente do programa é diferente e vale observar como isso afeta o debate.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
       "id": "bsky_3n22gc7as722x",
-      "rank": 3,
+      "rank": 8,
       "title": "Renuncie e nunca mais volte pro Piauí",
-      "label": "Pedido de renúncia e afastamento do Piauí",
-      "context": "Uma publicação no Bluesky fez um pedido direto para que alguém renuncie e nunca mais volte ao Piauí. O post circula como uma manifestação isolada, sem contexto adicional sobre o cargo ou a situação da pessoa citada.",
+      "label": "Exigência de renúncia e afastamento do Piauí",
+      "context": "Um post no Bluesky publicou a frase \"Renuncie e nunca mais volte pro Piauí\", dirigida a uma figura pública não identificada na fonte. A mensagem viralizou como cobrança direta de renúncia e afastamento do estado.",
       "source": "bluesky",
       "subreddit": "bsky_pi",
       "permalink": "https://bsky.app/profile/dc0761.bsky.social/post/3n22gc7as722x",
       "createdAt": "2026-11-11T16:55:37.378000+00:00",
-      "rawScore": 0.36638377905600406,
-      "relevanceScore": 0.36638377905600406,
-      "suggestedRadius": 72.32,
+      "rawScore": 0.0417126567332041,
+      "relevanceScore": 0.04634739637022678,
+      "suggestedRadius": 48.92,
       "imageUrl": "assets/images/bsky_3n22gc7as722x_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n22gc7as722x_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -165,7 +429,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A pessoa que pediu a renúncia tem razão em cobrar o afastamento de quem não entrega ou não representa o estado. Se o desempenho não corresponde, o recado de nunca mais voltar ao Piauí é uma forma legítima de pressão popular.",
+          "text": "A frase é direta e cumpre o papel de cobrar responsabilidade de quem ocupa cargo público: renunciar e se afastar do Piauí é o mínimo que se espera de alguém que já não tem mais condições de representar o estado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -173,7 +437,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Exigir que alguém nunca mais volte ao Piauí passa dos limites do debate público. Cobrar renúncia é uma coisa, mas transformar isso em banimento de um estado inteiro soa como hostilidade gratuita e não resolve nada.",
+          "text": "Exigir que alguém 'nunca mais volte' ao Piauí passa do limite da crítica política e vira hostilidade contra a própria origem da pessoa, o que não contribui em nada para o debate público sobre o cargo em questão.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -181,131 +445,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post é só um pedido solto, sem dizer quem é a pessoa nem qual o cargo. Sem esse contexto, fica difícil saber se a cobrança faz sentido ou se é apenas um desabafo que viralizou sem informação suficiente.",
+          "text": "A frase sozinha não diz a quem se dirige nem qual o motivo da cobrança, então fica difícil avaliar se a exigência de renúncia tem fundamento ou se é só um grito de indignação sem contexto.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzxwx4wxqk2v",
-      "rank": 4,
-      "title": "Assinante da Piauí cria horário de pomodoro para ler edição física na cadeira de praia",
-      "label": "Leitura da Piauí · Rotina de assinante",
-      "context": "Um assinante da revista Piauí contou que, há um mês, reserva um horário de pomodoro para ler a edição física na cadeira de praia, de meia, tomando café depois do almoço. A publicação gerou identificação em quem trabalha muitas horas na frente do computador e vê nesse ritual uma pausa merecida.",
-      "source": "bluesky",
-      "subreddit": "bsky_pi",
-      "permalink": "https://bsky.app/profile/notasaleatorias.bsky.social/post/3mzxwx4wxqk2v",
-      "createdAt": "2026-11-10T17:15:39.182000+00:00",
-      "rawScore": 0.2585310713257015,
-      "relevanceScore": 0.2585310713257015,
-      "suggestedRadius": 66.51,
-      "imageUrl": "assets/images/bsky_3mzxwx4wxqk2v_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzxwx4wxqk2v_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pi",
-      "sources": [
-        {
-          "title": "Sim! Tô há um mês assinando a Piauí e já tenho horário de pomodoro para ler minha edição física numa cadeira de praia, de meia, sorvendo um café depois do almoço.",
-          "url": "https://bsky.app/profile/notasaleatorias.bsky.social/post/3mzxwx4wxqk2v",
-          "subreddit": "bsky_pi"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Quem passa 10 horas por dia na frente do computador merece sim esse momento de leitura física na cadeira de praia. O ritual do pomodoro com a Piauí é uma recompensa justa para uma rotina exaustiva de trabalho.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Trabalhar quase zero horas na frente do computador e ainda assim fazer o mesmo ritual mostra que essa história de merecimento é só desculpa. O hábito de ler na cadeira de praia não tem relação com cansaço, é puro prazer.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Tanto quem trabalha 10 horas quanto quem trabalha quase nada merece esse tempo de leitura. O ponto não é medir esforço, mas reconhecer que criar um horário para a Piauí física é um hábito válido para qualquer rotina.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzxnlqu4ys2v",
-      "rank": 5,
-      "title": "Flashbacks de raiva e incompreensão ao ler texto da piauí sobre mau comportamento em shows",
-      "label": "Mau comportamento em shows · Relatos e desabafos",
-      "context": "Um texto da revista piauí sobre mau comportamento em shows gerou reações de pessoas que relembraram situações de desrespeito em concertos. O assunto mobiliza quem frequenta shows e se incomoda com atitudes como falar alto, empurrar ou tratar o evento como festa particular.",
-      "source": "bluesky",
-      "subreddit": "bsky_pi",
-      "permalink": "https://bsky.app/profile/hmmfalemais.bsky.social/post/3mzxnlqu4ys2v",
-      "createdAt": "2026-11-10T14:28:30.878000+00:00",
-      "rawScore": 0.25527073107725573,
-      "relevanceScore": 0.25527073107725573,
-      "suggestedRadius": 66.31,
-      "imageUrl": "assets/images/bsky_3mzxnlqu4ys2v_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzxnlqu4ys2v_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pi",
-      "sources": [
-        {
-          "title": "tendo incontáveis flashbacks de raiva e incompreensão ao ler esse texto da piauí sobre mau comportamento em shows",
-          "url": "https://bsky.app/profile/hmmfalemais.bsky.social/post/3mzxnlqu4ys2v",
-          "subreddit": "bsky_pi"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Ir a um show é dividir espaço com estranhos que pagaram pelo mesmo ingresso, e quem fica de conversa alta ou rodinha no meio da plateia atrapalha a experiência de todo mundo. Relatos como o do show do Jorge Ben mostram que esse tipo de atitude estraga o momento para quem realmente quer ouvir música.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            5
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Ficar julgando o comportamento alheio em show virou esporte, e isso diz mais sobre quem reclama do que sobre quem está se divertindo. Cada um curte do seu jeito, e querer controlar como os outros aproveitam o evento é um elitismo disfarçado de amor à música.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            4
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O problema não é a festa em si, mas a falta de noção de espaço: quem vai a um show precisa equilibrar a própria diversão com o respeito ao próximo. A reclamação só faz sentido quando vira regra clara, não quando é só desabafo nas redes.",
-          "source": "sintese",
-          "evidence": [
-            3,
-            6
-          ],
           "votes": 0
         }
       ],
@@ -314,19 +456,19 @@
     },
     {
       "id": "bsky_3mzvrs7eryk2r",
-      "rank": 6,
+      "rank": 9,
       "title": "Piauí é acusada de desinformar ao falar em frente ampla que elegeu Lula",
-      "label": "Frente ampla e apoio a Lula · Crítica à Piauí",
-      "context": "Uma publicação no Bluesky acusa a revista Piauí de desinformação por afirmar que uma frente ampla elegeu Lula, argumentando que quem o apoiou foram partidos de esquerda e o povo. A crítica ocorre em meio a declarações de políticos do Centrão, como Kassab, cobrando ministérios pelo apoio dado ao governo.",
+      "label": "Frente ampla e apoio a Lula · crítica à Piauí",
+      "context": "Uma publicação no Bluesky acusa a revista Piauí de desinformação por afirmar que uma frente ampla elegeu Lula, argumentando que quem o apoiou foram partidos de esquerda e o povo. A crítica ocorre em meio a declarações do Centrão, como as de Kassab, cobrando ministérios pelo apoio dado ao governo.",
       "source": "bluesky",
       "subreddit": "bsky_pi",
       "permalink": "https://bsky.app/profile/hojenon.bsky.social/post/3mzvrs7eryk2r",
       "createdAt": "2026-11-09T20:38:06.779000+00:00",
-      "rawScore": 0.2419255851786131,
-      "relevanceScore": 0.2419255851786131,
-      "suggestedRadius": 65.51,
-      "imageUrl": "assets/images/bsky_3mzvrs7eryk2r_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzvrs7eryk2r_wiki_thumb.jpg",
+      "rawScore": 0.03993322917746017,
+      "relevanceScore": 0.04437025464162241,
+      "suggestedRadius": 48.64,
+      "imageUrl": "assets/images/bsky_3mzvrs7eryk2r_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzvrs7eryk2r_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pi",
       "sources": [
@@ -340,7 +482,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A crítica acerta o ponto: chamar de frente ampla o que foi apoio de partidos de esquerda e do povo é reescrever a história. O Centrão só aparece agora cobrando ministérios, como o Kassab fez, e isso não é frente ampla, é negociata.",
+          "text": "A crítica acerta o ponto: chamar de frente ampla o que foi apoio de partidos de esquerda e do povo é reescrever a história. O Centrão só aparece depois, cobrando ministérios como se tivesse sido protagonista da eleição, e isso não pode passar batido.",
           "source": "sintese",
           "evidence": [
             1,
@@ -351,7 +493,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O texto da Piauí pode ter errado o termo, mas o Centrão está escancarado: Kassab pede 3 ou 4 ministérios em troca de apoio e ninguém chama isso de desinformação. A cobrança descarada é o problema real, não a expressão usada pela revista.",
+          "text": "O texto da Piauí erra ao ignorar que o Centrão, com Kassab à frente, está cobrando cargos pelo apoio que diz ter dado a Lula. Dizer que não houve frente ampla é tapar o olho para a negociação política real que sustenta o governo no Congresso.",
           "source": "sintese",
           "evidence": [
             3,
@@ -362,80 +504,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O tom do Centrão mudou: antes negociavam nos bastidores, agora cobram publicamente como o Valdemar faria. Isso não invalida a crítica à Piauí, mas mostra que a disputa por cargos está mais explícita do que a discussão sobre frente ampla.",
+          "text": "O tom do Centrão mudou: antes negociavam nos bastidores, agora cobram ministérios em público com descaramento. Isso não confirma a tese de frente ampla, mas também não dá para reduzir tudo a desinformação da Piauí sem olhar esse novo comportamento.",
           "source": "sintese",
           "evidence": [
-            4,
-            5
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzr624e6ok2t",
-      "rank": 7,
-      "title": "Foro de Teresina: não se pode sequer discutir a proposta do ALR, e isso é péssimo para a economia",
-      "label": "Foro de Teresina · Proposta do ALR e economia",
-      "context": "O podcast Foro de Teresina discutiu a proposta do ALR (Arcabouço de Responsabilidade Fiscal) e gerou reações sobre a impossibilidade de debater o tema. O episódio também mencionou a saída de Thais Bilebky e Toledo do programa, criando dois foros por semana.",
-      "source": "bluesky",
-      "subreddit": "bsky_pi",
-      "permalink": "https://bsky.app/profile/gsc.bsky.social/post/3mzr624e6ok2t",
-      "createdAt": "2026-11-08T00:33:57.287000+00:00",
-      "rawScore": 0.0784472486743709,
-      "relevanceScore": 0.23694349874648651,
-      "suggestedRadius": 65.21,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "economia",
-      "region": "br-pi",
-      "sources": [
-        {
-          "title": "Foro de Teresina: MAS NÃO PODE SEQUER DISCUTIR A PROPOSTA DO ALR OK ISSO É PÉSSIMO PRA ECONOMIA!!!",
-          "url": "https://bsky.app/profile/gsc.bsky.social/post/3mzr624e6ok2t",
-          "subreddit": "bsky_pi"
-        },
-        {
-          "title": "Ler os comentários do Spotify é sempre uma tristeza, mas as viúvas do Guido Mantega nos do Foro de Teresina hoje é patético",
-          "url": "https://bsky.app/profile/arthursemtavola.bsky.social/post/3mzohanzrfs2k",
-          "subreddit": "bsky_pi"
-        },
-        {
-          "title": "Gostei que a Thais Bilebky e o Toledo sairam do Foro de Teresina, pq assim temos dois foros de Teresina por semana, é dividir e se multiplicar como uma planaria",
-          "url": "https://bsky.app/profile/claudiabigoto.bsky.social/post/3mzqk2wbgck2s",
-          "subreddit": "bsky_pi"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A política econômica do governo Dilma foi um desastre e queimou o capital político da esquerda de forma quase irrecuperável. Não reconhecer isso em nome de criticar a Faria Lima é abrir mão do bom senso.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Depois o dólar bate 7 pila e começa o chororó. Essa proposta do ALR é péssima para a economia e quem a defende vai ter que lidar com a consequência.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Ler os comentários do Foro de Teresina virou uma tristeza; o clima no programa devia ser esquisito, porque no UOL ela está sempre rindo e no foro ficava sempre séria.",
-          "source": "sintese",
-          "evidence": [
-            3,
             4,
             5
           ],
@@ -447,19 +518,19 @@
     },
     {
       "id": "bsky_3mzvzarn6ek2f",
-      "rank": 8,
+      "rank": 10,
       "title": "Charles Cosac dá entrevista à revista Piauí",
       "label": "Entrevista de Charles Cosac à Piauí",
-      "context": "Charles Cosac concedeu uma entrevista à revista Piauí, na qual fala sobre a Cosac Naify e outros temas. A conversa chamou atenção nas redes sociais, com destaque para os bastidores da editora e para a forma como ele descreve suas decisões de negócio.",
+      "context": "Charles Cosac concedeu uma entrevista à revista Piauí, na qual fala sobre a editora Cosac Naify e revela que define os preços dos livros 'no feeling'. A entrevista repercutiu entre leitores e interessados no mercado editorial.",
       "source": "bluesky",
       "subreddit": "bsky_pi",
       "permalink": "https://bsky.app/profile/apsaramani.bsky.social/post/3mzvzarn6ek2f",
       "createdAt": "2026-11-09T22:51:30.582000+00:00",
-      "rawScore": 0.2248233212199963,
-      "relevanceScore": 0.2248233212199963,
-      "suggestedRadius": 64.45,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.03639184868790107,
+      "relevanceScore": 0.04043538743100118,
+      "suggestedRadius": 48.07,
+      "imageUrl": "assets/images/bsky_3mzvzarn6ek2f_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzvzarn6ek2f_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pi",
       "sources": [
@@ -473,7 +544,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A entrevista do Cosac para a Piauí é sensacional: ele conta tudo sobre a Cosac Naify, inclusive que precificava os livros no feeling. É raro ver alguém do mercado editorial falar com tanta franqueza sobre como tomava decisões.",
+          "text": "A entrevista do Cosac para a Piauí é sensacional: ele conta tudo sobre a Cosac Naify, inclusive que precifica os livros no feeling. É raro ver um editor falando tão abertamente sobre como toma decisões.",
           "source": "sintese",
           "evidence": [
             1
@@ -483,7 +554,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Precificar no feeling pode até render boas histórias, mas não é assim que se administra uma editora que precisa durar. A entrevista é divertida, só que revela uma gestão sem método, e quem trabalha com livro sabe o custo disso.",
+          "text": "Precificar livro no feeling é uma escolha que ignora custos e planejamento. A entrevista pode ser divertida, mas revela uma gestão pouco profissional para um mercado que precisa de consistência.",
           "source": "sintese",
           "evidence": [
             1
@@ -493,124 +564,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A entrevista do Charles Cosac à Piauí ocupa muitos cômodos na cabeça da gente. Ele fala da Cosac Naify com uma mistura de memória e improviso que explica bastante do que foi a editora, sem precisar transformar isso em manual de gestão.",
+          "text": "A entrevista do Charles Cosac à Piauí ocupou muitos cômodos na minha mente. Ainda estou processando o que ele disse sobre a Cosac Naify e a precificação no feeling.",
           "source": "sintese",
           "evidence": [
             2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzuuq3n5n222",
-      "rank": 9,
-      "title": "Cidade no interior do Piauí usa moto para ir à roça e levar gado; Globo é criticada por escolha política ao mostrar o Nordeste",
-      "label": "Uso de motos no Piauí e retrato da Globo",
-      "context": "Uma publicação no Bluesky afirma que uma cidade no interior do Piauí usa motos para ir à roça e levar gado, e critica a Globo por escolher politicamente como mostrar o Nordeste. O post questiona a representação da região na mídia.",
-      "source": "bluesky",
-      "subreddit": "bsky_pi",
-      "permalink": "https://bsky.app/profile/cgominha.bsky.social/post/3mzuuq3n5n222",
-      "createdAt": "2026-11-09T11:57:56.575000+00:00",
-      "rawScore": 0.12225658247000325,
-      "relevanceScore": 0.12225658247000325,
-      "suggestedRadius": 56.98,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-pi",
-      "sources": [
-        {
-          "title": "A cidadezinha la do interior do Piaui, interior interior, usa moto pra ir pra roça e levar gado. É mt politico como a Globo escolhe mostrar o Nordeste.",
-          "url": "https://bsky.app/profile/cgominha.bsky.social/post/3mzuuq3n5n222",
-          "subreddit": "bsky_pi"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A Globo realmente escolhe a dedo o que mostrar do Nordeste, e isso é político. Mostrar só miséria ou exotismo reforça estereótipos e esconde a diversidade da região. A cidade do Piauí que usa moto na roça é um exemplo de vida real que a emissora ignora.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A Globo mostra o que faz sentido jornalístico, não é uma conspiração. O uso de motos na roça é uma realidade local, mas não significa que a emissora tenha que retratar toda a região assim. Cada veículo escolhe suas pautas, e isso não é necessariamente político.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A crítica à Globo é válida, mas o post original também generaliza ao dizer que a emissora escolhe politicamente o que mostrar. A relação entre mídia e representação regional é complexa e envolve vários fatores, não só uma suposta intenção política.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzprzbp53c2r",
-      "rank": 10,
-      "title": "Jornalista escreve texto 'Vejo vocês no Fórum de Teresina'",
-      "label": "Fórum de Teresina · Calor e férias de inverno",
-      "context": "Um jornalista publicou o texto 'Vejo vocês no Fórum de Teresina' no site Sul21. O título faz referência ao calor da capital do Piauí, que é mais quente que Porto Alegre em janeiro, e à realização do evento nas férias de inverno.",
-      "source": "bluesky",
-      "subreddit": "bsky_pi",
-      "permalink": "https://bsky.app/profile/dcdez.bsky.social/post/3mzprzbp53c2r",
-      "createdAt": "2026-11-07T11:26:04.570000+00:00",
-      "rawScore": 0.09269473201537558,
-      "relevanceScore": 0.09269473201537558,
-      "suggestedRadius": 54.27,
-      "imageUrl": "assets/images/bsky_3mzprzbp53c2r_og.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzprzbp53c2r_og_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pi",
-      "sources": [
-        {
-          "title": "Gostei do texto desse jornalista. \"Vejo vocês no Fórum de Teresina\" sul21.com.br/opiniao/2026...",
-          "url": "https://bsky.app/profile/dcdez.bsky.social/post/3mzprzbp53c2r",
-          "subreddit": "bsky_pi"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O texto do jornalista é bom e o título criativo faz sentido: Teresina é conhecida por ser mais quente que Porto Alegre em janeiro, então marcar o fórum nas férias de inverno é uma escolha inteligente para amenizar o calor.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A escolha de Teresina para o fórum é questionável porque o calor é extremo, e mesmo nas férias de inverno a cidade continua muito quente. Não parece um lugar adequado para um evento que exige conforto térmico.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O título do jornalista é criativo, mas a discussão sobre o calor em Teresina mostra que o clima pode ser um fator limitante. A realização do fórum nas férias de inverno pode ajudar, mas não resolve completamente o problema.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3
           ],
           "votes": 0
         }

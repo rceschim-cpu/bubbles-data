@@ -1,21 +1,166 @@
 {
-  "generatedAt": "2026-11-12T06:29:13.508039+00:00",
+  "generatedAt": "2026-11-12T19:47:27.340864+00:00",
   "region": "br-pb",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n23b6lr3b22i",
+      "id": "bsky_3n24wg26gas2u",
       "rank": 1,
-      "title": "Colega paraibana passou mal de frio em Brasília, e curitibana diz que não sentiu frio",
-      "label": "Frio em Brasília · relatos divergentes",
-      "context": "Uma pessoa que se mudou da Paraíba para Brasília em março relatou ter passado mal de frio durante o inverno. Uma pessoa nascida em Curitiba comparou a experiência e afirmou que não sentiu frio nem usou casaco na mesma temporada.",
+      "title": "A Ceci roubou pão na casa do João? ( ) Sim ( ) Não ( ) Outra pessoa",
+      "label": "Enquete Ceci · Pão na casa do João",
+      "context": "Uma enquete publicada no Bluesky pergunta se Ceci roubou pão na casa do João, com as opções Sim, Não e Outra pessoa. O formato de múltipla escolha transforma a pergunta em um teste coletivo sobre a autoria do episódio.",
+      "source": "bluesky",
+      "subreddit": "bsky_pb",
+      "permalink": "https://bsky.app/profile/doouze.bsky.social/post/3n24wg26gas2u",
+      "createdAt": "2026-11-12T16:48:21.584000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n24wg26gas2u_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24wg26gas2u_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pb",
+      "sources": [
+        {
+          "title": "A Ceci roubou pão na casa do João? ( ) Sim ( ) Não ( ) Outra pessoa",
+          "url": "https://bsky.app/profile/doouze.bsky.social/post/3n24wg26gas2u",
+          "subreddit": "bsky_pb"
+        },
+        {
+          "title": "FINALMENTE uma pessoa publica (com grande influência) fez vídeo pra denunciar o que está acontecendo na Bahia. Parabéns, João Pimenta! Espero que esse vídeo tenha a visibilidade que precisamos.",
+          "url": "https://bsky.app/profile/rosepaixao.bsky.social/post/3mzr5tsjprs2g",
+          "subreddit": "bsky_pb"
+        },
+        {
+          "title": "Voltei lendo alguns espolios de guerra do FIQ e olha: João Pé de Feijão da @inglee.bsky.social . Puta merda, que quentinho no coração que deu durante a viagem toda a leitura dessa hq. Um projeto gráfico primoroso e uma abordagem muito carinhosa e sem pieguice sobre conviver com uma pessoa autisma.♡",
+          "url": "https://bsky.app/profile/shinjoao.bsky.social/post/3mzwfi7qbys22",
+          "subreddit": "bsky_pb"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A enquete acerta ao colocar 'Outra pessoa' como opção, porque a pergunta original já sugere que a Ceci pode não ser a responsável pelo pão na casa do João. Deixar essa alternativa explícita evita condenar alguém sem prova e mantém o tom de brincadeira.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Perguntar se a Ceci roubou o pão na casa do João sem apresentar nenhum fato ou contexto só reforça uma acusação vaga. A enquete vira julgamento público sem provas, e quem responde 'Sim' está decidindo a culpa de alguém com base em uma frase solta.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A pergunta funciona como piada interna, não como acusação real: o formato de múltipla escolha com 'Outra pessoa' mostra que o próprio autor da enquete não trata o caso como sério. O problema é que, fora do contexto original, a brincadeira pode ser lida como cobrança de responsabilidade.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzyhrtnv2k2c",
+      "rank": 2,
+      "title": "Globo faz novela com nordestino sonhando ir pro sudeste enquanto sudestino pesquisa apartamento em João Pessoa",
+      "label": "Mudança de sudestinos para o Nordeste · Crítica à Globo",
+      "context": "Uma postagem no Bluesky critica a Globo por fazer uma novela em que o nordestino sonha em ir para o sudeste, enquanto, na vida real, pessoas do sudeste estariam se mudando para o nordeste em busca de qualidade de vida. A postagem viralizou e gerou comentários de pessoas que dizem ter deixado o sudeste ou o sul para morar em estados nordestinos, citando problemas como água contaminada e violência, além de criticarem a representação da região nas novelas.",
+      "source": "bluesky",
+      "subreddit": "bsky_pb",
+      "permalink": "https://bsky.app/profile/danielduncan.bsky.social/post/3mzyhrtnv2k2c",
+      "createdAt": "2026-11-10T22:16:54.673000+00:00",
+      "rawScore": 0.8344291057009942,
+      "relevanceScore": 0.7953695590903307,
+      "suggestedRadius": 89.51,
+      "imageUrl": "assets/images/bsky_3mzyhrtnv2k2c_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzyhrtnv2k2c_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pb",
+      "sources": [
+        {
+          "title": "a globo fazendo novela em que o nordestino sonha em ir pro sudeste, enquanto, na vida real, o sudestino tá pesquisando apartamento em joão pessoa porque cansou de ingerir metanol em são paulo e tomar banho com água necrosada da sabesp",
+          "url": "https://bsky.app/profile/danielduncan.bsky.social/post/3mzyhrtnv2k2c",
+          "subreddit": "bsky_pb"
+        },
+        {
+          "title": "pra mim, a ironia é a globo meter uma novela dessas justamente quando tanta gente do sul e do sudeste tá se mudando pro nordeste em busca da qualidade de vida que já não encontra onde mora. você vai a joão pessoa e parece que tem mais catarinense do que paraibano",
+          "url": "https://bsky.app/profile/danielduncan.bsky.social/post/3mzyenguojk26",
+          "subreddit": "bsky_pb"
+        },
+        {
+          "title": "E não retrata as grandes cidades do nordeste desenvolvidas como referência de futuro, trabalho, estudo. O resto é tudo mato. Os autores e a globo, só retratam a vida urbana, na região sudeste, principalmente SP e RJ. Esquecem de Salvador, Forteza, Maceió, São Luiz, Recife, Natal, João Pessoa.",
+          "url": "https://bsky.app/profile/marciaco7.bsky.social/post/3mzyzwn3ho22w",
+          "subreddit": "bsky_pb"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Globo continua retratando o nordeste como um lugar atrasado, enquanto muita gente do sudeste está se mudando para lá justamente porque aqui a qualidade de vida é melhor. Conheço vários paulistas que vieram para a Paraíba e não voltam mais.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2,
+            4,
+            8,
+            9,
+            17,
+            19
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa história de que todo mundo está fugindo do sudeste é exagero. Quem tem condições fica, e quem vem para o nordeste muitas vezes enfrenta problemas de infraestrutura e serviços que as novelas não mostram. A realidade é bem diferente.",
+          "source": "sintese",
+          "evidence": [
+            11,
+            14,
+            15,
+            20
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A novela podia mostrar as capitais nordestinas como lugares desenvolvidos, com universidades e empregos, em vez de só retratar o sudeste. Mas também é preciso lembrar que o interior de qualquer região tem seus desafios.",
+          "source": "sintese",
+          "evidence": [
+            3,
+            13,
+            18,
+            26,
+            27
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n23b6lr3b22i",
+      "rank": 3,
+      "title": "Pessoa de Curitiba diz não ter sentido frio em Brasília no inverno, enquanto colega da Paraíba passou mal",
+      "label": "Frio em Brasília · Relatos divergentes",
+      "context": "Uma pessoa nascida em Curitiba relatou que não sentiu frio em Brasília durante o inverno e não precisou usar casaco, enquanto uma colega vinda da Paraíba disse ter passado mal de frio no mesmo período. A diferença de percepção entre quem é acostumado ao frio e quem vem de região mais quente gerou comentários curiosos sobre onde estaria esse frio.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/julianamarques.bsky.social/post/3n23b6lr3b22i",
       "createdAt": "2026-11-12T00:56:46.476000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.5823716245687345,
+      "relevanceScore": 0.4633305127815825,
+      "suggestedRadius": 76.84,
       "imageUrl": "assets/images/bsky_3n23b6lr3b22i_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n23b6lr3b22i_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -31,7 +176,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Quem vem do Nordeste sente muito mais o frio de Brasília porque não está acostumado com temperaturas baixas. A comparação com alguém de Curitiba é injusta: a adaptação ao clima faz toda a diferença na sensação térmica.",
+          "text": "Quem vem de Curitiba estranha mesmo o inverno de Brasília, que é bem mais ameno. A colega da Paraíba sentiu frio porque não está acostumada, mas para quem cresceu no Sul, o clima daqui é tranquilo e dá para ficar sem casaco.",
           "source": "sintese",
           "evidence": [
             1,
@@ -42,160 +187,22 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Brasília nem tem inverno de verdade, então esse relato de passar mal de frio soa exagerado. Quem é de Curitiba estranha justamente porque aqui o frio é fraco e passageiro, não justifica tanto sofrimento.",
+          "text": "Brasília tem inverno seco e com noites frias, então quem diz que não sentiu frio nenhum pode estar exagerando ou ter tido sorte de não pegar as madrugadas mais geladas. A colega paraibana passou mal porque o choque térmico é real para quem vem do Nordeste.",
           "source": "sintese",
           "evidence": [
-            3,
-            4
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A sensação de frio varia demais conforme a região e o costume de cada um. O relato da colega paraibana e o da curitibana mostram que o mesmo inverno pode ser sentido de formas completamente diferentes, sem que ninguém esteja errado.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2,
             3
           ],
           "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzyhrtnv2k2c",
-      "rank": 2,
-      "title": "Globo faz novela com nordestino sonhando ir pro sudeste enquanto sudestino se muda pro Nordeste",
-      "label": "Novela da Globo e migração sudeste-nordeste",
-      "context": "Uma novela da Globo retrata um nordestino que sonha em se mudar para o Sudeste, enquanto, na vida real, pessoas do Sudeste estão se mudando para o Nordeste em busca de qualidade de vida. O contraste gerou discussão nas redes, com relatos de sudestinos que deixaram São Paulo e outras capitais para morar em João Pessoa, Aracaju e outras cidades nordestinas.",
-      "source": "bluesky",
-      "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/danielduncan.bsky.social/post/3mzyhrtnv2k2c",
-      "createdAt": "2026-11-10T22:16:54.673000+00:00",
-      "rawScore": 0.7258506412843048,
-      "relevanceScore": 0.917050293291751,
-      "suggestedRadius": 93.46,
-      "imageUrl": "assets/images/bsky_3mzyhrtnv2k2c_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzyhrtnv2k2c_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pb",
-      "sources": [
-        {
-          "title": "a globo fazendo novela em que o nordestino sonha em ir pro sudeste, enquanto, na vida real, o sudestino tá pesquisando apartamento em joão pessoa porque cansou de ingerir metanol em são paulo e tomar banho com água necrosada da sabesp",
-          "url": "https://bsky.app/profile/danielduncan.bsky.social/post/3mzyhrtnv2k2c",
-          "subreddit": "bsky_pb"
         },
         {
-          "title": "pra mim, a ironia é a globo meter uma novela dessas justamente quando tanta gente do sul e do sudeste tá se mudando pro nordeste em busca da qualidade de vida que já não encontra onde mora. você vai a joão pessoa e parece que tem mais catarinense do que paraibano",
-          "url": "https://bsky.app/profile/danielduncan.bsky.social/post/3mzyenguojk26",
-          "subreddit": "bsky_pb"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A Globo acertou ao mostrar o nordestino que sonha ir pro Sudeste, porque essa ainda é a realidade de muita gente que busca trabalho e estudo. A novela só reflete um fluxo migratório que existe há décadas e não deixou de existir.",
-          "source": "sintese",
-          "evidence": [
-            26
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A emissora insiste em retratar o Nordeste como lugar parado no tempo, ignorando que hoje é o Sudeste que manda gente pra cá em busca de qualidade de vida. A novela está fora da realidade e reforça um estereótipo que não se sustenta mais.",
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Fiquei curioso para saber em qual região ela estava, porque em alguns lugares de Brasília o frio é mais intenso e em outros nem tanto. O relato depende muito do bairro e do horário, então é difícil generalizar.",
           "source": "sintese",
           "evidence": [
             1,
-            6,
-            23
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O movimento inverso é real, mas não dá pra generalizar: enquanto uns sudestinos fogem da violência e da poluição, muitos nordestinos ainda precisam sair pra estudar e trabalhar. A novela pode mostrar um lado, mas a migração continua nos dois sentidos.",
-          "source": "sintese",
-          "evidence": [
-            10,
-            26
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzyluusxy224",
-      "rank": 3,
-      "title": "Lrp não vão para João Pessoa, ninguém aguenta mais",
-      "label": "João Pessoa · Migração e gentrificação",
-      "context": "Posts no Bluesky dizem que moradores de João Pessoa estão reclamando da chegada de gente de fora, principalmente do Sul e Sudeste, e da especulação imobiliária na cidade. A discussão mistura incômodo com o crescimento populacional e críticas à gentrificação de bairros.",
-      "source": "bluesky",
-      "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/yaneyao.bsky.social/post/3mzyluusxy224",
-      "createdAt": "2026-11-10T23:30:11.790000+00:00",
-      "rawScore": 0.13929052956774102,
-      "relevanceScore": 0.5360075360848656,
-      "suggestedRadius": 79.93,
-      "imageUrl": "assets/images/bsky_3mzyluusxy224_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzyluusxy224_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pb",
-      "sources": [
-        {
-          "title": "Lrp nao vao pra João Pessoa, ngm aguenta mais",
-          "url": "https://bsky.app/profile/yaneyao.bsky.social/post/3mzyluusxy224",
-          "subreddit": "bsky_pb"
-        },
-        {
-          "title": "Voltei lendo alguns espolios de guerra do FIQ e olha: João Pé de Feijão da @inglee.bsky.social . Puta merda, que quentinho no coração que deu durante a viagem toda a leitura dessa hq. Um projeto gráfico primoroso e uma abordagem muito carinhosa e sem pieguice sobre conviver com uma pessoa autisma.♡",
-          "url": "https://bsky.app/profile/shinjoao.bsky.social/post/3mzwfi7qbys22",
-          "subreddit": "bsky_pb"
-        },
-        {
-          "title": "Uma vez um sudestino me perguntou se era verdade que tinha jacaré na rua em João Pessoa. Não sei da onde o povo tira essas ideias, mas agora posso responder \"Igual no Rio?\"",
-          "url": "https://bsky.app/profile/naiza.bsky.social/post/3mzv37hmsks2c",
-          "subreddit": "bsky_pb"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A cidade está sendo gentrificada para agradar quem vem de fora, e a especulação imobiliária só piora a vida de quem já mora aqui. O paraíso de João Pessoa é propaganda para turista, enquanto os bairros vão ficando caros demais para os locais.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "João Pessoa já está insuportável com tanta gente vindo morar aqui, e a maioria dos vizinhos do meu prédio é do Sul e Sudeste. A cidade não tem estrutura para esse crescimento todo, e quem é daqui sente a diferença no trânsito e nos preços.",
-          "source": "sintese",
-          "evidence": [
-            5
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O problema não é só a migração em si, mas a falta de planejamento urbano e de controle da especulação. Sem políticas públicas que segurem o custo de vida, qualquer crescimento vira pressão sobre os moradores, venham de onde vierem.",
-          "source": "sintese",
-          "evidence": [
             2,
-            9
+            4
           ],
           "votes": 0
         }
@@ -204,23 +211,28 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n226soeeik2m",
+      "id": "bsky_3n23m7y3smc2c",
       "rank": 4,
-      "title": "Nordeste tem computador quântico, diz g1",
-      "label": "Computador quântico na Paraíba · 20 e 100 qubits",
-      "context": "O portal g1 publicou uma reportagem sobre um computador quântico no Nordeste, com menção a versões de 20 e 100 qubits na Paraíba. O anúncio gerou repercussão nas redes, com usuários destacando o feito tecnológico e outros questionando o envolvimento do governo federal.",
+      "title": "Globo reage ao Nordeste barrar bolsonarismo de novo",
+      "label": "Nordeste barra bolsonarismo · reação da Globo",
+      "context": "O post ironiza a reação da Globo ao fato de o Nordeste ter barrado o bolsonarismo mais uma vez, sugerindo que a emissora falaria em 'meter um filtro amarelo' e 'botar esses paraíba tudo pra beber água na cabaça'. A piada usa a imagem do computador quântico da Paraíba, citado em outros posts, para reforçar a ideia de que o Nordeste tem tecnologia e não precisa de tutela.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/patriciojunior.com.br/post/3n226soeeik2m",
-      "createdAt": "2026-11-11T14:41:40.671000+00:00",
-      "rawScore": 0.3172786940131934,
-      "relevanceScore": 0.5254261860667236,
-      "suggestedRadius": 79.49,
-      "imageUrl": "assets/images/bsky_3n226soeeik2m_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n226soeeik2m_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/cruelseraph.bsky.social/post/3n23m7y3smc2c",
+      "createdAt": "2026-11-12T04:14:24.176000+00:00",
+      "rawScore": 0.3032130749844346,
+      "relevanceScore": 0.39931031928815014,
+      "suggestedRadius": 73.91,
+      "imageUrl": "assets/images/bsky_3n23m7y3smc2c_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n23m7y3smc2c_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
+        {
+          "title": "A globo vendo q o nordeste barrou o bolsonarismo de novo e falando \"pois eu vou meter um filtro amarelo e botar esses paraíba tudo pra beber agua na cabaça\", juroo kkkkk",
+          "url": "https://bsky.app/profile/cruelseraph.bsky.social/post/3n23m7y3smc2c",
+          "subreddit": "bsky_pb"
+        },
         {
           "title": "O Nordeste tem computador quântico, tá? g1.globo.com/google/amp/p...",
           "url": "https://bsky.app/profile/patriciojunior.com.br/post/3n226soeeik2m",
@@ -230,34 +242,33 @@
           "title": "g1.globo.com/google/amp/p... 🙄🙄🙄🙄",
           "url": "https://bsky.app/profile/arlindars.bsky.social/post/3mzsydajyak2d",
           "subreddit": "bsky_pb"
-        },
-        {
-          "title": "Computador Quântico da Paraíba, 20 e 100 qubits. Governo Federal, e vai tomando!",
-          "url": "https://bsky.app/profile/cabra.pw/post/3mzqgvhnzvc2d",
-          "subreddit": "bsky_pb"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Nordeste finalmente aparece no mapa da tecnologia avançada com um computador quântico de 100 qubits na Paraíba. Isso mostra que investimento em ciência fora do eixo Sul-Sudeste dá resultado e coloca o Brasil na vanguarda da computação quântica.",
+          "text": "O Nordeste mostrou mais uma vez que não segue o bolsonarismo e a Globo tenta desqualificar com piada de cabaça, mas o computador quântico da Paraíba prova que a região tem capacidade e não precisa de filtro amarelo nenhum.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Computador quântico de 20 qubits não é lá grande coisa perto do que IBM e Google já têm. Chamar isso de 'computador quântico' sem qualificar o tamanho é sensacionalismo e pode iludir o público sobre o real avanço da pesquisa no país.",
+          "text": "Essa piada de filtro amarelo e cabaça é um preconceito disfarçado de humor, porque trata o povo nordestino como atrasado e ignora que a região tem tecnologia de ponta e vota como quer, sem precisar de deboche.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A notícia mistura conquista científica com propaganda política ao citar o governo federal. O fato de existir um laboratório com qubits na Paraíba é relevante, mas a ênfase no apoio governamental desvia do que realmente importa: a capacidade técnica e os resultados da pesquisa.",
+          "text": "A brincadeira com a Globo e o filtro amarelo é engraçada, mas o foco deveria ser o computador quântico da Paraíba, que é uma conquista real e mostra que o Nordeste está avançando, independente de eleição ou piada.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -271,14 +282,14 @@
       "rank": 5,
       "title": "Homens armados incendeiam 12 barracos e ameaçam 40 famílias na Paraíba",
       "label": "Incêndio criminoso em acampamento na Paraíba",
-      "context": "Homens armados incendiaram 12 barracos e fizeram disparos no Acampamento Marilene Dantas, na Paraíba, na madrugada de 8 de novembro. O movimento denuncia ameaças e cobra proteção para cerca de 40 famílias que vivem no local.",
+      "context": "Homens armados incendiaram barracos e fizeram disparos no Acampamento Marilene Dantas, na Paraíba, na madrugada de 8 de novembro. O movimento denuncia ameaças e cobra proteção para cerca de 40 famílias.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/alma-preta.bsky.social/post/3mzy3rzhdjc2h",
       "createdAt": "2026-11-10T18:42:18.687000+00:00",
-      "rawScore": 0.22783583965370377,
-      "relevanceScore": 0.3599290659859649,
-      "suggestedRadius": 72.0,
+      "rawScore": 0.2628303091079045,
+      "relevanceScore": 0.28577448668692745,
+      "suggestedRadius": 68.07,
       "imageUrl": "assets/images/bsky_3mzy3rzhdjc2h_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzy3rzhdjc2h_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -299,7 +310,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A resposta precisa ser cadeia pesada para todos os envolvidos no incêndio e nos disparos. Quem age assim contra famílias inteiras não pode sair impune, e a lei tem que ser aplicada com todo o rigor para servir de exemplo.",
+          "text": "A resposta precisa ser cadeia pesada para todos os envolvidos. Incendiar barracos e atirar contra famílias é crime grave e não pode ficar impune. As autoridades têm que agir rápido e prender os responsáveis.",
           "source": "sintese",
           "evidence": [
             1
@@ -309,7 +320,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O poder público demorou para agir e agora 40 famílias estão desamparadas, sem proteção e sem seus barracos. Cobrar proteção depois do ataque é o mínimo, mas a omissão anterior permitiu que isso acontecesse.",
+          "text": "O poder público demora a proteger as famílias e só cobra proteção depois que o ataque acontece. Faltam medidas preventivas e segurança para quem vive no acampamento. A impunidade incentiva novos crimes.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -317,7 +328,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A violência no campo atinge famílias que já vivem em situação precária, e o caso do Acampamento Marilene Dantas expõe a falta de segurança e de políticas de proteção. É preciso investigar e garantir abrigo, mas também cobrar respostas concretas das autoridades.",
+          "text": "A violência no campo atinge famílias que já vivem em situação vulnerável. É preciso investigar o caso e garantir proteção, mas também entender as causas da disputa por terra na região.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -327,28 +338,23 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzysbusgtc27",
+      "id": "bsky_3mzyimwozrs2y",
       "rank": 6,
-      "title": "Propagandas de prefeitura no Vale do Paraíba usam IA com animações estilo Pixar",
-      "label": "Propaganda pública · IA estilo Pixar",
-      "context": "Moradores do Vale do Paraíba, no interior de São Paulo, relatam que propagandas de prefeituras da região estão usando inteligência artificial para criar animações no estilo dos filmes da Pixar. O uso dessa estética em peças publicitárias oficiais levanta discussão sobre gastos com publicidade e sobre como a comunicação pública é feita.",
+      "title": "Usuária diz que foi impedida de tomar vacina da Covid no Vale do Paraíba",
+      "label": "Recusa de vacina da Covid · Vale do Paraíba",
+      "context": "Uma pessoa relatou que, ao tentar se vacinar neste ano no Vale do Paraíba, foi informada de que não poderia receber a dose da Covid. O relato gerou reação de quem cobra que ela exija o imunizante imediatamente.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/tiul.bsky.social/post/3mzysbusgtc27",
-      "createdAt": "2026-11-11T01:24:50.076000+00:00",
-      "rawScore": 0.08380094073844865,
-      "relevanceScore": 0.2642383417955691,
-      "suggestedRadius": 66.84,
-      "imageUrl": "assets/images/bsky_3mzysbusgtc27_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzysbusgtc27_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/tawinchester.bsky.social/post/3mzyimwozrs2y",
+      "createdAt": "2026-11-10T22:32:04.772000+00:00",
+      "rawScore": 0.07958525220129678,
+      "relevanceScore": 0.13757338823978257,
+      "suggestedRadius": 58.25,
+      "imageUrl": "assets/images/bsky_3mzyimwozrs2y_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzyimwozrs2y_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
-        {
-          "title": "Aqui no Vale do Paraíba, interior de SP, tudo quanto é propaganda de prefeitura tá usando IA com animações tipo Pixar… e na região de vcs?",
-          "url": "https://bsky.app/profile/tiul.bsky.social/post/3mzysbusgtc27",
-          "subreddit": "bsky_pb"
-        },
         {
           "title": "Parece que aqui no vale do paraíba tbm! Qdo fui tomar vacina esse ano me disseram que eu ñ podia tomar da covid 🤡",
           "url": "https://bsky.app/profile/tawinchester.bsky.social/post/3mzyimwozrs2y",
@@ -364,15 +370,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A prefeitura usar IA para animações estilo Pixar deixa a propaganda mais atrativa e barata do que produzir animação tradicional, o que ajuda a comunicar serviços públicos para um público mais amplo.",
+          "text": "Quem foi impedido de tomar a vacina da Covid deve exigir o imunizante na hora, porque a dose está disponível e negar o direito de se vacinar é inaceitável em qualquer posto do Vale do Paraíba.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Orçamento de 11 milhões com publicidade para 2027 é dinheiro demais para peças que parecem feitas com IA genérica, e isso desvia recursos que deveriam ir para saúde e educação.",
+          "text": "O posto que barrou a vacina da Covid cometeu um erro grave, e a pessoa precisa denunciar o local para que outros não passem pela mesma situação de ter o direito à imunização negado.",
           "source": "sintese",
           "evidence": [
             1
@@ -382,60 +390,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O uso de IA em propaganda de prefeitura pode ser só uma tendência visual da moda, mas o que importa é se o conteúdo informa de verdade ou se é só pirotecnia para maquiar a gestão.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n22hrui55s2i",
-      "rank": 7,
-      "title": "MST e segurança: site publica reportagem sobre atuação do movimento",
-      "label": "MST · Segurança e atuação",
-      "context": "O site A Nova Democracia publicou uma reportagem sobre o MST e a questão da segurança. O conteúdo trata da atuação do movimento no tema, sem detalhes adicionais disponíveis nas fontes.",
-      "source": "bluesky",
-      "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/arlindars.bsky.social/post/3n22hrui55s2i",
-      "createdAt": "2026-11-11T17:22:18.881000+00:00",
-      "rawScore": 0.16193590717378423,
-      "relevanceScore": 0.17433945360790462,
-      "suggestedRadius": 61.05,
-      "imageUrl": "assets/images/bsky_3n22hrui55s2i_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n22hrui55s2i_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pb",
-      "sources": [
-        {
-          "title": "anovademocracia.com.br/mst-seguranc...",
-          "url": "https://bsky.app/profile/arlindars.bsky.social/post/3n22hrui55s2i",
-          "subreddit": "bsky_pb"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A reportagem do A Nova Democracia traz visibilidade para a atuação do MST na questão da segurança, um assunto que costuma ser tratado de forma distorcida na grande mídia. Ter esse registro publicado ajuda a mostrar o trabalho do movimento no tema.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Publicar uma reportagem sobre o MST e segurança sem apresentar dados ou fontes verificáveis não contribui para o debate. O leitor fica sem saber o que de fato aconteceu, e o texto acaba servindo mais para divulgar uma narrativa do que para informar.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Só com o link publicado fica difícil avaliar o conteúdo da reportagem sobre o MST e segurança. Antes de formar opinião, seria preciso ler o texto completo e checar quais fatos e fontes ele apresenta sobre o tema.",
+          "text": "Antes de concluir qualquer coisa, falta saber qual foi a justificativa dada no posto do Vale do Paraíba, já que pode haver critério de faixa etária ou de calendário por trás da recusa da dose da Covid.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -446,17 +401,17 @@
     },
     {
       "id": "bsky_3mzxcauydc22h",
-      "rank": 8,
-      "title": "MST relata madrugada de terror com famílias fugindo para a mata na Paraíba",
-      "label": "MST · Famílias fogem para a mata na Paraíba",
-      "context": "A coordenação nacional do MST na Paraíba relatou que famílias, crianças e idosos correram e se esconderam dentro da mata durante uma madrugada que a liderança Eva Vilma Alves descreveu como de terror. Ninguém se feriu fisicamente, mas a liderança afirma que ficou a violência psicológica nessas famílias.",
+      "rank": 7,
+      "title": "MST relata madrugada de terror e violência psicológica em famílias na Paraíba",
+      "label": "MST · Relato de violência na Paraíba",
+      "context": "Eva Vilma Alves, da coordenação nacional do MST na Paraíba, afirmou que famílias, crianças e idosos correram e se esconderam dentro da mata durante uma madrugada de terror. Segundo ela, ninguém se feriu, mas ficou a violência psicológica nessas famílias.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/taniapac.bsky.social/post/3mzxcauydc22h",
       "createdAt": "2026-11-10T11:05:22.178000+00:00",
-      "rawScore": 0.12696810068022105,
-      "relevanceScore": 0.13522152537344367,
-      "suggestedRadius": 58.06,
+      "rawScore": 0.15047495444844272,
+      "relevanceScore": 0.11403017143533047,
+      "suggestedRadius": 56.26,
       "imageUrl": "assets/images/bsky_3mzxcauydc22h_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzxcauydc22h_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -472,7 +427,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A fala da Eva Vilma escancara o que essas famílias passam: crianças e idosos correndo para a mata de madrugada não é exagero, é medo real. Mesmo sem feridos, o trauma psicológico fica e precisa ser levado a sério por quem acompanha a situação no campo.",
+          "text": "O relato de Eva Vilma Alves expõe a violência psicológica que atinge famílias inteiras, incluindo crianças e idosos, mesmo sem feridos físicos. É preciso dar visibilidade a esse tipo de trauma, que muitas vezes fica invisível.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -480,7 +435,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O relato do MST na Paraíba fala em terror e violência psicológica, mas não aponta quem provocou a fuga nem apresenta prova do que aconteceu. Sem dizer o que houve de fato naquela madrugada, fica difícil separar o episódio real da narrativa que a coordenação quer construir.",
+          "text": "A fala da coordenação do MST na Paraíba usa termos como 'madrugada de terror' para descrever um episódio em que ninguém se feriu, o que soa exagerado. Relatos assim podem inflamar ânimos sem apresentar provas concretas do que aconteceu.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -488,7 +443,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A história de famílias escondidas na mata merece apuração independente: saber quem estava por trás da ameaça, em que circunstância e com que testemunhas. O relato da coordenação do MST é um ponto de partida, mas o caso só se esclarece com informação verificada dos dois lados.",
+          "text": "O episódio relatado por Eva Vilma Alves carece de detalhes sobre quem seriam os responsáveis pela suposta ameaça. Sem informações sobre o contexto e os envolvidos, fica difícil avaliar a gravidade real do que aconteceu.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -499,17 +454,17 @@
     },
     {
       "id": "bsky_3mzys7yxqd22y",
-      "rank": 9,
-      "title": "Obra de transposição do São Francisco chega ao Ceará e abastece Fortaleza, Paraíba e Rio Grande do Norte",
+      "rank": 8,
+      "title": "Água da transposição do São Francisco chega ao Ceará e segue para Paraíba e Rio Grande do Norte",
       "label": "Transposição do São Francisco · Chegada ao Ceará",
-      "context": "A obra de transposição do rio São Francisco chegou ao Ceará com túneis e reservatórios que direcionam a água para o Açude Castanhão e a Região Metropolitana de Fortaleza, além de seguir pelo canal do Eixo Norte para a Paraíba e o Rio Grande do Norte. A chegada da infraestrutura ao estado marca a expansão do sistema de abastecimento hídrico para áreas do semiárido.",
+      "context": "A água da transposição do rio São Francisco chegou ao Ceará por túneis e reservatórios, de onde segue pelo Cinturão das Águas até o Açude Castanhão e a Região Metropolitana de Fortaleza. O mesmo sistema também abastece o canal do Eixo Norte, que leva água para a Paraíba e o Rio Grande do Norte.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mzys7yxqd22y",
       "createdAt": "2026-11-11T01:23:50.087000+00:00",
-      "rawScore": 0.12357272861150076,
-      "relevanceScore": 0.1314231767141435,
-      "suggestedRadius": 57.75,
+      "rawScore": 0.13139066020587822,
+      "relevanceScore": 0.098595575721908,
+      "suggestedRadius": 54.84,
       "imageUrl": "assets/images/bsky_3mzys7yxqd22y_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzys7yxqd22y_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -525,7 +480,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A transposição do São Francisco finalmente chega ao Ceará e mostra sua força: com os túneis e o Cinturão das Águas, a água vai abastecer o Castanhão e a Região Metropolitana de Fortaleza, além de socorrer a Paraíba e o Rio Grande do Norte. É uma obra que muda a vida de quem sofre com a seca.",
+          "text": "A chegada da água ao Ceará e o avanço para Paraíba e Rio Grande do Norte mostram que a transposição do São Francisco está funcionando e levando segurança hídrica a milhões de pessoas no semiárido.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -533,7 +488,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A obra chega ao Ceará com toda a imponência, mas fico pensando no custo disso tudo e se a água vai realmente chegar a quem mais precisa. Muitos municípios ainda sofrem com a falta d'água, e a promessa de abastecer Fortaleza e outros estados pode não se traduzir em melhoria para as comunidades rurais.",
+          "text": "Obra cara e atrasada: a água chega ao Ceará, mas os custos da transposição estouraram e a manutenção dos canais e túneis pode comprometer o abastecimento no futuro.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -541,7 +496,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A transposição do São Francisco é uma obra enorme e complexa, e agora que chega ao Ceará é preciso acompanhar de perto os resultados. A água que segue para o Castanhão e para a Paraíba e o Rio Grande do Norte pode ajudar, mas depende de gestão eficiente e manutenção constante para não virar elefante branco.",
+          "text": "A transposição é um avanço, mas é preciso verificar se a água realmente chega às torneiras das cidades e se o volume é suficiente para atender a demanda de Fortaleza e dos estados vizinhos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -551,26 +506,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzqd3mah5k2l",
-      "rank": 10,
-      "title": "Memórias de família entre São Paulo, Guaratinguetá e Rio nos anos 90",
-      "label": "Memórias de família · Anos 90",
-      "context": "Uma pessoa conta no Bluesky lembranças de meados dos anos 90, quando era pré-adolescente em São Paulo e tinha parentes em Guaratinguetá e no Rio. A história envolve a avó de ascendência inglesa, tios-avós que adotaram um filho no Brasil e a mudança de parentes entre Rio e São Paulo.",
+      "id": "bsky_3n22hrui55s2i",
+      "rank": 9,
+      "title": "MST e segurança pública: site publica reportagem sobre atuação do movimento",
+      "label": "MST · Segurança pública em debate",
+      "context": "O site A Nova Democracia publicou uma reportagem sobre a atuação do MST relacionada à segurança pública. O conteúdo gerou discussão sobre o papel do movimento em áreas de conflito e sobre como a imprensa cobre o tema.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/miscellaneous.bsky.social/post/3mzqd3mah5k2l",
-      "createdAt": "2026-11-07T16:31:43.781000+00:00",
-      "rawScore": 0.0942791647861792,
-      "relevanceScore": 0.0986529333858562,
-      "suggestedRadius": 54.85,
-      "imageUrl": "assets/images/bsky_3mzqd3mah5k2l_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzqd3mah5k2l_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/arlindars.bsky.social/post/3n22hrui55s2i",
+      "createdAt": "2026-11-11T17:22:18.881000+00:00",
+      "rawScore": 0.1308341080850868,
+      "relevanceScore": 0.09814545915649137,
+      "suggestedRadius": 54.8,
+      "imageUrl": "assets/images/bsky_3n22hrui55s2i_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n22hrui55s2i_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
         {
-          "title": "Bora pra mais um fio das fantásticas memórias dessa que vos fala. Essa historia se passa em meados da década de 90, lá pra 95/96. Eu era pré adolescente e morava com meus pais em São Paulo. Minha família paterna morava parte em Guaratinguetá, no Vale do Paraíba e parte no Rio... 🧵",
-          "url": "https://bsky.app/profile/miscellaneous.bsky.social/post/3mzqd3mah5k2l",
+          "title": "anovademocracia.com.br/mst-seguranc...",
+          "url": "https://bsky.app/profile/arlindars.bsky.social/post/3n22hrui55s2i",
           "subreddit": "bsky_pb"
         }
       ],
@@ -578,10 +533,62 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Fios de memória assim são ótimos porque mostram a vida real das famílias brasileiras, com parentes espalhados entre São Paulo, Guaratinguetá e Rio e histórias de imigração que a gente não aprende na escola.",
+          "text": "A reportagem do A Nova Democracia traz à tona um aspecto pouco discutido do MST: a organização do movimento em áreas onde a segurança pública não chega. Mostrar essa realidade ajuda a entender o papel social que o movimento cumpre além da questão da terra.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Publicar uma reportagem que associa o MST à segurança pública sem cobrar das autoridades competentes soa como tentativa de legitimar milícias do movimento. Segurança é dever do Estado, e não de organizações que se armam por conta própria.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O texto do A Nova Democracia parte de uma fonte claramente alinhada ao movimento, o que limita a pluralidade da cobertura. Sem ouvir moradores, autoridades e outros lados, fica difícil avaliar o que de fato acontece nessas áreas e qual o impacto real da atuação do MST.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzlshhn5l22f",
+      "rank": 10,
+      "title": "Cartaz para o evento Insônia Sônica neste sábado",
+      "label": "Insônia Sônica · Festival independente",
+      "context": "Um cartaz foi divulgado para o evento Insônia Sônica, marcado para este sábado. O festival reúne música independente e tem divulgação por redes sociais.",
+      "source": "bluesky",
+      "subreddit": "bsky_pb",
+      "permalink": "https://bsky.app/profile/137magdiel.bsky.social/post/3mzlshhn5l22f",
+      "createdAt": "2026-11-05T21:23:35.385000+00:00",
+      "rawScore": 0.12067413685419037,
+      "relevanceScore": 0.08992849045878923,
+      "suggestedRadius": 53.99,
+      "imageUrl": "assets/images/bsky_3mzlshhn5l22f_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzlshhn5l22f_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pb",
+      "sources": [
+        {
+          "title": "CARTAZ PARA O EVENTO INSÔNIA SÔNICA. NESTE SÁBADO!",
+          "url": "https://bsky.app/profile/137magdiel.bsky.social/post/3mzlshhn5l22f",
+          "subreddit": "bsky_pb"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Festival de música independente com gente massa é exatamente o tipo de evento que a cena local precisa. O cartaz divulgado ajuda a mobilizar quem curte som autoral e fortalece a cena underground.",
           "source": "sintese",
           "evidence": [
-            1,
             2
           ],
           "votes": 0
@@ -589,21 +596,18 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A história demora a chegar no ponto e fica presa em detalhes de parentesco que não levam a lugar nenhum; o leitor se perde entre tios-avós e cidades antes de entender o que aconteceu de fato.",
+          "text": "Só o cartaz não diz quase nada: falta line-up, horário, local e preço. Para um evento que acontece neste sábado, a divulgação está vaga demais e não dá para saber se vale a pena ir.",
           "source": "sintese",
-          "evidence": [
-            4
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O fio tem potencial, mas ainda está no começo: a parte sobre a avó de ascendência inglesa e o casal de tios-avós que adotou um filho no Brasil merece mais contexto antes de a história engrenar.",
+          "text": "O link do Instagram nos comentários é o que realmente traz as informações completas. O cartaz sozinho serve mais como chamada visual, e quem quiser decidir precisa conferir a publicação oficial.",
           "source": "sintese",
           "evidence": [
-            2,
-            3
+            1
           ],
           "votes": 0
         }

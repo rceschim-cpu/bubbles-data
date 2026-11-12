@@ -1,21 +1,77 @@
 {
-  "generatedAt": "2026-11-12T06:29:13.508039+00:00",
+  "generatedAt": "2026-11-12T19:47:27.340864+00:00",
   "region": "br-df",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3mzxeavj3rc2d",
+      "id": "bsky_3n24pici7zc2n",
       "rank": 1,
-      "title": "Fachin arquiva inquérito das fake news após manifestação da PGR",
+      "title": "Pavanato vai receber a Medalha do Mérito Pedro Ernesto no Rio",
+      "label": "Medalha Pedro Ernesto · Homenagem a Pavanato",
+      "context": "O Pavanato vai receber a Medalha do Mérito Pedro Ernesto, honraria ligada à história da saúde pública do Rio de Janeiro. A proposta é assinada por três vereadores do PL, e a homenagem gerou críticas nas redes.",
+      "source": "bluesky",
+      "subreddit": "bsky_df",
+      "permalink": "https://bsky.app/profile/celogama.bsky.social/post/3n24pici7zc2n",
+      "createdAt": "2026-11-12T14:45:28.478000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n24pici7zc2n_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24pici7zc2n_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-df",
+      "sources": [
+        {
+          "title": "O Pavanato vai receber a Medalha do Mérito Pedro Ernesto Ele (1884–1942) foi um médico cirurgião e político brasileiro que marcou a história do Rio de Janeiro (então Distrito Federal) como um dos prefeitos mais populares e inovadores da cidade na área da saúde A política do RJ é uma vergonha",
+          "url": "https://bsky.app/profile/celogama.bsky.social/post/3n24pici7zc2n",
+          "subreddit": "bsky_df"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Medalha Pedro Ernesto existe para reconhecer serviços relevantes à cidade, e a Câmara tem autonomia para conceder a honraria a quem julgar merecedor. Questionar cada indicação só transforma uma tradição institucional em palco de briga política.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Três vereadores do PL assinarem a proposta mostra que a homenagem é articulação política, não reconhecimento de mérito. Usar o nome de Pedro Ernesto, que marcou a saúde pública do Rio, para premiar esse tipo de figura é uma provocação calculada.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A medalha leva o nome de um médico que foi prefeito e ficou marcado por obras na saúde, então a escolha dos homenageados sempre vai ser comparada a esse legado. Sem critério público claro, cada indicação vira disputa sobre o que a honraria deveria significar.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzxeavj3rc2d",
+      "rank": 2,
+      "title": "Fachin arquiva Inquérito das Fake News após manifestação da PGR",
       "label": "Arquivamento do Inquérito das Fake News",
-      "context": "O ministro Edson Fachin, do STF, acolheu manifestação da PGR que apontou o esgotamento do objeto específico das investigações e arquivou o Inquérito das Fake News. A decisão encerra o procedimento que investigava a disseminação de notícias falsas e ataques a instituições.",
+      "context": "O ministro Edson Fachin, do STF, acolheu manifestação da PGR que indicou o esgotamento do objeto específico das investigações e arquivou o Inquérito das Fake News. A decisão encerra o inquérito que apurava a disseminação de notícias falsas e ataques ao Supremo.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/jnascim.info/post/3mzxeavj3rc2d",
       "createdAt": "2026-11-10T11:41:07.374000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.48605190159570166,
+      "relevanceScore": 0.5400576684396685,
+      "suggestedRadius": 80.09,
       "imageUrl": "assets/images/bsky_3mzxeavj3rc2d_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzxeavj3rc2d_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -31,7 +87,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O arquivamento faz sentido porque a PGR indicou que o objeto específico da investigação se esgotou. Manter um inquérito aberto sem novos fatos a apurar só prolonga insegurança jurídica para quem foi citado, e encerrar o procedimento é o desfecho correto do ponto de vista processual.",
+          "text": "O arquivamento do inquérito é uma decisão correta porque a PGR concluiu que o objeto específico da investigação se esgotou. Manter o processo aberto sem novos elementos seria prolongar indefinidamente uma investigação que já cumpriu seu papel.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -39,7 +95,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Arquivar o inquérito das fake news passa a impressão de que tudo foi conduzido no sigilo e termina sem resposta à sociedade. Quem acompanhou o caso esperava conclusões sobre os ataques às instituições, e o encerramento sem esclarecimento público deixa a sensação de que nada foi realmente apurado.",
+          "text": "Arquivar o Inquérito das Fake News sem transparência sobre o que foi apurado deixa a sensação de impunidade. A decisão sai no sigilo e não explica por que as investigações não avançaram, o que enfraquece a confiança na Justiça.",
           "source": "sintese",
           "evidence": [
             2
@@ -49,10 +105,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O resultado do inquérito depende de quem estava sendo investigado e do que a PGR efetivamente apontou como esgotado. Sem acesso à íntegra da decisão e ao relatório, fica difícil avaliar se o arquivamento reflete falta de provas ou apenas o fim de um recorte específico da investigação.",
+          "text": "O arquivamento do inquérito pelo Fachin mostra que o STF precisa repensar seus métodos de investigação. Ter apenas alguns ministros conduzindo esses processos concentra poder demais e não resolve o problema da desinformação.",
           "source": "sintese",
           "evidence": [
-            1
+            1,
+            3
           ],
           "votes": 0
         }
@@ -62,17 +119,17 @@
     },
     {
       "id": "bsky_3mzzm3lgiec2s",
-      "rank": 2,
+      "rank": 3,
       "title": "Justiça libera apartamento 164-A para a OAS após decisão de juiz federal",
       "label": "Apartamento 164-A · Restituição à OAS",
-      "context": "O juiz Marcelo Gentil Monteiro, da 12ª Vara Federal do Distrito Federal, decidiu que o apartamento 164-A, formalmente registrado em nome da OAS Empreendimentos S.A., não tem mais fundamentos jurídicos para permanecer bloqueado. O imóvel foi arrematado em 2018 por R$ 2,2 milhões em leilão determinado pelo então juiz Sérgio Moro, e o valor depositado em conta judicial chegou a R$ 2,42 milhões com atualização monetária.",
+      "context": "O juiz Marcelo Gentil Monteiro, da 12ª Vara Federal do Distrito Federal, decidiu que o apartamento 164-A, registrado em nome da OAS Empreendimentos S.A., não tem mais fundamentos jurídicos para permanecer bloqueado. O imóvel foi arrematado em 2018 por R$ 2,2 milhões em leilão determinado pelo então juiz Sérgio Moro, e o valor atualizado de R$ 2,42 milhões estava depositado em conta judicial.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/mariajo.bsky.social/post/3mzzm3lgiec2s",
       "createdAt": "2026-11-11T09:05:36.372000+00:00",
-      "rawScore": 0.6769943399142537,
-      "relevanceScore": 0.7522159332380597,
-      "suggestedRadius": 88.04,
+      "rawScore": 0.33571412178541005,
+      "relevanceScore": 0.37301569087267783,
+      "suggestedRadius": 72.65,
       "imageUrl": "assets/images/bsky_3mzzm3lgiec2s_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzzm3lgiec2s_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -88,17 +145,18 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A decisão da Justiça é correta porque o apartamento está registrado em nome da OAS e não há mais base jurídica para mantê-lo bloqueado. O MPF apoiou a restituição, e o dinheiro do leilão sempre pertenceu à empresa.",
+          "text": "A decisão corrige uma injustiça: o apartamento sempre esteve no nome da OAS, e a acusação de que seria vantagem indevida para Lula foi anulada pelo STF. Com o MPF favorável à restituição, nada mais justo que o dinheiro volte para a empresa.",
           "source": "sintese",
           "evidence": [
-            1
+            1,
+            3
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Liberar o apartamento para a OAS depois de tudo que a Lava Jato apontou soa como um recuo completo. O imóvel foi leiloado por R$ 2,2 milhões e agora volta para a empreiteira sem que a sociedade veja qualquer punição efetiva.",
+          "text": "Liberar o apartamento para a OAS depois de toda a novela da Lava Jato passa a impressão de que o crime compensou. O imóvel foi arrematado em leilão e o dinheiro ficou anos em conta judicial; devolver agora sem punição efetiva soa como impunidade.",
           "source": "sintese",
           "evidence": [
             2
@@ -108,7 +166,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O STF já anulou as condenações de Lula e arquivou o tríplex, então a decisão de devolver o apartamento à OAS segue a lógica jurídica. O que falta é explicar por que o imóvel ficou tanto tempo bloqueado e como o dinheiro será devolvido.",
+          "text": "A decisão judicial segue critérios técnicos e o MPF concordou, então não vejo como irregular. Mas o caso mostra como os processos da Lava Jato foram conturbados: condenações anuladas, bens leiloados e depois devolvidos, deixando a sensação de que o sistema precisa de mais clareza.",
           "source": "sintese",
           "evidence": [
             3
@@ -121,17 +179,17 @@
     },
     {
       "id": "bsky_3mzulghr6ek2u",
-      "rank": 3,
-      "title": "Jornalista argentino e exemplo da Ford na tortura de sindicalistas",
-      "label": "Ford e tortura na Argentina · Entrevista",
-      "context": "Um vídeo viral mostra o jornalista argentino Lobo entrevistando representantes da Ford sobre o envolvimento da empresa na tortura de sindicalistas durante a ditadura argentina. O caso é lembrado como exemplo do papel de multinacionais em violações de direitos humanos, e comentários citam casos semelhantes no Brasil, como a Volkswagen e a Ultragaz.",
+      "rank": 4,
+      "title": "Jornalista argentino e o papel da Ford na ditadura argentina",
+      "label": "Ford e tortura na ditadura argentina",
+      "context": "Um vídeo viraliza no Bluesky destacando uma entrevista do jornalista argentino Júlio Lobo, que aponta o envolvimento da Ford com o sequestro e a tortura de sindicalistas e dissidentes durante a ditadura argentina, incluindo salas usadas para tortura dentro da fábrica. O caso é lembrado como exemplo de como empresas multinacionais colaboraram com regimes autoritários, e comentários citam episódios semelhantes no Brasil, como a Volkswagen e a Ultragaz.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/jotatx.eurosky.social/post/3mzulghr6ek2u",
       "createdAt": "2026-11-09T09:11:35.176000+00:00",
-      "rawScore": 0.5576252607517105,
-      "relevanceScore": 0.6195836230574561,
-      "suggestedRadius": 83.23,
+      "rawScore": 0.32431645866653125,
+      "relevanceScore": 0.3603516207405903,
+      "suggestedRadius": 72.02,
       "imageUrl": "assets/images/bsky_3mzulghr6ek2u_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzulghr6ek2u_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -147,29 +205,25 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O vídeo é fabuloso porque expõe a responsabilidade da Ford na tortura de sindicalistas, com salas usadas para isso dentro da fábrica. O jornalista Lobo, argentino, conduz a entrevista de forma corajosa e revela um capítulo que muitos desconhecem.",
+          "text": "O vídeo é fabuloso porque expõe a cumplicidade da Ford com a ditadura argentina, mostrando que a empresa cedeu instalações para tortura de sindicalistas. É um exemplo que precisa ser lembrado para que nunca se repita.",
           "source": "sintese",
           "evidence": [
-            1,
-            4
+            1
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A entrevista mostra os executivos com ar de superioridade e rindo na cara do jornalista, o que reforça a impunidade das empresas. Além disso, o próprio Lobo é apresentado como consultor de multinacionais, o que gera desconfiança sobre sua isenção.",
+          "text": "A entrevista é tendenciosa e distorce os fatos: a Ford não foi 'instrumental' na tortura, e o jornalista Lobo tem histórico de militância, o que compromete sua objetividade. É sensacionalismo.",
           "source": "sintese",
-          "evidence": [
-            1,
-            5
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O caso da Ford na Argentina é chocante, mas também aconteceu no Brasil com a Volkswagen e a Ultragaz, como o trabalhador torturado e morto em SBC e o presidente da Ultragaz que torturava. É um padrão que precisa ser lembrado para que não se repita.",
+          "text": "O caso da Ford na Argentina é grave, mas também é preciso lembrar que a Volkswagen e a Ultragaz tiveram episódios semelhantes no Brasil, como o da pianola de Boilesen. A discussão deveria incluir todas as empresas envolvidas.",
           "source": "sintese",
           "evidence": [
             2,
@@ -182,31 +236,31 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzxvo4p4ic2r",
-      "rank": 4,
-      "title": "Papai Noel encontra alunos de escola pública do DF no lançamento da campanha natalina dos Correios",
-      "label": "Campanha natalina dos Correios · Lançamento no DF",
-      "context": "Os Correios lançaram nacionalmente sua campanha de Natal em evento no Distrito Federal, com a presença do Papai Noel e de alunos de uma escola pública, e também apresentaram um selo comemorativo de Natal 2026. A campanha inclui a adoção de cartinhas por meio do site blognoel.correios.com.br, e um comentário questiona por que a cidade de São Paulo não aparece na lista de cidades do estado.",
+      "id": "bsky_3mzvbj66nec27",
+      "rank": 5,
+      "title": "Ouvinte relata evento de corretores no DF e corretor de Gaspar-SC",
+      "label": "Corretores imobiliários · Evento no DF",
+      "context": "Uma ouvinte contou que um evento de corretores imobiliários no Distrito Federal chamou sua atenção porque um corretor de Gaspar (SC) havia vendido o apartamento onde ela mora. O caso viralizou e gerou comentários sobre a presença de profissionais de outras regiões nesses encontros.",
       "source": "bluesky",
       "subreddit": "bsky_df",
-      "permalink": "https://bsky.app/profile/correiosoficial.bsky.social/post/3mzxvo4p4ic2r",
-      "createdAt": "2026-11-10T16:52:44.087000+00:00",
-      "rawScore": 0.3239915180711225,
-      "relevanceScore": 0.4711016867456916,
-      "suggestedRadius": 77.18,
-      "imageUrl": "assets/images/bsky_3mzxvo4p4ic2r_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzxvo4p4ic2r_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/marceloguaxinim.bsky.social/post/3mzvbj66nec27",
+      "createdAt": "2026-11-09T15:46:43.773000+00:00",
+      "rawScore": 0.17405602046963403,
+      "relevanceScore": 0.3045066894107045,
+      "suggestedRadius": 69.11,
+      "imageUrl": "assets/images/bsky_3mzvbj66nec27_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzvbj66nec27_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-df",
       "sources": [
         {
-          "title": "O encontro entre o Bom Velhinho e os alunos da escola pública do Distrito Federal marcou o lançamento nacional da maior campanha natalina do país. 👏👏😍 🔎 Na ocasião, lançamos, também, nosso selo comemorativo de Natal 2026. 🎄 ▶️ Confira os melhores momentos do evento!",
-          "url": "https://bsky.app/profile/correiosoficial.bsky.social/post/3mzxvo4p4ic2r",
+          "title": "Uma vez uma ouvinte me mandou mensagem dizendo que tava tendo um evento de corretores imobiliários no distrito federal e que ela riu pq foi a segunda vez que ela ouviu falar na minha cidade, pois tinha um corretor de Gaspar-SC, perguntei o nome. Ele que tinha me vendido o apto que moro até hoje.",
+          "url": "https://bsky.app/profile/marceloguaxinim.bsky.social/post/3mzvbj66nec27",
           "subreddit": "bsky_df"
         },
         {
-          "title": "Uma vez uma ouvinte me mandou mensagem dizendo que tava tendo um evento de corretores imobiliários no distrito federal e que ela riu pq foi a segunda vez que ela ouviu falar na minha cidade, pois tinha um corretor de Gaspar-SC, perguntei o nome. Ele que tinha me vendido o apto que moro até hoje.",
-          "url": "https://bsky.app/profile/marceloguaxinim.bsky.social/post/3mzvbj66nec27",
+          "title": "O encontro entre o Bom Velhinho e os alunos da escola pública do Distrito Federal marcou o lançamento nacional da maior campanha natalina do país. 👏👏😍 🔎 Na ocasião, lançamos, também, nosso selo comemorativo de Natal 2026. 🎄 ▶️ Confira os melhores momentos do evento!",
+          "url": "https://bsky.app/profile/correiosoficial.bsky.social/post/3mzxvo4p4ic2r",
           "subreddit": "bsky_df"
         }
       ],
@@ -214,17 +268,18 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A campanha dos Correios é uma corrente do bem que tira sonhos do papel: adotar uma cartinha pelo blognoel.correios.com.br é simples e transforma o Natal de quem escreve. O evento com o Papai Noel e as crianças só mostra a força dessa ação.",
+          "text": "A história mostra como o mercado imobiliário conecta cidades distantes: um corretor de Gaspar (SC) vendeu o apartamento de uma ouvinte que depois viu o nome dele em um evento no DF. Isso reforça a confiança no trabalho de corretores que atuam em rede nacional.",
           "source": "sintese",
           "evidence": [
-            1
+            1,
+            2
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A lista de cidades do estado de São Paulo não aparece no site da campanha, e isso deixa de fora quem poderia adotar cartinhas ou ter a própria carta adotada. A maior cidade do país deveria estar incluída desde o lançamento.",
+          "text": "Eventos de corretores em Brasília frequentemente reúnem profissionais de fora, mas a ausência de cidades como São Paulo na lista de participantes gera dúvidas sobre a representatividade do encontro. A história da ouvinte ilustra como a divulgação pode ser limitada a certos polos.",
           "source": "sintese",
           "evidence": [
             3
@@ -234,10 +289,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O lançamento nacional da campanha foi no Distrito Federal, mas a adoção de cartinhas depende do site. Quem quer participar precisa conferir se a própria cidade está na lista, e a ausência de São Paulo levanta dúvidas sobre como a seleção é feita.",
+          "text": "A coincidência de um corretor de Gaspar (SC) aparecer em um evento no DF é curiosa, mas não indica necessariamente algo negativo. O caso serve para lembrar que a atuação de corretores pode ser regional ou nacional, dependendo da rede de contatos.",
           "source": "sintese",
           "evidence": [
-            3
+            2
           ],
           "votes": 0
         }
@@ -247,17 +302,17 @@
     },
     {
       "id": "bsky_3mzxlljo2e22o",
-      "rank": 5,
+      "rank": 6,
       "title": "Escrever e ler são atos políticos",
       "label": "Leitura e escrita como atos políticos",
-      "context": "Uma publicação no Bluesky defende que escrever e ler são atos políticos, citando reportagem do portal PNE. A afirmação gerou comentários que reforçam a ideia e marcam perfis de autoridades e entidades.",
+      "context": "Uma publicação no Bluesky defende que escrever e ler são atos políticos, citando uma notícia do portal PNE. A afirmação gerou comentários que reforçam a ideia e marcam perfis de autoridades e entidades políticas.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/gracieusabrito.bsky.social/post/3mzxlljo2e22o",
       "createdAt": "2026-11-10T13:52:03.278000+00:00",
-      "rawScore": 0.39658928142689354,
-      "relevanceScore": 0.4406547571409928,
-      "suggestedRadius": 75.83,
+      "rawScore": 0.20810171952349169,
+      "relevanceScore": 0.23122413280387966,
+      "suggestedRadius": 64.85,
       "imageUrl": "assets/images/bsky_3mzxlljo2e22o_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzxlljo2e22o_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -273,7 +328,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Ler e escrever são atos políticos porque quem domina a palavra tem poder de transformar a realidade. A afirmação está certa e precisa ser repetida, ainda mais num país onde o acesso à leitura é desigual.",
+          "text": "Ler e escrever são atos políticos porque quem domina a palavra tem poder de transformar a realidade. A afirmação está certa e precisa ser levada a sério, ainda mais num país onde o acesso à educação é desigual.",
           "source": "sintese",
           "evidence": [
             1
@@ -283,7 +338,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Transformar leitura e escrita em ato político é uma forma de ideologizar algo que deveria ser básico para todos. Aprender a ler e escrever é direito, não bandeira partidária, e misturar as duas coisas afasta quem só quer educação de qualidade.",
+          "text": "Transformar leitura e escrita em ato político é uma forma de ideologizar algo que deveria ser básico e universal. Aprender a ler e escrever é direito de todos, não bandeira partidária.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -291,7 +346,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A frase faz sentido no contexto de quem enxerga a educação como ferramenta de cidadania, mas depende de como é aplicada. Sem acesso concreto a livros, escolas e tempo para ler, o discurso fica só no slogan.",
+          "text": "A frase faz sentido em certo contexto, mas depende de como é usada: pode tanto defender educação crítica quanto servir de slogan vazio. O importante é que a discussão não substitua ações concretas de alfabetização.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -302,17 +357,17 @@
     },
     {
       "id": "bsky_3mzy5jaa3cc2c",
-      "rank": 6,
-      "title": "Críticas a empréstimo do Banco do Distrito Federal para salvar 'ladrão profissional'",
-      "label": "Banco do Distrito Federal · Empréstimo polêmico",
-      "context": "Um post no Bluesky critica o uso de dinheiro dos contribuintes e clientes do Banco do Distrito Federal para salvar uma pessoa descrita como 'ladrão profissional'. O autor afirma que, se o caso fosse concluído, os cofres públicos sofreriam um 'verdadeiro arrombamento' e os clientes teriam grande prejuízo.",
+      "rank": 7,
+      "title": "Críticas a empréstimo do BRB para salvar banco ligado a investigado",
+      "label": "BRB · Empréstimo a banco de investigado",
+      "context": "O Banco de Brasília (BRB) teria emprestado dinheiro público para salvar um banco ligado a uma pessoa investigada, segundo a publicação. A crítica é que isso colocaria em risco o dinheiro dos contribuintes e dos clientes do BRB.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/fernandoaprado.bsky.social/post/3mzy5jaa3cc2c",
       "createdAt": "2026-11-10T19:13:47.882000+00:00",
-      "rawScore": 0.3832661774079853,
-      "relevanceScore": 0.42585130823109474,
-      "suggestedRadius": 75.15,
+      "rawScore": 0.19422309375984803,
+      "relevanceScore": 0.21580343751094225,
+      "suggestedRadius": 63.87,
       "imageUrl": "assets/images/bsky_3mzy5jaa3cc2c_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzy5jaa3cc2c_uns_thumb.jpg",
       "category": "geopolitica",
@@ -328,15 +383,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A crítica acerta ao apontar que dinheiro de contribuintes e clientes do Banco do Distrito Federal não pode ser usado para salvar alguém acusado de crimes. Se o empréstimo fosse concluído, os cofres públicos e os clientes sairiam no prejuízo, como o post alerta.",
+          "text": "O BRB usou dinheiro de correntistas e contribuintes para socorrer um banco de alguém que já devia responder por outros crimes. Isso não é rescate, é transferir prejuízo para quem não tem culpa. Se desse errado, quem pagaria a conta seria o cliente e o cofre público.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Antes de condenar, é preciso saber se o empréstimo realmente existiu e quais foram as condições. O post fala em 'caso fosse concluído', ou seja, pode ser só uma hipótese. Sem dados concretos, a acusação de arrombamento aos cofres públicos fica no campo da suposição.",
+          "text": "A operação ainda não foi concluída e já estão tratando como crime. Empréstimo entre bancos acontece todo dia e pode ser uma saída para evitar um problema maior. Sem decisão final, condenar o BRB e o banco envolvido é precipitar julgamento.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -344,7 +401,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O ponto central é que a pessoa já deveria responder pelo 8 de janeiro e escapou por conta de amizades e de saber dos esqueletos. Isso mostra que o problema é anterior ao empréstimo e envolve proteção política, o que torna a discussão sobre o banco ainda mais complicada.",
+          "text": "O ponto central é que a pessoa já tinha pendências com a Justiça e mesmo assim o banco público entrou na jogada. Falta explicar quem autorizou, qual a garantia e por que o BRB assumiu esse risco. Sem essas respostas, fica difícil separar socorro legítimo de favorecimento.",
           "source": "sintese",
           "evidence": [
             1
@@ -357,17 +414,17 @@
     },
     {
       "id": "bsky_3mzykhadslk2i",
-      "rank": 7,
-      "title": "Ah, mas é claro",
-      "label": "Notícia da UOL Educação · Reação",
-      "context": "Um post no Bluesky compartilha um link de notícia do portal UOL Educação com a expressão 'ah, mas é claro'. O conteúdo da notícia não está detalhado nas fontes disponíveis.",
+      "rank": 8,
+      "title": "Ah, mas é claro: notícia da UOL sobre educação gera reação",
+      "label": "Notícia de educação · Reação nas redes",
+      "context": "Um post no Bluesky compartilhou um link da editoria de educação da UOL com a expressão 'ah, mas é claro', sem detalhar o conteúdo da matéria. A publicação repercutiu pelo tom irônico da legenda, que sugere descrença ou cansaço com o que a notícia apresenta.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/guilhermefreitas.bsky.social/post/3mzykhadslk2i",
       "createdAt": "2026-11-10T23:04:43.287000+00:00",
-      "rawScore": 0.2617748368072764,
-      "relevanceScore": 0.2908609297858627,
-      "suggestedRadius": 68.36,
+      "rawScore": 0.12584097418160642,
+      "relevanceScore": 0.13982330464622936,
+      "suggestedRadius": 58.44,
       "imageUrl": "assets/images/bsky_3mzykhadslk2i_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzykhadslk2i_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -383,7 +440,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O compartilhamento da notícia da UOL Educação ajuda a divulgar informação sobre educação para mais gente, e o tom irônico do post chama atenção para o assunto de um jeito que faz as pessoas clicarem e lerem.",
+          "text": "A ironia do 'ah, mas é claro' acerta em cheio: matérias de educação costumam repetir as mesmas promessas e problemas, e quem acompanha já sabe o que vem antes de abrir o link. Compartilhar assim é uma forma de expor o quanto o assunto virou previsível.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -391,7 +448,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Postar só o link com um 'ah, mas é claro' não explica nada: quem vê não entende o que a notícia diz nem por que ela seria previsível, e o deboche sem contexto só confunde quem não acompanha o tema.",
+          "text": "Postar só o link com deboche não informa ninguém. Se a matéria traz um dado ou uma denúncia relevante sobre educação, reduzir tudo a uma piada de duas palavras atrapalha a discussão e ainda desestimula quem leria o conteúdo para entender o que está acontecendo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -399,7 +456,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Sem saber o conteúdo da notícia da UOL Educação, fica difícil julgar se a ironia do post procede; o compartilhamento em si é só um link, e a reação depende inteiramente do que o texto original diz.",
+          "text": "Sem saber qual é a notícia, fica difícil concordar ou discordar. O 'ah, mas é claro' pode ser deboche com a matéria ou com a própria cobertura de educação, e cada leitura muda o sentido do post. Vale abrir o link antes de tirar conclusão.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -410,7 +467,7 @@
     },
     {
       "id": "bsky_3mzvy2hqvok2p",
-      "rank": 8,
+      "rank": 9,
       "title": "Brasil registra 832 casos de mpox e uma morte",
       "label": "Mpox no Brasil · Casos e morte",
       "context": "O Brasil chegou a 832 casos confirmados de mpox, com uma morte registrada, segundo dados divulgados pela CNN Brasil. O número indica que o vírus continua circulando no país, o que mantém a necessidade de acompanhamento e medidas de saúde pública.",
@@ -418,9 +475,9 @@
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/contagemcorona1.bsky.social/post/3mzvy2hqvok2p",
       "createdAt": "2026-11-09T22:30:07.179000+00:00",
-      "rawScore": 0.20274551401774396,
-      "relevanceScore": 0.22527279335304884,
-      "suggestedRadius": 64.48,
+      "rawScore": 0.11116183479827857,
+      "relevanceScore": 0.12351314977586507,
+      "suggestedRadius": 57.09,
       "imageUrl": "assets/images/bsky_3mzvy2hqvok2p_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzvy2hqvok2p_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -436,7 +493,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O registro de 832 casos e uma morte mostra que o sistema de vigilância está funcionando e identificando os casos. A divulgação desses números permite que as autoridades tomem medidas rápidas e a população se previna.",
+          "text": "O registro de 832 casos e uma morte mostra que o sistema de vigilância está funcionando e identificando os casos. A divulgação rápida desses dados permite que as autoridades tomem medidas e a população se previna.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -444,7 +501,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A morte e o número elevado de casos revelam que a resposta à mpox no Brasil ainda é insuficiente. Faltam campanhas de conscientização e acesso ágil a testes e vacinas para conter a disseminação do vírus.",
+          "text": "A morte e o número elevado de casos revelam que a resposta à mpox no Brasil ainda é insuficiente. Faltam campanhas de conscientização e acesso ágil a testes e vacinas para conter a transmissão.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -452,60 +509,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Os dados de 832 casos e uma morte precisam ser analisados com cautela, pois a mpox tem transmissão específica e o número pode refletir melhorias na notificação. É fundamental acompanhar a evolução para entender o real impacto.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzktcwv7h22m",
-      "rank": 9,
-      "title": "Império bilionário das 'bets do crime' desmorona em megaoperação policial",
-      "label": "Operação contra bets clandestinas · R$ 3,48 bi bloqueados",
-      "context": "Uma megaoperação policial cumpriu 50 mandados de busca em cinco estados e no Distrito Federal e bloqueou R$ 3,48 bilhões ligados a um esquema de apostas clandestinas. A ação mira um império bilionário de 'bets do crime' e representa um dos maiores bloqueios financeiros já feitos contra esse tipo de rede.",
-      "source": "bluesky",
-      "subreddit": "bsky_df",
-      "permalink": "https://bsky.app/profile/blogdonoblat.bsky.social/post/3mzktcwv7h22m",
-      "createdAt": "2026-11-05T12:06:08.380000+00:00",
-      "rawScore": 0.1941830878515299,
-      "relevanceScore": 0.2157589865016999,
-      "suggestedRadius": 63.87,
-      "imageUrl": "assets/images/bsky_3mzktcwv7h22m_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzktcwv7h22m_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-df",
-      "sources": [
-        {
-          "title": "Império bilionário das \"bets do crime\" desmorona em megaoperação policial. Veja vídeo Com bloqueio de R$ 3,48 bilhões e 50 mandados de busca em 5 estados e no Distrito Federal, ação mira esquema de apostas clandestinas www.metropoles.com/distrito-fed...",
-          "url": "https://bsky.app/profile/blogdonoblat.bsky.social/post/3mzktcwv7h22m",
-          "subreddit": "bsky_df"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A operação acertou em cheio ao bloquear R$ 3,48 bilhões e cumprir 50 mandados em cinco estados e no DF. Esse dinheiro não pode ficar na mão de esquema clandestino de apostas, e a resposta precisa ser desse tamanho para desmontar o império das 'bets do crime'.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Bloquear R$ 3,48 bilhões e sair cumprindo 50 mandados em cinco estados e no DF pode parecer força, mas sem punição efetiva aos donos do esquema o império das 'bets do crime' se recompõe. A operação midiática não resolve o problema de fundo.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O bloqueio de R$ 3,48 bilhões e os 50 mandados em cinco estados e no DF mostram a dimensão do esquema, mas ainda é cedo para saber se a operação vai desmontar o império das 'bets do crime' ou se é só mais uma ação que não chega aos verdadeiros chefes.",
+          "text": "Os dados de 832 casos e uma morte precisam ser analisados com cautela, pois a mpox tem transmissão específica e o número pode refletir melhorias na notificação. É fundamental entender o perfil dos casos antes de tirar conclusões.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -519,16 +523,16 @@
       "rank": 10,
       "title": "Cadê um espião pra fingir que gosta de mim em troca de segredos do GDF",
       "label": "Piada sobre espião e segredos do GDF",
-      "context": "Um post no Bluesky brinca pedindo um espião que finja gostar da pessoa em troca de segredos do GDF. A piada faz referência ao governo do Distrito Federal e ao tema de espionagem, sem apresentar nenhum fato ou denúncia concreta.",
+      "context": "Um usuário do Bluesky publicou uma piada pedindo um espião que finja gostar dele em troca de segredos do Governo do Distrito Federal (GDF). A brincadeira faz referência a um suposto esquema de espionagem envolvendo o GDF.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/julianamarques.bsky.social/post/3mzwh5mmems27",
       "createdAt": "2026-11-10T03:00:16.983000+00:00",
-      "rawScore": 0.17486862914524443,
-      "relevanceScore": 0.19429847682804935,
-      "suggestedRadius": 62.45,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.09343886125989903,
+      "relevanceScore": 0.10382095695544337,
+      "suggestedRadius": 55.33,
+      "imageUrl": "assets/images/bsky_3mzwh5mmems27_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzwh5mmems27_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-df",
       "sources": [
@@ -542,7 +546,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A piada funciona porque brinca com a ideia de que os bastidores do GDF são tão cheios de segredo que valeria a pena um espião fingir afeto só pra conseguir informação. É humor leve sobre política local, sem acusar ninguém de nada.",
+          "text": "A piada é uma forma leve de criticar a falta de transparência no GDF. Se até um espião fictício é convocado, é porque os segredos devem ser valiosos ou mal guardados. O humor ajuda a expor a desconfiança.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -550,7 +554,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Brincar com espionagem e segredos do GDF banaliza um assunto sério, que é a segurança das informações do governo. Transformar isso em meme pode passar a impressão de que vazamento de dados públicos é algo divertido e sem consequência.",
+          "text": "Brincar com espionagem em um contexto de segurança pública é irresponsável. Piadas assim banalizam um assunto sério e podem desviar a atenção de investigações reais sobre vazamento de informações no governo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -558,7 +562,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A graça do post está mais na solidão de quem pede um espião pra fingir gostar do que no GDF em si. O governo do Distrito Federal entra só como cenário da piada, e não dá pra tirar dali nenhuma leitura sobre política ou segurança pública.",
+          "text": "A postagem é claramente uma piada e não deve ser levada a sério. O humor no Bluesky é uma forma de expressão, mas é preciso cuidado para não alimentar teorias da conspiração sem provas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

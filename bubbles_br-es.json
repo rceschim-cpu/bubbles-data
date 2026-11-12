@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T06:29:13.508039+00:00",
+  "generatedAt": "2026-11-12T19:47:27.340864+00:00",
   "region": "br-es",
   "count": 10,
   "items": [
@@ -7,8 +7,8 @@
       "id": "bsky_3n23dylclj22f",
       "rank": 1,
       "title": "Uma grande vitória para as mães!",
-      "label": "Fim da escala 6x1 · Vitória trabalhista",
-      "context": "O fim da escala 6x1 foi anunciado como uma grande vitória para os trabalhadores, com apoio da CUT e sindicatos. A mudança promete reduzir a jornada sem redução de salários, afetando diretamente a vida de mães e famílias.",
+      "label": "Fim da escala 6x1 · Reação nas redes",
+      "context": "Posts em redes sociais celebram o fim da escala 6x1 como uma grande vitória para as mães e para os trabalhadores. A mudança na jornada de trabalho é discutida com apoio de centrais sindicais como a CUT, que defendem redução da jornada sem redução de salários.",
       "source": "bluesky",
       "subreddit": "bsky_es",
       "permalink": "https://bsky.app/profile/suzanaleao.bsky.social/post/3n23dylclj22f",
@@ -41,7 +41,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A escala 6x1 acabou e isso é uma vitória real para quem trabalha seis dias seguidos. Mães e trabalhadores em geral ganham tempo com a família sem perder salário, e a CUT sempre lutou por isso.",
+          "text": "O fim da escala 6x1 é uma conquista real para quem trabalha e cria filhos: ter um dia de descanso a mais muda a rotina de qualquer família. A CUT e os sindicatos sempre lutaram por isso, e agora a redução da jornada sem cortar salário vira realidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -49,9 +49,10 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O governo Lula não precisa de mais decretos para impor essa mudança, e já estão querendo se aliar ao centrão de novo. Essa vitória pode sair cara e não resolver o problema de fundo.",
+          "text": "A lei de alienação parental é uma excrescência e precisa ser totalmente revogada, não é esse tipo de pauta que resolve a vida das mães. Prefiro que não mexam mais em nada, porque cada mudança nova só complica o que já estava funcionando.",
           "source": "sintese",
           "evidence": [
+            1,
             2
           ],
           "votes": 0
@@ -59,10 +60,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A lei de alienação parental precisa ser revogada, e mexer nisso agora pode desviar o foco do que realmente importa para as mães. Prefiro que não mexam mais para não piorar.",
+          "text": "A vitória é boa, mas o governo Lula precisa de 200 decretos para fazer valer, e já estão querendo se aproximar do centrão de novo. Sem fiscalização e sem pressão dos sindicatos, a mudança na escala pode ficar só no papel.",
           "source": "sintese",
           "evidence": [
-            1,
             2
           ],
           "votes": 0
@@ -72,20 +72,73 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2374kuqjs2l",
+      "id": "bsky_3mzyki7fpbk2n",
       "rank": 2,
-      "title": "Governo Lula joga contra o projeto que o elegeu, diz usuário",
-      "label": "Governo Lula · Crítica à falta de apoio",
-      "context": "Um usuário do Bluesky afirmou que o governo, mesmo com grande capital político após a vitória eleitoral, está atuando contra o projeto que o elegeu, e defendeu que Lula agite as ruas em vez de ceder. A crítica ocorre em meio a discussões sobre a responsabilidade do mercado e a necessidade de mobilização popular.",
+      "title": "Mineiro encaixa bem no capixaba e estreia quinta no Laranjinha",
+      "label": "Mineiro no capixaba · estreia quinta",
+      "context": "Um perfil anuncia que o \"mineiro\" encaixa bem no \"capixaba\" e que estará disponível na quinta-feira no Laranjinha. O post divulga o link de um perfil na plataforma Privacy, indicando tratar-se de conteúdo adulto.",
+      "source": "bluesky",
+      "subreddit": "bsky_es",
+      "permalink": "https://bsky.app/profile/agroboy31.bsky.social/post/3mzyki7fpbk2n",
+      "createdAt": "2026-11-10T23:05:13.685000+00:00",
+      "rawScore": 0.4114769237171509,
+      "relevanceScore": 0.3601229410404563,
+      "suggestedRadius": 72.01,
+      "imageUrl": "assets/images/bsky_3mzyki7fpbk2n_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzyki7fpbk2n_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-es",
+      "sources": [
+        {
+          "title": "Mineiro encaixa muito bem em capixaba. Disponível na quinta no laranjinha 🔥. privacy.com.br/Profile/nerd...",
+          "url": "https://bsky.app/profile/agroboy31.bsky.social/post/3mzyki7fpbk2n",
+          "subreddit": "bsky_es"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O anúncio já entrega o que interessa: mineiro no capixaba e data marcada, quinta no Laranjinha. Quem acompanha o perfil sabe o que esperar e a divulgação direta com link facilita encontrar o conteúdo sem enrolação.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Divulgar link de Privacy no feed sem contexto nenhum é só propaganda atravessada no meio da timeline. O post não explica o que é o Laranjinha nem o que o mineiro tem a ver com o capixaba, vira isca para clicar em conteúdo pago.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O post é uma chamada curta de divulgação e depende de quem já conhece o perfil para fazer sentido. Sem detalhes sobre o que seria o Laranjinha ou o formato do conteúdo, fica difícil avaliar se a estreia de quinta corresponde ao que está sendo anunciado.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2374kuqjs2l",
+      "rank": 3,
+      "title": "Governo Lula é acusado de jogar contra o projeto que o elegeu",
+      "label": "Governo Lula · Pressão do mercado e falta de apoio",
+      "context": "Publicações no Bluesky criticam o governo Lula por, segundo os autores, ceder ao mercado e agir contra o projeto que o elegeu, mesmo após uma grande vitória eleitoral. O debate também cobra mobilização nas ruas e questiona se falta apoio popular para o governo agitar em vez de recuar.",
       "source": "bluesky",
       "subreddit": "bsky_es",
       "permalink": "https://bsky.app/profile/eduardooo.bsky.social/post/3n2374kuqjs2l",
       "createdAt": "2026-11-12T00:19:50.186000+00:00",
-      "rawScore": 0.14667667557719197,
-      "relevanceScore": 0.2677955541371299,
-      "suggestedRadius": 67.05,
-      "imageUrl": "assets/images/bsky_3n2374kuqjs2l_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2374kuqjs2l_wiki_thumb.jpg",
+      "rawScore": 0.11998298221403676,
+      "relevanceScore": 0.24204288574908805,
+      "suggestedRadius": 65.52,
+      "imageUrl": "assets/images/bsky_3n2374kuqjs2l_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2374kuqjs2l_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-es",
       "sources": [
@@ -109,7 +162,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O governo tem capital político de sobra depois da vitória e precisa usar isso para mobilizar as ruas em defesa do projeto que o elegeu, em vez de recuar diante do mercado. Ir para as ruas é o caminho para pressionar e garantir as mudanças prometidas.",
+          "text": "O governo tem capital político de sobra depois da vitória nas urnas e não deveria ceder ao mercado. Se o que falta é apoio, o caminho é agitar as ruas e defender o projeto que elegeu, não recuar diante da pressão.",
           "source": "sintese",
           "evidence": [
             3
@@ -119,7 +172,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ficar culpando o mercado por tudo não resolve; se o governo cede e não entrega o que prometeu, a frustração é justa. A responsabilidade de agitar e cumprir o projeto é do próprio governo, que tem os instrumentos para isso.",
+          "text": "Culpar o mercado por tudo e sair às ruas sem reconhecer os erros do próprio governo não resolve nada. Agir como a direita, que joga toda a responsabilidade no Lula, só empurra o governo a se comportar como ela.",
           "source": "sintese",
           "evidence": [
             3
@@ -129,7 +182,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A mobilização nas ruas é importante, mas precisa ser feita com cuidado para não repetir o padrão da direita de culpar o Lula por tudo. O governo deve agir com responsabilidade e diálogo, sem ceder a pressões que contrariem o projeto eleito.",
+          "text": "A mobilização nas ruas é necessária independentemente do governo, mas o debate sobre quem tem culpa — mercado ou governo — desvia do que importa. Sem apoio organizado, cobrar Lula não muda a correlação de forças.",
           "source": "sintese",
           "evidence": [
             3
@@ -141,26 +194,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzyki7fpbk2n",
-      "rank": 3,
-      "title": "Mineiro encaixa muito bem em capixaba, diz post",
-      "label": "Mineiro e capixaba · Encaixe regional",
-      "context": "Um post no Bluesky afirma que o mineiro encaixa muito bem no capixaba e anuncia disponibilidade na quinta no laranjinha. A publicação divulga um link da plataforma Privacy.",
+      "id": "bsky_3n24f2lylkk2d",
+      "rank": 4,
+      "title": "Perfil 'Posse do Lula' convoca voluntários e seguidores nas redes",
+      "label": "Perfil Posse do Lula · Convocação de voluntários",
+      "context": "Um perfil chamado 'Posse do Lula' publicou um texto convidando pessoas a seguir seus perfis nas redes e a se voluntariar, com mais detalhes em um link do Telegraph. A convocação circula no Bluesky e busca mobilizar apoiadores em torno do perfil.",
       "source": "bluesky",
       "subreddit": "bsky_es",
-      "permalink": "https://bsky.app/profile/agroboy31.bsky.social/post/3mzyki7fpbk2n",
-      "createdAt": "2026-11-10T23:05:13.685000+00:00",
-      "rawScore": 0.2571889655470822,
-      "relevanceScore": 0.22531281629309338,
-      "suggestedRadius": 64.48,
-      "imageUrl": "assets/images/bsky_3mzyki7fpbk2n_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzyki7fpbk2n_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/luladilma13.bsky.social/post/3n24f2lylkk2d",
+      "createdAt": "2026-11-12T11:38:48.681000+00:00",
+      "rawScore": 0.2574340288332218,
+      "relevanceScore": 0.22335820964228953,
+      "suggestedRadius": 64.36,
+      "imageUrl": "assets/images/bsky_3n24f2lylkk2d_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24f2lylkk2d_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-es",
       "sources": [
         {
-          "title": "Mineiro encaixa muito bem em capixaba. Disponível na quinta no laranjinha 🔥. privacy.com.br/Profile/nerd...",
-          "url": "https://bsky.app/profile/agroboy31.bsky.social/post/3mzyki7fpbk2n",
+          "title": "Leia o texto e siga os perfis @possedoluladf nas redes. Seja um voluntário!!! Mais detalhes sobre o Perfil Posse do Lula: telegra.ph/possedolula2...",
+          "url": "https://bsky.app/profile/luladilma13.bsky.social/post/3n24f2lylkk2d",
           "subreddit": "bsky_es"
         }
       ],
@@ -168,7 +221,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Mineiro e capixaba têm tudo a ver: o jeito tranquilo e a cultura parecida fazem essa combinação funcionar muito bem. O post acertou em cheio ao destacar esse encaixe.",
+          "text": "A convocação do perfil Posse do Lula é uma forma legítima de organizar apoiadores e manter a militância ativa nas redes, e quem concorda com a proposta deveria seguir e se voluntariar para fortalecer essa articulação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -176,7 +229,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa história de encaixe é forçada. Mineiro e capixaba têm costumes e sotaques bem diferentes, e o post só quer chamar atenção com uma frase bonitinha. Não passa de generalização.",
+          "text": "Um perfil que se apresenta como 'Posse do Lula' e pede voluntários por link externo levanta suspeita: sem transparência sobre quem está por trás, fica difícil saber se é mobilização genuína ou captação indevida de dados e seguidores.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -184,7 +237,62 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post fala de encaixe, mas o link da Privacy e a menção ao laranjinha deixam claro que é divulgação de conteúdo adulto. O foco real parece ser outro, e a frase sobre mineiro e capixaba é só chamariz.",
+          "text": "Antes de seguir ou se voluntariar, vale checar quem administra o perfil Posse do Lula e o que o link do Telegraph realmente pede; a convocação pode ser legítima, mas a falta de informações claras sobre a iniciativa pede cautela.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzvgtcuyhc2e",
+      "rank": 5,
+      "title": "Cai uma gota de chuva no ES e capixaba esquece como dirige",
+      "label": "Chuva no ES · Motoristas despreparados",
+      "context": "Um post no Bluesky ironiza o fato de que, no Espírito Santo, qualquer chuva faz motoristas esquecerem como dirigir. A piada viraliza ao expor a falta de preparo de condutores capixabas para situações simples de trânsito na chuva.",
+      "source": "bluesky",
+      "subreddit": "bsky_es",
+      "permalink": "https://bsky.app/profile/rainha.bsky.social/post/3mzvgtcuyhc2e",
+      "createdAt": "2026-11-09T17:21:54.579000+00:00",
+      "rawScore": 0.20431962526212288,
+      "relevanceScore": 0.1762013632116333,
+      "suggestedRadius": 61.19,
+      "imageUrl": "assets/images/bsky_3mzvgtcuyhc2e_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzvgtcuyhc2e_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-es",
+      "sources": [
+        {
+          "title": "cai teis gota de chuva no ES Capixaba: -esqueci como dirige",
+          "url": "https://bsky.app/profile/rainha.bsky.social/post/3mzvgtcuyhc2e",
+          "subreddit": "bsky_es"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A piada acerta em cheio: é só cair um pingo e o capixaba trava, esquece onde fica o pedal e vira um perigo no trânsito. O meme expõe um problema real de habilitação e treinamento para dirigir na chuva.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa generalização não ajuda em nada. A maioria dos motoristas capixabas dirige bem na chuva, e quem trava é uma minoria. Culpar o capixaba em geral é injusto e desvia o foco da falta de infraestrutura e sinalização nas vias.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A chuva forte no ES realmente complica a direção, mas o meme exagera. O problema não é só o motorista esquecer como dirige: falta manutenção nas estradas, drenagem e educação no trânsito. Rir da situação não resolve nada.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -195,17 +303,17 @@
     },
     {
       "id": "bsky_3n22mctmmnk2m",
-      "rank": 4,
-      "title": "Eleitor capixaba relata que Contarato se apresentou como delegado na campanha",
+      "rank": 6,
+      "title": "Eleitor capixaba diz que Contarato se apresentou como delegado e foi confundido com direita",
       "label": "Contarato · Imagem de delegado e voto conservador",
-      "context": "Um eleitor capixaba que votou em Fabiano Contarato há oito anos afirma que o então candidato se apresentou como delegado durante a campanha. Segundo ele, essa imagem bastou para que eleitores conservadores o vissem como alguém da 'bancada da bala'.",
+      "context": "Um eleitor capixaba que votou em Contarato há oito anos afirma que ele se apresentou como delegado na campanha, o que fez o eleitor conservador achar que ele seria da bancada da bala. A discussão aponta que a imagem de delegado e a falta de pesquisa sobre o candidato podem ter confundido eleitores sobre sua posição política real.",
       "source": "bluesky",
       "subreddit": "bsky_es",
       "permalink": "https://bsky.app/profile/theoniros.bsky.social/post/3n22mctmmnk2m",
       "createdAt": "2026-11-11T18:43:20.669000+00:00",
-      "rawScore": 0.0884418287794586,
-      "relevanceScore": 0.1644473399421402,
-      "suggestedRadius": 60.33,
+      "rawScore": 0.09147695661358432,
+      "relevanceScore": 0.16479918767165466,
+      "suggestedRadius": 60.36,
       "imageUrl": "assets/images/bsky_3n22mctmmnk2m_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n22mctmmnk2m_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -226,7 +334,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Contarato se apresentar como delegado foi uma estratégia que funcionou: o conservador médio viu nele o perfil de 'bancada da bala' e votou sem pesquisar mais. Isso mostra que a imagem profissional pesou mais que a sigla partidária na hora do voto.",
+          "text": "Contarato se apresentou como delegado e isso bastou para o conservador médio achar que ele seria bancada da bala. O eleitor não pesquisa e vota pela impressão, então a imagem de delegado funcionou como atalho para ganhar voto de quem nem sabia que ele era da REDE.",
           "source": "sintese",
           "evidence": [
             1,
@@ -237,7 +345,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O eleitor que se deixou levar só pela farda de delegado e não pesquisou o candidato cometeu um erro básico. Bastavam dois minutos de busca para saber que ele era casado com um homem, tinha filhos e concorria pela REDE, não por um partido de direita.",
+          "text": "Bastavam dois minutos de pesquisa para descobrir que ele é casado com um homem e tem filhos, e que se elegeu pela REDE. O eleitor médio sofre do mal de não pesquisar os candidatos, e isso distorce a escolha eleitoral.",
           "source": "sintese",
           "evidence": [
             1,
@@ -248,66 +356,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A não reeleição de Contarato ao Senado tem mais a ver com o anti-petismo forte no Espírito Santo do que com a imagem de delegado. A filiação ao PT pode ter pesado mais do que a confusão sobre seu perfil ideológico na campanha.",
+          "text": "A não reeleição dele ao Senado tem a ver em parte com a filiação ao PT, já que o antipetismo ainda é fortíssimo aqui. A imagem de delegado pode ter ajudado antes, mas o peso do partido na hora de votar não pode ser ignorado.",
           "source": "sintese",
           "evidence": [
             1
           ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzvgtcuyhc2e",
-      "rank": 5,
-      "title": "Cai uma gota de chuva no ES e capixaba esquece como dirige",
-      "label": "Chuva no ES · Motoristas despreparados",
-      "context": "Um post no Bluesky ironiza a reação de motoristas capixabas a uma chuva leve no Espírito Santo, dizendo que eles esquecem como dirigir. A piada viraliza ao expor o despreparo de condutores para situações simples de trânsito na chuva.",
-      "source": "bluesky",
-      "subreddit": "bsky_es",
-      "permalink": "https://bsky.app/profile/rainha.bsky.social/post/3mzvgtcuyhc2e",
-      "createdAt": "2026-11-09T17:21:54.579000+00:00",
-      "rawScore": 0.11421965652796344,
-      "relevanceScore": 0.09873452509197621,
-      "suggestedRadius": 54.85,
-      "imageUrl": "assets/images/bsky_3mzvgtcuyhc2e_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzvgtcuyhc2e_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-es",
-      "sources": [
-        {
-          "title": "cai teis gota de chuva no ES Capixaba: -esqueci como dirige",
-          "url": "https://bsky.app/profile/rainha.bsky.social/post/3mzvgtcuyhc2e",
-          "subreddit": "bsky_es"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A piada acerta em cheio: é só cair um pingo de chuva que o capixaba trava, esquece onde fica o pedal e o trânsito vira caos. O humor serve para lembrar que muita gente não sabe mesmo dirigir na chuva.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Essa generalização é injusta. A maioria dos motoristas capixabas dirige bem, e a chuva forte de verdade é que causa transtornos. Culpar o povo por uma gota é exagero e não resolve nada.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A reação exagerada pode ser só falta de costume com chuva, já que no ES chove pouco. Mas o post também revela que a educação no trânsito precisa melhorar, independente da quantidade de água.",
-          "source": "sintese",
-          "evidence": [],
           "votes": 0
         }
       ],
@@ -316,19 +369,19 @@
     },
     {
       "id": "bsky_3mzy2s4avkk2n",
-      "rank": 6,
+      "rank": 7,
       "title": "Visita técnica ao parque Paulo Cesar Vinha nunca aconteceu após mês de estudo",
-      "label": "Visita escolar cancelada · Parque Paulo Cesar Vinha",
-      "context": "Um estudante relata que, no ensino fundamental, passou um mês estudando o Parque Estadual Paulo Cesar Vinha e a Reserva de Jacarenema para uma visita técnica que nunca aconteceu. O episódio mudou a forma como ele passou a enxergar o próprio entorno, incluindo a região de extração de areia que causou a morte do biólogo que dá nome ao parque.",
+      "label": "Visita escolar frustrada · Parque Paulo Cesar Vinha",
+      "context": "Um estudante relata que, no ensino fundamental, passou um mês estudando o Parque Estadual Paulo Cesar Vinha e a Reserva de Jacarenema para uma visita técnica que nunca ocorreu. O episódio marcou o estudante, que diz ter passado a enxergar o entorno de outra forma, especialmente por morar em área de extração de areia ligada à morte do biólogo que dá nome ao parque.",
       "source": "bluesky",
       "subreddit": "bsky_es",
       "permalink": "https://bsky.app/profile/dreeh.bsky.social/post/3mzy2s4avkk2n",
       "createdAt": "2026-11-10T18:24:24.481000+00:00",
-      "rawScore": 0.1082004204685416,
-      "relevanceScore": 0.09340537703939748,
-      "suggestedRadius": 54.34,
-      "imageUrl": "assets/images/bsky_3mzy2s4avkk2n_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzy2s4avkk2n_wiki_thumb.jpg",
+      "rawScore": 0.1733340306774684,
+      "relevanceScore": 0.1486912562133463,
+      "suggestedRadius": 59.14,
+      "imageUrl": "assets/images/bsky_3mzy2s4avkk2n_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzy2s4avkk2n_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-es",
       "sources": [
@@ -342,7 +395,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Mesmo sem a visita, o mês estudando o parque e a reserva mudou minha forma de ver o lugar onde eu vivia. Descobrir que a extração de areia matou o biólogo que dá nome ao parque fez tudo ficar concreto, e isso nenhuma saída de campo teria ensinado igual.",
+          "text": "Mesmo sem a visita, o mês estudando o parque e a reserva mudou minha forma de ver o lugar onde eu vivia. Conhecer a história do Paulo Cesar Vinha e ligar a extração de areia à morte dele fez o aprendizado valer mais do que qualquer saída de campo.",
           "source": "sintese",
           "evidence": [
             1
@@ -352,7 +405,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Prometer uma visita técnica e passar um mês preparando os alunos para depois nunca levar ninguém é frustrante. O aprendizado sobre o parque e a reserva de Jacarenema ficou pela metade, e a escola deveria ter avisado antes que a saída não ia acontecer.",
+          "text": "Prometer uma visita técnica e não cumprir depois de um mês de preparação é frustrante e desmotiva os alunos. A escola criou uma expectativa grande e não deu explicação nem alternativa, e o que ficou foi a sensação de esforço desperdiçado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -360,7 +413,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Visita técnica boa é justamente a que vem depois de um mês de estudo, como foi esse caso do parque Paulo Cesar Vinha. O cancelamento não apaga o que ficou, mas fica a dúvida sobre o que teria mudado se a turma tivesse pisado lá de fato.",
+          "text": "Visitas técnicas boas são assim: mesmo quando não acontecem, o processo de estudar o parque e a reserva antes já ensina algo. O relato mostra que o valor estava no caminho, não só no destino, e isso depende de como o professor conduz a preparação.",
           "source": "sintese",
           "evidence": [
             2
@@ -372,18 +425,71 @@
       "promptVersion": 2
     },
     {
+      "id": "bsky_3mzxyuyx45s2v",
+      "rank": 8,
+      "title": "Faço dessa luta uma grande vitória todos os dias, Sertanejo? eca!",
+      "label": "Sertanejo · Rejeição e resistência",
+      "context": "O post viraliza ao declarar que transforma a luta diária em vitória e rejeitar o sertanejo com a expressão 'eca'. A rejeição explícita ao gênero musical provoca reações e discussões sobre gosto e identidade.",
+      "source": "bluesky",
+      "subreddit": "bsky_es",
+      "permalink": "https://bsky.app/profile/dabeeshoo.bsky.social/post/3mzxyuyx45s2v",
+      "createdAt": "2026-11-10T17:50:15.878000+00:00",
+      "rawScore": 0.12264301835202115,
+      "relevanceScore": 0.10368598225887568,
+      "suggestedRadius": 55.32,
+      "imageUrl": "assets/images/bsky_3mzxyuyx45s2v_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzxyuyx45s2v_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-es",
+      "sources": [
+        {
+          "title": "Faço dessa luta uma grande vitoria todos os dias, Sertanejo? eca!",
+          "url": "https://bsky.app/profile/dabeeshoo.bsky.social/post/3mzxyuyx45s2v",
+          "subreddit": "bsky_es"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O sertanejo virou o som padrão do Brasil e quem não gosta é tratado como chato. Poder dizer 'eca' e assumir a rejeição é um alívio para quem se sente sufocado por esse estilo em todo lugar.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Chamar o sertanejo de 'eca' é desrespeito com um gênero que move multidões e sustenta famílias inteiras. Quem não gosta tem todo o direito de não ouvir, mas não precisa desqualificar a cultura dos outros.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O post mistura uma mensagem de superação com uma alfinetada no sertanejo, e isso desvia o foco. A parte da luta diária é inspiradora, mas o 'eca' acaba virando o centro da conversa e ofuscando o resto.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
       "id": "bsky_3n223ysne6226",
-      "rank": 7,
+      "rank": 9,
       "title": "Com gol nos acréscimos, Botafogo vence Flamengo no Niltão pela Copa Rio Sub-15",
       "label": "Botafogo vence Flamengo no Sub-15",
-      "context": "O Botafogo venceu o Flamengo com um gol nos acréscimos em partida disputada no Niltão, válida pela Copa Rio Sub-15. O resultado define o clássico em uma competição de base, onde o gol no fim da partida decidiu o confronto.",
+      "context": "O Botafogo venceu o Flamengo por 1 a 0 com um gol nos acréscimos, em partida válida pela Copa Rio Sub-15 realizada no Estádio Nilton Santos. A vitória garante ao Botafogo os três pontos na competição e aumenta a rivalidade entre as categorias de base dos dois clubes.",
       "source": "bluesky",
       "subreddit": "bsky_es",
       "permalink": "https://bsky.app/profile/fogaonet.bsky.social/post/3n223ysne6226",
       "createdAt": "2026-11-11T13:51:25.684000+00:00",
-      "rawScore": 0.09388886677429831,
-      "relevanceScore": 0.08073460158780667,
-      "suggestedRadius": 53.05,
+      "rawScore": 0.11512156381575844,
+      "relevanceScore": 0.09700816884754897,
+      "suggestedRadius": 54.69,
       "imageUrl": "assets/images/bsky_3n223ysne6226_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n223ysne6226_reddit_thumb.jpg",
       "category": "esportes",
@@ -399,7 +505,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Gol nos acréscimos em clássico de base mostra que o time do Botafogo não desistiu até o apito final, e essa garra é exatamente o que se quer ver na formação de jogadores.",
+          "text": "O Botafogo mostrou raça e nunca desistiu até o último minuto. Esse gol nos acréscimos é a prova de que o time tem garra e mereceu a vitória. A base do Fogão está de parabéns!",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -407,7 +513,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O Flamengo perdeu o clássico no Niltão por um gol nos acréscimos, o que expõe falha de concentração defensiva no fim do jogo e custa pontos importantes na Copa Rio Sub-15.",
+          "text": "O Flamengo dominou o jogo, mas falhou na defesa no final. Perder assim, nos acréscimos, é inadmissível para uma equipe que quer formar campeões. Precisa corrigir a postura nos minutos finais.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -415,60 +521,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Resultado de clássico na base diz pouco sobre o futuro dos garotos, já que o placar em Sub-15 varia muito e o mais relevante é o desenvolvimento dos jogadores ao longo da competição.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzxyuyx45s2v",
-      "rank": 8,
-      "title": "Sertanejo é criticado em post viral: 'Faço dessa luta uma grande vitória todos os dias'",
-      "label": "Crítica ao sertanejo · Post viral",
-      "context": "Um post no Bluesky critica o gênero sertanejo com a frase 'Sertanejo? eca!', gerando reações. A publicação viraliza e levanta discussão sobre o gosto musical e o preconceito contra o estilo.",
-      "source": "bluesky",
-      "subreddit": "bsky_es",
-      "permalink": "https://bsky.app/profile/dabeeshoo.bsky.social/post/3mzxyuyx45s2v",
-      "createdAt": "2026-11-10T17:50:15.878000+00:00",
-      "rawScore": 0.07752666709619584,
-      "relevanceScore": 0.06624828078402689,
-      "suggestedRadius": 51.44,
-      "imageUrl": "assets/images/bsky_3mzxyuyx45s2v_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzxyuyx45s2v_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-es",
-      "sources": [
-        {
-          "title": "Faço dessa luta uma grande vitoria todos os dias, Sertanejo? eca!",
-          "url": "https://bsky.app/profile/dabeeshoo.bsky.social/post/3mzxyuyx45s2v",
-          "subreddit": "bsky_es"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O sertanejo é um gênero que representa a cultura brasileira e merece respeito. Criticar dessa forma é preconceito com a música popular e com quem a consome.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A crítica ao sertanejo é válida porque o gênero tem se tornado repetitivo e comercial, com letras que não trazem novidade. É um direito não gostar e expressar isso.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Gosto musical é subjetivo e cada um tem o direito de expressar sua opinião, desde que com respeito. O post é uma brincadeira, mas pode ofender fãs do estilo.",
+          "text": "Jogo equilibrado, decidido nos detalhes. O Botafogo foi eficiente no final, mas o Flamengo também mostrou qualidade. O importante é que os garotos estão ganhando experiência em clássicos assim.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -479,19 +532,19 @@
     },
     {
       "id": "bsky_3mzrkfqifc22z",
-      "rank": 9,
+      "rank": 10,
       "title": "Capixaba fica famoso no mundo inteiro após levar lapada de Erika Hilton",
       "label": "Capixaba famoso após lapada de Erika Hilton",
-      "context": "Um homem capixaba ficou conhecido internacionalmente depois de levar uma lapada de Erika Hilton, conforme post no Bluesky. O episódio gerou repercussão e comentários sobre a fama repentina do envolvido.",
+      "context": "Um homem capixaba ficou conhecido internacionalmente depois de levar uma lapada da deputada Erika Hilton. O episódio viralizou e gerou comentários sobre a exposição do envolvido.",
       "source": "bluesky",
       "subreddit": "bsky_es",
       "permalink": "https://bsky.app/profile/followlori.bsky.social/post/3mzrkfqifc22z",
       "createdAt": "2026-11-08T04:15:12.573000+00:00",
-      "rawScore": 0.044918741675942606,
-      "relevanceScore": 0.03737875971249976,
-      "suggestedRadius": 47.6,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.08511081544444248,
+      "relevanceScore": 0.07036356480298293,
+      "suggestedRadius": 51.92,
+      "imageUrl": "assets/images/bsky_3mzrkfqifc22z_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzrkfqifc22z_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-es",
       "sources": [
@@ -505,7 +558,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Erika Hilton deu uma resposta à altura e o capixaba virou famoso mundialmente, o que mostra que atitudes firmes ganham visibilidade e podem servir de exemplo.",
+          "text": "A exposição do capixaba após a lapada de Erika Hilton é merecida, porque ele envergonha o Espírito Santo e agora ficou famoso mundialmente. A atitude da deputada foi certeira e serviu para mostrar que ninguém está acima de levar uma resposta à altura.",
           "source": "sintese",
           "evidence": [
             1
@@ -515,64 +568,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O capixaba que nos envergonha agora é conhecido no mundo inteiro por levar uma lapada, e isso expõe o Brasil de forma negativa lá fora.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A fama do capixaba após a lapada de Erika Hilton é um exemplo de como episódios virais podem projetar alguém internacionalmente, independentemente do mérito.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mztti6f3qk22",
-      "rank": 10,
-      "title": "FIQ2026 chega ao fim com agradecimentos e expectativa para a CCXP",
-      "label": "FIQ2026 · Encerramento e balanço",
-      "context": "O Festival Internacional de Quadrinhos (FIQ) 2026 terminou, e a organização agradeceu publicamente a participação do público e dos profissionais que passaram pelo evento. O encerramento já direciona a expectativa para a próxima CCXP, principal convenção de cultura pop do país.",
-      "source": "bluesky",
-      "subreddit": "bsky_es",
-      "permalink": "https://bsky.app/profile/daieny.bsky.social/post/3mztti6f3qk22",
-      "createdAt": "2026-11-09T02:02:58.773000+00:00",
-      "rawScore": 0.04039837245201926,
-      "relevanceScore": 0.0333766377473875,
-      "suggestedRadius": 46.96,
-      "imageUrl": "assets/images/bsky_3mztti6f3qk22_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztti6f3qk22_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-es",
-      "sources": [
-        {
-          "title": "Chegamos ao fim do FIQ2026! Muito obrigada a todos que passaram na mesa e aos tantos que esbarrei pelos corredores! Nos vemos na CCXP! 👀 #fiqbh #fiq #fiq2026 #quadrinhos #capixaba",
-          "url": "https://bsky.app/profile/daieny.bsky.social/post/3mztti6f3qk22",
-          "subreddit": "bsky_es"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O FIQ2026 cumpriu o papel de celebrar os quadrinhos e reunir tanta gente bacana. A organização agradecer e já apontar para a CCXP mostra que o evento foi um sucesso e que a cena está viva.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Ainda falta mais estrutura e divulgação para o FIQ. O evento é bom, mas poderia ter mais espaço, mais convidados e melhor organização para não depender só da boa vontade dos artistas.",
+          "text": "A viralização da lapada de Erika Hilton expõe o capixaba de forma desproporcional, transformando um episódio local em fama mundial negativa. Isso pode arruinar a vida dele e da família, enquanto a deputada ganha holofotes sem arcar com as consequências.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -580,7 +576,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O FIQ2026 acabou e já estão falando da CCXP, mas são propostas diferentes: um é focado em quadrinhos, o outro é generalista. Cada um tem seu valor e seu público, e não precisa comparar.",
+          "text": "A fama mundial do capixaba após a lapada de Erika Hilton revela como episódios de violência viram entretenimento nas redes. O caso merece reflexão sobre os limites da exposição pública e o papel dos algoritmos na amplificação desse tipo de conteúdo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

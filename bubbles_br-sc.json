@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-12T06:29:13.508039+00:00",
+  "generatedAt": "2026-11-12T19:47:27.340864+00:00",
   "region": "br-sc",
   "count": 10,
   "items": [
     {
       "id": "bsky_3n22l3izluk2o",
       "rank": 1,
-      "title": "Santa Catarina tem 30 prefeitos presos, nenhum de esquerda, e eleitores de Flávio Bolsonaro",
-      "label": "Prefeitos presos em SC · Perfil eleitoral",
-      "context": "Um post no Bluesky afirma que Santa Catarina tem 30 prefeitos presos, nenhum deles de esquerda, e que o estado não tem prefeitos ou deputados de esquerda. A afirmação gerou discussão sobre a representação política catarinense e a associação entre prisões e ideologia.",
+      "title": "Santa Catarina tem 30 prefeitos presos, nenhum de esquerda",
+      "label": "Prefeitos presos em SC · Perfil político",
+      "context": "Um post aponta que Santa Catarina tem 30 prefeitos presos, nenhum deles de esquerda, e que o estado não teria prefeitos ou deputados de esquerda. Comentaristas contestam a ausência de representantes de esquerda, citando deputados estaduais e federais eleitos pelo PT no estado.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/ribeirotrilhas.bsky.social/post/3n22l3izluk2o",
@@ -27,13 +27,13 @@
           "subreddit": "bsky_sc"
         },
         {
-          "title": "Camboriú News dia 7 de novembro de 2026. Santa Catarina. A Polícia Civil prende prefeito, afasta 15 agentes públicos e cumpre 309 buscas em operações contra corrupção em SC\" AGORA Santa Catarina é o estado mais fascista e mais racista e ladrão de dinheiro público do Brasil. Lamentável 🤔 🇧🇷",
-          "url": "https://bsky.app/profile/pkne52.bsky.social/post/3mzxsh3ylc22t",
+          "title": "E pensar que 2002, Lula teve 64,1% dos votos para Presidente no segundo turno, no Estado de Santa Catarina! E pensar também que o idealizador da urna eletrônica é catarinense. O que aconteceu com o povo daquele Estado?",
+          "url": "https://bsky.app/profile/littlejohn85.bsky.social/post/3n23alt76m22t",
           "subreddit": "bsky_sc"
         },
         {
-          "title": "Kauã Liecheski: 🔥 \"A VERDADE SOBRE SANTA CATARINA PRECISA SER DITA! Obrigado aos milhões de catarinenses que deram o seu voto de apoio e gratidão ao trabalho do PT no estado ⭐️\"⤵️",
-          "url": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mzto43s7p22y",
+          "title": "Camboriú News dia 7 de novembro de 2026. Santa Catarina. A Polícia Civil prende prefeito, afasta 15 agentes públicos e cumpre 309 buscas em operações contra corrupção em SC\" AGORA Santa Catarina é o estado mais fascista e mais racista e ladrão de dinheiro público do Brasil. Lamentável 🤔 🇧🇷",
+          "url": "https://bsky.app/profile/pkne52.bsky.social/post/3mzxsh3ylc22t",
           "subreddit": "bsky_sc"
         }
       ],
@@ -41,34 +41,37 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Os números mostram que a maioria dos catarinenses não se identifica com a esquerda, e isso não é vergonha: é uma escolha democrática. O estado tem seus problemas, mas generalizar como se todos fossem corruptos ou ignorantes é preconceito.",
+          "text": "Os 30 prefeitos presos sem nenhum de esquerda escancaram o que é o governo bolsonarista na prática: corrupção correndo solta justamente onde se posam de moralistas. Quem vota nessa turma deveria se envergonhar de confiar o voto em gente que só olha para o próprio umbigo.",
           "source": "sintese",
           "evidence": [
-            3,
-            8
+            1,
+            4,
+            17
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Santa Catarina virou um símbolo de atraso político: 30 prefeitos presos, nenhum de esquerda, e ainda elegem Bolsonaro com 67%. A população vota contra seus próprios interesses e depois não pode reclamar das enchentes e da falta de ajuda.",
+          "text": "A frase de que não há nenhum deputado de esquerda em Santa Catarina é factualmente errada: o PT elegeu deputados federais e estaduais, e a esquerda cresceu em relação à eleição anterior. Pintar o estado como um deserto político só serve para propaganda, não para entender o que acontece aqui.",
           "source": "sintese",
           "evidence": [
-            1,
-            6,
-            9
+            2,
+            3,
+            10,
+            14
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Dizer que não há nenhum político de esquerda em SC é exagero: existem deputados e prefeitos de esquerda, só que em menor número. A porcentagem é baixa, mas não zero, e reduzir tudo a 'não tem nenhum' distorce o debate.",
+          "text": "O número de prefeitos presos diz algo sobre gestão municipal, mas atribuir isso ao perfil ideológico do eleitorado catarinense é um salto. O estado tem um parque industrial forte e uma história de voto que já foi bem diferente, como em 2002, então reduzir tudo a 'não sabe votar' não explica nada.",
           "source": "sintese",
           "evidence": [
-            2,
-            4
+            5,
+            13,
+            17
           ],
           "votes": 0
         }
@@ -77,26 +80,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n234kpewa22e",
+      "id": "bsky_3n24oda6mjs2f",
       "rank": 2,
-      "title": "Se você tivesse acesso a um Stargate, para onde viajaria?",
-      "label": "Stargate · Destinos de viagem imaginários",
-      "context": "Uma publicação no Bluesky convida as pessoas a imaginar para onde viajariam se tivessem acesso a um Stargate, o portal de ficção científica que liga pontos distantes do espaço. A pergunta usa o elemento da série para transformar uma conversa sobre destinos em um exercício de imaginação.",
+      "title": "Trabalhando no carro a caminho de Florianópolis",
+      "label": "Viagem de última hora · trabalho remoto",
+      "context": "Uma pessoa está em viagem de última hora para Florianópolis e trabalha durante o trajeto, também respondendo pelo acompanhante que dirige. O relato gerou comentários sobre a flexibilidade do trabalho remoto e a expectativa de disponibilidade.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/mundofreak.bsky.social/post/3n234kpewa22e",
-      "createdAt": "2026-11-11T23:34:04.883000+00:00",
-      "rawScore": 0.2684847685873666,
-      "relevanceScore": 0.20801661453512027,
-      "suggestedRadius": 63.37,
-      "imageUrl": "assets/images/bsky_3n234kpewa22e_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n234kpewa22e_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/nativerso.com/post/3n24oda6mjs2f",
+      "createdAt": "2026-11-12T14:24:41.287000+00:00",
+      "rawScore": 0.5796386710667266,
+      "relevanceScore": 0.44587590082055895,
+      "suggestedRadius": 76.06,
+      "imageUrl": "assets/images/bsky_3n24oda6mjs2f_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24oda6mjs2f_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sc",
       "sources": [
         {
-          "title": "E você, se tivesse acesso a um Stargate, para onde viajaria? youtu.be/KGWxvQdjiqA",
-          "url": "https://bsky.app/profile/mundofreak.bsky.social/post/3n234kpewa22e",
+          "title": "Estou no carro desde cedo, indo pra Florianópolis, viagenzinha de última hora que decidimos fazer essa semana, e eu só tô o tempo todo trabalhando por mim e pelo Cristian que tá dirigindo e não pode responder.",
+          "url": "https://bsky.app/profile/nativerso.com/post/3n24oda6mjs2f",
           "subreddit": "bsky_sc"
         }
       ],
@@ -104,7 +107,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Um Stargate abriria a chance de conhecer lugares que nenhuma passagem aérea alcança, então eu escolheria um destino fora da Terra sem pensar duas vezes. A graça da pergunta é justamente essa: poder sonhar com um lugar que a gente nunca veria de outro jeito.",
+          "text": "Trabalhar de dentro do carro numa viagem de última hora é exatamente a liberdade que o trabalho remoto permite: dá para emendar o compromisso com a estrada e ainda responder pelo colega que dirige, sem precisar tirar o dia.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -112,7 +115,70 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Escolher destino sem saber o que tem do outro lado do portal é arriscado demais, porque na série muita gente atravessou e não voltou. Prefiro um lugar que eu conheça minimamente antes de dar esse passo, mesmo que a ideia do Stargate seja divertida.",
+          "text": "A tal liberdade do home office vira cobrança quando a pessoa viaja em horário de trabalho e continua respondendo por dois. Isso mostra que a flexibilidade pregada não é tão livre assim, e o perrengue chique esconde uma rotina sempre disponível.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A viagem de última hora e o trabalho no carro dependem do combinado com a equipe: se há acordo e as entregas saem, não vejo problema; se vira expectativa de resposta imediata em qualquer lugar, aí a conta chega para quem está de folga.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n252dwzwyc2q",
+      "rank": 3,
+      "title": "Agenda de festas e shows em novembro no Rio e em Santa Catarina",
+      "label": "Agenda de shows · Rio e Florianópolis",
+      "context": "Posts divulgam eventos musicais como Bangarang Sound System no Moto Cerva, no Rio, e Sattivas #26 e #25 em Florianópolis, além de DJ LOVESTEADY no Quai 58. A lista serve para informar o público sobre opções de lazer e cultura na região.",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/skatapla.bsky.social/post/3n252dwzwyc2q",
+      "createdAt": "2026-11-12T17:59:58.271000+00:00",
+      "rawScore": 0.35573189535949346,
+      "relevanceScore": 0.3505629964303795,
+      "suggestedRadius": 71.53,
+      "imageUrl": "assets/images/bsky_3n252dwzwyc2q_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n252dwzwyc2q_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "RIO DE JANEIRO - 14/11 Bangarang Sound System no Moto Cerva no Rio De Janeiro SANTA CATARINA - 12/11 Sattivas #26 no Tio Gether’s - Morro das Pedras em Florianópolis - 14/11 Sattivas #25 no Jungle Floripa - Praia Do Moçambique em Florianopolis - 15/11 DJ LOVESTEADY no Quai 58 em Florianópolis 👇",
+          "url": "https://bsky.app/profile/skatapla.bsky.social/post/3n252dwzwyc2q",
+          "subreddit": "bsky_sc"
+        },
+        {
+          "title": "Ponte Hercílio Luz 2008 Florianópolis - SC #foto #fotografia #photo #photography #florianopolis #hercilioluz",
+          "url": "https://bsky.app/profile/rbonelli.bsky.social/post/3n226jnj3dk2b",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A divulgação de eventos como o Bangarang Sound System e as festas Sattivas em Florianópolis ajuda a movimentar a cena local e dá opções de lazer para quem gosta de música alternativa.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Postar agendas de eventos no Bluesky pode poluir a timeline com conteúdo promocional, desviando o foco de discussões mais relevantes e dificultando a experiência de quem usa a rede para outros fins.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -120,9 +186,78 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A resposta depende muito do que o portal permite: se for só ida, o destino precisa ser bem pensado; se der para voltar quando quiser, qualquer lugar vira uma opção. Sem saber essa regra, fica difícil escolher um destino com convicção.",
+          "text": "A agenda é útil para quem procura programas culturais, mas a formatação compacta e a mistura de cidades e datas podem dificultar a leitura rápida; uma separação mais clara por local seria melhor.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1,
+            2,
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzvgbgnct22b",
+      "rank": 4,
+      "title": "Anúncio da OAB apareceu no Instagram uma semana após evento",
+      "label": "OAB · Anúncio após evento",
+      "context": "Um anúncio da OAB continuava sendo exibido no Instagram uma semana depois do evento que promovia. A campanha segue no ar mesmo após a data, gerando questionamentos sobre o gasto e o propósito do material.",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/mulhertamarindo.bsky.social/post/3mzvgbgnct22b",
+      "createdAt": "2026-11-09T17:11:54.374000+00:00",
+      "rawScore": 0.27672462866633685,
+      "relevanceScore": 0.21286509897410527,
+      "suggestedRadius": 63.68,
+      "imageUrl": "assets/images/bsky_3mzvgbgnct22b_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzvgbgnct22b_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "Acabou de aparecer no meu Instagram 💀",
+          "url": "https://bsky.app/profile/mulhertamarindo.bsky.social/post/3mzvgbgnct22b",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A OAB está gastando dinheiro à toa com uma campanha que já passou, e ainda por cima aparece no Instagram de quem não quer ver. Se fosse eficaz como é para cobrar anuidade, talvez o anúncio tivesse sido pausado na data certa.",
+          "source": "sintese",
+          "evidence": [
+            3,
+            9,
+            10
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A OAB se presta a um papel que não é dela, litigando em causa perdida no exterior e ainda mantendo anúncio no ar uma semana depois. Isso só passa vergonha e mostra que a instituição não sabe priorizar o que importa.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            11,
+            12
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O anúncio continua rodando uma semana depois do evento, e isso levanta dúvida sobre o motivo: será que a OAB está tentando reconstruir algo do zero ou só não pausou a campanha? A bandeira ciana e o país Vangarden no criativo também confundem.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            7,
+            8
+          ],
           "votes": 0
         }
       ],
@@ -131,17 +266,17 @@
     },
     {
       "id": "bsky_3mzyebgerw22u",
-      "rank": 3,
-      "title": "Pessoas de Florianópolis: conhecem escolas ou entidades filantrópicas que precisam de celular, tablet e eletrônicos?",
-      "label": "Doação de eletrônicos em Florianópolis",
-      "context": "Uma pessoa está montando uma lista de escolas e entidades filantrópicas de Florianópolis que precisam de celulares, tablets e outros eletrônicos. A ideia é destinar bens apreendidos (perdimento) a essas instituições.",
+      "rank": 5,
+      "title": "Pessoas de Florianópolis: conhecem escolas ou entidades filantrópicas que precisam de celulares, tablets e eletrônicos?",
+      "label": "Doação de eletrônicos a entidades de Florianópolis",
+      "context": "Uma pessoa está montando uma lista de escolas e entidades filantrópicas de Florianópolis que precisam de celulares, tablets e outros eletrônicos para destinar bens apreendidos a essas instituições. A ideia é direcionar equipamentos eletrônicos a quem possa usá-los, em vez de deixá-los parados.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/yoginijurista.bsky.social/post/3mzyebgerw22u",
       "createdAt": "2026-11-10T21:14:03.480000+00:00",
-      "rawScore": 0.1274932026864418,
-      "relevanceScore": 0.17625717131579688,
-      "suggestedRadius": 61.19,
+      "rawScore": 0.1518268224554768,
+      "relevanceScore": 0.1937129403503668,
+      "suggestedRadius": 62.41,
       "imageUrl": "assets/images/bsky_3mzyebgerw22u_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzyebgerw22u_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -162,7 +297,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Destinar celulares e tablets apreendidos para escolas e entidades filantrópicas de Florianópolis é uma forma inteligente de dar utilidade a bens que ficariam parados. A iniciativa ajuda quem precisa e evita desperdício.",
+          "text": "Destinar celulares e tablets apreendidos para escolas e entidades filantrópicas de Florianópolis é uma forma inteligente de dar uso a equipamentos que ficariam parados, e ainda ajuda instituições que muitas vezes não têm verba para comprar esse tipo de material.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -170,7 +305,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ainda falta clareza sobre como funciona esse perdimento de bens: quem decide, quais critérios e como as entidades serão escolhidas. Sem transparência, a doação pode virar favorecimento ou má distribuição.",
+          "text": "Antes de decretar perdimento e doar, é preciso saber de onde vêm esses bens e se o processo de apreensão foi regular; sem transparência sobre a origem e o destino, a boa intenção pode virar só uma forma de resolver o estoque de eletrônicos apreendidos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -178,7 +313,60 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A ideia é boa, mas depende de as entidades terem estrutura para receber e usar os equipamentos. Doar sem garantir manutenção e suporte pode acabar gerando mais um problema do que solução.",
+          "text": "A lista de entidades precisa ser bem checada: nem toda escola ou instituição tem estrutura para receber, armazenar e dar manutenção a celulares e tablets, então vale confirmar com cada uma se o material realmente vai ser aproveitado antes de destinar.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n234kpewa22e",
+      "rank": 6,
+      "title": "E você, se tivesse acesso a um Stargate, para onde viajaria?",
+      "label": "Stargate · Destinos dos fãs",
+      "context": "Um post no Bluesky convida as pessoas a imaginarem para onde viajariam se tivessem acesso a um Stargate, portal fictício da série de ficção científica. A pergunta explora a curiosidade e a fantasia dos fãs sobre destinos intergalácticos.",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/mundofreak.bsky.social/post/3n234kpewa22e",
+      "createdAt": "2026-11-11T23:34:04.883000+00:00",
+      "rawScore": 0.18530622976181824,
+      "relevanceScore": 0.1425432536629371,
+      "suggestedRadius": 58.65,
+      "imageUrl": "assets/images/bsky_3n234kpewa22e_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n234kpewa22e_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "E você, se tivesse acesso a um Stargate, para onde viajaria? youtu.be/KGWxvQdjiqA",
+          "url": "https://bsky.app/profile/mundofreak.bsky.social/post/3n234kpewa22e",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Eu viajaria para a galáxia de Pegasus, queria conhecer a cidade de Atlântida e os mundos que a série mostra. Stargate é sobre explorar o desconhecido, e essa seria a aventura da minha vida.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Acho que essa pergunta é muito fantasiosa. Stargate é ficção, e ficar imaginando viagens por portais não leva a nada. Prefiro discutir coisas reais, como tecnologia espacial de verdade.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Depende do Stargate: se for o da série clássica, eu iria para Abydos; se for o Universe, talvez para o Destiny. Mas no fundo, é só uma brincadeira para os fãs se divertirem.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -189,17 +377,17 @@
     },
     {
       "id": "bsky_3mzymsmeloc2x",
-      "rank": 4,
-      "title": "Programação do Cine Estreia em novembro tem sessões no CIC",
+      "rank": 7,
+      "title": "Programação do Cine Estreia de novembro em Florianópolis",
       "label": "Cine Estreia · Sessões de novembro no CIC",
-      "context": "O Cine Estreia divulgou sua programação de novembro, com sessões na Sala de Cinema Gilberto Gerlach, no CIC, em Florianópolis, exibindo filmes em DCP. A divulgação ocorre em meio a relatos de trânsito intenso na cidade, que geraram discussão nas redes.",
+      "context": "O Cine Estreia divulgou sua programação de novembro, com sessões na Sala de Cinema Gilberto Gerlach, no CIC, em Florianópolis, exibindo filmes em DCP. A divulgação foi feita pelo Instagram do projeto Cine Livre.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/cinelivre.bsky.social/post/3mzymsmeloc2x",
       "createdAt": "2026-11-10T23:46:52.190000+00:00",
-      "rawScore": 0.10945207258894962,
-      "relevanceScore": 0.16227926551125665,
-      "suggestedRadius": 60.17,
+      "rawScore": 0.12622387498791102,
+      "relevanceScore": 0.09709528845223923,
+      "suggestedRadius": 54.7,
       "imageUrl": "assets/images/bsky_3mzymsmeloc2x_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzymsmeloc2x_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -209,18 +397,13 @@
           "title": "Florianópolis e Região!! A programação do Cine Estreia no mês de novembro está imperdível!! Todas as sessões do Cine Estreia acontecem na Sala de Cinema Gilberto Gerlach no CIC, exibindo filmes em DCP. Confira mais informações no nosso Instagram: www.instagram.com/cinelivre_la...",
           "url": "https://bsky.app/profile/cinelivre.bsky.social/post/3mzymsmeloc2x",
           "subreddit": "bsky_sc"
-        },
-        {
-          "title": "Mas O QUE ESTÁ ROLANDO com o trânsito de Florianópolis hoje?????",
-          "url": "https://bsky.app/profile/barelancheseireli.bsky.social/post/3n22ewbq4c22k",
-          "subreddit": "bsky_sc"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A programação do Cine Estreia em novembro é uma ótima opção cultural para Florianópolis, com filmes em DCP na Sala Gilberto Gerlach, no CIC. Isso mostra que o cinema local segue ativo e oferecendo conteúdo de qualidade para a região.",
+          "text": "A programação do Cine Estreia em novembro é uma ótima opção cultural em Florianópolis, com sessões no CIC e filmes em DCP, o que garante qualidade de imagem. Iniciativas assim merecem apoio.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -228,85 +411,17 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O trânsito de Florianópolis hoje está um caos e ninguém sabe o motivo. A divulgação da programação do Cine Estreia não resolve o problema de mobilidade que afeta a cidade e deveria ser prioridade.",
+          "text": "Divulgar a programação apenas pelo Instagram limita o acesso de quem não usa a rede social. O Cine Estreia deveria disponibilizar as informações em outros canais, como site ou jornal local.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A programação do Cine Estreia é válida, mas o comentário sobre o trânsito mostra que a cidade enfrenta problemas de mobilidade. As duas coisas são importantes: cultura e infraestrutura precisam caminhar juntas.",
+          "text": "A programação do Cine Estreia é interessante, mas seria útil saber quais filmes serão exibidos e os horários das sessões. Mais detalhes ajudariam o público a se organizar.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzvgbgnct22b",
-      "rank": 5,
-      "title": "Anúncio da OAB apareceu no Instagram uma semana após o evento",
-      "label": "Anúncio da OAB no Instagram",
-      "context": "Um anúncio da OAB apareceu no Instagram de usuários mesmo uma semana depois do evento que ele divulgava, e a campanha continua no ar. A situação gerou críticas à entidade por gastar dinheiro em uma campanha que já passou e por se envolver em uma causa que muitos consideram perdida.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/mulhertamarindo.bsky.social/post/3mzvgbgnct22b",
-      "createdAt": "2026-11-09T17:11:54.374000+00:00",
-      "rawScore": 0.20149810839062948,
-      "relevanceScore": 0.15611669355839108,
-      "suggestedRadius": 59.71,
-      "imageUrl": "assets/images/bsky_3mzvgbgnct22b_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzvgbgnct22b_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "Acabou de aparecer no meu Instagram 💀",
-          "url": "https://bsky.app/profile/mulhertamarindo.bsky.social/post/3mzvgbgnct22b",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A OAB está certa em insistir na campanha: o evento pode ter sido há uma semana, mas a mensagem ainda é relevante e precisa alcançar mais gente. Não vejo problema em manter o anúncio rodando, é uma forma de reforçar a posição da entidade.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            6
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A OAB só passa vergonha: gastar dinheiro com um anúncio de um evento que já aconteceu é um desrespeito com os advogados que pagam anuidade. Além disso, se envolver em uma causa perdida em país estrangeiro é puro desperdício.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3,
-            10,
-            11
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O anúncio da OAB apareceu no meu Instagram também, mas fiquei na dúvida: qual é o objetivo da entidade com essa campanha? Se for para reconstruir algo, como mencionaram, talvez faça sentido, mas precisaria entender melhor o contexto.",
-          "source": "sintese",
-          "evidence": [
-            7,
-            12
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -315,17 +430,17 @@
     },
     {
       "id": "bsky_3n2254beecs2l",
-      "rank": 6,
+      "rank": 8,
       "title": "A cafeteria que fui hoje de manhã",
       "label": "Cafeteria · Relato da manhã",
-      "context": "Um usuário do Bluesky publicou um relato sobre a cafeteria onde esteve na manhã de 11 de novembro de 2026. O post não traz detalhes sobre o local, o que foi consumido ou o que motivou o comentário.",
+      "context": "Um usuário do Bluesky publicou um relato sobre a cafeteria onde esteve na manhã de 11 de novembro de 2026. O post não traz detalhes sobre o local, o que aconteceu ou por que o assunto chamou atenção.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/luluzinha.bsky.social/post/3n2254beecs2l",
       "createdAt": "2026-11-11T14:11:40.982000+00:00",
-      "rawScore": 0.1284047661186614,
-      "relevanceScore": 0.09948543777255713,
-      "suggestedRadius": 54.92,
+      "rawScore": 0.11854391002236923,
+      "relevanceScore": 0.09118762309413017,
+      "suggestedRadius": 54.12,
       "imageUrl": "assets/images/bsky_3n2254beecs2l_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2254beecs2l_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -341,7 +456,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Compartilhar o nome da cafeteria e o que se come lá ajuda quem procura um lugar novo pra tomar café da manhã, e esse tipo de post é o que faz a rede valer a pena.",
+          "text": "Relatos simples do dia a dia numa cafeteria valem a pena porque mostram o cotidiano sem drama, e é esse tipo de postagem leve que faz a rede social ser um lugar mais agradável de acompanhar.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -349,7 +464,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Postar só 'a cafeteria que fui hoje de manhã' sem dizer qual é, onde fica ou o que aconteceu não informa nada e só ocupa espaço no feed de quem segue a pessoa.",
+          "text": "Postar só 'a cafeteria que fui hoje de manhã' sem dizer o nome do lugar, o que aconteceu ou o que comeu não informa nada e não dá para entender por que isso virou assunto.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -357,172 +472,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Faltam detalhes pra saber se o relato é elogio, reclamação ou só um registro do dia, então o jeito é esperar a pessoa contar mais sobre a cafeteria antes de tirar qualquer conclusão.",
+          "text": "Sem comentários e sem detalhes no post, fica difícil saber se o relato é elogio, reclamação ou só um registro pessoal da manhã, então qualquer leitura mais forte é chute.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n226jnj3dk2b",
-      "rank": 7,
-      "title": "Ponte Hercílio Luz em 2008, Florianópolis - SC",
-      "label": "Ponte Hercílio Luz · Registro de 2008",
-      "context": "A Ponte Hercílio Luz, em Florianópolis, foi fotografada em 2008. A imagem faz parte de um registro histórico da ponte, que é um cartão-postal da cidade.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/rbonelli.bsky.social/post/3n226jnj3dk2b",
-      "createdAt": "2026-11-11T14:36:41.573000+00:00",
-      "rawScore": 0.12358883922279405,
-      "relevanceScore": 0.09575415419174957,
-      "suggestedRadius": 54.57,
-      "imageUrl": "assets/images/bsky_3n226jnj3dk2b_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n226jnj3dk2b_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "Ponte Hercílio Luz 2008 Florianópolis - SC #foto #fotografia #photo #photography #florianopolis #hercilioluz",
-          "url": "https://bsky.app/profile/rbonelli.bsky.social/post/3n226jnj3dk2b",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A Ponte Hercílio Luz é um símbolo de Florianópolis e merece ser eternizada em fotos como essa de 2008. Mesmo com o tempo, sua beleza e importância histórica continuam encantando moradores e turistas.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Em 2008 a ponte estava em condições precárias, interditada há anos, e essa foto acaba romantizando uma situação de abandono. O registro deveria servir de alerta para a necessidade de restauração, não só de contemplação.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Fotos antigas da Ponte Hercílio Luz são documentos valiosos para entender a evolução da cidade. Independente da situação na época, o registro de 2008 ajuda a preservar a memória visual de Florianópolis.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzy7i4nvrc2i",
-      "rank": 8,
-      "title": "Gilberto Gil é anunciado como headliner do ARVO Festival em Florianópolis",
-      "label": "Gilberto Gil · ARVO Festival 2027",
-      "context": "Gilberto Gil foi anunciado como atração principal do ARVO Festival, marcado para maio de 2027 em Florianópolis. O anúncio antecipado do festival coloca a capital catarinense na rota de grandes eventos musicais com quase um ano de antecedência.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/tracklist.com.br/post/3mzy7i4nvrc2i",
-      "createdAt": "2026-11-10T19:48:21.471000+00:00",
-      "rawScore": 0.04126896059329189,
-      "relevanceScore": 0.03197436306412434,
-      "suggestedRadius": 46.73,
-      "imageUrl": "assets/images/bsky_3mzy7i4nvrc2i_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzy7i4nvrc2i_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "Gilberto Gil é anunciado como headliner do ARVO Festival, que acontece em maio de 2027, em Florianópolis. Clique e saiba mais: tracklist.com.br/arvo-festiva...",
-          "url": "https://bsky.app/profile/tracklist.com.br/post/3mzy7i4nvrc2i",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Gilberto Gil como headliner do ARVO é um acerto: ele é um artista com décadas de estrada e traz público de várias gerações. Um festival em Florianópolis com esse nome no cartaz tende a atrair gente de fora e movimentar a cidade.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Anunciar um festival para maio de 2027 com quase um ano e meio de antecedência parece exagero. O público pode esquecer ou desanimar, e ainda não há informações sobre preço, estrutura ou outras atrações que justifiquem tanta antecedência.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O anúncio de Gilberto Gil como headliner do ARVO Festival é uma boa notícia, mas ainda faltam detalhes importantes: local exato, preços e se haverá outras atrações. Sem essas informações, fica difícil avaliar se o evento vai valer a pena.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzqiuxn55k2f",
-      "rank": 9,
-      "title": "Fatalidade noticiada pelo Jornal Razão",
-      "label": "Fatalidade · Notícia do Jornal Razão",
-      "context": "O Jornal Razão publicou uma notícia sobre uma fatalidade, compartilhada no Bluesky em 7 de novembro de 2026. O caso gerou reação de leitores, que consideram o conteúdo da reportagem cada vez mais absurdo.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/gabrieldivan.bsky.social/post/3mzqiuxn55k2f",
-      "createdAt": "2026-11-07T18:15:13.079000+00:00",
-      "rawScore": 0.022330635352909255,
-      "relevanceScore": 0.017301328455133186,
-      "suggestedRadius": 43.89,
-      "imageUrl": "assets/images/bsky_3mzqiuxn55k2f_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzqiuxn55k2f_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "Fatality jornalrazao.com/seguranca/cr...",
-          "url": "https://bsky.app/profile/gabrieldivan.bsky.social/post/3mzqiuxn55k2f",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A cobertura do Jornal Razão cumpre o papel de expor a fatalidade e alertar a população sobre o que aconteceu, mesmo que o caso pareça chocante. Noticiar é isso: mostrar a realidade como ela é, sem maquiar.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A cada parágrafo a reportagem fica mais absurda, e isso não é jornalismo sério. O Jornal Razão parece querer chocar o leitor em vez de informar com responsabilidade sobre a fatalidade.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O caso em si já é grave, mas a forma como o Jornal Razão escreveu a matéria deixa dúvida se o tom é apropriado. Dá para noticiar a fatalidade sem transformar a leitura em algo cada vez mais absurdo.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
           "votes": 0
         }
       ],
@@ -531,19 +483,19 @@
     },
     {
       "id": "bsky_3mztkeimkfk2k",
-      "rank": 10,
-      "title": "Acompanhamento em ambulatório trans em Florianópolis e mudança para DIY",
-      "label": "Ambulatório trans · Atendimento e DIY",
-      "context": "Uma pessoa relatou ter iniciado acompanhamento no ambulatório trans de Florianópolis, onde o médico e a atendente do balcão também eram trans, e depois seguiu para o DIY (automedicação) após quase dois anos. O relato destaca a experiência positiva com profissionais trans e a transição para o DIY, prática comum diante de barreiras no acesso à saúde.",
+      "rank": 9,
+      "title": "Acompanhamento em ambulatório trans de Florianópolis foi ótimo, diz usuário",
+      "label": "Ambulatório trans · Atendimento com equipe trans",
+      "context": "Um usuário relatou no Bluesky que iniciou o acompanhamento pelo ambulatório trans de Florianópolis e teve uma boa experiência, com médico e atendente do balcão também trans. Depois de quase dois anos, ele seguiu para o DIY (automedicação).",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/lexosesbico.bsky.social/post/3mztkeimkfk2k",
       "createdAt": "2026-11-08T23:19:50.183000+00:00",
-      "rawScore": 0.018370230937288005,
-      "relevanceScore": 0.014232886535459092,
-      "suggestedRadius": 43.16,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.0263886764321703,
+      "relevanceScore": 0.02029898187090023,
+      "suggestedRadius": 44.55,
+      "imageUrl": "assets/images/bsky_3mztkeimkfk2k_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mztkeimkfk2k_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sc",
       "sources": [
@@ -557,7 +509,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Ter um médico e uma atendente trans no ambulatório fez toda a diferença para mim: me senti acolhido e compreendido sem precisar explicar o básico. Profissionais que vivem a mesma realidade tornam o atendimento mais humano e eficaz.",
+          "text": "Ter médico e atendente trans no ambulatório faz toda a diferença: o usuário relatou uma experiência ótima em Florianópolis, e em São Paulo uma psicóloga trans no postinho também é só elogios. Profissionais que vivem a mesma realidade acolhem melhor.",
           "source": "sintese",
           "evidence": [
             1
@@ -567,7 +519,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O relato de ir para o DIY depois de quase dois anos mostra que o ambulatório, apesar do bom atendimento, não conseguiu dar continuidade ao tratamento. Faltam hormonização e acompanhamento regular, empurrando as pessoas para a automedicação.",
+          "text": "O relato termina com o usuário indo para o DIY depois de quase dois anos de acompanhamento. Isso mostra que o ambulatório, mesmo com equipe trans e boa recepção, não conseguiu garantir o acesso que ele precisava para continuar o tratamento.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -575,7 +527,62 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A experiência positiva com profissionais trans é um ponto importante, mas a ida para o DIY indica que o acesso à saúde trans ainda é frágil. Ter equipe acolhedora não resolve a falta de estrutura e de continuidade do cuidado.",
+          "text": "A experiência em Florianópolis foi positiva, mas o caso de São Paulo mostra que a presença de profissionais trans varia muito de lugar para lugar. O relato de DIY depois de quase dois anos sugere que o atendimento acolhedor nem sempre se traduz em continuidade.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzvjiqproc2j",
+      "rank": 10,
+      "title": "Amiga não sabia que você tinha aberto uma loja em Floripa",
+      "label": "Amiga descobre loja em Floripa",
+      "context": "Uma pessoa abriu uma loja em Floripa e uma amiga não sabia. O post no Bluesky gerou comentários sobre a falta de reconhecimento e a dificuldade de acompanhar as novidades dos amigos.",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/kodoji.bsky.social/post/3mzvjiqproc2j",
+      "createdAt": "2026-11-09T18:09:46.378000+00:00",
+      "rawScore": 0.023283325917791198,
+      "relevanceScore": 0.017910250705993228,
+      "suggestedRadius": 44.03,
+      "imageUrl": "assets/images/bsky_3mzvjiqproc2j_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzvjiqproc2j_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "Amiga não sabia que tu tinha abrido uma loja em floripa",
+          "url": "https://bsky.app/profile/kodoji.bsky.social/post/3mzvjiqproc2j",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Abrir uma loja em Floripa e a amiga não saber mostra que a pessoa está focada no negócio, sem tempo para divulgar para todo mundo. O importante é que a loja existe e está de pé, e quem é próximo de verdade vai acabar descobrindo e apoiando.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Uma amiga que não fica sabendo de uma loja aberta em Floripa está desligada demais. Amizade de verdade acompanha os passos importantes, e abrir um negócio é um marco que merecia ser compartilhado e celebrado por quem está perto.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O post brinca com a situação, mas também revela como as redes sociais podem criar expectativas de que todos saibam de tudo. Às vezes a correria do dia a dia faz a gente perder novidades de amigos, e isso não significa falta de carinho.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

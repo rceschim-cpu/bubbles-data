@@ -1,23 +1,374 @@
 {
-  "generatedAt": "2026-11-12T06:29:13.508039+00:00",
+  "generatedAt": "2026-11-12T19:47:27.340864+00:00",
   "region": "br-rj",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n22ixf5mhk2t",
+      "id": "bsky_3n24rqn2ad22c",
       "rank": 1,
-      "title": "Passar dois dias no Rio em novembro: cansada, exausta, quem pudera viver",
+      "title": "Carioca se perde em Copacabana e brinca com a fama de se perder no próprio bairro",
+      "label": "Carioca se perde em Copacabana",
+      "context": "Uma pessoa que se identifica como carioca contou no Bluesky que se perdeu em Copacabana, bairro onde mora. Nos comentários, outras pessoas relataram a mesma dificuldade em ruas parecidas de cidades litorâneas, como Santos, e disseram que até mapas e aplicativos não resolvem.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/kmilla.bsky.social/post/3n24rqn2ad22c",
+      "createdAt": "2026-11-12T15:25:50.777000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n24rqn2ad22c_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24rqn2ad22c_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "Eu como boa carioca que sou me perdi em Copacabana.",
+          "url": "https://bsky.app/profile/kmilla.bsky.social/post/3n24rqn2ad22c",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Com uma vista daquelas, se perder em Copacabana é quase um bônus. A praia e a paisagem compensam qualquer volta errada, e o pessoal que comentou tem razão: o lugar é bonito demais para se estressar com isso.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "As ruas de Copacabana são todas parecidas demais, e isso não é culpa de quem se perde. Fiz um mapinha antes de sair de casa e ainda assim errei o caminho, então o problema está no traçado do bairro, não na orientação de quem mora ali.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Perder-se em cidade litorânea é comum em qualquer lugar: em Santos, quem sai da praia e do Gonzaga também se confunde, mesmo morando há anos. A questão é que a semelhança entre as ruas engana até quem usa Google Maps para se achar.",
+          "source": "sintese",
+          "evidence": [
+            3,
+            4
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n24vsv63ls2n",
+      "rank": 2,
+      "title": "8k dá qualidade de vida maravilhosa no Rio e em São Paulo, diz usuário",
+      "label": "Renda de 8k e qualidade de vida no Rio e SP",
+      "context": "Um usuário do Bluesky afirmou que uma renda mensal de 8 mil reais permite ter uma qualidade de vida maravilhosa mesmo no Rio de Janeiro e em São Paulo. A discussão surgiu a partir de dados do IBGE sobre crescimento da renda das famílias em diferentes estados, com ressalvas sobre a incerteza das estimativas amostrais.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/arthurhpc94.bsky.social/post/3n24vsv63ls2n",
+      "createdAt": "2026-11-12T16:38:41.677000+00:00",
+      "rawScore": 0.7447386078052619,
+      "relevanceScore": 0.9385984531169577,
+      "suggestedRadius": 94.13,
+      "imageUrl": "assets/images/bsky_3n24vsv63ls2n_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24vsv63ls2n_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "Pior que é verdade, vey 8k dá pra ter uma qualidade de vida maravilhosa mesmo no Rio de Janeiro e São Paulo",
+          "url": "https://bsky.app/profile/arthurhpc94.bsky.social/post/3n24vsv63ls2n",
+          "subreddit": "bsky_rj"
+        },
+        {
+          "title": "“O Rio de Janeiro ficou em 10%, e o Rio Grande do Sul, em 14%. Há duas ressalvas. A primeira é q a análise depende da qualidade do dado do IBGE.A Pesquisa Nacional por Amostra de Domicílios (PNAD) é um levantamento amostral, e as estimativas estaduais, sobretudo nas unidades menores, têm incerteza.”",
+          "url": "https://bsky.app/profile/nandabel23.bsky.social/post/3n2234uab622t",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Com 8 mil reais dá para morar em bairro com estrutura, juntar dinheiro e ainda ter lazer no fim de semana, mesmo no Rio ou em São Paulo. O segredo é planejar os gastos, porque ninguém espera pagar cobertura na frente da praia com essa renda.",
+          "source": "sintese",
+          "evidence": [
+            4,
+            5
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Os números do IBGE sobre renda crescente têm limitações sérias: a PNAD é uma pesquisa amostral e as estimativas estaduais, especialmente nas unidades menores, carregam incerteza. Não dá para tratar esses dados como prova de que a qualidade de vida melhorou de fato.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O ponto principal é que existem pessoas vivendo bem e guardando dinheiro com 8 mil reais em outros lugares, mas a experiência varia muito conforme a cidade e o bairro. O relato de quem mora fora do Rio e de São Paulo confirma que a renda rende mais, mas não invalida a percepção de quem vive nas capitais.",
+          "source": "sintese",
+          "evidence": [
+            4
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n24n477hcs2l",
+      "rank": 3,
+      "title": "Filho morre na garupa da mãe em bicicleta elétrica e ela cria grupo por ciclofaixa na Tijuca",
+      "label": "Morte em bicicleta elétrica · grupo por ciclofaixa",
+      "context": "Uma criança morreu na garupa da mãe em uma bicicleta elétrica no bairro da Tijuca, no Rio de Janeiro. Após a perda, a mãe formou um grupo para pressionar pela criação de uma ciclofaixa no bairro.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/nandabel23.bsky.social/post/3n24n477hcs2l",
+      "createdAt": "2026-11-12T14:02:58.086000+00:00",
+      "rawScore": 0.8164094829321309,
+      "relevanceScore": 0.9071216477023676,
+      "suggestedRadius": 93.15,
+      "imageUrl": "assets/images/bsky_3n24n477hcs2l_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24n477hcs2l_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "Quando seu filho morreu na garupa da mãe -- na bicicleta elétrica — ele formou um grupo pela criação da ciclofaixa no bairro da Tijuca, no Rio de Janeiro.",
+          "url": "https://bsky.app/profile/nandabel23.bsky.social/post/3n24n477hcs2l",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A atitude dessa mãe é admirável: em vez de se entregar à dor, ela transforma a tragédia em luta por infraestrutura segura para ciclistas. O grupo pela ciclofaixa na Tijuca pode evitar que outras famílias passem pelo mesmo sofrimento.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Bicicleta elétrica não é brinquedo e não deveria levar criança na garupa sem equipamento adequado. A morte poderia ter sido evitada com mais fiscalização e uso de cadeirinha, e não apenas com a criação de uma ciclofaixa.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A criação da ciclofaixa é uma reivindicação legítima, mas a segurança de crianças em bicicletas elétricas depende também de regras claras sobre idade, capacete e assentos. O grupo pode ajudar, mas o debate precisa incluir esses outros fatores.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n24wof66nc2y",
+      "rank": 4,
+      "title": "Curada com o Bruno imitando sotaque carioca: ele imita direitinho",
+      "label": "Sotaque carioca · imitação do Bruno",
+      "context": "O post destaca uma 'curada' em que o Bruno imita o sotaque carioca, com o autor afirmando que ele imita direitinho. A brincadeira gerou comentários sobre misturar sotaques e expressões regionais, como paulista, carioca e mineira.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/heavenzgyu.shy.cat/post/3n24wof66nc2y",
+      "createdAt": "2026-11-12T16:54:04.382000+00:00",
+      "rawScore": 0.5151518840869646,
+      "relevanceScore": 0.6835020934299606,
+      "suggestedRadius": 85.6,
+      "imageUrl": "assets/images/bsky_3n24wof66nc2y_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24wof66nc2y_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "curada com o bruno imitando sotaque carioca ele imita direitinho",
+          "url": "https://bsky.app/profile/heavenzgyu.shy.cat/post/3n24wof66nc2y",
+          "subreddit": "bsky_rj"
+        },
+        {
+          "title": "Tem que misturar os sotaques e expressões paulista, carioca e mineira na mesma frase, para ter um autêntico sotaque sudestino",
+          "url": "https://bsky.app/profile/brunomsantiago.bsky.social/post/3mzxivhbxwk2o",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O Bruno acertou em cheio no sotaque carioca, e a prova é que o pessoal já está convidando ele pra bater perna no calçadão de Caxias. Imitação boa é assim: reconhecível na hora e sem forçar a barra.",
+          "source": "sintese",
+          "evidence": [
+            4
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Misturar sotaque paulista, carioca e mineira na mesma frase não é imitar o carioca de verdade, é criar um 'sudestino' genérico. Quem é do Rio sabe que o jeito de falar tem particularidades que se perdem nessa salada toda.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A graça da imitação do Bruno está justamente no exagero e na mistura de expressões, como o 'Bá tche!' que alguém sugeriu só pra irritar. Não precisa ser fiel ao sotaque real pra arrancar risada e virar personagem.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n24vnuzn6c2c",
+      "rank": 5,
+      "title": "Pessoas igualmente amadas pela esquerda e pela direita",
+      "label": "Figuras de consenso entre esquerda e direita",
+      "context": "Uma publicação no Bluesky propôs listar pessoas que são igualmente admiradas por eleitores de esquerda e de direita. A provocação convida a pensar quais figuras públicas conseguem gerar aprovação nos dois campos, algo raro em um cenário político polarizado.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/misslexotan06mg.bsky.social/post/3n24vnuzn6c2c",
+      "createdAt": "2026-11-12T16:35:56.271000+00:00",
+      "rawScore": 0.5778928143819406,
+      "relevanceScore": 0.6421031270910451,
+      "suggestedRadius": 84.08,
+      "imageUrl": "assets/images/bsky_3n24vnuzn6c2c_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24vnuzn6c2c_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "Pessoas igualmente amadas pela esquerda e pela direita:",
+          "url": "https://bsky.app/profile/misslexotan06mg.bsky.social/post/3n24vnuzn6c2c",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Existem figuras que conseguem unir os dois lados porque falam de causas concretas, como esporte, cultura ou trabalho social, sem se atrelar a partido. Reconhecer essas pessoas mostra que a polarização não é total e que há espaço para admiração mútua.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A ideia de alguém ser amado pelos dois lados costuma esconder uma figura sem posição clara, que agrada a todos justamente por não se comprometer com nada. Em um país com tantas desigualdades, consenso entre esquerda e direita raramente significa algo bom para quem mais precisa.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Depende muito de qual recorte se usa: uma pessoa pode ser admirada pela direita por sua trajetória e pela esquerda por suas falas, mas isso não quer dizer que as duas concordem com o que ela defende. A lista só faz sentido se vier acompanhada do motivo pelo qual cada lado a admira.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n247izagwk2v",
+      "rank": 6,
+      "title": "Curta temporada no Rio de Janeiro com ingressos à venda",
+      "label": "Temporada curta no Rio · Ingressos",
+      "context": "Um evento com curta temporada no Rio de Janeiro está com ingressos à venda pela plataforma bileto.sympla.com.br. A divulgação foi feita em uma postagem no Bluesky, sem detalhes adicionais sobre o evento ou datas.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/andredahmer.bsky.social/post/3n247izagwk2v",
+      "createdAt": "2026-11-12T09:59:32.375000+00:00",
+      "rawScore": 0.40813611598357546,
+      "relevanceScore": 0.45348457331508385,
+      "suggestedRadius": 76.4,
+      "imageUrl": "assets/images/bsky_3n247izagwk2v_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n247izagwk2v_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "Curta temporada no Rio de Janeiro. Ingressos em bileto.sympla.com.br/event/128420...",
+          "url": "https://bsky.app/profile/andredahmer.bsky.social/post/3n247izagwk2v",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Uma temporada curta no Rio é uma ótima oportunidade para quem quer conferir o evento sem depender de uma agenda longa, e o link direto para os ingressos facilita a compra de quem já quer garantir o lugar.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Divulgar só o link de ingressos, sem dizer o que é o evento, o local ou as datas, deixa qualquer interessado no escuro e dificulta decidir se vale a pena comprar antes de esgotar.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A informação disponível é só o anúncio da temporada curta e o endereço de venda, então quem quiser avaliar precisa abrir o link para conferir detalhes como data, local e preço antes de decidir.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n22ixf5mhk2t",
+      "rank": 7,
+      "title": "Cansada em novembro, usuária pondera passar dois dias no Rio de Janeiro",
       "label": "Cansaço e viagem ao Rio em novembro",
-      "context": "Uma pessoa relata no Bluesky que seria conveniente passar dois dias no Rio de Janeiro, mas que em pleno novembro está cansada e exausta. O desabafo reflete a rotina de quem planeja uma viagem curta à cidade e sente o peso do período.",
+      "context": "Uma pessoa relata cansaço e exaustão em pleno novembro e diz que seria conveniente passar dois dias no Rio de Janeiro, mas sem disposição para isso. O desabafo gerou comentários sobre a rotina na cidade e a percepção de que o tempo mudou, com menos sol.",
       "source": "bluesky",
       "subreddit": "bsky_rj",
       "permalink": "https://bsky.app/profile/larissajmar.bsky.social/post/3n22ixf5mhk2t",
       "createdAt": "2026-11-11T17:43:14.078000+00:00",
-      "rawScore": 0.8451358124237246,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3n22ixf5mhk2t_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n22ixf5mhk2t_wiki_thumb.jpg",
+      "rawScore": 0.22648461189706945,
+      "relevanceScore": 0.3627606798856327,
+      "suggestedRadius": 72.14,
+      "imageUrl": "assets/images/bsky_3n22ixf5mhk2t_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n22ixf5mhk2t_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-rj",
       "sources": [
@@ -36,17 +387,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Rio em novembro ainda vale a pena, sim. Mesmo com o cansaço, dois dias na zona sul podem ser revigorantes, e a empolgação de quem vai ver um show ou reencontrar alguém querido mostra que a viagem compensa.",
+          "text": "O Rio continua valendo a pena mesmo em novembro, e quem está de fora deveria aproveitar a chance de passar uns dias na cidade. A rotina cansa, mas dois dias de praia e descanso podem renovar o ânimo.",
           "source": "sintese",
           "evidence": [
-            2
+            3
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A ideia de passar dois dias na zona sul já me deixa exausta antes mesmo de sair de casa. O mês de novembro chega e o corpo pede descanso, não deslocamento e compromisso.",
+          "text": "A ideia de passar dois dias na zona sul já cansa antes mesmo de sair de casa. O mês de novembro chega e a exaustão bate, então o melhor é ficar quieto e não se forçar a uma viagem que pode ser mais desgastante do que relaxante.",
           "source": "sintese",
           "evidence": [
             1
@@ -56,7 +407,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O tempo em novembro anda confuso: uns dizem que não faz mais sol, outros garantem que o calor continua. No fim, a viagem depende mais da disposição de cada um do que da previsão.",
+          "text": "O tempo no Rio mudou e já não faz mais sol como antes, então a viagem pode não render o descanso esperado. Vale conferir a previsão e as condições antes de decidir se vale a pena encarar o deslocamento.",
           "source": "sintese",
           "evidence": [
             3,
@@ -69,202 +420,18 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n23gef5puk2n",
-      "rank": 2,
-      "title": "Borboletinha dá na cozinha... Me chama de carioca safada e me maltrata!",
-      "label": "Brincadeira carioca · Música e flerte",
-      "context": "Um post no Bluesky usa a letra da música infantil 'Borboletinha' para fazer uma brincadeira com duplo sentido, chamando alguém de 'carioca safada'. A publicação gerou comentários que continuam o tom de flerte e humor entre os usuários.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/keeelkeeel.bsky.social/post/3n23gef5puk2n",
-      "createdAt": "2026-11-12T02:26:26.371000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 0.9522440988581552,
-      "suggestedRadius": 94.55,
-      "imageUrl": "assets/images/bsky_3n23gef5puk2n_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n23gef5puk2n_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "Borboletinha dá na cozinha...Me chama de carioca safada e me maltrata!",
-          "url": "https://bsky.app/profile/keeelkeeel.bsky.social/post/3n23gef5puk2n",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A brincadeira funciona porque mistura a nostalgia da música infantil com um flerte safado, e isso é a cara do Rio. Quem entende a piada já entra no clima e responde na mesma moeda, como o comentário sobre pular corda ser mais sexy.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Chamar de 'carioca safada' e 'maltrata' soa forçado e apelativo, parece que a pessoa tá tentando ser engraçada sem precisar. A letra da borboletinha não tem nada a ver com isso, e o comentário do casal novinho só reforça que a brincadeira não convence.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O post é só uma brincadeira entre amigos, mas o comentário sobre pular corda ser mais sexy mostra que cada um interpreta o flerte de um jeito. Não dá pra levar a sério nem como ofensa nem como declaração de amor, é só zoeira carioca.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n22apwit4c2m",
-      "rank": 3,
-      "title": "Operação prende familiares de Ricardo Magro Pais e avô de Ricardo Magro; dívida do grupo com o Estado do Rio supera R$ 15 bi",
-      "label": "Operação prende familiares de Ricardo Magro Pais",
-      "context": "Uma operação prendeu familiares de Ricardo Magro Pais e o avô de Ricardo Magro, em ação que investiga o grupo. A dívida do grupo com o Estado do Rio de Janeiro ultrapassa R$ 15 bilhões.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/luisnassif.bsky.social/post/3n22apwit4c2m",
-      "createdAt": "2026-11-11T15:16:18.071000+00:00",
-      "rawScore": 0.8790016116123291,
-      "relevanceScore": 0.9300267750496094,
-      "suggestedRadius": 93.86,
-      "imageUrl": "assets/images/bsky_3n22apwit4c2m_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n22apwit4c2m_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "“Do porto ao posto sem pagar imposto”: Operação prende familiares de Ricardo Magro Pais e avô de Ricardo Magro são alvos da ação; dívida do grupo com o Estado do Rio de Janeiro ultrapassa R$ 15 bi jornalggn.com.br/justica/do-p...",
-          "url": "https://bsky.app/profile/luisnassif.bsky.social/post/3n22apwit4c2m",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A operação mostra que a Justiça está agindo para cobrar uma dívida bilionária com o Estado do Rio. Prender familiares e o avô de Ricardo Magro Pais é um recado de que ninguém está acima da lei, e o valor de R$ 15 bilhões justifica a ação.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Prender familiares e o avô de Ricardo Magro Pais parece mais uma forma de pressão do que uma medida justa. A dívida é do grupo, e envolver parentes na operação pode ser excesso, já que a responsabilidade deveria recair sobre os diretamente envolvidos.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A operação contra o grupo de Ricardo Magro Pais levanta dúvidas sobre até onde a Justiça pode ir ao prender familiares. A dívida de R$ 15 bilhões com o Estado do Rio é grave, mas é preciso ver se as prisões têm base legal ou se são apenas medida de impacto.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2342byozc2i",
-      "rank": 4,
-      "title": "Segundo turno tem que ser realizado no Rio de Janeiro, dizem posts",
-      "label": "Segundo turno no Rio · Pressão por realização",
-      "context": "Posts em redes sociais defendem que o segundo turno das eleições seja realizado no Rio de Janeiro, argumentando que fraude eleitoral é ilegal. A discussão ocorre em meio a comentários que citam a atuação da Justiça Eleitoral e o papel de candidatos no processo.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/fabridosreis.bsky.social/post/3n2342byozc2i",
-      "createdAt": "2026-11-11T23:24:58.382000+00:00",
-      "rawScore": 0.7199560154609133,
-      "relevanceScore": 0.9294455399804489,
-      "suggestedRadius": 93.84,
-      "imageUrl": "assets/images/bsky_3n2342byozc2i_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2342byozc2i_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "O SEGUNDO TURNO TEM QUE SER REALIZADO NO RIO DE JANEIRO. FRAUDE EM ELEIÇÕES É ILEGAL.",
-          "url": "https://bsky.app/profile/fabridosreis.bsky.social/post/3n2342byozc2i",
-          "subreddit": "bsky_rj"
-        },
-        {
-          "title": "QUEREMOS O SEGUNDO TURNO NO RIO DE JANEIRO! 🤝🫶✊️",
-          "url": "https://bsky.app/profile/taniarivera.bsky.social/post/3mzok5gxptk2o",
-          "subreddit": "bsky_rj"
-        },
-        {
-          "title": "O SEGUNDO TURNO NO RIO DE JANEIRO É JUSTO.",
-          "url": "https://bsky.app/profile/fabridosreis.bsky.social/post/3mzw5jphyd22f",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O segundo turno no Rio de Janeiro é uma questão de justiça eleitoral: se houve fraude, a lei é clara ao dizer que é ilegal, e o pleito precisa ser refeito para respeitar a vontade dos eleitores. Não dá para aceitar que irregularidades passem em branco.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A Justiça Eleitoral deixou brechas para que situações como essa acontecessem, e agora querem empurrar um novo turno no Rio sem resolver a raiz do problema. O eleitor carioca é que paga a conta de uma disputa que já deveria ter sido decidida nas urnas.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "No Rio de Janeiro nada mais surpreende, e a sensação é de descrédito com o processo eleitoral. Antes de falar em segundo turno, seria preciso entender exatamente que fraude ocorreu e quem foi responsável, para não repetir o mesmo erro.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3mzxosqu3722m",
-      "rank": 5,
-      "title": "Absurdo esse pôster do Nelson Jungbluth para a Varig",
-      "label": "Pôster vintage da Varig · Nelson Jungbluth",
-      "context": "Um pôster antigo da Varig criado por Nelson Jungbluth viralizou no Bluesky, com gente elogiando o design e o valor nostálgico da peça. A imagem reacendeu o interesse por materiais gráficos históricos da aviação brasileira, que muita gente guarda, coleciona ou usa como referência.",
+      "rank": 8,
+      "title": "Pôster de Nelson Jungbluth para a Varig causa espanto",
+      "label": "Pôster antigo da Varig · Nostalgia e design",
+      "context": "Um pôster do designer Nelson Jungbluth para a Varig foi compartilhado e chamou atenção pela qualidade gráfica. A peça desperta nostalgia e interesse por itens de viagem antigos do Brasil, que circulam em coleções digitais e impressões caseiras.",
       "source": "bluesky",
       "subreddit": "bsky_rj",
       "permalink": "https://bsky.app/profile/joannamaciel.com/post/3mzxosqu3722m",
       "createdAt": "2026-11-10T14:50:14.382000+00:00",
-      "rawScore": 0.829475152838248,
-      "relevanceScore": 0.8776253549329867,
-      "suggestedRadius": 92.21,
+      "rawScore": 0.3060613590332343,
+      "relevanceScore": 0.3400681767035936,
+      "suggestedRadius": 70.99,
       "imageUrl": "assets/images/bsky_3mzxosqu3722m_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzxosqu3722m_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -280,10 +447,11 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Esse pôster do Jungbluth pra Varig é uma obra de design, e ver gente baixando e imprimindo pra ter em casa mostra que a estética da aviação antiga ainda encanta. Eu mesma tenho uma pasta no Pinterest só com posters de viagens antigos do Brasil.",
+          "text": "Esse pôster do Jungbluth pra Varig é uma obra de design que merece ser vista e celebrada. Baixei e mandei imprimir alguns de tão lindos, e ainda dá pra guardar digitalmente como referência sem acumular tralha em casa.",
           "source": "sintese",
           "evidence": [
             2,
+            4,
             6
           ],
           "votes": 0
@@ -291,20 +459,21 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A Varig faliu e hoje o nome dela aparece em carrinho de bordo da Gol, o que dá uma sensação estranha de nostalgia fora de lugar. Ficar cultuando pôster de uma empresa que não existe mais parece mais saudosismo do que qualquer outra coisa.",
+          "text": "Fico surpreso que ainda existam pôsteres intactos da Varig pra vender, mas hoje prefiro não acumular tanto. No máximo guardo uns posters, e olhe lá — o resto vai tudo pra pasta digital pra não virar entulho.",
           "source": "sintese",
           "evidence": [
-            1
+            4
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Gosto de ver e guardar digitalmente como referência, mas hoje em dia prefiro não acumular tanto. No máximo uns pôsteres, porque o resto vira tralha e a memória já fica bem guardada no Pinterest.",
+          "text": "A nostalgia bate forte: vi que a Gol usa carrinho de bordo da Varig e até etiqueta de bagagem vendem em leilão. Esse nicho de itens antigos de viagem é bem específico, mas tem seu charme e um público fiel.",
           "source": "sintese",
           "evidence": [
-            4
+            1,
+            3
           ],
           "votes": 0
         }
@@ -314,17 +483,17 @@
     },
     {
       "id": "bsky_3mzxwivvxls2q",
-      "rank": 6,
+      "rank": 9,
       "title": "Hayley Williams manda recado à família Bolsonaro em show no Rio",
-      "label": "Hayley Williams critica Bolsonaro no Rio",
-      "context": "A vocalista do Paramore, Hayley Williams, durante show no Rio de Janeiro na segunda-feira (9), fez um pronunciamento direcionado à família Bolsonaro. O episódio gerou repercussão nas redes sociais, com comentários que destacam a coragem da artista e outros que reagem de forma crítica.",
+      "label": "Hayley Williams critica Bolsonaro em show",
+      "context": "A vocalista do Paramore, Hayley Williams, durante show no Rio de Janeiro na segunda-feira (9), enviou um recado direto à família Bolsonaro. O episódio gerou repercussão nas redes sociais, com comentários que destacam a coragem da artista e outros que reagem de forma crítica.",
       "source": "bluesky",
       "subreddit": "bsky_rj",
       "permalink": "https://bsky.app/profile/iclnoticias.com.br/post/3mzxwivvxls2q",
       "createdAt": "2026-11-10T17:08:10.883000+00:00",
-      "rawScore": 0.7900065258541018,
-      "relevanceScore": 0.8358656136711122,
-      "suggestedRadius": 90.86,
+      "rawScore": 0.2866052576361867,
+      "relevanceScore": 0.31845028626242966,
+      "suggestedRadius": 69.86,
       "imageUrl": "assets/images/bsky_3mzxwivvxls2q_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzxwivvxls2q_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -340,7 +509,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Hayley Williams mostrou coragem ao se posicionar politicamente em um show no Brasil, algo que muitos artistas evitam. Usar a plataforma para criticar a família Bolsonaro é um recado direto e necessário, especialmente em um momento de polarização.",
+          "text": "A atitude de Hayley Williams foi corajosa, ainda mais vindo de uma artista estrangeira em turnê no Brasil. Usar o palco para se posicionar contra a família Bolsonaro mostra que ela não tem medo de retaliação e se solidariza com causas políticas locais.",
           "source": "sintese",
           "evidence": [
             1
@@ -350,7 +519,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A atitude de Hayley Williams foi desrespeitosa e desnecessária, pois misturar política com entretenimento afasta parte do público. Quem vai a um show quer ouvir música, não sermão ideológico, e a artista deveria se limitar ao seu trabalho.",
+          "text": "Artistas estrangeiros deveriam se limitar a fazer música e não se meter em política brasileira. O recado de Hayley Williams soa como intromissão e desrespeito à soberania nacional, além de alienar parte do público que não concorda com sua visão.",
           "source": "sintese",
           "evidence": [
             4
@@ -360,62 +529,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O episódio ilustra como artistas internacionais trazem pautas políticas para o Brasil, mas a eficácia desse tipo de manifestação é questionável. O recado pode gerar engajamento, porém também reforça divisões em vez de promover diálogo.",
+          "text": "O episódio mostra como o palco virou espaço de manifestação política, mas é preciso ver se isso não desvia o foco do trabalho artístico. A reação da família Bolsonaro e dos fãs ainda é incerta, e o debate sobre limites da liberdade de expressão continua.",
           "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzxjuv3z2k2f",
-      "rank": 7,
-      "title": "Em defesa de Niterói, o berço do progressismo no Rio de Janeiro, compartilho esse vídeo",
-      "label": "Niterói · Berço do progressismo",
-      "context": "Um vídeo em defesa de Niterói foi compartilhado com a afirmação de que a cidade é o berço do progressismo no Rio de Janeiro. A publicação usa a hashtag #DefendaNiteroi e busca mobilizar apoio à imagem da cidade.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/rosepaixao.bsky.social/post/3mzxjuv3z2k2f",
-      "createdAt": "2026-11-10T13:21:47.571000+00:00",
-      "rawScore": 0.5929101697562793,
-      "relevanceScore": 0.6273280114482267,
-      "suggestedRadius": 83.52,
-      "imageUrl": "assets/images/bsky_3mzxjuv3z2k2f_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzxjuv3z2k2f_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "Em defesa de Niterói, o berço do progressismo no Rio de Janeiro, compartilho esse vídeo com todos vocês. #DefendaNiteroi",
-          "url": "https://bsky.app/profile/rosepaixao.bsky.social/post/3mzxjuv3z2k2f",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Niterói merece esse reconhecimento, sim. A cidade tem uma história de vanguarda e uma cena política que sempre puxou o progressismo no estado, e divulgar isso com orgulho é uma forma de valorizar o que a cidade construiu.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Chamar Niterói de berço do progressismo parece mais marketing do que realidade. A cidade tem problemas sérios de desigualdade e transporte, e um vídeo ufanista não resolve nada nem representa a experiência de quem vive na periferia.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O vídeo pode até ter boa intenção, mas o debate acaba desviado por hashtags e divulgação de redes sociais. O que importa é discutir propostas concretas para a cidade, e não ficar só na exaltação de um título simbólico.",
-          "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            3
+          ],
           "votes": 0
         }
       ],
@@ -424,19 +542,19 @@
     },
     {
       "id": "bsky_3mzuwqpfu322k",
-      "rank": 8,
+      "rank": 10,
       "title": "Gustavo Gomez fala de cartão vermelho e PM do Rio entende 'Comando Vermelho'",
-      "label": "Gafe policial · Gomez e o PM no Rio",
-      "context": "O jogador Gustavo Gomez se dirigiu ao árbitro para reclamar de um cartão vermelho e a Polícia Militar do Rio de Janeiro entendeu que ele dizia 'Comando Vermelho'. O episódio virou piada nas redes e levantou questionamentos sobre a presença e a conduta da PM em campo.",
+      "label": "Gafe policial · Gomez e o Comando Vermelho",
+      "context": "O jogador Gustavo Gomez se dirigiu ao árbitro para reclamar de um cartão vermelho e a Polícia Militar do Rio de Janeiro teria confundido a expressão com uma referência ao Comando Vermelho. O episódio virou piada nas redes e levantou questionamentos sobre a presença e a conduta da PM em campo durante partidas de futebol.",
       "source": "bluesky",
       "subreddit": "bsky_rj",
       "permalink": "https://bsky.app/profile/crisvector.com/post/3mzuwqpfu322k",
       "createdAt": "2026-11-09T12:34:04.274000+00:00",
-      "rawScore": 0.4628536174560165,
-      "relevanceScore": 0.5955267063816191,
-      "suggestedRadius": 82.3,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.1812264291356307,
+      "relevanceScore": 0.31247381015070075,
+      "suggestedRadius": 69.54,
+      "imageUrl": "assets/images/bsky_3mzuwqpfu322k_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzuwqpfu322k_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-rj",
       "sources": [
@@ -455,7 +573,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A confusão toda é uma comédia pronta: Gomez falando de cartão vermelho e o PM entendendo 'Comando Vermelho' é o tipo de mal-entendido que só acontece no Rio. Virou meme e o episódio rendeu boas risadas, sem maiores consequências.",
+          "text": "A confusão entre 'cartão vermelho' e 'Comando Vermelho' rendeu a piada mais engraçada do futebol carioca. O Gomez é ídolo, estava só reclamando com o árbitro, e o PM entendeu tudo errado. Virou meme e mostrou que o Rio segue sendo o Rio, com seu humor peculiar.",
           "source": "sintese",
           "evidence": [
             1,
@@ -466,11 +584,10 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A presença da PM em campo desse jeito é bizarra e desnecessária. Ficam um paredão olhando os jogadores, não têm preparo para lidar com a dinâmica do jogo e ainda transformam uma reclamação normal em confusão. Polícia não é para ficar no gramado.",
+          "text": "A presença de um paredão da PM em campo, olhando os jogadores de forma intimidadora, é completamente desproporcional. O Gomez só queria falar com o árbitro e virou suspeito de facção. Isso mostra como a abordagem policial no Rio é truculenta e transforma qualquer situação em caso de polícia.",
           "source": "sintese",
           "evidence": [
             4,
-            6,
             7,
             8
           ],
@@ -479,122 +596,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A PM em campo costuma existir para escoltar árbitros e conter tumultos, mas o problema é quando isso vira um paredão na entrada do vestiário. O diálogo sem sentido mostra que falta preparo para distinguir uma discussão de futebol de uma ameaça real.",
+          "text": "A PM costuma fazer escolta de árbitros e atuar em situações de segurança, mas não deveria estar no vestiário discutindo com jogador. O episódio revela um despreparo na comunicação e um excesso de presença policial em campo, mas também é preciso entender o protocolo de segurança adotado no estádio.",
           "source": "sintese",
           "evidence": [
-            3,
-            5
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n224xz6xs22k",
-      "rank": 9,
-      "title": "Oi, Rio de Janeiro, bora encontrar com a gente amanhã?",
-      "label": "Convite para encontro no Rio de Janeiro",
-      "context": "Uma publicação no Bluesky convida o público do Rio de Janeiro para um encontro no dia seguinte. O post é uma convocação direta e informal, sem detalhes sobre local, horário ou organizadores.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/carolbonomi.bsky.social/post/3n224xz6xs22k",
-      "createdAt": "2026-11-11T14:09:00.970000+00:00",
-      "rawScore": 0.549340802125592,
-      "relevanceScore": 0.5812294856512228,
-      "suggestedRadius": 81.74,
-      "imageUrl": "assets/images/bsky_3n224xz6xs22k_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n224xz6xs22k_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "Oi, Rio de Janeiro, bora encontra com a gnt, amanha?",
-          "url": "https://bsky.app/profile/carolbonomi.bsky.social/post/3n224xz6xs22k",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O convite é direto e sem burocracia, do jeito que a internet funciona melhor: alguém chama e quem quiser aparece. Um encontro marcado assim, de um dia para o outro, tem tudo a ver com a espontaneidade carioca.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Marcar encontro com menos de um dia de antecedência e sem dizer onde nem a que horas não ajuda ninguém a se organizar. Um convite assim, vago e em cima da hora, acaba frustrando quem realmente queria ir.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A convocação é simpática, mas falta o essencial: local, horário e quem está organizando. Sem essas informações, fica difícil saber se é um encontro aberto de verdade ou só uma brincadeira entre amigos.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzyfycxxq22k",
-      "rank": 10,
-      "title": "Pedido de expulsão de Quaquá do PT e 'limpa' no partido no Rio",
-      "label": "Expulsão de Quaquá · Crise no PT-RJ",
-      "context": "Um post no Bluesky defende a expulsão de Quaquá do PT e uma 'limpa' no partido no Rio de Janeiro, citando a presença de 'quinta-colunas' e oportunistas. A crítica se concentra na atuação de Quaquá e na suposta infiltração de adversários na legenda.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/sandruska.bsky.social/post/3mzyfycxxq22k",
-      "createdAt": "2026-11-10T21:44:46.278000+00:00",
-      "rawScore": 0.5310645047780548,
-      "relevanceScore": 0.5618922675421458,
-      "suggestedRadius": 80.98,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "Passou da hora de quaquá ser expulso do PT, de se fazer uma limpa no partido, no Rio de Janeiro (capital e estado), porque há muitos quinta-colunas, incompetentes e oportunistas que chafurdam na lama da (extrema)direita lá.\" Palas Atena",
-          "url": "https://bsky.app/profile/sandruska.bsky.social/post/3mzyfycxxq22k",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Quaquá age como quinta-coluna do bolsonarismo dentro do PT e já deveria ter sido expulso há tempos. O partido precisa fazer uma limpa no Rio para barrar oportunistas que flertam com a extrema-direita.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Expulsar Quaquá é um erro: ele é um quadro histórico do partido e a saída dele só enfraquece o PT no Rio. Em vez de caçar culpados, a legenda deveria debater propostas e reconquistar a confiança do eleitor.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A discussão sobre expulsão virou palco para violência verbal, como se vê nos comentários. O PT precisa de critérios claros e debate interno antes de sair expulsando quem quer que seja.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
+            5,
+            6
           ],
           "votes": 0
         }
