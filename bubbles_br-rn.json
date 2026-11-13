@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-11-12T19:47:27.340864+00:00",
+  "generatedAt": "2026-11-13T05:48:44.784257+00:00",
   "region": "br-rn",
-  "count": 8,
+  "count": 7,
   "items": [
     {
-      "id": "bsky_3mztzasl35c22",
+      "id": "bsky_3n25kvdp5bc2o",
       "rank": 1,
-      "title": "Lula parabeniza pronunciamento que celebra a vitória da democracia no RN",
-      "label": "Pronunciamento de Lula · Reação no RN",
-      "context": "O presidente Lula da Silva publicou uma mensagem elogiando um pronunciamento no Rio Grande do Norte que, segundo ele, celebra a vitória da democracia e renova a esperança. A publicação gerou reações que misturam apoio ao governo federal com críticas à forma como o estado e o Nordeste são retratados.",
+      "title": "Novela sobre o Rio Grande do Norte é criticada por estereótipos",
+      "label": "Novela nordestina · Estereótipos em debate",
+      "context": "Posts no Bluesky comparam uma nova novela ambientada no Rio Grande do Norte com \"A Nobreza do Amor\", que retratou o estado em 1926. A crítica é que a produção nova reduz o Nordeste a estereótipos, enquanto a anterior mostrava diversidade de personagens e paisagens.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
-      "permalink": "https://bsky.app/profile/ribeirotrilhas.bsky.social/post/3mztzasl35c22",
-      "createdAt": "2026-11-09T03:46:17.477000+00:00",
-      "rawScore": 0.8801622168554275,
+      "permalink": "https://bsky.app/profile/ao3hyunin.bsky.social/post/3n25kvdp5bc2o",
+      "createdAt": "2026-11-12T22:55:52.179000+00:00",
+      "rawScore": 0.9,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3mztzasl35c22_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztzasl35c22_reddit_thumb.jpg",
+      "imageUrl": "assets/images/bsky_3n25kvdp5bc2o_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n25kvdp5bc2o_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-rn",
       "sources": [
         {
+          "title": "alfinete, vito, skz, cortis, preto e branco, pedagogia, rio grande do norte, aquele filtro que vc usa nas suas edições, poppy (cantora), fanfic",
+          "url": "https://bsky.app/profile/ao3hyunin.bsky.social/post/3n25kvdp5bc2o",
+          "subreddit": "bsky_rn"
+        },
+        {
+          "title": "vey também (moro no rio grande do norte",
+          "url": "https://bsky.app/profile/yasminp14.bsky.social/post/3n25vxh237k2h",
+          "subreddit": "bsky_rn"
+        },
+        {
           "title": "Presidente Luiz Inácio Lula da Silva, o Rio Grande do Norte está pronto para seguir construindo, em parceria com o Governo Federal, um Brasil mais justo e desenvolvido. Parabéns pelo belo pronunciamento, que celebra a vitória da democracia e renova nossa esperança!",
           "url": "https://bsky.app/profile/ribeirotrilhas.bsky.social/post/3mztzasl35c22",
-          "subreddit": "bsky_rn"
-        },
-        {
-          "title": "parabéns a nobreza do amor que retratou o rio grande do norte em 1920 de uma maneira mais contemporânea e apropriada que o que quer que seja que essa novela nova quer",
-          "url": "https://bsky.app/profile/yaneyao.bsky.social/post/3mzxzhjj6c22g",
-          "subreddit": "bsky_rn"
-        },
-        {
-          "title": "Terror Fúnebre - Brasil, Rio Grande do Norte",
-          "url": "https://bsky.app/profile/crackpotbaby.bsky.social/post/3mznegpsruk2v",
           "subreddit": "bsky_rn"
         }
       ],
@@ -41,35 +41,33 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A parceria entre o Rio Grande do Norte e o Governo Federal é o caminho para um Brasil mais justo, e o pronunciamento de Lula renova a esperança de quem acredita na democracia. Foi justamente nos governos do PT que regiões rurais finalmente tiveram eletricidade e internet.",
+          "text": "A Nobreza do Amor acertou ao mostrar o Rio Grande do Norte com nuances: tinha diversidade de personalidades, figurinos e até explicava que a seca era da época do ano, não da região inteira. Isso sim é retratar o Nordeste com respeito e bom gosto.",
           "source": "sintese",
           "evidence": [
-            3,
-            9
+            4,
+            5,
+            6
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O Nordeste continua sendo retratado por estereótipos caricatos, e quem mora aqui sabe que a realidade é outra. Uma novela que se passa na região e reduz tudo a sotaques horrendos e clichês mostra o quanto esse olhar fetichizado do paraíso turístico ainda domina.",
+          "text": "Essa novela nova é uma pilha de estereótipos, com sotaques horríveis e aquela visão mítica do Nordeste que não corresponde à realidade. Depois de uma produção competente, voltar a esse tipo de retrato caricato é frustrante e desrespeitoso.",
           "source": "sintese",
           "evidence": [
-            1,
-            4,
-            8
+            3
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A 'Nobreza do Amor' mostrou que dá para retratar o Rio Grande do Norte com diversidade de personagens e figurinos, sem reduzir tudo a 'se passa no Nordeste'. A nova novela erra ao não ter personalidade nenhuma e apostar no estereótipo do estereótipo.",
+          "text": "Comparar as duas novelas é válido, mas cada uma tem proposta e época de produção diferentes. O problema maior é que a TV ainda insiste em retratar o Nordeste de forma genérica, sem explorar a diversidade real de cada estado.",
           "source": "sintese",
           "evidence": [
-            5,
-            6,
-            7
+            3,
+            5
           ],
           "votes": 0
         }
@@ -80,16 +78,16 @@
     {
       "id": "bsky_3mzyhztwd4k2l",
       "rank": 2,
-      "title": "Globo só retrata Nordeste e ignora Norte e Sul nas novelas, questiona usuário",
-      "label": "Estereótipos regionais nas novelas da Globo",
-      "context": "Um usuário do Bluesky criticou a Globo por, ao sair do eixo Rio-São Paulo nas novelas, retratar sempre o Nordeste de forma estereotipada, e questionou por que o Rio Grande do Sul e o Pará não recebem o mesmo tratamento. A discussão reflete a percepção de que a emissora trata algumas regiões como cenário genérico e outras como retrato caricato.",
+      "title": "Globo só sai do eixo SP-Rio nas novelas para o Nordeste estereotipado, questiona usuário",
+      "label": "Novelas da Globo · Estereótipos regionais",
+      "context": "Um usuário do Bluesky criticou a Globo por, ao sair do eixo SP-Rio nas novelas, recorrer sempre a um Nordeste estereotipado, e perguntou por que o Rio Grande do Sul e o Pará não recebem o mesmo tratamento. A discussão gerou comentários sobre a repetição de clichês regionais e a falta de representação de outras áreas do país.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/nyandeco.bsky.social/post/3mzyhztwd4k2l",
       "createdAt": "2026-11-10T22:21:23.679000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 0.9807532186497034,
-      "suggestedRadius": 95.42,
+      "rawScore": 0.27924505552755374,
+      "relevanceScore": 0.4481177546663911,
+      "suggestedRadius": 76.16,
       "imageUrl": "assets/images/bsky_3mzyhztwd4k2l_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzyhztwd4k2l_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -115,9 +113,10 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A crítica acerta o alvo: a Globo só sai do eixo Rio-São Paulo para vender um Nordeste caricato, com sotaques horríveis e clichês, enquanto regiões como Norte e Sul ficam de fora. Novelas boas ambientadas no Rio Grande do Norte real, sem estereótipo, são raras e logo substituídas por patacoadas.",
+          "text": "A crítica acerta o ponto: a Globo trata o Nordeste como um bloco genérico e medieval, ignorando a diversidade real da região. Enquanto isso, o Rio Grande do Sul e o Pará nunca ganham novelas ambientadas em suas realidades, o que reforça um olhar limitado sobre o país.",
           "source": "sintese",
           "evidence": [
+            1,
             3
           ],
           "votes": 0
@@ -125,18 +124,20 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Reclamar de estereótipo regional é fácil, mas o público quer reconhecer o próprio país na tela. Novelas ambientadas no Nordeste mostram paisagens e sotaques que muita gente nunca viu na TV aberta, e isso tem valor. O problema não é retratar a região, é achar que só o eixo Rio-SP merece protagonismo.",
+          "text": "Reclamar de estereótipos é fácil, mas o público quer histórias que emocionem, e o Nordeste rende boas tramas. Se a Globo fosse atrás de cada região, perderia audiência; o negócio é entretenimento, não aula de geografia.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A questão é que a Globo escolhe cenários por apelo comercial, não por mapa afetivo. Se o Nordeste aparece mais, é porque vende; se o Pará e o Sul ficam de fora, é porque a emissora aposta em fórmulas seguras. Mudar isso exige pressão por diversidade real de cenários, não só troca de estereótipo.",
+          "text": "A questão é que a Globo já mostrou o Rio Grande do Norte em novelas recentes, mas ainda assim o Nordeste aparece como um todo homogêneo. Talvez o problema não seja a região escolhida, mas a falta de pesquisa e de sotaques autênticos, que soam falsos e reforçam clichês.",
           "source": "sintese",
           "evidence": [
-            2
+            3
           ],
           "votes": 0
         }
@@ -147,16 +148,16 @@
     {
       "id": "bsky_3n22td44j322b",
       "rank": 3,
-      "title": "Eleitor relata silêncio em bairro de Natal durante apuração do segundo turno",
-      "label": "Silêncio eleitoral · Bairro Coophab em Natal",
-      "context": "Um morador do bairro Coophab, em Natal, relatou que o silêncio foi total no condomínio durante a apuração do segundo turno, com apenas seu apartamento e mais duas unidades comemorando quando 86% das urnas estavam apuradas. O relato descreve a reação de uma vizinhança que o autor chama de \"a mais sionista possível\" diante do resultado eleitoral.",
+      "title": "Morador relata silêncio no bairro Coophab durante o segundo turno em Natal",
+      "label": "Silêncio eleitoral no bairro Coophab",
+      "context": "Um morador do bairro Coophab, em Natal, relatou que voltou à cidade em 2024 e que, durante a apuração do segundo turno, o silêncio no condomínio era quase total. Ele afirma que, com 86% das urnas apuradas, apenas seu apartamento e cerca de duas unidades vizinhas comemoravam o resultado.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/pedroalbano.bsky.social/post/3n22td44j322b",
       "createdAt": "2026-11-11T20:48:45.385000+00:00",
-      "rawScore": 0.6063104603565873,
-      "relevanceScore": 0.5790577341412767,
-      "suggestedRadius": 81.66,
+      "rawScore": 0.15024035832421953,
+      "relevanceScore": 0.2085336319368496,
+      "suggestedRadius": 63.4,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -177,7 +178,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O relato mostra que dá pra comemorar mesmo isolado num condomínio inteiro que torce do outro lado. Quem estava no apartamento comemorando quando 86% das urnas estavam apuradas sabia que a vitória vinha e não precisou de plateia pra celebrar.",
+          "text": "O relato mostra que o bairro Coophab tem uma maioria clara e que quem comemorava era minoria, o que explica o silêncio nas janelas e corredores do condomínio durante a apuração.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -185,7 +186,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Chamar o Coophab de \"bairro mais sionista possível\" pra explicar o silêncio eleitoral é um jeito estranho de rotular vizinhos. O silêncio no segundo turno pode ser só gente que não comemora resultado político em condomínio, sem precisar de rótulo ideológico.",
+          "text": "O silêncio no condomínio pode ser só falta de costume de comemorar em público, não necessariamente um recado político, e transformar isso em termômetro eleitoral parece exagero.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -193,7 +194,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O detalhe de só três unidades comemorando com 86% das urnas apuradas diz mais sobre o perfil do condomínio do que sobre o resultado em si. Cada bairro de Natal tem uma reação diferente, e o silêncio do Coophab é só um recorte entre muitos.",
+          "text": "O relato de um morador isolado não permite concluir o que o bairro inteiro pensa, e o silêncio pode refletir tanto posição política quanto simples discrição de vizinhos em condomínio.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -205,16 +206,16 @@
     {
       "id": "bsky_3n22z34adnc2o",
       "rank": 4,
-      "title": "Influenciadores deveriam ser enviados ao RN para reeducação laboral na cultura algodoeira",
-      "label": "Reeducação laboral para influenciadores no RN",
-      "context": "Um post no Bluesky propõe enviar influenciadores ao Rio Grande do Norte para trabalhar na cultura algodoeira sob condições duras, como forma de 'reeducação laboral'. A proposta satiriza a ideia de que o trabalho braçal no Seridó poderia corrigir supostas 'ideias neoliberais' desses influenciadores.",
+      "title": "Influenciadores enviados ao RN para reeducação laboral e reerguer cultura algodoeira",
+      "label": "Reeducação laboral no Seridó · Proposta para influenciadores",
+      "context": "Um post no Bluesky propõe enviar influenciadores ao Rio Grande do Norte para trabalhar oito horas por dia sob o sol do Seridó, com apenas uma cabaça d'água e ouvindo 'tengo lengo tengo', como forma de reeducação laboral. A ideia é que, após esse processo, eles abandonem ideias neoliberais e ajudem a reerguer a cultura algodoeira do estado.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/valent.im/post/3n22z34adnc2o",
       "createdAt": "2026-11-11T22:31:40.789000+00:00",
-      "rawScore": 0.652247298541305,
-      "relevanceScore": 0.5310311741003044,
-      "suggestedRadius": 79.72,
+      "rawScore": 0.1600163478133788,
+      "relevanceScore": 0.133346956511149,
+      "suggestedRadius": 57.91,
       "imageUrl": "assets/images/bsky_3n22z34adnc2o_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n22z34adnc2o_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -230,7 +231,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A proposta acerta ao expor a desconexão de influenciadores que pregam produtividade e meritocracia sem nunca terem pegado no pesado. Colocar essa turma para trabalhar 8 horas sob o sol do Seridó, com uma cabaça d'água, seria a melhor aula prática sobre a realidade brasileira.",
+          "text": "Mandar influenciador para o trabalho pesado no Seridó é uma forma justa de mostrar a realidade de quem vive da terra. Oito horas sob o sol com uma cabaça d'água ensina mais sobre a vida do que qualquer discurso neoliberal.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -238,7 +239,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Reeducação laboral forçada é uma ideia autoritária, mesmo em tom de piada. Ninguém deveria ser obrigado a trabalhar sob condições desumanas para 'aprender' algo, e isso só normaliza a violência contra trabalhadores rurais que já enfrentam essa realidade todos os dias.",
+          "text": "Essa proposta de reeducação laboral forçada é autoritária e não resolve nada. Prender pessoas para 'limpar' suas ideias é uma violência, e ainda usa o sofrimento do trabalhador rural como castigo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -246,7 +247,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A piada funciona como crítica, mas o alvo real deveria ser o sistema que transforma influenciadores em formadores de opinião. Mandar pessoas para o trabalho braçal não resolve a desinformação; é preciso regular a atuação desses criadores de conteúdo e cobrar responsabilidade das plataformas.",
+          "text": "A ideia de reerguer a cultura algodoeira do RN é válida, mas usar influenciadores como mão de obra forçada soa mais como vingança do que como política agrícola. Faltou explicar como isso funcionaria na prática.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -260,14 +261,14 @@
       "rank": 5,
       "title": "Jornalista potiguar Otávio Santiago é exaltado por levantar debate sobre 'estética do atraso' atribuída ao Nordeste",
       "label": "Estética do atraso · Crédito a Otávio Santiago",
-      "context": "O jornalista potiguar Otávio Santiago é apontado como responsável por levantar o debate sobre a 'estética do atraso' atribuída ao Nordeste, tema que gerou reação negativa à novela da Globo. A discussão também resgata a origem do conceito, associada a pensadores como Glauber Rocha e Durval Muniz de Albuquerque.",
+      "context": "O jornalista potiguar Otávio Santiago é apontado como responsável por levantar o debate sobre a 'estética do atraso' atribuída ao Nordeste, tema que gerou reação negativa à novela da Globo. A discussão também envolve a origem da tese, atribuída por comentaristas a Glauber Rocha e ao professor Durval Muniz.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/brunobarretojor.bsky.social/post/3mzzveiccyc2b",
       "createdAt": "2026-11-11T11:52:38.870000+00:00",
-      "rawScore": 0.5811945532421072,
-      "relevanceScore": 0.4679120589096862,
-      "suggestedRadius": 77.04,
+      "rawScore": 0.15745015463527107,
+      "relevanceScore": 0.1312084621960592,
+      "suggestedRadius": 57.73,
       "imageUrl": "assets/images/bsky_3mzzveiccyc2b_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzzveiccyc2b_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -283,7 +284,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Otávio Santiago teve o mérito de levar o debate sobre a 'estética do atraso' para o grande público e provocar a reação negativa à novela da Globo. Sem ele, o assunto não teria a repercussão que está tendo nas redes.",
+          "text": "Otávio Santiago merece reconhecimento por ter colocado esse debate na pauta nacional. Sem o trabalho dele, a reação negativa à novela da Globo não teria acontecido e a discussão sobre como o Nordeste é retratado não estaria acontecendo.",
           "source": "sintese",
           "evidence": [
             1
@@ -293,7 +294,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A tese da 'estética do atraso' não nasceu com Otávio Santiago: vem de Glauber Rocha, com a estética da fome, e de Durval Muniz de Albuquerque, com 'A Invenção do Nordeste'. Atribuir a ele a origem do conceito é um erro histórico.",
+          "text": "A tese da estética do atraso não nasceu com Otávio Santiago. Glauber Rocha já falava da estética da fome e Durval Muniz escreveu 'A Invenção do Nordeste' muito antes. Dar todo o crédito a ele é ignorar quem pensou isso primeiro.",
           "source": "sintese",
           "evidence": [
             1
@@ -303,7 +304,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Reconheço que Otávio Santiago deu visibilidade ao debate, mas é preciso separar o papel de quem o popularizou do trabalho intelectual de Glauber e Durval, que formularam a crítica muito antes.",
+          "text": "Otávio Santiago pode ter ajudado a viralizar o debate, mas a origem intelectual da 'estética do atraso' é anterior. É possível reconhecer seu papel na comunicação sem apagar a contribuição de Glauber Rocha e Durval Muniz.",
           "source": "sintese",
           "evidence": [
             1
@@ -317,16 +318,16 @@
     {
       "id": "bsky_3mzvdjhtkhs2w",
       "rank": 6,
-      "title": "Novela ambientada em 1920 no Rio Grande do Norte retratava cidade como qualquer cidade pequena brasileira da época",
-      "label": "Novela retrata cidade potiguar de 1920",
-      "context": "Uma novela ambientada em 1920 no Rio Grande do Norte retratava a cidade como qualquer cidade pequena brasileira daquela época. A discussão compara essa representação com a realidade da região, incluindo a Chapada Diamantina e cidades potiguares.",
+      "title": "Novela ambientada em 1920 no Rio Grande do Norte retratou cidade como qualquer cidade pequena brasileira da época",
+      "label": "Novela retrata RN de 1920 · Reação potiguar",
+      "context": "Uma novela ambientada em 1920 no Rio Grande do Norte retratou a cidade como qualquer cidade pequena brasileira daquela época. A escolha gerou comentários de potiguares sobre a representação do estado e de suas regiões na produção.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/yayasg.bsky.social/post/3mzvdjhtkhs2w",
       "createdAt": "2026-11-09T16:22:40.298000+00:00",
-      "rawScore": 0.22232801767343274,
-      "relevanceScore": 0.23795012557760556,
-      "suggestedRadius": 65.27,
+      "rawScore": 0.05698083849828091,
+      "relevanceScore": 0.1308173654152341,
+      "suggestedRadius": 57.7,
       "imageUrl": "assets/images/bsky_3mzvdjhtkhs2w_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzvdjhtkhs2w_uns_thumb.jpg",
       "category": "geopolitica",
@@ -347,7 +348,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A novela acertou ao mostrar a cidade como uma cidade pequena comum do Brasil de 1920, sem exotizar o Rio Grande do Norte. Isso valoriza a região como parte da história nacional, e não como cenário pitoresco.",
+          "text": "A novela acertou ao mostrar a cidade como uma cidade pequena comum do Brasil de 1920, sem exotizar o Rio Grande do Norte. Quem é de lá reconhece a vida cotidiana retratada, e isso vale mais do que precisão geográfica de cada detalhe.",
           "source": "sintese",
           "evidence": [
             1
@@ -357,7 +358,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A Globo errou ao retratar a cidade como qualquer outra, ignorando particularidades locais como o frio de manhã e a presença de rios e cachoeiras. Quem conhece a região percebe que a ambientação não corresponde à realidade.",
+          "text": "A Globo errou ao ambientar a trama na Chapada Diamantina quando a história se passa no Rio Grande do Norte. Quem conhece a região viu água de rio e cachoeira onde não deveria, e o frio nas cidades de manhã não bate com o que a novela mostra.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -365,64 +366,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A discussão mostra que a região tem riquezas como vinícolas, cachaças, café e comida orgânica que raramente aparecem na TV. A novela poderia ter explorado esses elementos locais em vez de uniformizar tudo como cidade pequena genérica.",
+          "text": "A produção da novela revelou um Rio Grande do Norte que muita gente não conhece, com vinícola, cachaçarias, café em Piatã e comida orgânica no mercado. A discussão sobre erros de locação acaba ofuscando essas descobertas sobre o estado.",
           "source": "sintese",
           "evidence": [
             1
           ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzsntrof7s2b",
-      "rank": 7,
-      "title": "Colmeias derretendo: vídeo mostra colmeias derretendo",
-      "label": "Colmeias derretendo · Vídeo viral",
-      "context": "Um vídeo publicado no Bluesky mostra colmeias derretendo. A publicação viralizou ao expressar espanto com a cena das colmeias derretendo.",
-      "source": "bluesky",
-      "subreddit": "bsky_rn",
-      "permalink": "https://bsky.app/profile/escorpionica.bsky.social/post/3mzsntrof7s2b",
-      "createdAt": "2026-11-08T14:49:26.069000+00:00",
-      "rawScore": 0.0701550576062842,
-      "relevanceScore": 0.01393437435768438,
-      "suggestedRadius": 43.08,
-      "imageUrl": "assets/images/bsky_3mzsntrof7s2b_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzsntrof7s2b_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rn",
-      "sources": [
-        {
-          "title": "As colmeias derretendo meu Deus youtu.be/vOzOppdo_Gw?...",
-          "url": "https://bsky.app/profile/escorpionica.bsky.social/post/3mzsntrof7s2b",
-          "subreddit": "bsky_rn"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O vídeo das colmeias derretendo é um alerta visual poderoso: ver a estrutura de cera desmoronando mostra de forma concreta o que o calor extremo faz com as colônias, e isso mobiliza mais gente do que qualquer gráfico ou relatório técnico.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Postar um vídeo de colmeias derretendo sem explicar onde, quando e em que condições isso ocorreu vira só choque gratuito. Sem contexto, o espectador não sabe se é calor extremo, incêndio ou manejo inadequado, e a imagem acaba servindo mais ao susto do que à compreensão.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Colmeias derretendo chamam atenção, mas o vídeo sozinho não diz muita coisa: falta saber a localização, a data e o que aconteceu com as abelhas depois. Vale acompanhar o caso, mas tratar uma imagem isolada como prova definitiva de um fenômeno maior é um salto que os dados ainda não sustentam.",
-          "source": "sintese",
-          "evidence": [],
           "votes": 0
         }
       ],
@@ -431,15 +379,15 @@
     },
     {
       "id": "bsky_3mzpx43sfmc26",
-      "rank": 8,
+      "rank": 7,
       "title": "Sobrenome \"De Lula\" será testado nas eleições municipais em São Miguel do Gostoso de olho em 2028",
       "label": "Sobrenome \"De Lula\" em disputa municipal",
-      "context": "Candidatos em São Miguel do Gostoso (RN) vão usar o sobrenome \"De Lula\" nas eleições municipais, segundo o blog do Barreto. A estratégia é testar a força do nome associado ao presidente para as eleições de 2028.",
+      "context": "O sobrenome \"De Lula\" será usado por candidatos nas eleições municipais de São Miguel do Gostoso, no Rio Grande do Norte, segundo o blog Barreto. A estratégia é testar a força do nome associado ao presidente para projetar a disputa de 2028.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/brunobarretojor.bsky.social/post/3mzpx43sfmc26",
       "createdAt": "2026-11-07T12:57:08.674000+00:00",
-      "rawScore": 0.05446923011725466,
+      "rawScore": 0.0,
       "relevanceScore": 0.0,
       "suggestedRadius": 36.0,
       "imageUrl": "assets/images/bsky_3mzpx43sfmc26_reddit.jpg",
@@ -457,7 +405,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Usar o sobrenome \"De Lula\" em São Miguel do Gostoso é uma forma legítima de o eleitor identificar rapidamente quem está alinhado com o governo federal e com as políticas que têm chegado ao município. A associação ajuda o eleitor a saber quem apoia o projeto.",
+          "text": "Usar o sobrenome \"De Lula\" em São Miguel do Gostoso é uma forma legítima de o eleitor identificar rapidamente quem está alinhado com o governo federal e com as políticas que vêm sendo entregues para o Nordeste.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -465,7 +413,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Testar o sobrenome \"De Lula\" nas municipais soa como uso eleitoral da figura do presidente para transferir votos sem discutir propostas locais. O eleitor de São Miguel do Gostoso precisa avaliar o candidato pelo que ele fez na cidade, não pela etiqueta que carrega.",
+          "text": "Vincular o nome de Lula a uma candidatura municipal em São Miguel do Gostoso soa como uso eleitoreiro de uma figura pública, e o eleitor local precisa avaliar propostas concretas em vez de votar apenas por associação de sobrenome.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -473,7 +421,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O sobrenome \"De Lula\" pode até atrair atenção, mas o teste real será se essa associação se sustenta no dia a dia da campanha em São Miguel do Gostoso. Depende de como o eleitor local reage e do que o candidato apresenta além do nome.",
+          "text": "O teste do sobrenome \"De Lula\" em São Miguel do Gostoso só vai mostrar algo de verdade se a candidatura tiver estrutura e propostas próprias; sem isso, a associação ao presidente pode não se traduzir em votos em 2028.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

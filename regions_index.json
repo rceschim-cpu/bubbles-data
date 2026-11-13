@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T19:47:27.340864+00:00",
+  "generatedAt": "2026-11-13T05:48:44.784257+00:00",
   "regions": [
     {
       "id": "br-al",
@@ -7,6 +7,13 @@
       "name": "Alagoas",
       "capital": "Maceió",
       "count": 10
+    },
+    {
+      "id": "br-ap",
+      "uf": "AP",
+      "name": "Amapá",
+      "capital": "Macapá",
+      "count": 6
     },
     {
       "id": "br-am",
@@ -34,7 +41,7 @@
       "uf": "DF",
       "name": "Distrito Federal",
       "capital": "Brasília",
-      "count": 10
+      "count": 8
     },
     {
       "id": "br-es",
@@ -62,21 +69,14 @@
       "uf": "MT",
       "name": "Mato Grosso",
       "capital": "Cuiabá",
-      "count": 5
+      "count": 4
     },
     {
       "id": "br-ms",
       "uf": "MS",
       "name": "Mato Grosso do Sul",
       "capital": "Campo Grande",
-      "count": 8
-    },
-    {
-      "id": "br-mg",
-      "uf": "MG",
-      "name": "Minas Gerais",
-      "capital": "Belo Horizonte",
-      "count": 4
+      "count": 5
     },
     {
       "id": "br-pa",
@@ -125,7 +125,7 @@
       "uf": "RN",
       "name": "Rio Grande do Norte",
       "capital": "Natal",
-      "count": 8
+      "count": 7
     },
     {
       "id": "br-rs",
@@ -139,7 +139,7 @@
       "uf": "RR",
       "name": "Roraima",
       "capital": "Boa Vista",
-      "count": 7
+      "count": 6
     },
     {
       "id": "br-sc",
@@ -160,7 +160,7 @@
       "uf": "SE",
       "name": "Sergipe",
       "capital": "Aracaju",
-      "count": 7
+      "count": 6
     },
     {
       "id": "br-to",
