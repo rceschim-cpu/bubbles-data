@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-13T05:48:44.784257+00:00",
+  "generatedAt": "2026-11-13T19:28:36.491411+00:00",
   "region": "br-rr",
   "count": 6,
   "items": [
     {
       "id": "bsky_3n24ddt4n6c2m",
       "rank": 1,
-      "title": "Candidata recebe R$ 70 mil do fundão eleitoral e tem só 8 votos em Roraima",
+      "title": "Candidata recebe R$ 70 mil do fundão eleitoral e tem 8 votos em Roraima",
       "label": "Fundão eleitoral · Voto mais caro do Brasil",
       "context": "Uma candidata a deputada estadual pelo MDB de Roraima recebeu R$ 70 mil do fundo eleitoral e obteve apenas 8 votos, segundo reportagem do Metrópoles. O caso é apontado como o voto mais caro do Brasil e levanta discussão sobre a eficiência e a fiscalização do uso do dinheiro público nas campanhas.",
       "source": "bluesky",
@@ -31,7 +31,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O fundão eleitoral precisa de uma reforma urgente, porque do jeito que está é um sistema injusto: torrar R$ 70 mil do dinheiro público, que é o suor do povo, para uma candidata que teve 8 votos é um erro inaceitável.",
+          "text": "O fundão eleitoral precisa de uma reforma urgente, porque do jeito que está é um sistema injusto: torrar R$ 70 mil do dinheiro público, que é o suor do povo, para uma candidata que teve só 8 votos é um erro inaceitável.",
           "source": "sintese",
           "evidence": [
             1
@@ -41,7 +41,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Isso não é só desperdício, é lavagem de dinheiro. O dinheiro público está sendo usado para beneficiar candidatos sem voto, e é hora de chamar pelo nome certo: corrupção com o fundão eleitoral.",
+          "text": "Isso não é só desperdício, é lavagem de dinheiro. Precisamos chamar pelo nome certo: repasses como esse, sem resultado eleitoral, servem para desviar recursos e precisam ser investigados como crime.",
           "source": "sintese",
           "evidence": [
             2
@@ -51,7 +51,60 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O caso mostra que o problema não é só o valor gasto, mas a falta de critérios claros para distribuir o fundão. Sem regras que vinculem o repasse ao desempenho ou à viabilidade da candidatura, episódios como esse vão continuar se repetindo.",
+          "text": "O caso mostra que o problema pode estar na falta de critérios claros para distribuir o fundão. Antes de acusar a candidata, é preciso entender como o dinheiro foi repassado e se houve falha na fiscalização dos partidos.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzz73mkqac2i",
+      "rank": 2,
+      "title": "Lula é gente como a gente, diz post sobre tratamento igualitário",
+      "label": "Lula · Tratamento igualitário e comparação",
+      "context": "Um post no Bluesky elogia o presidente Lula por tratar todas as pessoas de forma igual, e critica o ex-presidente preso por desdém a negros, citando um senador de Roraima. A publicação contrasta os dois governos e destaca a postura de Lula.",
+      "source": "bluesky",
+      "subreddit": "bsky_rr",
+      "permalink": "https://bsky.app/profile/akaishiri.bsky.social/post/3mzz73mkqac2i",
+      "createdAt": "2026-11-11T05:14:02.774000+00:00",
+      "rawScore": 0.6518570815688323,
+      "relevanceScore": 0.7196687863079706,
+      "suggestedRadius": 86.9,
+      "imageUrl": "assets/images/bsky_3mzz73mkqac2i_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzz73mkqac2i_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rr",
+      "sources": [
+        {
+          "title": "LULA É GENTE COMO A GENTE ❤️ Que bom ter um presidente que trata a todos de igual forma. O verme que tá preso tratava negros com desdém, inclusive o “Senador de Roraima”, o capitão do mato.",
+          "url": "https://bsky.app/profile/akaishiri.bsky.social/post/3mzz73mkqac2i",
+          "subreddit": "bsky_rr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Lula trata todo mundo igual, sem distinção. Isso é o que se espera de um presidente, e o contraste com o anterior, que desdenhava de negros, é evidente. O post acerta ao destacar essa diferença.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Chamar Lula de 'gente como a gente' é forçar a barra. Presidente tem que ser tratado como autoridade, não como amigo. E ficar comparando com o ex-presidente só mostra que falta argumento sobre realizações concretas.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A comparação entre Lula e o ex-presidente é inevitável, mas o post simplifica demais. Tratar todos igual é importante, mas governar exige mais do que simpatia. Precisamos avaliar políticas públicas, não só gestos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -62,17 +115,17 @@
     },
     {
       "id": "bsky_3n24r6nhxkk2w",
-      "rank": 2,
-      "title": "Pessoa troca sonhos de casa e emprego por objetivo de escalar o Monte Roraima",
-      "label": "Escalar o Monte Roraima · Meta de vida",
-      "context": "Uma pessoa relatou que seus dois sonhos — ter uma casa e um emprego que permita uma vida legal — parecem inalcançáveis, então decidiu que seu novo objetivo de vida é escalar o Monte Roraima. A declaração gerou conversas sobre prioridades, limites físicos e o significado de buscar metas consideradas improváveis.",
+      "rank": 3,
+      "title": "Pessoa desiste de casa e emprego e define escalar o Monte Roraima como objetivo de vida",
+      "label": "Escalar o Monte Roraima como meta de vida",
+      "context": "Uma pessoa relatou que seus dois sonhos — ter uma casa e um emprego que permita uma vida legal — estão se mostrando inalcançáveis, e por isso decidiu que seu novo objetivo de vida é escalar o Monte Roraima. A declaração gerou conversas sobre prioridades, limites físicos e o significado de buscar metas fora do padrão convencional.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/diasomnia.bsky.social/post/3n24r6nhxkk2w",
       "createdAt": "2026-11-12T15:15:47.470000+00:00",
-      "rawScore": 0.5216561680792822,
-      "relevanceScore": 0.753171337866293,
-      "suggestedRadius": 88.07,
+      "rawScore": 0.46312799945724814,
+      "relevanceScore": 0.6855142492671628,
+      "suggestedRadius": 85.68,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -98,7 +151,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Trocar sonhos que dependem de um sistema que não te dá retorno por uma meta concreta e desafiadora é uma forma de recuperar o controle. Escalar o Monte Roraima vira um objetivo claro, que depende do próprio esforço e não de fatores fora do alcance.",
+          "text": "Trocar metas que dependem de um sistema que não te dá retorno por um objetivo concreto como escalar o Roraima é uma forma de recuperar o controle. A pessoa está escolhendo um desafio que depende dela, não de salário ou financiamento.",
           "source": "sintese",
           "evidence": [
             2
@@ -108,7 +161,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A pessoa admite que é sedentária, tem sobrepeso e problema de pisar — e ainda assim trata a escalada como último feito antes de partir para outro plano. Isso soa como romantizar um risco real sem preparo físico, o que pode terminar mal.",
+          "text": "O próprio autor admite sobrepeso e problema de pisar, e o Roraima exige preparo físico sério. Transformar uma frustração com casa e emprego em uma meta radical assim pode ser mais uma fuga do que um plano realista.",
           "source": "sintese",
           "evidence": [
             3
@@ -118,7 +171,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O contato com a natureza e a mudança de perspectiva sobre consumo podem ser tão transformadores quanto a escalada em si. A meta do Roraima talvez seja menos sobre o cume e mais sobre o processo de repensar prioridades e hábitos.",
+          "text": "A relação com a natureza e o consumo consciente aparece nos relatos de quem conviveu com quem subiu o Roraima. Talvez o objetivo não seja só a escalada, mas uma mudança de perspectiva sobre o que vale a pena na vida.",
           "source": "sintese",
           "evidence": [
             1,
@@ -131,71 +184,18 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzz73mkqac2i",
-      "rank": 3,
-      "title": "Lula é gente como a gente, diz post sobre tratamento igualitário",
-      "label": "Lula · Tratamento igualitário e comparação",
-      "context": "Um post no Bluesky elogia o presidente Lula por tratar todos de forma igual, e critica o ex-presidente preso por desdém a negros, citando um senador de Roraima. A publicação contrasta os dois governos e gera debate sobre igualdade e racismo.",
-      "source": "bluesky",
-      "subreddit": "bsky_rr",
-      "permalink": "https://bsky.app/profile/akaishiri.bsky.social/post/3mzz73mkqac2i",
-      "createdAt": "2026-11-11T05:14:02.774000+00:00",
-      "rawScore": 0.5183660547011236,
-      "relevanceScore": 0.5715295326386647,
-      "suggestedRadius": 81.36,
-      "imageUrl": "assets/images/bsky_3mzz73mkqac2i_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzz73mkqac2i_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rr",
-      "sources": [
-        {
-          "title": "LULA É GENTE COMO A GENTE ❤️ Que bom ter um presidente que trata a todos de igual forma. O verme que tá preso tratava negros com desdém, inclusive o “Senador de Roraima”, o capitão do mato.",
-          "url": "https://bsky.app/profile/akaishiri.bsky.social/post/3mzz73mkqac2i",
-          "subreddit": "bsky_rr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Lula trata todos de forma igual, independentemente de raça ou origem. Isso é o que esperamos de um presidente, e é bom ver alguém no cargo que não despreza ninguém.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Chamar Lula de 'gente como a gente' é forçar a barra. O post ignora os problemas do governo e ainda ataca o ex-presidente, que está preso. Isso é militância, não elogio.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A comparação entre Lula e o ex-presidente é simplista. Cada governo tem seus méritos e falhas, e reduzir tudo a 'trata todos igual' não ajuda a entender o debate sobre racismo e igualdade.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3mzyht333hc23",
       "rank": 4,
       "title": "Serra do Aracá, no Amazonas, na divisa oeste com Roraima",
-      "label": "Serra do Aracá · Descoberta e garimpo",
-      "context": "Um post no Bluesky destaca a Serra do Aracá, no Amazonas, na divisa oeste com Roraima, como exemplo do que ainda há para ser descoberto e estudado na Amazônia brasileira. Outro post, de 9 de novembro, trata da fiscalização em Roraima que revelou falhas no controle do combustível de aviação usado para abastecer o garimpo ilegal na Terra Yanomami.",
+      "label": "Serra do Aracá · Descoberta e estudo",
+      "context": "A Serra do Aracá fica no Amazonas, na divisa oeste com Roraima, e foi destacada em um post como exemplo do quanto a Amazônia brasileira ainda tem a ser descoberto e estudado. O mesmo perfil também divulgou uma reportagem sobre falhas no controle do combustível de aviação que abastece o garimpo ilegal na Terra Yanomami, em Roraima.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/rafa3l.bsky.social/post/3mzyht333hc23",
       "createdAt": "2026-11-10T22:17:37.079000+00:00",
-      "rawScore": 0.14005099614548788,
-      "relevanceScore": 0.2590578967110999,
-      "suggestedRadius": 66.54,
+      "rawScore": 0.17381054399167617,
+      "relevanceScore": 0.2925832769527204,
+      "suggestedRadius": 68.45,
       "imageUrl": "assets/images/bsky_3mzyht333hc23_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzyht333hc23_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -216,7 +216,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Serra do Aracá mostra o quanto a Amazônia ainda tem para ser descoberto e estudado. Divulgar esses lugares é importante para valorizar a região e incentivar pesquisa científica, em vez de só falar da Amazônia pelo lado do desmatamento e do garimpo.",
+          "text": "A Serra do Aracá mostra que a Amazônia ainda tem muito a ser descoberto e estudado, e divulgar isso é importante para valorizar a região e incentivar pesquisa.",
           "source": "sintese",
           "evidence": [
             1
@@ -226,7 +226,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Enquanto se celebra a descoberta da Serra do Aracá, a fiscalização em Roraima revela falhas no controle do combustível que abastece o garimpo ilegal na Terra Yanomami. O foco deveria ser interromper esse abastecimento, e não só divulgar belezas naturais.",
+          "text": "Enquanto se fala em descoberta, o garimpo ilegal avança e a fiscalização falha em controlar até o combustível dos aviões que abastecem a atividade na Terra Yanomami.",
           "source": "sintese",
           "evidence": [
             2
@@ -236,7 +236,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A localização da Serra do Aracá precisa ser corrigida: ela fica na divisa oeste de Roraima, não do Amazonas. Esse tipo de imprecisão atrapalha a compreensão do território e mostra por que informação geográfica correta é essencial ao debate.",
+          "text": "A localização da Serra do Aracá foi corrigida: ela fica na divisa oeste de Roraima, não do Amazonas, e esse cuidado com a precisão geográfica é fundamental para qualquer debate.",
           "source": "sintese",
           "evidence": [
             1
@@ -252,14 +252,14 @@
       "rank": 5,
       "title": "Só acreditarei na Fundação Cobra Coral quando chover em Roraima nas cabeceiras dos rios",
       "label": "Descrença na Fundação Cobra Coral",
-      "context": "Um post no Bluesky ironiza a Fundação Cobra Coral dizendo que só acreditará nela quando chover em Roraima nas cabeceiras dos rios. A frase usa uma imagem de improbabilidade para expressar desconfiança em relação à fundação.",
+      "context": "Um post no Bluesky ironiza a Fundação Cobra Coral dizendo que só acreditará nela quando chover em Roraima nas cabeceiras dos rios. A frase usa uma condição improvável para expressar descrença na atuação da fundação.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/leveneficor.bsky.social/post/3mzvzw5a2hk2y",
       "createdAt": "2026-11-09T23:03:28.376000+00:00",
-      "rawScore": 0.0863392801040688,
-      "relevanceScore": 0.08648171049265242,
-      "suggestedRadius": 53.64,
+      "rawScore": 0.11407248953892,
+      "relevanceScore": 0.11212451971453631,
+      "suggestedRadius": 56.09,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -275,18 +275,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Fundação Cobra Coral merece descrédito: o post acerta ao usar uma imagem impossível para mostrar que a credibilidade dela é baixa. Quem acompanha sabe que as promessas não se sustentam.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Criticar a Fundação Cobra Coral com essa ironia é exagero. A comparação com chover em Roraima nas cabeceiras dos rios desqualifica sem apresentar fatos concretos sobre o que ela faz.",
+          "text": "A Fundação Cobra Coral merece descrédito: o post acerta ao duvidar dela, porque a entidade não mostra resultados concretos e a imagem de cobra coral já diz tudo sobre sua confiabilidade.",
           "source": "sintese",
           "evidence": [
             1
@@ -294,14 +283,21 @@
           "votes": 0
         },
         {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A frase funciona como expressão de descrença, mas não diz nada específico sobre a Fundação Cobra Coral. Sem exemplos do que ela fez ou deixou de fazer, fica só a provocação.",
+          "id": "op2",
+          "tone": "negative",
+          "text": "Criticar a Fundação Cobra Coral com essa ironia é injusto: a entidade pode até ter falhas, mas quem a compara a uma cobra coral e pede milagre da chuva em Roraima só quer desqualificar sem apresentar provas.",
           "source": "sintese",
           "evidence": [
-            1,
             2
           ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A piada da chuva em Roraima nas cabeceiras dos rios funciona como metáfora do improvável, mas não diz nada sobre a Fundação Cobra Coral em si; é só uma frase de efeito que não comprova nem desmente nada.",
+          "source": "sintese",
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -312,13 +308,13 @@
       "id": "bsky_3mzqvgjpbvk2w",
       "rank": 6,
       "title": "Amigo. Em Roraima tá chegando em 45°… linha do equador né…",
-      "label": "Calor extremo em Roraima · 45°C",
-      "context": "Um post no Bluesky relata que a temperatura em Roraima está chegando a 45°C, atribuindo o calor à localização do estado na linha do equador. A menção a esse valor extremo destaca a intensidade do calor na região.",
+      "label": "Calor de 45° em Roraima",
+      "context": "Um post no Bluesky afirma que a temperatura em Roraima está chegando a 45°C, atribuindo o calor à localização do estado na linha do equador. A menção a esse valor extremo chama atenção para as condições de calor na região.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/baronsolucena.bsky.social/post/3mzqvgjpbvk2w",
       "createdAt": "2026-11-07T21:59:51.578000+00:00",
-      "rawScore": 0.009310969203767859,
+      "rawScore": 0.014822373280998903,
       "relevanceScore": 0.0,
       "suggestedRadius": 36.0,
       "imageUrl": "assets/images/bsky_3mzqvgjpbvk2w_reddit.jpg",
@@ -336,7 +332,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Roraima fica na linha do equador, então é natural que faça calor, mas 45°C é um registro que mostra como o clima da região é extremo. Quem mora aqui sabe que essa temperatura é real e faz parte do nosso dia a dia.",
+          "text": "Roraima fica na linha do equador, então esse calor todo faz parte da geografia do lugar. Quem mora lá já sabe que essa época do ano é assim mesmo, e o post só está constatando o óbvio sobre o clima da região.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -344,7 +340,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Falar que está chegando a 45°C em Roraima sem dados oficiais é exagero. A linha do equador explica o calor, mas não justifica esse número. Precisamos de medições confiáveis para entender o que está acontecendo.",
+          "text": "Chegar a 45° não é só 'linha do equador', é calor extremo que prejudica a saúde e o trabalho de quem vive em Roraima. Tratar isso como curiosidade natural esconde o quanto essas temperaturas estão ficando mais frequentes e difíceis de aguentar.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -352,7 +348,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A temperatura de 45°C em Roraima precisa ser verificada com fontes meteorológicas. Se confirmada, é um dado preocupante; se não, pode ser apenas uma percepção do calor intenso. De qualquer forma, a localização na linha do equador já indica temperaturas elevadas.",
+          "text": "O valor de 45° precisa ser confirmado por medição oficial, porque sensação térmica e temperatura do ar são coisas diferentes. Sem dado de estação meteorológica, o número do post serve mais como desabafo sobre o calor do que como registro climático.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

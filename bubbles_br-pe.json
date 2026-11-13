@@ -1,29 +1,34 @@
 {
-  "generatedAt": "2026-11-13T05:48:44.784257+00:00",
+  "generatedAt": "2026-11-13T19:28:36.491411+00:00",
   "region": "br-pe",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n25jrxx37c2n",
+      "id": "bsky_3n26v7y3mak2j",
       "rank": 1,
-      "title": "Pesquisa mapeia artistas e público de quadrinhos em Pernambuco",
-      "label": "Mapeamento de quadrinhos em Pernambuco",
-      "context": "Um grupo está desenvolvendo um protótipo de plataforma sobre quadrinhos para uma disciplina de mestrado e criou um formulário voltado a artistas e ao público. A pesquisa busca mapear quem faz e quem consome quadrinhos em Pernambuco, e o grupo pede que moradores do estado respondam ou compartilhem o formulário.",
+      "title": "Calote do agronegócio é comparado às raízes da Guerra dos Mascates",
+      "label": "Calote do agro · Raízes históricas",
+      "context": "Uma publicação no Bluesky compara o calote do agronegócio às origens do Brasil agrário, citando a Guerra dos Mascates em Pernambuco no século 18 e o projeto colonial português. O post associa essa herança ao escravagismo, à compra de políticos e ao poder dos coronéis de engenho que, segundo o texto, persistem na cultura e na mídia atuais.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/jotabosco.com.br/post/3n25jrxx37c2n",
-      "createdAt": "2026-11-12T22:36:06.477000+00:00",
+      "permalink": "https://bsky.app/profile/radioproletario.bsky.social/post/3n26v7y3mak2j",
+      "createdAt": "2026-11-13T11:33:28.674000+00:00",
       "rawScore": 0.9,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3n25jrxx37c2n_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n25jrxx37c2n_reddit_thumb.jpg",
+      "imageUrl": "assets/images/bsky_3n26v7y3mak2j_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n26v7y3mak2j_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pe",
       "sources": [
         {
-          "title": "Oi, gente! Estamos desenvolvendo um protótipo de plataforma sobre quadrinhos para uma disciplina do mestrado e criamos um formulário focado em artistas e público para criar um mapeamento. Se vc mora em Pernambuco, faz e/ou consome quadrinhos, poderia dar uma força respondendo ou compartilhando?",
-          "url": "https://bsky.app/profile/jotabosco.com.br/post/3n25jrxx37c2n",
+          "title": "1) O calote do #Agro nos remete às suas raízes, Pernambuco do século 18, #GuerraDosMascates. Implantado por Portugal,o projeto de um Brasil agrário,soltou no solo brasileiro os criminosos das masmorras portuguesas, o escravagismo, a corrupção, a compra de politicos e coroneis barbaros pés descalsos.",
+          "url": "https://bsky.app/profile/radioproletario.bsky.social/post/3n26v7y3mak2j",
+          "subreddit": "bsky_pe"
+        },
+        {
+          "title": "Tsunami no Brasil: Estudo mostra como o mar avançou até 4 km continente adentro no litoral de Pernambuco após terremoto em Portugal | CNN Brasil share.google/F7jnI1peGlZA...",
+          "url": "https://bsky.app/profile/wilsonsilva.bsky.social/post/3mztddf6g6k2o",
           "subreddit": "bsky_pe"
         }
       ],
@@ -31,7 +36,69 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Um mapeamento feito por quem estuda o assunto ajuda a dar visibilidade a artistas de quadrinhos de Pernambuco que muitas vezes ficam fora dos circuitos maiores. Responder o formulário é rápido e ainda contribui para uma pesquisa acadêmica que pode virar uma plataforma útil para todo mundo.",
+          "text": "A comparação com a Guerra dos Mascates faz sentido: o projeto agrário implantado por Portugal deixou raízes que aparecem até hoje na mídia, que trata coronéis de engenho como heróis nacionais e naturaliza a compra de políticos e o poder dos donos de terra.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Calote é calote e precisa ser tratado como inadimplência, não como herança histórica. Cada caso deve ser analisado com cuidado para não haver injustiça, mas empresários do agro que trocam avião e iate todo ano e não pagam no vencimento entram na lista de inadimplentes como qualquer um.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Ligar o calote atual à Guerra dos Mascates é um salto grande: a comparação ajuda a lembrar a origem concentrada da terra, mas não explica por si só quem deixou de pagar o quê. Sem os casos concretos e os valores, o debate fica na metáfora e não chega ao mérito de cada dívida.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27chl4fx22j",
+      "rank": 2,
+      "title": "Curso gratuito sobre música eletrônica afro-diaspórica no Recife",
+      "label": "Afrotrônicos · Curso gratuito no Recife",
+      "context": "O curso \"Afrotrônicos: música eletrônica entre África e diásporas\" será oferecido gratuitamente no sábado, como parte do festival Correnteza, no Recife. A atividade propõe discutir as conexões entre a música eletrônica e as culturas africanas e da diáspora.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/ovolumemorto.bsky.social/post/3n27chl4fx22j",
+      "createdAt": "2026-11-13T15:31:03.375000+00:00",
+      "rawScore": 0.6457690062853515,
+      "relevanceScore": 0.745729185649251,
+      "suggestedRadius": 87.81,
+      "imageUrl": "assets/images/bsky_3n27chl4fx22j_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27chl4fx22j_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "AMIGOS DE RECIFE! Sábado vou dar o curso \"Afrotrônicos: música eletrônica entre África e diásporas\" como parte do festival Correnteza Grátis!!! Inscrições aqui: docs.google.com/forms/d/e/1F...",
+          "url": "https://bsky.app/profile/ovolumemorto.bsky.social/post/3n27chl4fx22j",
+          "subreddit": "bsky_pe"
+        },
+        {
+          "title": "Galera, pouco tem se falado então vou falar aqui: Recife tá muito quente",
+          "url": "https://bsky.app/profile/jjjoao.bsky.social/post/3mzxhnin7yk2o",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O curso Afrotrônicos é uma oportunidade rara de entender como a música eletrônica se conecta com as raízes africanas e da diáspora, e ainda por cima de graça. Iniciativas assim ajudam a valorizar a cultura negra e a formar público para a cena local.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -39,7 +106,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Mais um formulário de mestrado que pede o tempo dos artistas e do público e depois fica só no papel. Sem saber quem está por trás, como os dados serão usados e se a plataforma vai sair do protótipo, fica difícil se animar a responder e compartilhar com a rede.",
+          "text": "O Recife está muito quente, e um curso gratuito no sábado pode ter baixa adesão por causa do calor. Além disso, o tema Afrotrônicos ainda é pouco divulgado, o que pode fazer com que poucas pessoas compareçam e o esforço se perca.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -47,7 +114,65 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A ideia de mapear quadrinhos em Pernambuco é válida, mas o alcance depende de quem vê o post. Quem não está nas bolhas de artistas e leitores dificilmente vai encontrar o formulário, então vale acompanhar se a pesquisa consegue chegar além do círculo de quem já produz ou consome quadrinhos.",
+          "text": "A proposta do curso é interessante, mas o sucesso depende de como a divulgação for feita e do horário escolhido. Com o calor que faz no Recife, talvez seja melhor repensar o formato ou oferecer alternativas on-line para alcançar mais gente.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n26ylyybl222",
+      "rank": 3,
+      "title": "Pessoas em Pernambuco fazem bronzeamento artificial, diz post",
+      "label": "Bronzeamento artificial em Pernambuco · Crítica",
+      "context": "Um post no Bluesky critica pessoas que moram em Pernambuco por fazerem bronzeamento artificial, chamando-as de otárias. A publicação gerou discussão sobre a escolha do procedimento na região.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/ranibaby.bsky.social/post/3n26ylyybl222",
+      "createdAt": "2026-11-13T12:33:51.277000+00:00",
+      "rawScore": 0.2900364887529121,
+      "relevanceScore": 0.38994094912314053,
+      "suggestedRadius": 73.47,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "As pessoas moram em Pernambuco e vão fazer bronzeamento artificial. Pow mano, todo dia saem muitos otários de casa mesmo",
+          "url": "https://bsky.app/profile/ranibaby.bsky.social/post/3n26ylyybl222",
+          "subreddit": "bsky_pe"
+        },
+        {
+          "title": "passo horas assitindo aos vídeos dela e do moço que renovou a casa da mãe dele no sertão de pernambuco e recebeu um prêmio foda",
+          "url": "https://bsky.app/profile/leticia2gatos.bsky.social/post/3n26ywg2xp22t",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O bronzeamento artificial é uma escolha pessoal e cada um sabe o que faz com o próprio corpo. Criticar quem faz o procedimento em Pernambuco é desrespeitoso e ignora que a pessoa pode ter seus motivos, como estética ou autoestima.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O post tem razão: bronzeamento artificial é um procedimento que oferece riscos à saúde e muita gente se submete a isso sem pensar. Chamar atenção para essa prática em Pernambuco é válido, mesmo que de forma ácida.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A crítica generaliza e chama as pessoas de otárias, o que não ajuda no debate. O bronzeamento artificial tem seus riscos, mas a forma como o assunto foi colocado soa mais como deboche do que como alerta real.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -58,17 +183,17 @@
     },
     {
       "id": "bsky_3n24vufqqmk2y",
-      "rank": 2,
+      "rank": 4,
       "title": "Nunca ganhar 15 mil no Pernambuco da Sorte",
-      "label": "Pernambuco da Sorte · Expectativa de prêmio",
-      "context": "Uma pessoa desabafa no Bluesky que nunca ganhou o prêmio de 15 mil reais no Pernambuco da Sorte, loteria estadual de Pernambuco. O comentário reflete a frustração de quem joga e não vê retorno, enquanto outros relatam casos de conhecidos que já foram premiados.",
+      "label": "Sorteio · Pernambuco da Sorte",
+      "context": "Uma pessoa desabafa no Bluesky que nunca ganhou o prêmio de 15 mil reais no Pernambuco da Sorte, loteria estadual. O comentário reflete a frustração de quem joga e não vê retorno, enquanto outros relatam histórias de conhecidos que já foram premiados.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
       "permalink": "https://bsky.app/profile/loirinha.bsky.social/post/3n24vufqqmk2y",
       "createdAt": "2026-11-12T16:39:24.388000+00:00",
-      "rawScore": 0.579238122372092,
-      "relevanceScore": 0.75470902485788,
-      "suggestedRadius": 88.12,
+      "rawScore": 0.25022786541036945,
+      "relevanceScore": 0.35012609048772264,
+      "suggestedRadius": 71.5,
       "imageUrl": "assets/images/bsky_3n24vufqqmk2y_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n24vufqqmk2y_uns_thumb.jpg",
       "category": "geopolitica",
@@ -89,7 +214,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Meu avô comprava todo fim de semana e nunca ganhou nada, mas o irmão dele ganhou e fez uma reforma na casa. Então o prêmio existe e sai para alguém — só não é para todo mundo, e isso faz parte do jogo.",
+          "text": "Meu avô comprava todo fim de semana e nunca ganhou nada, mas o irmão dele ganhou e reformou a casa. Então o prêmio existe e sai para alguém — só não foi para a gente ainda.",
           "source": "sintese",
           "evidence": [
             3
@@ -99,7 +224,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ganhar pouco mais que um salário mínimo aos 30 é foda, e ficar sonhando com 15 mil num sorteio que nunca premia a gente só mostra como a renda está apertada. O problema não é a loteria, é a falta de perspectiva.",
+          "text": "Ganhar pouco mais que um salário mínimo aos 30 é foda, e ficar apostando no Pernambuco da Sorte sabendo que a chance é mínima só aumenta a frustração de quem nunca vê o dinheiro de volta.",
           "source": "sintese",
           "evidence": [
             1
@@ -109,7 +234,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O envolvimento com o Curlinhos Maia pode ter ajudado alguém a ganhar, mas não dá para saber se isso realmente influencia no sorteio. O certo é que a maioria joga e não leva, e a gente fica só na esperança.",
+          "text": "O envolvimento com o Curlinhos Maia pode ter ajudado em algo, mas no fim é sorte mesmo: tem gente que joga a vida toda e não ganha, enquanto um conhecido acerta e muda de vida do nada.",
           "source": "sintese",
           "evidence": [
             2
@@ -121,144 +246,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n25a7keyrc2s",
-      "rank": 3,
-      "title": "Navio afundado de propósito nos EUA para virar recife artificial",
-      "label": "Recife artificial · navio afundado nos EUA",
-      "context": "Uma embarcação foi afundada de propósito nos Estados Unidos para servir como recife artificial, segundo a notícia compartilhada. O caso gerou discussão sobre o destino do navio, o custo ambiental do material e o uso do local para expedições de bilionários.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/anneelenleblanc.bsky.social/post/3n25a7keyrc2s",
-      "createdAt": "2026-11-12T19:43:34.975000+00:00",
-      "rawScore": 0.6275714258835963,
-      "relevanceScore": 0.6973015843151069,
-      "suggestedRadius": 86.1,
-      "imageUrl": "assets/images/bsky_3n25a7keyrc2s_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n25a7keyrc2s_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "Afundaram PROPOSITALMENTE uma embarcação nos eua pra fazer um recife artificial eu vou repetir AFUNDARAM PROPOSITALMENTE UM NAVIO NOS EUA PRA FAZER RECIFE ARTIFICIAL PRA BILIONÁRIO IR FAZER EXPEDIÇÃO CARALHO ME MATA g1.globo.com/mundo/notici...",
-          "url": "https://bsky.app/profile/anneelenleblanc.bsky.social/post/3n25a7keyrc2s",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Fazer recife artificial é uma prática conhecida e pode ajudar a vida marinha, então afundar um navio velho para isso não é necessariamente um absurdo. Se o casco for preparado e o local escolhido direito, vira ponto de mergulho e de biodiversidade.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Afundar um navio moderno cheio de aço e poluentes não é recife ecológico, é descarte barato disfarçado de projeto ambiental. Reciclar o casco em terra seria o certo, e não jogar tudo no mar para depois vender expedição para bilionário.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A parte capitalista da coisa incomoda, mas a dúvida que fica é se o recife em si funciona. Se o navio for limpo antes e o afundamento seguir regras ambientais, talvez o saldo para o ecossistema seja positivo, independente de quem paga a expedição.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n25fjoc6722k",
-      "rank": 4,
-      "title": "Raquel Lyra exonera 146 comissionados do PL e se aproxima de aliados de Lula em Pernambuco",
-      "label": "Exonerações no PL · Raquel Lyra",
-      "context": "A governadora reeleita de Pernambuco, Raquel Lyra, exonerou 146 comissionados ligados ao PL e recebeu Humberto Costa e Marília Arraes após as eleições. A medida reduz o espaço de aliados bolsonaristas na administração estadual e sinaliza uma aproximação com aliados do presidente Lula.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/dilmaresiste.bsky.social/post/3n25fjoc6722k",
-      "createdAt": "2026-11-12T21:26:57.369000+00:00",
-      "rawScore": 0.4684312759063762,
-      "relevanceScore": 0.6315903065626403,
-      "suggestedRadius": 83.68,
-      "imageUrl": "assets/images/bsky_3n25fjoc6722k_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n25fjoc6722k_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "Raquel Lyra exonera 146 comissionados do PL e se aproxima de aliados de Lula em Pernambuco Governadora reeleita reduz espaço de aliados bolsonaristas na administração estadual e recebe Humberto Costa e Marília Arraes após as eleições #Resistencia3054Dias Siga nosso BlueSky dilmaresiste",
-          "url": "https://bsky.app/profile/dilmaresiste.bsky.social/post/3n25fjoc6722k",
-          "subreddit": "bsky_pe"
-        },
-        {
-          "title": "Simplesmente PAREM, temos que nos unir contra nosso inimigo em comum (Pernambuco)",
-          "url": "https://bsky.app/profile/rav11oli.bsky.social/post/3mzxmerg4zk2b",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A exoneração de 146 comissionados do PL é uma decisão coerente de quem foi reeleita e agora precisa montar uma equipe alinhada com o projeto que venceu as eleições. Receber Humberto Costa e Marília Arraes mostra que a governadora está disposta a dialogar com forças políticas que ajudaram a derrotar o bolsonarismo em Pe",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Trocar 146 comissionados de uma vez só porque são do PL soa mais como revanche política do que como busca por eficiência na gestão. A governadora está priorizando acordos eleitorais em vez de manter quadros técnicos, e isso pode prejudicar a continuidade de serviços públicos em Pernambuco.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O movimento de Raquel Lyra pode ser lido como pragmatismo pós-eleição, mas ainda é cedo para saber se a aproximação com aliados de Lula vai se traduzir em apoio concreto no governo. O risco é que a troca de 146 comissionados abra espaço para novos apadrinhamentos políticos em vez de renovar a máquina pública.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n24zxbrjq22d",
+      "id": "bsky_3n25jrxx37c2n",
       "rank": 5,
-      "title": "Joselito diz que, se passar em algum lugar, em Recife é lá",
-      "label": "Declaração de Joselito sobre Recife",
-      "context": "Joselito publicou uma frase afirmando que, se passar em algum lugar, em Recife é lá. A declaração gerou comentários que a associam a uma suposta fala de Lula sobre entrar na política.",
+      "title": "Pesquisadores criam formulário para mapear quadrinhos em Pernambuco",
+      "label": "Mapeamento de quadrinhos em Pernambuco",
+      "context": "Um grupo de pesquisa está desenvolvendo um protótipo de plataforma sobre quadrinhos para uma disciplina de mestrado e criou um formulário voltado a artistas e público. O objetivo é mapear quem faz e consome quadrinhos em Pernambuco, e a divulgação pede que moradores do estado respondam ou compartilhem o questionário.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/joseli.to/post/3n24zxbrjq22d",
-      "createdAt": "2026-11-12T17:52:45.187000+00:00",
-      "rawScore": 0.4793906689928121,
-      "relevanceScore": 0.5326562988809023,
-      "suggestedRadius": 79.79,
-      "imageUrl": "assets/images/bsky_3n24zxbrjq22d_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n24zxbrjq22d_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/jotabosco.com.br/post/3n25jrxx37c2n",
+      "createdAt": "2026-11-12T22:36:06.477000+00:00",
+      "rawScore": 0.3182257036323881,
+      "relevanceScore": 0.3181189161563151,
+      "suggestedRadius": 69.84,
+      "imageUrl": "assets/images/bsky_3n25jrxx37c2n_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n25jrxx37c2n_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pe",
       "sources": [
         {
-          "title": "\"se passar em algum lugar em recife é lá\" -Joselito c.q.d.",
-          "url": "https://bsky.app/profile/joseli.to/post/3n24zxbrjq22d",
+          "title": "Oi, gente! Estamos desenvolvendo um protótipo de plataforma sobre quadrinhos para uma disciplina do mestrado e criamos um formulário focado em artistas e público para criar um mapeamento. Se vc mora em Pernambuco, faz e/ou consome quadrinhos, poderia dar uma força respondendo ou compartilhando?",
+          "url": "https://bsky.app/profile/jotabosco.com.br/post/3n25jrxx37c2n",
           "subreddit": "bsky_pe"
         }
       ],
@@ -266,7 +273,118 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A frase de Joselito é uma brincadeira que viralizou e mostra como o Recife é tratado como referência. O comentário sobre Lula só reforça que a política pernambucana tem peso e presença nacional.",
+          "text": "Iniciativas como essa ajudam a dar visibilidade à cena de quadrinhos pernambucana, que muitas vezes fica de fora dos grandes circuitos. Responder ao formulário é uma forma simples de contribuir para um mapeamento que pode fortalecer artistas e público local.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Formulários acadêmicos assim costumam ficar só no papel e não trazem retorno prático para os quadrinistas. Sem um plano claro de como os dados serão usados ou divulgados, a participação acaba sendo só mais uma tarefa sem impacto real na cena.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O mapeamento pode ser útil, mas depende de como for conduzido: se o formulário for bem divulgado e os resultados forem compartilhados com a comunidade, tende a valer a pena. Caso contrário, vira só mais um levantamento isolado.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27a2xgenk2a",
+      "rank": 6,
+      "title": "Uma curtida e fico em Recife pra ir no show da Céu",
+      "label": "Show da Céu no Recife · Curtida como condição",
+      "context": "Uma pessoa publicou no Bluesky que, se receber uma curtida, fica em Recife para ir ao show da Céu. A publicação transforma uma curtida em condição para a decisão de permanecer na cidade e comparecer ao evento.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/kareuu.bsky.social/post/3n27a2xgenk2a",
+      "createdAt": "2026-11-13T14:47:29.682000+00:00",
+      "rawScore": 0.3167449550614215,
+      "relevanceScore": 0.31663793565316295,
+      "suggestedRadius": 69.76,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "uma curtida e fico em recife pra ir no show da Céu",
+          "url": "https://bsky.app/profile/kareuu.bsky.social/post/3n27a2xgenk2a",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Apostar numa curtida pra decidir se fica em Recife e vai no show da Céu é um jeito leve e divertido de se comprometer com o evento, e quem curte acaba ajudando a pessoa a tomar essa decisão.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Decidir ficar em Recife ou não com base numa curtida de rede social parece frágil demais; uma decisão dessas merece critério próprio, e não depender do engajamento de estranhos na internet.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A curtida funciona como termômetro: se o post tiver resposta, a pessoa fica e vai ao show da Céu; se não, a decisão fica em aberto. É mais um teste do que uma promessa de verdade.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n25p67f34k2f",
+      "rank": 7,
+      "title": "Pontos turísticos do Recife e Olinda: ponte de ferro, Parque das Esculturas e Galo da Madrugada",
+      "label": "Recife e Olinda · Pontos turísticos e carnaval",
+      "context": "Uma publicação no Bluesky listou atrações do Recife e Olinda, como a ponte de ferro, o Parque das Esculturas de Brennand, a Rua do Bom Jesus e, para o carnaval, o Galo da Madrugada e as ladeiras de Olinda. A lista serve como sugestão de lugares que representam a cultura local para quem visita ou quer conhecer a região.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/luluistrying.bsky.social/post/3n25p67f34k2f",
+      "createdAt": "2026-11-13T00:13:04.176000+00:00",
+      "rawScore": 0.20768231336963006,
+      "relevanceScore": 0.307573874464277,
+      "suggestedRadius": 69.28,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "Em Recife tem a ponte de ferro, o parque das esculturas de Brennand no centro do Recife, a Rua do Bom Jesus... Se quiser algo que represente carnaval tem o Galo da Madrugada, as ladeiras de Olinda 😊",
+          "url": "https://bsky.app/profile/luluistrying.bsky.social/post/3n25p67f34k2f",
+          "subreddit": "bsky_pe"
+        },
+        {
+          "title": "imitando robô no centro do recife pra comprar coxinha no bar da galega",
+          "url": "https://bsky.app/profile/saluak.bsky.social/post/3mzwk5y637s2j",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A ponte de ferro é um charme à parte, parece aqueles bloquinhos de empilhar de madeira antigos. Esses pontos todos mostram a cara do Recife e de Olinda, e o Galo da Madrugada e as ladeiras completam o carnaval.",
           "source": "sintese",
           "evidence": [
             1
@@ -276,7 +394,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa história de Joselito e o comentário sobre Lula e candidatura a vereador soa como piada interna que não acrescenta nada. Ficar repetindo frase solta só desvia o foco de problemas reais da cidade.",
+          "text": "Carnaval já representei, infelizmente. Prefiro os lugares tranquilos como a ponte de ferro e o Parque das Esculturas, que são lindos e não têm a muvuca dos bloquinhos.",
           "source": "sintese",
           "evidence": [
             1
@@ -286,11 +404,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O print de Joselito virou meme e o comentário sobre Lula mostra que a frase pode ter vários sentidos. Sem contexto maior, fica difícil saber se é elogio, ironia ou só uma piada entre amigos.",
+          "text": "A lista acerta em cheio ao misturar patrimônio e folia: a ponte de ferro e o Parque das Esculturas para um passeio, e o Galo da Madrugada para quem quer carnaval. Depende do que a pessoa procura.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -299,17 +415,17 @@
     },
     {
       "id": "bsky_3n22i6viri22p",
-      "rank": 6,
+      "rank": 8,
       "title": "IV Feira Anarquista de Recife ocupa espaço da cidade em mais um ano de resistência",
       "label": "Feira Anarquista de Recife · 4ª edição",
-      "context": "A IV Feira Anarquista de Recife está marcada para 5 de dezembro, com concentração às 14h no Mais Que Bar do Walter, no Pátio de São Pedro. O evento se apresenta como um encontro autônomo e aberto ao público para trocas de ideias, expressões multiculturais e apoio mútuo.",
+      "context": "A IV Feira Anarquista de Recife está marcada para 5 de dezembro, com concentração às 14h no Mais Que Bar do Walter, no Pátio de São Pedro. O evento se propõe a movimentar e difundir a cena libertária local, com trocas de ideias, expressões multiculturais e apoio mútuo.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
       "permalink": "https://bsky.app/profile/137magdiel.bsky.social/post/3n22i6viri22p",
       "createdAt": "2026-11-11T17:29:36.972000+00:00",
-      "rawScore": 0.4192513293997542,
-      "relevanceScore": 0.4658348104441713,
-      "suggestedRadius": 76.95,
+      "rawScore": 0.24244017826163686,
+      "relevanceScore": 0.24232152036888735,
+      "suggestedRadius": 65.54,
       "imageUrl": "assets/images/bsky_3n22i6viri22p_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n22i6viri22p_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -325,7 +441,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A feira é um espaço autônomo e colaborativo que fortalece a cena libertária local e abre o debate para quem quiser participar. Ocupar o Pátio de São Pedro com trocas de ideias e apoio mútuo é uma forma concreta de resistência popular.",
+          "text": "A feira é um encontro autônomo e aberto ao público que fortalece a cena libertária de Recife, promovendo trocas de ideias, expressões multiculturais e apoio mútuo. Ocupar o Pátio de São Pedro com essa proposta é uma forma de resistência popular que merece apoio.",
           "source": "sintese",
           "evidence": [
             1
@@ -335,7 +451,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O evento se apresenta como resistência, mas a proposta de ocupar um espaço público para difundir uma ideologia específica pode gerar desconforto em quem não compartilha dessas ideias. A feira deveria deixar claro que não se trata de uma imposição de visão de mundo.",
+          "text": "Ocupar um espaço tradicional do Pátio de São Pedro com uma feira anarquista pode gerar conflitos com a comunidade local e com o uso habitual do local. A proposta de 'resistência' não justifica a apropriação de um espaço público sem diálogo com quem já o utiliza.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -343,60 +459,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A feira acontece no Pátio de São Pedro, um local de grande circulação, e se define como aberta ao público. Resta saber se a organização vai conseguir manter o caráter colaborativo e a diversidade de expressões que promete, sem transformar o encontro em um nicho fechado.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n25hnv2pjc2d",
-      "rank": 7,
-      "title": "Federação PDT, Patriotas, Solidariedade e PSB seria um mega balaio de gato",
-      "label": "Federação partidária · PDT, Patriotas, Solidariedade e PSB",
-      "context": "O post especula sobre uma federação partidária que uniria PDT, Patriotas, Solidariedade e PSB, citando como exemplo a briga entre PDT e PSB em Pernambuco. A ideia é que a aliança ampliaria as tensões internas já existentes entre os partidos.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/cyrusafa.bsky.social/post/3n25hnv2pjc2d",
-      "createdAt": "2026-11-12T21:58:01.175000+00:00",
-      "rawScore": 0.38973704934981723,
-      "relevanceScore": 0.43304116594424136,
-      "suggestedRadius": 75.48,
-      "imageUrl": "assets/images/bsky_3n25hnv2pjc2d_unsp.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n25hnv2pjc2d_unsp_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "Cara... Imagina... Federação já é uma TRETA Imagina uma federação PDT, com Patriotas, com Solidariedade e com PSB... Rapaz, um mega balaio de gato... Já seria treta só PDT e PSB (vide o arranca-rabo em Pernambuco). Porque, né, dois balaios de gato Ainda mais esses dois nanicos problemáticos...",
-          "url": "https://bsky.app/profile/cyrusafa.bsky.social/post/3n25hnv2pjc2d",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Uma federação com PDT, Patriotas, Solidariedade e PSB pode ser a chance de partidos nanicos ganharem força e sobreviverem eleitoralmente, mesmo que isso exija engolir diferenças e administrar conflitos internos.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Juntar PDT, Patriotas, Solidariedade e PSB é receita para o caos: o histórico de briga entre PDT e PSB em Pernambuco mostra que a federação nasceria rachada e só serviria para confundir o eleitor.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O sucesso de uma federação dessas depende de regras claras e de uma divisão de poder que evite os arranca-rabos como o de Pernambuco; sem isso, a união pode virar só mais um balaio de gato.",
+          "text": "A feira tem uma proposta interessante de trocas e apoio mútuo, mas é preciso ver como a ocupação do espaço vai funcionar na prática, respeitando as regras do local e a convivência com os frequentadores do Pátio de São Pedro. O evento pode ser uma boa oportunidade se for bem organizado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -407,17 +470,17 @@
     },
     {
       "id": "bsky_3mzyqhpbeuk2o",
-      "rank": 8,
-      "title": "Canal da Transposição cruza Ferrovia Transnordestina em Salgueiro, Pernambuco",
-      "label": "Transposição do São Francisco · Cruzamento com ferrovia",
-      "context": "Em Salgueiro, Pernambuco, o canal da Transposição do Rio São Francisco cruza a malha da Ferrovia Transnordestina. A imagem do encontro entre água e trilhos é apresentada como símbolo da infraestrutura que levaria desenvolvimento ao Sertão.",
+      "rank": 9,
+      "title": "Canal da Transposição cruza Ferrovia Transnordestina em Salgueiro (PE)",
+      "label": "Transposição e Transnordestina se cruzam no Sertão",
+      "context": "Em Salgueiro, Pernambuco, o canal da Transposição do Rio São Francisco cruza a malha da Ferrovia Transnordestina. O encontro entre a água e os trilhos é apresentado como símbolo da infraestrutura que leva água e transporte ao Sertão.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
       "permalink": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mzyqhpbeuk2o",
       "createdAt": "2026-11-11T00:52:20.669000+00:00",
-      "rawScore": 0.35585661425021714,
-      "relevanceScore": 0.3953962380557968,
-      "suggestedRadius": 73.73,
+      "rawScore": 0.22013499901227546,
+      "relevanceScore": 0.22001284742108632,
+      "suggestedRadius": 64.14,
       "imageUrl": "assets/images/bsky_3mzyqhpbeuk2o_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzyqhpbeuk2o_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -433,7 +496,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A água que mata a sede e o aço que escoa a produção sertaneja se encontram nesse cruzamento. É a prova de que infraestrutura de verdade gera dignidade e prosperidade para quem enfrenta a aridez e as distâncias.",
+          "text": "A imagem do canal com a ferrovia é a síntese do futuro nordestino: a água que mata a sede e irriga a Caatinga corre lado a lado com o aço que rompe o isolamento e escoa a produção sertaneja. Infraestrutura de verdade gera dignidade e prosperidade para todos.",
           "source": "sintese",
           "evidence": [
             1,
@@ -444,7 +507,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O cruzamento entre canal e ferrovia é bonito na imagem, mas a Transnordestina ainda está incompleta e a Transposição enfrenta problemas de gestão. Sem obra concluída e funcionando, o símbolo não passa de promessa.",
+          "text": "O cruzamento entre o canal da Transposição e a Transnordestina é simbólico, mas não resolve os problemas reais do Sertão. Enquanto a água não chega a quem precisa e a ferrovia segue inacabada, a imagem vira propaganda de um progresso que ainda não se concretizou.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -452,60 +515,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A imagem do encontro entre água e trilhos é emblemática, mas o que importa é se o canal realmente abastece e se a ferrovia vai operar. O cenário é simbólico; a efetividade depende de dados concretos de operação.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2525x77js2d",
-      "rank": 9,
-      "title": "Usuário lembra de Lula o incentivando a entrar na política e cogita se candidatar a vereador pelo PT do Recife",
-      "label": "Incentivo de Lula · Candidatura a vereador no Recife",
-      "context": "Um usuário relatou ter visto um print em que Lula o incentivava a entrar na política, e disse que agora cogita se candidatar a vereador pelo PT do Recife. O episódio reacende a discussão sobre o estímulo de lideranças políticas à entrada de novos nomes na disputa eleitoral.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/joseli.to/post/3n2525x77js2d",
-      "createdAt": "2026-11-12T17:56:27.473000+00:00",
-      "rawScore": 0.31436464064054975,
-      "relevanceScore": 0.3492940451561664,
-      "suggestedRadius": 71.46,
-      "imageUrl": "assets/images/bsky_3n2525x77js2d_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2525x77js2d_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "vendo esse print lembrando do lula mandando eu entrar na política e querendo me candidatar a vereador pelo pt do recife",
-          "url": "https://bsky.app/profile/joseli.to/post/3n2525x77js2d",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O incentivo de uma liderança como Lula a novos nomes é um empurrão que faz diferença: muita gente boa não entra na política por falta de apoio, e um convite desses abre porta para disputar uma vaga de vereador pelo PT do Recife.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Candidatura nascida de um print e de um empurrão de liderança diz pouco sobre preparo: o eleitor do Recife precisa de proposta concreta para a cidade, não de alguém que decide disputar vereador porque foi incentivado por Lula.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A lembrança do incentivo de Lula é só o começo da história: antes de se candidatar a vereador pelo PT do Recife, a pessoa precisa ver se tem base, tempo de partido e disposição para a rotina de campanha, o que o print sozinho não resolve.",
+          "text": "O encontro entre a água e os trilhos em Salgueiro é um marco visual, mas seu impacto depende de como a Transposição e a Transnordestina forem operadas e mantidas. Sem gestão eficiente, a imagem bonita não se traduz em benefício duradouro para a população.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -518,15 +528,15 @@
       "id": "bsky_3mzxvsfaons2z",
       "rank": 10,
       "title": "Se eu estivesse no sertão e visse uma gata com esse look e esse rosto, eu diria que ela tá vindo de Recife pra uma festa a fantasia",
-      "label": "Look de festa a fantasia no sertão",
-      "context": "Uma postagem no Bluesky descreve uma mulher com um look e rosto que, segundo o autor, parecem de quem saiu de Recife para uma festa a fantasia no sertão. A publicação gerou comentários que associam o visual a moradoras de cidades como Parnamirim e a uma estética 'hipster querendo fazer a brejeira'.",
+      "label": "Look de festa no sertão · Comentários",
+      "context": "Um post no Bluesky descreve uma mulher com um look chamativo e um rosto que, segundo o autor, pareceria vir de Recife para uma festa à fantasia no sertão. A publicação gerou comentários que associam o visual a uma estética de quem quer se destacar no interior, mencionando cidades como Parnamirim e Buíque.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
       "permalink": "https://bsky.app/profile/toco.bsky.social/post/3mzxvsfaons2z",
       "createdAt": "2026-11-10T16:55:05.976000+00:00",
-      "rawScore": 0.312334802379588,
-      "relevanceScore": 0.3470386693106533,
-      "suggestedRadius": 71.35,
+      "rawScore": 0.1960548757384232,
+      "relevanceScore": 0.195928952436271,
+      "suggestedRadius": 62.56,
       "imageUrl": "assets/images/bsky_3mzxvsfaons2z_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzxvsfaons2z_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -542,32 +552,32 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O look é claramente de quem veio de Recife para uma festa a fantasia no sertão, e isso é ótimo: mostra que a moda pode circular e misturar referências urbanas com o interior sem pedir licença.",
+          "text": "O look é claramente de quem quer causar no interior, tipo uma moradora de Parnamirim que vai dar close no sertão. Essa mistura de vestido e bota hipster com jeito de brejeira é autêntica e divertida, e o post soube capturar bem essa cena.",
           "source": "sintese",
           "evidence": [
-            1,
-            2
+            2,
+            3
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Esse vestido e essa bota são hipster demais para o sertão; parece fantasia de brejeira, como se a pessoa estivesse se fantasiando de moradora local em vez de só se vestir.",
+          "text": "A piada reforça um estereótipo de que quem usa roupa diferente no sertão está fantasiado ou querendo aparecer. O comentário sobre 'brancona cirandeira indo pra Buíque' soa como um julgamento disfarçado de humor, e isso pode incomodar quem é do interior e se veste como quer.",
           "source": "sintese",
           "evidence": [
-            3
+            1
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O look novo da Farm pode até funcionar, mas depende do contexto: se for para uma festa a fantasia, tudo bem; se for para circular no sertão, talvez soe como uma experiência meio deslocada.",
+          "text": "O post é só uma brincadeira sobre moda e contexto, e os comentários seguiram a mesma linha. Dá para levar na esportiva sem ver julgamento, mas também vale notar que o look novo da Farm pode ser o centro da conversa, e não a pessoa em si.",
           "source": "sintese",
           "evidence": [
-            1,
-            4
+            4,
+            5
           ],
           "votes": 0
         }

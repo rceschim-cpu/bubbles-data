@@ -1,21 +1,81 @@
 {
-  "generatedAt": "2026-11-13T05:48:44.784257+00:00",
+  "generatedAt": "2026-11-13T19:28:36.491411+00:00",
   "region": "br-pa",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n24zohxilc2h",
+      "id": "bsky_3n27ov22p4k23",
       "rank": 1,
-      "title": "Voltou a chover em Belém e autora promove livro de Natal na pré-venda",
+      "title": "Jaques Wagner e Rui Costa, do PT da Bahia, são intimados pela PF a depor no caso Master",
+      "label": "Intimação da PF · Caso Master na Bahia",
+      "context": "Jaques Wagner e Rui Costa, do PT da Bahia, foram intimados pela Polícia Federal para prestar depoimento no caso Master. A revista piauí mostrou como os dois venceram a eleição apesar das ligações com o caso e como o partido atua para manter a hegemonia no estado.",
+      "source": "bluesky",
+      "subreddit": "bsky_pa",
+      "permalink": "https://bsky.app/profile/revistapiaui.bsky.social/post/3n27ov22p4k23",
+      "createdAt": "2026-11-13T19:12:38.582000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n27ov22p4k23_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27ov22p4k23_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pa",
+      "sources": [
+        {
+          "title": "Jaques Wagner e Rui Costa, do PT da Bahia, foram intimados pela PF para prestar depoimento no caso Master. Na edição deste mês, a piauí mostrou como eles venceram a eleição apesar das ligações com esse caso e como o partido atua para manter a hegemonia no estado. Leia:",
+          "url": "https://bsky.app/profile/revistapiaui.bsky.social/post/3n27ov22p4k23",
+          "subreddit": "bsky_pa"
+        },
+        {
+          "title": "MPF e a PF investigam a participação de pms da Bahia em milícias privadas, ligadas a fazendeiros na região sul e extremo sul do estado, denuncia feita pelos povos indígenas desde 2022. Eles atuam com pistoleiros e espalham fake news sobre falsas retomadas para criminalizar o movimento.",
+          "url": "https://bsky.app/profile/beatrizdiniz.bsky.social/post/3n24xwb4c4k2a",
+          "subreddit": "bsky_pa"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A intimação da PF é o mínimo que se espera: se Jaques Wagner e Rui Costa têm ligação com o caso Master, precisam explicar tudo sob investigação. Não dá para vencer eleição carregando esse tipo de suspeita e fingir que nada aconteceu.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A intimação da PF contra Jaques Wagner e Rui Costa é mais um capítulo de criminalização da política na Bahia. O caso Master virou instrumento para desgastar o PT estadual, enquanto a direita faz o mesmo e ninguém é intimado.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A intimação da PF é séria, mas o caso Master ainda está em fase de depoimento, sem denúncia formal. Antes de condenar Jaques Wagner e Rui Costa, é preciso ver o que a investigação vai apontar de concreto sobre a ligação deles com o esquema.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n24zohxilc2h",
+      "rank": 2,
+      "title": "Voltou a chover em Belém e autora promove pré-venda de romance natalino ambientado na cidade",
       "label": "Chuva em Belém · Pré-venda de livro",
-      "context": "A autora anunciou que voltou a chover em Belém, marcando a chegada do inverno amazônico, e aproveitou para divulgar a pré-venda de seu novo romance de Natal ambientado na cidade. A obra se chama 'Os Desejos de Natal de Olívia' e está disponível para encomenda.",
+      "context": "Uma autora anunciou no Bluesky que voltou a chover em Belém, marcando a chegada do inverno amazônico, e aproveitou para divulgar a pré-venda de seu novo romance de Natal ambientado na cidade. A obra, segundo a autora, é um romance natalino que se passa em Belém do Pará, e ela afirma que o público nunca leu nada parecido.",
       "source": "bluesky",
       "subreddit": "bsky_pa",
       "permalink": "https://bsky.app/profile/brunaguerreiro.bsky.social/post/3n24zohxilc2h",
       "createdAt": "2026-11-12T17:47:58.477000+00:00",
-      "rawScore": 0.8222092799777301,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.15433324544119578,
+      "relevanceScore": 0.38365508705639645,
+      "suggestedRadius": 73.16,
       "imageUrl": "assets/images/bsky_3n24zohxilc2h_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n24zohxilc2h_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -41,7 +101,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A chuva em Belém é o cenário perfeito para um romance de Natal ambientado na cidade, e a autora soube aproveitar o momento para divulgar seu livro. É uma ótima oportunidade para conhecer uma história que valoriza a cultura paraense.",
+          "text": "A autora acertou em aproveitar a chuva para divulgar seu romance de Natal ambientado em Belém; é uma forma criativa de chamar atenção para a pré-venda e valorizar a cultura paraense.",
           "source": "sintese",
           "evidence": [
             1
@@ -51,7 +111,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A divulgação do livro em meio a um comentário sobre a chuva parece forçada e desvia a atenção do assunto principal. O post acaba sendo mais uma propaganda do que uma conversa genuína sobre o clima em Belém.",
+          "text": "A divulgação do livro em meio ao comentário sobre a chuva parece forçada e desvia o foco do clima e da cidade, transformando uma observação cotidiana em propaganda.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -59,7 +119,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post mistura a empolgação com a chuva e a promoção do livro, o que pode ser visto como uma estratégia de marketing. Para quem se interessa por romances ambientados em Belém, a pré-venda é uma opção, mas o foco principal acaba sendo a divulgação.",
+          "text": "A chuva em Belém é um fenômeno comum nesta época, e o anúncio da autora é apenas uma divulgação; cada um decide se o livro interessa ou não.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -70,17 +130,17 @@
     },
     {
       "id": "bsky_3n22nj7sfus22",
-      "rank": 2,
-      "title": "Punição no Brasil só atinge pobres e negros, diz usuário, citando Moro e Dallagnol",
+      "rank": 3,
+      "title": "Punição no Brasil só atinge pobres e negros, enquanto Moro e Dallagnol ficam impunes",
       "label": "Impunes da Lava Jato · Crítica à seletividade",
-      "context": "Um usuário do Bluesky afirmou que a punição no Brasil recai apenas sobre pessoas pobres e negras das comunidades, enquanto Sergio Moro, Deltan Dallagnol e a Rede Globo, apontados como responsáveis por desmandos, seguem impunes e sustentados pelo Estado. A declaração reacende a discussão sobre a seletividade do sistema de justiça e a responsabilização dos envolvidos na Operação Lava Jato.",
+      "context": "Um post no Bluesky critica a seletividade da punição no Brasil, afirmando que ela recai sobre pessoas pobres e negras das comunidades, enquanto Sergio Moro, Deltan Dallagnol e a Rede Globo, apontados como responsáveis por desmandos, seguem sem punição. A publicação integra uma onda de críticas à Operação Lava Jato e à conduta de seus responsáveis, com menções à impunidade de agentes públicos e à disparidade de tratamento entre ricos e pobres.",
       "source": "bluesky",
       "subreddit": "bsky_pa",
       "permalink": "https://bsky.app/profile/akaishiri.bsky.social/post/3n22nj7sfus22",
       "createdAt": "2026-11-11T19:05:04.572000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 0.9472319812606583,
-      "suggestedRadius": 94.4,
+      "rawScore": 0.17808775319015424,
+      "relevanceScore": 0.2747093100064487,
+      "suggestedRadius": 67.45,
       "imageUrl": "assets/images/bsky_3n22nj7sfus22_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n22nj7sfus22_reddit_thumb.jpg",
       "category": "tech",
@@ -101,278 +161,30 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Concordo: a Lava Jato foi uma farsa para tirar o Lula da eleição e destruir reputações, e os responsáveis como Moro e Dallagnol seguem impunes mamando nas tetas do Estado. A justiça só pune pobre e preto da comunidade, enquanto os poderosos escapam.",
+          "text": "Concordo que a punição no Brasil é seletiva: enquanto pobres e negros das comunidades são presos, os responsáveis pela farsa da Lava Jato, como Moro e Dallagnol, seguem impunes e ainda ocupam cargos públicos. A justiça precisa ser igual para todos.",
           "source": "sintese",
           "evidence": [
             1,
-            2,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A crítica ignora que a Lava Jato prendeu e condenou muitos ricos e poderosos, não só pobres. Jogar a culpa em Moro e Dallagnol é simplismo; o sistema de justiça tem falhas, mas generalizar como se só pobres e negros fossem punidos distorce os fatos.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A seletividade da justiça é real e precisa ser debatida, mas reduzir tudo a uma farsa ou a uma caça às bruxas não ajuda. É preciso separar os erros concretos da Lava Jato da responsabilidade individual de cada agente, e cobrar punição para todos os envolvidos, independentemente de lado.",
-          "source": "sintese",
-          "evidence": [
             3,
             6
           ],
           "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n24gx3nc3s26",
-      "rank": 3,
-      "title": "Empresários portugueses sugam o Estado e vivem a reclamar",
-      "label": "Empresários · Crítica a subsídios e queixas",
-      "context": "Um post no Bluesky critica empresários portugueses por, segundo o autor, dependerem de subsídios estatais e ainda assim se queixarem constantemente. A publicação gerou reações sobre a quem esses empresários realmente representam.",
-      "source": "bluesky",
-      "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/tojota.bsky.social/post/3n24gx3nc3s26",
-      "createdAt": "2026-11-12T12:12:36.376000+00:00",
-      "rawScore": 0.7958082101894759,
-      "relevanceScore": 0.7491734820961534,
-      "suggestedRadius": 87.93,
-      "imageUrl": "assets/images/bsky_3n24gx3nc3s26_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n24gx3nc3s26_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pa",
-      "sources": [
+        },
         {
-          "title": "Os nossos empresários para aém de chuparem na teta do estado passam a vida a chorar.",
-          "url": "https://bsky.app/profile/tojota.bsky.social/post/3n24gx3nc3s26",
-          "subreddit": "bsky_pa"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Empresários que mamam na teta do Estado e ainda reclamam mostram uma contradição insustentável: recebem apoio público e, em vez de reconhecer, choram por mais. Essa crítica expõe a falta de vergonha de quem vive de subsídios e não assume a responsabilidade.",
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa narrativa de que a Lava Jato foi uma farsa ignora os crimes comprovados e as condenações mantidas. Moro e Dallagnol agiram dentro da lei, e a impunidade que existe é fruto de um sistema judiciário lento, não de perseguição política.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         },
         {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Chamar esses empresários de 'nossos' é um erro: eles não representam os portugueses, são uma classe à parte que se beneficia do Estado e depois se vitimiza. A crítica original acerta ao apontar a hipocrisia, mas generalizar como se fossem 'nossos' só fortalece quem não merece.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
           "id": "op3",
           "tone": "neutral",
-          "text": "A afirmação de que empresários 'chupam na teta do Estado' e 'passam a vida a chorar' precisa de dados concretos: quais subsídios, quais queixas? Sem isso, o debate fica no achismo e não avança. O comentário que questiona o 'nossos' já mostra que a generalização atrapalha.",
+          "text": "A crítica à seletividade da justiça é válida, mas é preciso lembrar que a impunidade atinge tanto pobres quanto ricos, dependendo do crime e das conexões políticas. O problema é estrutural e não se resolve apenas apontando culpados individuais.",
           "source": "sintese",
           "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n24xwb4c4k2a",
-      "rank": 4,
-      "title": "MPF e PF investigam PMs da Bahia por milícias privadas ligadas a fazendeiros",
-      "label": "Milícias privadas · PMs da Bahia investigados",
-      "context": "O Ministério Público Federal e a Polícia Federal investigam a participação de policiais militares da Bahia em milícias privadas ligadas a fazendeiros no sul e extremo sul do estado. A denúncia é feita por povos indígenas desde 2022, que relatam atuação com pistoleiros e fake news sobre falsas retomadas para criminalizar o movimento.",
-      "source": "bluesky",
-      "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/beatrizdiniz.bsky.social/post/3n24xwb4c4k2a",
-      "createdAt": "2026-11-12T17:16:22.692000+00:00",
-      "rawScore": 0.7756851536832373,
-      "relevanceScore": 0.7296548600500543,
-      "suggestedRadius": 87.25,
-      "imageUrl": "assets/images/bsky_3n24xwb4c4k2a_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n24xwb4c4k2a_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pa",
-      "sources": [
-        {
-          "title": "MPF e a PF investigam a participação de pms da Bahia em milícias privadas, ligadas a fazendeiros na região sul e extremo sul do estado, denuncia feita pelos povos indígenas desde 2022. Eles atuam com pistoleiros e espalham fake news sobre falsas retomadas para criminalizar o movimento.",
-          "url": "https://bsky.app/profile/beatrizdiniz.bsky.social/post/3n24xwb4c4k2a",
-          "subreddit": "bsky_pa"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A investigação do MPF e da PF é necessária porque a denúncia indígena existe desde 2022 e envolve PMs usando pistoleiros e fake news para criminalizar quem luta por direitos constitucionais. Lutar pelos direitos não é crime, e o Estado precisa responder a isso.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A ação de PMs em milícias privadas é um ato de abuso de poder do Estado e criminalização da luta indígena. Em vez de proteger, esses agentes se aliam a fazendeiros para intimidar lideranças e espalhar fake news sobre falsas retomadas.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A denúncia é grave, mas ainda precisa ser apurada: a investigação do MPF e da PF vai confirmar se há mesmo participação de PMs nas milícias. O apoio às lideranças indígenas e à Apib é importante, mas o caso depende do que a apuração revelar.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzy7bgrs2c2q",
-      "rank": 5,
-      "title": "Mobilização nas redes e povo na rua pressionam governador da Bahia a agir",
-      "label": "Pressão popular sobre Jerônimo Rodrigues na Bahia",
-      "context": "Uma mobilização nas redes sociais e protestos de rua pressionam o governador da Bahia, Jerônimo Rodrigues, a tomar providências sobre um caso envolvendo estrangeiros israelenses em Itacaré. A situação gerou críticas à atuação do governo estadual e cobranças por respostas mais firmes.",
-      "source": "bluesky",
-      "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/plantaobrasil.bsky.social/post/3mzy7bgrs2c2q",
-      "createdAt": "2026-11-10T19:45:11.877000+00:00",
-      "rawScore": 0.5438447008078603,
-      "relevanceScore": 0.5047781782563103,
-      "suggestedRadius": 78.63,
-      "imageUrl": "assets/images/bsky_3mzy7bgrs2c2q_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzy7bgrs2c2q_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pa",
-      "sources": [
-        {
-          "title": "Mobilização nas redes e povo na rua pressionam governador da Bahia a agir www.plantaobrasil.net/noticias/162...",
-          "url": "https://bsky.app/profile/plantaobrasil.bsky.social/post/3mzy7bgrs2c2q",
-          "subreddit": "bsky_pa"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A pressão popular está funcionando: o povo foi às ruas e às redes e forçou o governador a criar uma força-tarefa para resolver o caso em Itacaré. Isso mostra que a mobilização social tem poder de cobrar ação concreta do governo.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Jerônimo Rodrigues demorou demais para agir e só se moveu depois da pressão. O governo do PT na Bahia é uma decepção e trata estrangeiros com prioridade enquanto problemas como o ICMS dos combustíveis ficam de lado.",
-          "source": "sintese",
-          "evidence": [
-            1,
             4,
-            5,
-            7,
-            11
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A causa é importante, mas é preciso cobrar também outras pautas, como a privatização da Bahia Gás. A mobilização não pode se limitar a um caso e esquecer os problemas estruturais do estado.",
-          "source": "sintese",
-          "evidence": [
-            6,
-            10
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzzp3zkduc2c",
-      "rank": 6,
-      "title": "Televisões canibalizam o jornalismo e alimentam paisagem de medo, diz crítica",
-      "label": "Televisão e jornalismo · Transmissões ao vivo criticadas",
-      "context": "Uma publicação no Bluesky critica as televisões por transformarem o jornalismo num espetáculo de medo, citando os diretos de estradas como exemplo de conteúdo que causa ansiedade. A crítica surge após a RTP ter transmitido em direto o resgate de um homem na Madeira, com foco na sua vulnerabilidade.",
-      "source": "bluesky",
-      "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/tiagodf.bsky.social/post/3mzzp3zkduc2c",
-      "createdAt": "2026-11-11T10:00:32.682000+00:00",
-      "rawScore": 0.3840361250548258,
-      "relevanceScore": 0.4467660673785689,
-      "suggestedRadius": 76.1,
-      "imageUrl": "assets/images/bsky_3mzzp3zkduc2c_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzzp3zkduc2c_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pa",
-      "sources": [
-        {
-          "title": "As televisões tornaram-se num canibal do jornalismo e são um contribuinte ativo para uma paisagem de medo que muito faz pelo estado da sociedade em que vivemos. Os diretos das estradas dão-me ânsias.",
-          "url": "https://bsky.app/profile/tiagodf.bsky.social/post/3mzzp3zkduc2c",
-          "subreddit": "bsky_pa"
-        },
-        {
-          "title": "O tema da redação do ENEM 2026, “A valorização do Sistema Único de Saúde (SUS) como direito universal\", traz para o debate uma questão fundamental da sociedade brasileira: a saúde como direito de todos e dever do Estado.",
-          "url": "https://bsky.app/profile/correntedobem.bsky.social/post/3n22trb32bc2d",
-          "subreddit": "bsky_pa"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A crítica acerta em cheio: os diretos de resgates e acidentes exploram a vulnerabilidade das pessoas em nome da audiência. Mostrar um homem desnorteado em repetição não é jornalismo, é espetáculo que viola a dignidade e alimenta o medo.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            4
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A RTP e os outros canais têm responsabilidades especiais, mas nos diretos perdem o controle e transformam tudo num reality show permanente. O problema não é a televisão em si, mas a forma como a cobertura ao vivo se tornou telelixo sensacionalista.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A exposição mediática pode ser devastadora para quem está a passar por um momento frágil. É preciso ponderar até que ponto o direito à informação se sobrepõe ao direito à privacidade e à dignidade da pessoa resgatada.",
-          "source": "sintese",
-          "evidence": [
-            1,
             5
           ],
           "votes": 0
@@ -382,31 +194,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzzynhp7ck62",
-      "rank": 7,
-      "title": "O que é uma previsão do tempo? É uma estimativa do estado futuro da atmosfera",
-      "label": "Previsão do tempo · Incerteza e comunicação",
-      "context": "Uma previsão do tempo é uma estimativa do estado futuro da atmosfera para um local e período, respondendo o que vai acontecer, onde, quando, com que intensidade e duração. A incerteza associada à previsão aumenta quanto mais extremo e localizado for o fenômeno meteorológico.",
+      "id": "bsky_3n27csoeahd2o",
+      "rank": 4,
+      "title": "Reportagem do g1 sobre o Rio de Janeiro é compartilhada no Bluesky",
+      "label": "Compartilhamento de link do g1 no Bluesky",
+      "context": "Um usuário do Bluesky compartilhou o link de uma reportagem do g1 sobre o Rio de Janeiro. O post apenas divulga o link, sem apresentar o conteúdo da matéria ou gerar discussão.",
       "source": "bluesky",
       "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/thisissusana.bsky.social/post/3mzzynhp7ck62",
-      "createdAt": "2026-11-11T12:51:20.876000+00:00",
-      "rawScore": 0.3803218903788364,
-      "relevanceScore": 0.4431633968394946,
-      "suggestedRadius": 75.94,
-      "imageUrl": "assets/images/bsky_3mzzynhp7ck62_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzzynhp7ck62_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/carlosminc.bsky.social/post/3n27csoeahd2o",
+      "createdAt": "2026-11-13T15:36:34.676000+00:00",
+      "rawScore": 0.21497552164767564,
+      "relevanceScore": 0.2113017224987467,
+      "suggestedRadius": 63.58,
+      "imageUrl": "assets/images/bsky_3n27csoeahd2o_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27csoeahd2o_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pa",
       "sources": [
         {
-          "title": "O que é uma previsão do tempo? É uma ESTIMATIVA* do estado futuro da atmosfera, para um local e período Uma previsão deve responder: - O que vai acontecer: temperatura, precipitação, vento,etc - Onde: localização - Quando: início, duração e fim. - intensidade *tem associada 1 incerteza. ++",
-          "url": "https://bsky.app/profile/thisissusana.bsky.social/post/3mzzynhp7ck62",
-          "subreddit": "bsky_pa"
-        },
-        {
-          "title": "Já éramos para ter implementado esse tipo de medida a muito tempo. Nenhum criminoso é bem vindo ao Brasil, muito menos os criminosos de guerra do Estado de Israel.",
-          "url": "https://bsky.app/profile/somosjacare.bsky.social/post/3n225tocjck2f",
+          "title": "Link da reportagem: g1.globo.com/rj/rio-de-ja...",
+          "url": "https://bsky.app/profile/carlosminc.bsky.social/post/3n27csoeahd2o",
           "subreddit": "bsky_pa"
         }
       ],
@@ -414,33 +221,25 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Comunicar ciência de forma clara é essencial, e a explicação sobre os seis aspetos que uma previsão deve cobrir ajuda o público a entender por que às vezes há erros. Precisamos de mais gente boa a comunicar ciência.",
+          "text": "Compartilhar links de reportagens como essa é uma forma de manter as pessoas informadas sobre o que acontece no Rio. O g1 é uma fonte confiável e o Bluesky precisa desse tipo de conteúdo.",
           "source": "sintese",
-          "evidence": [
-            4
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A dificuldade de prever fenômenos extremos e localizados é real, mas a comparação entre duas corridas para a mesma hora mostra diferenças que podem confundir. É preciso mais transparência sobre a incerteza.",
+          "text": "Postar só o link sem nenhum comentário ou contexto não ajuda em nada. As pessoas passam direto e a informação não circula de verdade. Faltou explicar por que essa matéria é relevante.",
           "source": "sintese",
-          "evidence": [
-            2,
-            3
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "As duas corridas parecem iguais, mas há diferenças. Isso mostra que a previsão é uma estimativa e que a incerteza é inerente, especialmente para eventos extremos e localizados.",
+          "text": "O post cumpre o papel de divulgar a reportagem, mas sem comentários fica difícil saber o que o autor achou ou por que escolheu compartilhar. O conteúdo em si está no link, não na postagem.",
           "source": "sintese",
-          "evidence": [
-            1,
-            3
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -448,26 +247,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n22duqovbk2i",
-      "rank": 8,
-      "title": "Decisões ignoradas nas eleições custam R$ 7,5 milhões à Meta",
-      "label": "TSE multa Meta por descumprir ordens",
-      "context": "O TSE puniu a Meta em R$ 7,5 milhões por descumprir decisões durante as eleições. A multa veio acompanhada de um alerta sobre controle algorítmico e ameaça à soberania do Estado no pleito.",
+      "id": "bsky_3n26jvqkcuwqb",
+      "rank": 5,
+      "title": "Confirmada inconstitucionalidade de decreto-lei usado para justificar cargas policiais",
+      "label": "Decreto-lei inconstitucional · Cargas policiais",
+      "context": "O Tribunal Constitucional confirmou a inconstitucionalidade do decreto-lei que o governo usou para justificar as cargas policiais. A decisão levanta a questão de quem responde pelas agressões, abusos e detenções que já ocorreram, sem que nenhuma autoridade tenha sido responsabilizada até agora.",
       "source": "bluesky",
       "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/luisnassif.bsky.social/post/3n22duqovbk2i",
-      "createdAt": "2026-11-11T16:12:40.970000+00:00",
-      "rawScore": 0.47402582996224246,
-      "relevanceScore": 0.4370564506301648,
-      "suggestedRadius": 75.67,
-      "imageUrl": "assets/images/bsky_3n22duqovbk2i_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n22duqovbk2i_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/gjmcosta.bsky.social/post/3n26jvqkcuwqb",
+      "createdAt": "2026-11-13T08:10:51.880000+00:00",
+      "rawScore": 0.20650520639732048,
+      "relevanceScore": 0.20279176741827665,
+      "suggestedRadius": 63.02,
+      "imageUrl": "assets/images/bsky_3n26jvqkcuwqb_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n26jvqkcuwqb_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pa",
       "sources": [
         {
-          "title": "Decisões ignoradas nas eleições custam R$ 7,5 milhões à Meta TSE pune dona do Facebook por descumprir ordens e alerta para controle algorítmico e ameaça à soberania do Estado no pleito jornalggn.com.br/politica/dec...",
-          "url": "https://bsky.app/profile/luisnassif.bsky.social/post/3n22duqovbk2i",
+          "title": "Confirmada a inconstitucionalidade do DL que usaram para justificar as cargas policiais, onde ficam as responsabilidades? Quais as consequências? As únicas, até agora, foram para os agredidos, os abusados, os detidos. www.publico.pt/2026/11/12/p...",
+          "url": "https://bsky.app/profile/gjmcosta.bsky.social/post/3n26jvqkcuwqb",
           "subreddit": "bsky_pa"
         }
       ],
@@ -475,7 +274,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A multa do TSE é um recado importante: a Meta não pode ignorar decisões judiciais e seguir lucrando com a eleição. O valor pode parecer baixo, mas o precedente de responsabilizar a empresa por controle algorítmico e soberania já é uma vitória.",
+          "text": "A confirmação da inconstitucionalidade abre caminho para responsabilizar o Estado pelos danos causados. Quem ordenou as cargas com base numa norma inválida tem que responder civilmente pelas agressões e detenções que não se justificavam.",
           "source": "sintese",
           "evidence": [
             1
@@ -485,78 +284,19 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "R$ 7,5 milhões não fazem nem cosquinha para a Meta, que lucrou quase 600 milhões com a eleição. Essa multa é simbólica e não desestimula nada; o TSE precisa aplicar punições proporcionais ao faturamento para valer alguma coisa.",
+          "text": "Reconhecer a inconstitucionalidade não devolve nada a quem foi agredido ou detido. As consequências continuam todas do lado dos abusados, e sem responsabilização concreta de quem mandou agir, a decisão fica só no papel.",
           "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A punição existe, mas o valor é irrisório perto do lucro de 600 milhões com a eleição. O debate real é se o TSE tem instrumentos para multar de forma proporcional ou se essas decisões continuarão sendo ignoradas sem consequência prática.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n234u2x7x22q",
-      "rank": 9,
-      "title": "Scott Colom é o primeiro homem negro eleito ao Senado dos EUA pelo Mississippi em 156 anos",
-      "label": "Scott Colom eleito no Mississippi",
-      "context": "Scott Colom venceu a eleição para o Senado dos EUA pelo Mississippi, tornando-se o primeiro homem negro a ocupar o cargo por esse estado em 156 anos. A vitória é destacada como um marco histórico na representação política do estado.",
-      "source": "bluesky",
-      "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/manuelreis.bsky.social/post/3n234u2x7x22q",
-      "createdAt": "2026-11-11T23:39:19.773000+00:00",
-      "rawScore": 0.40985543956635706,
-      "relevanceScore": 0.3748135405484081,
-      "suggestedRadius": 72.73,
-      "imageUrl": "assets/images/bsky_3n234u2x7x22q_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n234u2x7x22q_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pa",
-      "sources": [
-        {
-          "title": "Vale a pena ver este segmento do @jaketapper.bsky.social sobre a vitória de Scott Colom no Mississippi, o primeiro homem negro eleito para o Senado dos EUA por aquele estado em 156 anos.",
-          "url": "https://bsky.app/profile/manuelreis.bsky.social/post/3n234u2x7x22q",
-          "subreddit": "bsky_pa"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A eleição de Scott Colom é um marco histórico para o Mississippi e para o país. Depois de 156 anos, finalmente um homem negro chega ao Senado dos EUA por esse estado, o que mostra uma mudança real na política e na sociedade.",
+          "text": "A decisão esclarece a base legal, mas a responsabilidade civil do Estado é um caminho lento e individual. Cada agredido teria que provar o dano e o nexo com a ordem, o que na prática deixa muita gente sem reparação.",
           "source": "sintese",
           "evidence": [
             1
           ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Ainda que seja um feito, a eleição de Scott Colom não apaga o fato de que o Mississippi tem um histórico de racismo estrutural e que a representação negra no Senado continua baixa. É preciso mais do que uma vitória simbólica para mudar a realidade.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A vitória de Scott Colom é importante, mas é preciso ver se ela se traduz em políticas concretas para a população negra do Mississippi. O simbolismo é válido, mas a cobrança por resultados deve continuar.",
-          "source": "sintese",
-          "evidence": [],
           "votes": 0
         }
       ],
@@ -565,17 +305,17 @@
     },
     {
       "id": "bsky_3mzxcnbt7kc2b",
-      "rank": 10,
+      "rank": 6,
       "title": "COP31 discute futuro sustentável, resiliente e equitativo com chefes de Estado",
       "label": "COP31 · Clima e sustentabilidade",
-      "context": "A COP31 reúne chefes de Estado e de governo para discutir caminhos de enfrentamento à mudança do clima, com o tema \"Rumo a um futuro sustentável, resiliente e equitativo\". O Brasil participa das discussões sobre combate ao desmatamento, transição energética, redução de emissões e financiamento para proteção de florestas.",
+      "context": "A COP31 reúne chefes de Estado e de governo para discutir caminhos de enfrentamento à mudança do clima, com o tema \"Rumo a um futuro sustentável, resiliente e equitativo\". O Brasil participa dos debates sobre combate ao desmatamento, transição energética, redução de emissões e financiamento para proteção de florestas.",
       "source": "bluesky",
       "subreddit": "bsky_pa",
       "permalink": "https://bsky.app/profile/brasil.gov.br/post/3mzxcnbt7kc2b",
       "createdAt": "2026-11-10T11:12:13.974000+00:00",
-      "rawScore": 0.2072318183020825,
-      "relevanceScore": 0.33201161928358186,
-      "suggestedRadius": 70.57,
+      "rawScore": 0.045120585173024495,
+      "relevanceScore": 0.1998898791137357,
+      "suggestedRadius": 62.83,
       "imageUrl": "assets/images/bsky_3mzxcnbt7kc2b_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzxcnbt7kc2b_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -601,7 +341,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Brasil chega à COP31 com uma agenda concreta: combate ao desmatamento, transição energética e financiamento para proteção de florestas. Depois de sediar a COP30 em Belém, o país mantém o protagonismo climático e leva propostas reais para a mesa.",
+          "text": "O Brasil chega à COP31 com uma agenda concreta: combate ao desmatamento, transição energética e financiamento para proteção de florestas. Isso mostra que o país está do lado do meio ambiente e do povo brasileiro, como disse o governo.",
           "source": "sintese",
           "evidence": [
             1
@@ -611,7 +351,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Enquanto o governo fala em futuro sustentável na COP31, o discurso de eficiência e corte de privilégios do próprio PT mostra que a prioridade é ajuste fiscal, não clima. Participar de cúpula internacional sem resolver o desmatamento aqui dentro vira só vitrine.",
+          "text": "Enquanto o governo fala em sustentabilidade na COP31, o mesmo governo que corta privilégios é o que precisa explicar a eficiência do gasto público. Discurso bonito no exterior não resolve a falta de ação interna.",
           "source": "sintese",
           "evidence": [
             2
@@ -621,7 +361,255 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A COP31 traz temas importantes como transição energética e financiamento florestal, mas o sucesso depende de compromissos concretos e não apenas de discursos. Os Mapas do Caminho podem ajudar a entender, mas é preciso cobrar resultados práticos dos chefes de Estado.",
+          "text": "A COP31 traz temas importantes como transição energética e financiamento florestal, mas é preciso ver se as promessas saem do papel. Sem metas claras e cobrança da sociedade, o debate fica só na retórica.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n26wswke222c",
+      "rank": 7,
+      "title": "UFRJ alerta para alta de casos positivos de mpox no RJ",
+      "label": "Mpox no RJ · Alerta da UFRJ",
+      "context": "A UFRJ alertou que a proporção de testes positivos de mpox no Rio de Janeiro quase triplicou em 2026, com circulação de dois subtipos do vírus no estado. O aumento da positividade indica maior transmissão e acende alerta para a necessidade de vigilância e prevenção.",
+      "source": "bluesky",
+      "subreddit": "bsky_pa",
+      "permalink": "https://bsky.app/profile/contagemcorona1.bsky.social/post/3n26wswke222c",
+      "createdAt": "2026-11-13T12:02:00.574000+00:00",
+      "rawScore": 0.18028495851054926,
+      "relevanceScore": 0.1764488126261446,
+      "suggestedRadius": 61.2,
+      "imageUrl": "assets/images/bsky_3n26wswke222c_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n26wswke222c_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pa",
+      "sources": [
+        {
+          "title": "➡️UFRJ alerta para alta de casos positivos de mpox no RJ Proporção de testes positivos quase triplicou em 2026; pesquisadores identificaram circulação de dois subtipos do vírus no estado. sbtnews.sbt.com.br/noticia/saud...",
+          "url": "https://bsky.app/profile/contagemcorona1.bsky.social/post/3n26wswke222c",
+          "subreddit": "bsky_pa"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A UFRJ está cumprindo seu papel ao alertar sobre o avanço da mpox no Rio. Identificar dois subtipos circulando e o aumento da positividade é essencial para orientar ações de saúde pública e evitar que a situação se agrave.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Esse alerta chega tarde: a proporção de testes positivos quase triplicou e só agora a universidade se manifesta. A falta de campanhas de conscientização e de acesso a testes rápidos contribuiu para a disseminação silenciosa do vírus.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O dado preocupa, mas é preciso cautela para não gerar pânico. A circulação de dois subtipos pode ser consequência de maior testagem, e não necessariamente de explosão de casos. Acompanhar a evolução e reforçar a vigilância é o caminho.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzzp3zkduc2c",
+      "rank": 8,
+      "title": "Televisões canibalizam o jornalismo e alimentam paisagem de medo, diz crítica",
+      "label": "Televisão e jornalismo · Transmissões ao vivo criticadas",
+      "context": "Uma publicação no Bluesky critica as televisões por transformarem o jornalismo num espetáculo de medo, citando os diretos de estradas como exemplo. A crítica surge após a RTP e a SIC exibirem em direto o resgate de um homem na Madeira, com os comentários a apontarem violação de direitos e sensacionalismo.",
+      "source": "bluesky",
+      "subreddit": "bsky_pa",
+      "permalink": "https://bsky.app/profile/tiagodf.bsky.social/post/3mzzp3zkduc2c",
+      "createdAt": "2026-11-11T10:00:32.682000+00:00",
+      "rawScore": 0.07835256811277341,
+      "relevanceScore": 0.17450737892539603,
+      "suggestedRadius": 61.06,
+      "imageUrl": "assets/images/bsky_3mzzp3zkduc2c_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzzp3zkduc2c_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pa",
+      "sources": [
+        {
+          "title": "As televisões tornaram-se num canibal do jornalismo e são um contribuinte ativo para uma paisagem de medo que muito faz pelo estado da sociedade em que vivemos. Os diretos das estradas dão-me ânsias.",
+          "url": "https://bsky.app/profile/tiagodf.bsky.social/post/3mzzp3zkduc2c",
+          "subreddit": "bsky_pa"
+        },
+        {
+          "title": "O tema da redação do ENEM 2026, “A valorização do Sistema Único de Saúde (SUS) como direito universal\", traz para o debate uma questão fundamental da sociedade brasileira: a saúde como direito de todos e dever do Estado.",
+          "url": "https://bsky.app/profile/correntedobem.bsky.social/post/3n22trb32bc2d",
+          "subreddit": "bsky_pa"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "As televisões, ao repetirem à exaustão imagens de resgates e diretos de estradas, transformam o jornalismo num espetáculo que alimenta o medo e desrespeita a dignidade das pessoas filmadas. A RTP e a SIC deveriam ter especiais responsabilidades e evitar este telelixo.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A crítica generalizada às televisões ignora que os diretos de resgates, como o do homem na Madeira, podem ser essenciais para mobilizar ajuda e informar o público. Chamar 'telelixo' a um trabalho jornalístico arriscado é um exagero que desvaloriza o esforço das equipas no terreno.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O problema não está nos diretos em si, mas na forma como são conduzidos: é preciso distinguir entre informar com respeito e explorar a vulnerabilidade. A RTP e a SIC deviam ter um código claro para evitar violações de direitos, sem deixar de mostrar realidades que importam.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            5
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzzynhp7ck62",
+      "rank": 9,
+      "title": "O que é uma previsão do tempo? É uma estimativa do estado futuro da atmosfera",
+      "label": "Previsão do tempo · Incerteza e comunicação",
+      "context": "Uma previsão do tempo é uma estimativa do estado futuro da atmosfera para um local e período, respondendo o que vai acontecer, onde, quando, com que intensidade e duração. A dificuldade aumenta para fenômenos extremos e localizados, e a comunicação clara dessa incerteza é apontada como essencial.",
+      "source": "bluesky",
+      "subreddit": "bsky_pa",
+      "permalink": "https://bsky.app/profile/thisissusana.bsky.social/post/3mzzynhp7ck62",
+      "createdAt": "2026-11-11T12:51:20.876000+00:00",
+      "rawScore": 0.07647346476976527,
+      "relevanceScore": 0.17261948165499752,
+      "suggestedRadius": 60.93,
+      "imageUrl": "assets/images/bsky_3mzzynhp7ck62_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzzynhp7ck62_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pa",
+      "sources": [
+        {
+          "title": "O que é uma previsão do tempo? É uma ESTIMATIVA* do estado futuro da atmosfera, para um local e período Uma previsão deve responder: - O que vai acontecer: temperatura, precipitação, vento,etc - Onde: localização - Quando: início, duração e fim. - intensidade *tem associada 1 incerteza. ++",
+          "url": "https://bsky.app/profile/thisissusana.bsky.social/post/3mzzynhp7ck62",
+          "subreddit": "bsky_pa"
+        },
+        {
+          "title": "Já éramos para ter implementado esse tipo de medida a muito tempo. Nenhum criminoso é bem vindo ao Brasil, muito menos os criminosos de guerra do Estado de Israel.",
+          "url": "https://bsky.app/profile/somosjacare.bsky.social/post/3n225tocjck2f",
+          "subreddit": "bsky_pa"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Comunicar ciência de forma clara e acessível é fundamental para que as pessoas entendam as previsões e se preparem melhor. Precisamos de mais gente boa explicando o que está por trás dos dados.",
+          "source": "sintese",
+          "evidence": [
+            4
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Previsões meteorológicas ainda erram muito, especialmente para eventos extremos e localizados. A incerteza associada não é comunicada de forma eficaz, o que gera desconfiança e dificulta o planejamento.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A previsão do tempo é uma estimativa e sempre terá incerteza. O desafio é comunicar essa incerteza de forma clara, mostrando que quanto mais extremo e localizado o fenômeno, maior a dificuldade de acerto.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2,
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzxmkksylk2i",
+      "rank": 10,
+      "title": "Deputada Daniela Reinehr propõe nomear Treze Tílias como 'cidade mais austríaca do Brasil'",
+      "label": "Projeto de lei · Treze Tílias e legado austríaco",
+      "context": "A deputada federal Daniela Reinehr (SC) apresentou um projeto de lei para nomear Treze Tílias, no interior de Santa Catarina, como a 'cidade mais austríaca do Brasil'. O projeto gerou discussão por causa da ligação do pai da deputada, o professor de história Altair Reinehr, com a negação dos crimes do nazismo, e do contexto histórico da Áustria na Segunda Guerra.",
+      "source": "bluesky",
+      "subreddit": "bsky_pa",
+      "permalink": "https://bsky.app/profile/rafaelmmartins.bsky.social/post/3mzxmkksylk2i",
+      "createdAt": "2026-11-10T14:09:39.872000+00:00",
+      "rawScore": 0.04097463597539817,
+      "relevanceScore": 0.1369545235607053,
+      "suggestedRadius": 58.2,
+      "imageUrl": "assets/images/bsky_3mzxmkksylk2i_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzxmkksylk2i_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pa",
+      "sources": [
+        {
+          "title": "Filha de um professor de história que negava os crimes do nazismo, a ex-governadora de SC e atual deputada federal Daniela Reinehr apresentou projeto de lei para nomear Treze Tílias, no interior do estado, como a \"cidade mais austríaca do Brasil\". www.camara.leg.br/proposicoesW...",
+          "url": "https://bsky.app/profile/rafaelmmartins.bsky.social/post/3mzxmkksylk2i",
+          "subreddit": "bsky_pa"
+        },
+        {
+          "title": "O Brasil apresentou na COP31 o Marco de Financiamento do Plano de Ação em Saúde de Belém. Elaborado pelo Ministério da Saúde com apoio da OMS, o documento orienta países a identificar fontes de recursos para adaptar seus sistemas às mudanças climáticas: trk.ebc.com.br/5jqME.",
+          "url": "https://bsky.app/profile/agenciabrasil.ebc.com.br/post/3mzy7jgg3lc2t",
+          "subreddit": "bsky_pa"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Treze Tílias foi colonizada por austríacos e mantém tradições que merecem reconhecimento oficial. O projeto valoriza a cultura local e o turismo, sem relação com o passado político da família da deputada.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A proposta é inoportuna vinda de quem tem ligação familiar com a negação do nazismo. A Áustria teve papel ativo no Anschluss e na máquina de guerra nazista, então exaltar a 'austricidade' sem contexto histórico é problemático.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2,
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O projeto em si é sobre homenagear a cultura de Treze Tílias, mas a discussão sobre o passado da deputada ofusca o mérito. Seria melhor separar a homenagem cultural do debate sobre a família dela.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

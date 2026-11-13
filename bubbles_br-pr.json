@@ -1,21 +1,82 @@
 {
-  "generatedAt": "2026-11-13T05:48:44.784257+00:00",
+  "generatedAt": "2026-11-13T19:28:36.491411+00:00",
   "region": "br-pr",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n234bm3yp22o",
+      "id": "bsky_3n2757ra57c2p",
       "rank": 1,
-      "title": "Moro é eleito governador do Paraná e gera críticas nas redes",
-      "label": "Moro governador do Paraná · Reações",
-      "context": "Sergio Moro foi eleito governador do Paraná, e publicações em redes sociais criticam a escolha e o histórico dele como juiz. A eleição dele reacende a discussão sobre a anulação de julgamentos da Lava Jato e sobre a responsabilidade do eleitor paranaense.",
+      "title": "Justiça manda remover posts de extremista em Curitiba",
+      "label": "Justiça manda apagar posts de extremista",
+      "context": "A Justiça determinou que um perfil associado à extrema direita em Curitiba apague publicações de conteúdo considerado criminoso. A decisão gera discussão sobre se apagar posts é punição suficiente ou se outros tipos de penalidade deveriam ser aplicados.",
+      "source": "bluesky",
+      "subreddit": "bsky_pr",
+      "permalink": "https://bsky.app/profile/taniarivera.bsky.social/post/3n2757ra57c2p",
+      "createdAt": "2026-11-13T13:56:30.677000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n2757ra57c2p_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2757ra57c2p_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pr",
+      "sources": [
+        {
+          "title": "Ah! Curitiba... brasilforadacaverna.com.br/justica-mand...",
+          "url": "https://bsky.app/profile/taniarivera.bsky.social/post/3n2757ra57c2p",
+          "subreddit": "bsky_pr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A decisão da Justiça de mandar apagar os posts é um passo importante para conter a disseminação de discursos de ódio e desinformação. Não dá para deixar impune quem usa as redes para atacar e espalhar mentiras.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Apagar posts não pune de verdade. A pessoa continua livre para criar novas contas e postar de novo, e a indenização pode acabar sendo o único castigo. Isso incentiva a repetição dos atos.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            4
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A decisão judicial é válida, mas é preciso discutir se a remoção de conteúdo é suficiente. A indenização e outras medidas podem ser mais eficazes para coibir esse tipo de comportamento.",
+          "source": "sintese",
+          "evidence": [
+            4
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n234bm3yp22o",
+      "rank": 2,
+      "title": "Moro é eleito governador do Paraná e gera reações",
+      "label": "Moro eleito governador do Paraná",
+      "context": "Sergio Moro foi eleito governador do Paraná, conforme posts de novembro de 2026. A eleição gerou reações nas redes, com críticas à sua atuação como juiz no caso que prendeu Lula por 580 dias.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
       "permalink": "https://bsky.app/profile/hqsemroteiro.bsky.social/post/3n234bm3yp22o",
       "createdAt": "2026-11-11T23:28:58.481000+00:00",
-      "rawScore": 0.6661472084731487,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.31283252174209697,
+      "relevanceScore": 0.6293532468276427,
+      "suggestedRadius": 83.6,
       "imageUrl": "assets/images/bsky_3n234bm3yp22o_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n234bm3yp22o_uns_thumb.jpg",
       "category": "geopolitica",
@@ -32,8 +93,8 @@
           "subreddit": "bsky_pr"
         },
         {
-          "title": "E essa desgraça virou Governador do Paraná.",
-          "url": "https://bsky.app/profile/yamadactbageo.bsky.social/post/3n24pmhxerk2c",
+          "title": "Acabei de descobrir que o Moro foi eleito governador do Paraná que porra é essa bixo",
+          "url": "https://bsky.app/profile/undernunes.bsky.social/post/3n2754b37is2d",
           "subreddit": "bsky_pr"
         }
       ],
@@ -41,211 +102,87 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O eleitor do Paraná escolheu Moro nas urnas e essa é a resposta que importa; quem critica a eleição dele deveria respeitar a decisão democrática do estado em vez de atacar o resultado.",
+          "text": "O julgamento que anulou a condenação de Lula foi político, e agora Moro vira governador. O Supremo sentou em cima da inelegibilidade e isso precisa ser lembrado. O Paraná vai pagar por eleger alguém com esse histórico.",
           "source": "sintese",
           "evidence": [
-            14
+            3,
+            5
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Moro usou o cargo de juiz para prender Lula por um triplex que nem era dele, e agora vira governador; essa eleição premia um julgamento político e a incompetência que vai arruinar o Paraná.",
+          "text": "Moro foi eleito e vai arruinar o Paraná. A incompetência está no DNA desse verme. O povo do estado que o elegeu vai pagar por isso, e talvez nem reparem, como os cariocas e paulistas que elegem bandidos há décadas.",
           "source": "sintese",
           "evidence": [
             1,
-            3,
-            13
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O mandato de Moro como governador ainda é uma incógnita; parte dos comentários aposta que ele vai culpar o Lula por tudo, enquanto outros lembram que o Supremo não resolveu a inelegibilidade dele.",
-          "source": "sintese",
-          "evidence": [
-            4,
-            5,
-            6
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n25uqg45zs2s",
-      "rank": 2,
-      "title": "Podcast Paraná Faz Ciência debate programação cultural com Giordana Galvam Lube",
-      "label": "Paraná Faz Ciência · Programação cultural",
-      "context": "O podcast Paraná Faz Ciência, em sua 14ª edição, recebeu Giordana Galvam Lube, professora, maestrina e responsável pelo setor de Atividades Culturais da Pró-Reitoria de Extensão (PROEX). A conversa abordou a programação cultural do evento Paraná Faz Ciência.",
-      "source": "bluesky",
-      "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/giordanalube.bsky.social/post/3n25uqg45zs2s",
-      "createdAt": "2026-11-13T01:52:10.073000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 0.9733481502329171,
-      "suggestedRadius": 95.2,
-      "imageUrl": "assets/images/bsky_3n25uqg45zs2s_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n25uqg45zs2s_reddit_thumb.jpg",
-      "category": "ciencia",
-      "region": "br-pr",
-      "sources": [
-        {
-          "title": "*Estamos no ar* _Podcast Unioverso_ Podcast Paraná faz Ciência #Edição 14 - Programação cultural do Paraná Faz Ciência Convidada: Giordana Galvam Lube - Professora, Maestrina e responsável pelo setor de Atividades Culturais da Pró-Reitoria de Extensão (PROEX) www.youtube.com/live/z2K54OR...",
-          "url": "https://bsky.app/profile/giordanalube.bsky.social/post/3n25uqg45zs2s",
-          "subreddit": "bsky_pr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A participação de Giordana Galvam Lube no podcast é uma ótima forma de divulgar a programação cultural do Paraná Faz Ciência, que muitas vezes fica em segundo plano. Trazer uma maestrina e professora para falar sobre o tema mostra a importância da extensão universitária.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O podcast dá muito espaço para a programação cultural, mas o evento Paraná Faz Ciência deveria focar mais em ciência e tecnologia. A presença de uma maestrina pode desviar o foco do que realmente importa para o público.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A divulgação da programação cultural no podcast é válida, mas seria interessante saber se a comunidade acadêmica e o público externo têm acesso fácil a essas atividades. A conversa pode ajudar, mas ainda faltam detalhes práticos.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n25f5enw4k2h",
-      "rank": 3,
-      "title": "É pedir demais um trem Curitiba-São Paulo na gestão Lula 4?",
-      "label": "Trem Curitiba-São Paulo · Expectativa e ceticismo",
-      "context": "Um usuário do Bluesky questionou se é pedir demais a construção de uma ferrovia ligando Curitiba a São Paulo durante um quarto mandato de Lula. O comentário gerou discussão sobre a viabilidade e a prioridade de projetos de infraestrutura ferroviária no país.",
-      "source": "bluesky",
-      "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/hetthepumpking.bsky.social/post/3n25f5enw4k2h",
-      "createdAt": "2026-11-12T21:12:58.877000+00:00",
-      "rawScore": 0.47718109097376793,
-      "relevanceScore": 0.6242201636097044,
-      "suggestedRadius": 83.4,
-      "imageUrl": "assets/images/bsky_3n25f5enw4k2h_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n25f5enw4k2h_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pr",
-      "sources": [
-        {
-          "title": "É pedir demais um trem Curitiba - São Paulo na gestão Lula 4 meu deus??? (provavelmente)",
-          "url": "https://bsky.app/profile/hetthepumpking.bsky.social/post/3n25f5enw4k2h",
-          "subreddit": "bsky_pr"
-        },
-        {
-          "title": "Cabe agora ao Lula processar a quadrilha de Curitiba e tirar até as chinelas desses vagabundos.",
-          "url": "https://bsky.app/profile/sanzionovisk.bsky.social/post/3mzymmgg2ls2g",
-          "subreddit": "bsky_pr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Um trem ligando Curitiba a São Paulo seria um avanço enorme para a mobilidade e a economia da região. O governo Lula já mostrou interesse em retomar investimentos ferroviários, e essa obra poderia sair do papel se houver vontade política.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Prometer trem de passageiros entre Curitiba e São Paulo é fácil, mas a realidade é que obras assim levam décadas e nunca saem. O governo tem é que resolver a segurança pública e a economia, não ficar fantasiando projeto faraônico.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A ideia é boa, mas depende de estudos de viabilidade e parcerias com a iniciativa privada. Sem um plano concreto e sem saber se há demanda suficiente, fica só no desejo. Melhor acompanhar as propostas reais antes de comemorar ou criticar.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n24ckdvh522n",
-      "rank": 4,
-      "title": "Justiça só será feita quando Marreco e Dallagnol forem presos",
-      "label": "Críticas a Moro e Dallagnol · Curitiba",
-      "context": "Posts no Bluesky criticam o ex-juiz Sergio Moro, chamado de 'Marreco de Curitiba', e o ex-procurador Deltan Dallagnol, pedindo que ambos sejam presos. A crítica também aponta que Moro foi eleito governador do Paraná, o que os autores veem como resultado da cumplicidade de quem votou nele.",
-      "source": "bluesky",
-      "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/clavedosul.bsky.social/post/3n24ckdvh522n",
-      "createdAt": "2026-11-12T10:53:55.981000+00:00",
-      "rawScore": 0.43853414709688643,
-      "relevanceScore": 0.5824235732377956,
-      "suggestedRadius": 81.79,
-      "imageUrl": "assets/images/bsky_3n24ckdvh522n_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n24ckdvh522n_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pr",
-      "sources": [
-        {
-          "title": "Ótimo Di@, JM E o ladrão é o Marreco de Curitiba",
-          "url": "https://bsky.app/profile/clavedosul.bsky.social/post/3n24ckdvh522n",
-          "subreddit": "bsky_pr"
-        },
-        {
-          "title": "...ORCRIM da Republiqueta de Curitiba. FALTA A \"CADEIA\" PARA O MARRECO.",
-          "url": "https://bsky.app/profile/marcianobrito.bsky.social/post/3n23e4png5s24",
-          "subreddit": "bsky_pr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A eleição de Moro para o governo do Paraná mostra que parte do eleitorado ainda apoia quem atuou na Lava Jato, e isso é visto como um recado de que a população quer ver a continuidade desse trabalho de combate à corrupção.",
-          "source": "sintese",
-          "evidence": [
             2
           ],
           "votes": 0
         },
         {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Moro e Dallagnol só estarão realmente pagando pelo que fizeram quando forem presos; enquanto isso, a eleição de Moro ao governo do Paraná é vista como uma recompensa indevida e um sinal de que a impunidade prevalece.",
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A carreira dele já era, e esse mandato de governador vai ser a pá de cal. O povo do Paraná precisa acordar, porque não aguento mais viver num estado que elege Ratinho Jr. e Moro em primeiro turno.",
           "source": "sintese",
           "evidence": [
-            1,
-            4
+            4,
+            7
           ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n26ypli5pk2i",
+      "rank": 3,
+      "title": "Vai ter um carro de F1 em Curitiba, mas é da Cadillac",
+      "label": "Carro da Cadillac em Curitiba",
+      "context": "Um carro de Fórmula 1 da Cadillac vai aparecer em Curitiba, segundo post publicado no Bluesky. A novidade gerou reações mistas, com empolgação pela presença de um F1 na cidade e desapontamento por ser da equipe Cadillac.",
+      "source": "bluesky",
+      "subreddit": "bsky_pr",
+      "permalink": "https://bsky.app/profile/marxverstappen.bsky.social/post/3n26ypli5pk2i",
+      "createdAt": "2026-11-13T12:35:51.175000+00:00",
+      "rawScore": 0.4223328085186117,
+      "relevanceScore": 0.46132859089370337,
+      "suggestedRadius": 76.75,
+      "imageUrl": "assets/images/bsky_3n26ypli5pk2i_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n26ypli5pk2i_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pr",
+      "sources": [
+        {
+          "title": "Vai ter um carro de F1 em Curitiba 😍 É da Cadillac 😒",
+          "url": "https://bsky.app/profile/marxverstappen.bsky.social/post/3n26ypli5pk2i",
+          "subreddit": "bsky_pr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Curitiba receber um carro de F1 é uma oportunidade rara para os fãs da região verem de perto um monoposto, mesmo que seja da Cadillac. A cidade ganha visibilidade e o público local tem contato com a categoria.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A Cadillac não tem tradição na F1 e ver um carro dela em Curitiba não empolga como seria com uma equipe histórica. A expectativa era de algo mais relevante, e o evento acaba soando como uma ação de marketing.",
+          "source": "sintese",
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A credibilidade do STF e da Justiça só será restaurada quando Moro e Dallagnol forem presos, pois a percepção é de que as instituições não tratam todos de forma igual.",
+          "text": "A vinda do carro da Cadillac a Curitiba pode ser interessante para quem nunca viu um F1 de perto, mas também levanta dúvidas sobre o propósito da ação e se haverá outras oportunidades com equipes mais tradicionais.",
           "source": "sintese",
-          "evidence": [
-            4
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -254,17 +191,17 @@
     },
     {
       "id": "bsky_3n22igjbw7225",
-      "rank": 5,
+      "rank": 4,
       "title": "Se fosse Lula, recusaria liberar verba ao Paraná até Moro pedir desculpas",
-      "label": "Verbas federais ao Paraná · Retaliação a Moro",
-      "context": "Um post no Bluesky defende que o presidente Lula se recuse a liberar verbas federais para o Paraná enquanto o senador Sergio Moro não pedir desculpas. A proposta surge em meio a críticas à atuação de Moro e de políticos paranaenses, e levanta a discussão sobre o uso de recursos federais como instrumento de pressão política.",
+      "label": "Verbas federais ao Paraná · condicionadas a desculpas de Mor",
+      "context": "Um post viral defende que o presidente Lula condicione a liberação de verbas federais ao Paraná a um pedido de desculpas do senador Sergio Moro. A discussão mistura a insatisfação com Moro e a crítica à dependência de recursos federais por estados governados pela oposição.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
       "permalink": "https://bsky.app/profile/tubazef.com/post/3n22igjbw7225",
       "createdAt": "2026-11-11T17:33:47.472000+00:00",
-      "rawScore": 0.3143769852946179,
-      "relevanceScore": 0.5114114321542944,
-      "suggestedRadius": 78.91,
+      "rawScore": 0.1450643728050656,
+      "relevanceScore": 0.32738767608294256,
+      "suggestedRadius": 70.33,
       "imageUrl": "assets/images/bsky_3n22igjbw7225_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n22igjbw7225_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -290,18 +227,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Moro já mostrou que não tem compromisso com o Paraná: se depender dele, o estado fica sem verba e sem solução. Recusar repasses até que ele se retrate é uma forma de obrigar quem foi eleito a assumir responsabilidade pelo que faz.",
+          "text": "Moro já ignora o governo federal e deixa o estado às traças por conta própria, então condicionar verba a um pedido de desculpas é uma forma de expor essa postura. Se ele não colabora, não faz sentido o Paraná receber recursos sem nenhuma contrapartida.",
           "source": "sintese",
           "evidence": [
-            1,
-            3
+            1
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Condicionar verba federal a desculpas de um senador é punir a população por causa de vaidade política. O Paraná paga impostos como qualquer estado e tem direito aos repasses, independentemente de quem é governador ou senador.",
+          "text": "O Paraná elege governador e prefeito de extrema direita que pioram tudo, mas a culpa nunca é deles: sempre sobra para o governo federal do PT, mesmo quando não estava no poder. Condicionar verba a desculpas só alimenta esse ciclo de vitimização.",
           "source": "sintese",
           "evidence": [
             2,
@@ -312,10 +248,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O problema é que o Paraná vive um ciclo de eleger governador e prefeito de extrema direita que só piora os serviços, e depois culpa o governo federal. Sem mudar a forma de votar, qualquer bloqueio de verba vira só mais um capítulo dessa briga.",
+          "text": "Como paranaense morando em Santa Catarina, vejo tempos sombrios vindo para Curitiba, e não é só por causa do Moro. O caso das escolas do 6º ao 9º ano mostra que a crise local tem raízes próprias, independentemente de verba federal.",
           "source": "sintese",
           "evidence": [
-            2,
             5
           ],
           "votes": 0
@@ -325,26 +260,31 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n25rgunbmk2d",
-      "rank": 6,
-      "title": "Paul \"Rompe Culos do Ji-Paraná\" Richard",
-      "label": "Apelido viral de Paul Richard",
-      "context": "O nome \"Paul 'Rompe Culos do Ji-Paraná' Richard\" circula como apelido atribuído ao lutador Paul Richard, associando-o à cidade de Ji-Paraná. O apelido viralizou nas redes e virou assunto entre usuários, que reagem ao tom informal e à referência local.",
+      "id": "bsky_3n24ckdvh522n",
+      "rank": 5,
+      "title": "Justiça só será feita quando Marreco e Dallagnol forem presos",
+      "label": "Críticas a Moro e Dallagnol · Curitiba",
+      "context": "Posts no Bluesky criticam o ex-juiz Sergio Moro, chamado de 'Marreco de Curitiba', e o ex-procurador Deltan Dallagnol, pedindo que ambos sejam presos. A crítica também menciona a eleição de Moro para o governo do Paraná como resultado da cumplicidade de quem votou nele.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/dududaro.bsky.social/post/3n25rgunbmk2d",
-      "createdAt": "2026-11-13T00:53:02.472000+00:00",
-      "rawScore": 0.41196023561475303,
-      "relevanceScore": 0.4455341481168184,
-      "suggestedRadius": 76.05,
-      "imageUrl": "assets/images/bsky_3n25rgunbmk2d_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n25rgunbmk2d_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/clavedosul.bsky.social/post/3n24ckdvh522n",
+      "createdAt": "2026-11-12T10:53:55.981000+00:00",
+      "rawScore": 0.17209198546221183,
+      "relevanceScore": 0.29190009066514194,
+      "suggestedRadius": 68.42,
+      "imageUrl": "assets/images/bsky_3n24ckdvh522n_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24ckdvh522n_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pr",
       "sources": [
         {
-          "title": "Paul \"Rompe Culos do Ji-Paraná\" Richard",
-          "url": "https://bsky.app/profile/dududaro.bsky.social/post/3n25rgunbmk2d",
+          "title": "Ótimo Di@, JM E o ladrão é o Marreco de Curitiba",
+          "url": "https://bsky.app/profile/clavedosul.bsky.social/post/3n24ckdvh522n",
+          "subreddit": "bsky_pr"
+        },
+        {
+          "title": "...ORCRIM da Republiqueta de Curitiba. FALTA A \"CADEIA\" PARA O MARRECO.",
+          "url": "https://bsky.app/profile/marcianobrito.bsky.social/post/3n23e4png5s24",
           "subreddit": "bsky_pr"
         }
       ],
@@ -352,7 +292,73 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O apelido pegou porque é memorável e engraçado, do jeito que a internet brasileira gosta. Associar o lutador a Ji-Paraná ainda dá visibilidade a uma cidade que quase nunca aparece no noticiário nacional.",
+          "text": "A eleição de Moro para o governo do Paraná mostra que a população não liga para os escândalos da Lava Jato. Quem foi condenado e depois absolvido tem o direito de seguir carreira política, e o eleitor paranaense soube separar as coisas.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Moro e Dallagnol deveriam estar presos, não ocupando cargos públicos. A impunidade é total: o ex-juiz que condenou sem provas agora governa um estado, e o ex-procurador que o ajudou segue livre. A justiça só será feita quando ambos forem para a cadeia.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            4
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A credibilidade do STF e da Lava Jato está tão arranhada que só volta quando Moro e Dallagnol forem presos. Enquanto isso, a população fica sem saber em quem confiar, e a política do Paraná segue contaminada por esse passado.",
+          "source": "sintese",
+          "evidence": [
+            4
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n25f5enw4k2h",
+      "rank": 6,
+      "title": "É pedir demais um trem Curitiba–São Paulo na gestão Lula 4?",
+      "label": "Trem Curitiba–São Paulo · Expectativa",
+      "context": "Um usuário do Bluesky questiona se é pedir demais ter um trem ligando Curitiba a São Paulo na gestão Lula 4. A pergunta expressa ceticismo sobre a viabilidade de uma ferrovia entre as duas capitais.",
+      "source": "bluesky",
+      "subreddit": "bsky_pr",
+      "permalink": "https://bsky.app/profile/hetthepumpking.bsky.social/post/3n25f5enw4k2h",
+      "createdAt": "2026-11-12T21:12:58.877000+00:00",
+      "rawScore": 0.13876798573600746,
+      "relevanceScore": 0.25432018940815604,
+      "suggestedRadius": 66.26,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pr",
+      "sources": [
+        {
+          "title": "É pedir demais um trem Curitiba - São Paulo na gestão Lula 4 meu deus??? (provavelmente)",
+          "url": "https://bsky.app/profile/hetthepumpking.bsky.social/post/3n25f5enw4k2h",
+          "subreddit": "bsky_pr"
+        },
+        {
+          "title": "Cabe agora ao Lula processar a quadrilha de Curitiba e tirar até as chinelas desses vagabundos.",
+          "url": "https://bsky.app/profile/sanzionovisk.bsky.social/post/3mzymmgg2ls2g",
+          "subreddit": "bsky_pr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Um trem entre Curitiba e São Paulo seria uma revolução para quem viaja entre as duas capitais, e o governo Lula tem dado sinais de que quer investir em ferrovias. Se não for agora, com um governo que prioriza infraestrutura, quando será?",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -360,7 +366,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Apelido assim desrespeita o atleta e transforma a carreira dele em piada. Paul Richard é lutador profissional e merece ser tratado pelo nome, não por um bordão vulgar que só serve para render meme.",
+          "text": "Pedir um trem Curitiba–São Paulo na gestão Lula 4 é ignorar a realidade fiscal e os gargalos históricos do transporte ferroviário no Brasil. O governo já tem agenda cheia e não há projeto concreto para essa ligação, então essa cobrança soa como fantasia.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -368,7 +374,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O apelido é só uma brincadeira de internet e não diz nada sobre o desempenho do Paul Richard no esporte. Vale separar a zoeira das redes da carreira dele, que segue sendo avaliada pelas lutas e não pelo nome que viralizou.",
+          "text": "A ideia de um trem Curitiba–São Paulo é boa, mas depende de estudos de viabilidade, parcerias e financiamento que ainda não existem. Sem um plano detalhado, fica difícil saber se é promessa ou possibilidade real.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -378,18 +384,130 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n24geolxf224",
+      "id": "bsky_3n25uqg45zs2s",
       "rank": 7,
+      "title": "Podcast Paraná Faz Ciência estreia edição 14 com programação cultural",
+      "label": "Podcast Paraná Faz Ciência · Edição 14",
+      "context": "O podcast Paraná Faz Ciência estreou sua 14ª edição com uma convidada ligada à área cultural da universidade. A edição aborda a programação cultural do projeto e a atuação desse setor na extensão universitária.",
+      "source": "bluesky",
+      "subreddit": "bsky_pr",
+      "permalink": "https://bsky.app/profile/giordanalube.bsky.social/post/3n25uqg45zs2s",
+      "createdAt": "2026-11-13T01:52:10.073000+00:00",
+      "rawScore": 0.21544913790444703,
+      "relevanceScore": 0.22802322607432113,
+      "suggestedRadius": 64.65,
+      "imageUrl": "assets/images/bsky_3n25uqg45zs2s_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n25uqg45zs2s_reddit_thumb.jpg",
+      "category": "ciencia",
+      "region": "br-pr",
+      "sources": [
+        {
+          "title": "*Estamos no ar* _Podcast Unioverso_ Podcast Paraná faz Ciência #Edição 14 - Programação cultural do Paraná Faz Ciência Convidada: Giordana Galvam Lube - Professora, Maestrina e responsável pelo setor de Atividades Culturais da Pró-Reitoria de Extensão (PROEX) www.youtube.com/live/z2K54OR...",
+          "url": "https://bsky.app/profile/giordanalube.bsky.social/post/3n25uqg45zs2s",
+          "subreddit": "bsky_pr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A escolha de uma maestrina e professora para falar da programação cultural do Paraná Faz Ciência mostra como a extensão universitária pode unir arte e ciência. É o tipo de conteúdo que aproxima a universidade do público e valoriza quem faz cultura dentro da academia.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Um podcast sobre programação cultural de um projeto de extensão acaba ficando restrito a quem já participa do meio acadêmico. Falta divulgação mais ampla e uma linguagem que alcance quem está fora da universidade, senão o debate não sai da bolha.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A edição 14 do podcast cumpre o papel de registrar a programação cultural do Paraná Faz Ciência, mas o formato de entrevista com uma convidada ligada à gestão cultural pode limitar a diversidade de vozes. Seria interessante ouvir também artistas e participantes das atividades.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n25d7p2dm22g",
+      "rank": 8,
+      "title": "Alguém de Curitiba para falar da lenda urbana do Motoqueiro do Ácido?",
+      "label": "Lenda urbana · Motoqueiro do Ácido em Curitiba",
+      "context": "Uma pessoa no Bluesky disse ter descoberto agora a lenda urbana do Motoqueiro do Ácido, em Curitiba, e pediu relatos de moradores da cidade. Nos comentários, a história foi associada a um casal vindo do Nordeste e a uma suposta vingança contra loiras, mas foi tratada como uma lenda fraca e pouco duradoura.",
+      "source": "bluesky",
+      "subreddit": "bsky_pr",
+      "permalink": "https://bsky.app/profile/garagisaloon.com.br/post/3n25d7p2dm22g",
+      "createdAt": "2026-11-12T20:40:17.077000+00:00",
+      "rawScore": 0.1932416348641131,
+      "relevanceScore": 0.20297954049405423,
+      "suggestedRadius": 63.03,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pr",
+      "sources": [
+        {
+          "title": "Alguém de Curitiba pra me falar da lenda urbana do MOTOQUEIRO DO ÁCIDO???? Impactado q descobri sobre isso agora huahua",
+          "url": "https://bsky.app/profile/garagisaloon.com.br/post/3n25d7p2dm22g",
+          "subreddit": "bsky_pr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A lenda do Motoqueiro do Ácido é divertida justamente por ser exagerada e absurda, com essa história de vingança contra loiras que só podia existir no imaginário popular. Vale mais como folclore urbano de Curitiba do que como fato, e é isso que a torna memorável.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa história do Motoqueiro do Ácido é fraca demais, não durou nem um ano de repercussão e não se compara a lendas como a da Loira do Banheiro. Ficar repetindo esse tipo de boato só serve para assustar à toa e não tem graça nenhuma.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O Motoqueiro do Ácido parece mais uma variação de lenda urbana que circula em versões diferentes, como a do casal nordestino e a suposta vingança. Sem registros concretos, fica difícil saber o que é invenção e o que virou folclore com o tempo.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n24geolxf224",
+      "rank": 9,
       "title": "Não foi para a cadeia e ganhou de presente o governo do Paraná",
       "label": "Governo do Paraná · Crítica à eleição",
-      "context": "Um post no Bluesky afirma que uma pessoa não foi para a cadeia e ganhou o governo do Paraná como presente. A publicação gerou comentários que criticam a eleição e a cumplicidade de quem votou.",
+      "context": "Um post no Bluesky afirma que uma pessoa não foi presa e ainda assim recebeu o governo do Paraná como presente. A publicação gerou comentários que questionam a responsabilidade de quem a elegeu.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
       "permalink": "https://bsky.app/profile/clavedosul.bsky.social/post/3n24geolxf224",
       "createdAt": "2026-11-12T12:02:20.178000+00:00",
-      "rawScore": 0.24199407802667705,
-      "relevanceScore": 0.3698658924865311,
-      "suggestedRadius": 72.49,
+      "rawScore": 0.08332621923580297,
+      "relevanceScore": 0.19179779930766055,
+      "suggestedRadius": 62.28,
       "imageUrl": "assets/images/bsky_3n24geolxf224_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n24geolxf224_uns_thumb.jpg",
       "category": "geopolitica",
@@ -410,7 +528,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O fato de não ter ido para a cadeia e ainda assim conquistar o governo do Paraná mostra que a justiça falhou e que a política brasileira premia quem deveria ser punido. É um absurdo que alguém assim chegue ao poder.",
+          "text": "O fato de não ter ido para a cadeia e mesmo assim conquistar o governo do Paraná mostra que a justiça falhou ou que a política permite essas reviravoltas. É um presente para quem não deveria estar no poder.",
           "source": "sintese",
           "evidence": [
             1
@@ -420,7 +538,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A eleição de alguém que não foi para a cadeia para o governo do Paraná só foi possível pela cumplicidade de quem votou nele. O eleitor que escolheu esse candidato é tão responsável quanto ele pelo desgoverno que virá.",
+          "text": "Quem elegeu essa pessoa é tão responsável quanto ela. O 'desgoverno' do Paraná só aconteceu porque teve cumplicidade de eleitores que ignoraram os sinais. A crítica deve ser direcionada também a quem votou.",
           "source": "sintese",
           "evidence": [
             1
@@ -430,7 +548,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A menção de que ele tentará o governo do Paraná em 2030 indica que o assunto pode ser uma projeção política de longo prazo, e não um fato consumado. É preciso cautela antes de tratar a situação como definitiva.",
+          "text": "A situação é complexa: por um lado, a impunidade é preocupante; por outro, a eleição foi democrática. É preciso analisar se houve falha judicial ou se a população escolheu conscientemente, e isso gera debate sobre responsabilidade compartilhada.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -441,17 +559,17 @@
     },
     {
       "id": "bsky_3mzw5vhkays2n",
-      "rank": 8,
-      "title": "Juíza Gabriela Hardt é reintegrada à magistratura por decisão de Fux, do STF",
-      "label": "Reintegração de Gabriela Hardt · STF",
+      "rank": 10,
+      "title": "Juíza Gabriela Hardt é reintegrada à magistratura por decisão de Fux no STF",
+      "label": "Reintegração de Gabriela Hardt pelo STF",
       "context": "A juíza federal Gabriela Hardt, que sucedeu Sérgio Moro na 13ª Vara Federal Criminal de Curitiba, foi reintegrada à magistratura por decisão do ministro Luiz Fux, do Supremo Tribunal Federal. Hardt havia sido afastada por dois anos pelo Conselho Nacional de Justiça (CNJ) por ter autorizado o redirecionamento de R$ 2,5 bilhões para a criação de uma fundação privada ligada a procuradores da Operação Lava Jato.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
       "permalink": "https://bsky.app/profile/nandabel23.bsky.social/post/3mzw5vhkays2n",
       "createdAt": "2026-11-10T00:14:39.484000+00:00",
-      "rawScore": 0.14261912583158898,
-      "relevanceScore": 0.2623920859325605,
-      "suggestedRadius": 66.73,
+      "rawScore": 0.06946635786683175,
+      "relevanceScore": 0.17616785614474909,
+      "suggestedRadius": 61.18,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -472,18 +590,18 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A reintegração de Hardt corrige uma punição que nunca deveria ter acontecido. O CNJ a afastou por autorizar um acordo que destinava multas da Petrobras a uma fundação de procuradores, mas ela apenas homologou um compromisso já firmado entre MPF, Petrobras e autoridades dos EUA. Não houve desvio de conduta, e sim cumpri",
+          "text": "A reintegração de Gabriela Hardt é uma correção necessária. O afastamento por dois anos foi uma punição excessiva por uma decisão que ela tomou dentro de suas atribuições como juíza, homologando um acordo que previa a criação de uma fundação para administrar recursos de multas. O CNJ não deveria ter interferido dessa f",
           "source": "sintese",
           "evidence": [
-            2,
-            3
+            1,
+            2
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Hardt foi afastada pelo CNJ por autorizar o desvio de R$ 2,5 bilhões que deveriam ir aos cofres públicos para uma fundação privada ligada a procuradores da Lava Jato. A decisão de Fux passa por cima dessa apuração e devolve ao cargo uma juíza que participou de um esquema criticado pelo próprio Conselho. Reintegrar sem ",
+          "text": "A volta de Gabriela Hardt à magistratura é preocupante. Ela foi afastada pelo CNJ por autorizar o desvio de R$ 2,5 bilhões que deveriam ir aos cofres públicos para uma fundação privada ligada a procuradores da Lava Jato. Reintegrá-la sem que haja uma punição proporcional passa a mensagem de que juízes podem agir com im",
           "source": "sintese",
           "evidence": [
             1,
@@ -494,117 +612,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A reintegração de Hardt expõe a confusão sobre o papel da Vara de Curitiba: ela foi afastada por um acordo que envolvia recursos da Lava Jato, mas o CNJ e o STF dão sinais trocados sobre os limites da atuação. O caso mostra que a discussão sobre a destinação dos R$ 2,5 bilhões e a responsabilidade dos magistrados ainda",
+          "text": "A decisão de Fux de reintegrar Hardt levanta uma questão sobre os limites da atuação do CNJ e do STF. O caso envolve uma disputa entre órgãos de controle sobre quem pode punir magistrados, e a reintegração pode ser vista tanto como uma correção de excesso quanto como um precedente que enfraquece a fiscalização.",
           "source": "sintese",
           "evidence": [
             4
           ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n24hoznkoc2o",
-      "rank": 9,
-      "title": "7, porque todos nós sofremos por um Sérgio (o Paraná sofrerá um pouco mais a partir de agora).",
-      "label": "Sérgio e o sofrimento do Paraná",
-      "context": "Um post publicado no Bluesky em 12 de novembro de 2026 afirma que \"todos nós sofremos por um Sérgio\" e que o Paraná sofrerá um pouco mais a partir de agora. O texto não detalha quem é Sérgio nem o motivo do sofrimento, funcionando como uma piada interna ou referência cifrada.",
-      "source": "bluesky",
-      "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/marciovianna.bsky.social/post/3n24hoznkoc2o",
-      "createdAt": "2026-11-12T12:26:00.571000+00:00",
-      "rawScore": 0.2335646315490872,
-      "relevanceScore": 0.2525996689757076,
-      "suggestedRadius": 66.16,
-      "imageUrl": "assets/images/bsky_3n24hoznkoc2o_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n24hoznkoc2o_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pr",
-      "sources": [
-        {
-          "title": "7, porque todos nós sofremos por um Sérgio (o Paraná sofrerá um pouco mais a partir de agora).",
-          "url": "https://bsky.app/profile/marciovianna.bsky.social/post/3n24hoznkoc2o",
-          "subreddit": "bsky_pr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O post acerta em cheio ao brincar com o sofrimento coletivo por um Sérgio e ainda alfinetar o Paraná. É humor leve, sem alvo claro, e funciona justamente por não explicar nada — quem entendeu, riu junto.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Falar que o Paraná vai sofrer mais sem dar contexto nenhum é gratuito. O post aposta em uma piada interna que ninguém fora da bolha entende e ainda joga a culpa de um Sérgio genérico em cima de um estado inteiro.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Sem saber quem é Sérgio e qual é a história por trás, fica difícil dizer se é engraçado ou só confuso. O post parece referência a algo que só quem acompanha aquele círculo entende, e o Paraná entra mais como detalhe do que como assunto.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzylb36q522z",
-      "rank": 10,
-      "title": "Turista sequestrado após encontro por aplicativo em Foz do Iguaçu é levado ao Paraguai e fica refém por 8 horas",
-      "label": "Sequestro de turista na fronteira com o Paraguai",
-      "context": "Um turista marcou um encontro por aplicativo em Foz do Iguaçu (PR) e foi sequestrado, levado de barco para o Paraguai, onde ficou refém por cerca de oito horas e foi obrigado a fazer transferências bancárias de aproximadamente R$ 150 mil. O caso ocorre na região de fronteira e levanta discussões sobre a segurança de encontros marcados por aplicativos e sobre a atuação do crime organizado na área.",
-      "source": "bluesky",
-      "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/nandabel23.bsky.social/post/3mzylb36q522z",
-      "createdAt": "2026-11-10T23:19:08.580000+00:00",
-      "rawScore": 0.22416916877182244,
-      "relevanceScore": 0.24243849529255998,
-      "suggestedRadius": 65.54,
-      "imageUrl": "assets/images/bsky_3mzylb36q522z_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzylb36q522z_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pr",
-      "sources": [
-        {
-          "title": "Mas juraram que no Paraguai não tinha violência! Um turista foi vítima de sequestro após marcar um encontro por aplicativo em Foz do Iguaçu (PR) e levado de barco para o Paraguai. Lá ficou refém por cerca de oito horas e obrigado a fazer transferências bancárias de cerca de R$ 150 mil.",
-          "url": "https://bsky.app/profile/nandabel23.bsky.social/post/3mzylb36q522z",
-          "subreddit": "bsky_pr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A polícia e as autoridades precisam agir rápido para prender esses criminosos e evitar que outros turistas passem pelo mesmo trauma. Casos assim mostram que a fronteira é rota fácil para sequestros e extorsões, e a resposta tem que ser firme.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Marcar encontro por aplicativo com desconhecidos já é um risco enorme, ainda mais em cidade de fronteira. As pessoas precisam ter mais cuidado e desconfiar de perfis que não conhecem, porque a armadilha pode estar justamente no primeiro encontro.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O caso serve de alerta para quem usa aplicativos de relacionamento, mas também escancara a falta de controle na fronteira. Não dá para culpar só a vítima: é preciso cobrar das autoridades mais fiscalização e inteligência para desarticular esses grupos.",
-          "source": "sintese",
-          "evidence": [],
           "votes": 0
         }
       ],
