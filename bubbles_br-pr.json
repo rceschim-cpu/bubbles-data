@@ -1,21 +1,84 @@
 {
-  "generatedAt": "2026-11-14T05:38:24.414303+00:00",
+  "generatedAt": "2026-11-14T17:53:05.010538+00:00",
   "region": "br-pr",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n27wmd6ffc26",
+      "id": "bsky_3n2btx7ng5c2e",
       "rank": 1,
+      "title": "bodinho loiro informa que acabou o frio na muralha Paraná/São Paulo, em breve vamos reclamar do calor",
+      "label": "Fim do frio no Sul e Sudeste",
+      "context": "O perfil bodinho loiro publicou que o frio acabou na região que chama de muralha Paraná/São Paulo e que em breve as pessoas vão reclamar do calor. A mudança de temperatura marca a transição para dias mais quentes nessas áreas.",
+      "source": "bluesky",
+      "subreddit": "bsky_pr",
+      "permalink": "https://bsky.app/profile/bodinholoiro.bsky.social/post/3n2btx7ng5c2e",
+      "createdAt": "2026-11-14T15:48:39.349000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n2btx7ng5c2e_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2btx7ng5c2e_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pr",
+      "sources": [
+        {
+          "title": "bodinho loiro informa que acabou o frio na muralha Paraná/São Paulo, em breve vamos ficar reclamando do calor",
+          "url": "https://bsky.app/profile/bodinholoiro.bsky.social/post/3n2btx7ng5c2e",
+          "subreddit": "bsky_pr"
+        },
+        {
+          "title": "seguinte vamos alugar um chalé no interior do Paraná e todo mundo dá a bunda",
+          "url": "https://bsky.app/profile/daszin.bsky.social/post/3mzysj77srk22",
+          "subreddit": "bsky_pr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A chegada do calor é bem-vinda depois de tanto frio, e a galera já pode planejar programas ao ar livre sem tremer. O aviso do bodinho loiro é um alívio para quem estava cansado de agasalho.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Reclamar do calor não resolve, e o comentário sobre o Paraná mostra que tem gente que não gosta da ideia de ir para lá. O fim do frio pode trazer desconforto e não é motivo de comemoração para todos.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A transição de temperatura sempre gera comentários, e o convite para o chalé no interior do Paraná mostra que o pessoal está pensando em formas de aproveitar o clima. Cada um reage de um jeito.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27wmd6ffc26",
+      "rank": 2,
       "title": "Orquestra Popular Camponesa toca Beethoven no Paraná Faz Ciência",
-      "label": "Música e ciência no Paraná Faz Ciência",
-      "context": "A Orquestra Popular Camponesa se apresentou no Paraná Faz Ciência, evento de divulgação científica do estado, tocando uma peça de Beethoven. A apresentação foi transmitida ao vivo e divulgada nas redes sociais da PROEX/Unioeste.",
+      "label": "Orquestra Camponesa · Beethoven no Paraná Faz Ciência",
+      "context": "A Orquestra Popular Camponesa se apresentou no Paraná Faz Ciência, evento de divulgação científica, tocando Beethoven, com transmissão ao vivo pelo Instagram da PROEX/Unioeste. A apresentação integra a programação cultural do evento, que também foi tema de um podcast da universidade.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
       "permalink": "https://bsky.app/profile/giordanalube.bsky.social/post/3n27wmd6ffc26",
       "createdAt": "2026-11-13T21:30:56.975000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.34529372252929674,
+      "relevanceScore": 0.4452937225292968,
+      "suggestedRadius": 76.04,
       "imageUrl": "assets/images/bsky_3n27wmd6ffc26_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27wmd6ffc26_reddit_thumb.jpg",
       "category": "ciencia",
@@ -36,7 +99,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Orquestra Popular Camponesa mostra que ciência e cultura caminham juntas, e ver Beethoven sendo tocado num evento de divulgação científica é um orgulho para o Paraná. Trabalho lindo, como sempre.",
+          "text": "A Orquestra Popular Camponesa mostra que música clássica pode ocupar qualquer espaço, inclusive um evento de ciência. Ver esses músicos tocando Beethoven com tanto capricho é um orgulho e merece todos os aplausos.",
           "source": "sintese",
           "evidence": [
             1,
@@ -47,7 +110,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A qualidade da transmissão deixou a desejar: imagem ruim e áudio comprometido atrapalham quem quer acompanhar a apresentação. O evento merecia um cuidado técnico maior para valorizar os músicos.",
+          "text": "A transmissão ao vivo com imagem ruim atrapalha quem quer acompanhar a apresentação. Um evento desse porte deveria garantir qualidade técnica para o público que assiste de casa, senão o esforço da orquestra fica prejudicado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -55,7 +118,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A iniciativa de levar música ao evento é válida, mas o registro disponível ainda é limitado. Quem não estava presente depende de um vídeo com falhas para conhecer o trabalho da orquestra.",
+          "text": "A apresentação da Orquestra Popular Camponesa no Paraná Faz Ciência é elogiável, mas o registro disponível tem qualidade de imagem ruim. Quem quiser ver o original precisa recorrer ao Instagram da PROEX, o que limita o alcance.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -66,17 +129,17 @@
     },
     {
       "id": "bsky_3n2757ra57c2p",
-      "rank": 2,
+      "rank": 3,
       "title": "Justiça manda remover posts de Curitiba",
-      "label": "Curitiba · Remoção de posts por ordem judicial",
-      "context": "A Justiça determinou a remoção de publicações atribuídas a uma pessoa de Curitiba, segundo o link compartilhado no post. A decisão gerou reações sobre a eficácia de punir apenas apagando conteúdos e sobre o alcance da medida.",
+      "label": "Justiça manda apagar posts · Curitiba",
+      "context": "A Justiça determinou a remoção de publicações atribuídas a uma pessoa em Curitiba, segundo o post compartilhado no Bluesky. A decisão gerou reações sobre se apagar conteúdo é punição suficiente ou apenas incentiva novas postagens.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
       "permalink": "https://bsky.app/profile/taniarivera.bsky.social/post/3n2757ra57c2p",
       "createdAt": "2026-11-13T13:56:30.677000+00:00",
-      "rawScore": 0.8179357810649157,
-      "relevanceScore": 0.8179357810649157,
-      "suggestedRadius": 90.26,
+      "rawScore": 0.39905149267717954,
+      "relevanceScore": 0.39905149267717954,
+      "suggestedRadius": 73.9,
       "imageUrl": "assets/images/bsky_3n2757ra57c2p_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2757ra57c2p_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -92,32 +155,32 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Justiça acertou em mandar apagar os posts: conteúdo covarde não pode ficar no ar impune. Se a lei só permite remoção, já é um recado de que esse tipo de ataque tem consequência, mesmo que tardia.",
+          "text": "Apagar posts não pune ninguém de verdade. A pessoa continua postando sabendo que a consequência máxima é deletar o conteúdo, então a decisão judicial acaba virando incentivo para repetir.",
           "source": "sintese",
           "evidence": [
-            5
+            2
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Apagar post não pune ninguém de verdade, só incentiva a repetir sabendo que nada acontece além da remoção. Sem indenização ou outra sanção, a decisão vira teatro e o autor continua rindo.",
+          "text": "A aparência e o olhar dessa gente da extrema direita são estranhos, e a carinha de quem merece soco é fascinante. Enquanto o mundo se derrete com o Lula, esses só sujam a aura do país.",
           "source": "sintese",
           "evidence": [
-            2,
-            5
+            1,
+            3,
+            4
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Curitiba seguir o mesmo caminho de São Paulo nesse tipo de episódio preocupa, mas o foco deveria ser o teor do que foi publicado e a resposta judicial, não a aparência de quem escreveu.",
+          "text": "A pergunta que fica é de quanto vai ser a indenização por esse ato covarde. Curitiba está seguindo o mesmo mal caminho de São Paulo, e a decisão de apagar posts ainda não diz qual é o valor da reparação.",
           "source": "sintese",
           "evidence": [
-            1,
-            3,
+            5,
             6
           ],
           "votes": 0
@@ -127,73 +190,20 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n27sqt4sxc22",
-      "rank": 3,
-      "title": "Campanha de US$100 mil para o Senado é eleita sem jingle de IA",
-      "label": "Campanha barata elege senador nos EUA",
-      "context": "Uma campanha para o Senado dos Estados Unidos foi eleita com orçamento total em torno de US$100 mil, sem jingle de IA e com apenas 3 atores. O valor é menor que a média de campanhas de vereador em cidades brasileiras como Juiz de Fora e Curitiba, segundo a publicação.",
-      "source": "bluesky",
-      "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/joanna.news/post/3n27sqt4sxc22",
-      "createdAt": "2026-11-13T20:21:50.271000+00:00",
-      "rawScore": 0.6307800949876204,
-      "relevanceScore": 0.6307800949876204,
-      "suggestedRadius": 83.65,
-      "imageUrl": "assets/images/bsky_3n27sqt4sxc22_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27sqt4sxc22_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pr",
-      "sources": [
-        {
-          "title": "sem jingle tosco de IA, 3 atores, orçamento total da campanha para o senado girando em torno de US$100k (menos que a média de uma campanha de vereador em cidades como Juiz de Fora ou Curitiba por exemplo) - eleito",
-          "url": "https://bsky.app/profile/joanna.news/post/3n27sqt4sxc22",
-          "subreddit": "bsky_pr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Uma campanha de US$100 mil para o Senado mostra que dá para vencer sem gastar milhões nem apelar para jingle de IA. O eleitor respondeu a uma campanha enxuta, com 3 atores e orçamento menor que o de vereador em cidades brasileiras.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Orçamento de US$100 mil para o Senado não é prova de virtude: pode significar que a campanha não teve estrutura para alcançar o eleitorado. Comparar com verba de vereador no Brasil ignora as diferenças de custo e de alcance entre as duas disputas.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O caso interessa menos pelo valor e mais pelo que ele diz sobre o peso do dinheiro: uma campanha de US$100 mil eleger um senador depende do distrito, do nome e do contexto local. Sem esses dados, a comparação com Juiz de Fora ou Curitiba fica só no exemplo.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3n234bm3yp22o",
       "rank": 4,
-      "title": "Moro é eleito governador do Paraná e gera críticas nas redes",
+      "title": "Moro é eleito governador do Paraná e críticos reagem",
       "label": "Moro governador · Reação nas redes",
-      "context": "Sergio Moro foi eleito governador do Paraná, segundo posts publicados no Bluesky em novembro de 2026. A eleição gerou críticas de usuários que citam a atuação dele como juiz no caso que prendeu Lula por 580 dias.",
+      "context": "O ex-juiz Sergio Moro foi eleito governador do Paraná, segundo posts que comentam o resultado. A eleição dele é criticada por quem o responsabiliza pela prisão de Lula por 580 dias e por quem prevê uma gestão ruim no estado.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
       "permalink": "https://bsky.app/profile/hqsemroteiro.bsky.social/post/3n234bm3yp22o",
       "createdAt": "2026-11-11T23:28:58.481000+00:00",
-      "rawScore": 0.42518995680221244,
-      "relevanceScore": 0.5251899568022125,
-      "suggestedRadius": 79.48,
-      "imageUrl": "assets/images/bsky_3n234bm3yp22o_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n234bm3yp22o_wiki_thumb.jpg",
+      "rawScore": 0.2767397253624915,
+      "relevanceScore": 0.37673972536249145,
+      "suggestedRadius": 72.83,
+      "imageUrl": "assets/images/bsky_3n234bm3yp22o_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n234bm3yp22o_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pr",
       "sources": [
@@ -212,22 +222,23 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O julgamento que condenou Lula foi anulado por motivos políticos, e o Moro agora foi eleito governador do Paraná. Isso mostra que o eleitorado do estado reconhece o trabalho dele e rejeita a narrativa de perseguição.",
+          "text": "O julgamento que anulou a condenação de Lula foi político, e o próprio Moro, como ex-ministro da Justiça, admite isso. Se a anulação foi política, a eleição dele para o governo do Paraná mostra que o eleitor não engoliu a narrativa de perseguição.",
           "source": "sintese",
           "evidence": [
-            3,
-            5
+            2,
+            3
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A eleição do Moro é uma péssima notícia para o Paraná. Ele foi responsável por prender Lula por 580 dias por um triplex que nem era dele, e agora vai governar o estado com a mesma incompetência que demonstrou como juiz.",
+          "text": "O Paraná elegeu um governador que vai arruinar o estado com incompetência e ainda culpar o Lula por tudo. Quem votou nele vai pagar caro, e o pior é que muita gente nem vai perceber o tamanho do erro que cometeu.",
           "source": "sintese",
           "evidence": [
             1,
             2,
+            6,
             7
           ],
           "votes": 0
@@ -235,12 +246,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O povo do Paraná elegeu o Moro, então agora vai ter que lidar com as consequências. Se ele fizer um mau governo, a culpa é de quem votou nele, e talvez isso sirva de aprendizado para as próximas eleições.",
+          "text": "O Supremo sentou em cima da inelegibilidade dele e isso precisa ser lembrado. A eleição do Moro não apaga o fato de que a candidatura dele era contestada na Justiça, e esse detalhe fica de fora da discussão.",
           "source": "sintese",
           "evidence": [
-            6,
-            11,
-            13
+            5
           ],
           "votes": 0
         }
@@ -253,16 +262,16 @@
       "rank": 5,
       "title": "Moro é eleito governador do Paraná",
       "label": "Moro eleito governador do Paraná",
-      "context": "Sergio Moro foi eleito governador do Paraná, conforme relatado em posts de novembro de 2026. A eleição dele é comentada nas redes com surpresa e críticas à sua trajetória política e às alianças que deve formar no governo estadual.",
+      "context": "Sergio Moro foi eleito governador do Paraná, conforme posts de novembro de 2026. A eleição dele é comentada nas redes com críticas à sua trajetória política e à distribuição de cargos no governo estadual.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
       "permalink": "https://bsky.app/profile/undernunes.bsky.social/post/3n2754b37is2d",
       "createdAt": "2026-11-13T13:54:31.676000+00:00",
-      "rawScore": 0.21960163655208614,
-      "relevanceScore": 0.41960163655208615,
-      "suggestedRadius": 74.87,
-      "imageUrl": "assets/images/bsky_3n2754b37is2d_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2754b37is2d_wiki_thumb.jpg",
+      "rawScore": 0.09688432866841766,
+      "relevanceScore": 0.2968843286684177,
+      "suggestedRadius": 68.69,
+      "imageUrl": "assets/images/bsky_3n2754b37is2d_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2754b37is2d_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pr",
       "sources": [
@@ -286,20 +295,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Moro foi eleito e agora vai governar o Paraná. Quem votou nele esperava alguém com experiência de combate à corrupção, e é isso que ele representa para boa parte dos eleitores do estado.",
+          "text": "O Moro foi eleito e agora vai governar o Paraná. Quem votou nele sabia da trajetória dele e escolheu apostar nisso. A eleição é o momento de deixar o eleito trabalhar, e a cobrança vem depois, com resultados concretos.",
           "source": "sintese",
-          "evidence": [
-            4
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Moro já mostrou que troca de lado quando interessa. Os cargos mais importantes do governo do Paraná vão para indicados de fora, e quem apoiou a candidatura dele aqui fica esperando um carguinho que não vem.",
+          "text": "O Moro já mostrou que é rasteiro e sem escrúpulos, e mesmo assim virou governador. A trajetória política dele comprova que ele não é confiável nem para os próprios aliados. O Paraná vai pagar caro por essa escolha.",
           "source": "sintese",
           "evidence": [
-            1,
             2
           ],
           "votes": 0
@@ -307,12 +313,117 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O eleitor paranaense votou e o resultado está posto. Resta acompanhar se o governo dele vai priorizar o estado ou se vai repetir o que aconteceu em outros lugares, com indicações políticas e pouca entrega concreta.",
+          "text": "O Moro foi eleito, mas os cargos mais importantes do governo do Paraná devem ser ocupados por indicados do partido de São Paulo. Quem apoiou a candidatura dele aqui no estado esperava ganhar espaço e pode acabar sem nada.",
           "source": "sintese",
           "evidence": [
-            3,
-            4
+            1
           ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2bkfs3wss23",
+      "rank": 6,
+      "title": "Mostre quem realmente administra seu Bluesky",
+      "label": "Administração do Bluesky · Transparência",
+      "context": "Um post no Bluesky pede que usuários mostrem quem realmente administra a plataforma. A publicação questiona a transparência sobre quem está por trás da gestão da rede social.",
+      "source": "bluesky",
+      "subreddit": "bsky_pr",
+      "permalink": "https://bsky.app/profile/jaum.bsky.social/post/3n2bkfs3wss23",
+      "createdAt": "2026-11-14T12:57:50.442000+00:00",
+      "rawScore": 0.26848493226748626,
+      "relevanceScore": 0.26848493226748626,
+      "suggestedRadius": 67.09,
+      "imageUrl": "assets/images/bsky_3n2bkfs3wss23_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2bkfs3wss23_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pr",
+      "sources": [
+        {
+          "title": "mostre quem realmente administra seu blueskye",
+          "url": "https://bsky.app/profile/jaum.bsky.social/post/3n2bkfs3wss23",
+          "subreddit": "bsky_pr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Usuário tem o direito de saber quem administra a rede social que usa todo dia. Transparência sobre a gestão do Bluesky é o mínimo para confiar na plataforma e entender quem toma as decisões sobre o que aparece no feed.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Exigir que se mostre quem administra o Bluesky soa mais como desconfiança gratuita do que cobrança legítima. A plataforma já tem suas regras públicas, e transformar isso em campanha só cria clima de suspeita sem apontar nenhum problema concreto.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Saber quem administra o Bluesky é válido, mas o post não diz o que motivou a cobrança. Sem um caso concreto de decisão controversa ou de falta de informação, a discussão fica no ar e não avança para nada prático.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27sqt4sxc22",
+      "rank": 7,
+      "title": "Sem jingle de IA, 3 atores e orçamento de US$100 mil, ele é eleito",
+      "label": "Campanha barata · Eleição surpresa",
+      "context": "Uma campanha para o Senado foi eleita com orçamento total de cerca de US$100 mil, sem jingle tosco de IA e com apenas 3 atores. O valor é menor que a média de campanhas de vereador em cidades como Juiz de Fora e Curitiba, o que levanta discussão sobre o peso do dinheiro em eleições.",
+      "source": "bluesky",
+      "subreddit": "bsky_pr",
+      "permalink": "https://bsky.app/profile/joanna.news/post/3n27sqt4sxc22",
+      "createdAt": "2026-11-13T20:21:50.271000+00:00",
+      "rawScore": 0.2531512638105199,
+      "relevanceScore": 0.2531512638105199,
+      "suggestedRadius": 66.19,
+      "imageUrl": "assets/images/bsky_3n27sqt4sxc22_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27sqt4sxc22_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pr",
+      "sources": [
+        {
+          "title": "sem jingle tosco de IA, 3 atores, orçamento total da campanha para o senado girando em torno de US$100k (menos que a média de uma campanha de vereador em cidades como Juiz de Fora ou Curitiba por exemplo) - eleito",
+          "url": "https://bsky.app/profile/joanna.news/post/3n27sqt4sxc22",
+          "subreddit": "bsky_pr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Uma campanha de US$100 mil para o Senado, sem jingle de IA e com só 3 atores, mostra que é possível competir sem os milhões de sempre. O eleitor foi convencido pelo conteúdo e pela mensagem, não pelo volume de dinheiro.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Gastar menos que uma campanha de vereador em Juiz de Fora ou Curitiba e ainda assim se eleger para o Senado é suspeito. Alguém bancou essa campanha por fora, porque com US$100 mil não se paga nem a estrutura mínima de uma candidatura competitiva.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O caso serve para comparar: se uma campanha de Senado custou US$100 mil, o que explica os orçamentos milionários de outras candidaturas? Pode ser eficiência ou pode ser que o dinheiro oficial não conte a história toda. Faltam dados para saber.",
+          "source": "sintese",
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -321,19 +432,19 @@
     },
     {
       "id": "bsky_3n27yhgfkoc24",
-      "rank": 6,
-      "title": "Parabéns, Paraná: eleitores elegeram dois \"bandidos\", diz post",
-      "label": "Eleição no Paraná · Crítica a eleitos",
-      "context": "Um post no Bluesky atribui ao eleitorado do Paraná a responsabilidade por eleger dois \"bandidos\" na eleição. A publicação usa ironia ao parabenizar o estado e cobra os eleitores pelo resultado nas urnas.",
+      "rank": 8,
+      "title": "Paraná elegeu \"dois bandidos\" nesta eleição, diz post",
+      "label": "Eleição no Paraná · Crítica a eleitores",
+      "context": "Um post no Bluesky atribui ao eleitorado do Paraná a responsabilidade por ter eleito \"dois bandidos\" nesta eleição. A crítica aparece junto a outra publicação que cita uma vereadora do Paraná que teria amaldiçoado nordestinos por causa da eleição.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
       "permalink": "https://bsky.app/profile/belga.bsky.social/post/3n27yhgfkoc24",
       "createdAt": "2026-11-13T22:03:57.780000+00:00",
-      "rawScore": 0.4059664961726536,
-      "relevanceScore": 0.4059664961726536,
-      "suggestedRadius": 74.23,
-      "imageUrl": "assets/images/bsky_3n27yhgfkoc24_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27yhgfkoc24_wiki_thumb.jpg",
+      "rawScore": 0.15260068064169724,
+      "relevanceScore": 0.2526006806416973,
+      "suggestedRadius": 66.16,
+      "imageUrl": "assets/images/bsky_3n27yhgfkoc24_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27yhgfkoc24_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pr",
       "sources": [
@@ -341,58 +452,10 @@
           "title": "\"Parabéns\" Paraná... É disso que vocês são responsáveis. Vocês elegeram dois BANDIDOS nesta eleição!",
           "url": "https://bsky.app/profile/belga.bsky.social/post/3n27yhgfkoc24",
           "subreddit": "bsky_pr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O eleitor precisa assumir a responsabilidade pelo voto. Se o Paraná elegeu esses dois, é porque parte do eleitorado escolheu isso, e cobrar essa escolha é legítimo. Não dá para reclamar depois sem olhar para o que foi votado.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
         },
         {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Chamar de bandido quem foi eleito pelo voto é desrespeitar a decisão das urnas e generalizar todo um estado. O Paraná tem milhões de eleitores e não dá para culpar a população inteira por dois nomes. Esse tipo de post só aumenta o clima de hostilidade.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O post fala em dois bandidos, mas não diz quem são nem apresenta prova. Sem nomes e sem fatos, fica difícil avaliar a crítica. Cobrar o eleitor é válido, mas acusar sem identificar e sem embasamento vira só xingamento.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n26ypli5pk2i",
-      "rank": 7,
-      "title": "Vai ter um carro de F1 em Curitiba, mas é da Cadillac",
-      "label": "Carro da Cadillac em Curitiba",
-      "context": "Um carro de Fórmula 1 da Cadillac vai aparecer em Curitiba, segundo post publicado no Bluesky. A novidade gerou reações mistas, dividindo quem comemora a vinda de um F1 à cidade e quem lamenta a equipe ser a Cadillac.",
-      "source": "bluesky",
-      "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/marxverstappen.bsky.social/post/3n26ypli5pk2i",
-      "createdAt": "2026-11-13T12:35:51.175000+00:00",
-      "rawScore": 0.34232990705117694,
-      "relevanceScore": 0.34232990705117694,
-      "suggestedRadius": 71.11,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-pr",
-      "sources": [
-        {
-          "title": "Vai ter um carro de F1 em Curitiba 😍 É da Cadillac 😒",
-          "url": "https://bsky.app/profile/marxverstappen.bsky.social/post/3n26ypli5pk2i",
+          "title": "A vereadora Salete Kronbauer (PP), de Nova Santa Rosa, no Paraná, amaldiçoou os nordestinos por causa da eleição. Enquanto isso, a região sul se afogava. Carma instantâneo.",
+          "url": "https://bsky.app/profile/hospiciobrasil.bsky.social/post/3mzxjefuv3c24",
           "subreddit": "bsky_pr"
         }
       ],
@@ -400,7 +463,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Curitiba receber um carro de F1 é uma chance rara de ver de perto um monoposto, e isso vale independente da equipe. Para quem nunca teve contato com a categoria, a experiência já justifica a novidade.",
+          "text": "Quem vota em candidato com ficha suja ou histórico de escândalo precisa assumir a responsabilidade pelo que elegeu. O eleitor não é inocente: a escolha na urna tem consequência direta, e cobrar isso é legítimo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -408,7 +471,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A Cadillac é uma equipe nova e sem tradição na F1, então trazer o carro dela para Curitiba soa como uma oportunidade perdida de mostrar algo mais emblemático. O entusiasmo inicial esfria quando se vê de qual time é o carro.",
+          "text": "Chamar eleitor de responsável por \"bandido\" eleito é generalizar o voto de um estado inteiro. A eleição é decidida por maioria e cada eleitor responde pelo próprio voto, não pelo resultado coletivo do Paraná.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -416,7 +479,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O anúncio do carro em Curitiba veio junto com um alerta da defesa civil, o que desvia a atenção do evento em si. A prioridade acaba sendo entender o que está acontecendo na cidade, não a visita da F1.",
+          "text": "A crítica mistura duas coisas: a eleição de candidatos questionáveis e o episódio da vereadora que amaldiçoou nordestinos. Juntar os dois num post só embaralha o debate e não fica claro o que exatamente está sendo cobrado do eleitor paranaense.",
           "source": "sintese",
           "evidence": [
             1
@@ -429,17 +492,17 @@
     },
     {
       "id": "bsky_3n24ckdvh522n",
-      "rank": 8,
+      "rank": 9,
       "title": "Justiça só será feita quando Marreco e Dallagnol forem presos",
       "label": "Críticas a Moro e Dallagnol · Curitiba",
-      "context": "Posts no Bluesky criticam o ex-juiz Sergio Moro, chamado de 'Marreco de Curitiba', e o ex-procurador Deltan Dallagnol, pedindo que ambos sejam presos. A crítica também aponta que Moro ganhou o governo do Paraná com apoio de quem o elegeu.",
+      "context": "Posts no Bluesky criticam o ex-juiz Sergio Moro, chamado de 'Marreco de Curitiba', e o ex-procurador Deltan Dallagnol, pedindo que ambos sejam presos. A discussão também menciona a eleição de Moro para o governo do Paraná como resultado da cumplicidade de quem votou nele.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
       "permalink": "https://bsky.app/profile/clavedosul.bsky.social/post/3n24ckdvh522n",
       "createdAt": "2026-11-12T10:53:55.981000+00:00",
-      "rawScore": 0.21011545418638453,
-      "relevanceScore": 0.31011545418638453,
-      "suggestedRadius": 69.41,
+      "rawScore": 0.12965396790750836,
+      "relevanceScore": 0.22965396790750836,
+      "suggestedRadius": 64.75,
       "imageUrl": "assets/images/bsky_3n24ckdvh522n_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n24ckdvh522n_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -471,7 +534,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Moro foi eleito democraticamente pelo povo do Paraná, e ficar pedindo prisão sem condenação é ataque à democracia. A esquerda não aceita o resultado das urnas e quer resolver no grito o que perdeu no voto.",
+          "text": "Moro foi eleito democraticamente pelo povo do Paraná, e atacar sua vitória é desrespeitar as urnas. Ficar pedindo prisão sem condenação é puro revanchismo político, não justiça.",
           "source": "sintese",
           "evidence": [
             2,
@@ -482,77 +545,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A eleição de Moro mostra que parte do eleitorado paranaense ainda o vê como símbolo do combate à corrupção. Mas a baixa credibilidade do STF e da Lava Jato indica que a confiança nas instituições segue frágil dos dois lados.",
+          "text": "A eleição de Moro ao governo do Paraná só aconteceu pela cumplicidade de quem votou nele. Sem uma condenação judicial, pedir cadeia é desejo político, não fato jurídico.",
           "source": "sintese",
           "evidence": [
-            3,
-            4
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n22igjbw7225",
-      "rank": 9,
-      "title": "Se eu fosse o Lula, me recusava a liberar verba pro Paraná até o Moro pedir desculpas",
-      "label": "Verbas federais e desculpas de Moro",
-      "context": "Um post no Bluesky defende que o presidente Lula condicione a liberação de verbas federais ao Paraná a um pedido de desculpas do senador Sergio Moro. A discussão ocorre após a divulgação de um vídeo em que uma vereadora do Paraná amaldiçoa nordestinos por causa da eleição.",
-      "source": "bluesky",
-      "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/tubazef.com/post/3n22igjbw7225",
-      "createdAt": "2026-11-11T17:33:47.472000+00:00",
-      "rawScore": 0.19007813879827992,
-      "relevanceScore": 0.2900781387982799,
-      "suggestedRadius": 68.32,
-      "imageUrl": "assets/images/bsky_3n22igjbw7225_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n22igjbw7225_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pr",
-      "sources": [
-        {
-          "title": "Olha, se eu fosse o Lula eu me recusava a liberar qualquer verba pro Paraná enquanto o Moro não pedisse desculpas",
-          "url": "https://bsky.app/profile/tubazef.com/post/3n22igjbw7225",
-          "subreddit": "bsky_pr"
-        },
-        {
-          "title": "A vereadora Salete Kronbauer (PP), de Nova Santa Rosa, no Paraná, amaldiçoou os nordestinos por causa da eleição. Enquanto isso, a região sul se afogava. Carma instantâneo.",
-          "url": "https://bsky.app/profile/hospiciobrasil.bsky.social/post/3mzxjefuv3c24",
-          "subreddit": "bsky_pr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Condicionar verba federal a um pedido de desculpas do Moro é uma forma legítima de cobrar respeito: quem ofendeu o eleitorado nordestino precisa responder por isso antes de receber recursos.",
-          "source": "sintese",
-          "evidence": [
-            7
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O Moro já ignora o governo federal e deixa o estado às traças por conta própria; reter verba só piora a vida de quem já sofre com a má gestão estadual e não atinge o verdadeiro responsável.",
-          "source": "sintese",
-          "evidence": [
-            1,
             3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O Paraná vive um ciclo em que elege governador e prefeito de extrema direita que pioram tudo, culpa o governo federal do PT e repete a escolha; a briga entre Lula e Moro não muda essa lógica.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            4
           ],
           "votes": 0
         }
@@ -563,18 +559,18 @@
     {
       "id": "bsky_3n25f5enw4k2h",
       "rank": 10,
-      "title": "É pedir demais um trem Curitiba–São Paulo na gestão Lula 4?",
-      "label": "Trem Curitiba–São Paulo · Expectativa",
-      "context": "Um usuário do Bluesky questiona se é pedir demais um trem ligando Curitiba a São Paulo durante um quarto mandato de Lula. A postagem expressa desejo por essa conexão ferroviária e sugere que a obra seria possível nesse período.",
+      "title": "É pedir demais um trem Curitiba-São Paulo na gestão Lula 4?",
+      "label": "Trem Curitiba-São Paulo · Expectativa",
+      "context": "Um usuário do Bluesky questionou se é pedir demais um trem ligando Curitiba a São Paulo durante a gestão Lula 4. O post expressa ceticismo sobre a viabilidade da obra, mencionando a probabilidade de não acontecer.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
       "permalink": "https://bsky.app/profile/hetthepumpking.bsky.social/post/3n25f5enw4k2h",
       "createdAt": "2026-11-12T21:12:58.877000+00:00",
-      "rawScore": 0.14692188754477448,
-      "relevanceScore": 0.24692188754477448,
-      "suggestedRadius": 65.81,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.08275450698930002,
+      "relevanceScore": 0.18275450698930001,
+      "suggestedRadius": 61.65,
+      "imageUrl": "assets/images/bsky_3n25f5enw4k2h_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n25f5enw4k2h_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pr",
       "sources": [
@@ -593,7 +589,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Um trem ligando Curitiba a São Paulo seria uma revolução para quem viaja entre as duas cidades. Se o governo Lula 4 priorizar a ferrovia, dá para tirar esse projeto do papel e melhorar a mobilidade na região.",
+          "text": "Um trem ligando Curitiba a São Paulo seria uma revolução para o transporte de passageiros no Brasil, reduzindo custos e tempo de viagem. A gestão Lula 4 tem a chance de finalmente tirar esse projeto do papel e mostrar que é possível investir em ferrovias de qualidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -601,7 +597,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Pedir um trem Curitiba–São Paulo na gestão Lula 4 é ignorar a realidade fiscal e os gargalos de infraestrutura. O país precisa primeiro resolver problemas básicos antes de embarcar em obra tão complexa e cara.",
+          "text": "Pedir um trem Curitiba-São Paulo na gestão Lula 4 é ignorar a realidade fiscal e os gargalos históricos do país. O governo já tem prioridades mais urgentes, e prometer uma obra faraônica sem planejamento só gera frustração.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -609,7 +605,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A ideia do trem é boa, mas depende de estudos de viabilidade e parcerias. Sem um plano detalhado e fontes de financiamento, fica só no desejo. É preciso avaliar custos e prazos antes de prometer.",
+          "text": "A ideia do trem é boa, mas depende de estudos de viabilidade e parcerias com o setor privado. Sem um projeto detalhado e fontes de financiamento claras, fica difícil avaliar se é só um desejo ou algo concreto.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

@@ -1,21 +1,88 @@
 {
-  "generatedAt": "2026-11-14T05:38:24.414303+00:00",
+  "generatedAt": "2026-11-14T17:53:05.010538+00:00",
   "region": "br-go",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n27qpnw6ys2i",
+      "id": "bsky_3n2bwiey7xs22",
       "rank": 1,
-      "title": "Matéria de 2023 sobre caloteiros do agro que financiaram acampamentos golpistas",
+      "title": "Brota aqui em Goiânia então, se não terei de te caçar",
+      "label": "Piada e ameaça em Goiânia",
+      "context": "Um post no Bluesky diz 'Brota aqui em Goiânia então n //piada Se não terei de te caçar', misturando convite e ameaça em tom de piada. A frase gerou comentários sobre a intenção de viralizar e sobre o duplo sentido da expressão 'te caçar'.",
+      "source": "bluesky",
+      "subreddit": "bsky_go",
+      "permalink": "https://bsky.app/profile/catboyy.org/post/3n2bwiey7xs22",
+      "createdAt": "2026-11-14T16:34:01.646000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-go",
+      "sources": [
+        {
+          "title": "Brota aqui em Goiânia então n //piada Se não terei de te caçar.",
+          "url": "https://bsky.app/profile/catboyy.org/post/3n2bwiey7xs22",
+          "subreddit": "bsky_go"
+        },
+        {
+          "title": "Então segura essa chatice e fique feliz como seu sócio, oh filha da puta. Caralho bicho eu perdi o rumo aqui em Goiânia lendo isso.",
+          "url": "https://bsky.app/profile/aironjaso.bsky.social/post/3n27lhykvvs2w",
+          "subreddit": "bsky_go"
+        },
+        {
+          "title": "Aqui em Goiânia eles queriam criar uma medalha \"Charlie Kirk\". Patriotas, né?",
+          "url": "https://bsky.app/profile/gumihooppa.bsky.social/post/3n2aer6qmlc22",
+          "subreddit": "bsky_go"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A piada funciona porque mistura convite e ameaça de um jeito absurdo, típico de quem quer só brincar com a fama de Goiânia. Quem entendeu o tom leve respondeu na mesma moeda, oferecendo lanchinho em vez de levar a sério.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Postar 'te caçar' em Goiânia, mesmo como piada, soa como ameaça velada e só serve para chamar atenção. O comentário sobre querer viralizar por ego mostra que muita gente viu a frase como exibicionismo vazio, não como humor.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A frase 'te caçar' pode ser lida como brincadeira ou como ameaça, e o contexto de Goiânia só aumenta a ambiguidade. Sem saber o tom da conversa original, fica difícil dizer se é piada interna ou provocação de verdade.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27qpnw6ys2i",
+      "rank": 2,
+      "title": "Matéria de 2023 sobre caloteiros do agro e financiamento de acampamentos golpistas",
       "label": "Caloteiros do agro e financiamento golpista",
-      "context": "Uma matéria de 2023 do site De Olho nos Ruralistas afirma que entre os caloteiros do agronegócio há um número considerável de financiadores dos acampamentos golpistas nos quartéis. O texto original defende que o assunto não perdeu importância e deve ser lembrado.",
+      "context": "Uma matéria de 2023 do site De Olho nos Ruralistas afirma que entre os caloteiros do agronegócio há um número considerável de financiadores dos acampamentos golpistas nos quartéis. A publicação original destaca que, para isso, há dinheiro disponível.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/hospiciobrasil.bsky.social/post/3n27qpnw6ys2i",
       "createdAt": "2026-11-13T19:45:25.978000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.7748958263939374,
+      "relevanceScore": 0.7320723397377588,
+      "suggestedRadius": 87.34,
       "imageUrl": "assets/images/bsky_3n27qpnw6ys2i_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27qpnw6ys2i_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -31,7 +98,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A matéria acerta ao lembrar que entre os caloteiros do agro tem gente que bancou os acampamentos golpistas nos quartéis. Expor esses nomes é essencial para que a sociedade saiba quem financiou a tentativa de golpe.",
+          "text": "A matéria acerta ao lembrar que entre os caloteiros do agro há financiadores dos acampamentos golpistas. Expor os nomes desses ruralistas é essencial para que a sociedade saiba quem são os responsáveis por bancar atos antidemocráticos.",
           "source": "sintese",
           "evidence": [
             1
@@ -41,82 +108,20 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Falta transparência: a matéria fala em 'número considerável' de financiadores, mas não apresenta nomes nem provas. Sem essa lista, a acusação generaliza e não ajuda a responsabilizar quem de fato cometeu crimes.",
+          "text": "Esses ruralistas que pegam dinheiro público, não pagam e ainda financiam crimes são uma máfia que suga o Estado. A matéria deveria ser mais incisiva e cobrar investigação e punição para todos os envolvidos, sem anistia.",
           "source": "sintese",
           "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O ponto central é que muitos desses casos seguem sem investigação ou foram anistiados, o que dificulta saber quem realmente financiou os acampamentos. A cobrança por nomes e punições é justa, mas esbarra na lentidão da Justiça.",
-          "source": "sintese",
-          "evidence": [
-            2,
             3
           ],
           "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2aer6qmlc22",
-      "rank": 2,
-      "title": "Em Goiânia, queriam criar uma medalha \"Charlie Kirk\"",
-      "label": "Medalha Charlie Kirk em Goiânia",
-      "context": "Um post no Bluesky afirma que em Goiânia houve uma proposta de criar uma medalha com o nome de Charlie Kirk. A menção gerou reação negativa e ironia entre os usuários que comentaram o assunto.",
-      "source": "bluesky",
-      "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/gumihooppa.bsky.social/post/3n2aer6qmlc22",
-      "createdAt": "2026-11-14T01:44:10.580000+00:00",
-      "rawScore": 0.5264192632894915,
-      "relevanceScore": 0.6960214036549905,
-      "suggestedRadius": 86.06,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-go",
-      "sources": [
-        {
-          "title": "Aqui em Goiânia eles queriam criar uma medalha \"Charlie Kirk\". Patriotas, né?",
-          "url": "https://bsky.app/profile/gumihooppa.bsky.social/post/3n2aer6qmlc22",
-          "subreddit": "bsky_go"
-        },
-        {
-          "title": "Então segura essa chatice e fique feliz como seu sócio, oh filha da puta. Caralho bicho eu perdi o rumo aqui em Goiânia lendo isso.",
-          "url": "https://bsky.app/profile/aironjaso.bsky.social/post/3n27lhykvvs2w",
-          "subreddit": "bsky_go"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A proposta de uma medalha \"Charlie Kirk\" em Goiânia é uma forma de reconhecer publicamente alguém que defende ideias patrióticas, e quem critica só está tentando lacrar sem apresentar argumento.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Criar uma medalha com o nome de Charlie Kirk em Goiânia é uma provocação política sem sentido, que só serve para gerar briga e não resolve nada para a cidade.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A discussão sobre a medalha \"Charlie Kirk\" em Goiânia parece mais uma tentativa de viralizar e ganhar número do que um debate sério sobre homenagens públicas.",
+          "text": "A matéria é de 2023 e muitos dos citados podem já ter sido anistiados ou sequer investigados. Fica a dúvida sobre a efetividade das denúncias e se os nomes serão realmente expostos publicamente um a um.",
           "source": "sintese",
           "evidence": [
-            1
+            2
           ],
           "votes": 0
         }
@@ -128,15 +133,15 @@
       "id": "bsky_3n27bchi3bk25",
       "rank": 3,
       "title": "Tatuadora abre vagas para tatuar em Goiânia, Brasília e Teresina",
-      "label": "Tatuadora anuncia agenda em três cidades",
-      "context": "Uma tatuadora anunciou no Bluesky que abriu duas vagas para tatuar em Goiânia na semana seguinte e que há lista de espera para Brasília e São Paulo. Em fevereiro, ela pretende abrir três vagas para tatuar em Teresina, no Piauí, durante uma visita à família.",
+      "label": "Tatuadora · Agenda de tatuagens",
+      "context": "Uma tatuadora anunciou que abriu duas vagas para tatuar em Goiânia na semana seguinte e que há lista de espera para Brasília e São Paulo. Em fevereiro, ela pretende abrir três vagas para tatuar em Teresina, no Piauí, durante uma visita à família.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/iaanks.bsky.social/post/3n27bchi3bk25",
       "createdAt": "2026-11-13T15:09:39.079000+00:00",
-      "rawScore": 0.4246689916098073,
-      "relevanceScore": 0.5829655462331192,
-      "suggestedRadius": 81.81,
+      "rawScore": 0.4004678150185053,
+      "relevanceScore": 0.47281019180219896,
+      "suggestedRadius": 77.26,
       "imageUrl": "assets/images/bsky_3n27bchi3bk25_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27bchi3bk25_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -157,7 +162,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A tatuadora está conseguindo organizar a agenda de forma clara, com vagas definidas por cidade e lista de espera para quem não conseguiu horário. Isso mostra profissionalismo e ajuda quem quer tatuar com ela a se programar.",
+          "text": "A tatuadora está conseguindo organizar a agenda de forma clara, com vagas definidas por cidade e lista de espera para quem não conseguir agora. Isso mostra que o trabalho dela está sendo procurado e que ela está atendendo à demanda de vários lugares.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -165,7 +170,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A divulgação de vagas em várias cidades ao mesmo tempo pode confundir quem acompanha o perfil, já que as datas e locais mudam rápido. Sem um calendário fixo, fica difícil saber quando e onde será possível agendar.",
+          "text": "Quem depende de uma vaga em Brasília ou São Paulo fica só na lista de espera, sem data definida, enquanto Goiânia e Teresina já têm vagas garantidas. A distribuição das vagas parece favorecer algumas cidades e deixar outras sem previsão.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -173,75 +178,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A tatuadora está usando o Bluesky para anunciar a agenda, o que é prático, mas a informação fica dispersa em posts. Quem se interessa precisa acompanhar o perfil de perto para não perder as vagas.",
+          "text": "A abertura de vagas em fevereiro para Teresina coincide com a visita à família, o que pode ser uma forma de aproveitar a viagem para trabalhar. Já as vagas em Goiânia e a lista de espera em Brasília e São Paulo seguem o ritmo normal de quem tatua por encomenda.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2abbvftyc2y",
-      "rank": 4,
-      "title": "Stray Kids, Goiás, fotografia, breja, gatos, boy groups, bangchan, regata que mais",
-      "label": "Stray Kids · Goiás e fotografia",
-      "context": "Posts no Bluesky mencionam Stray Kids, Goiás, fotografia, breja, gatos, boy groups, Bang Chan e regata, sem detalhes sobre o conteúdo. A menção a uma interação antiga e a uma regata gerou comentários de pessoas tentando lembrar o contexto.",
-      "source": "bluesky",
-      "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/pecocaballero.bsky.social/post/3n2abbvftyc2y",
-      "createdAt": "2026-11-14T00:41:55.071000+00:00",
-      "rawScore": 0.3187966473256285,
-      "relevanceScore": 0.4653296081395872,
-      "suggestedRadius": 76.93,
-      "imageUrl": "assets/images/bsky_3n2abbvftyc2y_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2abbvftyc2y_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-go",
-      "sources": [
-        {
-          "title": "Stray Kids, Goiás, fotografia, breja, gatos, boy groups, bangchan, regata que mais",
-          "url": "https://bsky.app/profile/pecocaballero.bsky.social/post/3n2abbvftyc2y",
-          "subreddit": "bsky_go"
-        },
-        {
-          "title": "Pé de jaca no interior de Goiás.. #jaca #fotografia",
-          "url": "https://bsky.app/profile/amwishmaster.bsky.social/post/3mzsm6vjar22w",
-          "subreddit": "bsky_go"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A regata é o que mais chamou atenção, e faz sentido: é uma peça comum no dia a dia de quem curte breja e fotografia no interior de Goiás. A associação com Stray Kids e Bang Chan só deixa a conversa mais divertida.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Essa mistura de Stray Kids com Goiás, breja e regata não faz sentido nenhum. Parece que pegaram palavras aleatórias e jogaram juntas, e agora ninguém lembra o que isso significava. Fica difícil acompanhar qualquer coisa.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A interação antiga que gerou essa menção à regata e a Stray Kids parece ter se perdido no tempo. Sem o contexto original, fica só a curiosidade de tentar lembrar o que aconteceu, sem saber se era sobre moda, foto ou outra coisa.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3
-          ],
           "votes": 0
         }
       ],
@@ -250,17 +189,17 @@
     },
     {
       "id": "bsky_3n2766lg4oc2t",
-      "rank": 5,
+      "rank": 4,
       "title": "Hoje: festa forrozeira em Goiânia no Shiva",
-      "label": "Festa forrozeira em Goiânia",
-      "context": "Nesta sexta-feira 13, o Shiva, em Goiânia, recebe o Papangu, um evento de forró. A programação foi divulgada nas redes sociais e deve atrair o público da cena forrozeira local.",
+      "label": "Festa forrozeira em Goiânia · Shiva",
+      "context": "Nesta sexta-feira 13, o Shiva em Goiânia recebe o evento Papangu, uma festa de forró. A divulgação do evento ocorre em meio a alertas de chuvas fortes na cidade.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/papangu.bandcamp.com/post/3n2766lg4oc2t",
       "createdAt": "2026-11-13T14:13:36.872000+00:00",
-      "rawScore": 0.17072083296611332,
-      "relevanceScore": 0.3657967589313655,
-      "suggestedRadius": 72.29,
+      "rawScore": 0.15534795740594567,
+      "relevanceScore": 0.296500065500165,
+      "suggestedRadius": 68.67,
       "imageUrl": "assets/images/bsky_3n2766lg4oc2t_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2766lg4oc2t_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -286,7 +225,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Shiva acerta ao trazer o Papangu numa sexta-feira 13, porque dá à cena forrozeira de Goiânia uma opção de festa que não depende só dos grandes shows. É o tipo de evento que movimenta a cidade e fortalece o forró local.",
+          "text": "A festa forrozeira no Shiva é uma ótima opção de lazer em Goiânia, ainda mais em uma sexta-feira 13. O evento valoriza a cultura local e movimenta a cena noturna da cidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -294,7 +233,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A divulgação do Papangu no Shiva peca por não avisar sobre os riscos de chuva forte em Goiânia, como o alerta que chegou quando o dilúvio já estava em curso. Quem vai a festa precisa se preocupar com alagamento em vez de curtir o forró.",
+          "text": "Com os alertas de chuvas intensas e alagamentos em Goiânia, promover uma festa nesta sexta-feira 13 expõe o público a riscos desnecessários. As pessoas deveriam evitar sair de casa.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -302,7 +241,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O evento no Shiva é uma opção de lazer, mas a data escolhida, sexta-feira 13, e a falta de informações claras sobre horário e local exato deixam dúvidas. Vale confirmar os detalhes antes de sair de casa.",
+          "text": "A realização do evento depende das condições climáticas. Se a chuva forte persistir, pode ser mais seguro adiar a festa; caso contrário, cada um avalia se vale a pena comparecer.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -312,31 +251,31 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzyrp2ndis26",
-      "rank": 6,
-      "title": "Usuária do Bluesky pede que amigos de internet a visitem em Goiás",
-      "label": "Visitas entre amigos de internet · Goiás",
-      "context": "Uma usuária do Bluesky que se identifica como moradora de uma cidade pequena de Goiás disse que já viajou várias vezes para outros estados para conhecer pessoas que só conhecia pela internet. Desta vez, ela pede que sejam os amigos virtuais a ir até ela, em vez de ela sair de novo de sua cidade.",
+      "id": "bsky_3n2abbvftyc2y",
+      "rank": 5,
+      "title": "Stray Kids, Goiás, fotografia, breja, gatos, boy groups, bangchan, regata que mais",
+      "label": "Stray Kids · Goiás e fotografia",
+      "context": "Posts no Bluesky mencionam Stray Kids, Goiás, fotografia, breja, gatos, boy groups, Bang Chan e uma regata, sem detalhes sobre o que gerou a associação. A menção à regata e a lembrança de uma interação antiga aparecem nos comentários, mas o contexto original não é explicado.",
       "source": "bluesky",
       "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/felicitriste.bsky.social/post/3mzyrp2ndis26",
-      "createdAt": "2026-11-11T01:14:18.769000+00:00",
-      "rawScore": 0.1102036100742103,
-      "relevanceScore": 0.23355956674912254,
-      "suggestedRadius": 65.0,
-      "imageUrl": "assets/images/bsky_3mzyrp2ndis26_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzyrp2ndis26_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/pecocaballero.bsky.social/post/3n2abbvftyc2y",
+      "createdAt": "2026-11-14T00:41:55.071000+00:00",
+      "rawScore": 0.19125476318005347,
+      "relevanceScore": 0.2751589938653162,
+      "suggestedRadius": 67.47,
+      "imageUrl": "assets/images/bsky_3n2abbvftyc2y_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2abbvftyc2y_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-go",
       "sources": [
         {
-          "title": "senhores, eu já tive o meu fair share saindo da minha cidade aqui em bucetinha de goiás pra visitar gente de internet em outros estados não me chamem pra ir até vocês venham até mim dessa vez grata,",
-          "url": "https://bsky.app/profile/felicitriste.bsky.social/post/3mzyrp2ndis26",
+          "title": "Stray Kids, Goiás, fotografia, breja, gatos, boy groups, bangchan, regata que mais",
+          "url": "https://bsky.app/profile/pecocaballero.bsky.social/post/3n2abbvftyc2y",
           "subreddit": "bsky_go"
         },
         {
-          "title": "Essa aqui do Fabrício Rosa Assinem aliás, isso aqui é muito ridículo. Não precisa ser de Goiás! fabriciorosa.com.br/abaixo-assin...",
-          "url": "https://bsky.app/profile/soukyuu.neocities.org/post/3mzrfijynns2i",
+          "title": "Pé de jaca no interior de Goiás.. #jaca #fotografia",
+          "url": "https://bsky.app/profile/amwishmaster.bsky.social/post/3mzsm6vjar22w",
           "subreddit": "bsky_go"
         }
       ],
@@ -344,7 +283,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Quem já se deslocou várias vezes para ver amigos de internet tem todo o direito de inverter a mão e pedir que eles venham até aqui. Viajar sempre para o lado dos outros cansa, e receber visita na própria cidade também é uma forma de dividir o esforço.",
+          "text": "A regata é o detalhe que mais chama atenção na lista, e faz sentido alguém se pegar pensando se usa tanto assim no dia a dia. É um jeito leve de brincar com a própria rotina e com o que a gente veste sem perceber.",
           "source": "sintese",
           "evidence": [
             1
@@ -354,7 +293,73 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Receber gente que você só conhece pela internet na sua cidade é arriscado, ainda mais em cidade pequena, onde todo mundo fica sabendo. Antes de abrir a porta, é preciso saber quem é a pessoa e ter cuidado com quem chega dizendo que vai te visitar.",
+          "text": "A lista de termos parece aleatória demais, e a menção à regata só confunde quem tenta entender o assunto. Sem saber o contexto da interação antiga, fica difícil acompanhar a conversa ou se identificar com ela.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A lembrança de uma interação antiga é o que sustenta a menção à regata, mas nem quem comentou recorda o contexto. Então o jeito é encarar como uma referência interna que só faz sentido para quem participou da conversa original.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzyrp2ndis26",
+      "rank": 6,
+      "title": "Usuária do Bluesky pede que amigos da internet a visitem em Goiás",
+      "label": "Visitas de amigos virtuais · Goiás",
+      "context": "Uma usuária do Bluesky publicou que já viajou várias vezes de sua cidade em Goiás para visitar amigos que conheceu na internet em outros estados. Agora ela pede que, desta vez, sejam eles a ir até ela.",
+      "source": "bluesky",
+      "subreddit": "bsky_go",
+      "permalink": "https://bsky.app/profile/felicitriste.bsky.social/post/3mzyrp2ndis26",
+      "createdAt": "2026-11-11T01:14:18.769000+00:00",
+      "rawScore": 0.1465603485862278,
+      "relevanceScore": 0.2329345508493106,
+      "suggestedRadius": 64.96,
+      "imageUrl": "assets/images/bsky_3mzyrp2ndis26_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzyrp2ndis26_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-go",
+      "sources": [
+        {
+          "title": "senhores, eu já tive o meu fair share saindo da minha cidade aqui em bucetinha de goiás pra visitar gente de internet em outros estados não me chamem pra ir até vocês venham até mim dessa vez grata,",
+          "url": "https://bsky.app/profile/felicitriste.bsky.social/post/3mzyrp2ndis26",
+          "subreddit": "bsky_go"
+        },
+        {
+          "title": "Mermão, se somar os kg de ácido hialurónico nessa foto a gente tem a quilometragem do Goiás até o Paraguai",
+          "url": "https://bsky.app/profile/pracmarina.bsky.social/post/3mzyj6o7ngk2b",
+          "subreddit": "bsky_go"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A atitude dela é justa: quem já se deslocou tantas vezes para ver amigos virtuais tem todo o direito de pedir que os outros façam o mesmo esforço. Reciprocidade em amizade, mesmo online, é o mínimo.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Receber gente que você só conhece da internet em casa é arriscado, ainda mais em cidade pequena. A brincadeira da espingarda mostra que a confiança não é automática, e cada um deveria avaliar bem antes de abrir a porta.",
           "source": "sintese",
           "evidence": [
             1
@@ -364,10 +369,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A brincadeira com o nome da cidade natal mostra que o tom é de desabafo leve, não de cobrança séria. Cada amizade virtual tem um combinado próprio sobre quem viaja, e o jeito é ver caso a caso se a visita faz sentido para os dois lados.",
+          "text": "O nome da cidade citada, 'Bucetinha do Goiás', virou piada e ofuscou o pedido real. Sem saber se é um lugar real ou apelido, fica difícil levar a sério a proposta de visita e o debate acaba na brincadeira.",
           "source": "sintese",
           "evidence": [
-            2
+            3
           ],
           "votes": 0
         }
@@ -380,14 +385,14 @@
       "rank": 7,
       "title": "Globo repetiu com Goiânia o que fez em 2014, gravando novela no interior com gente a cavalo",
       "label": "Novela das 21h · Gravação no interior",
-      "context": "Um post no Bluesky compara a produção de uma novela das 21h da Globo com uma gravação feita em 2014 no interior de Goiás, que mostrou personagens andando a cavalo. A crítica é que a emissora repete o mesmo tipo de retrato regional, associando Goiânia a cavalos e carroças.",
+      "context": "Um post no Bluesky compara a produção de uma novela das 21h da Globo, gravada no interior com personagens andando a cavalo, a uma estratégia semelhante usada com Goiânia em 2014. A crítica associa esse tipo de escolha a um dos piores resultados da faixa das 21h, enquanto outros comentários ironizam a ideia de cavalos no trânsito da cidade.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/lumendes.bsky.social/post/3n22evffvbc2f",
       "createdAt": "2026-11-11T16:30:32.470000+00:00",
-      "rawScore": 0.0718239905513999,
-      "relevanceScore": 0.190915545057111,
-      "suggestedRadius": 62.22,
+      "rawScore": 0.09155921241442325,
+      "relevanceScore": 0.18097297217762678,
+      "suggestedRadius": 61.52,
       "imageUrl": "assets/images/bsky_3n22evffvbc2f_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n22evffvbc2f_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -408,29 +413,29 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Globo acertou ao levar a novela para o interior de Goiânia em 2014, mostrando cavalos e carroças como parte da cultura local. Quem critica esquece que a cidade tem sim suas tradições rurais, e isso merece ser retratado na TV.",
+          "text": "Gravar no interior com gente a cavalo é uma escolha que já mostrou seu resultado ruim em 2014, quando a novela de Goiânia foi uma das piores das 21h. Repetir a fórmula só confirma que a Globo não aprendeu com o erro.",
           "source": "sintese",
           "evidence": [
-            1,
-            2
+            1
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A Globo errou feio ao retratar Goiânia com gente andando a cavalo, como se fosse uma cidade do interior atrasada. Isso reforça estereótipos e não representa a capital, que tem trânsito e problemas urbanos como qualquer metrópole.",
+          "text": "A ideia de que Goiânia é só cavalo e carroça é um estereótipo que não corresponde à realidade. A cidade tem trânsito, avenidas e uma vida urbana normal, e reduzir tudo a isso é um preconceito que a Globo insiste em repetir.",
           "source": "sintese",
           "evidence": [
-            1,
-            3
+            2,
+            3,
+            4
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "As ruas de Goiânia com nomes tipo C-144 e C-1 mostram que a cidade tem uma organização própria, e a novela pode ter exagerado no cavalo, mas também pode ter captado algo real. Depende de como a produção usou esses elementos.",
+          "text": "As ruas de Goiânia com nomes tipo C-144 e o suposto limite de carroças por vez mostram que a piada tem fundamento, mas também revelam que a cidade tem uma estrutura própria. Talvez a novela só esteja exagerando um detalhe real.",
           "source": "sintese",
           "evidence": [
             3,
@@ -443,71 +448,18 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n26yin2k222t",
-      "rank": 8,
-      "title": "Notícia deveria ser 'Governo Lula expropria latifúndios e rebatiza Goiânia como Nova Leningrado'",
-      "label": "Proposta fictícia de expropriação no Centro-Oeste",
-      "context": "Um post no Bluesky propõe que a notícia sobre uma suposta expropriação de latifúndios de soja e gado pelo governo Lula, com um plano de kolkovização e a renomeação de Goiânia para Nova Leningrado, deveria ser veiculada. A proposta circula como uma sátira ou crítica à cobertura da imprensa, sem que haja confirmação de que tais medidas existam.",
-      "source": "bluesky",
-      "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/otrao.bsky.social/post/3n26yin2k222t",
-      "createdAt": "2026-11-13T12:32:01.770000+00:00",
-      "rawScore": 0.14409744741136674,
-      "relevanceScore": 0.1601082749015186,
-      "suggestedRadius": 60.01,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-go",
-      "sources": [
-        {
-          "title": "A notícia deveria ser \"Governo Lula expropria grandes Latifúndios da soja e do gado, implementa plano de kolkovização da terra no Centro-Oeste e rebatiza Goiania como Nova Leningrado\"",
-          "url": "https://bsky.app/profile/otrao.bsky.social/post/3n26yin2k222t",
-          "subreddit": "bsky_go"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A imprensa brasileira evita noticiar propostas radicais do governo, e essa sátira expõe o viés da mídia. Se a notícia fosse real, mostraria que o governo Lula está disposto a enfrentar o agronegócio e promover uma reforma agrária profunda, o que muitos eleitores apoiam.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Essa brincadeira é um espantalho perigoso: não há nenhuma proposta de expropriação ou kolkovização em curso. Espalhar esse tipo de ficção só serve para alimentar teorias da conspiração e desviar o debate de questões reais, como a política agrícola e a reforma agrária necessária.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A piada funciona como crítica ao sensacionalismo, mas também revela como notícias falsas podem ser confundidas com realidade. O ideal é checar os fatos antes de compartilhar, e discutir propostas concretas para o campo sem recorrer a cenários distópicos.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3n25b2rkzh22u",
-      "rank": 9,
+      "rank": 8,
       "title": "Associação Atlética Flugoiânia de Futebol (Goiânia, Goiás)",
       "label": "Clube de futebol de Goiânia",
-      "context": "A Associação Atlética Flugoiânia de Futebol é um clube sediado em Goiânia, Goiás. O post no Bluesky destaca o clube, e os comentários citam outros times de diferentes regiões.",
+      "context": "A Associação Atlética Flugoiânia de Futebol é um clube sediado em Goiânia, Goiás. O time foi mencionado em uma postagem no Bluesky, que gerou comentários citando outros clubes como o Esporte Clube Trabalhista (Marituba, Pará) e o River Plate Aruba (Oranjestad, Aruba).",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/ultimadivisao.com.br/post/3n25b2rkzh22u",
       "createdAt": "2026-11-12T19:59:58.875000+00:00",
-      "rawScore": 0.13972200285304423,
-      "relevanceScore": 0.1552466698367158,
-      "suggestedRadius": 59.64,
+      "rawScore": 0.16004278077711187,
+      "relevanceScore": 0.15119825012720464,
+      "suggestedRadius": 59.33,
       "imageUrl": "assets/images/bsky_3n25b2rkzh22u_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n25b2rkzh22u_reddit_thumb.jpg",
       "category": "esportes",
@@ -523,34 +475,86 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Associação Atlética Flugoiânia de Futebol merece reconhecimento por representar Goiânia e fortalecer o futebol local, como mostram os comentários que exaltam o clube.",
+          "text": "A Associação Atlética Flugoiânia de Futebol merece reconhecimento por representar Goiânia e fortalecer o futebol local. Clubes como o Esporte Clube Trabalhista e o River Plate Aruba mostram que o esporte conecta diferentes regiões e culturas.",
           "source": "sintese",
           "evidence": [
-            1
+            1,
+            2
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O destaque dado à Associação Atlética Flugoiânia de Futebol é exagerado, já que outros clubes como o Esporte Clube Trabalhista e o River Plate Aruba também têm sua importância e não recebem a mesma atenção.",
+          "text": "A menção à Associação Atlética Flugoiânia de Futebol parece aleatória e sem contexto, especialmente ao lado de clubes como o River Plate Aruba. Isso desvia a atenção de discussões mais relevantes sobre futebol regional.",
           "source": "sintese",
           "evidence": [
-            2,
-            3
+            2
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A menção à Associação Atlética Flugoiânia de Futebol em meio a outros clubes como o Futebol Clube CRT-23 e o River Plate Aruba sugere uma comparação entre equipes de diferentes regiões, sem que se saiba o critério.",
+          "text": "A Associação Atlética Flugoiânia de Futebol é um clube como qualquer outro, e sua citação ao lado de equipes como o Futebol Clube CRT-23 e o River Plate Aruba reflete apenas a diversidade de times mencionados na conversa, sem indicar maior relevância.",
           "source": "sintese",
           "evidence": [
-            1,
             2,
             3
           ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n26yin2k222t",
+      "rank": 9,
+      "title": "Notícia deveria ser 'Governo Lula expropria latifúndios e rebatiza Goiânia como Nova Leningrado'",
+      "label": "Sátira sobre expropriação de terras no Centro-Oeste",
+      "context": "Um post no Bluesky propõe uma manchete fictícia em que o governo Lula expropriaria grandes latifúndios de soja e gado, implementaria um plano de kolkovização da terra no Centro-Oeste e rebatizaria Goiânia como Nova Leningrado. A publicação circula como sátira e não apresenta fontes ou desdobramentos reais.",
+      "source": "bluesky",
+      "subreddit": "bsky_go",
+      "permalink": "https://bsky.app/profile/otrao.bsky.social/post/3n26yin2k222t",
+      "createdAt": "2026-11-13T12:32:01.770000+00:00",
+      "rawScore": 0.1343481960693198,
+      "relevanceScore": 0.12692363913444818,
+      "suggestedRadius": 57.38,
+      "imageUrl": "assets/images/bsky_3n26yin2k222t_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n26yin2k222t_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-go",
+      "sources": [
+        {
+          "title": "A notícia deveria ser \"Governo Lula expropria grandes Latifúndios da soja e do gado, implementa plano de kolkovização da terra no Centro-Oeste e rebatiza Goiania como Nova Leningrado\"",
+          "url": "https://bsky.app/profile/otrao.bsky.social/post/3n26yin2k222t",
+          "subreddit": "bsky_go"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A piada funciona porque exagera o que já se discute sobre reforma agrária e soberania alimentar, expondo de forma cômica a resistência dos grandes proprietários a qualquer mudança no campo.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Chamar de 'notícia' uma invenção sobre expropriação e kolkovização só alimenta boato e confusão, ainda mais num país onde a reforma agrária é tema sensível e muita gente não tem repertório para separar sátira de fato.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O post é claramente uma sátira, mas o formato de manchete engana quem vê de relance; sem contexto, vira munição para os dois lados e não ajuda em nada o debate real sobre uso da terra no Centro-Oeste.",
+          "source": "sintese",
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -562,14 +566,14 @@
       "rank": 10,
       "title": "Papa Leão XIV pode vir ao Brasil em setembro de 2027 para congresso eucarístico e encontro com Lula",
       "label": "Visita do Papa Leão XIV ao Brasil",
-      "context": "O Papa Leão XIV pode vir ao Brasil em setembro de 2027 para participar de um congresso eucarístico e se encontrar com o presidente Lula, segundo informação publicada pela Folha. A possível visita envolve tanto um evento religioso quanto uma agenda política com o governo brasileiro.",
+      "context": "O Papa Leão XIV pode visitar o Brasil em setembro de 2027 para participar de um congresso eucarístico e se encontrar com o presidente Lula. A possível vinda do pontífice ao país mobiliza expectativas em torno do evento religioso e do encontro com o governo brasileiro.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/jnascim.info/post/3mzw6yik6ek24",
       "createdAt": "2026-11-10T00:34:19.974000+00:00",
-      "rawScore": 0.08842533527452155,
-      "relevanceScore": 0.09825037252724617,
-      "suggestedRadius": 54.81,
+      "rawScore": 0.12168307820652002,
+      "relevanceScore": 0.11495844052185328,
+      "suggestedRadius": 56.34,
       "imageUrl": "assets/images/bsky_3mzw6yik6ek24_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzw6yik6ek24_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -585,7 +589,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A vinda do Papa Leão XIV ao Brasil em 2027 para o congresso eucarístico é uma oportunidade de fortalecer a fé católica num país com tantos fiéis, e o encontro com Lula mostra que a Igreja quer dialogar com o governo sobre pautas sociais.",
+          "text": "A vinda do Papa Leão XIV ao Brasil em 2027 para o congresso eucarístico é uma oportunidade de fortalecer a fé católica no país e de colocar o Brasil no centro de um grande encontro religioso, além de aproximar a Igreja do governo em pautas sociais.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -593,7 +597,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Misturar a visita do Papa com encontro político com Lula desvia o sentido do congresso eucarístico, que deveria ser um momento de espiritualidade e não de palanque para o governo se promover às custas da imagem da Igreja.",
+          "text": "Marcar um encontro com Lula na mesma viagem do congresso eucarístico mistura religião e política de um jeito que não ajuda a Igreja, que deveria manter distância do governo e focar apenas no evento religioso com os fiéis.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -601,7 +605,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Ainda é cedo para comemorar ou criticar: a visita do Papa Leão XIV em setembro de 2027 está no campo do possível, e só com a confirmação oficial dá para avaliar o peso do congresso eucarístico e do encontro com Lula.",
+          "text": "Ainda é cedo para comemorar ou criticar: a visita está prevista só para setembro de 2027 e depende de confirmação oficial, então o mais prudente é esperar o anúncio da Igreja e da Presidência antes de tirar conclusões.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

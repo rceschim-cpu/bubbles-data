@@ -1,21 +1,141 @@
 {
-  "generatedAt": "2026-11-14T05:38:24.414303+00:00",
+  "generatedAt": "2026-11-14T17:53:05.010538+00:00",
   "region": "br-rj",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n2a3x5df5c2s",
+      "id": "bsky_3n2btbl4xes2j",
       "rank": 1,
+      "title": "Feijão carioca no fogo com bom refogado",
+      "label": "Feijão carioca · Preparo e preferências",
+      "context": "Uma pessoa relatou no Bluesky que colocou feijão carioca para cozinhar com um bom refogado. O post gerou conversa sobre preferências entre feijão carioca e preto e sobre como cada um prepara o prato.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/peitica.bsky.social/post/3n2btbl4xes2j",
+      "createdAt": "2026-11-14T15:36:31.947000+00:00",
+      "rawScore": 0.8319298758254495,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n2btbl4xes2j_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2btbl4xes2j_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "botei meu feijão carioca no fogo com um BOM refogado",
+          "url": "https://bsky.app/profile/peitica.bsky.social/post/3n2btbl4xes2j",
+          "subreddit": "bsky_rj"
+        },
+        {
+          "title": "No geral eu odeio o feijão carioca ( amo feijão preto) E não sou muito fã de arroz",
+          "url": "https://bsky.app/profile/anneelenleblanc.bsky.social/post/3n27cglf3pk2g",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Feijão carioca com um bom refogado é uma das melhores coisas que existem, traz paz pra alma. Gosto dele até sem tempero, porque comida com sabor muito forte não é pra mim, e isso é questão de gosto.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            5
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Feijão carioca só funciona como chilli ou se estiver muito bem preparado, e na minha experiência quase ninguém sabe fazer feijão e arroz branco do jeito certo. Prefiro o preto, que tem mais sabor.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            6
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Gosto dos dois feijões, carioca e preto, mas ultimamente tenho tido que me contentar com ervilha e lentilha. Cada um tem seu valor e o importante é variar o prato no dia a dia.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            4
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2btfvu7222s",
+      "rank": 2,
+      "title": "Não tenho como provar, mas tenho um vínculo espiritual com o Largo da Carioca",
+      "label": "Vínculo espiritual com o Largo da Carioca",
+      "context": "Uma pessoa publicou no Bluesky que sente um vínculo espiritual com o Largo da Carioca, no Rio de Janeiro, sem apresentar provas. A declaração gerou identificação em quem frequenta o local, conhecido por sua história e movimento constante.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/shoegazinho.bsky.social/post/3n2btfvu7222s",
+      "createdAt": "2026-11-14T15:38:58.348000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 0.9657378986834521,
+      "suggestedRadius": 94.96,
+      "imageUrl": "assets/images/bsky_3n2btfvu7222s_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2btfvu7222s_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "n tenho como provar mas tenho im vinculo espiritual com o largo da carioca",
+          "url": "https://bsky.app/profile/shoegazinho.bsky.social/post/3n2btfvu7222s",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O Largo da Carioca tem uma energia que não se explica, só se sente. Quem passa por ali todo dia entende esse vínculo espiritual, é um lugar que marca a gente de um jeito que palavras não dão conta.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Falar de vínculo espiritual com um lugar tão caótico e cheio de problemas urbanos parece romantizar o abandono. O Largo da Carioca precisa de melhorias concretas, não de misticismo.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A relação das pessoas com espaços públicos vai além da lógica e da prova. Cada um tem suas memórias e sensações ligadas a lugares da cidade, e isso não precisa ser justificado ou comprovado.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2a3x5df5c2s",
+      "rank": 3,
       "title": "Mobilização contra Medalha Chiquinha Gonzaga a Eduarda Campopiano cresce",
       "label": "Medalha Chiquinha Gonzaga · Campopiano",
-      "context": "A Câmara Municipal do Rio de Janeiro decidiu conceder a Medalha Chiquinha Gonzaga à deputada estadual eleita por São Paulo Eduarda Campopiano (PL), e a mobilização contrária à homenagem ganhou força. A medalha leva o nome de uma compositora e musicista negra do século XIX, e a escolha de Campopiano para recebê-la gerou reação pública.",
+      "context": "A Câmara Municipal do Rio de Janeiro decidiu conceder a Medalha Chiquinha Gonzaga à deputada estadual eleita por São Paulo Eduarda Campopiano (PL). A mobilização contra a homenagem ganhou força, com abaixo-assinado pela revogação da medalha.",
       "source": "bluesky",
       "subreddit": "bsky_rj",
       "permalink": "https://bsky.app/profile/iclnoticias.com.br/post/3n2a3x5df5c2s",
       "createdAt": "2026-11-13T23:07:02.579000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.6000437267171789,
+      "relevanceScore": 0.813945336946542,
+      "suggestedRadius": 90.13,
       "imageUrl": "assets/images/bsky_3n2a3x5df5c2s_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2a3x5df5c2s_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -24,6 +144,11 @@
         {
           "title": "A mobilização contra a decisão da Câmara Municipal do Rio de Janeiro de conceder a Medalha Chiquinha Gonzaga à deputada estadual eleita por São Paulo Eduarda Campopiano (PL) ganhou força. 📄 Leia mais em iclnoticias.com.br/abaixo-assin...",
           "url": "https://bsky.app/profile/iclnoticias.com.br/post/3n2a3x5df5c2s",
+          "subreddit": "bsky_rj"
+        },
+        {
+          "title": "Gente bora assinar Medalha Chiquinha Gonzaga para Eduarda Campopiano? NÃO NO RIO DE JANEIRO! A porpeta diz que feminicídio não existe e que homem tem que ser agressivo Assine pela revogação: assinarj.com.br/medalha/",
+          "url": "https://bsky.app/profile/rinaaaquela.bsky.social/post/3n26qgw5ssc2u",
           "subreddit": "bsky_rj"
         },
         {
@@ -36,7 +161,72 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A mobilização contra a entrega da medalha é legítima porque a homenagem a uma deputada que não tem trajetória ligada à luta das mulheres negras desvaloriza o próprio significado do prêmio. Quem se opõe está defendendo a coerência da honraria, não atacando ninguém.",
+          "text": "A Câmara do Rio errou ao homenagear alguém que diz que feminicídio não existe e que homem tem que ser agressivo. Uma medalha que leva o nome de Chiquinha Gonzaga não pode ir para quem ataca justamente as mulheres. Assinei o abaixo-assinado pela revogação.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Campopiano é garota-propaganda do fascismo e da extrema direita, e a Câmara carioca insiste em dar medalha para esse tipo de figura. A homenagem desrespeita a memória de Chiquinha Gonzaga e o significado da data. Essa prática precisa ser barrada.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A concessão da medalha a Campopiano desvaloriza o próprio título e confunde o que ele representa. Se qualquer casa legislativa entrega homenagem a quem nega o feminicídio, a distinção perde sentido. O problema é a banalização da honraria, não só o nome dela.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2atyno6gk24",
+      "rank": 4,
+      "title": "Carioca, sling e biscoito Globo: o desejo viral",
+      "label": "Humor · Desejo carioca e biscoito Globo",
+      "context": "Um post no Bluesky brinca com o desejo de ser colocado em um sling por um carioca e ter o rabo destruído como um biscoito Globo. A piada viralizou e gerou comentários sobre a fama do carioca e a comparação com mineiros.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/helderknc.bsky.social/post/3n2atyno6gk24",
+      "createdAt": "2026-11-14T06:16:46.447000+00:00",
+      "rawScore": 0.468777988156027,
+      "relevanceScore": 0.6103227323324476,
+      "suggestedRadius": 82.87,
+      "imageUrl": "assets/images/bsky_3n2atyno6gk24_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2atyno6gk24_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "Eu só queria que esse carioca me botasse no sling e destruísse meu rabo como se fosse um biscoito globo (Sim, é você mesmo. Eu sei que você me segue)",
+          "url": "https://bsky.app/profile/helderknc.bsky.social/post/3n2atyno6gk24",
+          "subreddit": "bsky_rj"
+        },
+        {
+          "title": "Você não se emociona mais quando carioca fala \"abraço forte, seu filho da puta\"?",
+          "url": "https://bsky.app/profile/zemarcelomoraes.bsky.social/post/3mzynsnw4sk2t",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Carioca tem esse jeito único de falar 'abraço forte, seu filho da puta' que emociona e faz a gente se sentir em casa. A brincadeira do sling e do biscoito Globo é só mais uma prova desse humor afetuoso e direto que só o Rio tem.",
           "source": "sintese",
           "evidence": [
             1
@@ -46,7 +236,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A Câmara Municipal do Rio errou ao conceder a Medalha Chiquinha Gonzaga a uma deputada eleita por São Paulo e sem relação com a causa que o prêmio representa. A homenagem soa como gesto político vazio e desrespeita a memória da musicista que dá nome à medalha.",
+          "text": "Mineiro é fofo, mas essa onda de exaltar o carioca como se fosse o auge da experiência é exagero. A piada do sling e do biscoito Globo é engraçada, mas generalizar o desejo por carioca ignora que outros estados também têm seu charme.",
           "source": "sintese",
           "evidence": [
             1
@@ -56,9 +246,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A concessão da medalha deveria seguir critérios claros e públicos, e a polêmica mostra que a Câmara do Rio precisa explicar melhor como escolhe os homenageados. Sem transparência, qualquer nome vira alvo de disputa política e a honraria perde sentido.",
+          "text": "Não sou carioca, mas a brincadeira do sling e do biscoito Globo é tão absurda que qualquer um entra no clima. O humor funciona justamente porque mistura desejo e exagero, sem levar a sério a fama de nenhum estado.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         }
       ],
@@ -67,17 +259,17 @@
     },
     {
       "id": "bsky_3n27gbcyxis2i",
-      "rank": 2,
-      "title": "Lutador de jiu-jitsu agride vizinhas no Rio e é contido com tiro na perna pela polícia",
-      "label": "Abordagem policial · Racismo e classe",
-      "context": "Um lutador de jiu-jitsu branco e de classe média agrediu vizinhas e quase matou uma delas no Rio de Janeiro, sendo contido por policiais com um tiro na perna. O caso gerou comparações sobre como a cor da pele e a condição social influenciam a resposta policial, citando que na periferia a abordagem poderia ser diferente.",
+      "rank": 5,
+      "title": "Lutador de jiu-jitsu branco e de classe média agride vizinhas no Rio e é contido com tiro na perna",
+      "label": "Abordagem policial · Raça e classe",
+      "context": "Um lutador de jiu-jitsu branco e de classe média agrediu vizinhas no Rio de Janeiro e quase matou uma delas, sendo contido pelos policiais que atenderam à ocorrência com um tiro na perna. O caso gerou comparação com abordagens policiais na periferia, onde, segundo o post, a cor da pele e a condição social autorizam o tiro na cabeça.",
       "source": "bluesky",
       "subreddit": "bsky_rj",
       "permalink": "https://bsky.app/profile/hospiciobrasil.bsky.social/post/3n27gbcyxis2i",
       "createdAt": "2026-11-13T16:38:25.581000+00:00",
-      "rawScore": 0.5420135504969877,
-      "relevanceScore": 0.5420135504969877,
-      "suggestedRadius": 80.17,
+      "rawScore": 0.4651755347960196,
+      "relevanceScore": 0.4991529372142878,
+      "suggestedRadius": 78.39,
       "imageUrl": "assets/images/bsky_3n27gbcyxis2i_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27gbcyxis2i_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -93,7 +285,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A polícia agiu corretamente ao conter o agressor com um tiro na perna em vez de matar, mas isso só aconteceu porque ele é branco e de classe média. Se fosse um homem negro e pobre na periferia, a abordagem teria sido muito mais letal, como mostra a letra do Emicida: 'Existe pele alva e existe pele alvo'.",
+          "text": "A polícia agiu corretamente ao conter o agressor com um tiro na perna em vez de matar. Isso mostra que é possível neutralizar alguém violento sem recorrer à força letal, e o fato de ele ser branco e de classe média não deveria ser o motivo para esse tratamento mais humano — deveria ser a regra para todos.",
           "source": "sintese",
           "evidence": [
             1
@@ -103,17 +295,21 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O foco deveria ser a violência do lutador contra as vizinhas, não a ação policial. Ele quase matou uma mulher e foi contido com um tiro na perna, o que evitou uma tragédia maior. Ficar discutindo raça e classe desvia a atenção do fato principal: um agressor perigoso foi neutralizado sem morrer.",
+          "text": "O contraste é escancarado: um lutador branco e de classe média quase mata as vizinhas e leva um tiro na perna, enquanto na periferia a cor da pele e a condição social autorizam o tiro na cabeça. A abordagem policial não é igual para todos, e esse caso prova que raça e classe definem quem vive e quem morre.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O caso expõe como a resposta policial varia conforme o perfil do agressor, mas é preciso cuidado para não simplificar. A comparação com a periferia é válida, porém cada ocorrência tem circunstâncias próprias. O debate sobre privilégios é importante, mas não deve substituir a análise técnica da ação policial.",
+          "text": "O tiro na perna não resolveu de imediato, tanto que ele ainda tomou trazer e só depois foi capturado. Isso levanta dúvida sobre a eficácia da abordagem: será que a polícia agiu com técnica ou apenas teve sorte? O debate sobre raça e classe é válido, mas a operação em si parece ter tido falhas.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
@@ -122,17 +318,17 @@
     },
     {
       "id": "bsky_3n26tlk4f6c2d",
-      "rank": 3,
-      "title": "Bom dia estado do Rio de Janeiro",
-      "label": "Operação contra dívida bilionária no RJ",
-      "context": "Uma operação prendeu familiares de Ricardo Magro, incluindo o pai e o avô, em ação relacionada a uma dívida do grupo com o Estado do Rio de Janeiro que ultrapassa R$ 15 bilhões. A ação faz parte da operação \"Do porto ao posto sem pagar imposto\", que investiga o não pagamento de impostos ao longo da cadeia de combustíveis.",
+      "rank": 6,
+      "title": "Bom dia, estado do Rio de Janeiro",
+      "label": "Operação contra dívida de R$ 15 bi no RJ",
+      "context": "Uma operação prendeu familiares de Ricardo Magro, incluindo seu pai e avô, por suspeita de envolvimento em um esquema de sonegação fiscal. A dívida do grupo com o estado do Rio de Janeiro ultrapassa R$ 15 bilhões, segundo a reportagem.",
       "source": "bluesky",
       "subreddit": "bsky_rj",
       "permalink": "https://bsky.app/profile/fvrby.bsky.social/post/3n26tlk4f6c2d",
       "createdAt": "2026-11-13T11:04:06.578000+00:00",
-      "rawScore": 0.360782153150007,
-      "relevanceScore": 0.46078215315000703,
-      "suggestedRadius": 76.73,
+      "rawScore": 0.27593747732747637,
+      "relevanceScore": 0.4033967437673277,
+      "suggestedRadius": 74.11,
       "imageUrl": "assets/images/bsky_3n26tlk4f6c2d_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n26tlk4f6c2d_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -153,7 +349,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A operação mostra que o Estado está indo atrás de quem deve bilhões em impostos. Prender familiares de um empresário com dívida tão alta é um recado de que ninguém fica impune, e esse dinheiro faz falta nos serviços públicos do Rio.",
+          "text": "A operação mostra que a fiscalização está funcionando e que ninguém está acima da lei, mesmo sendo parente de alguém poderoso. Prender familiares de um empresário com dívida bilionária é um recado importante para quem sonega.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -161,7 +357,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Prender pai e avô de um investigado parece mais teatro do que justiça. A dívida é do grupo empresarial, não dos parentes, e esse tipo de ação midiática não resolve o rombo de R$ 15 bilhões nem devolve um centavo aos cofres do estado.",
+          "text": "Prender pai e avô de Ricardo Magro parece mais uma encenação para a mídia do que uma investigação séria. A dívida é da empresa, não dos familiares, e essa operação só serve para desviar o foco dos verdadeiros responsáveis.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -169,7 +365,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A operação tem nome de campanha e mira uma dívida enorme, mas ainda falta saber o que será efetivamente recuperado. Sem condenação e sem ressarcimento, o caso pode virar só mais uma manchete sobre sonegação no Rio sem mudar a arrecadação.",
+          "text": "A operação prendeu familiares de Ricardo Magro, mas a dívida de R$ 15 bilhões é do grupo empresarial. É preciso separar o que é responsabilidade da empresa e o que é dos parentes, e isso só vai ficar claro com o andamento do processo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -179,31 +375,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n26qgw5ssc2u",
-      "rank": 4,
-      "title": "Petição contra Medalha Chiquinha Gonzaga para Eduarda Campopiano",
-      "label": "Medalha Chiquinha Gonzaga · Petição contra",
-      "context": "Uma petição online pede a revogação da Medalha Chiquinha Gonzaga concedida a Eduarda Campopiano no Rio de Janeiro. Os críticos afirmam que ela nega a existência de feminicídio e defende que homens devem ser agressivos.",
+      "id": "bsky_3n2bkynfxrs26",
+      "rank": 7,
+      "title": "Sade homenageou Madureira com refrão \"UUUUHHHHH MADUREIRAAAA\"",
+      "label": "Sade e o refrão de Madureira",
+      "context": "Uma publicação relembrou o momento em que a cantora Sade homenageou Madureira, bairro carioca, com o refrão \"UUUUHHHHH MADUREIRAAAA\". A lembrança viraliza ao associar a artista internacional a um símbolo do subúrbio do Rio.",
       "source": "bluesky",
       "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/rinaaaquela.bsky.social/post/3n26qgw5ssc2u",
-      "createdAt": "2026-11-13T10:07:52.972000+00:00",
-      "rawScore": 0.33288584296753015,
-      "relevanceScore": 0.4328858429675302,
-      "suggestedRadius": 75.48,
-      "imageUrl": "assets/images/bsky_3n26qgw5ssc2u_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n26qgw5ssc2u_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/giuguerra.bsky.social/post/3n2bkynfxrs26",
+      "createdAt": "2026-11-14T13:08:22.647000+00:00",
+      "rawScore": 0.366949669596633,
+      "relevanceScore": 0.3937524475987104,
+      "suggestedRadius": 73.65,
+      "imageUrl": "assets/images/bsky_3n2bkynfxrs26_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2bkynfxrs26_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-rj",
       "sources": [
         {
-          "title": "Gente bora assinar Medalha Chiquinha Gonzaga para Eduarda Campopiano? NÃO NO RIO DE JANEIRO! A porpeta diz que feminicídio não existe e que homem tem que ser agressivo Assine pela revogação: assinarj.com.br/medalha/",
-          "url": "https://bsky.app/profile/rinaaaquela.bsky.social/post/3n26qgw5ssc2u",
-          "subreddit": "bsky_rj"
-        },
-        {
-          "title": "Oi, Rio de Janeiro, bora encontra com a gnt, amanha?",
-          "url": "https://bsky.app/profile/carolbonomi.bsky.social/post/3n224xz6xs22k",
+          "title": "Me lembrou quando a cantora SADE homenageou o um bairro carioca com o refrão “UUUUHHHHH MADUREIRAAAA”",
+          "url": "https://bsky.app/profile/giuguerra.bsky.social/post/3n2bkynfxrs26",
           "subreddit": "bsky_rj"
         }
       ],
@@ -211,7 +402,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A petição é necessária porque Eduarda Campopiano diz que feminicídio não existe e que homem tem que ser agressivo. Uma medalha não pode homenagear quem minimiza a violência contra a mulher. Assinar pela revogação é uma forma de pressionar as autoridades a rever a concessão.",
+          "text": "Uma artista do porte de Sade citar Madureira num refrão mostra como o subúrbio carioca tem força cultural e merece esse tipo de reconhecimento internacional.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -219,7 +410,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A medalha já foi concedida e a petição quer revogar com base em opiniões. Isso é censura e desrespeito ao devido processo. Se as falas são polêmicas, o debate deve ser público, não uma campanha para retirar uma honraria já dada.",
+          "text": "Ficar repetindo esse refrão como se fosse uma grande homenagem soa forçado, porque transforma um bairro real em piada e reduz Madureira a um bordão.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -227,7 +418,115 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A concessão da medalha e a petição pela revogação mostram que faltou diálogo. Antes de homenagear, seria melhor ouvir a sociedade e verificar se a pessoa realmente defende ideias tão controversas. Agora, a revogação também precisa de critérios claros para não virar palanque.",
+          "text": "A lembrança é simpática, mas o que chama atenção é como um episódio antigo volta a circular sem contexto, e cada um interpreta o refrão do jeito que quer.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2ami7cg7c2c",
+      "rank": 8,
+      "title": "Rio de Janeiro confirma primeira morte por MPOX",
+      "label": "Mpox · Primeira morte no Rio",
+      "context": "A cidade do Rio de Janeiro confirmou a primeira morte por MPOX, conforme noticiado pelo g1. O caso marca a primeira fatalidade pela doença no município, o que levanta alerta para a circulação do vírus e a necessidade de prevenção.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/contagemcorona1.bsky.social/post/3n2ami7cg7c2c",
+      "createdAt": "2026-11-14T04:02:21.641000+00:00",
+      "rawScore": 0.317952269238001,
+      "relevanceScore": 0.34117617375060255,
+      "suggestedRadius": 71.05,
+      "imageUrl": "assets/images/bsky_3n2ami7cg7c2c_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2ami7cg7c2c_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "🔴 Cidade do Rio de Janeiro confirma a primeira morte pela varíola MPOX g1.globo.com/rj/rio-de-ja...",
+          "url": "https://bsky.app/profile/contagemcorona1.bsky.social/post/3n2ami7cg7c2c",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A confirmação rápida da morte pela MPOX mostra que as autoridades de saúde estão monitorando a doença e informando a população. Isso permite que medidas de contenção sejam adotadas e que as pessoas busquem ajuda médica ao primeiro sintoma.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A primeira morte por MPOX no Rio expõe a falta de preparo do sistema de saúde para conter surtos. Se houvesse campanha de vacinação e orientação ampla desde o início, esse óbito poderia ter sido evitado.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A morte por MPOX no Rio preocupa, mas é preciso ver se o caso é isolado ou se há transmissão comunitária. Acompanhar os próximos boletins e a resposta da vigilância epidemiológica dirá se o risco é maior para a população.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n25uqodhss2k",
+      "rank": 9,
+      "title": "Se fosse um governo de direita, homicídios e tiroteios aumentariam, diz morador do Rio",
+      "label": "Segurança pública · Governo de direita no Rio",
+      "context": "Um usuário do Bluesky afirma que, se o governo fosse de direita, os homicídios e tiroteios aumentariam, citando sua experiência de morar em um estado de direita, o Rio de Janeiro. A declaração compara a situação da segurança pública sob gestões de direita com a de outros governos.",
+      "source": "bluesky",
+      "subreddit": "bsky_rj",
+      "permalink": "https://bsky.app/profile/fabridosreis.bsky.social/post/3n25uqodhss2k",
+      "createdAt": "2026-11-13T01:52:18.171000+00:00",
+      "rawScore": 0.29562364334911106,
+      "relevanceScore": 0.3172166179212409,
+      "suggestedRadius": 69.79,
+      "imageUrl": "assets/images/bsky_3n25uqodhss2k_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n25uqodhss2k_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rj",
+      "sources": [
+        {
+          "title": "SE FOSSE UM GOVERNO DE DIREITA, COM PLENA CERTEZA OS HOMICÍDIOS E TIROTEIOS AUMENTARIAM. SEI DISSO PORQUE MORO EM UM ESTADO DE DIREITA. RIO DE JANEIRO.",
+          "url": "https://bsky.app/profile/fabridosreis.bsky.social/post/3n25uqodhss2k",
+          "subreddit": "bsky_rj"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Quem mora no Rio sabe que a violência não diminuiu com governos de direita. O relato de quem vive o dia a dia mostra que a retórica de mão dura não resolveu os tiroteios e homicídios.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Atribuir o aumento da violência a um governo de direita ignora que o crime organizado e o tráfico têm raízes antigas. A segurança pública depende de políticas de inteligência e investimento social, não de rótulos ideológicos.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A comparação entre estados de direita e esquerda é limitada porque cada um tem realidades diferentes. O que importa é avaliar dados concretos de homicídios e tiroteios ao longo do tempo, e não só a orientação do governo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -238,17 +537,17 @@
     },
     {
       "id": "bsky_3n27ku35j4c2d",
-      "rank": 5,
-      "title": "Investigação das floriculturas 24h do Rio pode levar metade do país à prisão",
+      "rank": 10,
+      "title": "Investigação das floriculturas 24h do Rio de Janeiro",
       "label": "Floriculturas 24h do Rio · Investigação",
-      "context": "Uma publicação no Bluesky afirma que, se as floriculturas que funcionam 24 horas no Rio de Janeiro forem investigadas, metade do país acabaria presa. O comentário trata o assunto como piada, sugerindo que esses estabelecimentos escondem outra atividade por trás da venda de flores.",
+      "context": "Uma publicação viral no Bluesky afirma que, se as floriculturas que funcionam 24 horas no Rio de Janeiro fossem investigadas, metade do país acabaria presa. O comentário gerou reações bem-humoradas sobre o que essas lojas realmente vendem no período da madrugada.",
       "source": "bluesky",
       "subreddit": "bsky_rj",
       "permalink": "https://bsky.app/profile/ango.blrgms.com/post/3n27ku35j4c2d",
       "createdAt": "2026-11-13T18:00:29.779000+00:00",
-      "rawScore": 0.4282564256626097,
-      "relevanceScore": 0.4282564256626097,
-      "suggestedRadius": 75.26,
+      "rawScore": 0.28972018079433165,
+      "relevanceScore": 0.31088195400723073,
+      "suggestedRadius": 69.45,
       "imageUrl": "assets/images/bsky_3n27ku35j4c2d_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27ku35j4c2d_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -264,7 +563,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "As floriculturas 24h fazem parte da vida noturna carioca e viraram ponto de encontro e de serenata. Investigar esses lugares só atrapalha quem trabalha e frequenta, sem resolver problema nenhum de segurança.",
+          "text": "As floriculturas 24h são um patrimônio da cidade e não deveriam ser alvo de investigação nenhuma. Deixem o povo comprar suas flores de madrugada em paz, porque se tirarem esse comércio o mercado de serenatas acaba de vez.",
           "source": "sintese",
           "evidence": [
             1
@@ -274,322 +573,19 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Se a piada é que metade do país iria preso, é porque essas floriculturas não vendem só flor. Funcionar 24 horas sem que ninguém questione o que acontece lá dentro é um sinal de que tem coisa errada.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A frase viral funciona como humor justamente porque ninguém sabe direito o que rola nessas floriculturas de madrugada. Antes de levar a sério, vale entender se é exagero de internet ou se existe algo concreto por trás.",
+          "text": "Quem já desceu de ônibus de madrugada e deu de cara com uma floricultura aberta sabe que tem coisa estranha ali. A piada existe porque todo mundo desconfia do que realmente se vende nessas lojas às três da manhã.",
           "source": "sintese",
           "evidence": [
             2
           ],
           "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2a5xg3ggc2u",
-      "rank": 6,
-      "title": "Paralisação determinada por autoridades dos EUA após falhas de comunicação atinge operações em Guarulhos, Rio, Campinas, BH e Brasília",
-      "label": "Paralisação dos EUA afeta aeroportos brasileiros",
-      "context": "Autoridades dos Estados Unidos determinaram uma paralisação que atinge operações em Guarulhos, Rio de Janeiro, Campinas, Belo Horizonte e Brasília. A medida foi motivada por falhas de comunicação e afeta diretamente as operações nesses locais.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/sandruska.bsky.social/post/3n2a5xg3ggc2u",
-      "createdAt": "2026-11-13T23:42:25.571000+00:00",
-      "rawScore": 0.40413693489175295,
-      "relevanceScore": 0.40413693489175295,
-      "suggestedRadius": 74.14,
-      "imageUrl": "assets/images/bsky_3n2a5xg3ggc2u_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2a5xg3ggc2u_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "🔥Paralisação determinada por autoridades estadunidenses após falhas de comunicação atinge operações em Guarulhos, Rio de Janeiro, Campinas, Belo Horizonte e Brasília www.brasil247.com/brasil/suspe...",
-          "url": "https://bsky.app/profile/sandruska.bsky.social/post/3n2a5xg3ggc2u",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A paralisação determinada pelos EUA é uma medida de segurança necessária diante de falhas de comunicação. Sem coordenação adequada, o risco de incidentes aumenta, e é melhor parar do que expor passageiros e tripulações a perigos evitáveis.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A decisão dos EUA de paralisar operações em cinco cidades brasileiras é desproporcional e prejudica milhares de passageiros. Falhas de comunicação poderiam ser resolvidas com ajustes técnicos, sem interromper um setor essencial e causar transtornos generalizados.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A paralisação expõe a dependência das operações brasileiras em relação a decisões externas. Antes de criticar ou aplaudir, é preciso entender quais falhas de comunicação ocorreram e se havia alternativas menos drásticas para garantir a segurança.",
+          "text": "A frase é engraçada, mas vale lembrar que floricultura 24h no Rio pode simplesmente ser um negócio legítimo de quem vende flor para festa e casamento. Generalizar e rir sem saber o que acontece dentro dessas lojas não resolve nada.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n27cglf3pk2g",
-      "rank": 7,
-      "title": "Usuário diz odiar feijão carioca e não gostar muito de arroz",
-      "label": "Preferência por feijão preto e arroz",
-      "context": "Um usuário declarou no Bluesky que odeia feijão carioca, ama feijão preto e não é fã de arroz. A publicação gerou comentários de pessoas que concordam, discordam ou relativizam o gosto, mostrando que a preferência por tipos de feijão e arroz é bastante pessoal.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/anneelenleblanc.bsky.social/post/3n27cglf3pk2g",
-      "createdAt": "2026-11-13T15:29:47.772000+00:00",
-      "rawScore": 0.32696869548524865,
-      "relevanceScore": 0.32696869548524865,
-      "suggestedRadius": 70.31,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "No geral eu odeio o feijão carioca ( amo feijão preto) E não sou muito fã de arroz",
-          "url": "https://bsky.app/profile/anneelenleblanc.bsky.social/post/3n27cglf3pk2g",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Feijão carioca só funciona se for muito bem preparado, e quase ninguém sabe fazer. Prefiro feijão preto, que tem sabor mais marcante, e arroz branco também só como se estiver no ponto certo.",
-          "source": "sintese",
-          "evidence": [
-            5
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Feijão carioca é o melhor, e arroz combina com tudo. Não sou fã de feijão preto, acho o sabor forte demais. Cada um tem seu gosto, mas o clássico carioca com arroz não tem erro.",
-          "source": "sintese",
-          "evidence": [
-            4
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Gosto dos dois feijões, mas ultimamente tenho comido mais ervilha e lentilha por questões de saúde. É questão de adaptação e gosto pessoal, não de certo ou errado.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n25vdgz3mc2m",
-      "rank": 8,
-      "title": "Estou pensando em colocar sotaque carioca no meu personagem",
-      "label": "Sotaque carioca em personagem · imitação e autoparódia",
-      "context": "Um usuário do Bluesky disse que está pensando em colocar sotaque carioca no seu personagem. A ideia gerou conversa sobre imitar sotaques regionais, com gente citando mistura de expressões paulistas, cariocas e mineiras e o incômodo com quem parece fazer autoparódia do próprio sotaque.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/leonardoblume.bsky.social/post/3n25vdgz3mc2m",
-      "createdAt": "2026-11-13T02:02:42.875000+00:00",
-      "rawScore": 0.09500021607226733,
-      "relevanceScore": 0.29500021607226734,
-      "suggestedRadius": 68.59,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "Estou pensando em colocar sotaque carioca no meu personagem",
-          "url": "https://bsky.app/profile/leonardoblume.bsky.social/post/3n25vdgz3mc2m",
-          "subreddit": "bsky_rj"
-        },
-        {
-          "title": "Tem que misturar os sotaques e expressões paulista, carioca e mineira na mesma frase, para ter um autêntico sotaque sudestino",
-          "url": "https://bsky.app/profile/brunomsantiago.bsky.social/post/3mzxivhbxwk2o",
-          "subreddit": "bsky_rj"
-        },
-        {
-          "title": "curada com o bruno imitando sotaque carioca ele imita direitinho",
-          "url": "https://bsky.app/profile/heavenzgyu.shy.cat/post/3n24wof66nc2y",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Misturar expressões paulistas, cariocas e mineiras na mesma frase pode dar um sotaque sudestino autêntico e divertido, e quem imita bem, como o Bruno fazendo carioca, mostra que o personagem ganha vida com esse tipo de escolha.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O que incomoda é a autoparódia: carioca que força o próprio sotaque cansa até quem é carioca, e o paulistano de quebrada também foi muito usado por gente que não é quebrada, o que irrita bastante.",
-          "source": "sintese",
-          "evidence": [
-            4,
-            5,
-            7
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Talvez valha testar outro sotaque, como o porto-alegrense, ou até brincar com um 'bá tche' só para irritar, já que a escolha depende da intensidade e do quanto o personagem pede aquele jeito de falar.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            6
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n27zcnr7zc25",
-      "rank": 9,
-      "title": "Real Futebol Clube Heips (Rio de Janeiro, Rio de Janeiro)",
-      "label": "Real Futebol Clube Heips · Clube carioca",
-      "context": "O Real Futebol Clube Heips aparece em publicação no Bluesky associada ao Rio de Janeiro. Não há informações adicionais disponíveis nas fontes sobre o clube ou o teor da publicação.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/ultimadivisao.com.br/post/3n27zcnr7zc25",
-      "createdAt": "2026-11-13T22:19:12.870000+00:00",
-      "rawScore": 0.20813516238388832,
-      "relevanceScore": 0.20813516238388832,
-      "suggestedRadius": 63.37,
-      "imageUrl": "assets/images/bsky_3n27zcnr7zc25_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27zcnr7zc25_reddit_thumb.jpg",
-      "category": "esportes",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "Real Futebol Clube Heips (Rio de Janeiro, Rio de Janeiro)",
-          "url": "https://bsky.app/profile/ultimadivisao.com.br/post/3n27zcnr7zc25",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O Real Futebol Clube Heips merece visibilidade, e ver o nome do clube circulando no Bluesky mostra que times cariocas menores também têm espaço para aparecer e atrair novos torcedores.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Uma publicação solta com o nome do Real Futebol Clube Heips não diz nada de útil; sem informação sobre o clube ou o motivo da postagem, o conteúdo não passa de ruído para quem quer entender o assunto.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Falta contexto para avaliar o Real Futebol Clube Heips: a fonte traz apenas o nome do clube e a cidade, sem detalhes sobre o que aconteceu, então qualquer conclusão sobre o caso seria precipitada.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n25txuh4ec2l",
-      "rank": 10,
-      "title": "Organização carioca surpreende em eventos menores, diz usuário",
-      "label": "Organização carioca · Comparação com EUA",
-      "context": "Um usuário do Bluesky comentou que a organização carioca em eventos menores é surpreendentemente diferente de outras realidades. A observação gerou comparações com o senso de coletividade nos EUA e o orgulho de participar de eventos como as Olimpíadas.",
-      "source": "bluesky",
-      "subreddit": "bsky_rj",
-      "permalink": "https://bsky.app/profile/eumesma.bsky.social/post/3n25txuh4ec2l",
-      "createdAt": "2026-11-13T01:38:20.676000+00:00",
-      "rawScore": 0.1977666414268717,
-      "relevanceScore": 0.1977666414268717,
-      "suggestedRadius": 62.68,
-      "imageUrl": "assets/images/bsky_3n25txuh4ec2l_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n25txuh4ec2l_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rj",
-      "sources": [
-        {
-          "title": "Isso eu tbm fico mas só é por conhecer a organização carioca em coisas menores, é realmente surpreendente como são coisas completamente diferentes kkkkkkk",
-          "url": "https://bsky.app/profile/eumesma.bsky.social/post/3n25txuh4ec2l",
-          "subreddit": "bsky_rj"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A galera que participa de eventos grandes, mesmo quando é pago, costuma ter orgulho de fazer parte. Esse senso de pertencimento aparece nas Olimpíadas, com voluntários felizes em diversos estratos, e mostra que a organização carioca sabe mobilizar as pessoas.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Nos EUA o senso de coletividade é fraquíssimo, então a comparação já começa torta. O problema aqui é a ideia de que o governo está sempre contra o cidadão e a noção distorcida sobre Estado e nação, o que atrapalha qualquer organização coletiva.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            4
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A organização carioca em coisas menores realmente surpreende, mas o orgulho de pertencer que aparece em eventos grandes, como as Olimpíadas, depende do contexto. Às vezes o voluntariado ou o trabalho remunerado desperta esse sentimento, mas não dá para generalizar.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3
-          ],
           "votes": 0
         }
       ],

@@ -1,21 +1,94 @@
 {
-  "generatedAt": "2026-11-14T05:38:24.414303+00:00",
+  "generatedAt": "2026-11-14T17:53:05.010538+00:00",
   "region": "br-ma",
-  "count": 10,
+  "count": 9,
   "items": [
     {
-      "id": "bsky_3n27aa7v6j22d",
+      "id": "bsky_3n2bpzz7p522o",
       "rank": 1,
-      "title": "Proposta cria parque nacional da Floresta Petrificada no Maranhão",
-      "label": "Floresta Petrificada do Maranhão · Parque Nacional",
-      "context": "Uma campanha no Maranhão propõe a criação do Parque Nacional da Floresta Petrificada do Maranhense, com abaixo-assinado para reunir apoio. O local abriga o mais alto tronco petrificado em pé do Brasil e formações mais antigas que os dinossauros.",
+      "title": "Posts decepcionados com Flávio Dino ignoram seu passado como governador do Maranhão",
+      "label": "Flávio Dino · Passado no Maranhão",
+      "context": "Posts nas redes sociais criticam eleitores que se decepcionaram com Flávio Dino, lembrando sua atuação como governador do Maranhão. O histórico inclui voto contra trabalhadores e conflitos com povos indígenas e comunidades tradicionais, segundo as publicações.",
+      "source": "bluesky",
+      "subreddit": "bsky_ma",
+      "permalink": "https://bsky.app/profile/karolsuetomoreira.com/post/3n2bpzz7p522o",
+      "createdAt": "2026-11-14T14:38:36.045000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-ma",
+      "sources": [
+        {
+          "title": "Confesso que tô dando umas risadinhas com cada post decepcionado com o Flávio Dino. Gente que não lembra de quando ele foi governador do Maranhão, né?",
+          "url": "https://bsky.app/profile/karolsuetomoreira.com/post/3n2bpzz7p522o",
+          "subreddit": "bsky_ma"
+        },
+        {
+          "title": "Mas quando a esquerda radical fala \"a atuação do Flávio Dino como governador do Maranhão não foi lá muito daora, pergunta pros movimentos de moradia e os quilombolas\" todo mundo apedrajava a gente, né",
+          "url": "https://bsky.app/profile/culturaguik.bsky.social/post/3n275oscbj222",
+          "subreddit": "bsky_ma"
+        },
+        {
+          "title": "é paia mas é importante pra gnt nunca esquecer o passado dele. ele já tomou outras decisões arrombadas e anos atras, qdo ainda era governador, teve um massacre de indígenas do maranhão e o dino negou a história. eh um desgraçado. a gente acaba esquecendo de algumas coisas pq é muitooo acontecimento",
+          "url": "https://bsky.app/profile/pintassilgoabatido.bsky.social/post/3n2a2bopxz222",
+          "subreddit": "bsky_ma"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O histórico de Dino como governador do Maranhão já mostrava o que ele faria depois: votos contra trabalhadores e problemas com indígenas e quilombolas. Quem se decepciona agora não prestou atenção no passado.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2,
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Dino como ministro do STF tem tomado decisões que surpreendem positivamente, como enfrentar o Fux. Julgar seu futuro por um passado de anos atrás é injusto e ignora que ele pode ter mudado.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            6
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A decepção com Dino é compreensível, mas o debate fica raso quando se ignora que ele já votou contra trabalhadores antes mesmo de ser governador. É preciso olhar o conjunto da obra, não só um episódio.",
+          "source": "sintese",
+          "evidence": [
+            4,
+            5
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27aa7v6j22d",
+      "rank": 2,
+      "title": "Maranhão tem floresta petrificada e proposta quer criar parque nacional",
+      "label": "Floresta Petrificada do Maranhão · Proposta de parque nacion",
+      "context": "Uma campanha no Bluesky pede assinaturas para criar o Parque Nacional da Floresta Petrificada do Maranhão, descrita como uma das maiores e mais importantes do Brasil. A área abriga o mais alto tronco petrificado em pé do país e é mais antiga que os dinossauros, segundo os apoiadores da proposta.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/cisneros.bsky.social/post/3n27aa7v6j22d",
       "createdAt": "2026-11-13T14:50:30.372000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.3222391270110704,
+      "relevanceScore": 0.43703216098471453,
+      "suggestedRadius": 75.67,
       "imageUrl": "assets/images/bsky_3n27aa7v6j22d_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27aa7v6j22d_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -41,7 +114,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Floresta Petrificada do Maranhão merece virar parque nacional: tem o mais alto tronco petrificado em pé do Brasil e formações mais antigas que os dinossauros. Proteger esse patrimônio é valorizar a ciência e o turismo da região.",
+          "text": "A floresta petrificada do Maranhão guarda o mais alto tronco petrificado em pé do Brasil e é mais antiga que os dinossauros. Criar o parque nacional é o jeito de garantir que esse patrimônio fique protegido e seja conhecido, em vez de abandonado.",
           "source": "sintese",
           "evidence": [
             1,
@@ -52,7 +125,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Criar parque nacional no papel não garante nada se faltar fiscalização e estrutura. O Maranhão já tem áreas protegidas que sofrem com falta de recursos; sem plano de manejo e verba, a floresta petrificada continua vulnerável.",
+          "text": "Assinar abaixo assinado na internet não vira parque nacional por decreto. Sem plano de manejo, verba e fiscalização, a área continua exposta a vandalismo e à falta de estrutura para receber visitantes.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -60,131 +133,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A proposta é boa, mas precisa ouvir as comunidades locais antes de virar parque. Sem diálogo com quem vive no entorno, a proteção pode gerar conflitos e não funcionar na prática.",
+          "text": "A proposta é boa no papel, mas o debate real é como conciliar a criação do parque com as comunidades que vivem no entorno. Sem consulta local e sem definir quem administra a área, o projeto pode travar antes de sair do papel.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n275oscbj222",
-      "rank": 2,
-      "title": "Esquerda radical critica atuação de Flávio Dino como governador do Maranhão",
-      "label": "Dino no Maranhão · Críticas da esquerda",
-      "context": "A esquerda radical tem criticado a atuação de Flávio Dino como governador do Maranhão, citando a relação com movimentos de moradia e quilombolas. O tema voltou à tona após Dino assumir o Ministério da Justiça e o STF, com aliados relembrando episódios do passado.",
-      "source": "bluesky",
-      "subreddit": "bsky_ma",
-      "permalink": "https://bsky.app/profile/culturaguik.bsky.social/post/3n275oscbj222",
-      "createdAt": "2026-11-13T14:04:54.772000+00:00",
-      "rawScore": 0.6844364129969953,
-      "relevanceScore": 0.7410856797495046,
-      "suggestedRadius": 87.65,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-ma",
-      "sources": [
-        {
-          "title": "Mas quando a esquerda radical fala \"a atuação do Flávio Dino como governador do Maranhão não foi lá muito daora, pergunta pros movimentos de moradia e os quilombolas\" todo mundo apedrajava a gente, né",
-          "url": "https://bsky.app/profile/culturaguik.bsky.social/post/3n275oscbj222",
-          "subreddit": "bsky_ma"
-        },
-        {
-          "title": "é paia mas é importante pra gnt nunca esquecer o passado dele. ele já tomou outras decisões arrombadas e anos atras, qdo ainda era governador, teve um massacre de indígenas do maranhão e o dino negou a história. eh um desgraçado. a gente acaba esquecendo de algumas coisas pq é muitooo acontecimento",
-          "url": "https://bsky.app/profile/pintassilgoabatido.bsky.social/post/3n2a2bopxz222",
-          "subreddit": "bsky_ma"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A esquerda radical sempre apontou os problemas do Dino no Maranhão, e agora que ele está no STF fica claro que a crítica era certeira. Ele já mostrou que não é confiável para os movimentos sociais e para os povos indígenas, e a história dele como governador não pode ser esquecida.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Dino como ministro do STF tem enfrentado o Fux e outros setores, mostrando uma postura firme que não se via antes. A esquerda radical que o critica pelo passado no Maranhão deveria reconhecer que ele evoluiu e hoje é um dos poucos a bater de frente com o establishment.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "É preciso separar as coisas: a atuação de Dino como governador teve seus problemas, mas como ministro do STF ele tem tomado decisões importantes. A crítica da esquerda radical é válida, mas não pode ser usada para desqualificar todo o seu trabalho atual.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n27ucoc55k2y",
-      "rank": 3,
-      "title": "Maranhense acha pão de forma Bauducco com gosto de sabão",
-      "label": "Pão de forma Bauducco · Gosto de sabão",
-      "context": "Uma pessoa do Maranhão relatou no Bluesky que o pão de forma Bauducco chegou recentemente à sua rotina, por volta da pandemia, e que, para ela, o produto tem gosto de sabão. O comentário gerou identificação e discordância de outros usuários, que compararam a experiência com a de outras marcas e linhas do produto.",
-      "source": "bluesky",
-      "subreddit": "bsky_ma",
-      "permalink": "https://bsky.app/profile/sabbathdaniel.bsky.social/post/3n27ucoc55k2y",
-      "createdAt": "2026-11-13T20:49:47.673000+00:00",
-      "rawScore": 0.2830287350410309,
-      "relevanceScore": 0.2673875651630774,
-      "suggestedRadius": 67.03,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-ma",
-      "sources": [
-        {
-          "title": "Eu sou do Maranhão, então esse negócio de \"pão de forma bauducco\" é relativamente recente (acredito que da pandemia pra cá). E meu deus, pra mim, aquilo tem gosto de sabão.",
-          "url": "https://bsky.app/profile/sabbathdaniel.bsky.social/post/3n27ucoc55k2y",
-          "subreddit": "bsky_ma"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A linha Multigrãos da Bauducco é diferente das demais e funciona muito bem com peito de peru e requeijão. Mesmo comprando raramente, vale a pena porque o sabor e a textura se destacam dos outros pães de forma.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O pão de forma Bauducco tem um gosto residual de sabão que estraga qualquer sanduíche. Quem cresceu comendo pão de padaria ou de outras marcas sente a diferença na hora e não consegue se acostumar com esse sabor.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A percepção do gosto varia muito conforme a linha do produto: o Multigrãos agrada, enquanto o tradicional desagrada. O jeito é provar versões diferentes antes de generalizar a opinião sobre a marca inteira.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
           "votes": 0
         }
       ],
@@ -193,19 +144,19 @@
     },
     {
       "id": "bsky_3n25vmykre22r",
-      "rank": 4,
-      "title": "Tios enriqueceram com Bolsa Família e agora odeiam Lula, diz post",
+      "rank": 3,
+      "title": "Tios enriqueceram com Bolsa Família e agora odeiam Lula, diz sobrinho",
       "label": "Bolsa Família · Gratidão e voto",
-      "context": "Um post no Bluesky afirma que os tios do autor construíram um patrimônio em São Mateus do Maranhão com recursos do Bolsa Família e, mesmo assim, odeiam o presidente Lula. O caso ilustra a contradição entre benefício recebido e voto de oposição, tema recorrente no debate sobre programas sociais.",
+      "context": "Um usuário do Bluesky relatou que seus tios, em São Mateus do Maranhão, construíram um negócio com recursos do Bolsa Família e hoje demonstram forte oposição ao presidente Lula. O caso ilustra a contradição entre a dependência de programas sociais e a escolha política de parte dos beneficiários.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/yurialbuquerque.dev/post/3n25vmykre22r",
       "createdAt": "2026-11-13T02:08:03.881000+00:00",
-      "rawScore": 0.2679807175103544,
-      "relevanceScore": 0.2531711543542047,
-      "suggestedRadius": 66.19,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.11077078890144126,
+      "relevanceScore": 0.10070071718312841,
+      "suggestedRadius": 55.04,
+      "imageUrl": "assets/images/bsky_3n25vmykre22r_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n25vmykre22r_wiki_thumb.jpg",
       "category": "economia",
       "region": "br-ma",
       "sources": [
@@ -219,7 +170,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Quem enriqueceu com o Bolsa Família e depois vota contra o Lula mostra que o programa funcionou para tirar a família da pobreza, mas a gratidão não se traduz automaticamente em voto. O benefício deu autonomia para os tios empreenderem, e agora eles fazem escolhas políticas próprias.",
+          "text": "O Bolsa Família deu condições para muita gente empreender e crescer, como esses tios que montaram um império. Se hoje criticam o Lula, é porque têm liberdade para discordar, e isso mostra que o programa funciona como ponto de partida, não de acomodação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -227,7 +178,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A contradição desses tios é o retrato do eleitor que se beneficia do Estado e depois critica quem o ajudou. Levantar um império com dinheiro do Bolsa Família e odiar o Lula é uma ingratidão que revela como o voto de oposição muitas vezes ignora os próprios interesses materiais.",
+          "text": "Quem enriqueceu às custas do Bolsa Família e agora vota contra quem defendeu o programa demonstra uma ingratidão que beira o irracional. O mínimo seria reconhecer o papel do Estado na ascensão social, em vez de apoiar quem quer acabar com o benefício.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -235,7 +186,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O caso dos tios mostra que o Bolsa Família não compra voto nem define ideologia. As pessoas podem receber o benefício, prosperar com ele e ainda assim rejeitar o governo por outros motivos, como valores ou desconfiança. Reduzir o voto a gratidão econômica é simplificar demais.",
+          "text": "A história dos tios revela que o voto não se compra com benefício social. Muita gente agradece a ajuda, mas vota com base em outros valores, como família, religião ou desconfiança do governo. É um lembrete de que o eleitor é mais complexo do que a renda sugere.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -246,19 +197,19 @@
     },
     {
       "id": "bsky_3n25rnktvbk2g",
-      "rank": 5,
+      "rank": 4,
       "title": "Quem votou no Dino para o governo do Maranhão está dessensibilizado com a possibilidade de receber um milkshake duck hipotético dele de tempos em tempos",
       "label": "Dino · Milkshake duck hipotético",
-      "context": "Um post no Bluesky afirma que eleitores de Flávio Dino para o governo do Maranhão estariam dessensibilizados com a possibilidade de receber um 'milkshake duck' hipotético dele de tempos em tempos. O termo se refere a uma figura pública que parece admirável no início, mas revela um passado problemático depois.",
+      "context": "O post compara eleitores de Flávio Dino no Maranhão a uma situação de 'milkshake duck', quando uma figura pública admirada revela algo negativo depois. A discussão sugere que esses eleitores já estariam acostumados com surpresas desagradáveis envolvendo o político.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/microplasticos.gripe/post/3n25rnktvbk2g",
       "createdAt": "2026-11-13T00:56:47.173000+00:00",
-      "rawScore": 0.19828683742206943,
-      "relevanceScore": 0.18732880481018246,
-      "suggestedRadius": 61.97,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.07974450283276198,
+      "relevanceScore": 0.07249500257523815,
+      "suggestedRadius": 52.15,
+      "imageUrl": "assets/images/bsky_3n25rnktvbk2g_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n25rnktvbk2g_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-ma",
       "sources": [
@@ -272,7 +223,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O eleitor do Dino no Maranhão já viu tanta coisa que aprendeu a separar o que presta do que não presta. Se aparecer um milkshake duck, ele reconhece rápido e não se abala — a experiência de ter votado nele vacina contra surpresa.",
+          "text": "Quem votou no Dino no Maranhão já aprendeu a lidar com o 'milkshake duck' dele: a criatura elogiada no executivo e depois realocada no judiciário mostra que o eleitor maranhense desenvolveu tolerância a esse tipo de reviravolta.",
           "source": "sintese",
           "evidence": [
             1
@@ -282,7 +233,64 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Quem votou no Dino para o governo do Maranhão e agora minimiza um milkshake duck hipotético está sendo conivente. O eleitor deveria cobrar coerência, não tratar o risco como piada — dessensibilização não é maturidade política, é omissão.",
+          "text": "O eleitor do Dino no Maranhão não está dessensibilizado, está é conformado: a possibilidade de um 'milkshake duck' hipotético só existe porque a criatura já deu mostras de que não era para o executivo, e o judiciário virou o destino natural.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A comparação com 'milkshake duck' é exagerada: o eleitor do Dino no Maranhão vota com base em expectativas concretas, e a chance de uma surpresa negativa hipotética não anula o julgamento que já fizeram sobre o desempenho dele no executivo.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27ucoc55k2y",
+      "rank": 5,
+      "title": "Maranhense diz que pão de forma Bauducco tem gosto de sabão",
+      "label": "Pão de forma Bauducco · Gosto de sabão",
+      "context": "Uma pessoa do Maranhão relatou que o pão de forma Bauducco chegou ao estado recentemente, por volta da pandemia, e que, na opinião dela, o produto tem gosto de sabão. O comentário gerou identificação e discordância de outros usuários, que compararam a experiência com diferentes versões do pão.",
+      "source": "bluesky",
+      "subreddit": "bsky_ma",
+      "permalink": "https://bsky.app/profile/sabbathdaniel.bsky.social/post/3n27ucoc55k2y",
+      "createdAt": "2026-11-13T20:49:47.673000+00:00",
+      "rawScore": 0.07458801667142537,
+      "relevanceScore": 0.06780728788311396,
+      "suggestedRadius": 51.62,
+      "imageUrl": "assets/images/bsky_3n27ucoc55k2y_unsp.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27ucoc55k2y_unsp_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ma",
+      "sources": [
+        {
+          "title": "Eu sou do Maranhão, então esse negócio de \"pão de forma bauducco\" é relativamente recente (acredito que da pandemia pra cá). E meu deus, pra mim, aquilo tem gosto de sabão.",
+          "url": "https://bsky.app/profile/sabbathdaniel.bsky.social/post/3n27ucoc55k2y",
+          "subreddit": "bsky_ma"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O Multigrãos da Bauducco é diferente dos demais e combina muito com peito de peru e requeijão. Mesmo comprando raramente, vale a pena porque o sabor se destaca.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O pão de forma Bauducco tem gosto de sabão, como a pessoa do Maranhão falou. Não é um produto que agrada a todos, e essa crítica faz sentido para quem espera um pão mais neutro.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -290,7 +298,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O tal milkshake duck do Dino é hipotético, então o eleitor do Maranhão reage ao que conhece: o histórico dele no executivo e no judiciário. A cobrança faz sentido, mas o alarme sobre um futuro incerto ainda não tem base concreta para pesar no voto.",
+          "text": "O pão de forma Bauducco pode agradar em versões específicas, como a Multigrãos, mas não é um produto unânime. O gosto varia conforme a linha e o uso, então a experiência de cada um pesa bastante.",
           "source": "sintese",
           "evidence": [
             1
@@ -305,15 +313,15 @@
       "id": "bsky_3n24f2j6awk2q",
       "rank": 6,
       "title": "TikTok só mostra conteúdo de homens do Maranhão, Piauí e Ceará",
-      "label": "Algoritmo do TikTok · Conteúdo regional",
-      "context": "Uma pessoa relatou que seu TikTok passou a exibir apenas vídeos de homens do Maranhão, Piauí e Ceará. O caso gerou comentários sobre o motivo dessa concentração de conteúdo regional aparecer no feed.",
+      "label": "TikTok · Algoritmo regional",
+      "context": "Uma pessoa relatou que seu TikTok passou a exibir apenas vídeos de homens do Maranhão, Piauí e Ceará. O caso gerou comentários sobre o funcionamento do algoritmo e o incentivo a conhecer esses estados.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/qserjo.bsky.social/post/3n24f2j6awk2q",
       "createdAt": "2026-11-12T11:38:43.873000+00:00",
-      "rawScore": 0.1572433509704446,
-      "relevanceScore": 0.14855352672220762,
-      "suggestedRadius": 59.13,
+      "rawScore": 0.0690854470714399,
+      "relevanceScore": 0.06280495188312718,
+      "suggestedRadius": 51.04,
       "imageUrl": "assets/images/bsky_3n24f2j6awk2q_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n24f2j6awk2q_uns_thumb.jpg",
       "category": "geopolitica",
@@ -329,7 +337,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O algoritmo pode estar funcionando como um convite para conhecer esses estados. Se só aparece gente do Maranhão, Piauí e Ceará, isso desperta curiosidade e incentiva viagens para a região.",
+          "text": "O algoritmo está fazendo um trabalho de divulgação regional que nenhuma campanha de turismo faria: mostrar homens do Maranhão, Piauí e Ceará é um convite para conhecer essas culturas e belezas.",
           "source": "sintese",
           "evidence": [
             1
@@ -339,7 +347,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Um feed que só mostra homens de três estados parece limitado e repetitivo. A pessoa pode estar perdendo conteúdo variado e ficando presa em uma bolha regional sem escolher isso.",
+          "text": "Um feed que só entrega um tipo de conteúdo e de uma região específica é sinal de algoritmo viciado e limitante, que impede o usuário de ver outras realidades e diversificar o que consome.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -347,7 +355,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O comportamento do TikTok pode ser só um reflexo de interações anteriores, como curtidas ou tempo assistindo. Sem saber o histórico da conta, é difícil dizer se é um problema ou apenas o algoritmo ajustando o feed.",
+          "text": "O comportamento pode ser só um teste do algoritmo ou reflexo de interações anteriores, e não uma mudança permanente; vale observar se o padrão se mantém antes de tirar conclusões.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -359,16 +367,16 @@
     {
       "id": "bsky_3mzxi5y2q322s",
       "rank": 7,
-      "title": "Moradora de São Luís relata atendimento na UBS por WhatsApp e pré-natal completo",
-      "label": "Atendimento na UBS de São Luís · Relato de moradora",
-      "context": "Uma moradora de São Luís (MA) contou que agenda consultas na UBS pelo WhatsApp com a Agente de Saúde da Família e que fez pré-natal, tratamento odontológico e acompanhamento ginecológico na unidade. O relato descreve o funcionamento do posto de saúde no bairro Bacanga, na periferia da capital.",
+      "title": "Moradora de São Luís relata uso de zap para agendar consulta na UBS",
+      "label": "Atendimento na UBS em São Luís · Relato",
+      "context": "Uma moradora de São Luís (MA) contou que usa o WhatsApp para falar com a Agente de Saúde da Família e marcar consultas na UBS, onde fez pré-natal, tratamento odontológico e acompanhamento ginecológico. O relato descreve a rotina de acesso ao posto de saúde e menciona que o bairro Bacanga, onde ela mora, fica na periferia da capital.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/gerusasilva.bsky.social/post/3mzxi5y2q322s",
       "createdAt": "2026-11-10T12:37:23.578000+00:00",
-      "rawScore": 0.08546113719191754,
-      "relevanceScore": 0.08073825220079435,
-      "suggestedRadius": 53.05,
+      "rawScore": 0.04279331906412921,
+      "relevanceScore": 0.03890301733102655,
+      "suggestedRadius": 47.83,
       "imageUrl": "assets/images/bsky_3mzxi5y2q322s_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzxi5y2q322s_uns_thumb.jpg",
       "category": "geopolitica",
@@ -384,7 +392,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O postinho funciona: consigo marcar consulta pelo zap da Agente de Saúde e em no máximo 15 dias sou atendida. Fiz pré-natal completo, tratamento odontológico e acompanhamento ginecológico na UBS, então não tenho do que reclamar do atendimento.",
+          "text": "O postinho funciona bem no dia a dia: dá para marcar consulta pelo zap com a agente de saúde e o tempo de espera é de no máximo 15 dias. Fiz pré-natal, tratamento odontológico e acompanhamento ginecológico lá, então não tenho do que reclamar do atendimento básico.",
           "source": "sintese",
           "evidence": [
             1
@@ -394,7 +402,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A UBS resolve parte, mas nem sempre tem remédio na farmácia base e exames com especialidades que saíram do esquema demoram. O relato de uma pessoa não apaga essas falhas que muita gente enfrenta no dia a dia.",
+          "text": "A UBS resolve o básico, mas quando precisa de exame ou consulta com especialidade que não faz parte do esquema do posto, a espera demora. E nem sempre tem o medicamento na farmácia base, o que obriga a pessoa a correr atrás em outro lugar.",
           "source": "sintese",
           "evidence": [
             1
@@ -404,7 +412,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O Bacanga é periferia de São Luís, e o relato mostra que a UBS funciona bem para o básico, como pré-natal e odontologia. Só que a experiência varia conforme o bairro e o serviço, então não dá para generalizar.",
+          "text": "O relato é de quem mora no Bacanga, bairro da periferia de São Luís, e isso ajuda a entender o acesso. A experiência varia conforme a região e o serviço disponível em cada UBS, então o que funciona bem em um posto pode ser diferente em outro.",
           "source": "sintese",
           "evidence": [
             2
@@ -419,15 +427,15 @@
       "id": "bsky_3mztfs6xqn22y",
       "rank": 8,
       "title": "Matheus Barroso registra momento da virada e explosão de alegria em São Luís, MA",
-      "label": "Alegria em São Luís · Registro da virada",
+      "label": "Alegria em São Luís · Registro de virada",
       "context": "Matheus Barroso registrou o momento da virada e a explosão de alegria em São Luís, no Maranhão, em 25 de outubro de 2026. No registro, ele afirma que todos sabem de qual lado está: não é do lado da milícia, não é do lado do golpe, é do lado da Democracia.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mztfs6xqn22y",
       "createdAt": "2026-11-08T21:58:02.771000+00:00",
-      "rawScore": 0.07613005588161859,
-      "relevanceScore": 0.07192283947763804,
-      "suggestedRadius": 52.09,
+      "rawScore": 0.04006868117983356,
+      "relevanceScore": 0.03642607379984869,
+      "suggestedRadius": 47.45,
       "imageUrl": "assets/images/bsky_3mztfs6xqn22y_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mztfs6xqn22y_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -443,7 +451,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O vídeo mostra o povo nas ruas comemorando de forma espontânea, e isso é a democracia funcionando. Ver a alegria em São Luís e o recado claro de que não se está do lado da milícia nem do golpe é emocionante e renova a esperança.",
+          "text": "Ver esse vídeo me enche de orgulho. O povo mostrou sua força e deixou claro de que lado está: do lado da democracia, não da milícia nem do golpe. É isso que é liberdade de verdade.",
           "source": "sintese",
           "evidence": [
             1,
@@ -454,7 +462,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Falar em nome da democracia enquanto se comemora a vitória de um lado específico soa contraditório. A verdadeira democracia exige respeito à pluralidade, e não um discurso que já chega dividindo entre 'nós' e 'eles'.",
+          "text": "Falar em 'lado da democracia' enquanto se comemora uma virada política é no mínimo contraditório. Democracia é respeito ao resultado e às instituições, não explosão de alegria partidária.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -462,60 +470,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O registro é bonito e mostra a força da participação popular, mas é preciso cuidado para não transformar a política em torcida. O momento pede celebração, mas também diálogo com quem pensa diferente, para não alimentar ainda mais a polarização.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzpz4qln2s2s",
-      "rank": 9,
-      "title": "Prefeito de Mar... — notícia sem detalhes disponíveis",
-      "label": "Notícia local · Prefeito de Mar",
-      "context": "Uma publicação do portal ICL Notícias no Bluesky, em 7 de novembro de 2026, traz uma matéria sobre o prefeito de uma cidade cujo nome aparece apenas como \"Mar\" no título truncado. O conteúdo completo da notícia e o desenrolar do caso não estão disponíveis nas fontes recebidas.",
-      "source": "bluesky",
-      "subreddit": "bsky_ma",
-      "permalink": "https://bsky.app/profile/arlindars.bsky.social/post/3mzpz4qln2s2s",
-      "createdAt": "2026-11-07T13:33:18.873000+00:00",
-      "rawScore": 0.026934563425213765,
-      "relevanceScore": 0.025446064096475266,
-      "suggestedRadius": 45.57,
-      "imageUrl": "assets/images/bsky_3mzpz4qln2s2s_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzpz4qln2s2s_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ma",
-      "sources": [
-        {
-          "title": "iclnoticias.com.br/prefeito-mar...",
-          "url": "https://bsky.app/profile/arlindars.bsky.social/post/3mzpz4qln2s2s",
-          "subreddit": "bsky_ma"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A imprensa local precisa noticiar o que acontece na gestão municipal, e o ICL está cumprindo esse papel ao publicar a matéria sobre o prefeito. Sem esse tipo de cobertura, a população fica sem informação sobre quem administra a cidade.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Publicar uma chamada truncada, sem dar o nome completo da cidade nem o teor da denúncia, só gera boato. Notícia sobre prefeito deveria vir com contexto claro, e não um link cortado que ninguém consegue entender.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Sem o texto completo da matéria, não dá para saber se é denúncia, anúncio de obra ou crise política. O jeito é esperar a reportagem inteira sair antes de formar opinião sobre o prefeito ou sobre a gestão dele.",
+          "text": "O registro mostra a emoção genuína de quem estava lá, mas é bom lembrar que a política não se resume a um momento de virada. O que importa é o que vem depois, com diálogo e respeito entre os diferentes lados.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -526,10 +481,10 @@
     },
     {
       "id": "bsky_3mzwlrwamx22l",
-      "rank": 10,
+      "rank": 9,
       "title": "Sensação térmica de 31° faz maranhense se sentir no Maranhão outra vez",
       "label": "Calor de 31° · Memória do Maranhão",
-      "context": "Uma pessoa relatou sensação térmica de 31° e comparou a situação ao calor que sentia quando vivia no Maranhão. O comentário lembra que ela passou 18 anos na região e hoje não entende como suportava.",
+      "context": "Uma pessoa relatou sensação térmica de 31° e comparou a experiência ao calor que sentia quando vivia no Maranhão. O comentário relembra os 18 anos vividos no estado e questiona como conseguia suportar as temperaturas.",
       "source": "bluesky",
       "subreddit": "bsky_ma",
       "permalink": "https://bsky.app/profile/nigthstrange.bsky.social/post/3mzwlrwamx22l",
@@ -552,7 +507,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Quem morou anos no Maranhão desenvolve uma resistência ao calor que a gente só percebe depois que sai de lá. Hoje, com 31° de sensação térmica, é normal lembrar com carinho da época em que o corpo já estava acostumado.",
+          "text": "Morei 18 anos no Maranhão e hoje não sei como aguentava aquele calor todo. A sensação térmica de 31° me faz lembrar de tempos que pareciam mais quentes, mas que a gente encarava como rotina.",
           "source": "sintese",
           "evidence": [
             1
@@ -562,17 +517,15 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Passar 18 anos no calor do Maranhão não é algo que se aguente naturalmente, é uma questão de adaptação forçada. Sentir 31° hoje e achar que é o mesmo calor de antes mostra como a memória suaviza o sofrimento real.",
+          "text": "Sensação térmica de 31° não chega perto do que é o Maranhão de verdade. Comparar com o estado é exagero, porque lá o calor é bem mais intenso e constante do que esse episódio isolado.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A comparação com o Maranhão faz sentido porque a sensação térmica de 31° pode ser comum por lá, mas cada pessoa sente o calor de um jeito. O comentário de quem viveu 18 anos na região mostra que a percepção muda com o tempo e o lugar.",
+          "text": "A lembrança dos 18 anos no Maranhão mostra que a percepção de calor muda com o tempo e o lugar. Hoje, 31° de sensação térmica assusta, mas quem viveu lá sabe que a adaptação faz a gente encarar de outro jeito.",
           "source": "sintese",
           "evidence": [
             1

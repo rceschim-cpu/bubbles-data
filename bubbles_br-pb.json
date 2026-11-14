@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T05:38:24.414303+00:00",
+  "generatedAt": "2026-11-14T17:53:05.010538+00:00",
   "region": "br-pb",
   "count": 10,
   "items": [
@@ -7,13 +7,13 @@
       "id": "bsky_3n27i3csw3k2i",
       "rank": 1,
       "title": "Cristãos criticam questão do Enem sobre misoginia em textos doutrinários",
-      "label": "Questão do Enem · Misoginia e crítica cristã",
-      "context": "Uma questão do Enem que pedia para discutir textos doutrinários com misoginia, citados pelo historiador Jean Delumeau, gerou críticas de cristãos que a consideraram misógina. O caso foi parar na Câmara Municipal de João Pessoa, e o episódio reacendeu a discussão sobre como a religião é tratada em provas e materiais didáticos.",
+      "label": "Questão do Enem · Misoginia e fontes históricas",
+      "context": "Uma questão do Enem que pedia a discussão de textos doutrinários com conteúdo misógino, citados pelo historiador Jean Delumeau, gerou críticas de cristãos que consideraram o enunciado ofensivo. O caso foi parar na Câmara Municipal de João Pessoa e reacendeu a discussão sobre como a religião é tratada em provas de história.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/hospiciobrasil.bsky.social/post/3n27i3csw3k2i",
       "createdAt": "2026-11-13T17:10:53.481000+00:00",
-      "rawScore": 0.9,
+      "rawScore": 0.8744768886957849,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
       "imageUrl": "assets/images/bsky_3n27i3csw3k2i_reddit.jpg",
@@ -41,7 +41,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A prova fez exatamente o que devia: usar fontes históricas para discutir a misoginia presente em textos doutrinários. Quem critica a questão está confundindo o objeto de estudo com a posição do enunciado, e isso é má-fé ou desconhecimento da própria história da religião.",
+          "text": "A prova fez exatamente o que devia: usar sermões antigos como fonte histórica para discutir a misoginia da época. Quem critica o enunciado está confundindo o objeto de estudo com a opinião do examinador. O pesquisador denunciou a misoginia, não a defendeu.",
           "source": "sintese",
           "evidence": [
             1,
@@ -52,21 +52,18 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A questão do Enem é tendenciosa porque trata a misoginia como se fosse um traço central da doutrina cristã, ignorando o contexto histórico e a interpretação teológica. Isso desrespeita a fé de milhões de estudantes e deveria ser revisto antes de ser aplicado.",
+          "text": "A questão escolheu a dedo textos que atacam a fé cristã e chamou isso de história. Se o Enem quer discutir misoginia, que use exemplos de outras culturas ou contextos, não só sermões católicos medievais. Isso não é neutralidade, é militância disfarçada de prova.",
           "source": "sintese",
-          "evidence": [
-            2
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O problema não é discutir misoginia em textos antigos, mas a forma como o tema é apresentado: sem mediação, vira acusação generalizada. Uma prova que cita Delumeau deveria também explicar o contexto da época e evitar que o aluno confunda a fonte histórica com a religião praticada hoje.",
+          "text": "O problema não é discutir misoginia em textos antigos, mas a forma como a questão foi montada. Faltou contexto para o aluno separar o que é documento histórico do que é juízo de valor. Do jeito que está, virou briga política em vez de aprendizado.",
           "source": "sintese",
           "evidence": [
-            1,
-            3
+            5
           ],
           "votes": 0
         }
@@ -75,20 +72,73 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzyhrtnv2k2c",
+      "id": "bsky_3n2armjxfic2m",
       "rank": 2,
-      "title": "Globo faz novela com nordestino sonhando ir pro sudeste enquanto sudestino se muda pro Nordeste",
+      "title": "Usuário relata ter recebido algo de graça \"na tora\" e diz que não existe amor em SP",
+      "label": "Presente inesperado · Desabafo em SP",
+      "context": "Um usuário relatou no Bluesky ter recebido algo de graça de forma inesperada, descrevendo a situação como \"na tora\". A publicação termina com a frase \"realmente não existe amor em sp\", usada como desabafo sobre a experiência.",
+      "source": "bluesky",
+      "subreddit": "bsky_pb",
+      "permalink": "https://bsky.app/profile/xibiuguloso.bsky.social/post/3n2armjxfic2m",
+      "createdAt": "2026-11-14T05:34:15.245000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 0.8706571033861661,
+      "suggestedRadius": 91.99,
+      "imageUrl": "assets/images/bsky_3n2armjxfic2m_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2armjxfic2m_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pb",
+      "sources": [
+        {
+          "title": "nossa recebi essa de graça assim na tora realmente não existe amor em sp",
+          "url": "https://bsky.app/profile/xibiuguloso.bsky.social/post/3n2armjxfic2m",
+          "subreddit": "bsky_pb"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Receber algo de graça assim, sem esperar, é uma dessas pequenas surpresas que melhoram o dia. Mesmo com o tom de desabafo no fim, a pessoa saiu ganhando alguma coisa sem pagar nada, e isso já vale registrar.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A frase \"não existe amor em sp\" diz tudo: o que parece gentileza de graça muitas vezes vem com alguma intenção por trás. A pessoa recebeu algo \"na tora\", sem escolher, e o desabafo mostra que a experiência não foi tão boa assim.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O post é curto e não explica o que foi recebido nem em que circunstância, então fica difícil saber se foi sorte ou se teve algum custo escondido. Sem mais detalhes, o relato funciona mais como desabafo do que como algo para tirar conclusão.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzyhrtnv2k2c",
+      "rank": 3,
+      "title": "Globo faz novela com nordestino sonhando ir pro sudeste enquanto sudestino se muda pro nordeste",
       "label": "Novela da Globo e migração sudeste-nordeste",
-      "context": "Uma novela da Globo retrata um nordestino que sonha em se mudar para o Sudeste, enquanto relatos nas redes sociais mostram pessoas do Sudeste se mudando para o Nordeste em busca de qualidade de vida. A discussão questiona se a ficção reflete a realidade atual ou repete estereótipos sobre as regiões.",
+      "context": "Uma novela da Globo retrata um nordestino que sonha em se mudar para o sudeste, enquanto, na vida real, pessoas do sudeste estão se mudando para o nordeste em busca de qualidade de vida. O contraste entre a ficção e a realidade tem gerado discussões nas redes sociais.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/danielduncan.bsky.social/post/3mzyhrtnv2k2c",
       "createdAt": "2026-11-10T22:16:54.673000+00:00",
-      "rawScore": 0.43165433852563573,
-      "relevanceScore": 0.5349672293248084,
-      "suggestedRadius": 79.88,
-      "imageUrl": "assets/images/bsky_3mzyhrtnv2k2c_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzyhrtnv2k2c_wiki_thumb.jpg",
+      "rawScore": 0.6217411334853528,
+      "relevanceScore": 0.6972648050938959,
+      "suggestedRadius": 86.1,
+      "imageUrl": "assets/images/bsky_3mzyhrtnv2k2c_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzyhrtnv2k2c_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
@@ -101,44 +151,43 @@
           "title": "pra mim, a ironia é a globo meter uma novela dessas justamente quando tanta gente do sul e do sudeste tá se mudando pro nordeste em busca da qualidade de vida que já não encontra onde mora. você vai a joão pessoa e parece que tem mais catarinense do que paraibano",
           "url": "https://bsky.app/profile/danielduncan.bsky.social/post/3mzyenguojk26",
           "subreddit": "bsky_pb"
-        },
-        {
-          "title": "E não retrata as grandes cidades do nordeste desenvolvidas como referência de futuro, trabalho, estudo. O resto é tudo mato. Os autores e a globo, só retratam a vida urbana, na região sudeste, principalmente SP e RJ. Esquecem de Salvador, Forteza, Maceió, São Luiz, Recife, Natal, João Pessoa.",
-          "url": "https://bsky.app/profile/marciaco7.bsky.social/post/3mzyzwn3ho22w",
-          "subreddit": "bsky_pb"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Globo acerta ao mostrar o nordestino que sonha com o Sudeste, pois essa ainda é a realidade de muita gente que busca trabalho e estudo. A novela não inventa: é só olhar os dados de migração histórica.",
+          "text": "A Globo acerta ao mostrar o nordestino que sonha com o sudeste, pois essa ainda é a realidade de muitos que buscam oportunidades. A novela reflete um desejo genuíno de mobilidade social e econômica, mesmo que parte dos sudestinos esteja fazendo o caminho inverso.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1,
+            6
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A emissora insiste em retratar o Nordeste como lugar parado no tempo, ignorando que suas capitais são referência de futuro e qualidade de vida. Enquanto isso, sudestinos fogem da violência e da poluição para morar em João Pessoa e Aracaju.",
+          "text": "A emissora insiste em retratar o nordeste como um lugar atrasado, ignorando que muitos sudestinos estão se mudando para lá em busca de qualidade de vida. Essa narrativa ultrapassada não condiz com a realidade de quem troca São Paulo por João Pessoa.",
           "source": "sintese",
           "evidence": [
             1,
-            3,
-            9,
-            17
+            2,
+            4,
+            8,
+            9
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A novela pode até ter um fundo de verdade, mas o movimento contrário também existe e cresce. O problema é que a Globo foca só no Sudeste e esquece de mostrar as grandes cidades nordestinas como Salvador, Recife e Fortaleza.",
+          "text": "A migração para o nordeste é real, mas também traz desafios, como o aumento do custo de vida e a descaracterização de algumas cidades. É preciso equilibrar o desenvolvimento com a preservação da identidade local.",
           "source": "sintese",
           "evidence": [
-            3,
-            18,
-            26
+            5,
+            11,
+            15
           ],
           "votes": 0
         }
@@ -147,23 +196,28 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n27eufanus2r",
-      "rank": 3,
-      "title": "Você pode me encontrar no meio do caminho? (📍João Pessoa)",
-      "label": "João Pessoa · Gentrificação e especulação imobiliária",
-      "context": "Posts no Bluesky mencionam João Pessoa como destino de pessoas de outras regiões e criticam a especulação imobiliária e a gentrificação na cidade. A discussão também inclui um pedido de mobilização e a menção a um vídeo sobre a Bahia.",
+      "id": "bsky_3n274z4m2qc2v",
+      "rank": 4,
+      "title": "Sites de 3 cinemas de João Pessoa têm mais de 40 sessões, todas dubladas",
+      "label": "Sessões dubladas em cinemas de João Pessoa",
+      "context": "Uma pessoa relatou que, ao consultar os sites de três cinemas de João Pessoa, encontrou mais de 40 sessões e todas eram dubladas. O relato gerou discussão sobre a ausência de sessões legendadas e sobre o impacto da gentrificação na cidade.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/pimenta.bsky.social/post/3n27eufanus2r",
-      "createdAt": "2026-11-13T16:13:17.177000+00:00",
-      "rawScore": 0.20202777313623188,
-      "relevanceScore": 0.45459056100413525,
-      "suggestedRadius": 76.45,
-      "imageUrl": "assets/images/bsky_3n27eufanus2r_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27eufanus2r_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/oten-oaoj.bsky.social/post/3n274z4m2qc2v",
+      "createdAt": "2026-11-13T13:52:44.273000+00:00",
+      "rawScore": 0.18862303976138126,
+      "relevanceScore": 0.47051096762914957,
+      "suggestedRadius": 77.16,
+      "imageUrl": "assets/images/bsky_3n274z4m2qc2v_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n274z4m2qc2v_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
+        {
+          "title": "Entrei nos sites de 3 Cinemas daqui de João Pessoa, mais de 40 sessões e T O D A S dubladas, puta que me pariu, que ódio",
+          "url": "https://bsky.app/profile/oten-oaoj.bsky.social/post/3n274z4m2qc2v",
+          "subreddit": "bsky_pb"
+        },
         {
           "title": "can you meet me halfway? (📍joão pessoa",
           "url": "https://bsky.app/profile/pimenta.bsky.social/post/3n27eufanus2r",
@@ -173,21 +227,15 @@
           "title": "A Ceci roubou pão na casa do João? ( ) Sim ( ) Não ( ) Outra pessoa",
           "url": "https://bsky.app/profile/doouze.bsky.social/post/3n24wg26gas2u",
           "subreddit": "bsky_pb"
-        },
-        {
-          "title": "FINALMENTE uma pessoa publica (com grande influência) fez vídeo pra denunciar o que está acontecendo na Bahia. Parabéns, João Pimenta! Espero que esse vídeo tenha a visibilidade que precisamos.",
-          "url": "https://bsky.app/profile/rosepaixao.bsky.social/post/3mzr5tsjprs2g",
-          "subreddit": "bsky_pb"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O vídeo do João Pimenta denunciando o que acontece na Bahia precisa de visibilidade. É esse tipo de mobilização que a gente precisa, com gente influente expondo a situação.",
+          "text": "A dublagem democratiza o acesso ao cinema para quem tem dificuldade de acompanhar legendas, seja por questões de leitura ou de visão. Ter todas as sessões dubladas atende a uma parcela grande do público que prefere assistir assim.",
           "source": "sintese",
           "evidence": [
-            1,
             3
           ],
           "votes": 0
@@ -195,10 +243,9 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A especulação imobiliária está gentrificando João Pessoa cada vez mais, e ainda tem gente chamando a cidade de paraíso enquanto os moradores são expulsos. Isso precisa de providências urgentes.",
+          "text": "Cinema que só oferece sessão dublada trata o espectador como incapaz de ler. Quem quer ver o filme no idioma original fica sem opção, e isso é desrespeito com o público que valoriza a experiência original.",
           "source": "sintese",
           "evidence": [
-            2,
             4
           ],
           "votes": 0
@@ -206,9 +253,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "João Pessoa já está ficando insuportável com tanta gente vindo morar aqui, mas também não dá pra ignorar que a cidade atrai por ser um paraíso. O problema é como lidar com esse crescimento sem expulsar quem já mora aqui.",
+          "text": "A oferta de sessões dubladas reflete o que o público local consome, mas a ausência total de legendadas limita a escolha de quem prefere o áudio original. O ideal seria ter as duas opções na programação.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         }
       ],
@@ -217,17 +266,17 @@
     },
     {
       "id": "bsky_3mzy3rzhdjc2h",
-      "rank": 4,
+      "rank": 5,
       "title": "Homens armados incendeiam 12 barracos e ameaçam 40 famílias na Paraíba",
       "label": "Incêndio criminoso em acampamento na Paraíba",
-      "context": "Homens armados incendiaram barracos e fizeram disparos no Acampamento Marilene Dantas, na Paraíba, na madrugada de 8 de novembro. O movimento denuncia ameaças e cobra proteção para cerca de 40 famílias.",
+      "context": "Na madrugada de 8 de novembro, homens armados incendiaram barracos do Acampamento Marilene Dantas, na Paraíba, e fizeram disparos. O movimento denuncia ameaças e cobra proteção para cerca de 40 famílias.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/alma-preta.bsky.social/post/3mzy3rzhdjc2h",
       "createdAt": "2026-11-10T18:42:18.687000+00:00",
-      "rawScore": 0.13150429861264692,
-      "relevanceScore": 0.20784656546948146,
-      "suggestedRadius": 63.35,
+      "rawScore": 0.18901512490995456,
+      "relevanceScore": 0.27635246213583226,
+      "suggestedRadius": 67.54,
       "imageUrl": "assets/images/bsky_3mzy3rzhdjc2h_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzy3rzhdjc2h_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -248,7 +297,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A resposta precisa ser cadeia pesada para todos os envolvidos. Incendiar barracos e atirar contra famílias é crime grave e não pode ficar impune. As autoridades têm que agir rápido e prender os responsáveis.",
+          "text": "A resposta precisa ser dura: cadeia para todos os envolvidos no incêndio e na ameaça às famílias. O Estado não pode tratar um ataque armado como incidente isolado; tem que prender os responsáveis e garantir proteção imediata às 40 famílias.",
           "source": "sintese",
           "evidence": [
             1
@@ -258,7 +307,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O poder público demora para proteger essas famílias. O movimento já denunciava ameaças e nada foi feito. Agora, 40 famílias ficaram sem teto e sem segurança. Cobrar proteção depois do ataque é insuficiente.",
+          "text": "O poder público falhou antes do ataque: as ameaças já eram conhecidas e nada foi feito. Cobrar proteção depois que 12 barracos viraram cinzas é tarde demais; faltou ação preventiva e presença no acampamento.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -266,7 +315,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A violência no campo é um problema antigo, mas cada caso precisa ser investigado com rigor. É preciso apurar quem ordenou o ataque e garantir que as famílias tenham segurança para reconstruir suas casas.",
+          "text": "A violência é inaceitável, mas o caso expõe a falta de estrutura para proteger famílias em áreas de conflito. Sem política habitacional e segurança preventiva, ações pontuais depois do incêndio não resolvem o problema de fundo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -277,17 +326,17 @@
     },
     {
       "id": "bsky_3n23b6lr3b22i",
-      "rank": 5,
-      "title": "Colega paraibana passou mal de frio em Brasília, enquanto curitibana não sentiu frio",
+      "rank": 6,
+      "title": "Colega da Paraíba passou mal de frio em Brasília, e pessoa nascida em Curitiba não sentiu frio",
       "label": "Frio em Brasília · Relatos divergentes",
-      "context": "Uma pessoa que se mudou da Paraíba para Brasília em março relatou ter passado mal de frio durante o inverno, enquanto outra, nascida em Curitiba, disse não ter sentido frio nem usado casaco. A diferença de percepção entre quem veio de regiões mais quentes e quem cresceu no Sul levanta dúvidas sobre a intensidade real do frio na capital.",
+      "context": "Uma pessoa que se mudou da Paraíba para Brasília em março relatou ter passado mal de frio no inverno, enquanto outra, nascida em Curitiba, disse não ter usado casaco e não ter sentido frio nenhum dia. A comparação entre as duas experiências levanta dúvidas sobre a intensidade real do frio na capital federal.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/julianamarques.bsky.social/post/3n23b6lr3b22i",
       "createdAt": "2026-11-12T00:56:46.476000+00:00",
-      "rawScore": 0.2007781444471289,
-      "relevanceScore": 0.17982129313566525,
-      "suggestedRadius": 61.44,
+      "rawScore": 0.27137685899519026,
+      "relevanceScore": 0.2591957308907141,
+      "suggestedRadius": 66.55,
       "imageUrl": "assets/images/bsky_3n23b6lr3b22i_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n23b6lr3b22i_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -303,7 +352,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Quem vem de região quente sente muito mais o frio de Brasília, mesmo que não seja extremo. A paraibana passou mal porque não estava acostumada, e isso mostra como a adaptação climática é real.",
+          "text": "Quem vem de Curitiba estranha o frio de Brasília porque já está acostumado com temperaturas bem mais baixas, então é natural que não tenha sentido frio. A comparação mostra como a percepção térmica varia conforme a origem de cada pessoa.",
           "source": "sintese",
           "evidence": [
             1,
@@ -314,7 +363,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Brasília não tem inverno rigoroso, então esse relato de passar mal de frio parece exagero. Quem nasceu em Curitiba estranha porque aqui o frio é fraco, e a colega talvez tenha sentido mais por falta de costume.",
+          "text": "O relato de quem veio da Paraíba mostra que o frio em Brasília pode ser intenso para quem não está acostumado, e duvidar disso é ignorar a experiência real da colega. Cada corpo reage de um jeito, e o desconforto dela não deveria ser minimizado.",
           "source": "sintese",
           "evidence": [
             3
@@ -324,10 +373,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A sensação térmica varia muito de pessoa para pessoa e depende da origem. Seria útil saber em qual região administrativa ela mora, porque o frio pode ser bem diferente entre as cidades do DF.",
+          "text": "Fica a dúvida sobre em qual região administrativa de Brasília a colega estava, porque o clima pode variar bastante dentro do Distrito Federal. Seria útil saber o local exato para entender se o frio foi realmente atípico ou se é uma questão de adaptação.",
           "source": "sintese",
           "evidence": [
             1,
+            2,
             4
           ],
           "votes": 0
@@ -338,17 +388,17 @@
     },
     {
       "id": "bsky_3mzxcauydc22h",
-      "rank": 6,
+      "rank": 7,
       "title": "MST relata madrugada de terror e violência psicológica em famílias na Paraíba",
-      "label": "MST · Ataque e violência psicológica na Paraíba",
-      "context": "A coordenação nacional do MST na Paraíba, por meio de Eva Vilma Alves, relatou que famílias, crianças e idosos correram e se esconderam na mata durante uma madrugada de terror. Ninguém se feriu fisicamente, mas o episódio deixou violência psicológica nas famílias.",
+      "label": "MST · Relato de violência na Paraíba",
+      "context": "Eva Vilma Alves, da coordenação nacional do MST na Paraíba, afirmou que famílias, crianças e idosos correram e se esconderam na mata durante uma madrugada de terror. Segundo ela, ninguém se feriu, mas as famílias ficaram com violência psicológica.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/taniapac.bsky.social/post/3mzxcauydc22h",
       "createdAt": "2026-11-10T11:05:22.178000+00:00",
-      "rawScore": 0.07503924385463842,
-      "relevanceScore": 0.06513505830534604,
-      "suggestedRadius": 51.31,
+      "rawScore": 0.10843069211656466,
+      "relevanceScore": 0.10069808684404824,
+      "suggestedRadius": 55.04,
       "imageUrl": "assets/images/bsky_3mzxcauydc22h_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzxcauydc22h_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -364,7 +414,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A denúncia feita pela coordenação do MST na Paraíba expõe a violência psicológica sofrida por famílias, crianças e idosos que precisaram se esconder na mata. Relatar publicamente esse tipo de episódio é fundamental para dar visibilidade à situação e cobrar proteção para essas pessoas.",
+          "text": "A fala de Eva Vilma Alves expõe a violência psicológica que famílias do MST sofrem, mesmo sem feridos físicos. Crianças e idosos tendo que se esconder na mata mostra a gravidade da situação e a necessidade de proteção para essas comunidades.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -372,7 +422,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O relato do MST na Paraíba fala em madrugada de terror, mas não apresenta provas concretas do que aconteceu. Sem detalhes sobre autores ou circunstâncias, fica difícil confirmar a versão e responsabilizar alguém, o que enfraquece a credibilidade da denúncia.",
+          "text": "O relato do MST na Paraíba fala em terror e violência psicológica, mas não apresenta provas ou detalhes do que aconteceu. Sem informações concretas sobre os responsáveis, fica difícil avaliar a real dimensão do episódio e cobrar providências.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -380,60 +430,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A fala da coordenação do MST na Paraíba descreve violência psicológica nas famílias, mas não menciona feridos físicos nem detalha o que causou a correria. Para entender o episódio, seria preciso mais informações sobre o contexto e as circunstâncias da madrugada.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n22hrui55s2i",
-      "rank": 7,
-      "title": "MST e segurança pública: site publica reportagem sobre o tema",
-      "label": "MST · Segurança pública em debate",
-      "context": "O site A Nova Democracia publicou uma reportagem que relaciona o MST (Movimento dos Trabalhadores Rurais Sem Terra) ao tema da segurança pública. O conteúdo foi compartilhado no Bluesky, mas não há informações disponíveis sobre os argumentos ou dados apresentados na matéria.",
-      "source": "bluesky",
-      "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/arlindars.bsky.social/post/3n22hrui55s2i",
-      "createdAt": "2026-11-11T17:22:18.881000+00:00",
-      "rawScore": 0.04010138536824264,
-      "relevanceScore": 0.03326829770891569,
-      "suggestedRadius": 46.94,
-      "imageUrl": "assets/images/bsky_3n22hrui55s2i_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n22hrui55s2i_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pb",
-      "sources": [
-        {
-          "title": "anovademocracia.com.br/mst-seguranc...",
-          "url": "https://bsky.app/profile/arlindars.bsky.social/post/3n22hrui55s2i",
-          "subreddit": "bsky_pb"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A reportagem do A Nova Democracia traz um ângulo que a grande mídia costuma ignorar: a relação entre os movimentos do campo e a segurança nas áreas rurais. Vale ler o material completo antes de julgar, porque o debate sobre o MST precisa ir além do estereótipo.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Associar o MST à segurança pública sem apresentar dados concretos na chamada é um problema. O título já sugere uma ligação que precisa ser comprovada com fatos, não com narrativa. Quem compartilha só o link, sem ler, acaba reforçando uma imagem negativa do movimento.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Sem acesso ao conteúdo completo da reportagem, fica difícil avaliar se a abordagem é séria ou apenas provocativa. O tema segurança pública no campo merece discussão, mas é preciso ver quais fontes e números o texto usa antes de tirar qualquer conclusão.",
+          "text": "A declaração de Eva Vilma Alves destaca o impacto psicológico nas famílias, mas ainda faltam relatos independentes e dados oficiais sobre a madrugada de terror. É preciso apurar o ocorrido para entender o que de fato aconteceu e quem foram os envolvidos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -447,16 +444,16 @@
       "rank": 8,
       "title": "A cor da turmalina Paraíba é a mais perfeita",
       "label": "Turmalina Paraíba · Cor exaltada",
-      "context": "Um post no Bluesky afirmou que a cor da turmalina Paraíba é a mais perfeita, destacando os tons azul e verde da gema. A publicação recebeu concordância imediata de outro usuário, que se disse convencido na hora.",
+      "context": "Uma publicação no Bluesky afirmou que a cor da turmalina Paraíba é a mais perfeita, usando emojis de coração azul e verde. A postagem recebeu concordância imediata de outro usuário, destacando o apreço pela tonalidade da gema.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/elfadafloresta.bsky.social/post/3mzxibgp5zc2b",
       "createdAt": "2026-11-10T12:52:58.874000+00:00",
-      "rawScore": 0.03879306935559142,
-      "relevanceScore": 0.032074984925424196,
-      "suggestedRadius": 46.75,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.05516284144168365,
+      "relevanceScore": 0.04888447872347746,
+      "suggestedRadius": 49.27,
+      "imageUrl": "assets/images/bsky_3mzxibgp5zc2b_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzxibgp5zc2b_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
@@ -470,7 +467,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A turmalina Paraíba acerta em cheio porque mistura azul e verde num tom que nenhuma outra gema entrega igual. Quem já viu de perto sabe que a pedra chama atenção sozinha, sem precisar de mais nada ao redor.",
+          "text": "A turmalina Paraíba tem mesmo uma combinação de azul e verde que não se vê em outra pedra, e quem já viu de perto sabe que a cor impressiona. Concordo na hora: é a tonalidade mais bonita entre as gemas.",
           "source": "sintese",
           "evidence": [
             1
@@ -480,7 +477,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Chamar a cor da turmalina Paraíba de mais perfeita é exagero: o efeito depende muito da luz e da pedra específica, e várias gemas têm tons tão marcantes quanto. Eleger uma cor como absoluta ignora que gosto varia de pessoa para pessoa.",
+          "text": "Chamar a cor da turmalina Paraíba de mais perfeita é exagero, porque gosto de cor é subjetivo e outras gemas têm tons igualmente marcantes. Achar uma cor mais bonita que as outras depende do olhar de cada um.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -488,7 +485,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A turmalina Paraíba é bonita, mas o tom varia bastante de pedra para pedra, então falar em cor perfeita é simplificar. O azul-esverdeado depende da luz e da qualidade da gema, e cada exemplar acaba tendo seu próprio charme.",
+          "text": "A cor da turmalina Paraíba chama atenção, mas o que define essa gema é também a raridade e o preço, não só o tom azul-esverdeado. A beleza da cor é um ponto, mas não resume o valor da pedra.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -500,16 +497,16 @@
     {
       "id": "bsky_3mztcqqbmls2w",
       "rank": 9,
-      "title": "Finalmente em casa. Amo o FIQ, BH e a galera, mas nada como o nosso lar #Paraíba",
-      "label": "Volta para casa após evento em BH",
-      "context": "Uma pessoa comemora o retorno à Paraíba após participar do FIQ, em Belo Horizonte, e afirma que, apesar de gostar do evento e das pessoas, nada se compara ao seu lar. A publicação destaca o apego à terra natal e a importância do sentimento de pertencimento.",
+      "title": "Paraibano volta para casa após evento em BH e exalta a Paraíba",
+      "label": "Volta para casa · Paraíba",
+      "context": "Um paraibano publicou que voltou para casa depois de participar do FIQ, em Belo Horizonte, e disse que, apesar de gostar do evento e da cidade, nada se compara ao seu lar na Paraíba. A declaração destaca o apego às origens e o orgulho de voltar à terra natal.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/tiagoikari.bsky.social/post/3mztcqqbmls2w",
       "createdAt": "2026-11-08T21:03:31.969000+00:00",
-      "rawScore": 0.013792333649232554,
-      "relevanceScore": 0.009271856914605085,
-      "suggestedRadius": 41.78,
+      "rawScore": 0.0209586001471209,
+      "relevanceScore": 0.015614032628049779,
+      "suggestedRadius": 43.5,
       "imageUrl": "assets/images/bsky_3mztcqqbmls2w_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mztcqqbmls2w_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -525,7 +522,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O FIQ em BH é um evento incrível, mas voltar para a Paraíba e sentir o aconchego do nosso lar não tem preço. A galera de lá é ótima, mas nada supera a nossa terra.",
+          "text": "O relato mostra como é bom voltar para casa depois de um evento intenso. A Paraíba é acolhedora e o sentimento de pertencimento faz toda a diferença.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -533,7 +530,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Acho que esse saudosismo exagerado esconde uma resistência a novas experiências. BH e o FIQ proporcionam conexões e aprendizados que muita gente não valoriza.",
+          "text": "Belo Horizonte e o FIQ são experiências incríveis, mas o texto parece diminuir a cidade que o acolheu. Dá para elogiar a Paraíba sem desmerecer os outros lugares.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -541,7 +538,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Cada lugar tem seu valor: o FIQ e BH trazem novidades e networking, enquanto a Paraíba oferece conforto e identidade. O ideal é equilibrar as duas coisas.",
+          "text": "Cada lugar tem seu valor: o FIQ e BH proporcionam networking e aprendizado, enquanto a Paraíba oferece conforto e raízes. O ideal é aproveitar o melhor dos dois mundos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -553,14 +550,14 @@
     {
       "id": "bsky_3mzvda2s4ws2a",
       "rank": 10,
-      "title": "Chuva? Na Paraíba o sol está rachando",
+      "title": "Chuva? Na Paraíba está um solzão, diz usuário",
       "label": "Sol forte na Paraíba · Contraste com chuva",
-      "context": "Uma publicação no Bluesky afirma que, enquanto se fala em chuva, na Paraíba o dia está de sol forte. O contraste chama atenção porque o mesmo período pode ter tempo seco em uma região e chuvoso em outra.",
+      "context": "Um usuário do Bluesky publicou que, enquanto outras regiões discutem chuva, na Paraíba o tempo está ensolarado. A mensagem viralizou ao contrastar a percepção climática local com a de outros lugares.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/leleostories.bsky.social/post/3mzvda2s4ws2a",
       "createdAt": "2026-11-09T16:17:24.371000+00:00",
-      "rawScore": 0.0036269193201441544,
+      "rawScore": 0.004906331474222447,
       "relevanceScore": 0.0,
       "suggestedRadius": 36.0,
       "imageUrl": "assets/images/bsky_3mzvda2s4ws2a_wiki.jpg",
@@ -578,7 +575,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O solzão na Paraíba é a prova de que o Brasil é grande demais para uma previsão só. Enquanto uns reclamam de chuva, aqui o dia rende, dá pra sair e a roupa seca no varal sem drama.",
+          "text": "O sol na Paraíba é uma realidade constante, e quem mora aqui sabe que chuva é artigo de luxo. Enquanto o pessoal do Sudeste reclama de enchente, a gente segue com céu limpo e calor o ano inteiro. É um privilégio ter esse clima.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -586,7 +583,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Esse sol todo na Paraíba preocupa mais do que diverte: calor intenso e tempo seco castigam quem trabalha na rua e aumentam o risco de queimada no interior. Não é só piada de internet.",
+          "text": "Essa brincadeira com o sol esconde um problema sério: a seca que castiga a Paraíba e afeta o abastecimento e a agricultura. Rir da chuva dos outros é ignorar que aqui a falta d'água é uma luta diária para muita gente.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -594,7 +591,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Depende do ponto do estado: a Paraíba tem litoral e sertão com climas bem diferentes, então o solzão de um lugar não diz nada sobre o outro. Falar de chuva ou de sol sem dizer a cidade é falar pela metade.",
+          "text": "O clima no Brasil é tão diverso que cada região tem sua realidade. O post só mostra como a percepção de tempo depende do lugar: enquanto uns falam de chuva, outros vivem sol intenso. Não dá para generalizar.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

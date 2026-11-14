@@ -1,21 +1,74 @@
 {
-  "generatedAt": "2026-11-14T05:38:24.414303+00:00",
+  "generatedAt": "2026-11-14T17:53:05.010538+00:00",
   "region": "br-ap",
-  "count": 6,
+  "count": 7,
   "items": [
     {
-      "id": "bsky_3n2abzhbe532a",
+      "id": "bsky_3n2bita653s2t",
       "rank": 1,
-      "title": "Wajãpi celebram 30 anos da demarcação da própria terra no Amapá",
-      "label": "TI Wajãpi · 30 anos de demarcação",
-      "context": "O povo Wajãpi demarcou há 30 anos, com as próprias mãos, os 607 mil hectares da sua terra indígena no Amapá, que seguem preservados. Nos dias 13 e 14 de novembro, a comunidade celebra a data com uma grande festa, acompanhada por veículos como a Mídia NINJA e instituições parceiras.",
+      "title": "Equatorial é a que deixou o Amapá sem luz?",
+      "label": "Falta de energia no Amapá · Equatorial",
+      "context": "Uma publicação no Bluesky questiona se a Equatorial é a empresa responsável por deixar o Amapá sem energia elétrica. O post viraliza ao associar a distribuidora a um apagão no estado, tema que afeta diretamente a rotina dos moradores.",
+      "source": "bluesky",
+      "subreddit": "bsky_ap",
+      "permalink": "https://bsky.app/profile/alinegranger.bsky.social/post/3n2bita653s2t",
+      "createdAt": "2026-11-14T12:29:34.454000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-ap",
+      "sources": [
+        {
+          "title": "Equatorial é aquela que largou o Amapá sem luz num é?",
+          "url": "https://bsky.app/profile/alinegranger.bsky.social/post/3n2bita653s2t",
+          "subreddit": "bsky_ap"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A cobrança em cima da Equatorial é justa: quem assume a distribuição de energia de um estado precisa garantir fornecimento contínuo. Se o Amapá ficou sem luz, a responsabilidade recai sobre a concessionária, e a população tem todo o direito de questionar e exigir explicações.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Jogar a culpa inteira na Equatorial é simplista. Apagões podem vir de falhas na transmissão, eventos climáticos ou problemas estruturais que vêm de antes da concessão. Antes de transformar a empresa em vilã, é preciso saber a causa real da interrupção no Amapá.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A pergunta do post é pertinente, mas falta informação concreta: quando ocorreu o apagão, quanto tempo durou e qual foi a causa apontada. Sem esses dados, fica difícil avaliar se a Equatorial falhou ou se o problema estava fora da alçada dela. O debate precisa de fatos, não só de indignação.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2abzhbe532a",
+      "rank": 2,
+      "title": "Wajãpi celebram 30 anos da demarcação da TI no Amapá",
+      "label": "Demarcação Wajãpi · 30 anos",
+      "context": "O povo Wajãpi comemora os 30 anos da demarcação da Terra Indígena Wajãpi, no Amapá, com uma festa nos dias 13 e 14 de novembro. A área de 607 mil hectares segue preservada e é considerada fundamental para a existência do povo.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
       "permalink": "https://bsky.app/profile/marcianobrito.bsky.social/post/3n2abzhbe532a",
       "createdAt": "2026-11-14T00:55:10.481000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.7621703951146677,
+      "relevanceScore": 0.9579671056829641,
+      "suggestedRadius": 94.73,
       "imageUrl": "assets/images/bsky_3n2abzhbe532a_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2abzhbe532a_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -36,7 +89,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A demarcação feita pelos próprios Wajãpi há 30 anos mostra que a gestão indígena funciona: os 607 mil hectares seguem preservados e garantindo a existência do povo. Celebrar essa data é reconhecer a luta e a autonomia de quem cuidou do território sem depender de ninguém.",
+          "text": "A demarcação feita pelos próprios Wajãpi há 30 anos mostrou que eles sabiam cuidar do território melhor do que qualquer um. Hoje, 607 mil hectares seguem preservados, garantindo a existência do povo. Essa festa é uma vitória que merece ser celebrada e serve de exemplo.",
           "source": "sintese",
           "evidence": [
             1
@@ -46,7 +99,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Falar em 30 anos de demarcação como se fosse uma grande conquista esconde que a terra só foi garantida porque os Wajãpi tiveram que fazer o trabalho do Estado. A celebração deveria cobrar do poder público a proteção efetiva, não servir de propaganda para parceiros e mídia.",
+          "text": "Enquanto a gente vê tanta terra improdutiva por aí, os Wajãpi comemoram 30 anos de uma área enorme que poderia estar gerando emprego e renda. Essa história de demarcação só serve para travar o desenvolvimento da região e manter o povo isolado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -54,11 +107,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A festa dos 30 anos da TI Wajãpi é um marco importante, mas a cobertura feita por Mídia NINJA e parceiros precisa tomar cuidado para não transformar a luta do povo em evento midiático. O foco deve ser a história real da demarcação, não a promoção de quem acompanha a celebração.",
+          "text": "A celebração dos 30 anos é importante, mas o Amapá inteiro é esquecido no mapa. A visibilidade que a demarcação Wajãpi traz para o estado é positiva, porém não resolve os problemas de infraestrutura e falta de investimento que afetam toda a população amapaense.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -67,17 +118,17 @@
     },
     {
       "id": "bsky_3n24jefh4sk2f",
-      "rank": 2,
+      "rank": 3,
       "title": "Inscrito na PocCon e no Circuito Amazônico de Quadrinhos",
       "label": "Inscrições em eventos de quadrinhos",
-      "context": "O usuário anunciou que se inscreveu na PocCon e no Circuito Amazônico de Quadrinhos, que acontece em Macapá e Manaus. A inscrição foi comemorada por outros usuários que também participam desses eventos.",
+      "context": "O usuário anunciou que se inscreveu na PocCon e no Circuito Amazônico Norte em Quadrinhos, que acontece em Macapá e Manaus. A inscrição garante participação nesses eventos de quadrinhos e cultura pop.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
       "permalink": "https://bsky.app/profile/apenasumchico.bsky.social/post/3n24jefh4sk2f",
       "createdAt": "2026-11-12T12:55:50.974000+00:00",
-      "rawScore": 0.086068021907505,
-      "relevanceScore": 0.186068021907505,
-      "suggestedRadius": 61.88,
+      "rawScore": 0.13489691283310076,
+      "relevanceScore": 0.2609965698145564,
+      "suggestedRadius": 66.65,
       "imageUrl": "assets/images/bsky_3n24jefh4sk2f_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n24jefh4sk2f_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -98,7 +149,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Participar da PocCon e do Circuito Amazônico é uma chance de conhecer pessoalmente outros quadrinistas e fortalecer a cena independente, como mostram os comentários sobre encontros e amizades.",
+          "text": "Participar desses eventos é uma chance de conhecer pessoalmente outros quadrinistas e fortalecer a cena local, como o Circuito Amazônico que leva atividades para Macapá e Manaus.",
           "source": "sintese",
           "evidence": [
             3,
@@ -109,18 +160,20 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A empolgação com as inscrições esconde o custo e a logística de ir a eventos em Macapá e Manaus, o que acaba limitando a participação a quem tem mais recursos ou mora perto.",
+          "text": "A empolgação com as inscrições esconde que muitos artistas ainda precisam se deslocar para São Paulo ou outros centros para ter visibilidade, enquanto eventos regionais recebem menos atenção.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A inscrição em si é só o começo: o comentário sobre o 'maior da Paraíba' mostra que o reconhecimento vem da produção e da presença, não do simples ato de se inscrever.",
+          "text": "As inscrições são só o começo: o resultado depende de fatores como a organização dos eventos e a presença do público, e alguns artistas conhecidos só foram reconhecidos depois de anos de internet.",
           "source": "sintese",
           "evidence": [
-            1
+            6
           ],
           "votes": 0
         }
@@ -130,17 +183,17 @@
     },
     {
       "id": "bsky_3mzzw4rixdk22",
-      "rank": 3,
-      "title": "Lula é criticado por liberar petróleo na costa do Amapá",
-      "label": "Exploração de petróleo na costa do Amapá",
-      "context": "O governo Lula autorizou a exploração de petróleo na costa do Amapá, decisão criticada nas redes sociais. A medida é vista como contraditória com a política ambiental do governo.",
+      "rank": 4,
+      "title": "Política ambiental de Lula é criticada por liberar petróleo na costa do Amapá",
+      "label": "Petróleo na costa do Amapá · Crítica à política ambiental",
+      "context": "Um post no Bluesky critica a política ambiental do governo Lula, comparando a liberação de petróleo na costa do Amapá a um \"live action do Ciclonopedia\" e chamando o projeto de \"Old One Petróleo\". A crítica sugere que a exploração petrolífera na região contradiz a imagem ambiental do governo.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
       "permalink": "https://bsky.app/profile/umxerial.bsky.social/post/3mzzw4rixdk22",
       "createdAt": "2026-11-11T12:06:17.479000+00:00",
-      "rawScore": 0.10956368374066969,
-      "relevanceScore": 0.10956368374066969,
-      "suggestedRadius": 55.86,
+      "rawScore": 0.1911023252600114,
+      "relevanceScore": 0.2123359169555682,
+      "suggestedRadius": 63.65,
       "imageUrl": "assets/images/bsky_3mzzw4rixdk22_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzzw4rixdk22_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -156,7 +209,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A exploração de petróleo na costa do Amapá é uma decisão soberana do Brasil para garantir energia e desenvolvimento regional. O governo Lula está certo em não ceder a pressões externas e priorizar o crescimento econômico do país.",
+          "text": "A exploração de petróleo na costa do Amapá é uma decisão estratégica para o desenvolvimento econômico do país, gerando empregos e receita. O governo Lula está certo em não abrir mão dos recursos naturais para atender a pressões externas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -164,7 +217,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Liberar petróleo na costa do Amapá é um desastre ambiental anunciado. O governo Lula, que se diz defensor do meio ambiente, está brincando com o futuro do planeta ao permitir essa exploração em uma área sensível.",
+          "text": "Liberar petróleo na costa do Amapá é um contrassenso para um governo que se diz ambientalista. A comparação com o Ciclonopedia é precisa: parece que a política ambiental real é só marketing, enquanto se libera exploração em áreas sensíveis.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -172,126 +225,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A decisão de explorar petróleo na costa do Amapá precisa ser analisada com cuidado. É preciso avaliar os impactos ambientais e a viabilidade econômica antes de tomar uma posição definitiva.",
+          "text": "A crítica é válida, mas é preciso considerar que a exploração de petróleo na costa do Amapá pode trazer recursos para a região. O debate deveria focar em como conciliar desenvolvimento e preservação, não apenas em ataques ideológicos.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n25idttxrc2k",
-      "rank": 4,
-      "title": "Em Macapá direto desde junho, já está mais do que na hora",
-      "label": "Rotina em Macapá desde junho",
-      "context": "Uma pessoa relata estar em Macapá direto desde junho e afirma que já está mais do que na hora de uma mudança. Nos comentários, outra pessoa diz que vai estar em Belém no fim do mês e pretende dar um tempo por lá.",
-      "source": "bluesky",
-      "subreddit": "bsky_ap",
-      "permalink": "https://bsky.app/profile/thomaztavares.bsky.social/post/3n25idttxrc2k",
-      "createdAt": "2026-11-12T22:10:17.878000+00:00",
-      "rawScore": 0.00352994959652554,
-      "relevanceScore": 0.00352994959652554,
-      "suggestedRadius": 39.56,
-      "imageUrl": "assets/images/bsky_3n25idttxrc2k_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n25idttxrc2k_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ap",
-      "sources": [
-        {
-          "title": "em macapá direto desde junho já tá mais do que na hora",
-          "url": "https://bsky.app/profile/thomaztavares.bsky.social/post/3n25idttxrc2k",
-          "subreddit": "bsky_ap"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Ficar em Macapá desde junho sem sair já é tempo demais, então dar um tempo em Belém no fim do mês é uma decisão acertada para quem precisa respirar outros ares.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Trocar Macapá por Belém não resolve nada se a rotina continua a mesma; o problema não é o lugar, e sim a falta de uma pausa de verdade, não só uma mudança de cidade.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Cada um sabe o quanto precisa de uma pausa, mas o comentário de que vai dar um tempo em Belém mostra que a vontade de sair existe; só o tempo dirá se a mudança de ares resolve.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n25ibs5pck2k",
-      "rank": 5,
-      "title": "Já querendo levantar acampamento de Macapá",
-      "label": "Mudança de Macapá para Belém",
-      "context": "Uma pessoa que está em Macapá desde junho manifesta vontade de deixar a cidade. Nos comentários, outra pessoa diz que vai passar um tempo em Belém no fim do mês.",
-      "source": "bluesky",
-      "subreddit": "bsky_ap",
-      "permalink": "https://bsky.app/profile/thomaztavares.bsky.social/post/3n25ibs5pck2k",
-      "createdAt": "2026-11-12T22:09:09.179000+00:00",
-      "rawScore": 0.0034996443261417587,
-      "relevanceScore": 0.0034996443261417587,
-      "suggestedRadius": 39.55,
-      "imageUrl": "assets/images/bsky_3n25ibs5pck2k_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n25ibs5pck2k_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ap",
-      "sources": [
-        {
-          "title": "já querendo levantar acampamento de macapá",
-          "url": "https://bsky.app/profile/thomaztavares.bsky.social/post/3n25ibs5pck2k",
-          "subreddit": "bsky_ap"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Quem está em Macapá desde junho já tem motivo de sobra pra querer levantar acampamento. Tempo demais na mesma cidade cansa, e buscar um novo destino é o passo natural de quem sente que já deu o que tinha que dar por ali.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Levantar acampamento de Macapá assim, de repente, ignora o que a cidade oferece e o tempo que já foi investido ali. Trocar de lugar por impulso raramente resolve o que incomoda, e Belém no fim do mês pode ser só uma pausa, não uma solução.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Dar um tempo em Belém no fim do mês parece mais uma pausa do que uma mudança de vez. Às vezes sair um pouco de Macapá ajuda a clarear a cabeça antes de decidir se vale mesmo levantar acampamento ou se é só cansaço acumulado.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
           "votes": 0
         }
       ],
@@ -300,17 +236,17 @@
     },
     {
       "id": "bsky_3mzzuyvrtr22v",
-      "rank": 6,
+      "rank": 5,
       "title": "Vou tentar Manaus e Macapá porque quero muito ver vocês",
       "label": "Turnê em Manaus e Macapá",
-      "context": "O artista anunciou que vai tentar incluir Manaus e Macapá em sua turnê, dizendo que quer muito ver os fãs dessas cidades. A declaração foi feita em uma postagem no Bluesky, sugerindo que as apresentações ainda não estão confirmadas.",
+      "context": "Uma pessoa anunciou que vai tentar se apresentar em Manaus e Macapá porque quer muito ver o público dessas cidades. O anúncio foi feito em uma rede social, mas não há detalhes sobre datas, local ou formato do evento.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
       "permalink": "https://bsky.app/profile/apenasumchico.bsky.social/post/3mzzuyvrtr22v",
       "createdAt": "2026-11-11T11:46:09.671000+00:00",
-      "rawScore": 0.0,
-      "relevanceScore": 0.0,
-      "suggestedRadius": 36.0,
+      "rawScore": 0.00642686246289325,
+      "relevanceScore": 0.007140958292103611,
+      "suggestedRadius": 41.07,
       "imageUrl": "assets/images/bsky_3mzzuyvrtr22v_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzzuyvrtr22v_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -326,7 +262,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O artista demonstrou vontade genuína de se apresentar em Manaus e Macapá, o que é uma ótima notícia para os fãs da região Norte, que muitas vezes ficam de fora das turnês nacionais.",
+          "text": "Manaus e Macapá merecem receber eventos assim. A iniciativa de tentar incluir essas cidades na rota mostra respeito pelo público do Norte, que muitas vezes fica de fora das turnês.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -334,7 +270,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A promessa de 'tentar' incluir Manaus e Macapá soa vaga e pode não se concretizar; os fãs já viram muitos artistas anunciarem intenções e depois cancelarem, então é preciso esperar por datas confirmadas.",
+          "text": "Falar que 'vou tentar' é fácil; o difícil é confirmar data e local. Sem informação concreta, o anúncio soa mais como promessa vaga do que como compromisso real com os fãs dessas cidades.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -342,7 +278,123 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A declaração do artista é um bom indício, mas ainda não há confirmação oficial de shows em Manaus e Macapá; a concretização depende de fatores logísticos e da agenda, então os fãs devem aguardar anúncios oficiais.",
+          "text": "A intenção é boa, mas depende de logística e custo. Manaus e Macapá têm particularidades de transporte que podem inviabilizar a turnê; só saberemos se o anúncio se concretizar.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n25idttxrc2k",
+      "rank": 6,
+      "title": "Em Macapá direto desde junho, já está mais do que na hora",
+      "label": "Rotina em Macapá desde junho",
+      "context": "Uma pessoa relata estar em Macapá direto desde junho e afirma que já está mais do que na hora de uma mudança. Nos comentários, outra pessoa diz que vai estar em Belém no fim do mês e pretende dar um tempo por lá.",
+      "source": "bluesky",
+      "subreddit": "bsky_ap",
+      "permalink": "https://bsky.app/profile/thomaztavares.bsky.social/post/3n25idttxrc2k",
+      "createdAt": "2026-11-12T22:10:17.878000+00:00",
+      "rawScore": 3.333015134436474e-05,
+      "relevanceScore": 3.70335014937386e-05,
+      "suggestedRadius": 36.37,
+      "imageUrl": "assets/images/bsky_3n25idttxrc2k_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n25idttxrc2k_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ap",
+      "sources": [
+        {
+          "title": "em macapá direto desde junho já tá mais do que na hora",
+          "url": "https://bsky.app/profile/thomaztavares.bsky.social/post/3n25idttxrc2k",
+          "subreddit": "bsky_ap"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Ficar em Macapá desde junho sem sair já é tempo demais, então dar um tempo em Belém no fim do mês é uma decisão acertada para quem precisa respirar outros ares e mudar a rotina.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Trocar Macapá por Belém no fim do mês resolve pouco, porque o cansaço de estar tanto tempo no mesmo lugar continua e a mudança de cidade não necessariamente traz o descanso que a pessoa espera.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Passar um tempo em Belém pode ajudar, mas depende do que a pessoa busca: se for só mudar de cenário por alguns dias, talvez não seja suficiente para lidar com a rotina que já dura desde junho.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n25ibs5pck2k",
+      "rank": 7,
+      "title": "Já querendo levantar acampamento de Macapá",
+      "label": "Mudança de Macapá · Planos de saída",
+      "context": "Uma pessoa que está em Macapá desde junho manifestou vontade de deixar a cidade e seguir para Belém no fim do mês. A decisão de mudar de cidade envolve planejamento e pode afetar rotina, trabalho e relações pessoais.",
+      "source": "bluesky",
+      "subreddit": "bsky_ap",
+      "permalink": "https://bsky.app/profile/thomaztavares.bsky.social/post/3n25ibs5pck2k",
+      "createdAt": "2026-11-12T22:09:09.179000+00:00",
+      "rawScore": 0.0,
+      "relevanceScore": 0.0,
+      "suggestedRadius": 36.0,
+      "imageUrl": "assets/images/bsky_3n25ibs5pck2k_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n25ibs5pck2k_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ap",
+      "sources": [
+        {
+          "title": "já querendo levantar acampamento de macapá",
+          "url": "https://bsky.app/profile/thomaztavares.bsky.social/post/3n25ibs5pck2k",
+          "subreddit": "bsky_ap"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Depois de tanto tempo em Macapá, desde junho, já está mais do que na hora de levantar acampamento e buscar novos ares. Mudar de cidade pode ser uma oportunidade de recomeçar e conhecer outros lugares.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Sair de Macapá agora pode ser precipitado, ainda mais com planos de dar um tempo em Belém no fim do mês. Às vezes a gente quer mudar tudo, mas é bom ponderar se a insatisfação é com a cidade ou com outros aspectos da vida.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Cada um sabe o que é melhor para si, mas a decisão de levantar acampamento de Macapá depende de vários fatores, como trabalho e família. Belém pode ser uma alternativa, mas é preciso avaliar com calma antes de dar esse passo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
