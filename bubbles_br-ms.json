@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-13T19:28:36.491411+00:00",
+  "generatedAt": "2026-11-14T05:38:24.414303+00:00",
   "region": "br-ms",
-  "count": 5,
+  "count": 7,
   "items": [
     {
       "id": "bsky_3n27e6a4w522x",
       "rank": 1,
-      "title": "Amiga, não beije este homem, ele defende os caloteiros do agronegócio da soja no Mato Grosso que queimam dinheiro pra eleger bolsonarista como se fossem agricultores familiares do Rio Grande do Sul.",
-      "label": "",
-      "context": "",
+      "title": "Amiga, não beije este homem, ele defende os caloteiros do agronegócio da soja no Mato Grosso que queimam dinheiro pra eleger bolsonarista como se fossem agricul",
+      "label": "Crítica a defensor do agro bolsonarista",
+      "context": "Um post no Bluesky critica um homem por supostamente defender os caloteiros do agronegócio da soja no Mato Grosso que financiam campanhas bolsonaristas, comparando-os falsamente a agricultores familiares do Rio Grande do Sul. A crítica ocorre em meio a discussões sobre o avanço do agronegócio sobre o Pantanal e a Floresta Amazônica e sobre a influência política do setor.",
       "source": "bluesky",
       "subreddit": "bsky_ms",
       "permalink": "https://bsky.app/profile/opinioso.bsky.social/post/3n27e6a4w522x",
@@ -17,7 +17,7 @@
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
       "imageUrl": "assets/images/bsky_3n27e6a4w522x_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27e6a4w522x_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27e6a4w522x_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-ms",
       "sources": [
@@ -37,23 +37,164 @@
           "subreddit": "bsky_ms"
         }
       ],
-      "opinions": [],
-      "enrichedBy": "",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O agro latifundiário do Mato Grosso e do Mato Grosso do Sul está destruindo o Pantanal e a Amazônia, e ainda financia campanhas bolsonaristas. Quem defende esse pessoal não pode se dizer amigo de agricultor familiar do Rio Grande do Sul.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Ficar atacando quem defende o agronegócio é hipocrisia. O setor é responsável por boa parte da economia e do emprego no Centro-Oeste, e a crítica generalizada ignora que muitos produtores são pequenos e médios, não apenas os grandes latifundiários.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A crítica mistura vários assuntos: financiamento de campanha, destruição ambiental e a situação do Rio Grande do Sul. Sem dados concretos sobre quem são os 'caloteiros' e quanto realmente foi desviado ou investido, fica difícil avaliar o peso de cada acusação.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27tkvp7h225",
+      "rank": 2,
+      "title": "Desempregada pede emprego no Bluesky e diz que não é herdeira nem rica",
+      "label": "Desabafo · Busca por emprego no Bluesky",
+      "context": "Uma pessoa de Campo Grande (MS) usou o Bluesky para pedir ajuda na busca por emprego, dizendo que não é herdeira nem rica e que está sem alunos para dar aulas de tarot. O post viralizou e gerou discussão sobre a dificuldade de encontrar trabalho e a informalidade nas redes.",
+      "source": "bluesky",
+      "subreddit": "bsky_ms",
+      "permalink": "https://bsky.app/profile/anneelenleblanc.bsky.social/post/3n27tkvp7h225",
+      "createdAt": "2026-11-13T20:36:38.176000+00:00",
+      "rawScore": 0.5538532891945709,
+      "relevanceScore": 0.47436419979416394,
+      "suggestedRadius": 77.32,
+      "imageUrl": "assets/images/bsky_3n27tkvp7h225_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27tkvp7h225_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ms",
+      "sources": [
+        {
+          "title": "Estou implorando por um emprego Eu não sou herdeira não sou rica não aparece mais gente no tarot to sem alunos e não sei o que faço Sou de campo grande MS meu CV tá aqui no perfil e LinkedIn aqui também Procuro ou presencial ou home office só por favor ME AJUDA Foto da leia pra engajar RT",
+          "url": "https://bsky.app/profile/anneelenleblanc.bsky.social/post/3n27tkvp7h225",
+          "subreddit": "bsky_ms"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A atitude dela é corajosa: usar as redes para pedir ajuda mostra que não está parada esperando as coisas caírem do céu. Muita gente na mesma situação poderia se inspirar e também expor seu currículo publicamente.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Postar um desabafo pedindo emprego no Bluesky não resolve o problema: a rede não é feita para recrutamento e a maioria dos usuários não tem poder de contratação. O ideal seria focar em plataformas específicas de vagas e contatar empresas diretamente.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A situação dela reflete a precarização do trabalho informal: dar aulas de tarot não garante renda fixa e a busca por emprego formal se torna urgente. Ao mesmo tempo, a viralização pode gerar oportunidades, mas também expõe a pessoa a julgamentos.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27z5h543k2w",
+      "rank": 3,
+      "title": "Município de Olhos D'água foi rebatizado de Alexânia após mudança para beira da BR-060",
+      "label": "Olhos D'água · Município goiano vira Alexânia",
+      "context": "Olhos D'água era um município de Goiás que, segundo o relato, teve sua sede transferida para a beira da BR-060, cerca de 18 km distante, por incentivo do então prefeito. O município foi rebatizado de Alexânia, em homenagem ao filho do prefeito, e Olhos D'água passou a ser distrito.",
+      "source": "bluesky",
+      "subreddit": "bsky_ms",
+      "permalink": "https://bsky.app/profile/rinaldocosta.bsky.social/post/3n27z5h543k2w",
+      "createdAt": "2026-11-13T22:16:16.590000+00:00",
+      "rawScore": 0.5023603289406349,
+      "relevanceScore": 0.429599693929807,
+      "suggestedRadius": 75.33,
+      "imageUrl": "assets/images/bsky_3n27z5h543k2w_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27z5h543k2w_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ms",
+      "sources": [
+        {
+          "title": "Xô contar procês: até os anos 50, existia Olhos D'água, um bucólico município de Goiás. Com a construção de Brasília, surgiram as rodovias interestaduais: partindo da Nova Capital, seguem as BR's 010 a 080, em sentido horário. A BR-060 liga o DF a Campo Grande (MS), passando por Goiânia.",
+          "url": "https://bsky.app/profile/rinaldocosta.bsky.social/post/3n27z5h543k2w",
+          "subreddit": "bsky_ms"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A mudança da sede para a beira da BR-060 foi uma decisão estratégica do prefeito: aproximar o município de uma rodovia interestadual garantiu acesso e desenvolvimento. Rebatizar em homenagem ao filho foi um gesto pessoal dentro de um processo que visava o progresso da região.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Um prefeito usar o cargo para mudar o nome de um município inteiro em homenagem ao próprio filho é um abuso de poder. Olhos D'água tinha história e identidade, e tudo foi apagado por uma decisão personalista que virou o nome da cidade num monumento à vaidade do gestor.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O caso de Olhos D'água mostra como a construção de Brasília e das rodovias federais redesenhou o mapa de Goiás: a BR-060 atraiu a sede do município, que virou distrito de Alexânia. É um exemplo de como infraestrutura e decisões locais se misturam na formação das cidades.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
       "promptVersion": 2
     },
     {
       "id": "bsky_3mztjww5spc2x",
-      "rank": 2,
+      "rank": 4,
       "title": "Alvinho, o tamanduá-bandeira de pelagem clara, é monitorado no Cerrado do MS",
       "label": "Tamanduá Alvinho · Monitoramento no Cerrado",
-      "context": "Um tamanduá-bandeira de pelagem clara, apelidado de Alvinho, foi avistado por funcionários de uma fazenda no Cerrado de Mato Grosso do Sul em 2022. Pesquisadores do ICAS acompanham o animal desde então e, quatro anos depois, começam a responder perguntas sobre sua sobrevivência.",
+      "context": "Alvinho, um tamanduá-bandeira de pelagem clara avistado em 2022 por funcionários de uma fazenda no Cerrado do Mato Grosso do Sul, é monitorado desde então por pesquisadores do ICAS. Quatro anos depois, os estudos começam a responder perguntas sobre a sobrevivência do animal.",
       "source": "bluesky",
       "subreddit": "bsky_ms",
       "permalink": "https://bsky.app/profile/conexaoplaneta.bsky.social/post/3mztjww5spc2x",
       "createdAt": "2026-11-08T23:12:17.678000+00:00",
-      "rawScore": 0.049500996023958244,
-      "relevanceScore": 0.03886512311325891,
-      "suggestedRadius": 47.83,
+      "rawScore": 0.10599437896100311,
+      "relevanceScore": 0.08502587636727198,
+      "suggestedRadius": 53.5,
       "imageUrl": "assets/images/bsky_3mztjww5spc2x_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mztjww5spc2x_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -69,17 +210,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A proteção da fauna é uma responsabilidade de toda a humanidade, e o trabalho do ICAS com o Alvinho mostra como o monitoramento pode ajudar a entender e preservar espécies do Cerrado.",
+          "text": "O trabalho do ICAS com o Alvinho mostra como a pesquisa de campo é essencial para entender a fauna do Cerrado. Acompanhar um animal tão diferente por quatro anos gera dados que ajudam a proteger a espécie e a região.",
           "source": "sintese",
           "evidence": [
-            1
+            2
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ainda faltam respostas concretas sobre a sobrevivência do Alvinho após quatro anos de monitoramento; seria importante que os pesquisadores divulgassem dados mais claros sobre o que já descobriram.",
+          "text": "Focar tanto em um único animal de pelagem clara desvia atenção do problema maior: o Cerrado segue perdendo área e a maioria dos tamanduás não tem monitoramento nenhum. O esforço de conservação precisa ser coletivo, não só midiático.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -87,11 +228,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A reportagem sobre o Alvinho é bacana e chama atenção para o tamanduá-bandeira e o meio ambiente, mas é preciso ver o que os estudos do ICAS vão concluir antes de tirar lições maiores.",
+          "text": "A história do Alvinho é bonita e chama atenção, mas ainda faltam respostas concretas sobre o que os quatro anos de monitoramento revelaram. Sem dados publicados, fica difícil saber se o caso ajuda de fato na conservação da espécie.",
           "source": "sintese",
-          "evidence": [
-            2
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -100,7 +239,7 @@
     },
     {
       "id": "bsky_3mzwbtfztqs2e",
-      "rank": 3,
+      "rank": 5,
       "title": "Por que os ataques contra os Guarani Kaiowá não param de acontecer? Baita investigação da @isabelharari.bsky.social para o @reporterbrasil.org.br reporterbrasil.org.br/2026/11/viol...",
       "label": "",
       "context": "",
@@ -108,9 +247,9 @@
       "subreddit": "bsky_ms",
       "permalink": "https://bsky.app/profile/gabrieldread.bsky.social/post/3mzwbtfztqs2e",
       "createdAt": "2026-11-10T01:25:08.578000+00:00",
-      "rawScore": 0.033460447222370585,
-      "relevanceScore": 0.024963232332993916,
-      "suggestedRadius": 45.48,
+      "rawScore": 0.06842634478123175,
+      "relevanceScore": 0.05236676183861776,
+      "suggestedRadius": 49.73,
       "imageUrl": "assets/images/bsky_3mzwbtfztqs2e_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzwbtfztqs2e_reddit.jpg",
       "category": "geopolitica",
@@ -128,17 +267,17 @@
     },
     {
       "id": "bsky_3mzuvkfcit22h",
-      "rank": 4,
-      "title": "Brasil de Fato publica reportagem e convoca: Bora!!!!",
-      "label": "Brasil de Fato · Publicação e convocação",
-      "context": "O perfil do Brasil de Fato no Bluesky divulgou em 9 de novembro de 2026 um link para uma reportagem publicada no site no dia anterior, acompanhado da convocação \"Bora!!!!\". A publicação aparece como chamada para mobilizar leitores em torno do conteúdo veiculado pelo veículo.",
+      "rank": 6,
+      "title": "Brasil de Fato publica reportagem e convoca leitores: \"Bora!!!!\"",
+      "label": "Brasil de Fato · Chamada para ação",
+      "context": "O perfil do Brasil de Fato no Bluesky divulgou, em 9 de novembro de 2026, um link para uma reportagem publicada no site no dia anterior, encerrando a publicação com a convocação \"Bora!!!!\". A mensagem funciona como chamada para o público acessar e se engajar com o conteúdo veiculado pelo veículo.",
       "source": "bluesky",
       "subreddit": "bsky_ms",
       "permalink": "https://bsky.app/profile/jurnalista.bsky.social/post/3mzuvkfcit22h",
       "createdAt": "2026-11-09T12:12:41.470000+00:00",
-      "rawScore": 0.015551196676490103,
-      "relevanceScore": 0.009441790509221094,
-      "suggestedRadius": 41.83,
+      "rawScore": 0.03195153035663649,
+      "relevanceScore": 0.020658018815122286,
+      "suggestedRadius": 44.62,
       "imageUrl": "assets/images/bsky_3mzuvkfcit22h_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzuvkfcit22h_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -154,7 +293,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A chamada do Brasil de Fato cumpre o papel de mobilizar leitores em torno de uma pauta que o veículo considera relevante, e o tom direto do \"Bora!!!!\" aproxima o jornal do público em vez de soar distante.",
+          "text": "A chamada do Brasil de Fato é um jeito direto de mobilizar o leitor: em vez de só postar o link, o veículo convida a pessoa a clicar e se envolver com a pauta. Esse tipo de publicação ajuda a manter a comunidade engajada e mostra que o jornal fala com o público de igual para igual.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -162,7 +301,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Uma convocação solta como \"Bora!!!!\" sem dizer do que se trata não informa nada: quem vê o post no Bluesky precisa clicar no link para entender a pauta, o que enfraquece a função de uma chamada jornalística.",
+          "text": "Publicar só o link com um \"Bora!!!!\" não informa nada: quem vê o post no Bluesky não sabe do que trata a reportagem nem por que deveria clicar. Um veículo jornalístico deveria resumir o assunto na própria publicação, em vez de depender de uma chamada vazia para gerar tráfego.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -170,7 +309,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post funciona como chamada para a reportagem do site, e o alcance da mensagem depende de o leitor abrir o link; sem o conteúdo completo no próprio Bluesky, o efeito da publicação fica limitado a quem decide clicar.",
+          "text": "O post cumpre o papel básico de divulgar a reportagem, mas o formato deixa dúvidas: sem nenhum resumo do conteúdo, fica difícil saber se vale o clique. Funcionaria melhor se trouxesse ao menos uma frase sobre o tema, mantendo o tom informal do \"Bora!!!!\" sem deixar o leitor no escuro.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -181,15 +320,15 @@
     },
     {
       "id": "bsky_3mzvlmx5dgk2j",
-      "rank": 5,
-      "title": "Fundadora de quilombo em Campo Grande conquistou liberdade antes da abolição",
-      "label": "Eva Maria de Jesus · Legado quilombola em MS",
-      "context": "Eva Maria de Jesus fundou uma comunidade quilombola em Campo Grande (MS) e conquistou a liberdade antes da abolição. Seu legado envolve resistência negra, religiosidade e preservação da memória.",
+      "rank": 7,
+      "title": "Fundadora de comunidade quilombola em Campo Grande (MS) conquistou liberdade antes da abolição e deixou legado de resistência negra",
+      "label": "Eva Maria de Jesus · Legado quilombola em Campo Grande",
+      "context": "Eva Maria de Jesus fundou uma comunidade quilombola em Campo Grande (MS) e conquistou a liberdade antes da abolição. Seu legado inclui resistência negra, religiosidade e preservação da memória.",
       "source": "bluesky",
       "subreddit": "bsky_ms",
       "permalink": "https://bsky.app/profile/alma-preta.bsky.social/post/3mzvlmx5dgk2j",
       "createdAt": "2026-11-09T18:47:48.881000+00:00",
-      "rawScore": 0.0046568871303003575,
+      "rawScore": 0.0081884501833525,
       "relevanceScore": 0.0,
       "suggestedRadius": 36.0,
       "imageUrl": "assets/images/bsky_3mzvlmx5dgk2j_reddit.jpg",
@@ -207,7 +346,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A história de Eva Maria de Jesus mostra que a resistência negra em Mato Grosso do Sul é anterior à abolição e merece ser contada nas escolas como parte da formação do estado.",
+          "text": "A história de Eva Maria de Jesus mostra como a resistência negra foi construída muito antes da abolição, com conquistas concretas como a liberdade e a fundação de uma comunidade. Preservar essa memória é essencial para valorizar a cultura quilombola.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -215,7 +354,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O legado de Eva Maria de Jesus ainda é pouco conhecido fora dos circuitos de memória negra, e a divulgação da história dela chega tarde e de forma limitada ao grande público.",
+          "text": "Ainda há pouca informação sobre Eva Maria de Jesus e sua comunidade, o que dificulta dimensionar seu legado. A divulgação de figuras históricas negras muitas vezes fica restrita a nichos, sem alcançar o grande público.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -223,7 +362,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A trajetória de Eva Maria de Jesus levanta uma dúvida: como preservar a memória de uma comunidade quilombola em área urbana de Campo Grande sem que ela se perca na expansão da cidade?",
+          "text": "O caso de Eva Maria de Jesus levanta questões sobre como a história oficial trata a resistência negra e a religiosidade. É preciso mais pesquisa para entender o alcance de sua atuação e o contexto da época.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

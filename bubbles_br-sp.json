@@ -1,23 +1,23 @@
 {
-  "generatedAt": "2026-11-13T19:28:36.491411+00:00",
+  "generatedAt": "2026-11-14T05:38:24.414303+00:00",
   "region": "br-sp",
   "count": 10,
   "items": [
     {
       "id": "bsky_3n27fesuja22o",
       "rank": 1,
-      "title": "Curitiba desistiu do modal, Rio revitalizou com VLT, mas São Paulo vai na contramão",
-      "label": "VLT em São Paulo · Custos e eficácia",
-      "context": "Curitiba desistiu do veículo leve sobre trilhos (VLT) após testá-lo por alguns meses, enquanto o Rio de Janeiro viu uma revitalização nos locais onde o VLT passa. Em São Paulo, a prefeitura planeja investir quase três bilhões de reais em um sistema de ônibus elétrico que imita um VLT, chamado de Veículo Elétrico Leve (VLE), com velocidade média de 15 km/h.",
+      "title": "Curitiba desiste do modal, Rio revitaliza com VLT e São Paulo vai na contramão",
+      "label": "VLT em São Paulo · Custo de R$ 2,8 bi",
+      "context": "Curitiba desistiu do modal testado há alguns meses, enquanto o Rio de Janeiro viu uma revitalização nos locais onde o VLT passa. Em São Paulo, o projeto do Veículo Elétrico Leve (VLE) prevê quase R$ 3 bilhões para um ônibus elétrico com velocidade média de 15 km/h.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/degiuli.bsky.social/post/3n27fesuja22o",
       "createdAt": "2026-11-13T16:22:28.787000+00:00",
-      "rawScore": 0.9,
+      "rawScore": 0.5698746639720755,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3n27fesuja22o_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27fesuja22o_wiki_thumb.jpg",
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-sp",
       "sources": [
@@ -27,13 +27,13 @@
           "subreddit": "bsky_sp"
         },
         {
-          "title": "você adotou de qual cidade? sou da capital de SP, mas quando clico em \"SP metropolitana\" não aparece São Paulo :( será que é algum problema do site?",
-          "url": "https://bsky.app/profile/floralein.bsky.social/post/3n22wkodewk2a",
+          "title": "Eu moro em São Paulo capital. Com 8k eu estaria feliz demais da vida.",
+          "url": "https://bsky.app/profile/mcanejo.bsky.social/post/3n24vyk4fn22t",
           "subreddit": "bsky_sp"
         },
         {
-          "title": "Eu moro em São Paulo capital. Com 8k eu estaria feliz demais da vida.",
-          "url": "https://bsky.app/profile/mcanejo.bsky.social/post/3n24vyk4fn22t",
+          "title": "São Paulo, a capital que elegeu os socialistas Paulo Maluf e Celso Piita, o comunista João Doria e o trotskista Ricardo Nunes. Infelizmente a burrice e o preconceito tosco não têm lado político.",
+          "url": "https://bsky.app/profile/cesarotti.bsky.social/post/3n24s6k776s23",
           "subreddit": "bsky_sp"
         }
       ],
@@ -41,34 +41,35 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O VLE é uma alternativa mais barata que o VLT e pode revitalizar áreas como o Bom Retiro e os Campos Elíseos, seguindo o exemplo do Rio. Com ônibus elétricos modernos, a cidade ganha mobilidade sem precisar de trilhos caros.",
+          "text": "O VLE é um busão disfarçado de bonde: custa R$ 2,8 bi, anda a 15 km/h e tem só três carros, como os antigos biarticulados da Nove de Julho. Curitiba descartou esse modal e o Rio mostrou que o VLT de verdade revitaliza os locais por onde passa.",
           "source": "sintese",
           "evidence": [
+            10,
             12,
-            14
+            13
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Gastar R$ 2,8 bilhões num ônibus disfarçado de VLT, que Curitiba descartou, é um absurdo. A velocidade média de 15 km/h não resolve o transporte público, e o projeto parece mais uma maquiagem eleitoral do que uma solução real.",
+          "text": "São Paulo precisa de transporte que funcione, e o VLE não resolve nada: um ônibus elétrico caro, lento e apresentado com vídeo cheio de erros feitos com IA. A prefeitura investe bilhões num projeto mal desenhado enquanto a cidade segue sem um modal eficiente.",
           "source": "sintese",
           "evidence": [
+            10,
             12,
-            14,
-            15
+            13
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A prefeitura precisa explicar melhor o projeto: por que não investir em metrô ou BRT? O VLE pode ser útil, mas sem dados claros sobre demanda e custo-benefício, fica difícil apoiar ou criticar.",
+          "text": "Antes de comparar com Curitiba e Rio, vale entender o projeto real: são duas linhas no Bom Retiro e Campos Elíseos, com trajeto circular no Largo do Paiçandu. O debate sobre custo e velocidade faz sentido, mas muita gente está opinando sem conhecer os detalhes técnicos.",
           "source": "sintese",
           "evidence": [
-            14,
-            15
+            10,
+            14
           ],
           "votes": 0
         }
@@ -77,20 +78,73 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n24yym6eis2k",
+      "id": "bsky_3n27w6bk2n22o",
       "rank": 2,
-      "title": "Novela da Globo retrata o Nordeste de forma absurda, dizem internautas",
-      "label": "Novela da Globo · Retrato do Nordeste",
-      "context": "Internautas criticam uma novela da Globo por retratar o Nordeste de forma considerada absurda e distante da realidade. A discussão aponta que os responsáveis pela produção seriam pessoas de um círculo social restrito, o que explicaria a visão estereotipada da região.",
+      "title": "Desconforto é do paulistano que convive com essa gentalha, não do MP",
+      "label": "Crítica ao MP e à convivência paulistana",
+      "context": "Um post no Bluesky afirma que o desconforto com a situação não é de quem a causa, mas do paulistano que convive com 'essa gentalha' há anos. O autor também critica o Ministério Público por não dar andamento às denúncias.",
+      "source": "bluesky",
+      "subreddit": "bsky_sp",
+      "permalink": "https://bsky.app/profile/degiuli.bsky.social/post/3n27w6bk2n22o",
+      "createdAt": "2026-11-13T21:23:02.675000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 0.9826788040652255,
+      "suggestedRadius": 95.48,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-sp",
+      "sources": [
+        {
+          "title": "Que está desconfortável é o paulistano que convive com essa gentalha há tantos anos. O desconforto deveria ser do Ministério Público ao não dar andamento às denúncias.",
+          "url": "https://bsky.app/profile/degiuli.bsky.social/post/3n27w6bk2n22o",
+          "subreddit": "bsky_sp"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O Ministério Público tem a obrigação de agir e dar andamento às denúncias. A população paulistana é que sofre as consequências diárias dessa inércia, e o desconforto deveria ser institucional, não só de quem convive com o problema.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Chamar as pessoas de 'gentalha' é um desrespeito e não resolve nada. O problema é estrutural e exige políticas públicas sérias, não ataques elitistas que só aumentam a divisão social.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A crítica ao MP é pertinente, mas o termo 'gentalha' desvia o foco. O debate deveria ser sobre a eficiência do sistema de justiça e as condições de convivência na cidade, sem rótulos pejorativos.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n24yym6eis2k",
+      "rank": 3,
+      "title": "Novela da Globo é criticada por retratar o Nordeste de forma estereotipada",
+      "label": "Novela da Globo · Críticas ao retrato do Nordeste",
+      "context": "Uma novela da Globo vem sendo criticada nas redes por supostamente retratar o Nordeste de forma estereotipada e distante da realidade local. A discussão gira em torno de quem produz esse tipo de conteúdo e de por que as filiais da emissora na região não teriam interferido.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/caopeta.com.br/post/3n24yym6eis2k",
       "createdAt": "2026-11-12T17:35:32.685000+00:00",
-      "rawScore": 0.5789962113615343,
-      "relevanceScore": 0.45473341637676057,
-      "suggestedRadius": 76.46,
-      "imageUrl": "assets/images/bsky_3n24yym6eis2k_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n24yym6eis2k_wiki_thumb.jpg",
+      "rawScore": 0.5999200900639613,
+      "relevanceScore": 0.6540784660639057,
+      "suggestedRadius": 84.53,
+      "imageUrl": "assets/images/bsky_3n24yym6eis2k_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24yym6eis2k_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sp",
       "sources": [
@@ -104,17 +158,18 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A novela acerta ao expor o quanto a Globo está desconectada da realidade brasileira: só mostra apartamentos luxuosos e psicose de IA, como se o país fosse só o Leblon. Quem produz vive num mundinho tão restrito que nem percebe o absurdo que coloca no ar.",
+          "text": "A novela expõe o problema: quem produz essas tramas vive em apartamentos luxuosos no Leblon e não conhece o Nordeste real. Por isso as histórias saem tão desconectadas e cheias de clichês.",
           "source": "sintese",
           "evidence": [
-            1
+            1,
+            3
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O problema é a ausência de nordestinos na produção: nem uma pessoa da região foi ouvida, e as filiais da Globo no Nordeste não se manifestaram. Quem decide o que vai ao ar são donos de filial que querem pagar de sudestinos e comprar casa no Leblon.",
+          "text": "A Globo tem várias filiais no Nordeste e mesmo assim ninguém foi ouvido na produção. Isso mostra descaso com a região e com os próprios profissionais locais, que poderiam evitar esse fiasco.",
           "source": "sintese",
           "evidence": [
             2,
@@ -125,62 +180,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A novela pode até ser ruim, mas chamar de rage bait é dar muita intenção a algo que parece mais incompetência do que maldade. O diálogo com quem produz revela gente limitada, mas o resultado é mais um retrato de como a Globo se perdeu do que um plano deliberado.",
+          "text": "O problema não é só a novela, mas a lógica das produções: apartamentos de luxo e histórias de IA dominam porque refletem o mundo de quem decide. Enquanto isso, o Nordeste real fica de fora.",
           "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n25higuflk2d",
-      "rank": 3,
-      "title": "Justiça decreta prisão preventiva de Milton Leite por suposto elo com PCC",
-      "label": "Prisão de Milton Leite · Operação PCC",
-      "context": "A Justiça decretou a prisão preventiva de Milton Leite e de outras 15 pessoas investigadas por suposto envolvimento com o PCC em uma operação sobre a infiltração do crime organizado no transporte paulistano. A defesa contesta as acusações.",
-      "source": "bluesky",
-      "subreddit": "bsky_sp",
-      "permalink": "https://bsky.app/profile/dilmaresiste.bsky.social/post/3n25higuflk2d",
-      "createdAt": "2026-11-12T22:02:03.074000+00:00",
-      "rawScore": 0.4542700898653895,
-      "relevanceScore": 0.35631910979939735,
-      "suggestedRadius": 71.82,
-      "imageUrl": "assets/images/bsky_3n25higuflk2d_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n25higuflk2d_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sp",
-      "sources": [
-        {
-          "title": "Justiça decreta prisão preventiva de Milton Leite por suposto elo com PCC Decisão atinge 15 investigados em operação que apura a infiltração do crime organizado no transporte paulistano; defesa contesta acusações #Resistencia3054Dias Siga nosso BlueSky dilmaresiste",
-          "url": "https://bsky.app/profile/dilmaresiste.bsky.social/post/3n25higuflk2d",
-          "subreddit": "bsky_sp"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A prisão preventiva de Milton Leite e dos outros 15 investigados é uma resposta necessária da Justiça diante da gravidade das acusações de infiltração do PCC no transporte paulistano. A operação mostra que ninguém está acima da lei.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A defesa contesta as acusações e a prisão preventiva pode ser um excesso, já que o processo ainda está em fase de investigação. Decretar prisão antes do julgamento compromete o direito de defesa e a presunção de inocência.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A operação que apura a infiltração do PCC no transporte paulistano envolve 15 investigados, e a decisão judicial precisa ser acompanhada com cautela. É fundamental que as autoridades apresentem provas concretas e que o devido processo legal seja respeitado.",
-          "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
@@ -192,14 +196,14 @@
       "rank": 4,
       "title": "Autor de novela estereotipada é paulistano, aponta post",
       "label": "Estereótipos nordestinos em novelas · Autor paulistano",
-      "context": "Um post no Bluesky aponta que o autor de uma novela criticada por estereotipar o Nordeste é paulistano. A discussão também menciona promessas anteriores do autor sobre retratar um sertão moderno e tecnológico.",
+      "context": "Um post no Bluesky aponta que o autor de uma novela acusada de reforçar estereótipos sobre o Nordeste é paulistano. A discussão gira em torno de obras anteriores do mesmo autor, que já retrataram a região de forma considerada caricata.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/cuscuzero.gay/post/3mzyk77eh4s2o",
       "createdAt": "2026-11-10T23:00:10.484000+00:00",
-      "rawScore": 0.31058929867429297,
-      "relevanceScore": 0.32185307554565656,
-      "suggestedRadius": 70.04,
+      "rawScore": 0.3737800686205391,
+      "relevanceScore": 0.5159497466483437,
+      "suggestedRadius": 79.1,
       "imageUrl": "assets/images/bsky_3mzyk77eh4s2o_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzyk77eh4s2o_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -220,11 +224,10 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O autor ser paulistano explica muita coisa: ele repete o mesmo olhar de fora sobre o Nordeste, sempre como atrasado ou exótico. Já são várias novelas nessa pegada, e isso mostra uma fixação que não é coincidência.",
+          "text": "O autor tem todo o direito de escrever sobre o Nordeste, mas morar em São Paulo e retratar a região como atrasada e hipotética é no mínimo estranho. Se ele quer falar do sertão, que conheça de verdade.",
           "source": "sintese",
           "evidence": [
             2,
-            5,
             6
           ],
           "votes": 0
@@ -232,10 +235,9 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O problema não é de onde ele veio, mas o que ele prometeu e não entregou: falou em sertão moderno e verdejante, polo de tecnologia, e entregou estereótipo. As novelas dão audiência e reforçam uma imagem falsa do Nordeste.",
+          "text": "Essas novelas estereotipadas fazem sucesso e dão audiência, o que mostra que o público compra essa visão distorcida. É um escárnio com a cultura nordestina, e o autor repete a fórmula porque funciona.",
           "source": "sintese",
           "evidence": [
-            2,
             8
           ],
           "votes": 0
@@ -243,10 +245,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Falta saber o que levou o autor a repetir esse tipo de retrato. Ele morou no sertão quando criança, o que pode ter criado uma visão particular, mas isso não justifica nem explica tudo. O contexto pessoal pesa, mas a escolha artística é dele.",
+          "text": "O autor morou no sertão quando era criança, segundo um vídeo, o que pode explicar a fixação. Mas isso não justifica repetir o mesmo estereótipo em três novelas seguidas; talvez seja só falta de repertório mesmo.",
           "source": "sintese",
           "evidence": [
-            7,
+            6,
             9
           ],
           "votes": 0
@@ -256,20 +258,73 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n26tpgi4qc27",
+      "id": "bsky_3n25higuflk2d",
       "rank": 5,
+      "title": "Justiça decreta prisão preventiva de Milton Leite por suposto elo com PCC",
+      "label": "Prisão de Milton Leite · Suposto elo com PCC",
+      "context": "A Justiça decretou a prisão preventiva de Milton Leite e de outras 15 pessoas investigadas por suposto envolvimento com o PCC em uma operação sobre a infiltração do crime organizado no transporte paulistano. A defesa contesta as acusações.",
+      "source": "bluesky",
+      "subreddit": "bsky_sp",
+      "permalink": "https://bsky.app/profile/dilmaresiste.bsky.social/post/3n25higuflk2d",
+      "createdAt": "2026-11-12T22:02:03.074000+00:00",
+      "rawScore": 0.45040988878391214,
+      "relevanceScore": 0.4903584000130288,
+      "suggestedRadius": 78.02,
+      "imageUrl": "assets/images/bsky_3n25higuflk2d_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n25higuflk2d_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sp",
+      "sources": [
+        {
+          "title": "Justiça decreta prisão preventiva de Milton Leite por suposto elo com PCC Decisão atinge 15 investigados em operação que apura a infiltração do crime organizado no transporte paulistano; defesa contesta acusações #Resistencia3054Dias Siga nosso BlueSky dilmaresiste",
+          "url": "https://bsky.app/profile/dilmaresiste.bsky.social/post/3n25higuflk2d",
+          "subreddit": "bsky_sp"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A prisão preventiva de Milton Leite e dos outros 15 investigados é uma resposta necessária da Justiça diante da gravidade das acusações de infiltração do PCC no transporte paulistano. A operação mostra que o crime organizado não pode agir impune.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A defesa contesta as acusações e a prisão preventiva pode ser uma medida precipitada, sem provas conclusivas. Decretar prisão antes do julgamento prejudica a imagem dos envolvidos e desrespeita o princípio da presunção de inocência.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A operação que apura a infiltração do PCC no transporte paulistano é complexa e envolve 15 investigados; é preciso acompanhar o desenrolar do caso e o contraditório da defesa antes de tirar conclusões definitivas sobre culpa ou inocência.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n26tpgi4qc27",
+      "rank": 6,
       "title": "Ricardo Nunes é um câncer para São Paulo, diz usuário do Bluesky",
       "label": "Crítica a Ricardo Nunes · Prefeitura de SP",
-      "context": "Um usuário do Bluesky publicou que Ricardo Nunes é um câncer para a cidade de São Paulo e que o cidadão paulistano deve se preparar quando ele deixar a prefeitura. A publicação expressa uma crítica direta à gestão do prefeito, sem apresentar dados ou argumentos adicionais.",
+      "context": "Um usuário do Bluesky publicou que Ricardo Nunes é um câncer para a cidade de São Paulo e que o cidadão paulistano deve se preparar quando ele deixar a prefeitura. A publicação expressa uma crítica direta à gestão do prefeito, sem apresentar dados ou argumentos específicos.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/valderez.bsky.social/post/3n26tpgi4qc27",
       "createdAt": "2026-11-13T11:06:18.977000+00:00",
-      "rawScore": 0.38269039998537213,
-      "relevanceScore": 0.299839637335545,
-      "suggestedRadius": 68.85,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.2706831943562823,
+      "relevanceScore": 0.2935499813842469,
+      "suggestedRadius": 68.51,
+      "imageUrl": "assets/images/bsky_3n26tpgi4qc27_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n26tpgi4qc27_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sp",
       "sources": [
@@ -283,7 +338,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A crítica é justa: a gestão de Ricardo Nunes tem sido desastrosa para São Paulo, e quem vive na cidade sente no dia a dia o abandono dos serviços públicos. Dizer que ele é um câncer é uma forma forte, mas honesta, de expressar o que muitos paulistanos pensam.",
+          "text": "A gestão de Ricardo Nunes tem sido desastrosa para São Paulo, e a comparação com um câncer reflete o sentimento de abandono que muitos paulistanos sentem. Quando ele sair, a cidade vai precisar de um choque de gestão para reparar os danos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -291,7 +346,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Chamar o prefeito de câncer é um exagero e uma agressividade desnecessária. Críticas políticas devem ser feitas com argumentos e propostas, não com metáforas de doença que só alimentam o ódio e não contribuem para o debate público.",
+          "text": "Chamar o prefeito de câncer é um exagero e uma falta de respeito que não contribui para o debate público. Críticas devem ser feitas com base em fatos e propostas, não com ataques pessoais que só aumentam a polarização.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -299,7 +354,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A publicação é só um desabafo sem dados concretos. Para avaliar a gestão de Ricardo Nunes, é preciso olhar para indicadores, obras e políticas públicas, não para uma frase de efeito. Sem informações objetivas, fica difícil concordar ou discordar.",
+          "text": "A publicação não apresenta nenhum argumento concreto sobre o que Ricardo Nunes fez ou deixou de fazer. Sem dados ou exemplos, fica difícil avaliar se a crítica procede ou se é apenas desabafo político.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -310,17 +365,17 @@
     },
     {
       "id": "bsky_3mzyjcilurc22",
-      "rank": 6,
+      "rank": 7,
       "title": "Paulistano sabe votar?",
-      "label": "Voto do paulistano · Lula e bolsonarismo",
-      "context": "Posts no Bluesky questionam a coerência do eleitor de São Paulo que votou em Lula para presidente e em candidato bolsonarista para o governo do estado. A discussão gira em torno da lógica desse voto dividido e do que ele revela sobre o eleitorado paulistano.",
+      "label": "Voto do paulistano · Crítica à incoerência",
+      "context": "Posts no Bluesky questionam a lógica do eleitor paulistano que votou em Lula para presidente e em candidato bolsonarista para o governo do estado. A discussão gira em torno da coerência do voto e do que seria 'saber votar'.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/kissquerdista.bsky.social/post/3mzyjcilurc22",
       "createdAt": "2026-11-10T22:44:04.177000+00:00",
-      "rawScore": 0.11156355631039502,
-      "relevanceScore": 0.16481315326768067,
-      "suggestedRadius": 60.36,
+      "rawScore": 0.13135616289889737,
+      "relevanceScore": 0.25048519963248056,
+      "suggestedRadius": 66.03,
       "imageUrl": "assets/images/bsky_3mzyjcilurc22_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzyjcilurc22_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -341,7 +396,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O eleitor paulistano mostrou que sabe separar as eleições: votou em Lula para presidente e escolheu um bolsonarista para o governo do estado porque avaliou cada cargo separadamente, sem ideologia.",
+          "text": "O eleitor paulistano mostrou que sabe separar as eleições: votou em Lula para presidente e escolheu um bolsonarista para o governo do estado. Isso é maturidade democrática, não incoerência.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -349,7 +404,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A incoerência é evidente: quem votou em Lula contra o bolsonarismo não pode votar em bolsonarista para o governo do estado. Isso mostra que o paulistano não aprendeu a votar ou está sendo manipulado.",
+          "text": "A incoerência é clara: quem votou em Lula contra o bolsonarismo não pode votar em bolsonarista para o governo do estado. O paulistano precisa aprender a votar com consciência, não por conveniência.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -357,7 +412,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A crítica à corrupção e à impunidade aparece nos comentários, mas o debate sobre a lógica do voto paulistano ainda carece de dados concretos sobre o que motivou essa escolha dividida.",
+          "text": "A crítica à corrupção e à impunidade é válida, mas o debate sobre 'saber votar' precisa considerar que cada eleição tem suas particularidades e que o eleitor pode ter motivos diversos para escolher candidatos diferentes.",
           "source": "sintese",
           "evidence": [
             1
@@ -370,19 +425,19 @@
     },
     {
       "id": "bsky_3n252j7x2u22s",
-      "rank": 7,
-      "title": "Paulistano tem que gastar o salário em restaurantes de culinária internacional de madrugada ou fica sem motivos para morar em São Paulo",
+      "rank": 8,
+      "title": "Paulistano precisa gastar o salário em restaurantes internacionais de madrugada ou fica sem motivo para morar em São Paulo",
       "label": "Custo de vida e gastronomia em São Paulo",
-      "context": "Um post viral no Bluesky ironiza o alto custo de vida em São Paulo, sugerindo que os moradores precisam gastar o salário em restaurantes internacionais de madrugada para justificar a permanência na cidade. A frase repercutiu como uma crítica ao estilo de vida paulistano, que combina oferta gastronômica sofisticada com preços elevados.",
+      "context": "Um post viral no Bluesky afirma que o paulistano precisa gastar o salário em restaurantes de culinária internacional de madrugada, senão não tem motivo para morar em São Paulo. A frase satiriza o alto custo de vida e a cultura de consumo da cidade, levantando discussão sobre prioridades e identidade paulistana.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/sarthathepuppy.bsky.social/post/3n252j7x2u22s",
       "createdAt": "2026-11-12T18:02:45.480000+00:00",
-      "rawScore": 0.19098021747686875,
-      "relevanceScore": 0.1485720083170537,
-      "suggestedRadius": 59.13,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.18623608189264965,
+      "relevanceScore": 0.20107678081343944,
+      "suggestedRadius": 62.9,
+      "imageUrl": "assets/images/bsky_3n252j7x2u22s_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n252j7x2u22s_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sp",
       "sources": [
@@ -396,7 +451,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A gastronomia internacional de madrugada é um dos maiores atrativos de São Paulo. Quem mora aqui sabe que poder comer bem a qualquer hora é um privilégio que justifica o custo de vida alto. A cidade oferece uma experiência única que não se encontra em outros lugares.",
+          "text": "A frase acerta em cheio: São Paulo é cara e a gastronomia internacional de madrugada é um dos poucos prazeres que justificam o custo de vida. Quem mora aqui sabe que pagar caro por uma experiência gastronômica é parte do pacote, e isso é um estilo de vida.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -404,7 +459,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O custo de vida em São Paulo está insustentável. Gastar o salário em restaurantes caros de madrugada não é motivo para morar aqui, é apenas um sintoma de como a cidade ficou cara e elitizada. A maioria dos paulistanos não tem esse poder aquisitivo.",
+          "text": "Essa ideia é elitista e não reflete a realidade da maioria dos paulistanos, que trabalha duro e não tem salário para gastar em restaurantes caros de madrugada. Reduzir a cidade a isso é ignorar a desigualdade e a luta diária de quem vive aqui.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -412,7 +467,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A frase é um exagero irônico que reflete uma realidade: São Paulo tem opções gastronômicas diversas, mas também é uma cidade desigual. Morar aqui envolve escolhas e prioridades, e nem todo mundo liga para restaurantes de madrugada. O motivo para ficar pode ser outro.",
+          "text": "A frase é um exagero cômico que viralizou, mas revela uma tensão real: São Paulo oferece opções culturais e gastronômicas, mas o custo é alto. Cada um decide se vale a pena, e não dá para generalizar o motivo de morar na cidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -423,17 +478,17 @@
     },
     {
       "id": "bsky_3mzxuv6pjss2k",
-      "rank": 8,
-      "title": "Entregador de leite da Vigor passando por rua da Mooca nos anos 1950",
+      "rank": 9,
+      "title": "Entregador de leite da Vigor passando por rua da Mooca, meados da década de 1950",
       "label": "Entregador de leite · Mooca anos 1950",
-      "context": "Uma imagem mostra um entregador de leite da Vigor passando por uma rua do bairro da Mooca, em São Paulo, em meados da década de 1950. O registro recupera uma prática comum da época, quando a distribuição de leite era feita de porta em porta por profissionais uniformizados.",
+      "context": "Uma imagem mostra um entregador de leite da Vigor passando por uma rua do bairro paulistano da Mooca em meados da década de 1950. O registro ilustra como a distribuição de leite era feita porta a porta na cidade naquela época.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/saopauloantiga.com.br/post/3mzxuv6pjss2k",
       "createdAt": "2026-11-10T16:38:49.574000+00:00",
-      "rawScore": 0.0726106172953009,
-      "relevanceScore": 0.055173272094274584,
-      "suggestedRadius": 50.09,
+      "rawScore": 0.08823008593165367,
+      "relevanceScore": 0.09375602280000353,
+      "suggestedRadius": 54.37,
       "imageUrl": "assets/images/bsky_3mzxuv6pjss2k_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzxuv6pjss2k_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -449,7 +504,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A foto é um registro valioso de como a cidade funcionava antes da industrialização do consumo: o leite chegava à porta em garrafas, entregue por gente que conhecia a vizinhança. Recuperar esse cotidiano ajuda a entender a história dos bairros paulistanos.",
+          "text": "A foto é um registro histórico valioso: mostra o cotidiano da Mooca nos anos 1950 e como o leite chegava às casas, algo que hoje quase não existe mais. Ver esse passado ajuda a entender a vida urbana da época.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -457,7 +512,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa nostalgia do entregador de leite esconde uma rotina pesada, com jornadas longas e pouca proteção para quem trabalhava de madrugada. Idealizar o passado sem olhar as condições de trabalho daquela época é romantizar uma realidade dura.",
+          "text": "Publicar essa imagem sem contexto pode romantizar uma época de trabalho pesado e condições precárias. O entregador de leite enfrentava jornadas longas e pouco reconhecimento, e a foto sozinha não mostra essa realidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -465,66 +520,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A imagem vale mais como documento histórico do que como saudosismo: mostra a Mooca de meados dos anos 1950, mas sem contexto sobre quem era o entregador, quanto ganhava ou como era o bairro naquele período. Sem esses dados, fica difícil tirar conclusões maiores.",
+          "text": "A imagem é interessante, mas seria mais útil se viesse acompanhada de informações sobre o entregador, a rota ou o contexto da Vigor na época. Sem esses dados, fica só como curiosidade visual.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n255r6ev7ks2",
-      "rank": 9,
-      "title": "Nem todo paulistano, mas sempre um paulistano",
-      "label": "Piada sobre paulistanos · Generalização",
-      "context": "Uma postagem no Bluesky usou a frase 'nem todo paulistano, mas sempre um paulistano' para comentar um comportamento atribuído a moradores de São Paulo. A frase é uma variação de um meme que generaliza traços de grupos, e um comentário na thread reforçou a ideia de que paulistanos se acham o centro do país.",
-      "source": "bluesky",
-      "subreddit": "bsky_sp",
-      "permalink": "https://bsky.app/profile/felipesiles.ayom.media.ap.brid.gy/post/3n255r6ev7ks2",
-      "createdAt": "2026-11-12T19:01:00.880000+00:00",
-      "rawScore": 0.04793197939946811,
-      "relevanceScore": 0.03570075898588539,
-      "suggestedRadius": 47.34,
-      "imageUrl": "assets/images/bsky_3n255r6ev7ks2_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n255r6ev7ks2_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sp",
-      "sources": [
-        {
-          "title": "@helenfernanda nem todo paulistano, mas sempre um paulistano",
-          "url": "https://bsky.app/profile/felipesiles.ayom.media.ap.brid.gy/post/3n255r6ev7ks2",
-          "subreddit": "bsky_sp"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A frase acerta porque São Paulo concentra tanta gente e tanta visibilidade que muitos paulistanos realmente passam a impressão de que o resto do Brasil é periferia. É humor, mas tem um fundo de verdade sobre a centralização.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Generalizar 'sempre um paulistano' é preconceito disfarçado de piada. A cidade tem milhões de pessoas diferentes, e reduzir todo mundo a um estereótipo arrogante é injusto e não ajuda em nada o debate sobre desigualdade regional.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A piada funciona como meme, mas o comentário que fala em 'ilusão de que o país inteiro mora lá' exagera. São Paulo é gigante, mas a maioria dos paulistanos não pensa assim; o estereótipo diz mais sobre quem repete do que sobre quem mora lá.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
           "votes": 0
         }
       ],
@@ -534,18 +532,18 @@
     {
       "id": "bsky_3mzvdyro5f225",
       "rank": 10,
-      "title": "Paulistano proibido de chamar parceiro de \"você\", só de \"tu\"",
-      "label": "Paulistano e o uso de \"tu\" no relacionamento",
-      "context": "Uma pessoa relata que, ao se relacionar com um paulistano, proíbe o parceiro de chamá-la de \"você\" e exige o uso de \"tu\". A situação brinca com a diferença entre o \"você\" mais comum em São Paulo e o \"tu\" usado em outras regiões do Brasil.",
+      "title": "Paulistano proibido de usar 'você' em relacionamento",
+      "label": "Paulistano e o uso de 'tu'",
+      "context": "Um post no Bluesky descreve a situação de quem se relaciona com um paulistano e o proíbe de usar o pronome 'você', exigindo o 'tu'. A discussão gira em torno das diferenças regionais no tratamento informal e das preferências pessoais em relacionamentos.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/sophrosynho.bsky.social/post/3mzvdyro5f225",
       "createdAt": "2026-11-09T16:31:13.578000+00:00",
-      "rawScore": 0.04091920382787793,
-      "relevanceScore": 0.030167375627355705,
-      "suggestedRadius": 46.42,
-      "imageUrl": "assets/images/bsky_3mzvdyro5f225_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzvdyro5f225_wiki_thumb.jpg",
+      "rawScore": 0.04932579678647555,
+      "relevanceScore": 0.05115416196389667,
+      "suggestedRadius": 49.57,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-sp",
       "sources": [
@@ -559,7 +557,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O \"tu\" soa mais íntimo e carinhoso do que o \"você\", que em São Paulo virou quase um pronome sem sal. Impor esse tratamento no relacionamento é uma forma de criar proximidade e marcar a relação com um jeito próprio de falar.",
+          "text": "Proibir o 'você' e exigir o 'tu' é uma forma de preservar a identidade regional e manter o respeito dentro do relacionamento. Cada um tem o direito de definir como quer ser tratado, e isso não é um capricho, é uma questão de se sentir valorizado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -567,7 +565,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Proibir o parceiro de usar o pronome que ele cresceu falando é controlar demais o jeito de ser do outro. Paulistano fala \"você\" naturalmente, e exigir \"tu\" num relacionamento vira uma imposição sem sentido sobre algo que nem deveria ser regra.",
+          "text": "Impor o uso de 'tu' e proibir o 'você' soa controlador e desnecessário. O jeito de falar do paulistano é parte de quem ele é, e tentar mudar isso à força gera ressentimento. Relacionamento saudável é sobre aceitar o outro como ele é, não sobre impor regras de vocabulário.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -575,7 +573,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O uso de \"tu\" ou \"você\" varia por região e até por família, então o combinado depende muito de cada casal. O que funciona é conversar sobre o que soa natural para os dois, sem transformar o pronome em teste de afeto ou de compatibilidade.",
+          "text": "A escolha entre 'tu' e 'você' varia conforme a região e a intimidade do casal. O que importa é que ambos se sintam confortáveis com o tratamento, e isso deve ser conversado sem imposições. Cada casal encontra seu próprio equilíbrio.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

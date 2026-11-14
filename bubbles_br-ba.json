@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-13T19:28:36.491411+00:00",
+  "generatedAt": "2026-11-14T05:38:24.414303+00:00",
   "region": "br-ba",
   "count": 10,
   "items": [
@@ -7,8 +7,8 @@
       "id": "bsky_3n27h4bace22q",
       "rank": 1,
       "title": "Dramaturgo baiano Elísio Lopes Jr. tem estreia na TV ofuscada por Mario Teixeira",
-      "label": "Novela sertaneja · Autor baiano ofuscado",
-      "context": "Elísio Lopes Jr., dramaturgo baiano, estreia seu primeiro grande trabalho na TV, mas as discussões nas redes estão dominadas por Mario Teixeira, paulista que assina sua terceira novela sobre o sertão. A comparação levanta a questão de quem tem espaço para contar histórias nordestinas na teledramaturgia.",
+      "label": "Teledramaturgia baiana · Reconhecimento e apagamento",
+      "context": "Elísio Lopes Jr., dramaturgo baiano, estreou seu primeiro grande trabalho na TV, mas as discussões nas redes têm se concentrado em Mario Teixeira, paulista que está na sua terceira novela sobre o sertão. A comparação levanta a questão sobre qual tipo de produção e de autor recebe visibilidade na teledramaturgia brasileira.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/milamesmo.bsky.social/post/3n27h4bace22q",
@@ -16,8 +16,8 @@
       "rawScore": 0.9,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3n27h4bace22q_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27h4bace22q_uns_thumb.jpg",
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-ba",
       "sources": [
@@ -41,7 +41,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Elísio Lopes Jr. merecia ter sua estreia na TV celebrada como um marco para a dramaturgia baiana, mas o foco todo vai para Mario Teixeira, que já está na terceira novela sobre o sertão. Essa diferença de tratamento mostra como o eixo Rio-São Paulo ainda define quem ganha visibilidade.",
+          "text": "O trabalho de Elísio Lopes Jr. merecia ser enaltecido junto com toda a equipe. É o primeiro grande trabalho dele na TV e a gente passa semanas falando de um paulista que já está na terceira novela sobre o sertão. Isso mostra como a mídia e o público dão voz ao que não presta e deixam de lado o que presta.",
           "source": "sintese",
           "evidence": [
             1
@@ -51,7 +51,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A teledramaturgia brasileira está tão falida que prefere exaltar um paulista repetindo o sertão pela terceira vez a reconhecer um dramaturgo baiano em sua estreia. Se o que se propaga é sempre conteúdo ruim, o público acaba achando que a vida é só isso e que o bom mesmo é enlatado de streaming.",
+          "text": "A teledramaturgia brasileira está falida e o que se propaga é sempre conteúdo bosta. Se a pessoa só vê esse tipo de produção, ela acha que a vida é só isso mesmo e que bom mesmo é enlatado de streaming que cancela sem final. O problema não é só a escolha de quem falar, mas a qualidade do que se produz.",
           "source": "sintese",
           "evidence": [
             1
@@ -61,7 +61,62 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A discussão sobre Elísio Lopes Jr. e Mario Teixeira acaba virando briga de origem, mas o que importa é a qualidade do roteiro e da representação do sertão. Sem assistir às obras, fica difícil dizer se a escolha da emissora é injusta ou apenas uma questão de mercado.",
+          "text": "A discussão sobre Elísio Lopes Jr. e Mario Teixeira acaba desviando para outros assuntos, como as críticas ao PT baiano e a confusão com pautas internacionais. O foco no trabalho do dramaturgo baiano se perde em meio a tantos comentários desconexos, e fica difícil avaliar a real dimensão da estreia dele na TV.",
+          "source": "sintese",
+          "evidence": [
+            4
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27x7ezhss2h",
+      "rank": 2,
+      "title": "Baiano é mestre em fazer esculhambação, diz usuário",
+      "label": "Orgulho baiano · esculhambação",
+      "context": "Um usuário do Bluesky publicou que antes pensava que só baiano sabia fazer esse tipo de esculhambação. A frase viralizou como uma brincadeira de orgulho regional, sem detalhes sobre qual situação específica motivou o comentário.",
+      "source": "bluesky",
+      "subreddit": "bsky_ba",
+      "permalink": "https://bsky.app/profile/cintiage1984.bsky.social/post/3n27x7ezhss2h",
+      "createdAt": "2026-11-13T21:41:34.072000+00:00",
+      "rawScore": 0.8308990321784933,
+      "relevanceScore": 0.7483044772219319,
+      "suggestedRadius": 87.9,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-ba",
+      "sources": [
+        {
+          "title": "eu pensava, esse tipo de esculhambação só baiano sabe fazer",
+          "url": "https://bsky.app/profile/cintiage1984.bsky.social/post/3n27x7ezhss2h",
+          "subreddit": "bsky_ba"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Baiano tem mesmo esse talento de transformar qualquer situação numa esculhambação criativa e divertida, e a frase acerta em cheio. É um jeito de reconhecer a identidade do povo da Bahia com humor, sem levar a sério demais.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Rotular o baiano como o povo da esculhambação reforça um estereótipo que não representa a Bahia, que tem produção cultural e profissional séria. A piada pode soar engraçada, mas reduz um estado inteiro a uma única característica.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A frase funciona como brincadeira de internet e não deve ser lida como afirmação literal sobre um povo. Sem saber qual situação motivou o post, fica difícil dizer se é elogio, crítica ou só humor regional.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -71,36 +126,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n24ybmyoac2r",
-      "rank": 2,
-      "title": "Momentos mais felizes e mais tristes da vida foram em Salvador, diz baiano",
-      "label": "Orgulho baiano · Salvador e Bahia",
-      "context": "Um usuário do Bluesky publicou que os momentos mais felizes e mais tristes da sua vida aconteceram em Salvador, declarando amor por ser baiano e pela Bahia. A publicação gerou comentários sobre identidade regional e diferenças culturais dentro do próprio estado.",
+      "id": "bsky_3n2a35nxcu22i",
+      "rank": 3,
+      "title": "Boldo-baiano: usuário diz ter \"caído nas folhas de alumã\" e estar muito bem",
+      "label": "Boldo-baiano · Relato de uso e identificação botânica",
+      "context": "Um usuário do Bluesky relatou ter \"caído nas folhas de alumã\" — o boldo-baiano (Vernonia condensata), da família Asteraceae — e afirmou estar se sentindo bem. A publicação mistura humor e identificação botânica da planta, e os comentários giram em torno de onde encontrá-la e de seu uso popular.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
-      "permalink": "https://bsky.app/profile/ravel.bsky.social/post/3n24ybmyoac2r",
-      "createdAt": "2026-11-12T17:22:46.488000+00:00",
-      "rawScore": 0.11361844345558901,
-      "relevanceScore": 0.44283189666864964,
-      "suggestedRadius": 75.93,
-      "imageUrl": "assets/images/bsky_3n24ybmyoac2r_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n24ybmyoac2r_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/daisyhenry72.bsky.social/post/3n2a35nxcu22i",
+      "createdAt": "2026-11-13T22:57:24.775000+00:00",
+      "rawScore": 0.7194771575320233,
+      "relevanceScore": 0.644089367127429,
+      "suggestedRadius": 84.15,
+      "imageUrl": "assets/images/bsky_3n2a35nxcu22i_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2a35nxcu22i_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-ba",
       "sources": [
         {
-          "title": "acho que os momentos mais felizes e mais tristes da minha vida foram em salvador amo ser baiano amo minha bahia",
-          "url": "https://bsky.app/profile/ravel.bsky.social/post/3n24ybmyoac2r",
-          "subreddit": "bsky_ba"
-        },
-        {
-          "title": "Esse papo todo sobre a nova novela da globo me lembrou de quando alguém mandou um corte da jade picon fazendo sotaque carioca num grupo de amigos e eu falei horrores, aí um amigo meu baiano respondeu \"é assim que gente sempre se sentiu vendo tv\" foi o maior lacre que já tomei na minha vida",
-          "url": "https://bsky.app/profile/kigewpuri.bsky.social/post/3mzy2a6hacs2l",
-          "subreddit": "bsky_ba"
-        },
-        {
-          "title": "Pep Guardiola virá a Salvador para assistir a partida entre Bahia e Coritiba no dia 21 de novembro (sábado), às 17h30, pela 36ª rodada do Brasileirão O treinador espanhol estará acompanhado de Ferran Soriano, CEO do Grupo City",
-          "url": "https://bsky.app/profile/htesports.bsky.social/post/3n25d4liffs27",
+          "title": "Eu deu certo ou tu vai precisar de uma salina inteira? 🤭 Eu cai nas folhas de alumã e estou muito bem. Boldo-baiano/alumã (Vernonia condensata) da família Asteraceae pt.wikipedia.org/wiki/Boldo-b...",
+          "url": "https://bsky.app/profile/daisyhenry72.bsky.social/post/3n2a35nxcu22i",
           "subreddit": "bsky_ba"
         }
       ],
@@ -108,7 +153,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Salvador concentra as memórias mais intensas da vida de quem é daqui, tanto as alegrias quanto as dores, e isso só reforça o orgulho de ser baiano. A cidade marca a gente de um jeito que nenhum outro lugar consegue.",
+          "text": "Saber o nome científico, a espécie e a família do boldo-baiano faz diferença: mostra que a pessoa conhece a planta de verdade e não está falando de qualquer folha por aí. Esse tipo de detalhe ajuda quem quer identificar e usar a planta com segurança.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Ainda não deu certo de verdade — a véia tá mais quieta, mas o efeito real da planta continua duvidoso. Falar que \"caiu nas folhas e está muito bem\" soa mais como entusiasmo do que como resultado concreto de quem realmente testou o boldo-baiano.",
           "source": "sintese",
           "evidence": [
             1
@@ -116,22 +171,13 @@
           "votes": 0
         },
         {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A Bahia não se resume a Salvador, e quem mora no interior sabe que a cultura e até a paisagem são completamente diferentes. Falar da Bahia como se fosse só a capital ignora a realidade de quem vive em Juazeiro, Petrolina ou no oeste do estado.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
           "id": "op3",
           "tone": "neutral",
-          "text": "O orgulho baiano aparece forte tanto na capital quanto no interior, mas cada região vive essa identidade do seu jeito. Em Juazeiro e Petrolina o sentimento é o mesmo, só que com outras referências culturais e paisagens.",
+          "text": "O relato esbarra numa mistura de referências: tem gente falando de Exu e Oxalá, outros de galinho que vira arvoreta e até de quem ficou \"só nos ossos\". Antes de tratar o boldo-baiano como solução, vale entender o que cada um está realmente buscando com a planta.",
           "source": "sintese",
           "evidence": [
-            2
+            2,
+            4
           ],
           "votes": 0
         }
@@ -141,17 +187,17 @@
     },
     {
       "id": "bsky_3mzzmvharss2u",
-      "rank": 3,
-      "title": "Sionistas estariam montando comunidade em Itacaré, diz PRAVDA-BR",
-      "label": "Comunidade sionista em Itacaré · denúncia",
-      "context": "O perfil PRAVDA-BR publicou no X que sionistas estariam montando uma comunidade em Itacaré, na Bahia, comprando terras e se aproveitando da boa vontade dos moradores locais. A publicação cita Breno Altman e defende que o Brasil não deveria permitir essa presença no território.",
+      "rank": 4,
+      "title": "Sionistas estariam montando comunidade em Itacaré, diz perfil PRAVDA-BR",
+      "label": "Comunidade sionista em Itacaré · Compra de terras",
+      "context": "Um perfil no X chamado PRAVDA-BR publicou que sionistas estariam montando uma comunidade em Itacaré, na Bahia, comprando terras e se aproveitando da boa vontade dos moradores locais. A publicação viralizou e gerou reações sobre o que o Brasil pode ou deve fazer diante da situação.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/ricardosog.bsky.social/post/3mzzmvharss2u",
       "createdAt": "2026-11-11T09:21:07.875000+00:00",
-      "rawScore": 0.2448909890948983,
-      "relevanceScore": 0.3053324702541815,
-      "suggestedRadius": 69.15,
+      "rawScore": 0.5578021958023159,
+      "relevanceScore": 0.5864035406491959,
+      "suggestedRadius": 81.95,
       "imageUrl": "assets/images/bsky_3mzzmvharss2u_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzzmvharss2u_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -172,11 +218,10 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Concordo com o Breno Altman em gênero, número e grau: a compra de terras por sionistas em Itacaré precisa ser denunciada e o Brasil não pode permitir que se repita aqui o que fizeram na Palestina. Temos que divulgar e pressionar.",
+          "text": "Concordo com o Breno Altman em gênero, número e grau. O Brasil não pode permitir que sionistas comprem terras em Itacaré e montem uma comunidade como se estivessem em território próprio, ainda mais com o histórico de expulsão na Palestina.",
           "source": "sintese",
           "evidence": [
             6,
-            11,
             15
           ],
           "votes": 0
@@ -184,23 +229,20 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O governo Lula não faz nada para expulsar esses bandidos israelenses do litoral da Bahia, e o cidadão comum não tem poder para isso. Só o executivo e o judiciário podem agir, exigindo vistos e expulsando estrangeiros que não nasceram aqui.",
+          "text": "O governo do Lula não faz nada para expulsar os bandidos israelenses do litoral da Bahia. O Brasil virou um país que qualquer bandido internacional pode entrar, e a Bahia só interessa na época da eleição.",
           "source": "sintese",
           "evidence": [
-            13,
-            14
+            13
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A pressão popular e os protestos são o caminho, mas não vejo saída dentro do capitalismo: os militares atendem aos israelenses ricos, e pressionar o governo pode não ser suficiente. Talvez seja preciso organizar as pessoas de outra forma.",
+          "text": "O cidadão comum pode protestar e exigir dos poderes constituídos, mas não tem o poder de expulsar ninguém. Só o executivo e o judiciário podem expulsar estrangeiros, e é obrigação do executivo exigir vistos para entrada no país.",
           "source": "sintese",
           "evidence": [
-            1,
-            4,
-            5
+            14
           ],
           "votes": 0
         }
@@ -209,18 +251,196 @@
       "promptVersion": 2
     },
     {
+      "id": "bsky_3n24ybmyoac2r",
+      "rank": 5,
+      "title": "Momentos mais felizes e mais tristes da vida foram em Salvador, diz baiano",
+      "label": "Orgulho baiano · Salvador e Bahia",
+      "context": "Um usuário do Bluesky publicou que os momentos mais felizes e mais tristes da sua vida aconteceram em Salvador, declarando amor por ser baiano e pela Bahia. A postagem gerou reações de outros baianos que compartilham o mesmo sentimento de pertencimento e identificação com o estado.",
+      "source": "bluesky",
+      "subreddit": "bsky_ba",
+      "permalink": "https://bsky.app/profile/ravel.bsky.social/post/3n24ybmyoac2r",
+      "createdAt": "2026-11-12T17:22:46.488000+00:00",
+      "rawScore": 0.22147283628369085,
+      "relevanceScore": 0.5136046751149184,
+      "suggestedRadius": 79.0,
+      "imageUrl": "assets/images/bsky_3n24ybmyoac2r_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24ybmyoac2r_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ba",
+      "sources": [
+        {
+          "title": "acho que os momentos mais felizes e mais tristes da minha vida foram em salvador amo ser baiano amo minha bahia",
+          "url": "https://bsky.app/profile/ravel.bsky.social/post/3n24ybmyoac2r",
+          "subreddit": "bsky_ba"
+        },
+        {
+          "title": "8 de novembro, Salvador, meu amor, Bahia. Isto é uma coisa que ninguém explica, o povo ressentido na cabeça... Instantâneo captado pelo celular do Feiraguay de Ana Rosa. Chora, Glauber Rocha.",
+          "url": "https://bsky.app/profile/fsmcruz.bsky.social/post/3mzssaydybc2o",
+          "subreddit": "bsky_ba"
+        },
+        {
+          "title": "Pep Guardiola virá a Salvador para assistir a partida entre Bahia e Coritiba no dia 21 de novembro (sábado), às 17h30, pela 36ª rodada do Brasileirão O treinador espanhol estará acompanhado de Ferran Soriano, CEO do Grupo City",
+          "url": "https://bsky.app/profile/htesports.bsky.social/post/3n25d4liffs27",
+          "subreddit": "bsky_ba"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Salvador é uma cidade que marca a gente de um jeito que ninguém explica, como o próprio post disse. Quem é baiano sabe que a alegria e a dor se misturam num lugar só, e isso vira orgulho. Aqui em Juazeiro e Petrolina o sentimento é o mesmo, o pau da bandeira continua duro.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Amar a Bahia não pode virar desculpa pra ignorar os problemas. A postagem fala dos momentos tristes em Salvador, mas ninguém discute o que causa essa tristeza: falta de estrutura, violência, desigualdade. Ficar só no orgulho vazio não resolve nada pra quem vive a realidade dura da cidade.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O post é bonito e sincero, mas a Bahia é muito mais do que Salvador. O interior, como Juazeiro e Petrolina, também tem suas histórias de alegria e tristeza, e o sentimento de pertencimento não se resume à capital. Cada canto do estado tem sua própria relação com o orgulho e a dor.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27ucturx22q",
+      "rank": 6,
+      "title": "Foto em estilo de ensaio fotográfico chama atenção em notícia da Bahia",
+      "label": "Foto de notícia · Estilo de ensaio",
+      "context": "Uma foto publicada em uma notícia do G1 Bahia foi descrita por usuários como tendo um estilo de ensaio fotográfico. A comparação com uma versão reversa e civil de outra pessoa também foi feita, destacando a semelhança inusitada.",
+      "source": "bluesky",
+      "subreddit": "bsky_ba",
+      "permalink": "https://bsky.app/profile/jp2c23.bsky.social/post/3n27ucturx22q",
+      "createdAt": "2026-11-13T21:07:32.884000+00:00",
+      "rawScore": 0.45510014550534,
+      "relevanceScore": 0.49034425684527166,
+      "suggestedRadius": 78.01,
+      "imageUrl": "assets/images/bsky_3n27ucturx22q_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27ucturx22q_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ba",
+      "sources": [
+        {
+          "title": "a foto na vibe “ensaio fotografico“ me pegou um pouco... g1.globo.com/ba/bahia/not...",
+          "url": "https://bsky.app/profile/jp2c23.bsky.social/post/3n27ucturx22q",
+          "subreddit": "bsky_ba"
+        },
+        {
+          "title": "A versão reversa e civil desse brother aqui: g1.globo.com/ba/bahia/not...",
+          "url": "https://bsky.app/profile/raniku.bsky.social/post/3n24yzqdew22o",
+          "subreddit": "bsky_ba"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A foto realmente tem uma qualidade artística que chama atenção, parece até um ensaio profissional. Isso mostra que até em notícias do dia a dia podemos encontrar beleza e criatividade.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa comparação com ensaio fotográfico é um exagero, a foto é comum e não tem nada de especial. Ficar romantizando uma imagem aleatória de notícia é forçar a barra.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A semelhança com uma versão reversa e civil de outra pessoa é curiosa, mas não passa de coincidência. Vale mais prestar atenção no conteúdo da notícia do que na estética da foto.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2a3gotp622v",
+      "rank": 7,
+      "title": "Café baiano no Oli Cafés é eleito a melhor mesa de prova",
+      "label": "Café baiano · Oli Cafés",
+      "context": "Um usuário do Bluesky publicou que a melhor mesa de prova que encontrou foi no Oli Cafés, elogiando o café baiano servido no local. A publicação destaca a experiência positiva no café e a qualidade da bebida.",
+      "source": "bluesky",
+      "subreddit": "bsky_ba",
+      "permalink": "https://bsky.app/profile/oliveiraerik.bsky.social/post/3n2a3gotp622v",
+      "createdAt": "2026-11-13T22:57:16.672000+00:00",
+      "rawScore": 0.47836826899166257,
+      "relevanceScore": 0.4185753965204642,
+      "suggestedRadius": 74.82,
+      "imageUrl": "assets/images/bsky_3n2a3gotp622v_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2a3gotp622v_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ba",
+      "sources": [
+        {
+          "title": "a melhor mesa de prova foi essa aqui! já já mais um café baiano PERFEITO no Oli Cafés! nuuuuuuh, bom d+",
+          "url": "https://bsky.app/profile/oliveiraerik.bsky.social/post/3n2a3gotp622v",
+          "subreddit": "bsky_ba"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O café baiano do Oli Cafés merece esse elogio, porque é uma bebida com identidade própria e sabor marcante. Quem prova entende por que virou a melhor mesa de prova, e o post só confirma o que muita gente da região já sabe.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Chamar uma mesa de prova de 'a melhor' com base em um único café é exagero, porque o lugar pode ter outros problemas que o post não mostra. Uma experiência isolada não define a qualidade do Oli Cafés como um todo.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O elogio ao café baiano do Oli Cafés é válido, mas depende muito do gosto de cada um. O que é perfeito para uma pessoa pode não ser para outra, então vale provar antes de tirar conclusões.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
       "id": "bsky_3mzr4y4swzs2f",
-      "rank": 4,
+      "rank": 8,
       "title": "Expulsão de invasores de terras na Bahia deve ser rápida",
-      "label": "Invasão de terras · Expulsão na Bahia",
-      "context": "Posts no Bluesky compartilham notícia sobre uma operação para retirar invasores de terras na Bahia, com pedido de que a ação seja rápida. A situação se arrasta há meses e gerou cobrança por providências mais cedo e por denúncias aos órgãos competentes.",
+      "label": "Desocupação de terras na Bahia",
+      "context": "Uma operação para retirar invasores de terras na Bahia está em andamento, segundo notícia do bnews. A demora na desocupação tem gerado cobranças por parte de moradores e internautas, que pedem ação mais rápida das autoridades.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/sandruska.bsky.social/post/3mzr4y4swzs2f",
       "createdAt": "2026-11-08T00:14:59.776000+00:00",
-      "rawScore": 0.11761017282619551,
-      "relevanceScore": 0.2420536535610166,
-      "suggestedRadius": 65.52,
+      "rawScore": 0.2888026095903687,
+      "relevanceScore": 0.3348028421202739,
+      "suggestedRadius": 70.72,
       "imageUrl": "assets/images/bsky_3mzr4y4swzs2f_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzr4y4swzs2f_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -235,31 +455,28 @@
           "title": "www.bnews.com.br/noticias/cri...",
           "url": "https://bsky.app/profile/dufigs.bsky.social/post/3mzr5qyiy6s2r",
           "subreddit": "bsky_ba"
-        },
-        {
-          "title": "finalmente, pq isso já está acontecendo há um bom tempo. e é tanta conivência que eles, que já se sentem donos de tudo e todos, só estão se espalhando cada vez mais… é o cumulo do absurdo www.bnews.com.br/noticias/cri...",
-          "url": "https://bsky.app/profile/dreamp0p.bsky.social/post/3mzr4lsbnbc2j",
-          "subreddit": "bsky_ba"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A expulsão precisa acontecer logo e de forma exemplar, porque já passa de cinco meses essa turba acampada por lá. Quem invade terra dos outros tem que sentir o peso da lei para não repetir.",
+          "text": "A expulsão desses invasores precisa acontecer logo e de forma exemplar, porque já são cinco meses de ocupação irregular e a impunidade só estimula novos abusos. As autoridades devem agir com firmeza para mostrar que a lei vale para todos.",
           "source": "sintese",
           "evidence": [
             1,
-            2
+            2,
+            3
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "As autoridades demoraram demais para agir: a ocupação já dura meses e só agora se fala em expulsão. Faltou providência lá atrás, e essa lentidão só estimulou a permanência dos invasores.",
+          "text": "O governo demorou demais para tomar providências: cinco meses de ocupação e nada de concreto foi feito. Essa lentidão é uma vergonha e mostra descaso com a população local, que sofre com a insegurança e a desordem.",
           "source": "sintese",
           "evidence": [
+            1,
             3
           ],
           "votes": 0
@@ -267,7 +484,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O caminho é denunciar nos Ministérios Públicos, inclusive o municipal de Itacaré, anexando links de matérias e denúncias. Com pressão popular e muitas denúncias, o MP é obrigado a agir de ofício.",
+          "text": "O caminho é pressionar o Ministério Público com denúncias formais, anexando links de matérias e enviando e-mails para o MP municipal, como o de Itacaré. Assim, as autoridades são obrigadas a agir de ofício e a situação pode ser resolvida mais rápido.",
           "source": "sintese",
           "evidence": [
             6
@@ -280,7 +497,7 @@
     },
     {
       "id": "bsky_3n25cn54k2k2e",
-      "rank": 5,
+      "rank": 9,
       "title": "Filho de Leandro Ávila se casa com filha de Júnior Baiano",
       "label": "Casamento entre filhos de ex-jogadores",
       "context": "O filho do ex-jogador Leandro Ávila se casou com a filha do também ex-jogador Júnior Baiano, conforme noticiado pelo ge.globo.com. A união entre as famílias de dois nomes conhecidos do futebol chamou a atenção nas redes sociais.",
@@ -288,9 +505,9 @@
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/ecolombari.bsky.social/post/3n25cn54k2k2e",
       "createdAt": "2026-11-12T20:28:10.283000+00:00",
-      "rawScore": 0.09888072767245792,
-      "relevanceScore": 0.1710093643779958,
-      "suggestedRadius": 60.81,
+      "rawScore": 0.18537457542425084,
+      "relevanceScore": 0.23806453106887676,
+      "suggestedRadius": 65.28,
       "imageUrl": "assets/images/bsky_3n25cn54k2k2e_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n25cn54k2k2e_reddit_thumb.jpg",
       "category": "esportes",
@@ -311,7 +528,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Achei muito legal ver essa união entre famílias do futebol. Mostra que os laços vão além dos gramados e que os filhos seguiram caminhos próprios, formando suas próprias histórias.",
+          "text": "Achei muito legal ver essa união entre famílias do futebol. Mostra que os laços vão além dos gramados e é uma história bonita de se acompanhar.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -319,7 +536,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Fico pensando se essa notícia não é só mais uma forma de manter os holofotes em cima de ex-jogadores. O casamento em si não tem nada a ver com futebol, mas virou pauta por causa dos sobrenomes.",
+          "text": "Fico pensando se essa notícia teria o mesmo espaço se não fossem filhos de jogadores famosos. No fundo, é só um casamento comum que virou manchete por causa do sobrenome.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -327,65 +544,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "É uma notícia curiosa, mas não vejo muito o que discutir. São duas pessoas se casando, e o fato de serem filhos de jogadores conhecidos é só uma coincidência que chama atenção.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzwhupkldk22",
-      "rank": 6,
-      "title": "Breno Altman explica por que vê o sionismo como forma de racismo",
-      "label": "Sionismo e racismo · Análise de Breno Altman",
-      "context": "O jornalista Breno Altman participou da TV 247 para explicar por que considera o sionismo uma forma de racismo, diferenciando a crítica ao regime sionista do antissemitismo. Na mesma participação, ele detalhou violações no litoral baiano, analisou a crise política em Israel e defendeu medidas soberanas do Estado brasileiro.",
-      "source": "bluesky",
-      "subreddit": "bsky_ba",
-      "permalink": "https://bsky.app/profile/dilmaresiste.bsky.social/post/3mzwhupkldk22",
-      "createdAt": "2026-11-10T03:20:15.569000+00:00",
-      "rawScore": 0.02767462473078569,
-      "relevanceScore": 0.10550283893734737,
-      "suggestedRadius": 55.49,
-      "imageUrl": "assets/images/bsky_3mzwhupkldk22_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzwhupkldk22_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ba",
-      "sources": [
-        {
-          "title": "Breno Altman explica por que vê o sionismo como uma forma de racismo Em participação na TV 247, jornalista diferencia a crítica ao regime sionista do antissemitismo, detalha violações no litoral baiano, analisa a crise política em Israel e defende medidas soberanas do Estado brasileiro",
-          "url": "https://bsky.app/profile/dilmaresiste.bsky.social/post/3mzwhupkldk22",
-          "subreddit": "bsky_ba"
-        },
-        {
-          "title": "Parabéns ao povo baiano, sionista assassino de crianças nao merece desfrutar de nada além do que acabou de receber....receba maldito.",
-          "url": "https://bsky.app/profile/maharishisaybaba.bsky.social/post/3mzxhkk5ryk2b",
-          "subreddit": "bsky_ba"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Breno Altman tem coragem de dizer o que muitos evitam: criticar o sionismo não é antissemitismo, é apontar um regime que viola direitos. Separar a crítica política do preconceito é essencial para um debate honesto sobre Israel e Palestina.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Chamar o sionismo de racismo é um erro grave e perigoso. O sionismo é o movimento de autodeterminação do povo judeu, e equipará-lo ao racismo distorce a história e alimenta o antissemitismo, mesmo que Altman diga o contrário.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A fala de Altman mistura vários assuntos numa só entrevista: sionismo, litoral baiano, crise em Israel. Sem ouvir o contexto completo, fica difícil concordar ou discordar de tudo. É preciso separar cada ponto e analisar com calma.",
+          "text": "Não vejo problema na notícia, mas também não entendo todo esse alvoroço. É um casamento como qualquer outro, só que com pais conhecidos. Desejo felicidades ao casal.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -396,19 +555,19 @@
     },
     {
       "id": "bsky_3n24uo24fyc23",
-      "rank": 7,
+      "rank": 10,
       "title": "Música de Tariflávio em Pé-Raí, Piauí, é adaptação de homenagem ao baiano Grampinho Neto?",
       "label": "Música de Tariflávio · Origem baiana contestada",
-      "context": "Um post no Bluesky questiona se a música do Tariflávio, associada a Pé-Raí, no Piauí, não seria uma adaptação de uma canção anterior feita em homenagem ao baiano Grampinho Neto. A dúvida sobre a origem da música gerou comentários de pessoas que dizem ter ouvido versões diferentes da história, com baianos afirmando que a canção já existia na Bahia.",
+      "context": "Uma postagem no Bluesky questiona se a música do Tariflávio, associada a Pé-Raí, no Piauí, seria uma adaptação de uma canção anterior feita em homenagem ao baiano Grampinho Neto. Nos comentários, pessoas relatam versões divergentes sobre a origem da música, com alguns afirmando que ela já existia na Bahia e outros apontando outra ordem de homenagens.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/obsol.bsky.social/post/3n24uo24fyc23",
       "createdAt": "2026-11-12T16:18:04.775000+00:00",
-      "rawScore": 0.10678963920545484,
-      "relevanceScore": 0.0862895583458884,
-      "suggestedRadius": 53.63,
-      "imageUrl": "assets/images/bsky_3n24uo24fyc23_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n24uo24fyc23_uns_thumb.jpg",
+      "rawScore": 0.20966296979360244,
+      "relevanceScore": 0.16724995052744634,
+      "suggestedRadius": 60.54,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-ba",
       "sources": [
@@ -422,7 +581,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A música do Tariflávio tem tudo a ver com a Bahia, não com Minas. As expressões usadas são tipicamente baianas, e meus amigos de lá garantem que a canção já existia por lá há tempos, antes de qualquer homenagem ao Grampinho Neto.",
+          "text": "A música já circulava na Bahia antes de aparecer em Pé-Raí, e as expressões usadas têm mais cara de Bahia que de Minas. Meus amigos baianos garantem que é obra da terra e que a homenagem a Grampinho Neto veio primeiro.",
           "source": "sintese",
           "evidence": [
             1,
@@ -433,7 +592,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A homenagem ao filho do Genocida é anterior à homenagem ao Malvadeza Neto, então a música do Tariflávio não pode ser uma adaptação dessa tal canção baiana. A cronologia não fecha com a versão que estão tentando espalhar.",
+          "text": "A homenagem ao filho do Genocida é anterior à homenagem ao Malvadeza Neto, então a versão que circula em Pé-Raí não seria a original nem uma adaptação direta da música baiana.",
           "source": "sintese",
           "evidence": [
             2
@@ -443,186 +602,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Recebi essa história de amigos baianos e repasso com o valor de face, sem certeza. Eles garantem que a música é obra da terra, mas o outro lado diz o contrário, e eu realmente não sei qual versão é a correta.",
+          "text": "Recebi essa história de amigos baianos e repasso com o valor de face, sem certeza. As versões sobre a origem da música divergem, e não dá para confirmar qual homenagem veio primeiro sem mais informações.",
           "source": "sintese",
           "evidence": [
             1,
             3
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzy2shdde224",
-      "rank": 8,
-      "title": "Aos 50 do segundo tempo, e provavelmente vai tentar passar pano",
-      "label": "Declaração de Jerônimo · Reação nas redes",
-      "context": "O governador da Bahia, Jerônimo Rodrigues, fez uma declaração que gerou repercussão nas redes sociais, com críticas à possibilidade de ele tentar 'passar pano' para alguma situação. O episódio ocorre em meio a um debate sobre a visita de uma figura pública israelense ao estado.",
-      "source": "bluesky",
-      "subreddit": "bsky_ba",
-      "permalink": "https://bsky.app/profile/hospiciobrasil.bsky.social/post/3mzy2shdde224",
-      "createdAt": "2026-11-10T18:24:38.772000+00:00",
-      "rawScore": 0.08425226365047865,
-      "relevanceScore": 0.0655561506158399,
-      "suggestedRadius": 51.36,
-      "imageUrl": "assets/images/bsky_3mzy2shdde224_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzy2shdde224_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ba",
-      "sources": [
-        {
-          "title": "Aos 50 do segundo tempo. E provavelmente vai tentar passar pano. www.brasil247.com/nordeste/jer...",
-          "url": "https://bsky.app/profile/hospiciobrasil.bsky.social/post/3mzy2shdde224",
-          "subreddit": "bsky_ba"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A fala do governador Jerônimo Rodrigues demonstra que ele está tentando se posicionar de forma equilibrada, mas a pressão para 'passar pano' é real e precisa ser cobrada. A visita de uma figura ligada a Israel não pode ser tratada como turismo comum.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O governador Jerônimo Rodrigues deveria, como líder de um estado soberano, negar a entrada de uma figura acusada de genocídio. A hesitação e o vídeo em que gagueja mostram que ele está mais preocupado em agradar o turismo israelense do que em defender direitos humanos.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A declaração de Jerônimo Rodrigues ainda é ambígua e não deixa claro se ele vai se posicionar contra ou a favor da visita. O vídeo em que ele aparece gaguejando sobre Itacaré aumenta a dúvida sobre qual será sua postura final.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzsz7quhus2y",
-      "rank": 9,
-      "title": "Itacaré vira epicentro de crise diplomática com turistas israelenses e murais pró-Palestina",
-      "label": "Crise diplomática em Itacaré · Turistas e murais",
-      "context": "Itacaré, na Bahia, virou epicentro de uma crise diplomática envolvendo turistas israelenses e murais pró-Palestina, segundo o portal Urbs Magna. A situação levou o governo da Bahia a montar uma força-tarefa para lidar com o caso.",
-      "source": "bluesky",
-      "subreddit": "bsky_ba",
-      "permalink": "https://bsky.app/profile/wilsonsilva.bsky.social/post/3mzsz7quhus2y",
-      "createdAt": "2026-11-08T18:13:00.370000+00:00",
-      "rawScore": 0.06522374152270242,
-      "relevanceScore": 0.04805073580775574,
-      "suggestedRadius": 49.15,
-      "imageUrl": "assets/images/bsky_3mzsz7quhus2y_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzsz7quhus2y_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ba",
-      "sources": [
-        {
-          "title": "Itacaré vira epicentro de crise diplomática: turistas israelenses, murais pró-Palestina e a força-tarefa da Bahia urbsmagna.com/itacare-cris...",
-          "url": "https://bsky.app/profile/wilsonsilva.bsky.social/post/3mzsz7quhus2y",
-          "subreddit": "bsky_ba"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A força-tarefa da Bahia acertou ao tratar o caso como crise diplomática, porque os murais pró-Palestina são expressão política legítima e os turistas israelenses precisam ser responsabilizados por qualquer conflito que tenham causado.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Turista israelense que vem para o Brasil e se envolve em confusão por causa de murais pró-Palestina deveria ser expulso, porque não existe diplomacia com quem desrespeita a soberania e a expressão política local.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A crise diplomática em Itacaré precisa de uma resposta equilibrada: a força-tarefa da Bahia deve apurar os fatos sem transformar turistas em bodes expiatórios nem ignorar o direito de expressão dos murais pró-Palestina.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n22bhwbehs2t",
-      "rank": 10,
-      "title": "Moradores da Bahia têm coragem de encarar abusos de soldados de Israel?",
-      "label": "Abusos de Israel · Reação na Bahia",
-      "context": "Um post no Bluesky questiona se algum morador da Bahia teria coragem de encarar seriamente os abusos cometidos por soldados de Israel. A pergunta surge em meio a um debate sobre a eficácia de pressões locais contra ações militares israelenses.",
-      "source": "bluesky",
-      "subreddit": "bsky_ba",
-      "permalink": "https://bsky.app/profile/tonzapar.bsky.social/post/3n22bhwbehs2t",
-      "createdAt": "2026-11-11T15:29:20.280000+00:00",
-      "rawScore": 0.05057736541697961,
-      "relevanceScore": 0.034576705221237805,
-      "suggestedRadius": 47.16,
-      "imageUrl": "assets/images/bsky_3n22bhwbehs2t_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n22bhwbehs2t_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ba",
-      "sources": [
-        {
-          "title": "Terá algum morador,peito para encarar seriamente os abusos cometidos por Soldados de Israel? Alô povo baiano.",
-          "url": "https://bsky.app/profile/tonzapar.bsky.social/post/3n22bhwbehs2t",
-          "subreddit": "bsky_ba"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A pressão popular organizada, mesmo que de forma descentralizada, é o único caminho para confrontar abusos como os cometidos por soldados israelenses. Se o governo não age, a sociedade civil precisa se mobilizar e cobrar responsabilidades, começando por iniciativas locais.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Não adianta apelar para o governo ou para protestos pacíficos, porque os militares israelenses atendem aos interesses dos ricos e não vão mudar por pressão moral. Sem organização e armamento das pessoas, qualquer tentativa de enfrentar esses abusos está fadada ao fracasso.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A estratégia de formiguinha, com ações pequenas e constantes, pode ser mais eficaz do que grandes confrontos diretos. Em vez de esperar uma resposta heroica de moradores, é preciso construir uma rede de pressão contínua que desgaste os abusos aos poucos.",
-          "source": "sintese",
-          "evidence": [
-            2
           ],
           "votes": 0
         }

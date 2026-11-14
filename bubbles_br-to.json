@@ -1,11 +1,119 @@
 {
-  "generatedAt": "2026-11-13T19:28:36.491411+00:00",
+  "generatedAt": "2026-11-14T05:38:24.414303+00:00",
   "region": "br-to",
-  "count": 6,
+  "count": 8,
   "items": [
     {
-      "id": "bsky_3n2234ua4bs2t",
+      "id": "bsky_3n2a74o74yc2a",
       "rank": 1,
+      "title": "Colocar uma assim nas margens do rio Tocantins",
+      "label": "Imagem às margens do Tocantins",
+      "context": "Uma publicação no Bluesky propõe colocar uma imagem às margens do rio Tocantins. O post não detalha o que seria colocado nem o objetivo da proposta.",
+      "source": "bluesky",
+      "subreddit": "bsky_to",
+      "permalink": "https://bsky.app/profile/piprafasciicauda.bsky.social/post/3n2a74o74yc2a",
+      "createdAt": "2026-11-14T00:03:12.683000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n2a74o74yc2a_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2a74o74yc2a_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-to",
+      "sources": [
+        {
+          "title": "Colocar uma assim nas margens do rio Tocantins.",
+          "url": "https://bsky.app/profile/piprafasciicauda.bsky.social/post/3n2a74o74yc2a",
+          "subreddit": "bsky_to"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A ideia de ocupar as margens do Tocantins com uma intervenção visual tem potencial de chamar atenção para o rio e movimentar a região, que muitas vezes fica fora do radar.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Jogar uma imagem às margens do Tocantins sem explicar o que é, quem propõe ou qual o propósito soa como provocação vazia, que não ajuda em nada quem vive ou depende do rio.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Falta contexto para opinar: o post não diz o que seria colocado, em que trecho do Tocantins nem com qual finalidade, então qualquer avaliação agora seria chute sobre uma frase solta.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27r3wns3k2g",
+      "rank": 2,
+      "title": "Tocantins parece uma brucha e São Paulo parece um cachorro, diz post",
+      "label": "Mapa do Tocantins · Formato curioso",
+      "context": "Um post no Bluesky mostrou que o formato do estado do Tocantins lembra uma brucha e o da cidade de São Paulo lembra um cachorro. A comparação viralizou pelo humor de enxergar figuras nos contornos do mapa.",
+      "source": "bluesky",
+      "subreddit": "bsky_to",
+      "permalink": "https://bsky.app/profile/tecladoemouse.bsky.social/post/3n27r3wns3k2g",
+      "createdAt": "2026-11-13T19:52:20.282000+00:00",
+      "rawScore": 0.8691961032420774,
+      "relevanceScore": 0.9657734480467527,
+      "suggestedRadius": 94.96,
+      "imageUrl": "assets/images/bsky_3n27r3wns3k2g_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27r3wns3k2g_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-to",
+      "sources": [
+        {
+          "title": "gostaria de aproveitar a deicha pra mostrar que o estado do Tocantins parece uma brucha e a cidade de sao Paulo parece um cachorro",
+          "url": "https://bsky.app/profile/tecladoemouse.bsky.social/post/3n27r3wns3k2g",
+          "subreddit": "bsky_to"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O desenho é uma sacada genial: ver uma brucha no Tocantins e um cachorro em São Paulo faz a gente olhar o mapa de um jeito que nunca tinha passado pela cabeça. É o tipo de piada boba que rende e diverte sem precisar de mais nada.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Forçar semelhança no contorno do mapa é o tipo de piada que só funciona pra quem fez. Tocantins e São Paulo têm formatos que qualquer um poderia comparar com mil coisas, então dizer que parece brucha ou cachorro não passa de um desenho forçado.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A comparação depende muito de quem olha: o contorno do Tocantins pode lembrar uma brucha, mas também lembra outras formas, e o mesmo vale para São Paulo. O post funciona mais como brincadeira visual do que como algo que todo mundo vai enxergar igual.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2234ua4bs2t",
+      "rank": 3,
       "title": "“Alagoas e Tocantins, com 42%, superaram a taxa do milagre do Vietnã. No Maranhão, esse crescimento foi maior que o dado da China. No Amapá, campeão, maior do que no boom da Geórgia (o país que você conhece pelo Kvaratskhelia).”",
       "label": "",
       "context": "",
@@ -13,9 +121,9 @@
       "subreddit": "bsky_to",
       "permalink": "https://bsky.app/profile/nandabel23.bsky.social/post/3n2234ua4bs2t",
       "createdAt": "2026-11-11T13:35:46.181000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.35753294301754346,
+      "relevanceScore": 0.39725882557504827,
+      "suggestedRadius": 73.82,
       "imageUrl": null,
       "imageThumbUrl": "",
       "category": "geopolitica",
@@ -33,17 +141,17 @@
     },
     {
       "id": "bsky_3mzybjt2eh22k",
-      "rank": 2,
-      "title": "Planta descoberta no Jalapão recebe nome em homenagem a Marina Silva",
-      "label": "Nova espécie · Homenagem a Marina Silva",
-      "context": "Uma planta até então desconhecida pela ciência foi encontrada na região do Jalapão, no Tocantins, e recebeu o nome científico Chamaecrista marinasilvae, em referência à ambientalista e ex-ministra do Meio Ambiente Marina Silva. É a terceira vez que pesquisadores homenageiam Marina Silva dessa forma.",
+      "rank": 4,
+      "title": "Planta descoberta no Jalapão recebe nome científico em homenagem a Marina Silva",
+      "label": "Nova planta · Homenagem a Marina Silva",
+      "context": "Uma planta até então desconhecida pela ciência foi encontrada na região do Jalapão, no Tocantins, e recebeu o nome científico Chamaecrista marinasilvae, em referência à ambientalista e ex-ministra do Meio Ambiente Marina Silva. Esta é a terceira vez que pesquisadores homenageiam Marina Silva dessa forma.",
       "source": "bluesky",
       "subreddit": "bsky_to",
       "permalink": "https://bsky.app/profile/conexaoplaneta.bsky.social/post/3mzybjt2eh22k",
       "createdAt": "2026-11-10T20:25:05.484000+00:00",
-      "rawScore": 0.7392875046356755,
-      "relevanceScore": 0.821430560706306,
-      "suggestedRadius": 90.38,
+      "rawScore": 0.3048071481054424,
+      "relevanceScore": 0.3386746090060471,
+      "suggestedRadius": 70.92,
       "imageUrl": "assets/images/bsky_3mzybjt2eh22k_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzybjt2eh22k_reddit_thumb.jpg",
       "category": "ciencia",
@@ -59,7 +167,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Marina Silva merece essa homenagem: foi uma ministra competente e exemplar na área ambiental, e batizar uma espécie nova com o nome dela reconhece essa trajetória de defesa do meio ambiente.",
+          "text": "Marina Silva merece essa homenagem: uma ministra exemplar e competente, que sempre defendeu o meio ambiente, agora tem seu nome ligado a uma espécie descoberta no Jalapão. É um reconhecimento justo para quem dedicou a vida à causa ambiental.",
           "source": "sintese",
           "evidence": [
             2
@@ -69,7 +177,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Homenagem em nome científico deveria seguir critérios da própria ciência, não virar reconhecimento político de uma figura pública. A escolha do nome diz mais sobre os pesquisadores do que sobre a planta.",
+          "text": "Homenagear político com nome de planta é uma escolha questionável, pois mistura ciência com política. A descoberta em si é o que importa, e o nome científico deveria destacar a região ou a característica da planta, não uma figura pública.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -77,7 +185,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A descoberta em si é o que importa: uma espécie nova no Jalapão mostra o quanto ainda se conhece pouco da biodiversidade do Cerrado, independente de quem o nome homenageia.",
+          "text": "A notícia é interessante, mas o que chama atenção é a planta ter sido encontrada no Jalapão, região que conheço. A homenagem é válida, mas o foco deveria ser a biodiversidade do Cerrado e a importância de preservar áreas como essa.",
           "source": "sintese",
           "evidence": [
             1
@@ -90,17 +198,17 @@
     },
     {
       "id": "bsky_3n22yvxtuok2p",
-      "rank": 3,
+      "rank": 5,
       "title": "Mais uma vítima do golpe do Tinder no Paraná",
       "label": "Golpe do Tinder · Novo caso no Paraná",
-      "context": "Uma reportagem do g1 registrou mais um caso de pessoa que caiu no golpe do Tinder, no oeste do Paraná. O esquema usa perfis falsos em aplicativos de relacionamento para aplicar fraudes financeiras nas vítimas.",
+      "context": "Uma reportagem do g1 registrou mais um caso de pessoa que caiu no chamado golpe do Tinder, no oeste do Paraná. O caso foi divulgado em post no Bluesky e chama atenção para esse tipo de fraude em aplicativos de relacionamento.",
       "source": "bluesky",
       "subreddit": "bsky_to",
       "permalink": "https://bsky.app/profile/ivancapelli.bsky.social/post/3n22yvxtuok2p",
       "createdAt": "2026-11-11T22:28:31.975000+00:00",
-      "rawScore": 0.4773186359159697,
-      "relevanceScore": 0.530354039906633,
-      "suggestedRadius": 79.7,
+      "rawScore": 0.1801643934619833,
+      "relevanceScore": 0.20018265940220364,
+      "suggestedRadius": 62.85,
       "imageUrl": "assets/images/bsky_3n22yvxtuok2p_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n22yvxtuok2p_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -116,7 +224,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A divulgação desses casos pelo g1 é fundamental para alertar quem usa aplicativos de relacionamento. Quanto mais gente souber como o golpe funciona, menos vítimas caem no esquema.",
+          "text": "A divulgação desses casos pelo g1 é o que ajuda outras pessoas a reconhecerem o padrão do golpe antes de cair nele. Quem usa aplicativo de relacionamento precisa ver esse tipo de reportagem e desconfiar de histórias muito boas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -124,7 +232,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Aplicativos como o Tinder deveriam verificar melhor os perfis antes de permitir que criminosos usem a plataforma para aplicar golpes. A responsabilidade de proteger os usuários também é das empresas.",
+          "text": "Aplicativos de relacionamento seguem permitindo perfis falsos com facilidade e só aparecem na imprensa quando alguém já perdeu dinheiro. As plataformas deveriam verificar identidade e barrar esses perfis antes que mais gente seja vítima.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -132,60 +240,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O golpe do Tinder cresce porque as pessoas ainda confiam demais em perfis virtuais. Antes de qualquer transferência ou empréstimo, vale desconfiar e verificar quem está do outro lado.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n234m3bdn22d",
-      "rank": 4,
-      "title": "Onça-pintada preta nascida no Paraná viajou mais de 2 mil km para conhecer novo 'namorado' no Tocantins",
-      "label": "Onça-pintada preta viaja 2 mil km para acasalar",
-      "context": "Uma onça-pintada preta nasceu no Paraná e foi transportada por mais de 2 mil quilômetros até o Tocantins para encontrar um novo parceiro. A viagem faz parte de um programa de reprodução que busca garantir a diversidade genética da espécie.",
-      "source": "bluesky",
-      "subreddit": "bsky_to",
-      "permalink": "https://bsky.app/profile/lpjr.bsky.social/post/3n234m3bdn22d",
-      "createdAt": "2026-11-11T23:34:49.989000+00:00",
-      "rawScore": 0.1088596884199306,
-      "relevanceScore": 0.12095520935547845,
-      "suggestedRadius": 56.87,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-to",
-      "sources": [
-        {
-          "title": "Onça-pintada preta nascida no Paraná que viajou mais de 2 mil km para conhecer novo 'namorado' no Tocantins seguiu você",
-          "url": "https://bsky.app/profile/lpjr.bsky.social/post/3n234m3bdn22d",
-          "subreddit": "bsky_to"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A iniciativa de levar a onça-pintada preta do Paraná ao Tocantins é essencial para a conservação da espécie, pois promove a diversidade genética e evita a endogamia. O esforço logístico de mais de 2 mil km mostra o comprometimento dos pesquisadores com a sobrevivência da onça-pintada.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O transporte de uma onça-pintada preta por mais de 2 mil km levanta preocupações sobre o bem-estar do animal, que pode sofrer estresse e riscos durante a viagem. Programas de reprodução em cativeiro nem sempre são a melhor solução para a conservação.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A viagem da onça-pintada preta do Paraná ao Tocantins para acasalar é um caso que ilustra os desafios da conservação, mas é preciso avaliar se os benefícios genéticos superam os riscos do transporte e da adaptação a um novo ambiente.",
+          "text": "Cada novo caso divulgado mostra que o golpe se repete, mas a reportagem sozinha não diz quantas pessoas foram atingidas nem como os criminosos agem na prática. Faltam dados para entender a dimensão real do problema.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -196,17 +251,17 @@
     },
     {
       "id": "bsky_3mzveqvsnb22p",
-      "rank": 5,
+      "rank": 6,
       "title": "Pois toma o Tocantins inteiro 🛐",
-      "label": "Reação ao Tocantins inteiro",
-      "context": "Um post no Bluesky publicou a frase \"Pois toma o Tocantins inteiro 🛐\" em novembro de 2026. A publicação gerou reações de risada entre os usuários que comentaram.",
+      "label": "Reação viral · Tocantins inteiro",
+      "context": "Um post no Bluesky publicou a frase \"Pois toma o Tocantins inteiro 🛐\" em novembro de 2026. A publicação viralizou e gerou reações de risada entre os usuários que comentaram.",
       "source": "bluesky",
       "subreddit": "bsky_to",
       "permalink": "https://bsky.app/profile/rafasquotes.bsky.social/post/3mzveqvsnb22p",
       "createdAt": "2026-11-09T16:44:45.182000+00:00",
-      "rawScore": 0.08433094031898929,
-      "relevanceScore": 0.09370104479887699,
-      "suggestedRadius": 54.37,
+      "rawScore": 0.0367587639810162,
+      "relevanceScore": 0.040843071090017995,
+      "suggestedRadius": 48.13,
       "imageUrl": "assets/images/bsky_3mzveqvsnb22p_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzveqvsnb22p_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -222,7 +277,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A reação de rir com o post mostra que a comunidade entendeu a brincadeira e entrou no clima — o comentário \"não aguento\" resume bem o tipo de humor que circula por aqui e que faz esse tipo de publicação funcionar.",
+          "text": "A frase funciona justamente pelo exagero: pegar um estado inteiro e jogar assim, com o emoji de oração, é o tipo de absurdo que vira piada na hora. É o humor de internet no seu melhor, sem precisar de contexto nenhum.",
           "source": "sintese",
           "evidence": [
             1
@@ -232,7 +287,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Postar só \"toma o Tocantins inteiro\" sem nenhum contexto deixa quem lê sem saber do que se trata; a piada fica fechada para quem não acompanha o grupo e vira só uma frase solta que ninguém entende de verdade.",
+          "text": "Post assim não tem graça nenhuma, é só uma frase solta jogada no feed pra gerar reação fácil. O pessoal ri por educação ou pra participar da onda, mas não existe piada de verdade ali, só barulho.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -240,7 +295,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post é claramente uma brincadeira interna, e o comentário rindo confirma isso; sem saber o que motivou a frase, dá para entender a reação, mas o contexto por trás da piada continua fora do alcance de quem só vê a publicação.",
+          "text": "A reação das pessoas diz mais sobre a comunidade do Bluesky do que sobre a frase em si: qualquer coisa minimamente estranha já vira corrente de risada. Funciona como piada interna de quem tá ali, mas pra quem chega de fora não passa disso.",
           "source": "sintese",
           "evidence": [
             1
@@ -252,10 +307,63 @@
       "promptVersion": 2
     },
     {
+      "id": "bsky_3n234m3bdn22d",
+      "rank": 7,
+      "title": "Onça-pintada preta nascida no Paraná viajou mais de 2 mil km para conhecer novo 'namorado' no Tocantins",
+      "label": "Onça-preta viaja 2 mil km para acasalar",
+      "context": "Uma onça-pintada preta nascida no Paraná percorreu mais de 2 mil quilômetros até o Tocantins para encontrar um novo 'namorado'. O deslocamento foi feito para viabilizar o acasalamento entre os animais.",
+      "source": "bluesky",
+      "subreddit": "bsky_to",
+      "permalink": "https://bsky.app/profile/lpjr.bsky.social/post/3n234m3bdn22d",
+      "createdAt": "2026-11-11T23:34:49.989000+00:00",
+      "rawScore": 0.03430144273374486,
+      "relevanceScore": 0.0381127141486054,
+      "suggestedRadius": 47.71,
+      "imageUrl": "assets/images/bsky_3n234m3bdn22d_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n234m3bdn22d_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-to",
+      "sources": [
+        {
+          "title": "Onça-pintada preta nascida no Paraná que viajou mais de 2 mil km para conhecer novo 'namorado' no Tocantins seguiu você",
+          "url": "https://bsky.app/profile/lpjr.bsky.social/post/3n234m3bdn22d",
+          "subreddit": "bsky_to"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A viagem de mais de 2 mil km mostra o quanto esse trabalho de manejo genético entre cativeiros funciona: a onça-preta saiu do Paraná e chegou ao Tocantins para acasalar, o que ajuda a diversificar a genética da espécie.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Transportar uma onça-pintada preta por mais de 2 mil km do Paraná ao Tocantins só para acasalar expõe o animal a um estresse enorme, e esse deslocamento longo levanta dúvidas sobre o quanto o bem-estar dela foi priorizado.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O caso da onça-preta que cruzou mais de 2 mil km do Paraná ao Tocantins para encontrar um 'namorado' rende manchete, mas o que decide o sucesso é o acompanhamento depois: adaptação, acasalamento e filhotes saudáveis.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
       "id": "bsky_3mzwafi5xcs2d",
-      "rank": 6,
+      "rank": 8,
       "title": "Você já tem uma casa aqui no Tocantins",
-      "label": "Oferta de casa no Tocantins",
+      "label": "Tocantins · Oferta de casa",
       "context": "Uma publicação no Bluesky afirma que a pessoa já tem uma casa no Tocantins. A mensagem circula como um convite ou oferta direta, sem detalhes sobre quem a faz ou em que condições.",
       "source": "bluesky",
       "subreddit": "bsky_to",
@@ -279,7 +387,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Uma casa no Tocantins já garantida é uma oportunidade e tanto para quem busca um lugar para morar sem precisar desembolsar por imóvel, e a mensagem direta deixa isso claro logo de cara.",
+          "text": "Uma mensagem assim soa como um convite acolhedor, do tipo que faz a gente pensar em mudar de vida e recomeçar em outro lugar. Ter uma casa garantida no Tocantins é um ponto de partida concreto para quem quer sair da correria.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -287,7 +395,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Afirmar que a pessoa já tem uma casa no Tocantins sem explicar quem está oferecendo, em que condições ou com qual documentação soa vago demais para ser levado a sério como proposta real.",
+          "text": "Falar que a pessoa já tem uma casa no Tocantins sem dizer quem está oferecendo, onde fica ou em que condições gera desconfiança. Esse tipo de frase solta na internet costuma ser isca para golpe ou promessa vazia.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -295,7 +403,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A frase sobre ter uma casa no Tocantins pode ser só uma brincadeira ou um convite informal entre conhecidos, então vale entender o contexto antes de tratar a mensagem como oferta concreta de imóvel.",
+          "text": "A frase sozinha não diz muita coisa: pode ser brincadeira entre amigos, propaganda de imobiliária ou só um jeito de puxar conversa. Sem saber o contexto de quem postou, fica difícil levar a oferta a sério.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

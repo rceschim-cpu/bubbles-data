@@ -1,11 +1,76 @@
 {
-  "generatedAt": "2026-11-13T19:28:36.491411+00:00",
+  "generatedAt": "2026-11-14T05:38:24.414303+00:00",
   "region": "br-rr",
-  "count": 6,
+  "count": 7,
   "items": [
     {
-      "id": "bsky_3n24ddt4n6c2m",
+      "id": "bsky_3n27sq6ixps2a",
       "rank": 1,
+      "title": "Criação de gado por comunidades indígenas em Roraima garante posse da terra, não desmatamento",
+      "label": "Gado indígena em Roraima · Posse da terra",
+      "context": "Em Roraima, comunidades indígenas criam gado na área de cerrado como forma histórica de garantir a posse da terra. Segundo o post, essa prática não representa desmatamento e não se confunde com a ação de fazendeiros invasores.",
+      "source": "bluesky",
+      "subreddit": "bsky_rr",
+      "permalink": "https://bsky.app/profile/andreaugfonseca.bsky.social/post/3n27sq6ixps2a",
+      "createdAt": "2026-11-13T20:21:28.780000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n27sq6ixps2a_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27sq6ixps2a_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rr",
+      "sources": [
+        {
+          "title": "só um adendo - em Roraima, a criação de gado PELAS COMUNIDADES indígenas na área de cerrado é historicamente uma forma de garantir a posse da terra e não representa desmatamento. Não são fazendeiros invasores, nesse caso.",
+          "url": "https://bsky.app/profile/andreaugfonseca.bsky.social/post/3n27sq6ixps2a",
+          "subreddit": "bsky_rr"
+        },
+        {
+          "title": "Minha mãe e o ex dela faziam trecking direto, subiram o monte Roraima e tudo. Ele tinha um sítio que a gente passava os fds quando eu era pré-adolescente e os dois sempre me educavam sobre respeitar a natureza. Ele interviu muito pouco nas terras dele, não sei se poderia considerar como área de +",
+          "url": "https://bsky.app/profile/solavanca.bsky.social/post/3mzxdbs2i4c2y",
+          "subreddit": "bsky_rr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A criação de gado feita pelas próprias comunidades indígenas no cerrado de Roraima é uma estratégia histórica de garantir a posse da terra, e não desmatamento. Chamar esses criadores de fazendeiros invasores ignora essa realidade e criminaliza quem sempre viveu ali.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A reportagem original trata da terra indígena Kapôt Nhinõre, na divisa entre Mato Grosso e Pará, e não de Roraima. Misturar os dois casos confunde o debate e desvia a atenção do que realmente está sendo denunciado na reportagem.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O contato com famílias de pequenos agricultores e o consumo direto delas mudou minha perspectiva sobre preservação. Antes eu vivia em apartamento e tinha medo da natureza; foi essa convivência que me fez tomar consciência, sem precisar generalizar sobre quem cria gado.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n24ddt4n6c2m",
+      "rank": 2,
       "title": "Candidata recebe R$ 70 mil do fundão eleitoral e tem 8 votos em Roraima",
       "label": "Fundão eleitoral · Voto mais caro do Brasil",
       "context": "Uma candidata a deputada estadual pelo MDB de Roraima recebeu R$ 70 mil do fundo eleitoral e obteve apenas 8 votos, segundo reportagem do Metrópoles. O caso é apontado como o voto mais caro do Brasil e levanta discussão sobre a eficiência e a fiscalização do uso do dinheiro público nas campanhas.",
@@ -13,9 +78,9 @@
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/blogdonoblat.bsky.social/post/3n24ddt4n6c2m",
       "createdAt": "2026-11-12T11:08:14.083000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.557757102241879,
+      "relevanceScore": 0.557757102241879,
+      "suggestedRadius": 80.81,
       "imageUrl": "assets/images/bsky_3n24ddt4n6c2m_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n24ddt4n6c2m_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -31,7 +96,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O fundão eleitoral precisa de uma reforma urgente, porque do jeito que está é um sistema injusto: torrar R$ 70 mil do dinheiro público, que é o suor do povo, para uma candidata que teve só 8 votos é um erro inaceitável.",
+          "text": "O fundão eleitoral precisa de uma reforma urgente, porque do jeito que está é um sistema injusto: torrar dinheiro público, que é o suor do povo, com candidatos que não têm voto é um erro que não pode continuar.",
           "source": "sintese",
           "evidence": [
             1
@@ -41,7 +106,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Isso não é só desperdício, é lavagem de dinheiro. Precisamos chamar pelo nome certo: repasses como esse, sem resultado eleitoral, servem para desviar recursos e precisam ser investigados como crime.",
+          "text": "Isso é lavagem de dinheiro e precisa ser chamado pelo nome certo. O dinheiro público está sendo usado para beneficiar candidatos sem voto, e é hora de usar os termos corretos para descrever esse esquema.",
           "source": "sintese",
           "evidence": [
             2
@@ -51,7 +116,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O caso mostra que o problema pode estar na falta de critérios claros para distribuir o fundão. Antes de acusar a candidata, é preciso entender como o dinheiro foi repassado e se houve falha na fiscalização dos partidos.",
+          "text": "O caso mostra que o dinheiro do fundão foi para uma candidata com apenas 8 votos, mas é preciso investigar se houve má-fé ou apenas um erro de cálculo na distribuição dos recursos. A Justiça Eleitoral deveria apurar antes de concluir que foi desperdício.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -62,17 +127,17 @@
     },
     {
       "id": "bsky_3mzz73mkqac2i",
-      "rank": 2,
+      "rank": 3,
       "title": "Lula é gente como a gente, diz post sobre tratamento igualitário",
       "label": "Lula · Tratamento igualitário e comparação",
-      "context": "Um post no Bluesky elogia o presidente Lula por tratar todas as pessoas de forma igual, e critica o ex-presidente preso por desdém a negros, citando um senador de Roraima. A publicação contrasta os dois governos e destaca a postura de Lula.",
+      "context": "Um post no Bluesky elogia o presidente Lula por tratar todas as pessoas de forma igual, e critica o ex-presidente preso por desdém a negros, citando um senador de Roraima. A publicação contrasta os dois governos e gera debate sobre igualdade e racismo.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/akaishiri.bsky.social/post/3mzz73mkqac2i",
       "createdAt": "2026-11-11T05:14:02.774000+00:00",
-      "rawScore": 0.6518570815688323,
-      "relevanceScore": 0.7196687863079706,
-      "suggestedRadius": 86.9,
+      "rawScore": 0.44796629956008577,
+      "relevanceScore": 0.44796629956008577,
+      "suggestedRadius": 76.16,
       "imageUrl": "assets/images/bsky_3mzz73mkqac2i_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzz73mkqac2i_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -88,7 +153,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Lula trata todo mundo igual, sem distinção. Isso é o que se espera de um presidente, e o contraste com o anterior, que desdenhava de negros, é evidente. O post acerta ao destacar essa diferença.",
+          "text": "Lula trata todo mundo igual, sem distinção. Isso é o que se espera de um presidente, e o contraste com o outro, que desprezava negros, é evidente. Ter um líder assim é um alívio.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -96,7 +161,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Chamar Lula de 'gente como a gente' é forçar a barra. Presidente tem que ser tratado como autoridade, não como amigo. E ficar comparando com o ex-presidente só mostra que falta argumento sobre realizações concretas.",
+          "text": "Ficar elogiando Lula como 'gente como a gente' é puro marketing. A realidade é que o racismo estrutural continua, e esse tipo de post só serve para desviar o foco dos problemas reais do país.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -104,7 +169,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A comparação entre Lula e o ex-presidente é inevitável, mas o post simplifica demais. Tratar todos igual é importante, mas governar exige mais do que simpatia. Precisamos avaliar políticas públicas, não só gestos.",
+          "text": "A comparação entre Lula e o ex-presidente preso é simplista. Precisamos de políticas concretas de igualdade racial, não de posts exaltando um político. O debate deveria ser sobre propostas, não sobre personalismos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -115,17 +180,17 @@
     },
     {
       "id": "bsky_3n24r6nhxkk2w",
-      "rank": 3,
-      "title": "Pessoa desiste de casa e emprego e define escalar o Monte Roraima como objetivo de vida",
-      "label": "Escalar o Monte Roraima como meta de vida",
-      "context": "Uma pessoa relatou que seus dois sonhos — ter uma casa e um emprego que permita uma vida legal — estão se mostrando inalcançáveis, e por isso decidiu que seu novo objetivo de vida é escalar o Monte Roraima. A declaração gerou conversas sobre prioridades, limites físicos e o significado de buscar metas fora do padrão convencional.",
+      "rank": 4,
+      "title": "Pessoa troca sonhos de casa e emprego por escalar o Monte Roraima",
+      "label": "Sonhos inalcançáveis · Escalada do Roraima",
+      "context": "Uma pessoa relatou que seus dois sonhos — ter uma casa e um emprego que permita uma vida legal — estão se mostrando inalcançáveis, e por isso decidiu que seu novo objetivo de vida é escalar o Monte Roraima. A mudança de meta gerou reações sobre a dificuldade da escalada diante das condições físicas de quem a propôs.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/diasomnia.bsky.social/post/3n24r6nhxkk2w",
       "createdAt": "2026-11-12T15:15:47.470000+00:00",
-      "rawScore": 0.46312799945724814,
-      "relevanceScore": 0.6855142492671628,
-      "suggestedRadius": 85.68,
+      "rawScore": 0.2723346252210398,
+      "relevanceScore": 0.2723346252210398,
+      "suggestedRadius": 67.31,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -135,47 +200,34 @@
           "title": "sou uma pessoa com poucos sonhos mas percebi que ambos estão se mostrando meio inalcançáveis (ter uma casa e um emprego que me permita ter uma vida legal) então decidi que meu objetivo de vida agora é escalar o monte roraima",
           "url": "https://bsky.app/profile/diasomnia.bsky.social/post/3n24r6nhxkk2w",
           "subreddit": "bsky_rr"
-        },
-        {
-          "title": "Minha mãe e o ex dela faziam trecking direto, subiram o monte Roraima e tudo. Ele tinha um sítio que a gente passava os fds quando eu era pré-adolescente e os dois sempre me educavam sobre respeitar a natureza. Ele interviu muito pouco nas terras dele, não sei se poderia considerar como área de +",
-          "url": "https://bsky.app/profile/solavanca.bsky.social/post/3mzxdbs2i4c2y",
-          "subreddit": "bsky_rr"
-        },
-        {
-          "title": "ta agora eu vou molhar as plantas da minha mãe me desejem sorte antes de adentrar a floresta de roraima",
-          "url": "https://bsky.app/profile/leveneficor.bsky.social/post/3mzssqdumoc27",
-          "subreddit": "bsky_rr"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Trocar metas que dependem de um sistema que não te dá retorno por um objetivo concreto como escalar o Roraima é uma forma de recuperar o controle. A pessoa está escolhendo um desafio que depende dela, não de salário ou financiamento.",
+          "text": "Trocar uma meta que não depende só de você por outra que dá para treinar e conquistar passo a passo é uma forma honesta de seguir em frente. O Monte Roraima vira um objetivo concreto, com começo, meio e fim, em vez de uma espera sem prazo.",
           "source": "sintese",
-          "evidence": [
-            2
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O próprio autor admite sobrepeso e problema de pisar, e o Roraima exige preparo físico sério. Transformar uma frustração com casa e emprego em uma meta radical assim pode ser mais uma fuga do que um plano realista.",
+          "text": "Quem é sedentário, está acima do peso e tem problema para pisar não deve tratar a escalada do Roraima como um feito qualquer. A subida exige preparo físico e pode virar risco real, então essa meta precisa de treino e avaliação médica antes de virar plano de vida.",
           "source": "sintese",
           "evidence": [
-            3
+            1
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A relação com a natureza e o consumo consciente aparece nos relatos de quem conviveu com quem subiu o Roraima. Talvez o objetivo não seja só a escalada, mas uma mudança de perspectiva sobre o que vale a pena na vida.",
+          "text": "A fala de que a escalada seria o último feito antes de partir para outro plano levanta uma dúvida sobre o que está por trás da mudança de objetivo. Vale entender se é só uma meta nova ou um sinal de desânimo com casa e emprego, porque isso muda como a decisão deve ser encarada.",
           "source": "sintese",
           "evidence": [
-            1,
-            2
+            1
           ],
           "votes": 0
         }
@@ -185,7 +237,7 @@
     },
     {
       "id": "bsky_3mzyht333hc23",
-      "rank": 4,
+      "rank": 5,
       "title": "Serra do Aracá, no Amazonas, na divisa oeste com Roraima",
       "label": "Serra do Aracá · Descoberta e estudo",
       "context": "A Serra do Aracá fica no Amazonas, na divisa oeste com Roraima, e foi destacada em um post como exemplo do quanto a Amazônia brasileira ainda tem a ser descoberto e estudado. O mesmo perfil também divulgou uma reportagem sobre falhas no controle do combustível de aviação que abastece o garimpo ilegal na Terra Yanomami, em Roraima.",
@@ -193,9 +245,9 @@
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/rafa3l.bsky.social/post/3mzyht333hc23",
       "createdAt": "2026-11-10T22:17:37.079000+00:00",
-      "rawScore": 0.17381054399167617,
-      "relevanceScore": 0.2925832769527204,
-      "suggestedRadius": 68.45,
+      "rawScore": 0.11769382119155265,
+      "relevanceScore": 0.21769382119155267,
+      "suggestedRadius": 63.99,
       "imageUrl": "assets/images/bsky_3mzyht333hc23_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzyht333hc23_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -216,7 +268,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Serra do Aracá mostra que a Amazônia ainda tem muito a ser descoberto e estudado, e divulgar isso é importante para valorizar a região e incentivar pesquisa.",
+          "text": "A Serra do Aracá mostra que a Amazônia ainda tem muito a ser descoberto e estudado, e divulgar isso é importante para valorizar a região e incentivar pesquisa. O post acerta ao chamar atenção para esse potencial.",
           "source": "sintese",
           "evidence": [
             1
@@ -226,7 +278,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Enquanto se fala em descoberta, o garimpo ilegal avança e a fiscalização falha em controlar até o combustível dos aviões que abastecem a atividade na Terra Yanomami.",
+          "text": "Enquanto se fala em descoberta e estudo, o que se vê é o garimpo ilegal sendo abastecido por falhas no controle do combustível de aviação em Roraima. Essa fiscalização precária compromete a Terra Yanomami e mostra que o discurso de preservação não se sustenta na prática.",
           "source": "sintese",
           "evidence": [
             2
@@ -236,7 +288,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A localização da Serra do Aracá foi corrigida: ela fica na divisa oeste de Roraima, não do Amazonas, e esse cuidado com a precisão geográfica é fundamental para qualquer debate.",
+          "text": "A localização da Serra do Aracá foi corrigida: fica na divisa oeste de Roraima, não do Amazonas. Esse tipo de ajuste mostra que até informações geográficas básicas precisam de atenção quando o assunto é a Amazônia.",
           "source": "sintese",
           "evidence": [
             1
@@ -249,17 +301,17 @@
     },
     {
       "id": "bsky_3mzvzw5a2hk2y",
-      "rank": 5,
+      "rank": 6,
       "title": "Só acreditarei na Fundação Cobra Coral quando chover em Roraima nas cabeceiras dos rios",
       "label": "Descrença na Fundação Cobra Coral",
-      "context": "Um post no Bluesky ironiza a Fundação Cobra Coral dizendo que só acreditará nela quando chover em Roraima nas cabeceiras dos rios. A frase usa uma condição improvável para expressar descrença na atuação da fundação.",
+      "context": "Um post no Bluesky ironiza a Fundação Cobra Coral dizendo que só acreditará nela quando chover em Roraima nas cabeceiras dos rios. A frase usa uma condição improvável para expressar descrença na atuação ou existência da fundação.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/leveneficor.bsky.social/post/3mzvzw5a2hk2y",
       "createdAt": "2026-11-09T23:03:28.376000+00:00",
-      "rawScore": 0.11407248953892,
-      "relevanceScore": 0.11212451971453631,
-      "suggestedRadius": 56.09,
+      "rawScore": 0.0800751665555545,
+      "relevanceScore": 0.0800751665555545,
+      "suggestedRadius": 52.98,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -275,7 +327,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Fundação Cobra Coral merece descrédito: o post acerta ao duvidar dela, porque a entidade não mostra resultados concretos e a imagem de cobra coral já diz tudo sobre sua confiabilidade.",
+          "text": "A descrença faz sentido: o alcance do feitiço dessa fundação é pequeno, como comentam por aí. Se a atuação fosse real e ampla, não precisaria de tanta propaganda para convencer.",
           "source": "sintese",
           "evidence": [
             1
@@ -285,7 +337,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Criticar a Fundação Cobra Coral com essa ironia é injusto: a entidade pode até ter falhas, mas quem a compara a uma cobra coral e pede milagre da chuva em Roraima só quer desqualificar sem apresentar provas.",
+          "text": "Ficar ironizando não resolve nada; a Fundação Cobra Coral faz acordos com os estragos cunidos e a gente sabe quem são os de verdade. Apelar para uma entidade regional é o que resta diante da inoperância.",
           "source": "sintese",
           "evidence": [
             2
@@ -295,7 +347,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A piada da chuva em Roraima nas cabeceiras dos rios funciona como metáfora do improvável, mas não diz nada sobre a Fundação Cobra Coral em si; é só uma frase de efeito que não comprova nem desmente nada.",
+          "text": "A comparação com a chuva em Roraima nas cabeceiras é exagerada, mas o ceticismo tem fundamento. O jeito é observar se a fundação cumpre o que promete antes de acreditar de fato.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -305,26 +357,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzqvgjpbvk2w",
-      "rank": 6,
-      "title": "Amigo. Em Roraima tá chegando em 45°… linha do equador né…",
-      "label": "Calor de 45° em Roraima",
-      "context": "Um post no Bluesky afirma que a temperatura em Roraima está chegando a 45°C, atribuindo o calor à localização do estado na linha do equador. A menção a esse valor extremo chama atenção para as condições de calor na região.",
+      "id": "bsky_3mzssqdumoc27",
+      "rank": 7,
+      "title": "Vou molhar as plantas da minha mãe e adentrar a floresta de Roraima",
+      "label": "Regar plantas · Floresta de Roraima",
+      "context": "Um usuário do Bluesky publicou que vai molhar as plantas da mãe e pediu sorte antes de entrar na floresta de Roraima. O post viralizou pelo tom de humor ao tratar uma tarefa doméstica simples como uma expedição perigosa.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
-      "permalink": "https://bsky.app/profile/baronsolucena.bsky.social/post/3mzqvgjpbvk2w",
-      "createdAt": "2026-11-07T21:59:51.578000+00:00",
-      "rawScore": 0.014822373280998903,
+      "permalink": "https://bsky.app/profile/leveneficor.bsky.social/post/3mzssqdumoc27",
+      "createdAt": "2026-11-08T16:16:58.073000+00:00",
+      "rawScore": 0.0,
       "relevanceScore": 0.0,
       "suggestedRadius": 36.0,
-      "imageUrl": "assets/images/bsky_3mzqvgjpbvk2w_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzqvgjpbvk2w_reddit_thumb.jpg",
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-rr",
       "sources": [
         {
-          "title": "Amigo. Em Roraima tá chegando em 45°… linha do equador né…",
-          "url": "https://bsky.app/profile/baronsolucena.bsky.social/post/3mzqvgjpbvk2w",
+          "title": "ta agora eu vou molhar as plantas da minha mãe me desejem sorte antes de adentrar a floresta de roraima",
+          "url": "https://bsky.app/profile/leveneficor.bsky.social/post/3mzssqdumoc27",
           "subreddit": "bsky_rr"
         }
       ],
@@ -332,7 +384,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Roraima fica na linha do equador, então esse calor todo faz parte da geografia do lugar. Quem mora lá já sabe que essa época do ano é assim mesmo, e o post só está constatando o óbvio sobre o clima da região.",
+          "text": "O exagero é justamente a graça: transformar a rega das plantas da mãe numa expedição à floresta de Roraima é humor leve e criativo, do tipo que rende compartilhamento sem ofender ninguém.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -340,7 +392,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Chegar a 45° não é só 'linha do equador', é calor extremo que prejudica a saúde e o trabalho de quem vive em Roraima. Tratar isso como curiosidade natural esconde o quanto essas temperaturas estão ficando mais frequentes e difíceis de aguentar.",
+          "text": "Chamar a floresta de Roraima de piada banaliza uma região real, com mata densa e riscos concretos, e ainda reforça a ideia de que a Amazônia é um lugar exótico de desenho animado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -348,7 +400,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O valor de 45° precisa ser confirmado por medição oficial, porque sensação térmica e temperatura do ar são coisas diferentes. Sem dado de estação meteorológica, o número do post serve mais como desabafo sobre o calor do que como registro climático.",
+          "text": "O post funciona como humor justamente porque não tem alvo: é uma tarefa banal descrita como aventura. Sem contexto maior, fica difícil tirar qualquer leitura além da brincadeira do momento.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

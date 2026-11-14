@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-11-13T19:28:36.491411+00:00",
+  "generatedAt": "2026-11-14T05:38:24.414303+00:00",
   "region": "br-mt",
-  "count": 5,
+  "count": 7,
   "items": [
     {
-      "id": "bsky_3n27e6a4w522x",
+      "id": "bsky_3n27vb7dfgk2m",
       "rank": 1,
-      "title": "Amiga, não beije este homem, ele defende os caloteiros do agronegócio da soja no Mato Grosso que queimam dinheiro pra eleger bolsonarista como se fossem agricul",
-      "label": "Crítica a defensor do agronegócio mato-grossense",
-      "context": "Um post viral no Bluesky critica um homem por supostamente defender grandes produtores de soja do Mato Grosso que, segundo o texto, gastam dinheiro para eleger candidatos bolsonaristas e se passam por agricultores familiares do Rio Grande do Sul. A publicação usa tom de alerta e humor para associar a imagem do homem a práticas criticadas do agronegócio.",
+      "title": "Mato Grosso é insalubre demais, diz usuário",
+      "label": "Mato Grosso · Calor e falta de árvores",
+      "context": "Um usuário do Bluesky afirmou que o Mato Grosso é insalubre e que se choca toda vez que visita o estado. Nos comentários, a reclamação se concentra no calor constante de 36 graus e na ausência de árvores à vista.",
       "source": "bluesky",
       "subreddit": "bsky_mt",
-      "permalink": "https://bsky.app/profile/opinioso.bsky.social/post/3n27e6a4w522x",
-      "createdAt": "2026-11-13T16:00:53.483000+00:00",
-      "rawScore": 0.9,
+      "permalink": "https://bsky.app/profile/didi.blog.br/post/3n27vb7dfgk2m",
+      "createdAt": "2026-11-13T21:06:47.371000+00:00",
+      "rawScore": 0.5686996631381334,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3n27e6a4w522x_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27e6a4w522x_reddit_thumb.jpg",
+      "imageUrl": "assets/images/bsky_3n27vb7dfgk2m_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27vb7dfgk2m_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-mt",
       "sources": [
+        {
+          "title": "meu deus o mato grosso é insalubre demais eu me choco toda vez que venho pra cá",
+          "url": "https://bsky.app/profile/didi.blog.br/post/3n27vb7dfgk2m",
+          "subreddit": "bsky_mt"
+        },
         {
           "title": "Amiga, não beije este homem, ele defende os caloteiros do agronegócio da soja no Mato Grosso que queimam dinheiro pra eleger bolsonarista como se fossem agricultores familiares do Rio Grande do Sul.",
           "url": "https://bsky.app/profile/opinioso.bsky.social/post/3n27e6a4w522x",
           "subreddit": "bsky_mt"
         },
         {
-          "title": "#DiaDoPantanal: localizada no município de Poconé, no Mato Grosso, norte do #Pantanal, no final da famosa estrada Transpantaneira, #PortoJofre abriga uma #biodiversidade extraordinária. Cercada por rios como o Cuiabá e o Piquiri, é uma região estratégica para a concentração de #fauna",
-          "url": "https://bsky.app/profile/conexaoplaneta.bsky.social/post/3n252v4nhrc2x",
-          "subreddit": "bsky_mt"
-        },
-        {
-          "title": "REPORTAGEM: Mineração na fronteira brasileira pode avançar sobre áreas protegidas em Rondônia e pressionar territórios em Mato Grosso observatoriodamineracao.com.br/mineracao-na...",
-          "url": "https://bsky.app/profile/obsmineracao.bsky.social/post/3n227xay6ec2l",
+          "title": "A reportagem se refere à terra indígena Kapôt Nhinõre, na divisa entre Mato Grosso e Pará.",
+          "url": "https://bsky.app/profile/msoares.bsky.social/post/3n27sv7dozs2o",
           "subreddit": "bsky_mt"
         }
       ],
@@ -41,23 +41,27 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O post acerta ao expor a hipocrisia de quem defende o agronegócio da soja no Mato Grosso enquanto posa de aliado da agricultura familiar gaúcha. Esses produtores financiam campanhas bolsonaristas e depois querem se passar por pequenos agricultores, e o alerta é necessário para não cair nessa.",
+          "text": "A reclamação faz sentido: quem chega no Mato Grosso encontra 36 graus e nenhuma árvore à vista, o que torna o ambiente realmente insalubre para quem não está acostumado.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Generalizar o agronegócio do Mato Grosso como caloteiro e eleitor de bolsonarista é um exagero que ignora a diversidade do setor. Muitos produtores de soja trabalham sério e não se envolvem em política, e esse tipo de post só alimenta preconceito contra quem vive do campo.",
+          "text": "O problema não é o estado em si, mas a falta de planejamento urbano: comércios que tocam música alta o dia todo e ruas sem arborização tornam qualquer cidade insuportável, independente do clima.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A crítica tem um fundo real, mas o tom debochado e a generalização podem desviar do problema principal: a falta de transparência no financiamento de campanhas e a confusão entre grandes e pequenos produtores. Sem dados concretos, fica difícil separar o alerta válido do ataque pessoal.",
+          "text": "A experiência de quem visita é diferente da de quem mora: o choque com o calor e a falta de árvores pode ser real, mas quem vive lá desenvolve outra relação com o lugar e com a rotina.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -67,18 +71,46 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzss4qyxik2n",
+      "id": "bsky_3n27qpnw6ys2i",
       "rank": 2,
+      "title": "Essa matéria é de 2023, mas não perdeu a importância. Pelo contrário, é o momento certo de lembrar. Pode ter certeza de que entre os caloteiros do agro há um número considerável de financiadores dos acampamentos golpistas nos quartéis. Pra isso, há grana. deolhonosruralistas.com.br/2023/10/17/e...",
+      "label": "",
+      "context": "",
+      "source": "bluesky",
+      "subreddit": "bsky_mt",
+      "permalink": "https://bsky.app/profile/hospiciobrasil.bsky.social/post/3n27qpnw6ys2i",
+      "createdAt": "2026-11-13T19:45:25.978000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 0.9989817955941315,
+      "suggestedRadius": 95.97,
+      "imageUrl": "assets/images/bsky_3n27qpnw6ys2i_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27qpnw6ys2i_reddit.jpg",
+      "category": "geopolitica",
+      "region": "br-mt",
+      "sources": [
+        {
+          "title": "Essa matéria é de 2023, mas não perdeu a importância. Pelo contrário, é o momento certo de lembrar. Pode ter certeza de que entre os caloteiros do agro há um número considerável de financiadores dos acampamentos golpistas nos quartéis. Pra isso, há grana. deolhonosruralistas.com.br/2023/10/17/e...",
+          "url": "https://bsky.app/profile/hospiciobrasil.bsky.social/post/3n27qpnw6ys2i",
+          "subreddit": "bsky_mt"
+        }
+      ],
+      "opinions": [],
+      "enrichedBy": "",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzss4qyxik2n",
+      "rank": 3,
       "title": "Pará registra muitos incêndios em áreas de pressão do agronegócio",
       "label": "Incêndios no Pará · Pressão do agronegócio",
-      "context": "O Pará está com muitos incêndios concentrados no trecho da Cuiabá-Santarém e no Marajó, áreas de pressão do agronegócio, segundo relato nas redes. O assunto ganha força porque a secretaria de meio ambiente do estado será assumida por alguém descrito como infrator ambiental e advogado de infrator.",
+      "context": "O Pará está com muitos incêndios concentrados no trecho da Cuiabá-Santarém e no Marajó, áreas de pressão do agronegócio. O momento coincide com a chegada de um novo secretário de meio ambiente do estado, apontado como infrator ambiental e advogado de infratores.",
       "source": "bluesky",
       "subreddit": "bsky_mt",
       "permalink": "https://bsky.app/profile/yrs-pa.bsky.social/post/3mzss4qyxik2n",
       "createdAt": "2026-11-08T16:06:00.769000+00:00",
-      "rawScore": 0.07219499385188653,
-      "relevanceScore": 0.03546436181850382,
-      "suggestedRadius": 47.3,
+      "rawScore": 0.09063637671782475,
+      "relevanceScore": 0.07559481165249424,
+      "suggestedRadius": 52.5,
       "imageUrl": "assets/images/bsky_3mzss4qyxik2n_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzss4qyxik2n_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -94,15 +126,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A coincidência entre os focos de incêndio e as áreas de pressão do agronegócio não é acaso: são locais onde a expansão agropecuária avança sobre a floresta, e o fogo costuma ser usado para abrir área. Ver o mesmo padrão se repetir no trecho da Cuiabá-Santarém e no Marajó mostra que o problema é estrutural, não pontual.",
+          "text": "A coincidência entre os focos de incêndio e as áreas de pressão do agronegócio não é acaso: o fogo está sendo usado como ferramenta de desmatamento justamente onde há interesse econômico, e a chegada de um secretário ligado a infratores só confirma a falta de prioridade com o meio ambiente.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Colocar um infrator ambiental e advogado de infrator na secretaria de meio ambiente é sinal de que a fiscalização vai afrouxar justamente quando o estado mais precisa dela. Some a isso a governadora ter proibido a PM de dar suporte ao IBAMA e ao ICMBio, e fica claro que o poder público está do lado de quem desmata, não",
+          "text": "A governadora já mostrou de que lado está ao proibir a PM de dar suporte ao IBAMA e ao ICMBio em busca de votos do setor agro. Agora entrega a secretaria de meio ambiente a um advogado de infratores, o que na prática desmonta a fiscalização e deixa o estado à mercê do desmatamento.",
           "source": "sintese",
           "evidence": [
             1
@@ -112,7 +146,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Antes de cravar relação entre os incêndios e a troca na secretaria, vale olhar os dados oficiais de focos de calor por município e comparar com anos anteriores. O relato aponta coincidências, mas sem série histórica e sem saber a origem dos focos fica difícil separar causa natural de ação humana.",
+          "text": "Antes de atribuir os incêndios a uma ação coordenada, é preciso ver os dados oficiais de focos por município e comparar com anos anteriores. A nomeação do novo secretário é preocupante, mas o debate ganha mais força com evidências concretas do que com suposições sobre intenção.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -122,26 +156,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n25ctbpkkk2l",
-      "rank": 3,
-      "title": "Agência Brasil publica conteúdo sobre direitos humanos",
-      "label": "Direitos humanos · Conteúdo da Agência Brasil",
-      "context": "A Agência Brasil, da EBC, publicou um conteúdo na editoria de direitos humanos, divulgado também no Bluesky. O material integra a cobertura da agência estatal sobre o tema.",
+      "id": "bsky_3mzvwfha2jc2s",
+      "rank": 4,
+      "title": "Brasil de Fato publica reportagem em seu site",
+      "label": "Publicação do Brasil de Fato",
+      "context": "O site Brasil de Fato publicou uma reportagem em 8 de novembro de 2026, divulgada também no Bluesky no dia seguinte. O conteúdo específico da matéria não está detalhado nas fontes disponíveis.",
       "source": "bluesky",
       "subreddit": "bsky_mt",
-      "permalink": "https://bsky.app/profile/arlindars.bsky.social/post/3n25ctbpkkk2l",
-      "createdAt": "2026-11-12T20:31:36.478000+00:00",
-      "rawScore": 0.05990007079894785,
-      "relevanceScore": 0.024766609710332354,
-      "suggestedRadius": 45.44,
-      "imageUrl": "assets/images/bsky_3n25ctbpkkk2l_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n25ctbpkkk2l_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/nildete.bsky.social/post/3mzvwfha2jc2s",
+      "createdAt": "2026-11-09T22:00:29.776000+00:00",
+      "rawScore": 0.06954987257566113,
+      "relevanceScore": 0.05153763524673308,
+      "suggestedRadius": 49.62,
+      "imageUrl": "assets/images/bsky_3mzvwfha2jc2s_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzvwfha2jc2s_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-mt",
       "sources": [
         {
-          "title": "agenciabrasil.ebc.com.br/direitos-hum...",
-          "url": "https://bsky.app/profile/arlindars.bsky.social/post/3n25ctbpkkk2l",
+          "title": "www.brasildefato.com.br/2026/11/08/e...",
+          "url": "https://bsky.app/profile/nildete.bsky.social/post/3mzvwfha2jc2s",
           "subreddit": "bsky_mt"
         }
       ],
@@ -149,7 +183,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Agência Brasil cumpre o papel de levar informação sobre direitos humanos ao público, com cobertura de fonte estatal e acesso gratuito. Divulgar esse conteúdo no Bluesky amplia o alcance para quem não acompanha o site da EBC.",
+          "text": "A divulgação da reportagem no Bluesky ajuda a levar o conteúdo do Brasil de Fato para um público que não acompanha o site diretamente, ampliando o alcance da cobertura.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -157,7 +191,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Conteúdo de direitos humanos vindo de veículo estatal merece desconfiança, porque a linha editorial acompanha o governo de plantão. Publicar só o link, sem destaque do que trata, dificulta avaliar o enquadramento da matéria.",
+          "text": "Publicar só o link, sem nenhum resumo ou destaque do que a matéria trata, deixa quem vê o post no Bluesky sem saber se vale a pena clicar ou do que se trata o conteúdo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -165,7 +199,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Só o link, sem título nem resumo, não diz muito sobre o que foi publicado. Antes de formar opinião, vale abrir a matéria e ver o conteúdo concreto, em vez de julgar pelo veículo ou pelo tema.",
+          "text": "Sem o texto da reportagem ou um resumo no post, fica difícil avaliar o conteúdo em si; o que se sabe é apenas que o Brasil de Fato publicou e divulgou o material.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -176,7 +210,7 @@
     },
     {
       "id": "bsky_3mzwbtfztqs2e",
-      "rank": 4,
+      "rank": 5,
       "title": "Por que os ataques contra os Guarani Kaiowá não param de acontecer?",
       "label": "Violência contra Guarani Kaiowá · Investigação",
       "context": "Uma investigação da Repórter Brasil, publicada em novembro de 2026, aborda a continuidade dos ataques contra o povo Guarani Kaiowá. O material busca explicar por que essas violências persistem, a partir de apuração jornalística.",
@@ -184,9 +218,9 @@
       "subreddit": "bsky_mt",
       "permalink": "https://bsky.app/profile/gabrieldread.bsky.social/post/3mzwbtfztqs2e",
       "createdAt": "2026-11-10T01:25:08.578000+00:00",
-      "rawScore": 0.050093940908542016,
-      "relevanceScore": 0.016234344298307783,
-      "suggestedRadius": 43.64,
+      "rawScore": 0.0609572543172244,
+      "relevanceScore": 0.04173448666236246,
+      "suggestedRadius": 48.26,
       "imageUrl": "assets/images/bsky_3mzwbtfztqs2e_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzwbtfztqs2e_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -202,7 +236,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A investigação da Repórter Brasil é essencial para dar visibilidade à violência que os Guarani Kaiowá enfrentam. Trazer esse tema para o debate público pressiona as autoridades a agirem e ajuda a sociedade a entender a gravidade da situação.",
+          "text": "A investigação da Repórter Brasil é essencial para dar visibilidade à violência que os Guarani Kaiowá sofrem de forma contínua. Trazer esse tema para o debate público pressiona as autoridades a agirem e ajuda a sociedade a entender a gravidade da situação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -228,16 +262,69 @@
       "promptVersion": 2
     },
     {
+      "id": "bsky_3n25ctbpkkk2l",
+      "rank": 6,
+      "title": "Agência Brasil publica conteúdo sobre direitos humanos",
+      "label": "Direitos humanos · Conteúdo da Agência Brasil",
+      "context": "A Agência Brasil, da EBC, publicou um conteúdo na editoria de direitos humanos, cujo link circula no Bluesky. O material trata de direitos humanos, tema que costuma gerar discussões sobre a atuação do Estado e a proteção de grupos vulneráveis.",
+      "source": "bluesky",
+      "subreddit": "bsky_mt",
+      "permalink": "https://bsky.app/profile/arlindars.bsky.social/post/3n25ctbpkkk2l",
+      "createdAt": "2026-11-12T20:31:36.478000+00:00",
+      "rawScore": 0.054150107975431676,
+      "relevanceScore": 0.033968347749042505,
+      "suggestedRadius": 47.06,
+      "imageUrl": "assets/images/bsky_3n25ctbpkkk2l_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n25ctbpkkk2l_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-mt",
+      "sources": [
+        {
+          "title": "agenciabrasil.ebc.com.br/direitos-hum...",
+          "url": "https://bsky.app/profile/arlindars.bsky.social/post/3n25ctbpkkk2l",
+          "subreddit": "bsky_mt"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Agência Brasil cumpre o papel de levar informação sobre direitos humanos ao público, e esse tipo de conteúdo é essencial para que as pessoas conheçam seus direitos e saibam cobrar do poder público.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Conteúdo de direitos humanos publicado por veículo estatal costuma vir com um enquadramento pronto, e isso enfraquece a credibilidade da informação quando o tema envolve disputas políticas.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Sem ver o conteúdo completo, fica difícil avaliar a qualidade da matéria; o link sozinho não diz se a abordagem é equilibrada ou se apenas repete uma visão institucional sobre o tema.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
       "id": "bsky_3n25idsmcac25",
-      "rank": 5,
+      "rank": 7,
       "title": "Praça da Mandioca em Cuiabá seria uma boa 👀",
       "label": "Praça da Mandioca · Cuiabá",
-      "context": "Uma publicação no Bluesky levanta a ideia de a Praça da Mandioca, em Cuiabá, ser uma boa opção. O post sugere o local como possibilidade, mas não detalha para quê nem traz informações adicionais.",
+      "context": "Um post no Bluesky sugere a Praça da Mandioca, em Cuiabá, como uma boa opção. A publicação não traz detalhes sobre o que seria essa boa opção nem o motivo da sugestão.",
       "source": "bluesky",
       "subreddit": "bsky_mt",
       "permalink": "https://bsky.app/profile/capivarailustra.bsky.social/post/3n25idsmcac25",
       "createdAt": "2026-11-12T22:10:16.484000+00:00",
-      "rawScore": 0.03143581423442103,
+      "rawScore": 0.02437630187983737,
       "relevanceScore": 0.0,
       "suggestedRadius": 36.0,
       "imageUrl": "assets/images/bsky_3n25idsmcac25_wiki.jpg",
@@ -255,7 +342,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Praça da Mandioca tem história e localização que muita gente de Cuiabá conhece, então apostar nela como ponto de referência faz sentido. Valorizar o que já existe na cidade costuma sair mais barato do que começar do zero.",
+          "text": "A Praça da Mandioca é um ponto tradicional de Cuiabá e merece ser valorizada. Se a sugestão é usar o espaço para algo novo, pode ajudar a movimentar a região e atrair mais gente para o centro.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -263,7 +350,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Jogar o nome da Praça da Mandioca assim, sem dizer para quê, não resolve nada. O lugar precisa de estrutura, segurança e movimento, e uma postagem vaga não muda a situação real de quem passa por lá todos os dias.",
+          "text": "A Praça da Mandioca já tem seus problemas e não precisa de mais especulação. Jogar uma ideia solta assim, sem explicar nada, só gera confusão e não contribui para melhorar o lugar.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -271,7 +358,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A ideia depende muito do que se pretende fazer na Praça da Mandioca. Como o post não explica se é evento, reforma ou ponto de encontro, fica difícil dizer se seria boa ou não sem saber o contexto e o que a vizinhança pensa.",
+          "text": "O post fala em 'seria uma boa' mas não diz para quê. Sem saber se é sobre evento, reforma ou outra coisa, fica difícil opinar. A Praça da Mandioca é um espaço conhecido, mas a proposta precisa ser mais clara.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

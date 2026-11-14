@@ -1,21 +1,98 @@
 {
-  "generatedAt": "2026-11-13T19:28:36.491411+00:00",
+  "generatedAt": "2026-11-14T05:38:24.414303+00:00",
   "region": "br-sc",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n273uohtls2u",
+      "id": "bsky_3n25nvn3g6k2l",
       "rank": 1,
+      "title": "Jensen Huang pode virar deputado pelo PL em Santa Catarina?",
+      "label": "Atenção a Jensen Huang · Política em SC",
+      "context": "Uma postagem no Bluesky ironiza a atenção dada a Jensen Huang, sugerindo que ele pode se candidatar a deputado pelo PL em Santa Catarina. A discussão reflete a insatisfação de parte dos usuários com os resultados eleitorais no estado, onde a direita tem forte presença.",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/aphelionn.bsky.social/post/3n25nvn3g6k2l",
+      "createdAt": "2026-11-12T23:49:43.277000+00:00",
+      "rawScore": 0.6831387544778583,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n25nvn3g6k2l_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n25nvn3g6k2l_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "fica dando atenção pra esse jensen huang, aí quando ele virar deputado pelo PL santa catarina vcs reclama",
+          "url": "https://bsky.app/profile/aphelionn.bsky.social/post/3n25nvn3g6k2l",
+          "subreddit": "bsky_sc"
+        },
+        {
+          "title": "Santa Catarina é o estado com o maior número de prefeitos presos do Brasil: 30 no total, nenhum deles de esquerda. Em Santa Catarina, Flávio Bolsonaro teve 67% dos votos, contra Lula. Santa Catarina é o estado onde não há nenhum prefeito ou deputado de esquerda.",
+          "url": "https://bsky.app/profile/ribeirotrilhas.bsky.social/post/3n22l3izluk2o",
+          "subreddit": "bsky_sc"
+        },
+        {
+          "title": "Lula teve em Santa Catarina mais de 1 milhão de votos. Certo. E quanto a trabalhar em Santa Catarina? Fefe na Lula comenta👇🏽 🎥2/2",
+          "url": "https://bsky.app/profile/marcianobrito.bsky.social/post/3n2a6vxmqes2y",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A esquerda cresceu em Santa Catarina na última eleição, elegendo 3 deputados federais e 6 estaduais, incluindo a segunda mais votada. Isso mostra que há resistência e que o estado não é homogêneo como alguns pintam.",
+          "source": "sintese",
+          "evidence": [
+            10,
+            12,
+            14
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Santa Catarina reelegeru um governador mentiroso e tem a maior taxa de prefeitos presos do Brasil, todos de direita. A população insiste em votar na extrema direita, que só olha para o próprio umbigo, e depois reclama.",
+          "source": "sintese",
+          "evidence": [
+            3,
+            4,
+            6,
+            18
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Dizer que não há nenhum político de esquerda em SC é exagero: há deputados sim, e a esquerda até cresceu. Mas o estado realmente tem maioria conservadora, e a crítica deveria se basear em dados corretos, não em generalizações.",
+          "source": "sintese",
+          "evidence": [
+            4,
+            5,
+            10,
+            12
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n273uohtls2u",
+      "rank": 2,
       "title": "Prefeitura de Florianópolis banca show de Ana Castela por R$ 1,7 milhão no Réveillon",
-      "label": "Show de Ana Castela · Gastos públicos",
-      "context": "A Prefeitura de Florianópolis contratou o show de Ana Castela para o Réveillon por R$ 1,7 milhão, valor superior ao que a cidade investiu em apoio à causa autista e em exames de ressonância magnética. O gasto gerou críticas nas redes sociais, com questionamentos sobre a prioridade do dinheiro público.",
+      "label": "Show de Ana Castela · Gasto público no Réveillon",
+      "context": "A Prefeitura de Florianópolis contratou o show de Ana Castela para o Réveillon por R$ 1,7 milhão, valor maior do que o investido pela cidade em apoio à causa autista e em exames de ressonância magnética. O gasto gerou críticas nas redes sociais, com comparações entre o custo do evento e os recursos destinados a serviços de saúde.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/blogdonoblat.bsky.social/post/3n273uohtls2u",
       "createdAt": "2026-11-13T13:32:24.370000+00:00",
-      "rawScore": 0.8943641597165416,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.9,
+      "relevanceScore": 0.897990371625204,
+      "suggestedRadius": 92.86,
       "imageUrl": "assets/images/bsky_3n273uohtls2u_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n273uohtls2u_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -36,7 +113,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Réveillon é um evento que movimenta a economia e o turismo da cidade, e contratar uma artista de grande porte como Ana Castela atrai visitantes e gera retorno financeiro. O investimento em cultura e entretenimento também é uma forma de lazer para a população.",
+          "text": "O Réveillon de Florianópolis é um evento que movimenta o turismo e a economia local, e contratar uma atração de peso como Ana Castela ajuda a cidade a se destacar e atrair visitantes. O investimento se paga com o retorno financeiro e a visibilidade que o show traz.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -44,98 +121,24 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Gastar R$ 1,7 milhão em um show enquanto a cidade investe menos em saúde e apoio a autistas é um desrespeito com quem precisa de exames e atendimento. A prefeitura deveria priorizar serviços básicos e não festas milionárias.",
+          "text": "Gastar R$ 1,7 milhão em um único show enquanto a cidade investe menos em saúde e apoio a autistas é um desrespeito com a população. Esse dinheiro deveria ir para exames, tratamentos e serviços básicos, não para festa de Réveillon.",
           "source": "sintese",
           "evidence": [
             1,
             2,
-            6
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Falta transparência sobre como esses contratos são feitos e qual o critério para escolher artistas tão caros. Uma lei que limite gastos com shows ou que exija detalhamento como na Lei Rouanet ajudaria a população a cobrar e entender melhor o uso do dinheiro público.",
-          "source": "sintese",
-          "evidence": [
-            3,
-            4,
+            6,
             7
           ],
           "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n25nvn3g6k2l",
-      "rank": 2,
-      "title": "Jensen Huang pode virar deputado pelo PL em Santa Catarina, diz post",
-      "label": "Jensen Huang · PL Santa Catarina",
-      "context": "Um post no Bluesky ironiza a atenção dada a Jensen Huang, sugerindo que ele pode se candidatar a deputado pelo PL em Santa Catarina. A brincadeira reflete a insatisfação de parte dos usuários com a política catarinense, que já aparece em outras postagens sobre o estado.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/aphelionn.bsky.social/post/3n25nvn3g6k2l",
-      "createdAt": "2026-11-12T23:49:43.277000+00:00",
-      "rawScore": 0.5072791954398699,
-      "relevanceScore": 0.920854269731182,
-      "suggestedRadius": 93.58,
-      "imageUrl": "assets/images/bsky_3n25nvn3g6k2l_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n25nvn3g6k2l_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "fica dando atenção pra esse jensen huang, aí quando ele virar deputado pelo PL santa catarina vcs reclama",
-          "url": "https://bsky.app/profile/aphelionn.bsky.social/post/3n25nvn3g6k2l",
-          "subreddit": "bsky_sc"
-        },
-        {
-          "title": "Santa Catarina é o estado com o maior número de prefeitos presos do Brasil: 30 no total, nenhum deles de esquerda. Em Santa Catarina, Flávio Bolsonaro teve 67% dos votos, contra Lula. Santa Catarina é o estado onde não há nenhum prefeito ou deputado de esquerda.",
-          "url": "https://bsky.app/profile/ribeirotrilhas.bsky.social/post/3n22l3izluk2o",
-          "subreddit": "bsky_sc"
-        },
-        {
-          "title": "Coitadas das pessoas de Santa Catarina, reelegeram um mentiroso para governador.",
-          "url": "https://bsky.app/profile/ribeirotrilhas.bsky.social/post/3n25d2dq5w224",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A piada com Jensen Huang é uma forma de criticar a falta de opção política em Santa Catarina, que reelegeu um governador mentiroso e tem maioria de direita. O humor serve para expor a situação, não para elogiar o PL.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            4,
-            19
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Ficar dando atenção a esse tipo de piada só fortalece a extrema direita em Santa Catarina, que já domina o estado. Em vez de brincar, é preciso mostrar que a esquerda existe e cresceu nas últimas eleições, elegendo deputados federais e estaduais.",
-          "source": "sintese",
-          "evidence": [
-            5,
-            10,
-            13
-          ],
-          "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A brincadeira sobre Jensen Huang viralizou, mas o foco deveria ser os problemas reais de Santa Catarina, como a contaminação dos rios por dejetos de porco e a falta de apoio político após os tornados. A piada desvia a atenção do que importa.",
+          "text": "A prefeitura precisa explicar como esse contrato foi feito e qual o retorno esperado. Sem transparência e sem critérios claros, fica difícil saber se o gasto se justifica ou se é apenas mais um caso de prioridade errada.",
           "source": "sintese",
           "evidence": [
-            6,
-            16
+            3,
+            4
           ],
           "votes": 0
         }
@@ -146,16 +149,16 @@
     {
       "id": "bsky_3n26wlhuns22t",
       "rank": 3,
-      "title": "Prefeito de Florianópolis paga show de 'artista' com dinheiro público",
-      "label": "Show de 'artista' pago pela prefeitura",
-      "context": "O prefeito de Florianópolis usou verba pública para pagar um show de uma artista que, segundo o post, posou ao lado de um bandido. O caso gerou críticas nas redes por suposto mau-gosto e uso indevido do dinheiro público.",
+      "title": "Prefeito de Florianópolis paga show de artista e é criticado por gasto e pose com bandido",
+      "label": "Show pago pela prefeitura · Críticas ao gasto",
+      "context": "O prefeito de Florianópolis autorizou o pagamento de um show artístico com dinheiro público, e a artista se apresentou ao lado de uma pessoa considerada bandida em uma foto. A crítica questiona o valor gasto e a associação da artista com essa figura.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/hospiciobrasil.bsky.social/post/3n26wlhuns22t",
       "createdAt": "2026-11-13T11:57:47.978000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 0.9046636946459593,
-      "suggestedRadius": 93.07,
+      "rawScore": 0.8896295537907306,
+      "relevanceScore": 0.7936756201946682,
+      "suggestedRadius": 89.45,
       "imageUrl": "assets/images/bsky_3n26wlhuns22t_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n26wlhuns22t_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -171,7 +174,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A prefeitura tem o direito de patrocinar eventos culturais, e o show faz parte da agenda da cidade. Se a artista tem talento ou não, isso é subjetivo, e o valor pago segue os trâmites legais. Não vejo problema em usar verba pública para entretenimento.",
+          "text": "O prefeito tem o direito de apoiar a cultura local e trazer eventos para a cidade, e a artista é uma profissional que merece ser paga pelo seu trabalho. A foto ao lado de alguém não define seu caráter, e o valor pago faz parte da política cultural do município.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -179,7 +182,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O prefeito está usando o dinheiro do contribuinte para bancar um show de uma artista sem qualidade e que ainda posa com bandido. Isso é um desrespeito com a população, e o valor pago é muito acima do normal, o que levanta suspeita de rachadinha.",
+          "text": "O valor pago é muito mais alto que os outros shows dela, o que levanta suspeita de rachadinha. Além disso, a prefeitura não deveria financiar esse tipo de arte e a artista posou ao lado de um bandido, mostrando falta de caráter.",
           "source": "sintese",
           "evidence": [
             3,
@@ -191,7 +194,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O problema não é só o show, mas a falta de critérios claros para o uso de verba pública em eventos. Deveria haver limites baseados no público e no valor, como acontece com a Lei Rouanet. Assim, casos como esse poderiam ser evitados.",
+          "text": "O financiamento de música deveria passar obrigatoriamente pela Lei Rouanet ou ser limitado a grupos pequenos, com valor proporcional ao público. O caso mostra a falta de critérios claros para o uso do dinheiro público em shows.",
           "source": "sintese",
           "evidence": [
             8
@@ -203,8 +206,75 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n27jfe6his2y",
+      "id": "bsky_3n27gogs2us26",
       "rank": 4,
+      "title": "Prefeitura contrata cantora sertaneja e gera suspeita",
+      "label": "Contratação de cantora sertaneja · Suspeita de irregularidad",
+      "context": "Uma prefeitura contratou a cantora sertaneja Ana Castela para um show, e o caso virou notícia após questionamentos sobre o valor e a forma da contratação. O episódio levanta dúvidas sobre o uso de dinheiro público em eventos e sobre a transparência do processo.",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/samucabks.bsky.social/post/3n27gogs2us26",
+      "createdAt": "2026-11-13T16:45:48.677000+00:00",
+      "rawScore": 0.4714905768108499,
+      "relevanceScore": 0.548278709623373,
+      "suggestedRadius": 80.43,
+      "imageUrl": "assets/images/bsky_3n27gogs2us26_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27gogs2us26_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "iclnoticias.com.br/prefeitura-d... Mas eles gostam...",
+          "url": "https://bsky.app/profile/samucabks.bsky.social/post/3n27gogs2us26",
+          "subreddit": "bsky_sc"
+        },
+        {
+          "title": "iclnoticias.com.br/prefeitura-d...",
+          "url": "https://bsky.app/profile/nildete.bsky.social/post/3n27awlrmt22m",
+          "subreddit": "bsky_sc"
+        },
+        {
+          "title": "Devo viver numa bolha mesmo pq nunca ouvi uma música sequer dessa mulher, só vejo em noticia de contratação suspeita. Mas pelo jeito ela é muito popular iclnoticias.com.br/prefeitura-d...",
+          "url": "https://bsky.app/profile/maruchan.bsky.social/post/3n2745zr2cc2e",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A cantora é uma das maiores estrelas do sertanejo atual e lota shows por onde passa. Contratar um nome popular como esse movimenta a economia local e dá retorno de imagem para a cidade, então não vejo problema no gasto.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Prefeitura tem é que investir em saúde, educação e infraestrutura, não em cachê de artista milionário. Esse tipo de contratação suspeita de superfaturamento é um clássico desvio de dinheiro público que deveria ser investigado.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Nunca tinha ouvido falar dessa cantora até ver a notícia da contratação. Isso mostra como o debate público fica restrito a bolhas: muita gente só conhece o assunto pelo viés da suspeita, sem saber o valor real do contrato ou o impacto do evento.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27jfe6his2y",
+      "rank": 5,
       "title": "SC: campanha reúne doações para indígenas atingidos por tempestades",
       "label": "Doações para indígenas atingidos por tempestades em SC",
       "context": "Uma campanha está arrecadando doações para indígenas afetados por tempestades em Santa Catarina, com pontos de coleta em Florianópolis, Lages e Chapecó. A ação busca ajudar as comunidades a lidar com os impactos das chuvas fortes.",
@@ -212,11 +282,11 @@
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/sul21.com.br/post/3n27jfe6his2y",
       "createdAt": "2026-11-13T17:34:21.975000+00:00",
-      "rawScore": 0.4505782193071118,
-      "relevanceScore": 0.4506119418872985,
-      "suggestedRadius": 76.28,
-      "imageUrl": "assets/images/bsky_3n27jfe6his2y_og.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27jfe6his2y_og_thumb.jpg",
+      "rawScore": 0.2833491720573092,
+      "relevanceScore": 0.2206600214553315,
+      "suggestedRadius": 64.18,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-sc",
       "sources": [
@@ -230,7 +300,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A campanha mostra solidariedade e organização da sociedade civil para ajudar os indígenas atingidos pelas tempestades, com pontos de coleta em cidades estratégicas como Florianópolis, Lages e Chapecó. É uma forma concreta de apoio em um momento difícil.",
+          "text": "A campanha mostra solidariedade e organização da sociedade civil para ajudar os indígenas, que muitas vezes são esquecidos em situações de emergência. Doar é uma forma concreta de apoiar quem perdeu tudo nas tempestades.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -238,7 +308,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Doações emergenciais não resolvem o problema de fundo: a falta de infraestrutura e de políticas públicas para prevenir desastres e proteger as comunidades indígenas. A campanha é bem-intencionada, mas paliativa diante da recorrência de tempestades.",
+          "text": "Doações emergenciais não resolvem o problema de fundo: a falta de infraestrutura e de políticas públicas para proteger as comunidades indígenas dos eventos climáticos extremos. É preciso cobrar do poder público ações estruturais, não só campanhas pontuais.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -246,67 +316,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A iniciativa é válida, mas é preciso saber como as doações serão distribuídas e se vão chegar de fato às comunidades indígenas. Sem transparência na logística, a ajuda pode perder eficácia.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n27dvo35d22b",
-      "rank": 5,
-      "title": "Prefeito de Florianópolis paga R$ 1,7 milhão por show de 1,5 hora",
-      "label": "Cachê de R$ 1,7 milhão em Florianópolis",
-      "context": "O prefeito de Florianópolis, Topázio Neto, pagou R$ 1,7 milhão por uma apresentação de 1,5 hora, o que equivale a cerca de R$ 19 mil por minuto. O valor chamou atenção ao ser comparado ao salário mensal de um gari na cidade, de R$ 2.650.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/belga.bsky.social/post/3n27dvo35d22b",
-      "createdAt": "2026-11-13T15:56:07.674000+00:00",
-      "rawScore": 0.3138235331563598,
-      "relevanceScore": 0.4134786065978647,
-      "suggestedRadius": 74.58,
-      "imageUrl": "assets/images/bsky_3n27dvo35d22b_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27dvo35d22b_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "Nada como ser AMIGA do Rei Topazio Neto (P$D) Prefeito de Florianópolis! R$ 1,7 Milhões pra abrir o berrante por apenas 1,5 hora. Calculando: R$ 1.700.000,00 / 90 Minutos = R$ 19.000,00 POR MINUTO! Ou 12 Salários Mínimos POR MINUTO! Um GARI em Florianópolis ganha R$ 2.650,00/Mês por 40 Horas ++",
-          "url": "https://bsky.app/profile/belga.bsky.social/post/3n27dvo35d22b",
-          "subreddit": "bsky_sc"
-        },
-        {
-          "title": "Peraí, peraí, peraí que o prefeito de São José e o prefeito de Florianópolis também são BEM feios! Vamos checar os fatos!",
-          "url": "https://bsky.app/profile/afasia.bsky.social/post/3mztt4fjv7k2f",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O cachê de R$ 1,7 milhão para uma apresentação de 1,5 hora é um desrespeito com o trabalhador que ganha R$ 2.650 por mês. Um gari precisaria de 53 anos limpando a cidade para receber o que a cantora ganhou em 90 minutos.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O valor pago pelo show é justificável porque eventos movimentam a economia e geram receita para a cidade. O cachê de R$ 1,7 milhão pode ser compensado pelo retorno em impostos e turismo, e comparar com salário de gari é simplista.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O cálculo do cachê por minuto impressiona, mas é preciso verificar se o valor de R$ 1,7 milhão é o custo total ou se inclui estrutura e produção. Sem esses dados, a comparação com o salário do gari fica distorcida.",
+          "text": "A iniciativa é válida, mas é preciso garantir que as doações cheguem de fato às aldeias e sejam distribuídas de forma transparente. Sem logística adequada e prestação de contas, a ajuda pode não alcançar quem mais precisa.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -319,15 +329,15 @@
       "id": "bsky_3n276kmkkj224",
       "rank": 6,
       "title": "Carro rebaixado, som, eletrônica, Florianópolis e praia",
-      "label": "Viagem a Florianópolis · Carro rebaixado e som",
-      "context": "Posts no Bluesky mostram uma viagem de última hora a Florianópolis em um carro rebaixado com som e eletrônica, feita durante horário de trabalho. A situação gerou comentários sobre a liberdade de trabalhar remotamente e os perrengues de uma viagem improvisada.",
+      "label": "Viagem a Florianópolis · trabalho remoto",
+      "context": "Um post no Bluesky descreve uma viagem de última hora a Florianópolis em um carro rebaixado com som e eletrônica, enquanto a pessoa trabalha durante o trajeto. A situação gerou comentários sobre a flexibilidade do trabalho remoto e as expectativas em torno da liberdade de horários.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/mathenzbr.bsky.social/post/3n276kmkkj224",
       "createdAt": "2026-11-13T14:20:28.076000+00:00",
-      "rawScore": 0.20089654869837886,
-      "relevanceScore": 0.29938824108900036,
-      "suggestedRadius": 68.83,
+      "rawScore": 0.15753630657051781,
+      "relevanceScore": 0.196263430343803,
+      "suggestedRadius": 62.58,
       "imageUrl": "assets/images/bsky_3n276kmkkj224_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n276kmkkj224_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -348,17 +358,15 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Trabalhar de qualquer lugar é a maior vantagem de quem tem liberdade profissional. Se a pessoa consegue produzir no carro enquanto o parceiro dirige, não vejo problema nenhum em viajar em horário comercial — o resultado é o que importa.",
+          "text": "Trabalhar de dentro do carro numa viagem de última hora é exatamente a liberdade que o trabalho remoto permite. Se a pessoa entrega as tarefas, o horário e o local não deveriam ser motivo de crítica.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A tal liberdade de trabalhar de qualquer lugar vira desculpa para se ausentar do trabalho sem assumir o custo. Viajar em horário comercial e chamar de 'perrengue chique' só mostra que a flexibilidade é privilégio de quem pode se dar a esse luxo.",
+          "text": "Decidir viajar em horário de trabalho e ainda reclamar do perrengue soa contraditório. A tal liberdade tem limites, e quem escolhe esse estilo de vida precisa assumir os custos e as críticas que vêm junto.",
           "source": "sintese",
           "evidence": [
             1
@@ -368,9 +376,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Viagem de última hora em carro rebaixado com som e eletrônica tem seu charme, mas também seus perrengues. Depende do combinado com o trabalho e da tolerância de cada um — não dá para julgar sem saber o contexto completo da rotina da pessoa.",
+          "text": "A viagem em si não é o problema, mas o relato mistura trabalho e lazer de um jeito que gera cobrança. Cada um organiza a rotina como quer, desde que as obrigações sejam cumpridas e ninguém saia prejudicado.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
@@ -378,26 +388,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n27awlrmt22m",
+      "id": "bsky_3n27dvo35d22b",
       "rank": 7,
-      "title": "Prefeitura divulga notícia em site de notícias local",
-      "label": "Prefeitura · Divulgação em portal de notícias",
-      "context": "A Prefeitura publicou uma notícia no site iclnoticias.com.br, conforme divulgado em uma postagem no Bluesky em 13 de novembro de 2026. O conteúdo específico da publicação não está detalhado nas fontes disponíveis.",
+      "title": "Prefeito de Florianópolis paga R$ 1,7 milhão por show de 1,5 hora",
+      "label": "Cachê de Ana Castela em Florianópolis",
+      "context": "O prefeito de Florianópolis, Topázio Neto, pagou R$ 1,7 milhão por uma apresentação de 1,5 hora da cantora Ana Castela. O valor equivale a cerca de R$ 19 mil por minuto, enquanto um gari da cidade recebe R$ 2.650 por mês.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/nildete.bsky.social/post/3n27awlrmt22m",
-      "createdAt": "2026-11-13T15:02:59.378000+00:00",
-      "rawScore": 0.2690665253397809,
-      "relevanceScore": 0.2672303027842776,
-      "suggestedRadius": 67.02,
-      "imageUrl": "assets/images/bsky_3n27awlrmt22m_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27awlrmt22m_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/belga.bsky.social/post/3n27dvo35d22b",
+      "createdAt": "2026-11-13T15:56:07.674000+00:00",
+      "rawScore": 0.2239578090653273,
+      "relevanceScore": 0.16452728411111117,
+      "suggestedRadius": 60.34,
+      "imageUrl": "assets/images/bsky_3n27dvo35d22b_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27dvo35d22b_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sc",
       "sources": [
         {
-          "title": "iclnoticias.com.br/prefeitura-d...",
-          "url": "https://bsky.app/profile/nildete.bsky.social/post/3n27awlrmt22m",
+          "title": "Nada como ser AMIGA do Rei Topazio Neto (P$D) Prefeito de Florianópolis! R$ 1,7 Milhões pra abrir o berrante por apenas 1,5 hora. Calculando: R$ 1.700.000,00 / 90 Minutos = R$ 19.000,00 POR MINUTO! Ou 12 Salários Mínimos POR MINUTO! Um GARI em Florianópolis ganha R$ 2.650,00/Mês por 40 Horas ++",
+          "url": "https://bsky.app/profile/belga.bsky.social/post/3n27dvo35d22b",
           "subreddit": "bsky_sc"
         }
       ],
@@ -405,7 +415,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A prefeitura usar um portal local para divulgar suas ações aproxima a informação do cidadão, que muitas vezes não acompanha os canais oficiais. Isso facilita o acesso a notícias sobre serviços e obras que impactam o dia a dia da população.",
+          "text": "O cachê de R$ 1,7 milhão para Ana Castela se justifica pelo retorno que um show desse porte traz para a cidade, movimentando hotéis, restaurantes e o comércio local. Eventos assim geram empregos e impostos que compensam o investimento público.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -413,15 +423,17 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Publicar notícia em site de terceiros sem deixar claro o caráter oficial da informação pode confundir o leitor, que não sabe se aquilo é jornalismo ou assessoria. A prefeitura deveria divulgar suas ações no próprio portal oficial, com transparência sobre a origem.",
+          "text": "Um gari que tira o lixo de Florianópolis por 40 horas semanais ganha R$ 2.650 por mês, e o prefeito paga R$ 19 mil por minuto para uma cantora se apresentar por 1,5 hora. Esse contraste mostra o desprezo com quem faz o trabalho pesado na cidade.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Sem saber o teor da publicação, fica difícil avaliar se a iniciativa é positiva ou problemática. O formato de divulgação em portal local pode ser útil, mas depende do conteúdo e da clareza sobre quem produziu a informação.",
+          "text": "O valor de R$ 1,7 milhão por 1,5 hora de show chama atenção, mas sem comparar com o orçamento total da cultura e o retorno econômico do evento fica difícil julgar se é caro ou não. O cálculo por minuto impressiona, mas pode distorcer a análise.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -431,26 +443,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2745zr2cc2e",
+      "id": "bsky_3mzvgbgnct22b",
       "rank": 8,
-      "title": "Nunca ouvi música dessa cantora, só notícias de contratação suspeita",
-      "label": "Cantora country pop · Contratação suspeita",
-      "context": "Um usuário do Bluesky afirmou nunca ter ouvido uma música da cantora, mas só vê notícias sobre uma contratação suspeita envolvendo seu nome. Apesar disso, ele reconhece que a artista parece ser muito popular, o que gerou comentários sobre seu estilo musical.",
+      "title": "Anúncio da OAB aparece no Instagram uma semana após evento",
+      "label": "OAB · Anúncio antigo no Instagram",
+      "context": "Um anúncio da OAB continuava sendo exibido no Instagram cerca de uma semana depois do evento que promovia. A campanha segue no ar mesmo após a data, o que gerou críticas ao gasto e à atuação da entidade.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/maruchan.bsky.social/post/3n2745zr2cc2e",
-      "createdAt": "2026-11-13T13:37:37.081000+00:00",
-      "rawScore": 0.23413776248352888,
-      "relevanceScore": 0.2319417015684625,
-      "suggestedRadius": 64.9,
-      "imageUrl": "assets/images/bsky_3n2745zr2cc2e_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2745zr2cc2e_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/mulhertamarindo.bsky.social/post/3mzvgbgnct22b",
+      "createdAt": "2026-11-09T17:11:54.374000+00:00",
+      "rawScore": 0.19061421903965528,
+      "relevanceScore": 0.13301315669030933,
+      "suggestedRadius": 57.88,
+      "imageUrl": "assets/images/bsky_3mzvgbgnct22b_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzvgbgnct22b_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sc",
       "sources": [
         {
-          "title": "Devo viver numa bolha mesmo pq nunca ouvi uma música sequer dessa mulher, só vejo em noticia de contratação suspeita. Mas pelo jeito ela é muito popular iclnoticias.com.br/prefeitura-d...",
-          "url": "https://bsky.app/profile/maruchan.bsky.social/post/3n2745zr2cc2e",
+          "title": "Acabou de aparecer no meu Instagram 💀",
+          "url": "https://bsky.app/profile/mulhertamarindo.bsky.social/post/3mzvgbgnct22b",
           "subreddit": "bsky_sc"
         }
       ],
@@ -458,7 +470,77 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A cantora é uma estrela do country pop jovem atual, com grande popularidade entre o público. O fato de alguém nunca ter ouvido suas músicas só mostra que existem bolhas musicais, mas ela tem seu mérito e sucesso consolidado.",
+          "text": "A OAB está certa em litigar em causa estrangeira: defender advogados e a própria instituição em outro país é papel dela, e quem critica não entende que isso protege a categoria.",
+          "source": "sintese",
+          "evidence": [
+            11
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A OAB só é eficaz em cobrar anuidade dos advogados; fora isso, coleciona vergonha, e esse anúncio rodando uma semana depois do evento é mais uma prova de dinheiro jogado fora.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3,
+            10
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O anúncio continuar no ar uma semana depois do evento mostra falta de controle da campanha, mas o motivo de a OAB estar se prestando a esse papel ainda não está claro.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            12
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n25hgjkwyc2b",
+      "rank": 9,
+      "title": "Em Florianópolis, há incentivo para investir em Airbnb nas novas fronteiras turísticas da cidade",
+      "label": "Incentivo a Airbnb em Florianópolis",
+      "context": "A cidade de Florianópolis oferece incentivos para quem quer investir em Airbnb nas novas fronteiras turísticas da cidade. A medida busca atrair investimentos para essas áreas, mas levanta discussões sobre seus efeitos.",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/magalud1.bsky.social/post/3n25hgjkwyc2b",
+      "createdAt": "2026-11-12T21:53:52.983000+00:00",
+      "rawScore": 0.1778938245488862,
+      "relevanceScore": 0.1209906920271965,
+      "suggestedRadius": 56.87,
+      "imageUrl": "assets/images/bsky_3n25hgjkwyc2b_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n25hgjkwyc2b_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "Em Florianópolis, tem INCENTIVO para quem quer investir em airbnb nas novas fronteiras turísticas da cidade.",
+          "url": "https://bsky.app/profile/magalud1.bsky.social/post/3n25hgjkwyc2b",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Incentivar o Airbnb em novas fronteiras turísticas é uma forma de desenvolver regiões que ainda não recebem tantos visitantes, gerando renda e empregos para a cidade.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A prefeitura dá incentivo para quem constrói estúdios para Airbnb, mas isso pode agravar a especulação imobiliária e expulsar moradores das áreas valorizadas.",
           "source": "sintese",
           "evidence": [
             1
@@ -466,17 +548,9 @@
           "votes": 0
         },
         {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Só vejo notícias de contratação suspeita envolvendo essa cantora, o que mancha sua imagem. A popularidade não apaga a desconfiança sobre como ela conseguiu espaço, e isso deveria ser investigado com seriedade.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
           "id": "op3",
           "tone": "neutral",
-          "text": "Acho curioso como cada pessoa vive em sua bolha musical: nunca ouvi falar dela, mas pelos comentários parece ser bem conhecida. Talvez seja só uma questão de nicho, e não dá para julgar sem conhecer melhor o trabalho dela.",
+          "text": "O incentivo ao Airbnb em novas fronteiras turísticas precisa ser avaliado com cautela, pois pode trazer benefícios econômicos, mas também impactos sociais que exigem regulação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -487,17 +561,17 @@
     },
     {
       "id": "bsky_3n252dwzwyc2q",
-      "rank": 9,
+      "rank": 10,
       "title": "Agenda de festas e shows em novembro no Rio e em Florianópolis",
       "label": "Agenda de shows · Rio e Floripa",
-      "context": "Posts no Bluesky divulgam festas e shows de sound system, reggae e ska marcados para novembro no Rio de Janeiro e em Florianópolis, com datas e locais específicos. A divulgação serve para o público se organizar e comparecer aos eventos, que incluem desde encontros de sound system até apresentações de DJs.",
+      "context": "Posts divulgam eventos musicais em novembro de 2026 no Rio de Janeiro e em Florianópolis, como o Bangarang Sound System no Moto Cerva e as festas Sattivas no Tio Gether's e no Jungle Floripa. A divulgação serve para informar o público sobre opções de lazer e atrações locais nessas cidades.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/skatapla.bsky.social/post/3n252dwzwyc2q",
       "createdAt": "2026-11-12T17:59:58.271000+00:00",
-      "rawScore": 0.052912703853114286,
-      "relevanceScore": 0.14987985716429267,
-      "suggestedRadius": 59.23,
+      "rawScore": 0.0655000874457753,
+      "relevanceScore": 0.10927696204231364,
+      "suggestedRadius": 55.83,
       "imageUrl": "assets/images/bsky_3n252dwzwyc2q_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n252dwzwyc2q_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -518,7 +592,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A divulgação detalhada desses eventos no Bluesky ajuda quem gosta de sound system e reggae a montar a agenda do mês, com data, local e atrações bem especificados. Isso fortalece a cena local e facilita a vida de quem não quer perder os shows.",
+          "text": "A agenda divulgada é útil porque reúne opções de festas e shows em diferentes cidades, como o Bangarang Sound System no Rio e as Sattivas em Florianópolis, facilitando a vida de quem quer sair e não sabe onde encontrar eventos.",
           "source": "sintese",
           "evidence": [
             1,
@@ -529,17 +603,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A quantidade de posts com agendas de festas acaba poluindo a timeline e dificultando a conversa sobre outros assuntos. Muita gente entra na rede para debater ideias e se depara com uma enxurrada de divulgação de eventos.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A agenda divulgada cobre principalmente Rio e Florianópolis, mas os comentários mostram que há eventos semelhantes em São Paulo e Campinas. Seria útil ter uma lista mais ampla ou uma forma de filtrar por região para não sobrecarregar quem segue vários perfis.",
+          "text": "A divulgação peca por não trazer informações essenciais como horário, preço ou endereço completo dos eventos, o que atrapalha quem realmente quer ir. Sem esses dados, a agenda vira só uma lista de nomes e locais.",
           "source": "sintese",
           "evidence": [
             1,
@@ -547,58 +611,17 @@
             3
           ],
           "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2746ygubc2z",
-      "rank": 10,
-      "title": "Lavanderia descarada: desde quando Florianópolis é brega assim?",
-      "label": "Lavanderia 'descarada' em Florianópolis",
-      "context": "Um post no Bluesky critica uma lavanderia em Florianópolis e questiona se a cidade estaria ficando brega. A publicação repercutiu como um comentário sobre estética urbana e os rumos visuais da cidade.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/xenotar.bsky.social/post/3n2746ygubc2z",
-      "createdAt": "2026-11-13T13:38:10.672000+00:00",
-      "rawScore": 0.1427921023201308,
-      "relevanceScore": 0.1396549925439388,
-      "suggestedRadius": 58.42,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "Lavanderia descarada Desde quando Florianópolis é brega assim?",
-          "url": "https://bsky.app/profile/xenotar.bsky.social/post/3n2746ygubc2z",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A crítica tem fundamento: Florianópolis sempre teve uma identidade visual ligada à natureza e ao simples, e uma lavanderia chamativa dessas destoa do que a cidade representa. Quem cresceu aqui estranha esse tipo de intervenção que parece importada de outro lugar.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Chamar uma lavanderia de brega é um julgamento estético que não leva em conta o contexto. O comércio local precisa chamar atenção para sobreviver, e quem decide o que é bom gosto para uma cidade inteira? Florianópolis é diversa e comporta estilos diferentes.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post fala de uma lavanderia específica, mas o debate virou sobre a cidade toda. Sem ver o caso concreto fica difícil concordar ou discordar: pode ser só um estabelecimento com identidade forte ou parte de um padrão que incomoda os moradores.",
+          "text": "A lista mistura eventos de cidades e estilos bem diferentes, como o Rio e Florianópolis, e isso pode confundir quem procura uma opção específica. Seria mais claro separar por local ou data para facilitar a escolha.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1,
+            2,
+            3
+          ],
           "votes": 0
         }
       ],

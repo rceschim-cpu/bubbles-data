@@ -1,21 +1,74 @@
 {
-  "generatedAt": "2026-11-13T19:28:36.491411+00:00",
+  "generatedAt": "2026-11-14T05:38:24.414303+00:00",
   "region": "br-al",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n26vrrvkl42v",
+      "id": "bsky_3n27w6je5ks2n",
       "rank": 1,
-      "title": "Qual estado teve índice de alfabetização infantil superior a São Paulo no ano passado?",
+      "title": "Como ele não acabou, vim aqui curtir Penedo",
+      "label": "Penedo · Passeio após fim de relação",
+      "context": "Uma pessoa publicou no Bluesky que, como o relacionamento não terminou, foi curtir Penedo. O post viralizou como desabafo bem-humorado sobre a vida amorosa.",
+      "source": "bluesky",
+      "subreddit": "bsky_al",
+      "permalink": "https://bsky.app/profile/milafas.bsky.social/post/3n27w6je5ks2n",
+      "createdAt": "2026-11-13T21:23:17.369000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n27w6je5ks2n_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27w6je5ks2n_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-al",
+      "sources": [
+        {
+          "title": "como ele não acabou vim aqui curtir Penedo",
+          "url": "https://bsky.app/profile/milafas.bsky.social/post/3n27w6je5ks2n",
+          "subreddit": "bsky_al"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A atitude de transformar o fim em viagem é saudável: em vez de ficar remoendo, a pessoa foi curtir Penedo e seguir em frente. Viajar sozinho depois de um término ajuda a espairecer e a se reconectar consigo mesmo.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Postar que 'como ele não acabou' foi curtir Penedo soa como indireta pública para o ex. Expor a situação na rede não resolve o término e ainda transforma um momento pessoal em vitrine para chamar atenção.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Penedo é um destino bonito e o post é só um desabafo leve, sem grandes consequências. Cada um lida com o fim de um relacionamento do jeito que dá, e uma viagem pode ser só uma pausa para pensar.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n26vrrvkl42v",
+      "rank": 2,
+      "title": "Qual estado teve alfabetização infantil superior a São Paulo no ano passado?",
       "label": "Alfabetização infantil · Estados acima de SP",
-      "context": "Um post no Bluesky propôs um quiz perguntando qual estado teve índice de alfabetização infantil superior ao de São Paulo no ano anterior, com cinco opções. Nos comentários, a resposta apontada foi que quase todas as alternativas superaram São Paulo, exceto Santa Catarina, e que o estado paulista ficou abaixo da média nacional.",
+      "context": "Um post no Bluesky propôs um quiz perguntando qual estado teve índice de alfabetização infantil superior ao de São Paulo no ano anterior, com cinco alternativas. Nos comentários, a resposta apontada foi que quase todas as opções superaram São Paulo, exceto Santa Catarina, e que o estado paulista ficou abaixo da média nacional.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/corridadelesma.bsky.social/post/3n26vrrvkl42v",
       "createdAt": "2026-11-13T11:43:24.172000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.7205711436003173,
+      "relevanceScore": 0.8006346040003525,
+      "suggestedRadius": 89.69,
       "imageUrl": "assets/images/bsky_3n26vrrvkl42v_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n26vrrvkl42v_uns_thumb.jpg",
       "category": "geopolitica",
@@ -31,7 +84,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Estados como Rondônia, Acre, Piauí e Alagoas superaram São Paulo na alfabetização infantil, o que mostra que resultado educacional não depende só de riqueza. O estado mais rico do país ficar abaixo da média nacional é um alerta de que gestão importa mais do que arrecadação.",
+          "text": "O quiz escancara que São Paulo, o estado mais rico do país, ficou abaixo da média nacional em alfabetização infantil. Estados como Rondônia, Acre, Piauí e Alagoas superaram SP, o que mostra que dinheiro não é tudo quando o assunto é aprender a ler.",
           "source": "sintese",
           "evidence": [
             1
@@ -41,7 +94,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "São Paulo ficar abaixo da média nacional em alfabetização infantil é um resultado grave para o estado mais rico do país. Isso indica que o investimento público em educação básica não está sendo convertido em aprendizado real, e a comparação com estados mais pobres expõe essa falha.",
+          "text": "Santa Catarina teve um dos piores resultados do país nesse índice, então usar o estado como exceção no quiz só confunde. O dado real é que SP ficou abaixo da média, e isso deveria ser o centro da discussão, não uma pegadinha com alternativas misturadas.",
           "source": "sintese",
           "evidence": [
             1
@@ -51,64 +104,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O quiz em si é uma pegadinha: quase todas as alternativas superaram São Paulo, e só Santa Catarina teve um dos piores resultados. Isso mostra que a pergunta foi feita para confundir, e o dado real é que São Paulo ficou abaixo da média nacional, o que merece análise cuidadosa.",
+          "text": "A pergunta é capciosa porque mistura estados com realidades muito diferentes. Sem ver os números exatos de cada alternativa, fica difícil saber o tamanho da diferença entre eles e São Paulo, e a pegadinha acaba escondendo o dado principal: SP abaixo da média nacional.",
           "source": "sintese",
           "evidence": [
             1
           ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n26rugiunk26",
-      "rank": 2,
-      "title": "Você listou tudo isso e a única coisa que penso é \"saudades Maceió\"",
-      "label": "Saudades de Maceió · Reação a lista",
-      "context": "Um usuário do Bluesky publicou uma mensagem dizendo que, depois de ver uma lista extensa de itens, sua única reação foi sentir saudades de Maceió. O post viralizou como reação afetiva a uma listagem, sem que o conteúdo da lista tenha sido detalhado.",
-      "source": "bluesky",
-      "subreddit": "bsky_al",
-      "permalink": "https://bsky.app/profile/majubengel.bsky.social/post/3n26rugiunk26",
-      "createdAt": "2026-11-13T10:33:03.376000+00:00",
-      "rawScore": 0.5593526816708315,
-      "relevanceScore": 0.6215029796342573,
-      "suggestedRadius": 83.3,
-      "imageUrl": "assets/images/bsky_3n26rugiunk26_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n26rugiunk26_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-al",
-      "sources": [
-        {
-          "title": "você listou tudo isso e a unica coisa que penso é \"saudades maceio\"",
-          "url": "https://bsky.app/profile/majubengel.bsky.social/post/3n26rugiunk26",
-          "subreddit": "bsky_al"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A reação é genuína: diante de tanta informação listada, o que fica é a lembrança de Maceió, e isso mostra como a cidade marca quem já viveu lá. Um comentário simples assim vale mais do que qualquer lista.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Listar tudo e a pessoa só pensar em Maceió é um jeito de fugir do assunto: a lista existia por algum motivo, e responder com saudade da cidade ignora o que estava sendo discutido.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Depende do que era a lista: se for algo pesado ou burocrático, a saudade de Maceió funciona como válvula de escape; se for uma lista de coisas boas, a reação parece só deslocada.",
-          "source": "sintese",
-          "evidence": [],
           "votes": 0
         }
       ],
@@ -118,16 +118,16 @@
     {
       "id": "bsky_3n24suw3brs27",
       "rank": 3,
-      "title": "Sauna gratuita em qualquer lugar de Maceió: hora de desidratar",
+      "title": "Sauna gratuita em qualquer lugar de Maceió: a hora de desidratar é agora",
       "label": "Calor em Maceió · Sauna gratuita",
-      "context": "Um post no Bluesky afirma que a cidade de Maceió oferece sauna gratuita em qualquer lugar, em tom de brincadeira sobre o calor. A publicação viraliza ao sugerir que o momento é de desidratar, e comentários reagem com humor à temperatura.",
+      "context": "Uma publicação no Bluesky descreve o calor em Maceió como uma 'sauna gratuita em qualquer lugar da cidade' e brinca que 'a hora de desidratar é agora'. O comentário aparece em meio a críticas ao preço de experiências gastronômicas na cidade e a divulgações de eventos locais.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/yaasmineyas.bsky.social/post/3n24suw3brs27",
       "createdAt": "2026-11-12T15:46:07.386000+00:00",
-      "rawScore": 0.35920381421173087,
-      "relevanceScore": 0.5102264602352565,
-      "suggestedRadius": 78.86,
+      "rawScore": 0.40906924092339725,
+      "relevanceScore": 0.6306283233283476,
+      "suggestedRadius": 83.65,
       "imageUrl": "assets/images/bsky_3n24suw3brs27_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n24suw3brs27_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -136,6 +136,11 @@
         {
           "title": "Dia de sauna (em qualquer lugar da cidade) gratuita aqui em Maceió. A hora de desidratar é agoraaaa",
           "url": "https://bsky.app/profile/yaasmineyas.bsky.social/post/3n24suw3brs27",
+          "subreddit": "bsky_al"
+        },
+        {
+          "title": "Jamais vou achar normal pagar pela \"experiência\" pra comer meio galeto com macarrão por 98 reais na minha incrível Maceió (e em nenhum outro lugar)",
+          "url": "https://bsky.app/profile/sassenachisalive.bsky.social/post/3n254xu2xnc23",
           "subreddit": "bsky_al"
         },
         {
@@ -148,7 +153,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O calor em Maceió virou piada boa: chamar a cidade de sauna gratuita é um jeito leve de encarar a temperatura e ainda rende interação. Quem mora aí sabe que é melhor rir do que reclamar.",
+          "text": "O calor de Maceió virou piada boa: chamar a cidade de sauna gratuita é um jeito leve de encarar o que todo mundo sente. Quem mora aqui sabe que reclamar não refresca, então rir e se reidratar é o melhor remédio.",
           "source": "sintese",
           "evidence": [
             1
@@ -158,18 +163,81 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Brincar com 'hora de desidratar' é perigoso, porque calor extremo causa desidratação de verdade e muita gente não tem acesso a água gelada ou sombra. A piada esconde um problema sério de saúde pública.",
+          "text": "Pagar R$ 98 por meio galeto com macarrão é o que realmente desidrata o bolso em Maceió. A cidade tem calor de sobra de graça, mas cobrar caro por uma experiência simples é demais para o bolso do morador.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post é engraçado, mas o comentário que lembra de reidratar mostra que o calor em Maceió é real e exige cuidado. Dá para rir da sauna gratuita sem esquecer de beber água.",
+          "text": "O Festival Carambola completa 10 anos em 14/11 na Arena Alagoas, com Gaby Amarantos, Marcelo D2 e Arnaldo Antunes. Quem foi em 2024 diz que é o melhor festival, então o calor vira detalhe perto da programação.",
           "source": "sintese",
           "evidence": [
-            1
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2234ua4bs2t",
+      "rank": 4,
+      "title": "Alagoas e Tocantins superam taxa de crescimento do Vietnã, diz análise",
+      "label": "Crescimento de renda por estado · Comparação internacional",
+      "context": "Uma análise compara o crescimento da renda domiciliar per capita entre 2019 e 2025 em estados brasileiros com taxas históricas de países como Vietnã, China e Geórgia. Alagoas e Tocantins registraram 42% de crescimento, superando o milagre vietnamita, enquanto o Amapá teve o maior avanço, acima do boom da Geórgia.",
+      "source": "bluesky",
+      "subreddit": "bsky_al",
+      "permalink": "https://bsky.app/profile/nandabel23.bsky.social/post/3n2234ua4bs2t",
+      "createdAt": "2026-11-11T13:35:46.181000+00:00",
+      "rawScore": 0.5415336334198058,
+      "relevanceScore": 0.6017040371331175,
+      "suggestedRadius": 82.54,
+      "imageUrl": "assets/images/bsky_3n2234ua4bs2t_unsp.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2234ua4bs2t_unsp_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-al",
+      "sources": [
+        {
+          "title": "“Alagoas e Tocantins, com 42%, superaram a taxa do milagre do Vietnã. No Maranhão, esse crescimento foi maior que o dado da China. No Amapá, campeão, maior do que no boom da Geórgia (o país que você conhece pelo Kvaratskhelia).”",
+          "url": "https://bsky.app/profile/nandabel23.bsky.social/post/3n2234ua4bs2t",
+          "subreddit": "bsky_al"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Os números mostram que estados como Alagoas, Tocantins e Amapá cresceram muito acima da média nacional, o que indica que as transferências de renda estão chegando onde mais precisam. O indicador nacional esconde esse avanço porque é ponderado pelo peso econômico das regiões ricas.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A comparação com Vietnã, China e Geórgia é forçada, porque são economias e períodos completamente diferentes. Além disso, a PNAD é amostral e tem incerteza grande nos estados menores, então esses 42% podem estar superestimados. O dado do IBGE não permite conclusões tão otimistas.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O crescimento da renda no Piauí, por exemplo, foi mais que o triplo de São Paulo no mesmo período, mas isso reflete a base de comparação muito baixa. É preciso ver se esse avanço se sustenta sem as transferências e se a qualidade do dado estadual permite afirmar tanta coisa.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3
           ],
           "votes": 0
         }
@@ -179,17 +247,17 @@
     },
     {
       "id": "bsky_3n24n5a7yv22u",
-      "rank": 4,
-      "title": "Fontaines D.C. em Maceió se eu ganhar na mega sena",
+      "rank": 5,
+      "title": "Fontaines D.C. em Maceió se eu ganhar na Mega-Sena",
       "label": "Show do Fontaines D.C. em Maceió",
-      "context": "Um usuário do Bluesky publicou que traria a banda irlandesa Fontaines D.C. para se apresentar em Maceió caso ganhasse na Mega-Sena. A ideia virou conversa entre fãs, que começaram a imaginar onde o show aconteceria e como seria a organização.",
+      "context": "Um usuário do Bluesky publicou que traria a banda irlandesa Fontaines D.C. para se apresentar em Maceió caso ganhasse na Mega-Sena. A ideia virou conversa entre seguidores, que começaram a imaginar como seria o show na cidade.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/jeffbrito85.bsky.social/post/3n24n5a7yv22u",
       "createdAt": "2026-11-12T14:03:25.282000+00:00",
-      "rawScore": 0.4363155368726325,
-      "relevanceScore": 0.4847950409695917,
-      "suggestedRadius": 77.78,
+      "rawScore": 0.507873313222028,
+      "relevanceScore": 0.5643036813578088,
+      "suggestedRadius": 81.07,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -205,7 +273,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Beco da Rapariga seria o lugar certo pra esse show, e a galera de Aracaju já se ofereceu pra organizar a excursão inteira. Se o prêmio sair, a gente transforma essa brincadeira em noite de verdade.",
+          "text": "Um show do Fontaines D.C. no Beco da Rapariga seria histórico pra cena de Maceió, e a empolgação já apareceu na hora: tem gente de Aracaju até se oferecendo pra organizar a excursão.",
           "source": "sintese",
           "evidence": [
             1
@@ -215,7 +283,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Depender de ganhar na Mega-Sena pra trazer o Fontaines D.C. a Maceió mostra o quanto a cidade fica de fora das turnês internacionais. O show só existe na brincadeira porque a estrutura real não aparece.",
+          "text": "Sonhar com esse show é fácil, o difícil é a logística: trazer uma banda irlandesa até Maceió custa caro e depende de estrutura que a cidade raramente tem pra esse tipo de turnê.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -223,7 +291,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A ideia é divertida, mas fica no campo do desejo: ninguém sabe se a banda toparia, quanto custaria trazer o grupo e se o Beco da Rapariga comportaria o público. Por enquanto é conversa de fã, não plano de show.",
+          "text": "A brincadeira da Mega-Sena mostra o quanto falta de opção de show internacional em Maceió, mas também revela que o público local já tem ideia de onde fazer: o Beco da Rapariga foi o primeiro lugar que veio à cabeça.",
           "source": "sintese",
           "evidence": [
             1
@@ -235,92 +303,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2234ua4bs2t",
-      "rank": 5,
-      "title": "Alagoas e Tocantins superam taxa de crescimento do Vietnã, aponta IBGE",
-      "label": "Crescimento de renda nos estados · Comparação internacional",
-      "context": "Dados do IBGE mostram que a renda domiciliar per capita cresceu 42% em Alagoas e Tocantins entre 2019 e 2025, taxa superior à do milagre econômico vietnamita. O Amapá liderou o crescimento, superando o boom da Geórgia, enquanto São Paulo avançou cerca de 11% no mesmo período.",
-      "source": "bluesky",
-      "subreddit": "bsky_al",
-      "permalink": "https://bsky.app/profile/nandabel23.bsky.social/post/3n2234ua4bs2t",
-      "createdAt": "2026-11-11T13:35:46.181000+00:00",
-      "rawScore": 0.41717521283847786,
-      "relevanceScore": 0.46352801426497536,
-      "suggestedRadius": 76.85,
-      "imageUrl": "assets/images/bsky_3n2234ua4bs2t_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2234ua4bs2t_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-al",
-      "sources": [
-        {
-          "title": "“Alagoas e Tocantins, com 42%, superaram a taxa do milagre do Vietnã. No Maranhão, esse crescimento foi maior que o dado da China. No Amapá, campeão, maior do que no boom da Geórgia (o país que você conhece pelo Kvaratskhelia).”",
-          "url": "https://bsky.app/profile/nandabel23.bsky.social/post/3n2234ua4bs2t",
-          "subreddit": "bsky_al"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Os números do IBGE mostram que estados como Alagoas, Tocantins e Amapá cresceram muito acima da média nacional, superando até referências internacionais. Isso indica que as transferências de renda estão chegando onde mais precisam e reduzindo desigualdades regionais.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A PNAD é uma pesquisa amostral e as estimativas para estados menores têm margem de erro grande. Comparar esses crescimentos com milagres econômicos de outros países pode exagerar a precisão dos dados e ignorar que a base de renda nessas regiões é muito baixa.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O indicador nacional pondera pelo peso econômico das regiões mais ricas, então o crescimento dos estados pobres fica sub-representado. Para entender o impacto real, é preciso olhar cada estado separadamente, mas sem esquecer que a qualidade dos dados varia.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n254xu2xnc23",
+      "id": "bsky_3n26rugiunk26",
       "rank": 6,
-      "title": "Pagar R$ 98 por meio galeto com macarrão em Maceió causa indignação",
-      "label": "Preço de galeto em Maceió · Crítica",
-      "context": "Um usuário do Bluesky criticou publicamente o valor de R$ 98 cobrado por meio galeto com macarrão em um restaurante de Maceió, classificando o preço como fora da realidade. O post gerou reações de outros usuários, que discutiram se o valor se justifica pela experiência completa oferecida pelo estabelecimento.",
+      "title": "Você listou tudo isso e a única coisa que penso é \"saudades Maceió\"",
+      "label": "Saudades de Maceió · Reação a lista",
+      "context": "Um usuário do Bluesky publicou uma mensagem dizendo que, depois de ver uma lista de itens, sua única reação foi sentir saudades de Maceió. A frase viralizou como uma forma de demonstrar desinteresse pela lista e afeto pela cidade.",
       "source": "bluesky",
       "subreddit": "bsky_al",
-      "permalink": "https://bsky.app/profile/sassenachisalive.bsky.social/post/3n254xu2xnc23",
-      "createdAt": "2026-11-12T18:46:43.188000+00:00",
-      "rawScore": 0.30617964070564246,
-      "relevanceScore": 0.4513107118951583,
-      "suggestedRadius": 76.31,
-      "imageUrl": "assets/images/bsky_3n254xu2xnc23_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n254xu2xnc23_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/majubengel.bsky.social/post/3n26rugiunk26",
+      "createdAt": "2026-11-13T10:33:03.376000+00:00",
+      "rawScore": 0.45548782356841583,
+      "relevanceScore": 0.5060975817426843,
+      "suggestedRadius": 78.68,
+      "imageUrl": "assets/images/bsky_3n26rugiunk26_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n26rugiunk26_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-al",
       "sources": [
         {
-          "title": "Jamais vou achar normal pagar pela \"experiência\" pra comer meio galeto com macarrão por 98 reais na minha incrível Maceió (e em nenhum outro lugar)",
-          "url": "https://bsky.app/profile/sassenachisalive.bsky.social/post/3n254xu2xnc23",
-          "subreddit": "bsky_al"
-        },
-        {
-          "title": "Turistando na minha capital Maceió.",
-          "url": "https://bsky.app/profile/opedrodonato.bsky.social/post/3mzwag5f6o22t",
+          "title": "você listou tudo isso e a unica coisa que penso é \"saudades maceio\"",
+          "url": "https://bsky.app/profile/majubengel.bsky.social/post/3n26rugiunk26",
           "subreddit": "bsky_al"
         }
       ],
@@ -328,31 +330,25 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O restaurante cobra pela experiência completa, não só pelo prato. Se o valor inclui entrada e sobremesa, como foi esclarecido, o preço pode fazer sentido para quem busca uma refeição diferenciada em Maceió.",
+          "text": "A reação é genuína: depois de tanta informação, a pessoa só conseguiu pensar em Maceió, o que mostra como a cidade marcou sua vida. É uma forma honesta de dizer que nada daquilo supera a lembrança de um lugar querido.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Meio galeto com macarrão por R$ 98 é um abuso, mesmo com entrada e sobremesa inclusas. O prato é simples e popular, e esse preço não condiz com a realidade da maioria dos moradores de Maceió.",
+          "text": "A frase soa como deboche: a pessoa ignora completamente a lista e responde com uma saudade aleatória, desviando o assunto. Isso pode ser visto como falta de respeito com quem se esforçou para listar tudo.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O valor só se justifica se a qualidade e o serviço forem excepcionais. Sem provar a comida, fica difícil julgar, mas o preço chama atenção e levanta dúvida sobre o que realmente está sendo cobrado na conta.",
+          "text": "A mensagem funciona como um meme: não é elogio nem crítica à lista, apenas uma reação engraçada que viralizou. Serve para expressar desinteresse de forma leve, sem levar o conteúdo a sério.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -363,15 +359,15 @@
       "id": "bsky_3mzy2u2vizc2m",
       "rank": 7,
       "title": "Tulla lê acordo do 11º Juizado de Maceió no início do vídeo",
-      "label": "Tulla lê acordo do 11º Juizado",
-      "context": "No início de um vídeo, a Tulla aparece lendo o acordo do 11º Juizado de Maceió. A leitura desse documento virou o assunto principal entre quem comentou o vídeo.",
+      "label": "Tulla lê acordo judicial em vídeo",
+      "context": "A Tulla aparece no começo de um vídeo lendo o acordo do 11º Juizado de Maceió. O conteúdo do acordo e o motivo da leitura não são detalhados nas fontes.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/ofioqueliga.bsky.social/post/3mzy2u2vizc2m",
       "createdAt": "2026-11-10T18:25:31.279000+00:00",
-      "rawScore": 0.17582021614947016,
-      "relevanceScore": 0.1953557957216335,
-      "suggestedRadius": 62.52,
+      "rawScore": 0.234130876378053,
+      "relevanceScore": 0.26014541819783665,
+      "suggestedRadius": 66.6,
       "imageUrl": "assets/images/bsky_3mzy2u2vizc2m_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzy2u2vizc2m_uns_thumb.jpg",
       "category": "geopolitica",
@@ -387,7 +383,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A cena da Tulla lendo o acordo do 11º Juizado de Maceió tem força de monólogo e merecia reconhecimento em festivais, porque transforma um documento jurídico em algo teatral e memorável.",
+          "text": "Esse vídeo da Tulla lendo o acordo do 11º Juizado de Maceió merecia prêmio de festival, porque a leitura tem uma força cênica que prende do início ao fim.",
           "source": "sintese",
           "evidence": [
             1
@@ -397,20 +393,19 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O vídeo não deveria ser tratado como premiável: a leitura do acordo do 11º Juizado de Maceió soa arrastada e não sustenta a atenção, então a comparação com festivais exagera o valor da cena.",
+          "text": "A Olivia Colman interpretando a Tulla numa cinebiografia entregaria esse monólogo com uma intensidade que o vídeo original não tem, e é isso que falta para o registro funcionar.",
           "source": "sintese",
           "evidence": [
-            1
+            2
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A leitura do acordo do 11º Juizado de Maceió renderia uma cinebiografia intensa, mas o impacto depende de como o texto for encenado; a comparação com Olivia Colman mostra que a força está na performance, não no documento.",
+          "text": "Assistir a Tulla lendo o acordo do 11º Juizado de Maceió deve ser uma experiência tão intensa que a gente morreria derretida vendo esse filme, mas ainda não sei se é elogio ou aviso.",
           "source": "sintese",
           "evidence": [
-            2,
             3
           ],
           "votes": 0
@@ -420,73 +415,18 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzqabgi6kc2b",
-      "rank": 8,
-      "title": "Ele acha que uma região tem voto monolítico, mas o mapa eleitoral de 24 anos atrás mostra o contrário",
-      "label": "Voto monolítico por região · Mapa eleitoral",
-      "context": "Um usuário do Bluesky criticou a ideia de que uma região vota de forma monolítica em um candidato ou posição política, citando um mapa eleitoral de 24 anos atrás que mostrava divisão. O comentário também menciona que, no segundo turno, a divisão foi ainda maior.",
-      "source": "bluesky",
-      "subreddit": "bsky_al",
-      "permalink": "https://bsky.app/profile/elinhas.bsky.social/post/3mzqabgi6kc2b",
-      "createdAt": "2026-11-07T15:41:11.375000+00:00",
-      "rawScore": 0.14139476246144483,
-      "relevanceScore": 0.15710529162382758,
-      "suggestedRadius": 59.78,
-      "imageUrl": "assets/images/bsky_3mzqabgi6kc2b_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzqabgi6kc2b_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-al",
-      "sources": [
-        {
-          "title": "Muito corajoso dele achar que certa região tem um voto MONOLÍTICO em relação a algum candidato ou posição política sendo que há 24 anos o mapa eleitoral foi ASSIM (e no 2º turno foi pior)",
-          "url": "https://bsky.app/profile/elinhas.bsky.social/post/3mzqabgi6kc2b",
-          "subreddit": "bsky_al"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O mapa eleitoral de 24 anos atrás mostra que nenhuma região vota de forma monolítica. Na semana em que os Democratas ganharam uma vaga no Senado no Mississippi, fica claro que generalizar o voto é um erro.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Achar que uma região tem voto monolítico é ignorar as mudanças políticas ao longo do tempo. O mapa de 24 anos atrás pode não refletir a realidade atual, e o segundo turno piorou ainda mais a divisão.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Depende de qual região e de qual eleição estamos falando. O mapa de 24 anos atrás é um dado, mas o contexto atual pode ser diferente. Generalizar ou desconsiderar o passado são riscos.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3mzyzwn3ho22w",
-      "rank": 9,
-      "title": "Crítica à Globo por retratar só o Sudeste e ignorar cidades do Nordeste",
+      "rank": 8,
+      "title": "Crítica à Globo por retratar só o Sudeste e ignorar grandes cidades do Nordeste",
       "label": "Representação regional na TV · Crítica à Globo",
-      "context": "Um usuário do Bluesky critica autores e a Globo por retratarem apenas a vida urbana do Sudeste, principalmente São Paulo e Rio, e não mostrarem grandes cidades do Nordeste como Salvador, Fortaleza, Maceió, São Luís, Recife, Natal e João Pessoa como referências de futuro, trabalho e estudo. A crítica aponta para a falta de diversidade regional na ficção e no conteúdo da emissora.",
+      "context": "O post critica autores e a Globo por retratarem apenas a vida urbana do Sudeste, principalmente São Paulo e Rio, e não mostrarem grandes cidades do Nordeste como Salvador, Fortaleza, Maceió, São Luís, Recife, Natal e João Pessoa como referências de futuro, trabalho e estudo. A crítica aponta que, fora desse eixo, o resto do país é tratado como mato.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/marciaco7.bsky.social/post/3mzyzwn3ho22w",
       "createdAt": "2026-11-11T03:41:41.386000+00:00",
-      "rawScore": 0.1222816944698523,
-      "relevanceScore": 0.135868549410947,
-      "suggestedRadius": 58.12,
+      "rawScore": 0.15755762986085647,
+      "relevanceScore": 0.1750640331787294,
+      "suggestedRadius": 61.1,
       "imageUrl": "assets/images/bsky_3mzyzwn3ho22w_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzyzwn3ho22w_wiki_thumb.jpg",
       "category": "ciencia",
@@ -502,7 +442,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Globo realmente precisa incluir as capitais do Nordeste nas suas tramas e programas. Mostrar Salvador, Recife e Fortaleza como centros de trabalho e estudo é fundamental para refletir a realidade do país e dar visibilidade a essas regiões.",
+          "text": "A crítica acerta ao dizer que a Globo ignora o Nordeste desenvolvido. Cidades como Salvador, Recife e Fortaleza têm universidades, polos de tecnologia e cultura, mas nunca aparecem como cenário de futuro nas novelas e séries. Isso reforça um imaginário de que só o Sudeste é moderno.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -510,7 +450,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa crítica é exagerada. A Globo retrata o Sudeste porque é onde está a maior parte do mercado consumidor e da produção. Além disso, o Nordeste já aparece em novelas e telejornais, só não como protagonista. Não dá para forçar uma representação artificial.",
+          "text": "A Globo retrata o Sudeste porque é onde está seu maior público e mercado consumidor. Novelas e séries são produtos comerciais e precisam dar audiência. Além disso, já houve produções ambientadas no Nordeste, então generalizar que a emissora só mostra SP e RJ é exagero.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -518,7 +458,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A questão é complexa: a mídia reflete a concentração econômica e demográfica do Sudeste, mas também deveria mostrar outras realidades. O ideal seria um equilíbrio, com mais produções ambientadas no Nordeste, sem abandonar os grandes centros.",
+          "text": "A representação midiática é importante, mas o problema é estrutural: a concentração de recursos e profissionais no eixo Rio-São Paulo faz com que outras regiões apareçam menos. Mudar isso exige incentivos à produção regional, não só cobrança da Globo. O post levanta um ponto válido, mas simplifica a cadeia produtiva.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -528,26 +468,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzppmbntds2z",
-      "rank": 10,
-      "title": "Plataforma do Ministério da Cultura tem mais de 500 títulos nacionais",
-      "label": "Plataforma cultural · Acervo nacional",
-      "context": "O Ministério da Cultura coordena, com desenvolvimento da Universidade Federal de Alagoas, uma plataforma que reúne mais de 500 títulos nacionais, incluindo 267 curtas, 139 longas, 85 médias ou telefilmes e 64 obras seriadas. O acesso é feito pela conta gov.br no endereço telabrasil.cultura.gov.br.",
+      "id": "bsky_3mzx56gtjzc2h",
+      "rank": 9,
+      "title": "Penedo é uma bela cidade no interior de Alagoas",
+      "label": "Penedo · Cidade de Alagoas",
+      "context": "Thiago Penedo publicou uma mensagem destacando Penedo como uma bela cidade no interior de Alagoas. A publicação é uma declaração elogiosa sobre o município, sem outros fatos ou desdobramentos associados.",
       "source": "bluesky",
       "subreddit": "bsky_al",
-      "permalink": "https://bsky.app/profile/vamospracima.bsky.social/post/3mzppmbntds2z",
-      "createdAt": "2026-11-07T10:43:01.877000+00:00",
-      "rawScore": 0.07978914107943563,
-      "relevanceScore": 0.08865460119937292,
-      "suggestedRadius": 53.86,
-      "imageUrl": "assets/images/bsky_3mzppmbntds2z_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzppmbntds2z_uns_thumb.jpg",
+      "permalink": "https://bsky.app/profile/galovasco.bsky.social/post/3mzx56gtjzc2h",
+      "createdAt": "2026-11-10T09:34:26.870000+00:00",
+      "rawScore": 0.09267541304949145,
+      "relevanceScore": 0.10297268116610162,
+      "suggestedRadius": 55.25,
+      "imageUrl": "assets/images/bsky_3mzx56gtjzc2h_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzx56gtjzc2h_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-al",
       "sources": [
         {
-          "title": "Com coordenação do Ministério da Cultura e desenvolvimento da Universidade Federal de Alagoas, a plataforma tem mais de 500 títulos nacionais: 267 curtas-metragens; 139 longas-metragens; 85 médias-metragens ou telefilmes; 64 obras seriadas. +",
-          "url": "https://bsky.app/profile/vamospracima.bsky.social/post/3mzppmbntds2z",
+          "title": "Thiago Penedo // Penedo é uma bela cidade no interior de Alagoas",
+          "url": "https://bsky.app/profile/galovasco.bsky.social/post/3mzx56gtjzc2h",
           "subreddit": "bsky_al"
         }
       ],
@@ -555,7 +495,60 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Ter Deus e o Diabo na Terra do Sol e Carandiru disponíveis de graça, com acesso pela conta gov.br, é um jeito prático de levar cinema brasileiro para quem não tem assinatura de streaming. A variedade de curtas, longas e séries mostra que o acervo não é só simbólico.",
+          "text": "Penedo merece esse reconhecimento: é uma cidade histórica às margens do São Francisco, com casarões coloniais e um centro preservado que muita gente no Brasil nem conhece. Divulgar o interior de Alagoas assim ajuda a atrair visitantes e valorizar o que a região tem de melhor.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Elogiar a cidade sem falar dos problemas não resolve nada: Penedo enfrenta dificuldades de infraestrutura e emprego que afetam quem vive lá todos os dias. Uma publicação bonita sobre a paisagem não muda a realidade de quem depende de serviços públicos precários no interior.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Penedo tem mesmo um patrimônio bonito, mas o alcance de um elogio assim depende de quem lê: para quem é de fora, desperta curiosidade; para quem é da cidade, soa como mais uma descrição turística que não reflete o cotidiano. Vale conhecer, mas com expectativa realista.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzw6emzluc25",
+      "rank": 10,
+      "title": "Pessoa de Maceió relata choque cultural com chinelos",
+      "label": "Choque cultural · Chinelos em Maceió",
+      "context": "Uma pessoa que se identifica como sendo de Maceió relatou ter tido um choque ao se deparar com uma situação envolvendo chinelos. O comentário gerou reações de quem se identificou com a experiência.",
+      "source": "bluesky",
+      "subreddit": "bsky_al",
+      "permalink": "https://bsky.app/profile/masm.bsky.social/post/3mzw6emzluc25",
+      "createdAt": "2026-11-10T00:23:08.774000+00:00",
+      "rawScore": 0.045873868584571265,
+      "relevanceScore": 0.05097096509396807,
+      "suggestedRadius": 49.55,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-al",
+      "sources": [
+        {
+          "title": "eu sou de Maceió então eu tive esse choque tbm kk",
+          "url": "https://bsky.app/profile/masm.bsky.social/post/3mzw6emzluc25",
+          "subreddit": "bsky_al"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Quem é de Maceió entende na hora esse choque com chinelo, porque é uma coisa que faz parte do dia a dia da gente e chama atenção quando aparece em outro contexto. A reação é natural e mostra como detalhes simples do nosso cotidiano causam estranhamento.",
           "source": "sintese",
           "evidence": [
             1
@@ -565,7 +558,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Depender da conta gov.br para assistir cria uma barreira para quem não tem ou não quer usar o login do governo. Além disso, a plataforma só funciona online, o que exclui quem tem internet ruim ou limitada, justamente parte do público que mais precisaria desse acervo.",
+          "text": "Esse choque com chinelo soa exagerado, porque chinelo é algo comum em qualquer lugar do Brasil e não deveria causar espanto em ninguém. Quem cresceu em Maceió também vê chinelo o tempo todo, então tratar isso como choque cultural parece forçar a barra.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -573,9 +566,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O número de 500 títulos impressiona, mas o que define o valor da plataforma é a curadoria: quantos desses filmes são raros, restaurados ou fora de catálogo em outros serviços. Sem uma lista completa e critérios claros de seleção, fica difícil saber se é um acervo histórico ou só um catálogo extenso.",
+          "text": "O relato de choque com chinelo depende muito do contexto de cada um, porque o que é banal em Maceió pode ser estranho em outro lugar e vice-versa. A reação de quem comentou mostra que esse tipo de estranhamento varia conforme a vivência de cada pessoa.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
