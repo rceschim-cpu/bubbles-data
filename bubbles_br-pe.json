@@ -1,26 +1,377 @@
 {
-  "generatedAt": "2026-11-15T05:36:37.700519+00:00",
+  "generatedAt": "2026-11-15T18:44:08.435040+00:00",
   "region": "br-pe",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n2cy7lnnwc2h",
+      "id": "bsky_3n2e3xkc73s2q",
       "rank": 1,
-      "title": "Ele diz que foi eleito com a maior votação do universo de Pernambuco",
-      "label": "Votação recorde · Pernambuco",
-      "context": "Um político afirma ter sido eleito com a maior votação do universo de Pernambuco, declaração que gerou reação negativa nas redes. O comentário original classifica a fala como insuportável, e a discussão se desloca para a trajetória do político e para o desempenho eleitoral em si.",
+      "title": "Nossa, Recife, como você é quente",
+      "label": "Calor no Recife · Reclamações",
+      "context": "Um post no Bluesky comenta o calor do Recife, e os comentários relatam temperaturas altas e a sensação de que a cidade está ainda mais quente. A discussão gira em torno do desconforto térmico e da expectativa de chuva no verão.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/hashitaguicansada.bsky.social/post/3n2cy7lnnwc2h",
-      "createdAt": "2026-11-15T02:37:35.345000+00:00",
+      "permalink": "https://bsky.app/profile/saborovsky.bsky.social/post/3n2e3xkc73s2q",
+      "createdAt": "2026-11-15T13:17:18.056000+00:00",
       "rawScore": 0.9,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3n2cy7lnnwc2h_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2cy7lnnwc2h_wiki_thumb.jpg",
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-pe",
       "sources": [
+        {
+          "title": "Nossa Recife como você é quente",
+          "url": "https://bsky.app/profile/saborovsky.bsky.social/post/3n2e3xkc73s2q",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Recife sempre foi quente, e isso faz parte do charme da cidade. Quem reclama do calor não aproveita as praias e a vida ao ar livre que só o Recife oferece. O verão é assim mesmo, sol de praia e noite agradável.",
+          "source": "sintese",
+          "evidence": [
+            4,
+            5
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A cidade virou uma airfryer de gente, e a previsão do tempo engana: promete queda de temperatura, mas é de 30 para 28 graus. Passar calor assim deixa qualquer um irritado e sem disposição para nada.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2,
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O calor do Recife é intenso, mas estamos no verão, e é normal ter sol forte e chuva leve à noite. Quem sente saudade da cidade aceita o clima como ele é, sem reclamar tanto.",
+          "source": "sintese",
+          "evidence": [
+            4,
+            5
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2e456hhes2q",
+      "rank": 2,
+      "title": "Segundos em Recife e a simpatia das pessoas esmurrando",
+      "label": "Recife · Simpatia e violência",
+      "context": "Um post no Bluesky mostra uma cena em Recife com pessoas sendo agredidas e destaca a simpatia das pessoas envolvidas. A publicação gerou comentários sobre a percepção dos pernambucanos em relação a outros estados.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/saborovsky.bsky.social/post/3n2e456hhes2q",
+      "createdAt": "2026-11-15T13:20:27.551000+00:00",
+      "rawScore": 0.6962843403366938,
+      "relevanceScore": 0.7736492670407709,
+      "suggestedRadius": 88.77,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "Segundos em Recife e a simpatia das pessoas esmurrando",
+          "url": "https://bsky.app/profile/saborovsky.bsky.social/post/3n2e456hhes2q",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A simpatia do povo pernambucano é algo que merece ser destacado, mesmo em situações difíceis. Quem tem ascendência pernambucana sabe que o acolhimento e a alegria são marcas registradas, e isso não deve ser ofuscado por episódios isolados.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Rotular os pernambucanos como 'paulistanos do nordeste' é um preconceito que ignora a diversidade e os problemas reais da região. Essa visão simplista só reforça estereótipos e não contribui para entender a complexidade de Recife.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A comparação com paulistanos pode refletir uma percepção de que os pernambucanos estão adotando comportamentos mais individualistas, mas é preciso cautela para não generalizar. Cada pessoa vive a cultura local de forma única, e o debate mostra que há espaço para diferentes interpretações.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2dzli6zjc2z",
+      "rank": 3,
+      "title": "Dois dos cinco estados com mais oferta de serviços públicos digitais são do Nordeste: Piauí em 1º e Pernambuco em 4º; RJ em 7º e São Paulo em 12º",
+      "label": "Serviços públicos digitais · Ranking estadual",
+      "context": "Um levantamento mostra que Piauí e Pernambuco estão entre os cinco estados com mais oferta de serviços públicos digitais, com Piauí em 1º e Pernambuco em 4º. O ranking também coloca Rio de Janeiro em 7º e São Paulo em 12º, indicando que a digitalização varia entre as unidades federativas.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/munky.bsky.social/post/3n2dzli6zjc2z",
+      "createdAt": "2026-11-15T12:34:46.648000+00:00",
+      "rawScore": 0.6176223235071088,
+      "relevanceScore": 0.6862470261190098,
+      "suggestedRadius": 85.7,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "Dois dos cinco estados com mais oferta de serviços públicos digitais são do Nordeste, bicho, é o Piauí em 1º e Pernambuco em 4º, o RJ tá em 7º, São Paulo tá em 12º",
+          "url": "https://bsky.app/profile/munky.bsky.social/post/3n2dzli6zjc2z",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Piauí e Pernambuco liderarem o ranking de serviços públicos digitais mostra que o Nordeste pode sim estar na frente quando o assunto é modernização. Isso desmonta o preconceito de que a região só fica atrás em tudo.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "São Paulo ficar em 12º e Rio em 7º é um sinal de que os estados mais ricos estão deixando a digitalização de lado. Com tanto recurso, era para estar no topo, mas a burocracia e a falta de prioridade atrapalham.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Ranking de serviços digitais não conta a história toda: tem estado que oferece tudo online, mas o serviço é ruim ou a população não tem acesso. Sem olhar a qualidade e a inclusão digital, o número pode enganar.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2doijdjtk2d",
+      "rank": 4,
+      "title": "Agente secreto se passa em Pernambuco no período da ditadura",
+      "label": "Série Agente Secreto · Ambientada em Pernambuco",
+      "context": "A série Agente Secreto é ambientada em Pernambuco durante o período da ditadura militar no Brasil. A produção retrata a atuação de um agente secreto nesse contexto histórico.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/eubetina.bsky.social/post/3n2doijdjtk2d",
+      "createdAt": "2026-11-15T09:16:16.045000+00:00",
+      "rawScore": 0.6100480903000489,
+      "relevanceScore": 0.6778312114444988,
+      "suggestedRadius": 85.4,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "Agente secreto se passa em Pernambuco no período da ditadura....",
+          "url": "https://bsky.app/profile/eubetina.bsky.social/post/3n2doijdjtk2d",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A escolha de Pernambuco como cenário para uma série sobre a ditadura é acertada, pois o estado teve papel importante na resistência e na repressão do período, e isso ainda é pouco explorado na ficção.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Séries ambientadas na ditadura muitas vezes romantizam a figura do agente secreto, transformando um período de violência e censura em entretenimento, sem o devido cuidado com a memória das vítimas.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O sucesso da série vai depender de como a trama equilibra ficção e contexto histórico, evitando anacronismos e mostrando as diferentes perspectivas de quem viveu o período em Pernambuco.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2dxowdje22l",
+      "rank": 5,
+      "title": "Mineiro relata preconceitos quebrados ao morar no Recife",
+      "label": "Mineiro · Recife · Preconceitos quebrados",
+      "context": "Um mineiro que morou alguns anos no Recife contou que se impressionou com a cidade e que muitos preconceitos foram quebrados quando se mudou para lá. O relato destaca como a convivência com a realidade local pode mudar ideias preconcebidas sobre outra região do país.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/gabrielpm.bsky.social/post/3n2dxowdje22l",
+      "createdAt": "2026-11-15T12:00:54.946000+00:00",
+      "rawScore": 0.4579227191692877,
+      "relevanceScore": 0.5088030212992085,
+      "suggestedRadius": 78.8,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "Uai, mas vc assistiu o filme de olho fechado? Hahaha. Mas falando sério, sou mineiro e morei uns anos em Recife, quando mudei pra lá fiquei impressionado com a cidade, foram tantos preconceitos que foram quebrados na época.",
+          "url": "https://bsky.app/profile/gabrielpm.bsky.social/post/3n2dxowdje22l",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Mudar de região e viver o dia a dia de outra cidade é o jeito mais eficaz de quebrar preconceito. O relato do mineiro mostra que a experiência direta com o Recife derrubou ideias que ele tinha antes de se mudar, e isso deveria servir de exemplo para quem julga sem conhecer.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Ainda falta reconhecer que o preconceito contra nordestinos é estrutural e não se resolve só com uma mudança pessoal. O relato é bonito, mas o fato de precisar morar na cidade para deixar de ter preconceito mostra como o julgamento prévio continua sendo a regra no resto do país.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Cada pessoa vive a mudança de um jeito, e o relato do mineiro é uma experiência individual que não dá para generalizar. Conhecer o Recife pode ter quebrado preconceitos dele, mas outras pessoas podem ter vivências diferentes e o debate precisa de mais relatos para virar uma conclusão.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2cznogook22",
+      "rank": 6,
+      "title": "Deputado mais votado de Pernambuco é chamado de irrelevante",
+      "label": "Votação de deputado federal em Pernambuco",
+      "context": "Um perfil no Bluesky afirmou que um deputado federal eleito por Pernambuco é irrelevante, apesar de ter sido o segundo mais votado no estado, com mais de 200 mil votos. A discussão gira em torno de como medir a relevância eleitoral de um deputado e do peso da votação estadual.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/barditooficial.bsky.social/post/3n2cznogook22",
+      "createdAt": "2026-11-15T03:03:20.653000+00:00",
+      "rawScore": 0.3558605169319078,
+      "relevanceScore": 0.5065116854798976,
+      "suggestedRadius": 78.7,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "Uhum. Ele foi só o segundo deputado mais votado em Pernambuco, com mais de 200k de votos. Completamente irrelevante.",
+          "url": "https://bsky.app/profile/barditooficial.bsky.social/post/3n2cznogook22",
+          "subreddit": "bsky_pe"
+        },
+        {
+          "title": "históricas. Trata-se de um perfil lá de Pernambuco que, para se eleger deputado federal, moderou o discurso e gritou \"Lula\", mas nunca abandonou a velha prática de espalhar fake news e bravatas em entrevistas de redes sociais. Por ora, não citarei o nome dessa figura — uma mistura ⤵️",
+          "url": "https://bsky.app/profile/marcianobrito.bsky.social/post/3n2acyt2ypl2a",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Chamar de irrelevante quem foi o segundo deputado federal mais votado em Pernambuco e o primeiro do PSOL no estado é ignorar a força eleitoral que 200 mil votos representam. Esse resultado mostra inserção real no eleitorado, não é pouca coisa.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A votação de Jones está dentro da média nacional dos deputados federais eleitos, então não é esse destaque todo que pintam. O interior do estado continua sem conhecê-lo, e podcast não substitui presença real nos municípios.",
+          "source": "sintese",
+          "evidence": [
+            4,
+            6,
+            7,
+            8
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Comparar votos absolutos entre estados não faz sentido, porque cada unidade tem eleitorado de tamanho diferente. O correto é olhar a média dentro de Pernambuco, que é o eleitorado efetivamente disputado, e aí a posição relativa muda de figura.",
+          "source": "sintese",
+          "evidence": [
+            9
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2d23ihcmc22",
+      "rank": 7,
+      "title": "Segunda maior votação do estado é irrelevante? Ele foi o primeiro deputado federal eleito pelo PSOL em Pernambuco",
+      "label": "Votação de deputado do PSOL em Pernambuco",
+      "context": "Um post no Bluesky ironiza a ideia de que a segunda maior votação do estado seria irrelevante, lembrando que o candidato foi o primeiro deputado federal eleito pelo PSOL em Pernambuco. A discussão gira em torno do peso real dessa votação e do significado histórico da eleição para o partido.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/barditooficial.bsky.social/post/3n2d23ihcmc22",
+      "createdAt": "2026-11-15T03:11:04.041000+00:00",
+      "rawScore": 0.28823810888563983,
+      "relevanceScore": 0.4313756765395998,
+      "suggestedRadius": 75.41,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "Realmente, a segunda maior votação do estado é muito irrelevante. Ele só foi o primeiro deputado federal eleito do PSOL em Pernambuco. Isso não é nada. Qualquer zé ruela consegue fazer isso.",
+          "url": "https://bsky.app/profile/barditooficial.bsky.social/post/3n2d23ihcmc22",
+          "subreddit": "bsky_pe"
+        },
         {
           "title": "Ele foi eleito coma maior votação do universo de Pernambuco, diz ele. Cara, insuportável",
           "url": "https://bsky.app/profile/hashitaguicansada.bsky.social/post/3n2cy7lnnwc2h",
@@ -31,15 +382,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A votação expressiva mostra que ele tem base e conseguiu se eleger com folga, o que é um resultado concreto nas urnas. Se o número é alto, é porque muita gente confiou nele, e isso não pode ser ignorado.",
+          "text": "Ser o primeiro deputado federal eleito pelo PSOL em Pernambuco e ainda ter a segunda maior votação do estado não é pouca coisa. Isso mostra que o partido conseguiu furar a bolha e conquistar espaço eleitoral, algo que nenhum outro quadro da legenda tinha alcançado antes.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            3
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ele fica se vangloriando de uma votação que nem foi tão assim, ficou pouco à frente de uma candidata estadual desconhecida no interior. Ainda foi expulso de outro partido e agora pode implodir o PSOL ou ser expulso de novo.",
+          "text": "A votação pode até ser alta, mas o histórico do candidato levanta dúvidas: ele já foi expulso de outro partido e agora chega ao PSOL. Para mim, isso indica que a tal representatividade pode não se sustentar, e o risco de implodir a legenda ou ser expulso de novo é real.",
           "source": "sintese",
           "evidence": [
             2
@@ -49,125 +402,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O discurso dele soa exagerado, mas o que importa é ver como vai usar o mandato na prática. Tem gente boa entendendo de política e das correlações de força, e é isso que deve ser observado, não a bravata.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2cznogook22",
-      "rank": 2,
-      "title": "Deputado foi o segundo mais votado em Pernambuco, com mais de 200 mil votos",
-      "label": "Votação expressiva de deputado em Pernambuco",
-      "context": "O deputado federal eleito pelo PSOL em Pernambuco recebeu mais de 200 mil votos, sendo o segundo mais votado no estado. A votação expressiva é usada por apoiadores para rebater críticas que o tratam como irrelevante.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/barditooficial.bsky.social/post/3n2cznogook22",
-      "createdAt": "2026-11-15T03:03:20.653000+00:00",
-      "rawScore": 0.7740379472161507,
-      "relevanceScore": 0.8600421635735007,
-      "suggestedRadius": 91.64,
-      "imageUrl": "assets/images/bsky_3n2cznogook22_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2cznogook22_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "Uhum. Ele foi só o segundo deputado mais votado em Pernambuco, com mais de 200k de votos. Completamente irrelevante.",
-          "url": "https://bsky.app/profile/barditooficial.bsky.social/post/3n2cznogook22",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A votação de mais de 200 mil votos e o fato de ser o segundo deputado mais votado em Pernambuco mostram que ele tem base eleitoral real, não é irrelevante. Ser o primeiro federal eleito pelo PSOL no estado também pesa.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Votação alta não significa relevância política: ele é conhecido por podcasts e a maioria das pessoas não acompanha esse tipo de conteúdo. O eleitorado dele é nichado e não se traduz em influência ampla.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O número de votos é um dado concreto, mas a relevância de um deputado depende também da atuação parlamentar e da representatividade real. Comparar com outros eleitos, como Rosa Amorim, ajuda a medir o peso relativo.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2cvw3apmk2v",
-      "rank": 3,
-      "title": "Jones é criticado por receber palco que não teria em Pernambuco",
-      "label": "Jones Manoel · Palco fora de Pernambuco",
-      "context": "Um pernambucano afirma que estão dando palco a Jones, algo que, segundo ele, nem em Pernambuco acontece. A fala sugere que a visibilidade do nome fora do estado seria maior do que a que ele tem localmente.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/marcosti.bsky.social/post/3n2cvw3apmk2v",
-      "createdAt": "2026-11-15T01:56:27.645000+00:00",
-      "rawScore": 0.6449198173455112,
-      "relevanceScore": 0.7165775748283457,
-      "suggestedRadius": 86.79,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "Estão dando palco pra jones, coisa que nem em pernambuco dão bola, eu sou pernambucano eu sei como é.",
-          "url": "https://bsky.app/profile/marcosti.bsky.social/post/3n2cvw3apmk2v",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Jones foi eleito com a maior votação do universo de Pernambuco, como ele mesmo diz, e isso mostra que tem base real. O cara é insuportável, mas o eleitorado dele existe e não dá pra fingir que não.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Jones é um parasita que foi expulso de outro partido e vai implodir o PSOL ou ser expulso de novo. Na federal ficou pouco à frente da estadual do PT, que nem é conhecida no interior, então esse palco todo é exagero.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A esquerda radical não tem ninguém fazendo levante armado, nem um tirozinho sendo treinado. Fica só no discurso, e aí fica difícil levar a sério esse radicalismo todo que tanto aparece na internet.",
+          "text": "O número de votos é relevante, mas o que realmente importa é o que ele vai fazer no mandato. A esquerda radical precisa mostrar resultados concretos, e não apenas discurso. Se a atuação não corresponder, a votação expressiva não se traduz em mudança prática.",
           "source": "sintese",
           "evidence": [
             1
@@ -179,23 +414,28 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2by3hrjec2h",
-      "rank": 4,
-      "title": "Bahia, Minas Gerais e Pernambuco têm os homens mais bonitos do Brasil",
-      "label": "Beleza masculina por estado · Nordeste e Sudeste",
-      "context": "Uma publicação no Bluesky afirma que, na opinião do autor, Bahia, Minas Gerais e Pernambuco têm os homens mais bonitos e atraentes do Brasil. A declaração gerou comentários que destacam o sotaque desses estados como um atrativo adicional.",
+      "id": "bsky_3n26v7y3mak2j",
+      "rank": 8,
+      "title": "Calote do agronegócio é comparado às raízes da Guerra dos Mascates em Pernambuco",
+      "label": "Calote do agro · Raízes históricas",
+      "context": "Uma publicação no Bluesky afirma que o calote do agronegócio remete às suas raízes na Guerra dos Mascates, em Pernambuco do século 18, e critica o projeto de um Brasil agrário implantado por Portugal. A postagem relaciona o episódio histórico ao escravagismo, à corrupção e à compra de políticos por coronéis, tema que gerou comentários sobre inadimplência no setor e sobre a herança cultural dos coronéis de engenho.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/descolonizado.bsky.social/post/3n2by3hrjec2h",
-      "createdAt": "2026-11-14T17:02:36.641000+00:00",
-      "rawScore": 0.45549328776626874,
-      "relevanceScore": 0.617214764184743,
-      "suggestedRadius": 83.14,
-      "imageUrl": "assets/images/bsky_3n2by3hrjec2h_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2by3hrjec2h_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/radioproletario.bsky.social/post/3n26v7y3mak2j",
+      "createdAt": "2026-11-13T11:33:28.674000+00:00",
+      "rawScore": 0.18343188538435853,
+      "relevanceScore": 0.3799201505071935,
+      "suggestedRadius": 72.98,
+      "imageUrl": "assets/images/bsky_3n26v7y3mak2j_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n26v7y3mak2j_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pe",
       "sources": [
+        {
+          "title": "1) O calote do #Agro nos remete às suas raízes, Pernambuco do século 18, #GuerraDosMascates. Implantado por Portugal,o projeto de um Brasil agrário,soltou no solo brasileiro os criminosos das masmorras portuguesas, o escravagismo, a corrupção, a compra de politicos e coroneis barbaros pés descalsos.",
+          "url": "https://bsky.app/profile/radioproletario.bsky.social/post/3n26v7y3mak2j",
+          "subreddit": "bsky_pe"
+        },
         {
           "title": "tranquilamente afirmo que Bahia, Minas Gerais e Pernambuco [pra mim] tem os homens mais lindos e gostosos do Brasil.",
           "url": "https://bsky.app/profile/descolonizado.bsky.social/post/3n2by3hrjec2h",
@@ -211,28 +451,31 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Concordo totalmente: os homens desses três estados têm beleza e o sotaque mineiro, baiano e pernambucano é um charme à parte. É uma combinação que faz diferença e merece o reconhecimento.",
+          "text": "A comparação com a Guerra dos Mascates faz sentido: o projeto agrário implantado por Portugal deixou uma herança de coronelismo que aparece até hoje na mídia e na literatura, onde coronéis de engenho são tratados como heróis. O calote do agro é só mais uma face dessa mesma estrutura.",
           "source": "sintese",
           "evidence": [
-            3,
-            4
+            1
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Acho exagero eleger só esses três estados como os donos dos homens mais lindos do Brasil. O país é enorme e tem gente bonita em todo lugar, então essa lista é injusta e limitada.",
+          "text": "Cada caso precisa ser analisado antes de sair chamando produtor de caloteiro. Tem empresário do agro que troca avião e helicóptero todo ano, mas também tem quem quebre por safra ruim ou crédito caro. Jogar todo mundo na lista de inadimplentes sem olhar o caso concreto gera injustiça.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Beleza é algo muito pessoal e cada um tem seu gosto. O que vale é a diversidade brasileira, com tantos tipos interessantes espalhados por todos os estados, sem precisar criar ranking.",
+          "text": "A discussão sobre o calote do agro acaba virando debate sobre herança histórica, mas o que interessa é o critério: quem ficou inadimplente entra na lista, e cada situação precisa ser avaliada corretamente para não punir quem não teve culpa. Sem esse cuidado, a conversa sobre coronelismo não resolve nada.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         }
       ],
@@ -240,31 +483,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2acyt2ypl2a",
-      "rank": 5,
-      "title": "Perfil de Pernambuco moderou discurso e gritou 'Lula' para se eleger deputado federal, mas mantém fake news",
-      "label": "Deputado federal · Discurso moderado e fake news",
-      "context": "Um perfil de Pernambuco moderou o discurso e gritou 'Lula' para se eleger deputado federal, mas, segundo a publicação, nunca abandonou a prática de espalhar fake news e bravatas em entrevistas de redes sociais. O caso é citado como exemplo de como candidatos ajustam a imagem para ganhar votos sem mudar práticas criticadas.",
+      "id": "bsky_3n2cvw3apmk2v",
+      "rank": 9,
+      "title": "Jones é criticado por receber palco que não teria em Pernambuco",
+      "label": "Jones · Palco e votação em Pernambuco",
+      "context": "Um usuário do Bluesky afirma que estão dando palco a Jones, algo que, segundo ele, nem em Pernambuco acontece. A crítica questiona a visibilidade dada à figura política e sua representatividade no estado.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/marcianobrito.bsky.social/post/3n2acyt2ypl2a",
-      "createdAt": "2026-11-14T01:12:39.380000+00:00",
-      "rawScore": 0.32342378731349414,
-      "relevanceScore": 0.4704708747927713,
-      "suggestedRadius": 77.15,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "permalink": "https://bsky.app/profile/marcosti.bsky.social/post/3n2cvw3apmk2v",
+      "createdAt": "2026-11-15T01:56:27.645000+00:00",
+      "rawScore": 0.22694294576215293,
+      "relevanceScore": 0.25215882862461436,
+      "suggestedRadius": 66.13,
+      "imageUrl": "assets/images/bsky_3n2cvw3apmk2v_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2cvw3apmk2v_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pe",
       "sources": [
         {
-          "title": "históricas. Trata-se de um perfil lá de Pernambuco que, para se eleger deputado federal, moderou o discurso e gritou \"Lula\", mas nunca abandonou a velha prática de espalhar fake news e bravatas em entrevistas de redes sociais. Por ora, não citarei o nome dessa figura — uma mistura ⤵️",
-          "url": "https://bsky.app/profile/marcianobrito.bsky.social/post/3n2acyt2ypl2a",
-          "subreddit": "bsky_pe"
-        },
-        {
-          "title": "não é possivel que eu nunca irei ganhar 15 mil no pernambuco da sorte",
-          "url": "https://bsky.app/profile/loirinha.bsky.social/post/3n24vufqqmk2y",
+          "title": "Estão dando palco pra jones, coisa que nem em pernambuco dão bola, eu sou pernambucano eu sei como é.",
+          "url": "https://bsky.app/profile/marcosti.bsky.social/post/3n2cvw3apmk2v",
           "subreddit": "bsky_pe"
         }
       ],
@@ -272,28 +510,31 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Ciro Gomes sempre foi assim: muda o discurso conforme a conveniência eleitoral. Em 2022 alertávamos sobre seu verdadeiro caráter, e agora ele posa de aliado de Lula só para se eleger. Quem acompanha sabe que ele é uma linha auxiliar da desestabilização política.",
+          "text": "Jones foi eleito com a maior votação do universo de Pernambuco, como ele mesmo diz, então dar palco a ele é reconhecer uma liderança que tem respaldo popular real. A crítica de que não dão bola em Pernambuco não se sustenta diante do resultado nas urnas.",
           "source": "sintese",
           "evidence": [
-            1,
-            2
+            1
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A moderação do discurso e o grito de 'Lula' não apagam o histórico de fake news e bravatas. O eleitor pernambucano precisa ficar atento: esse tipo de figura usa a imagem de Lula para se eleger, mas continua espalhando desinformação nas redes. Não dá para confiar.",
+          "text": "Jones é um parasita que foi expulso de outro partido e agora vai implodir o PSOL ou ser expulso de novo. Ele ficou pouco à frente da estadual do PT, que nem é conhecida no interior, e vai fazer a revolução com emendas, o que mostra que o palco é imerecido.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            3
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O caso ilustra como a política eleitoral exige adaptação: para conquistar votos, muitos candidatos moderam o tom e se alinham a lideranças populares. Isso não significa necessariamente mudança de convicções, mas sim estratégia para viabilizar a candidatura em um cenário polarizado.",
+          "text": "A esquerda radical que apoia Jones não tem um de lá fazendo um levante armado, nada, nem um tirozinho sendo treinado. Radical onde? O palco dado a ele não se traduz em ação concreta, então a crítica de que é só encenação tem fundamento.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         }
       ],
@@ -302,17 +543,17 @@
     },
     {
       "id": "bsky_3n27wia6uic26",
-      "rank": 6,
+      "rank": 10,
       "title": "Aluguéis caríssimos em SP: não é só em Recife",
-      "label": "Aluguéis altos em SP e Recife",
-      "context": "O post compara os aluguéis caros em São Paulo com os de Recife, sugerindo que o problema não é exclusivo da capital pernambucana. A discussão gira em torno do impacto desses preços no orçamento de quem mora ou quer morar nessas cidades.",
+      "label": "Aluguéis altos · SP e Recife",
+      "context": "Um post no Bluesky compara os aluguéis caros de São Paulo com os de Recife, sugerindo que o problema não é exclusivo da capital pernambucana. A comparação expõe como o custo de moradia elevado se repete em diferentes cidades do país.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
       "permalink": "https://bsky.app/profile/bolodebacia.bsky.social/post/3n27wia6uic26",
       "createdAt": "2026-11-13T21:28:38.269000+00:00",
-      "rawScore": 0.3838387011355935,
-      "relevanceScore": 0.426487445706215,
-      "suggestedRadius": 75.18,
+      "rawScore": 0.19716578486578135,
+      "relevanceScore": 0.2190730942953126,
+      "suggestedRadius": 64.08,
       "imageUrl": "assets/images/bsky_3n27wia6uic26_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27wia6uic26_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -328,9 +569,10 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O IPTU em São Paulo é só 2 reais, então o custo total de morar aqui pode até compensar em relação a outras capitais. O aluguel é alto, mas o imposto baixo ajuda no orçamento.",
+          "text": "O preço dos aluguéis em São Paulo é realmente absurdo, e quem paga o mesmo valor em outra cidade confirma que a situação não é muito diferente. Pelo menos o IPTU de 2 reais em Recife é uma vantagem que SP não tem.",
           "source": "sintese",
           "evidence": [
+            2,
             3
           ],
           "votes": 0
@@ -338,244 +580,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Pago o mesmo valor de aluguel que em Recife, e o preço não cai. A situação é a mesma em qualquer lugar, e a bolha que dizem que vai estourar nunca estoura.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Faz 10 anos que ouvimos que a bolha vai estourar, mas os aluguéis continuam altos. Talvez o problema não seja uma bolha, mas uma falta de oferta que mantém os preços elevados.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n27lspgqk22p",
-      "rank": 7,
-      "title": "Mutuals de Recife e Olinda são convidados para despedida no Cariri neste sábado",
-      "label": "Despedida no Cariri · Convite a mutuals",
-      "context": "Uma pessoa está organizando sua despedida no Cariri neste sábado, das 15h até o fim da tarde, e convida mutuals de Recife, Olinda e região para comparecer. O evento é uma oportunidade de encontro presencial entre pessoas que se conhecem online, reforçando laços da comunidade local.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/donamarocas.bsky.social/post/3n27lspgqk22p",
-      "createdAt": "2026-11-13T18:18:00.676000+00:00",
-      "rawScore": 0.25812414756975827,
-      "relevanceScore": 0.39791571952195365,
-      "suggestedRadius": 73.85,
-      "imageUrl": "assets/images/bsky_3n27lspgqk22p_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27lspgqk22p_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "atenção mutuals de recife olinda e região… neste sábado (amanha) estarei organizando minha despedida no cariri! se estiver nas redondezas e quiser descobrir a minha rosta, chega lá! 15h até a hora de acabar (tarde)",
-          "url": "https://bsky.app/profile/donamarocas.bsky.social/post/3n27lspgqk22p",
-          "subreddit": "bsky_pe"
-        },
-        {
-          "title": "AMIGOS DE RECIFE! Sábado vou dar o curso \"Afrotrônicos: música eletrônica entre África e diásporas\" como parte do festival Correnteza Grátis!!! Inscrições aqui: docs.google.com/forms/d/e/1F...",
-          "url": "https://bsky.app/profile/ovolumemorto.bsky.social/post/3n27chl4fx22j",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A despedida no Cariri é uma chance rara de encontrar os mutuals de Recife e Olinda pessoalmente, num sábado à tarde, e celebrar a comunidade que a gente construiu online. Vou fazer o possível para ir e conhecer a rosta de todo mundo.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Marcar a despedida no Cariri no mesmo sábado do curso Afrotrônicos, que também é em Recife e gratuito, divide o público e força a escolher entre dois eventos da comunidade. Podia ter sido em outro fim de semana para ninguém perder nada.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O convite para a despedida no Cariri é legal, mas o horário das 15h até acabar deixa dúvida sobre até quando vai e como chegar lá. Se tivesse mais detalhes de local e transporte, facilitaria para quem vem de Olinda e região.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n26v7y3mak2j",
-      "rank": 8,
-      "title": "Calote do agronegócio é comparado às raízes da Guerra dos Mascates",
-      "label": "Calote do agro · Raízes históricas",
-      "context": "Um post no Bluesky compara o calote do agronegócio às origens da Guerra dos Mascates, em Pernambuco no século 18, atribuindo ao projeto agrário implantado por Portugal a escravidão, a corrupção e a compra de políticos. A publicação relaciona essa estrutura histórica à inadimplência atual de empresários do setor, que trocam aviões e iates enquanto entram em listas de devedores.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/radioproletario.bsky.social/post/3n26v7y3mak2j",
-      "createdAt": "2026-11-13T11:33:28.674000+00:00",
-      "rawScore": 0.3371952804414492,
-      "relevanceScore": 0.37466142271272135,
-      "suggestedRadius": 72.73,
-      "imageUrl": "assets/images/bsky_3n26v7y3mak2j_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n26v7y3mak2j_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "1) O calote do #Agro nos remete às suas raízes, Pernambuco do século 18, #GuerraDosMascates. Implantado por Portugal,o projeto de um Brasil agrário,soltou no solo brasileiro os criminosos das masmorras portuguesas, o escravagismo, a corrupção, a compra de politicos e coroneis barbaros pés descalsos.",
-          "url": "https://bsky.app/profile/radioproletario.bsky.social/post/3n26v7y3mak2j",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A comparação com a Guerra dos Mascates faz sentido porque o agronegócio herdou a mesma lógica de poder dos coronéis de engenho, que compravam políticos e mandavam na política local. Essa submissão cultural aparece até hoje na mídia e nas TVs, que tratam esses coronéis como heróis nacionais.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Cada caso de inadimplência precisa ser analisado individualmente antes de qualquer julgamento, porque generalizar o calote para todo o agronegócio é injusto. Existem empresários do setor que trocam aviões e iates todo ano, mas isso não significa que todos ajam assim ou que mereçam a mesma acusação.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A inadimplência no agronegócio deveria seguir o mesmo critério de qualquer outro setor: quem deu calote entra na lista de inadimplentes, sem precisar resgatar a história colonial para explicar o presente. O caso concreto de cada empresário é o que deve definir a cobrança, não a origem do setor.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n22i6viri22p",
-      "rank": 9,
-      "title": "IV Feira Anarquista de Recife ocupa espaço da cidade em mais um ano de resistência",
-      "label": "Feira Anarquista de Recife · Encontro autônomo e cultural",
-      "context": "A IV Feira Anarquista de Recife está marcada para 5 de dezembro, com concentração às 14h no Mais Que Bar do Walter, no Pátio de São Pedro. O evento se propõe a movimentar e difundir a cena libertária local, promovendo trocas de ideias, expressões multiculturais e apoio mútuo.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/137magdiel.bsky.social/post/3n22i6viri22p",
-      "createdAt": "2026-11-11T17:29:36.972000+00:00",
-      "rawScore": 0.20636880660513537,
-      "relevanceScore": 0.22929867400570597,
-      "suggestedRadius": 64.73,
-      "imageUrl": "assets/images/bsky_3n22i6viri22p_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n22i6viri22p_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "IV Feira Anarquista de Recife Em mais um ano de resistência, a feira anarquista ocupará o espaço da cidade, com a proposta de movimentar, fortalecer e difundir a cena libertária do nosso território e para além das fronteiras.",
-          "url": "https://bsky.app/profile/137magdiel.bsky.social/post/3n22i6viri22p",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A feira é um espaço autônomo e colaborativo que fortalece a cena libertária de Recife, promovendo apoio mútuo e resistência popular. Ocupar o Pátio de São Pedro com trocas de ideias e expressões multiculturais é uma forma legítima de difundir a cultura anarquista.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O evento pode ser visto com desconfiança por parte da população, já que o anarquismo é frequentemente associado a desordem e confronto. Ocupar um espaço público tradicional como o Pátio de São Pedro para difundir ideias libertárias pode gerar tensões e afastar quem não compartilha dessa visão.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A feira é uma iniciativa cultural que reúne pessoas interessadas em autonomia e apoio mútuo, mas sua realização em espaço público levanta questões sobre como conciliar a livre expressão com a ordem urbana. O evento pode ser uma oportunidade de diálogo, desde que ocorra de forma pacífica e respeitosa.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n25p67f34k2f",
-      "rank": 10,
-      "title": "Pontos turísticos do Recife e Olinda: ponte de ferro, Parque das Esculturas e Galo da Madrugada",
-      "label": "Recife e Olinda · Turismo e Carnaval",
-      "context": "Uma publicação no Bluesky lista atrações do Recife e Olinda, como a Ponte de Ferro, o Parque das Esculturas de Brennand, a Rua do Bom Jesus e o Galo da Madrugada. A lista destaca pontos turísticos e manifestações culturais que representam a região.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/luluistrying.bsky.social/post/3n25p67f34k2f",
-      "createdAt": "2026-11-13T00:13:04.176000+00:00",
-      "rawScore": 0.10498491957003654,
-      "relevanceScore": 0.22776102174448506,
-      "suggestedRadius": 64.63,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "Em Recife tem a ponte de ferro, o parque das esculturas de Brennand no centro do Recife, a Rua do Bom Jesus... Se quiser algo que represente carnaval tem o Galo da Madrugada, as ladeiras de Olinda 😊",
-          "url": "https://bsky.app/profile/luluistrying.bsky.social/post/3n25p67f34k2f",
-          "subreddit": "bsky_pe"
-        },
-        {
-          "title": "imitando robô no centro do recife pra comprar coxinha no bar da galega",
-          "url": "https://bsky.app/profile/saluak.bsky.social/post/3mzwk5y637s2j",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A Ponte de Ferro é um charme, parece aqueles bloquinhos de empilhar de madeira antigos. Esses pontos turísticos mostram a beleza e a história do Recife, e o Galo da Madrugada representa bem o carnaval.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O carnaval já foi representado, mas infelizmente não é algo que eu queira destacar. A ponte de ferro é bonitinha, mas os problemas da cidade ficam de fora quando só se fala em turismo.",
+          "text": "Faz dez anos que dizem que a bolha vai estourar, mas os aluguéis continuam subindo. Essa história de que o mercado vai corrigir sozinho não convence mais ninguém.",
           "source": "sintese",
           "evidence": [
             1
@@ -585,9 +590,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A lista de atrações é válida, mas o carnaval e os pontos turísticos são experiências diferentes. Cada um escolhe o que mais combina com o que procura na cidade.",
+          "text": "A comparação entre cidades é válida, mas o IPTU de 2 reais em Recife pode ser um caso isolado e não refletir a realidade da maioria dos imóveis. O problema dos aluguéis altos precisa ser analisado com mais dados.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            3
+          ],
           "votes": 0
         }
       ],

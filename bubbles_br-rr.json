@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-15T05:36:37.700519+00:00",
+  "generatedAt": "2026-11-15T18:44:08.435040+00:00",
   "region": "br-rr",
-  "count": 8,
+  "count": 6,
   "items": [
     {
       "id": "bsky_3n2d3oaxets2q",
       "rank": 1,
-      "title": "Economia brasileira quebrada, diz publicação",
-      "label": "Economia brasileira · Crise e empréstimos do BNDES",
-      "context": "Uma publicação no Bluesky afirma que a economia brasileira está quebrada, citando uma matéria do site ndmais.com.br. O post viralizou e gerou comentários sobre o papel do BNDES no financiamento de empresas.",
+      "title": "Economia brasileira quebrada",
+      "label": "Economia brasileira · Crise e quebra",
+      "context": "Um post no Bluesky afirma que a economia brasileira está quebrada, citando uma matéria do site ndmais.com.br. A publicação gerou comentários que associam a suposta crise a empréstimos do BNDES e dívidas de INSS de um empresário.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/wilsonsilva.bsky.social/post/3n2d3oaxets2q",
@@ -31,7 +31,119 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A economia brasileira está quebrada sim, e quem diz isso está certo. O país vive uma crise profunda, com desemprego e inflação corroendo o poder de compra. Não dá para fingir que está tudo bem quando a situação é grave.",
+          "text": "O empresário que montou a rede de lojas e comprou jatinho usou empréstimos do BNDES e agora reclama do Estado, mostrando que a economia quebrada é consequência de quem se beneficiou e não quer pagar a conta.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A economia não está quebrada por causa de um empresário específico, mas por um conjunto de fatores estruturais; apontar um único caso como causa da crise é simplista e ignora a complexidade da situação fiscal do país.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A afirmação de que a economia está quebrada precisa de dados concretos; o post original cita uma matéria, mas os comentários focam em um empresário e não explicam os indicadores econômicos que sustentariam essa conclusão.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n24ddt4n6c2m",
+      "rank": 2,
+      "title": "Candidata recebe R$ 70 mil do fundão eleitoral e tem 8 votos em Roraima",
+      "label": "Fundão eleitoral · Voto mais caro do Brasil",
+      "context": "Uma candidata a deputada estadual pelo MDB de Roraima recebeu R$ 70 mil do fundo eleitoral e obteve apenas 8 votos, segundo reportagem do Metrópoles. O caso é apontado como o voto mais caro do Brasil e levanta discussão sobre a eficiência e a fiscalização do uso do dinheiro público nas campanhas.",
+      "source": "bluesky",
+      "subreddit": "bsky_rr",
+      "permalink": "https://bsky.app/profile/blogdonoblat.bsky.social/post/3n24ddt4n6c2m",
+      "createdAt": "2026-11-12T11:08:14.083000+00:00",
+      "rawScore": 0.31875252922806013,
+      "relevanceScore": 0.3541694769200668,
+      "suggestedRadius": 71.71,
+      "imageUrl": "assets/images/bsky_3n24ddt4n6c2m_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24ddt4n6c2m_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rr",
+      "sources": [
+        {
+          "title": "Farra eleitoral: siglas despejam dezenas de milhões em candidatos sem voto Candidata a deputada estadual pelo MDB de Roraima recebeu R$ 70 mil do “fundão eleitoral\" e teve só 8 votos. É o voto mais caro do Brasil www.metropoles.com/colunas/andr...",
+          "url": "https://bsky.app/profile/blogdonoblat.bsky.social/post/3n24ddt4n6c2m",
+          "subreddit": "bsky_rr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O fundão eleitoral precisa de uma reforma urgente, porque do jeito que está é um sistema injusto: não se pode torrar dinheiro público, que é o suor do povo, com candidatos que não têm voto. Casos como esse mostram que o dinheiro está sendo mal utilizado.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Isso é lavagem de dinheiro, e é hora de chamar pelo nome certo. O dinheiro público está sendo desviado por meio de candidaturas sem voto, e enquanto isso não for tratado como crime, a farra continua.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O caso é grave, mas antes de generalizar é preciso investigar: pode ter havido erro na prestação de contas ou o dinheiro pode ter sido devolvido. A Justiça Eleitoral deveria apurar cada caso e punir os responsáveis, em vez de só criticar o sistema.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzz73mkqac2i",
+      "rank": 3,
+      "title": "Lula é gente como a gente, diz post sobre tratamento igualitário",
+      "label": "Lula · Tratamento igualitário e comparação",
+      "context": "Um post no Bluesky elogia o presidente Lula por tratar todas as pessoas de forma igual, e critica o ex-presidente preso por desdém a negros, citando um senador de Roraima. A publicação compara os dois e destaca a postura de Lula.",
+      "source": "bluesky",
+      "subreddit": "bsky_rr",
+      "permalink": "https://bsky.app/profile/akaishiri.bsky.social/post/3mzz73mkqac2i",
+      "createdAt": "2026-11-11T05:14:02.774000+00:00",
+      "rawScore": 0.30806496534001215,
+      "relevanceScore": 0.3422944059333468,
+      "suggestedRadius": 71.1,
+      "imageUrl": "assets/images/bsky_3mzz73mkqac2i_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzz73mkqac2i_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rr",
+      "sources": [
+        {
+          "title": "LULA É GENTE COMO A GENTE ❤️ Que bom ter um presidente que trata a todos de igual forma. O verme que tá preso tratava negros com desdém, inclusive o “Senador de Roraima”, o capitão do mato.",
+          "url": "https://bsky.app/profile/akaishiri.bsky.social/post/3mzz73mkqac2i",
+          "subreddit": "bsky_rr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Lula trata todo mundo igual, sem distinção. Isso é o que se espera de um presidente, e o contraste com o ex-presidente, que desdenhava de negros, é evidente. O post acerta ao destacar essa diferença.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -39,7 +151,60 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O sujeito que montou a rede de lojas e comprou jatinho com empréstimos do BNDES mentiu ao dizer que nunca precisou do Estado. Ele é que não seria nada sem o dinheiro público. Falar que a economia quebrou é hipocrisia de quem se beneficiou dela.",
+          "text": "Chamar Lula de 'gente como a gente' é forçar a barra. Presidente tem que ser tratado como autoridade, não como amigo. E a crítica ao ex-presidente parece mais um ataque político do que uma análise honesta.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A comparação entre Lula e o ex-presidente é simplista. Cada um teve seu estilo, e reduzir a discussão a 'gente como a gente' não ajuda a entender as políticas de fato. O foco deveria ser em ações concretas, não em simpatia.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27sq6ixps2a",
+      "rank": 4,
+      "title": "Criação de gado por comunidades indígenas em Roraima garante posse da terra, não é desmatamento",
+      "label": "Gado indígena em Roraima · Posse da terra",
+      "context": "Em Roraima, comunidades indígenas criam gado na área de cerrado como forma histórica de garantir a posse da terra. A prática não representa desmatamento nem se confunde com a ação de fazendeiros invasores, segundo o post que originou o debate.",
+      "source": "bluesky",
+      "subreddit": "bsky_rr",
+      "permalink": "https://bsky.app/profile/andreaugfonseca.bsky.social/post/3n27sq6ixps2a",
+      "createdAt": "2026-11-13T20:21:28.780000+00:00",
+      "rawScore": 0.266195378846853,
+      "relevanceScore": 0.29577264316317003,
+      "suggestedRadius": 68.63,
+      "imageUrl": "assets/images/bsky_3n27sq6ixps2a_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27sq6ixps2a_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rr",
+      "sources": [
+        {
+          "title": "só um adendo - em Roraima, a criação de gado PELAS COMUNIDADES indígenas na área de cerrado é historicamente uma forma de garantir a posse da terra e não representa desmatamento. Não são fazendeiros invasores, nesse caso.",
+          "url": "https://bsky.app/profile/andreaugfonseca.bsky.social/post/3n27sq6ixps2a",
+          "subreddit": "bsky_rr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A criação de gado pelas comunidades indígenas em Roraima é uma estratégia histórica de garantir a posse da terra, e não desmatamento. Chamar esses criadores de fazendeiros invasores ignora esse papel e criminaliza uma prática legítima de ocupação tradicional.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A reportagem que motivou o post trata da terra indígena Kapôt Nhinõre, na divisa entre Mato Grosso e Pará, então usar Roraima para justificar a criação de gado indígena desvia o foco do caso concreto e pode enfraquecer a discussão sobre desmatamento na região.",
           "source": "sintese",
           "evidence": [
             1
@@ -49,7 +214,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A afirmação de que a economia está quebrada precisa ser analisada com cuidado. O post original não apresenta dados concretos, e o comentário sobre o BNDES mostra que o debate mistura questões políticas com econômicas. É preciso verificar os números antes de concluir.",
+          "text": "A distinção entre gado indígena e gado de fazendeiros invasores é válida, mas depende do contexto: em Roraima a prática tem esse significado histórico, enquanto em outras áreas o mesmo tipo de criação pode estar ligado a desmatamento. Generalizar para todo o país não ajuda.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -60,17 +225,17 @@
     },
     {
       "id": "bsky_3n2c37pidm22k",
-      "rank": 2,
-      "title": "Roraima fica na linha do Equador e tem 5 sóis por pessoa, diz post",
-      "label": "Roraima · Calor e localização",
-      "context": "Um post no Bluesky brinca que Roraima está bem na linha do Equador e que lá há '5 sol por pessoa'. A piada viraliza ao exagerar a incidência solar e a posição geográfica do estado.",
+      "rank": 5,
+      "title": "Roraima na linha do Equador tem 5 sóis por pessoa, diz post",
+      "label": "Roraima · Calor e insolação",
+      "context": "Uma publicação no Bluesky afirma que Roraima fica na linha do Equador e que lá 'é 5 sol por pessoa'. O comentário reforça o tom de brincadeira ao mencionar que o autor é sedentário e tem problema no pé, mas ainda quer escalar o Monte Roraima.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/driiversions.bsky.social/post/3n2c37pidm22k",
       "createdAt": "2026-11-14T17:58:40.148000+00:00",
-      "rawScore": 0.17675163820456458,
-      "relevanceScore": 0.307501820227294,
-      "suggestedRadius": 69.27,
+      "rawScore": 0.132435524793493,
+      "relevanceScore": 0.25826169421499223,
+      "suggestedRadius": 66.49,
       "imageUrl": "assets/images/bsky_3n2c37pidm22k_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2c37pidm22k_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -91,7 +256,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A brincadeira acerta: Roraima fica na linha do Equador e o sol bate forte mesmo, então o exagero dos '5 sóis' é uma forma divertida de falar do calor da região.",
+          "text": "A piada dos '5 sóis por pessoa' é ótima porque traduz o calor de Roraima de um jeito que quem é de fora entende na hora. Morar na linha do Equador é isso: sol o ano inteiro, e a galera local tira onda com a própria situação.",
           "source": "sintese",
           "evidence": [
             1
@@ -101,7 +266,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Quem mora em Roraima sabe que a piada é exagerada: o estado tem período de chuvas e não é esse forno o tempo todo, então reduzir a região a '5 sóis' é uma visão distorcida.",
+          "text": "Falar em '5 sóis por pessoa' parece exagero de quem nunca passou um dia inteiro sob o sol daqui. O calor é real e pesado, mas reduzir Roraima a essa piada ignora que a região tem chuvas e uma rotina que não é só forno.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -109,229 +274,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post é só uma zoeira e não deve ser levado a sério; o calor é real, mas a expressão '5 sol por pessoa' é hipérbole e não descreve o clima de Roraima com precisão.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n24ddt4n6c2m",
-      "rank": 3,
-      "title": "Candidata recebe R$ 70 mil do fundão eleitoral e tem só 8 votos em Roraima",
-      "label": "Fundão eleitoral · Voto mais caro do Brasil",
-      "context": "Uma candidata a deputada estadual pelo MDB de Roraima recebeu R$ 70 mil do fundo eleitoral e obteve apenas 8 votos, segundo reportagem do Metrópoles. O caso é apontado como o voto mais caro do Brasil e levanta discussão sobre a eficiência e a fiscalização do uso do dinheiro público nas campanhas.",
-      "source": "bluesky",
-      "subreddit": "bsky_rr",
-      "permalink": "https://bsky.app/profile/blogdonoblat.bsky.social/post/3n24ddt4n6c2m",
-      "createdAt": "2026-11-12T11:08:14.083000+00:00",
-      "rawScore": 0.20015607763058849,
-      "relevanceScore": 0.22239564181176497,
-      "suggestedRadius": 64.3,
-      "imageUrl": "assets/images/bsky_3n24ddt4n6c2m_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n24ddt4n6c2m_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rr",
-      "sources": [
-        {
-          "title": "Farra eleitoral: siglas despejam dezenas de milhões em candidatos sem voto Candidata a deputada estadual pelo MDB de Roraima recebeu R$ 70 mil do “fundão eleitoral\" e teve só 8 votos. É o voto mais caro do Brasil www.metropoles.com/colunas/andr...",
-          "url": "https://bsky.app/profile/blogdonoblat.bsky.social/post/3n24ddt4n6c2m",
-          "subreddit": "bsky_rr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O caso mostra que o fundão eleitoral precisa de uma reforma urgente. Não faz sentido torrar dinheiro público, que é o suor do povo, em candidatos que não têm voto. É um sistema injusto que precisa ser corrigido.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Isso não é só desperdício, é lavagem de dinheiro. O dinheiro público está sendo usado para beneficiar candidatos sem representatividade, e é hora de chamar pelo nome certo: corrupção. Precisamos de punição exemplar.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O caso é grave, mas é preciso analisar o contexto geral. O fundão eleitoral existe para financiar campanhas, e nem sempre o número de votos reflete o custo-benefício. O problema pode estar na falta de critérios claros para distribuição dos recursos.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n27sq6ixps2a",
-      "rank": 4,
-      "title": "Criação de gado por comunidades indígenas em Roraima garante posse da terra, não é desmatamento",
-      "label": "Gado indígena em Roraima · Posse da terra",
-      "context": "Em Roraima, comunidades indígenas criam gado na área de cerrado como forma histórica de garantir a posse da terra. A prática não representa desmatamento nem se confunde com a ação de fazendeiros invasores, segundo o post que originou o debate.",
-      "source": "bluesky",
-      "subreddit": "bsky_rr",
-      "permalink": "https://bsky.app/profile/andreaugfonseca.bsky.social/post/3n27sq6ixps2a",
-      "createdAt": "2026-11-13T20:21:28.780000+00:00",
-      "rawScore": 0.19902846399928095,
-      "relevanceScore": 0.22114273777697882,
-      "suggestedRadius": 64.22,
-      "imageUrl": "assets/images/bsky_3n27sq6ixps2a_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27sq6ixps2a_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rr",
-      "sources": [
-        {
-          "title": "só um adendo - em Roraima, a criação de gado PELAS COMUNIDADES indígenas na área de cerrado é historicamente uma forma de garantir a posse da terra e não representa desmatamento. Não são fazendeiros invasores, nesse caso.",
-          "url": "https://bsky.app/profile/andreaugfonseca.bsky.social/post/3n27sq6ixps2a",
-          "subreddit": "bsky_rr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A criação de gado pelas comunidades indígenas em Roraima é uma estratégia histórica de garantir a posse da terra, e não desmatamento. Chamar esses criadores de fazendeiros invasores ignora essa realidade e criminaliza uma prática legítima de ocupação tradicional.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A reportagem original trata da terra indígena Kapôt Nhinõre, na divisa entre Mato Grosso e Pará, e não de Roraima. Usar esse exemplo para justificar a criação de gado em outra região desvia o foco do problema real e pode enfraquecer a fiscalização ambiental.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Cada caso precisa ser analisado com cuidado: a criação de gado por comunidades indígenas em Roraima pode ter esse caráter de posse, mas a reportagem citada fala de outra região. Generalizar para todo o país pode levar a conclusões erradas sobre desmatamento.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzz73mkqac2i",
-      "rank": 5,
-      "title": "Lula é gente como a gente, diz post sobre tratamento igualitário",
-      "label": "Lula · Tratamento igualitário e comparação",
-      "context": "Um post no Bluesky elogia o presidente Lula por tratar todos de forma igual, contrastando com o ex-presidente preso, que segundo o post tratava negros com desdém. A publicação destaca a diferença de postura no tratamento de minorias.",
-      "source": "bluesky",
-      "subreddit": "bsky_rr",
-      "permalink": "https://bsky.app/profile/akaishiri.bsky.social/post/3mzz73mkqac2i",
-      "createdAt": "2026-11-11T05:14:02.774000+00:00",
-      "rawScore": 0.1848297117810138,
-      "relevanceScore": 0.20536634642334864,
-      "suggestedRadius": 63.19,
-      "imageUrl": "assets/images/bsky_3mzz73mkqac2i_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzz73mkqac2i_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rr",
-      "sources": [
-        {
-          "title": "LULA É GENTE COMO A GENTE ❤️ Que bom ter um presidente que trata a todos de igual forma. O verme que tá preso tratava negros com desdém, inclusive o “Senador de Roraima”, o capitão do mato.",
-          "url": "https://bsky.app/profile/akaishiri.bsky.social/post/3mzz73mkqac2i",
-          "subreddit": "bsky_rr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Lula trata todos de forma igual, independentemente de raça ou origem. Isso é o que esperamos de um presidente, e é bom ver alguém que não despreza ninguém.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Ficar elogiando Lula como 'gente como a gente' é puro marketing. O problema é que o post ataca o outro presidente preso, mas não apresenta provas do que diz. Isso é baixaria política.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O post compara Lula ao ex-presidente preso, mas a discussão sobre racismo vai além de figuras políticas. Precisamos de políticas concretas de igualdade, não só de retórica.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzyht333hc23",
-      "rank": 6,
-      "title": "Serra do Aracá, Amazonas, na divisa oeste com Roraima: ainda há muito a descobrir e estudar na Amazônia brasileira",
-      "label": "Serra do Aracá · Descoberta e estudo na Amazônia",
-      "context": "Um post no Bluesky destaca a Serra do Aracá, no Amazonas, na divisa oeste com Roraima, e afirma que a Amazônia brasileira ainda tem muito para ser descoberto e estudado. A publicação usa um vídeo do YouTube para ilustrar a paisagem e defende mais atenção à região.",
-      "source": "bluesky",
-      "subreddit": "bsky_rr",
-      "permalink": "https://bsky.app/profile/rafa3l.bsky.social/post/3mzyht333hc23",
-      "createdAt": "2026-11-10T22:17:37.079000+00:00",
-      "rawScore": 0.04733845498936281,
-      "relevanceScore": 0.05259828332151423,
-      "suggestedRadius": 49.76,
-      "imageUrl": "assets/images/bsky_3mzyht333hc23_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzyht333hc23_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rr",
-      "sources": [
-        {
-          "title": "Serra do Aracá, Amazonas, na divisa oeste com Roraima. Olha como na Amazônia brasileira ainda tem muito para ser descoberto e estudado. youtu.be/xO4iOgISBrk?...",
-          "url": "https://bsky.app/profile/rafa3l.bsky.social/post/3mzyht333hc23",
-          "subreddit": "bsky_rr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A Serra do Aracá é prova de que a Amazônia ainda guarda lugares pouco conhecidos e precisa de mais pesquisa e divulgação. Esse tipo de conteúdo mostra o quanto temos a descobrir e estudar no Brasil.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Falar que a Amazônia ainda tem muito a ser descoberto ignora o conhecimento dos povos indígenas e comunidades locais que já conhecem e estudam esses lugares há gerações. A novidade é só para quem nunca olhou direito.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A correção sobre a divisa oeste ser de Roraima, e não do Amazonas, mostra que a informação geográfica precisa ser checada antes de compartilhar. O vídeo é bonito, mas o dado básico estava errado.",
+          "text": "O comentário sobre ser sedentário e ter problema no pé mostra que a conversa virou desabafo: o sonho de escalar o Monte Roraima esbarra na condição física. A brincadeira dos sóis acaba servindo de gancho para falar de limites pessoais.",
           "source": "sintese",
           "evidence": [
             1
@@ -344,17 +287,17 @@
     },
     {
       "id": "bsky_3mzvzw5a2hk2y",
-      "rank": 7,
+      "rank": 6,
       "title": "Só acreditarei na Fundação Cobra Coral quando chover em Roraima nas cabeceiras dos rios",
       "label": "Descrença na Fundação Cobra Coral",
-      "context": "Um post no Bluesky ironiza a Fundação Cobra Coral dizendo que só acreditará nela quando chover em Roraima nas cabeceiras dos rios. A frase usa uma imagem de impossibilidade para expressar descrença na fundação.",
+      "context": "Um post no Bluesky ironiza a Fundação Cobra Coral dizendo que só acreditará nela quando chover em Roraima nas cabeceiras dos rios. A frase usa uma imagem de improbabilidade para expressar desconfiança sobre a atuação da fundação.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/leveneficor.bsky.social/post/3mzvzw5a2hk2y",
       "createdAt": "2026-11-09T23:03:28.376000+00:00",
-      "rawScore": 0.03430213924131261,
-      "relevanceScore": 0.0381134880459029,
-      "suggestedRadius": 47.71,
+      "rawScore": 0.0,
+      "relevanceScore": 0.0,
+      "suggestedRadius": 36.0,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -370,7 +313,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A descrença faz sentido porque o alcance do feitiço da fundação é pequeno, como dizem nos comentários. Se a atuação fosse realmente ampla, não precisaria de tanta promessa.",
+          "text": "A descrença é justa: a Fundação Cobra Coral não mostra resultados concretos, e o povo de Roraima continua sem ver a tal chuva nas cabeceiras. Enquanto não houver prova real, ninguém é obrigado a acreditar.",
           "source": "sintese",
           "evidence": [
             1
@@ -380,75 +323,21 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A Fundação Cobra Coral faz contratos com os estragos cunidos, e os de verdade a gente sabe quem são. Apelar para uma entidade regional não resolve o problema de fundo.",
+          "text": "O range do feitiço dessa fundação é pequeno demais para causar efeito prático. Ficar prometendo chuva em Roraima sem entregar nada é fácil; o difícil é mostrar serviço de verdade.",
           "source": "sintese",
           "evidence": [
-            2
+            1
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A comparação com a chuva em Roraima nas cabeceiras dos rios é uma hipérbole, mas o ceticismo em relação à fundação aparece tanto na ironia do post quanto nos comentários sobre contratos e alcance limitado.",
+          "text": "A comparação com a chuva em Roraima é só uma forma de dizer que a credibilidade da fundação está baixa. Mas antes de descartar, vale ver se os contratos e as ações dela são os verdadeiros ou apenas estragos mal feitos.",
           "source": "sintese",
           "evidence": [
-            1,
             2
           ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzssqdumoc27",
-      "rank": 8,
-      "title": "Vou molhar as plantas da minha mãe e adentrar a floresta de Roraima",
-      "label": "Plantas da mãe · Floresta de Roraima",
-      "context": "Um usuário do Bluesky publicou que vai molhar as plantas da mãe e pediu sorte antes de entrar na floresta de Roraima. O post viralizou como meme pela mistura de tarefa doméstica com aventura na Amazônia.",
-      "source": "bluesky",
-      "subreddit": "bsky_rr",
-      "permalink": "https://bsky.app/profile/leveneficor.bsky.social/post/3mzssqdumoc27",
-      "createdAt": "2026-11-08T16:16:58.073000+00:00",
-      "rawScore": 0.0,
-      "relevanceScore": 0.0,
-      "suggestedRadius": 36.0,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-rr",
-      "sources": [
-        {
-          "title": "ta agora eu vou molhar as plantas da minha mãe me desejem sorte antes de adentrar a floresta de roraima",
-          "url": "https://bsky.app/profile/leveneficor.bsky.social/post/3mzssqdumoc27",
-          "subreddit": "bsky_rr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Achei genial a mistura de tarefa doméstica com aventura amazônica. Molhar plantas da mãe e depois encarar a floresta de Roraima é o tipo de humor que só brasileiro entende. Vira meme na hora.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Esse tipo de post banaliza a Amazônia. A floresta de Roraima não é quintal para brincadeira, tem risco real de malária, animais e se perder. Quem dera fosse só molhar plantas.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O post é claramente uma piada, mas fiquei pensando: será que ele vai mesmo? A floresta de Roraima é séria, mas o tom de 'me desejem sorte' deixa tudo no humor. Cada um interpreta como quer.",
-          "source": "sintese",
-          "evidence": [],
           "votes": 0
         }
       ],

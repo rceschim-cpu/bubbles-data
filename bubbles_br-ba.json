@@ -1,21 +1,86 @@
 {
-  "generatedAt": "2026-11-15T05:36:37.700519+00:00",
+  "generatedAt": "2026-11-15T18:44:08.435040+00:00",
   "region": "br-ba",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n2bwxrzg3k2x",
+      "id": "bsky_3n2eh5fz7nc2s",
       "rank": 1,
-      "title": "Portal Vermelho publica link sobre expulsão de bandidos",
-      "label": "Publicação do Vermelho · Reação na rede",
-      "context": "O portal Vermelho publicou em 9 de novembro de 2026 um link com o título 'vermelho.org.br/2026/11/09/s...'. A publicação gerou comentários pedindo a expulsão de um grupo chamado de 'bandidos' e criticando a atuação do Itamaraty no caso.",
+      "title": "Shakira fará show em Salvador em 6 de janeiro de 2027",
+      "label": "Shakira em Salvador · Arena Fonte Nova",
+      "context": "O prefeito Bruno Reis confirmou que Shakira se apresenta em Salvador no dia 6 de janeiro de 2027, na Arena Fonte Nova. O anúncio movimenta a expectativa por grandes shows na capital baiana e a discussão sobre logística e acesso ao evento.",
+      "source": "bluesky",
+      "subreddit": "bsky_ba",
+      "permalink": "https://bsky.app/profile/tracklist.com.br/post/3n2eh5fz7nc2s",
+      "createdAt": "2026-11-15T16:37:28.346000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n2eh5fz7nc2s_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2eh5fz7nc2s_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ba",
+      "sources": [
+        {
+          "title": "Shakira fará um show em Salvador, na Bahia, no dia 6 de janeiro de 2027, na Arena Fonte Nova. A informação foi confirmada pelo prefeito Bruno Reis.",
+          "url": "https://bsky.app/profile/tracklist.com.br/post/3n2eh5fz7nc2s",
+          "subreddit": "bsky_ba"
+        },
+        {
+          "title": "A Revolta dos Malês foi uma insurreição liderada por africanos escravizados de origem muçulmana. O levante eclodiu em Salvador, capital da Bahia, na madrugada de 24 para 25 de janeiro de 1835. 2/19",
+          "url": "https://bsky.app/profile/pensarhistoria.bsky.social/post/3n22o6vnivk2u",
+          "subreddit": "bsky_ba"
+        },
+        {
+          "title": "cheguei em salvador e 5 minutos tomando sol e ouvindo bahia fm já trouxeram um pouco do meu brilho de volta",
+          "url": "https://bsky.app/profile/lulululululululu1.bsky.social/post/3n2bqyzqukk2m",
+          "subreddit": "bsky_ba"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Salvador receber um show internacional desse porte na Arena Fonte Nova coloca a cidade no circuito de grandes turnês e movimenta turismo, hotelaria e comércio. A confirmação pelo prefeito dá credibilidade ao anúncio e anima quem é fã.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Marcar um show para janeiro de 2027 é fácil; o difícil é garantir que o público consiga chegar e voltar da Arena Fonte Nova sem repetir o transtorno de sempre. Quem mora longe já sabe o perrengue que é o deslocamento até lá.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A data ainda está distante e o anúncio veio só pela fala do prefeito, sem detalhes de venda de ingressos ou produção. Vale acompanhar a confirmação oficial da produção antes de fazer planos e gastos com antecedência.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2bwxrzg3k2x",
+      "rank": 2,
+      "title": "Portal Vermelho publica artigo sobre expulsão de embaixador israelense",
+      "label": "Artigo do Vermelho · Reação a Israel",
+      "context": "O portal Vermelho publicou um artigo em 9 de novembro de 2026 que trata da expulsão de um diplomata israelense. O conteúdo repercutiu nas redes e gerou comentários críticos ao governo de Israel e ao Itamaraty.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/nildete.bsky.social/post/3n2bwxrzg3k2x",
       "createdAt": "2026-11-14T16:42:43.248000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.4441646784990096,
+      "relevanceScore": 0.3680721210100954,
+      "suggestedRadius": 72.4,
       "imageUrl": "assets/images/bsky_3n2bwxrzg3k2x_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2bwxrzg3k2x_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -31,7 +96,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Expulsar essa corja de bandidos é o mínimo que se espera; o país não pode tolerar esse tipo de gente e precisa agir com firmeza para tirá-los daqui.",
+          "text": "Expulsar o embaixador de Israel é o mínimo que o Brasil deveria fazer diante do que Netanyahu vem fazendo em Gaza e no Líbano. O artigo do Vermelho acerta ao cobrar essa posição firme do Itamaraty.",
           "source": "sintese",
           "evidence": [
             1
@@ -41,214 +106,20 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Itamaraty não devia ficar com frescura diplomática com bandido: é pé na bunda e pronto, sem essa de negociar ou contemporizar com quem não merece consideração.",
+          "text": "Itamaraty fica com frescura diplomática enquanto Israel segue agindo como bandido. Expulsar embaixador não resolve nada, o certo era cortar relações de vez e parar de tratar esse governo com gentileza.",
           "source": "sintese",
           "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A publicação do Vermelho só traz um link, sem detalhes do caso; antes de pedir expulsão ou criticar o Itamaraty, seria bom saber quem são os envolvidos e o que realmente aconteceu.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2bqyzqukk2m",
-      "rank": 2,
-      "title": "Cheguei em Salvador e em 5 minutos de sol e Bahia FM já recuperei meu brilho",
-      "label": "Salvador · Brilho e pertencimento baiano",
-      "context": "Um usuário do Bluesky relatou que, ao chegar em Salvador, bastaram cinco minutos tomando sol e ouvindo a rádio Bahia FM para sentir que seu ânimo havia voltado. A publicação viralizou entre baianos e visitantes que associam a cidade e a cultura local a uma sensação imediata de bem-estar e identidade.",
-      "source": "bluesky",
-      "subreddit": "bsky_ba",
-      "permalink": "https://bsky.app/profile/lulululululululu1.bsky.social/post/3n2bqyzqukk2m",
-      "createdAt": "2026-11-14T14:55:57.652000+00:00",
-      "rawScore": 0.2657340702979051,
-      "relevanceScore": 0.6604920304685313,
-      "suggestedRadius": 84.76,
-      "imageUrl": "assets/images/bsky_3n2bqyzqukk2m_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2bqyzqukk2m_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ba",
-      "sources": [
-        {
-          "title": "cheguei em salvador e 5 minutos tomando sol e ouvindo bahia fm já trouxeram um pouco do meu brilho de volta",
-          "url": "https://bsky.app/profile/lulululululululu1.bsky.social/post/3n2bqyzqukk2m",
-          "subreddit": "bsky_ba"
-        },
-        {
-          "title": "8 de novembro, Salvador, meu amor, Bahia. Isto é uma coisa que ninguém explica, o povo ressentido na cabeça... Instantâneo captado pelo celular do Feiraguay de Ana Rosa. Chora, Glauber Rocha.",
-          "url": "https://bsky.app/profile/fsmcruz.bsky.social/post/3mzssaydybc2o",
-          "subreddit": "bsky_ba"
-        },
-        {
-          "title": "acho que os momentos mais felizes e mais tristes da minha vida foram em salvador amo ser baiano amo minha bahia",
-          "url": "https://bsky.app/profile/ravel.bsky.social/post/3n24ybmyoac2r",
-          "subreddit": "bsky_ba"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Salvador tem esse efeito mesmo: o sol, a rádio tocando axé e pagode, o jeito do povo — tudo junto devolve a energia de quem chega. Quem é daqui ou já viveu a cidade entende que não é exagero, é rotina.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Essa empolgação toda esconde o perrengue de quem mora aqui: trânsito caótico, transporte ruim, violência. O brilho de cinco minutos de sol não paga as contas nem resolve os problemas de quem enfrenta a cidade todo dia.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O relato é bonito, mas cada um vive a cidade de um jeito. Tem gente que se sente acolhido na hora, tem gente que precisa de mais tempo ou que associa Salvador a lembranças difíceis. Não dá para generalizar a experiência.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2bht4xqkk2c",
-      "rank": 3,
-      "title": "Falta um porradeiro raiz na seleção masculina, diz post após expulsão de Raphinha",
-      "label": "Seleção masculina · Expulsão de Raphinha",
-      "context": "Um post no Bluesky criticou a seleção masculina após Raphinha ser expulso por reclamação, dizendo que faltam jogadores com perfil de 'porradeiro raiz' como Junior Baiano e Luis Fabiano. A comparação sugere que a equipe atual não teria a mesma combatividade de ídolos do passado.",
-      "source": "bluesky",
-      "subreddit": "bsky_ba",
-      "permalink": "https://bsky.app/profile/brenoamaro.bsky.social/post/3n2bht4xqkk2c",
-      "createdAt": "2026-11-14T12:11:36.047000+00:00",
-      "rawScore": 0.3400487321107568,
-      "relevanceScore": 0.48304860447627546,
-      "suggestedRadius": 77.7,
-      "imageUrl": "assets/images/bsky_3n2bht4xqkk2c_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2bht4xqkk2c_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ba",
-      "sources": [
-        {
-          "title": "Falta um porradeiro raiz nessa seleção masculina Tipo Junior Baiano, Luis Fabiano... Raphinha deu chilique e foi expulso e não fez nada Cadê a voadora? Cadê o soco giratório? Frouxos",
-          "url": "https://bsky.app/profile/brenoamaro.bsky.social/post/3n2bht4xqkk2c",
-          "subreddit": "bsky_ba"
-        },
-        {
-          "title": "eu pensava, esse tipo de esculhambação só baiano sabe fazer",
-          "url": "https://bsky.app/profile/cintiage1984.bsky.social/post/3n27x7ezhss2h",
-          "subreddit": "bsky_ba"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Junior Baiano e Luis Fabiano tinham presença de campo que impunha respeito, e essa seleção carece desse tipo de jogador que parte para cima e não se intimida. A expulsão de Raphinha mostra que falta alguém com a mesma personalidade forte para responder à altura.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Raphinha foi expulso por reclamação, e pedir 'voadora' ou 'soco giratório' é romantizar a violência em vez de cobrar futebol. A seleção precisa de jogadores decisivos e disciplinados, não de um 'porradeiro' que resolve tudo no grito ou na agressão.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A expulsão de Raphinha foi por reclamação, e a comparação com Junior Baiano e Luis Fabiano é mais saudosismo do que análise. O time atual tem outros estilos, e a discussão sobre 'porradeiro raiz' reflete mais a frustração com o desempenho do que uma necessidade real de violência.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2co2aeshk27",
-      "rank": 4,
-      "title": "Léo Gamalho iguala Zé Carlos na artilharia histórica da Série B com 92 gols",
-      "label": "Artilharia histórica da Série B · Empate no topo",
-      "context": "Léo Gamalho chegou a 92 gols e se igualou a Zé Carlos como maior artilheiro da história da Série B. O feito reacende a discussão sobre quem são os maiores goleadores da competição e o peso desse recorde.",
-      "source": "bluesky",
-      "subreddit": "bsky_ba",
-      "permalink": "https://bsky.app/profile/htesports.bsky.social/post/3n2co2aeshk27",
-      "createdAt": "2026-11-14T23:35:36.849000+00:00",
-      "rawScore": 0.32993306447734083,
-      "relevanceScore": 0.4716793380673658,
-      "suggestedRadius": 77.21,
-      "imageUrl": "assets/images/bsky_3n2co2aeshk27_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2co2aeshk27_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ba",
-      "sources": [
-        {
-          "title": "RECORDE! Léo Gamalho se iguala a Zé Carlos na liderança da artilharia histórica da Série B com 92 gols Léo Gamalho e Zé Carlos ⚽ 92 gols Élton ⚽ 69 Anselmo Ramon ⚽ 62 Jael, Junior Viçosa, Lincom e Neto Baiano ⚽ 53 Caio Dantas ⚽ 52",
-          "url": "https://bsky.app/profile/htesports.bsky.social/post/3n2co2aeshk27",
-          "subreddit": "bsky_ba"
-        },
-        {
-          "title": "Pé-Raí, Piauí. A música do Tariflávio não é uma adaptação de uma anterior, em homenagem ao baiano Grampinho Neto?",
-          "url": "https://bsky.app/profile/obsol.bsky.social/post/3n24uo24fyc23",
-          "subreddit": "bsky_ba"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Léo Gamalho merece todo o reconhecimento: 92 gols na Série B é uma marca enorme, e igualar Zé Carlos mostra consistência e longevidade. É um recorde que valoriza a competição e entra para a história.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Esse recorde precisa de contexto: a Série B mudou muito, e comparar artilheiros de épocas diferentes é injusto. Zé Carlos fez os gols dele em outra realidade, e o número de jogos e o nível dos adversários eram outros.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A discussão sobre a música e a homenagem mostra que o assunto principal acabou desviado. O recorde de Léo Gamalho é fato, mas o debate nos comentários foi para outro lado, sobre a origem da música e a homenagem a Neto.",
-          "source": "sintese",
-          "evidence": [
-            1,
             2,
             3
           ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O artigo do Vermelho fala em expulsão, mas não fica claro qual diplomata nem qual foi a decisão oficial do Brasil. Sem confirmar o fato concreto, a discussão vira só troca de acusações nas redes.",
+          "source": "sintese",
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -257,17 +128,17 @@
     },
     {
       "id": "bsky_3mzzmvharss2u",
-      "rank": 5,
+      "rank": 3,
       "title": "Sionistas estariam montando comunidade em Itacaré, diz PRAVDA-BR",
       "label": "Comunidade sionista em Itacaré · denúncia",
-      "context": "O perfil PRAVDA-BR publicou no X que sionistas estariam montando uma comunidade em Itacaré, na Bahia, comprando terras e se aproveitando da população local, citando uma fala de Breno Altman. A publicação gerou reações sobre o que moradores e autoridades podem fazer diante da situação.",
+      "context": "O perfil PRAVDA-BR publicou no X que sionistas estariam montando uma comunidade em Itacaré, na Bahia, comprando terras e se aproveitando da boa vontade da população local. A publicação defende que o Brasil não deveria permitir isso e cita Breno Altman como alguém que explica o porquê.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/ricardosog.bsky.social/post/3mzzmvharss2u",
       "createdAt": "2026-11-11T09:21:07.875000+00:00",
-      "rawScore": 0.24436244210265448,
-      "relevanceScore": 0.3755042522687551,
-      "suggestedRadius": 72.77,
+      "rawScore": 0.16887076251108799,
+      "relevanceScore": 0.2215149155197502,
+      "suggestedRadius": 64.24,
       "imageUrl": "assets/images/bsky_3mzzmvharss2u_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzzmvharss2u_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -288,30 +159,32 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Concordo com o Breno Altman: o Brasil não pode permitir que sionistas comprem terras em Itacaré e se aproveitem da boa vontade do povo baiano. É preciso divulgar o que está acontecendo e pressionar as autoridades para impedir essa ocupação.",
+          "text": "Concordo com o Breno Altman em gênero, número e grau. O Brasil precisa reagir a essa ocupação em Itacaré, e o governo deveria exigir vistos e expulsar estrangeiros que vêm para cá com esse tipo de intenção.",
           "source": "sintese",
           "evidence": [
             6,
-            12
+            13,
+            14
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O governo Lula não faz nada para expulsar os bandidos israelenses do litoral da Bahia. O Brasil virou um país que qualquer criminoso internacional pode entrar, e a Bahia só parece interessar na época da eleição.",
+          "text": "O foco no sionismo em Itacaré é um erro: a Bahia sofre com racismo e mercenarismo que não têm nada a ver com judeus defendendo seu estado. Essa denúncia desvia a atenção dos problemas reais da região.",
           "source": "sintese",
           "evidence": [
-            13
+            8
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O cidadão comum pode protestar e exigir dos poderes constituídos, mas não tem poder de expulsar ninguém. Só o Executivo e o Judiciário podem tirar estrangeiros do país, e é obrigação do governo exigir vistos para entrada de estrangeiros.",
+          "text": "Quem tem poder para agir são o executivo e o judiciário, não o cidadão comum. Pressão popular e protestos ajudam, mas expulsar alguém do país é obrigação das autoridades, e é isso que precisa ser cobrado.",
           "source": "sintese",
           "evidence": [
+            1,
             14
           ],
           "votes": 0
@@ -321,20 +194,141 @@
       "promptVersion": 2
     },
     {
+      "id": "bsky_3n2bht4xqkk2c",
+      "rank": 4,
+      "title": "Falta um porradeiro raiz na seleção masculina, diz post após expulsão de Raphinha",
+      "label": "Expulsão de Raphinha · Reação nas redes",
+      "context": "Raphinha foi expulso após dar chilique em partida da seleção masculina, e um post no Bluesky criticou a falta de jogadores 'porradeiros' como Junior Baiano e Luis Fabiano. A comparação gerou comentários sobre violência no futebol e sobre a diferença de postura entre gerações de atletas.",
+      "source": "bluesky",
+      "subreddit": "bsky_ba",
+      "permalink": "https://bsky.app/profile/brenoamaro.bsky.social/post/3n2bht4xqkk2c",
+      "createdAt": "2026-11-14T12:11:36.047000+00:00",
+      "rawScore": 0.1659594089669277,
+      "relevanceScore": 0.21908083309754028,
+      "suggestedRadius": 64.08,
+      "imageUrl": "assets/images/bsky_3n2bht4xqkk2c_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2bht4xqkk2c_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ba",
+      "sources": [
+        {
+          "title": "Falta um porradeiro raiz nessa seleção masculina Tipo Junior Baiano, Luis Fabiano... Raphinha deu chilique e foi expulso e não fez nada Cadê a voadora? Cadê o soco giratório? Frouxos",
+          "url": "https://bsky.app/profile/brenoamaro.bsky.social/post/3n2bht4xqkk2c",
+          "subreddit": "bsky_ba"
+        },
+        {
+          "title": "eu pensava, esse tipo de esculhambação só baiano sabe fazer",
+          "url": "https://bsky.app/profile/cintiage1984.bsky.social/post/3n27x7ezhss2h",
+          "subreddit": "bsky_ba"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Junior Baiano e Luis Fabiano resolviam no grito e na porrada, e essa seleção atual precisa resgatar essa raça. Raphinha deu chilique e foi expulso sem fazer nada, então uma voadora ou um soco giratório faria o juiz entender com quem está lidando.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Violência didática não resolve nada e só piora a imagem do futebol brasileiro. Raphinha errou ao dar chilique, mas defender porrada em campo é um retrocesso que não deveria ser celebrado como 'raiz'.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A expulsão de Raphinha foi um chilique desnecessário, mas comparar com Junior Baiano e Luis Fabiano é saudosismo exagerado. O futebol mudou, e a esculhambação de antigamente não cabe mais no esporte profissional.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2co2aeshk27",
+      "rank": 5,
+      "title": "Léo Gamalho iguala Zé Carlos na artilharia histórica da Série B com 92 gols",
+      "label": "Artilharia histórica da Série B · Empate no topo",
+      "context": "Léo Gamalho chegou a 92 gols e se igualou a Zé Carlos na liderança da artilharia histórica da Série B. O feito coloca os dois no topo de uma lista que tem Élton (69), Anselmo Ramon (62) e outros nomes com 53 gols ou menos.",
+      "source": "bluesky",
+      "subreddit": "bsky_ba",
+      "permalink": "https://bsky.app/profile/htesports.bsky.social/post/3n2co2aeshk27",
+      "createdAt": "2026-11-14T23:35:36.849000+00:00",
+      "rawScore": 0.1028233634163524,
+      "relevanceScore": 0.16629496001429517,
+      "suggestedRadius": 60.47,
+      "imageUrl": "assets/images/bsky_3n2co2aeshk27_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2co2aeshk27_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ba",
+      "sources": [
+        {
+          "title": "RECORDE! Léo Gamalho se iguala a Zé Carlos na liderança da artilharia histórica da Série B com 92 gols Léo Gamalho e Zé Carlos ⚽ 92 gols Élton ⚽ 69 Anselmo Ramon ⚽ 62 Jael, Junior Viçosa, Lincom e Neto Baiano ⚽ 53 Caio Dantas ⚽ 52",
+          "url": "https://bsky.app/profile/htesports.bsky.social/post/3n2co2aeshk27",
+          "subreddit": "bsky_ba"
+        },
+        {
+          "title": "Pé-Raí, Piauí. A música do Tariflávio não é uma adaptação de uma anterior, em homenagem ao baiano Grampinho Neto?",
+          "url": "https://bsky.app/profile/obsol.bsky.social/post/3n24uo24fyc23",
+          "subreddit": "bsky_ba"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Léo Gamalho merece todo o reconhecimento: chegar a 92 gols e empatar com Zé Carlos na liderança histórica da Série B mostra uma consistência rara. É um recorde que valoriza a competição e a trajetória do atacante.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A lista de artilheiros da Série B mistura épocas e critérios diferentes, então esse empate com Zé Carlos pode ser menos significativo do que parece. Sem um recorte claro, o recorde fica mais simbólico do que histórico.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O número de 92 gols é impressionante, mas o contexto de quantas partidas e em quais temporadas cada um fez esses gols muda a leitura. Vale comemorar, mas também entender como essa artilharia histórica é calculada.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
       "id": "bsky_3n27h4bace22q",
       "rank": 6,
-      "title": "Dramaturgo baiano Elísio Lopes Jr. tem estreia na TV ofuscada por Mario Teixeira",
-      "label": "Estreia de Elísio Lopes Jr. · Teledramaturgia",
-      "context": "Elísio Lopes Jr., dramaturgo baiano, estreou seu primeiro grande trabalho na TV, mas a discussão pública se concentrou em Mario Teixeira, paulista que está na terceira novela sobre o sertão. A comparação levanta a questão de qual conteúdo a teledramaturgia brasileira está priorizando e divulgando.",
+      "title": "Dramaturgo baiano tem estreia na TV ofuscada por paulista em 3ª novela sobre o sertão",
+      "label": "Estreia de Elísio Lopes Jr · Sertão na TV",
+      "context": "Elísio Lopes Jr, dramaturgo baiano, estreia seu primeiro grande trabalho na TV, mas a discussão pública se concentra em Mario Teixeira, paulista que está em sua terceira novela sobre o sertão. A comparação levanta a questão de qual conteúdo a teledramaturgia brasileira está priorizando e divulgando.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/milamesmo.bsky.social/post/3n27h4bace22q",
       "createdAt": "2026-11-13T16:53:29.273000+00:00",
-      "rawScore": 0.2201447900182863,
-      "relevanceScore": 0.23589274757961587,
-      "suggestedRadius": 65.14,
-      "imageUrl": "assets/images/bsky_3n27h4bace22q_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27h4bace22q_wiki_thumb.jpg",
+      "rawScore": 0.130861846792555,
+      "relevanceScore": 0.10613041454337613,
+      "suggestedRadius": 55.55,
+      "imageUrl": "assets/images/bsky_3n27h4bace22q_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27h4bace22q_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-ba",
       "sources": [
@@ -348,7 +342,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A estreia de Elísio Lopes Jr. merecia o mesmo destaque que a de Mario Teixeira. Um dramaturgo baiano tendo seu primeiro grande trabalho na TV deveria ser celebrado junto com toda a equipe, não ofuscado por quem já está na terceira novela sobre o mesmo tema.",
+          "text": "A estreia de Elísio Lopes Jr na TV merecia mais destaque, junto com toda a equipe. Um dramaturgo baiano trazendo sua voz para a teledramaturgia é o tipo de novidade que deveria ser celebrada, não ofuscada por mais uma novela de sertão assinada por quem já fez três.",
           "source": "sintese",
           "evidence": [
             1
@@ -358,7 +352,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A mídia e o público dão palco para o que não presta e ignoram o que tem valor. Enquanto isso, a teledramaturgia brasileira se afunda e as pessoas passam a achar que só existe conteúdo ruim, preferindo enlatados de streaming que cancelam sem final.",
+          "text": "A mídia e o público dão palco para o que não presta e ignoram o que presta. Enquanto isso, a teledramaturgia brasileira se afunda e a pessoa comum acha que bom mesmo é enlatado de streaming que cancela sem final. O problema é o que se propaga como conteúdo.",
           "source": "sintese",
           "evidence": [
             1
@@ -368,62 +362,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O problema não é só a escolha de quem é enaltecido, mas o que se propaga como conteúdo. Se o que circula é sempre considerado bosta, a pessoa comum vai achar que a vida é só isso e que a teledramaturgia nacional está falida, sem chance de descobrir o que presta.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n27yaya4j22b",
-      "rank": 7,
-      "title": "Última chamada: ÁRIDA: Backland's Awakening sai de R$ 13,99 por R$ 4,89 na Steam, só até domingo (15/11)",
-      "label": "Promoção de ÁRIDA na Steam",
-      "context": "O jogo ÁRIDA: Backland's Awakening está com desconto na Steam, de R$ 13,99 por R$ 4,89, até domingo (15/11). A promoção é uma chance de conhecer o título que retrata a seca no sertão baiano e a história da jovem Cícera.",
-      "source": "bluesky",
-      "subreddit": "bsky_ba",
-      "permalink": "https://bsky.app/profile/aocagamelab.bsky.social/post/3n27yaya4j22b",
-      "createdAt": "2026-11-13T22:00:24.994000+00:00",
-      "rawScore": 0.17466621786428788,
-      "relevanceScore": 0.18477817744411804,
-      "suggestedRadius": 61.79,
-      "imageUrl": "assets/images/bsky_3n27yaya4j22b_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27yaya4j22b_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ba",
-      "sources": [
-        {
-          "title": "Última chamada! 🌵 ÁRIDA: Backland's Awakening sai de R$ 13,99 por R$ 4,89 na Steam, só até domingo (15/11). Sobreviva à seca no sertão baiano e descubra o destino da jovem Cícera.",
-          "url": "https://bsky.app/profile/aocagamelab.bsky.social/post/3n27yaya4j22b",
-          "subreddit": "bsky_ba"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Por menos de cinco reais, ÁRIDA oferece uma experiência única sobre o sertão baiano e a luta pela sobrevivência. É uma ótima oportunidade para conhecer um jogo nacional com uma narrativa envolvente.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A promoção pode parecer tentadora, mas o preço baixo não compensa se o jogo não tiver qualidade. Muitos podem se decepcionar com a jogabilidade ou com a duração curta, então é bom pesquisar antes de comprar.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O desconto é significativo, mas vale lembrar que promoções na Steam são frequentes. Quem tiver interesse no tema pode aproveitar, mas não precisa se sentir pressionado pelo prazo curto.",
+          "text": "O foco em Mario Teixeira não é à toa: ele já tem nome e três novelas sobre o sertão, o que garante ibope. Elísio Lopes Jr é uma aposta nova, e a TV aberta raramente arrisca sem uma base de público. A questão é se essa lógica abre espaço para novos dramaturgos ou os deixa de lado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -434,17 +373,17 @@
     },
     {
       "id": "bsky_3n25cn54k2k2e",
-      "rank": 8,
+      "rank": 7,
       "title": "Filho de Leandro Ávila se casa com filha de Júnior Baiano",
       "label": "Casamento entre filhos de ex-jogadores",
-      "context": "O filho do ex-jogador Leandro Ávila se casou com a filha do também ex-jogador Júnior Baiano, conforme noticiado pelo ge.globo.com. A união entre as famílias de dois nomes conhecidos do futebol chamou a atenção nas redes sociais.",
+      "context": "O filho do ex-jogador Leandro Ávila se casou com a filha do também ex-jogador Júnior Baiano, conforme noticiado pelo ge.globo.com. A união entre as famílias de dois nomes conhecidos do futebol chamou atenção nas redes sociais.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/ecolombari.bsky.social/post/3n25cn54k2k2e",
       "createdAt": "2026-11-12T20:28:10.283000+00:00",
-      "rawScore": 0.05492932440453149,
-      "relevanceScore": 0.1625953608510762,
-      "suggestedRadius": 60.19,
+      "rawScore": 0.030823387437181302,
+      "relevanceScore": 0.10609826000100789,
+      "suggestedRadius": 55.54,
       "imageUrl": "assets/images/bsky_3n25cn54k2k2e_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n25cn54k2k2e_reddit_thumb.jpg",
       "category": "esportes",
@@ -465,7 +404,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A união das famílias mostra que o futebol também cria laços afetivos duradouros. É bonito ver filhos de ídolos se conhecendo e formando novas famílias, mantendo viva a conexão entre gerações do esporte.",
+          "text": "Achei uma notícia bonita, mostra que o futebol também cria laços familiares. As duas famílias se unindo é um exemplo de como o esporte pode aproximar pessoas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -473,7 +412,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ficar noticiando casamento de filho de jogador é puro fofoca. Isso não é notícia relevante, é intromissão na vida privada de pessoas que não escolheram ser famosas. A imprensa esportiva deveria focar no esporte.",
+          "text": "Fico pensando se essa união não é só mais uma forma de manter privilégios no meio do futebol. Filhos de jogadores famosos se casando entre si parece coisa de panelinha.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -481,69 +420,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A notícia é mais uma curiosidade sobre a vida pessoal de ex-jogadores. Não muda nada no futebol, mas serve para mostrar como essas famílias seguem conectadas. Cada um dá a importância que quiser.",
+          "text": "Não vejo nada demais, é só um casamento. O que importa é que sejam felizes, independentemente da fama dos pais. Acho que a repercussão é maior do que deveria.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2a35nxcu22i",
-      "rank": 9,
-      "title": "Boldo-baiano: usuária relata bem-estar após usar folhas de alumã",
-      "label": "Boldo-baiano · Uso e identificação da planta",
-      "context": "Uma usuária relatou no Bluesky que passou a usar folhas de boldo-baiano (Vernonia condensata), planta da família Asteraceae, e disse estar se sentindo bem. O post mistura o uso da planta com referências à cultura afro-brasileira e desperta interesse sobre identificação e propriedades da espécie.",
-      "source": "bluesky",
-      "subreddit": "bsky_ba",
-      "permalink": "https://bsky.app/profile/daisyhenry72.bsky.social/post/3n2a35nxcu22i",
-      "createdAt": "2026-11-13T22:57:24.775000+00:00",
-      "rawScore": 0.1468718510181605,
-      "relevanceScore": 0.1535393533949064,
-      "suggestedRadius": 59.51,
-      "imageUrl": "assets/images/bsky_3n2a35nxcu22i_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2a35nxcu22i_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ba",
-      "sources": [
-        {
-          "title": "Eu deu certo ou tu vai precisar de uma salina inteira? 🤭 Eu cai nas folhas de alumã e estou muito bem. Boldo-baiano/alumã (Vernonia condensata) da família Asteraceae pt.wikipedia.org/wiki/Boldo-b...",
-          "url": "https://bsky.app/profile/daisyhenry72.bsky.social/post/3n2a35nxcu22i",
-          "subreddit": "bsky_ba"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Saber o nome científico e a família da planta faz toda a diferença: a alumã é Asteraceae, e quem conhece a espécie consegue usar com mais segurança e ainda ensinar os outros. Catalogar folhas desde criança virou ferramenta de cuidado hoje.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Falar de boldo-baiano sem citar a relação com Exu e Oxalá deixa a conversa pela metade. A planta carrega esse significado religioso, e tratar só como espécie botânica ignora quem precisa dela por esse motivo.",
-          "source": "sintese",
-          "evidence": [
-            5
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Ainda não deu certo por aqui, mas a véia está mais quieta, sim. O relato de bem-estar com a alumã é interessante, só que cada organismo reage de um jeito e vale observar antes de generalizar.",
-          "source": "sintese",
-          "evidence": [
-            4
-          ],
           "votes": 0
         }
       ],
@@ -552,17 +431,17 @@
     },
     {
       "id": "bsky_3mzw3blex2s27",
-      "rank": 10,
+      "rank": 8,
       "title": "Baiano dando voadora em genocida. Tudo de bom ☺️",
       "label": "Voadora em genocida · Reação na web",
-      "context": "Um post no Bluesky mostra um baiano dando uma voadora em alguém chamado de genocida, com a legenda 'Tudo de bom ☺️'. A publicação viralizou e gerou reações divididas, incluindo críticas ao PT baiano.",
+      "context": "Um post no Bluesky mostra um baiano dando uma voadora em uma pessoa chamada de genocida, com a legenda 'Tudo de bom ☺️'. A publicação gerou reações e foi compartilhada com comentários como 'O pt baiano é uma dor de cabeça à parte. Tudo pombo sujo.'",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/fadinhamalvada.bsky.social/post/3mzw3blex2s27",
       "createdAt": "2026-11-09T23:27:46.983000+00:00",
-      "rawScore": 0.03850581896551401,
-      "relevanceScore": 0.1441365486924455,
-      "suggestedRadius": 58.78,
+      "rawScore": 0.02409456839019952,
+      "relevanceScore": 0.10047252615726282,
+      "suggestedRadius": 55.02,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -583,7 +462,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A voadora do baiano em um genocida é um ato de justiça popular. Quem comete atrocidades não merece piedade, e a reação espontânea do povo mostra que a impunidade não vai passar batido.",
+          "text": "A voadora do baiano é uma resposta direta e merecida contra um genocida. Quem comete atrocidades não merece piedade, e a internet tá certa em celebrar. Tudo de bom mesmo!",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -591,7 +470,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa glorificação da violência é um erro. Ainda que o alvo seja detestável, aplaudir agressão física vira baderna e só prejudica a causa. O PT baiano já é dor de cabeça sem precisar desse tipo de cena.",
+          "text": "O post 'O pt baiano é uma dor de cabeça à parte. Tudo pombo sujo.' critica a atitude do baiano, sugerindo que ele é problemático e que a voadora não resolve nada, só gera mais confusão.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -599,9 +478,126 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A reação ao post mostra que o assunto é tratado como piada, mas a violência real não deveria ser celebrada. O contexto político baiano e a figura do genocida merecem análise, não só memes e voadoras.",
+          "text": "A reação ao baiano varia: uns acham a voadora justificada, outros criticam o pt baiano como 'pombo sujo'. O episódio mostra como a internet reage de forma dividida a ações diretas.",
           "source": "sintese",
           "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27yaya4j22b",
+      "rank": 9,
+      "title": "ÁRIDA: Backland's Awakening em promoção na Steam por R$ 4,89 até domingo",
+      "label": "Promoção de ÁRIDA na Steam",
+      "context": "O jogo ÁRIDA: Backland's Awakening está com desconto na Steam, de R$ 13,99 por R$ 4,89, até domingo (15/11). A promoção é uma chance de conhecer o título que se passa no sertão baiano e acompanha a jovem Cícera.",
+      "source": "bluesky",
+      "subreddit": "bsky_ba",
+      "permalink": "https://bsky.app/profile/aocagamelab.bsky.social/post/3n27yaya4j22b",
+      "createdAt": "2026-11-13T22:00:24.994000+00:00",
+      "rawScore": 0.09733218719390371,
+      "relevanceScore": 0.07809742101860682,
+      "suggestedRadius": 52.77,
+      "imageUrl": "assets/images/bsky_3n27yaya4j22b_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27yaya4j22b_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ba",
+      "sources": [
+        {
+          "title": "Última chamada! 🌵 ÁRIDA: Backland's Awakening sai de R$ 13,99 por R$ 4,89 na Steam, só até domingo (15/11). Sobreviva à seca no sertão baiano e descubra o destino da jovem Cícera.",
+          "url": "https://bsky.app/profile/aocagamelab.bsky.social/post/3n27yaya4j22b",
+          "subreddit": "bsky_ba"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Por R$ 4,89 vale a pena conhecer ÁRIDA, ainda mais com a temática do sertão baiano e a história da Cícera. É um preço acessível para um jogo independente e a promoção termina domingo, então é uma boa oportunidade.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Promoções relâmpago assim pressionam a gente a comprar por impulso. O jogo pode ser bom, mas o prazo curto até domingo e o preço baixo fazem muita gente comprar sem pensar se realmente vai jogar.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O desconto é atrativo, mas antes de comprar é bom ver se o jogo roda no seu PC e se o estilo agrada. A temática do sertão é interessante, mas cada um sabe se vale a pena gastar mesmo pouco.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2a35nxcu22i",
+      "rank": 10,
+      "title": "Boldo-baiano: usuário relata bem-estar após usar folhas de alumã",
+      "label": "Boldo-baiano · Usos e identificação da planta",
+      "context": "Um usuário do Bluesky relatou estar se sentindo bem após usar folhas de boldo-baiano, também chamado de alumã (Vernonia condensata), e compartilhou o link da página da planta na Wikipédia. Nos comentários, outras pessoas falaram sobre o cultivo da espécie, o hábito de catalogar plantas e o interesse em encontrar a planta.",
+      "source": "bluesky",
+      "subreddit": "bsky_ba",
+      "permalink": "https://bsky.app/profile/daisyhenry72.bsky.social/post/3n2a35nxcu22i",
+      "createdAt": "2026-11-13T22:57:24.775000+00:00",
+      "rawScore": 0.07978272895131375,
+      "relevanceScore": 0.06342492343985053,
+      "suggestedRadius": 51.11,
+      "imageUrl": "assets/images/bsky_3n2a35nxcu22i_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2a35nxcu22i_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ba",
+      "sources": [
+        {
+          "title": "Eu deu certo ou tu vai precisar de uma salina inteira? 🤭 Eu cai nas folhas de alumã e estou muito bem. Boldo-baiano/alumã (Vernonia condensata) da família Asteraceae pt.wikipedia.org/wiki/Boldo-b...",
+          "url": "https://bsky.app/profile/daisyhenry72.bsky.social/post/3n2a35nxcu22i",
+          "subreddit": "bsky_ba"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Saber o nome científico e a família da planta faz diferença: quem cataloga e estuda as espécies desde criança reconhece o boldo-baiano e usa com mais segurança, em vez de depender só do nome popular.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O relato de bem-estar depois de usar a folha não prova nada sobre a planta, e sair divulgando isso sem orientação pode levar gente a consumir a espécie errada achando que é boldo-baiano.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            4
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A planta desperta interesse por motivos que vão além do uso medicinal, e tem gente querendo encontrá-la por questões ligadas a exu e oxalá, o que mostra que o valor dela depende de quem procura.",
+          "source": "sintese",
+          "evidence": [
+            4,
+            5
+          ],
           "votes": 0
         }
       ],

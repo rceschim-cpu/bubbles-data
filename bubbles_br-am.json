@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T05:36:37.700519+00:00",
+  "generatedAt": "2026-11-15T18:44:08.435040+00:00",
   "region": "br-am",
   "count": 10,
   "items": [
@@ -7,8 +7,8 @@
       "id": "bsky_3n2crfocmts2c",
       "rank": 1,
       "title": "Paraense reage a quem diz ter comido tacacá em Manaus",
-      "label": "Tacacá em Manaus · Reação paraense",
-      "context": "Uma pessoa contou a uma paraense que comeu tacacá em Manaus e recebeu um olhar de desaprovação, comparável à reação de quem ouve que alguém comeu pão de queijo em São Paulo. A situação viralizou ao expor a rivalidade regional sobre a origem e a autenticidade de pratos típicos.",
+      "label": "Tacacá · Rivalidade entre Pará e Amazonas",
+      "context": "Uma pessoa contou que falou para uma paraense que havia comido tacacá em Manaus e recebeu um olhar de reprovação, comparável à reação de quem ouve que alguém comeu pão de queijo em São Paulo. A cena viralizou e gerou comentários sobre a rivalidade entre Amazonas e Pará em torno da origem do prato.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/tricolhosa.bsky.social/post/3n2crfocmts2c",
@@ -31,25 +31,31 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O tacacá é patrimônio do Pará e quem é de fora deveria reconhecer isso. Comer em Manaus não é a mesma coisa, e a paraense tem toda razão em reagir assim.",
+          "text": "A reação da paraense faz sentido porque o tacacá é um prato típico do Pará, e comer em Manaus é visto como uma versão menos autêntica. É como provar pão de queijo em São Paulo e achar que conhece o original de Minas.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa reação é exagerada. Tacacá é comida de vários lugares da Amazônia, e Manaus também tem tradição. Cada um come onde quiser e não precisa levar bronca por isso.",
+          "text": "Essa rivalidade entre Amazonas e Pará é exagerada. Tacacá é comida de toda a região Norte, e quem come em Manaus também está comendo um prato tradicional. Ficar medindo quem tem mais legitimidade só afasta as pessoas.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A comparação com pão de queijo em São Paulo mostra que a questão é mais sobre identidade regional do que sobre gosto. O prato pode ser adaptado, mas o valor simbólico pesa.",
+          "text": "O caso lembra o BBB, quando Isabelle Nogueira e Alane entraram num paredão e a produção aproveitou a rivalidade entre Amazonas e Pará. A brincadeira existe, mas é mais uma piada regional do que uma disputa séria sobre quem faz o melhor tacacá.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
@@ -59,16 +65,16 @@
     {
       "id": "bsky_3n2c2txlcvc2x",
       "rank": 2,
-      "title": "Manaus enfrenta pior qualidade do ar do mundo há três meses",
+      "title": "Manaus enfrenta três meses com a pior qualidade do ar do mundo",
       "label": "Qualidade do ar em Manaus · Queimadas na floresta",
-      "context": "Manaus está há três meses com a pior qualidade do ar do mundo, segundo relato de morador. A fumaça vem de queimadas em regiões da floresta, provavelmente ligadas ao agronegócio, e o vento leva a poluição para a cidade.",
+      "context": "Manaus está há três meses com a pior qualidade do ar do mundo, segundo relato de morador publicado em 14 de novembro de 2026. A fumaça vem de queimadas em regiões da floresta, provavelmente ligadas ao agronegócio, e é levada pelo vento até a cidade.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/thomsilva.bsky.social/post/3n2c2txlcvc2x",
       "createdAt": "2026-11-14T17:52:04.552000+00:00",
-      "rawScore": 0.6390001829073806,
-      "relevanceScore": 0.7100002032304229,
-      "suggestedRadius": 86.56,
+      "rawScore": 0.523101264558298,
+      "relevanceScore": 0.5812236272869977,
+      "suggestedRadius": 81.74,
       "imageUrl": "assets/images/bsky_3n2c2txlcvc2x_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2c2txlcvc2x_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -84,7 +90,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A fumaça que atinge Manaus vem de queimadas na floresta, provavelmente do agro, e o vento traz tudo pra cidade. Quem mora aqui sabe que não é exagero: três meses respirando isso é desumano e precisa de cobrança sobre quem ateia fogo.",
+          "text": "A fumaça que cobre Manaus vem das queimadas na floresta, provavelmente ligadas ao agro, e o vento traz tudo pra cidade. Quem mora aqui não tem culpa e é o mais prejudicado, então precisamos cobrar quem está botando fogo.",
           "source": "sintese",
           "evidence": [
             2
@@ -94,7 +100,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O ar de Manaus está pior que o de São Paulo, e isso mostra como a situação está fora de controle. A cidade não pode ficar refém da fumaça de queimadas criminosas enquanto as autoridades não tomam providência.",
+          "text": "O ar de Manaus está pior que o de São Paulo, e isso mostra como a situação está fora de controle. Três meses respirando fumaça é um absurdo que afeta a saúde de todo mundo, e as autoridades não estão fazendo nada para resolver.",
           "source": "sintese",
           "evidence": [
             1
@@ -104,9 +110,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Quem é de Cuiabá sabe como é: quando o Pantanal pega fogo, a fumaça toma a cidade do mesmo jeito. O problema de Manaus não é isolado, é um padrão que se repete em várias regiões do país e merece solidariedade e solução conjunta.",
+          "text": "Quem é de Cuiabá sabe como é: quando o Pantanal pega fogo, a fumaça toma a cidade do mesmo jeito. Em Manaus não é diferente, e a solidariedade é importante, mas também precisamos entender o que está causando essas queimadas.",
           "source": "sintese",
           "evidence": [
+            3,
             4
           ],
           "votes": 0
@@ -120,14 +127,14 @@
       "rank": 3,
       "title": "Vocês querem ver eu comentando uma fala do Janones e reclamando dela?",
       "label": "Comentário sobre fala de Janones",
-      "context": "Um usuário do Bluesky compartilhou um link de um reel do Instagram perguntando se o público quer vê-lo comentando e reclamando de uma fala do deputado André Janones. A postagem convida a audiência a decidir se esse tipo de conteúdo deve ser produzido.",
+      "context": "Um usuário do Bluesky publicou um post perguntando se seus seguidores querem vê-lo comentar uma fala do deputado federal André Janones e reclamar dela, com link para um reel no Instagram. A publicação não detalha o conteúdo da fala nem o motivo da reclamação, e não há comentários na fonte que permitam identificar as posições em debate.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/yrs-pa.bsky.social/post/3n2aaxzapws23",
       "createdAt": "2026-11-14T00:36:24.671000+00:00",
-      "rawScore": 0.33977407284308264,
-      "relevanceScore": 0.37752674760342514,
-      "suggestedRadius": 72.87,
+      "rawScore": 0.36544585118692413,
+      "relevanceScore": 0.406050945763249,
+      "suggestedRadius": 74.23,
       "imageUrl": "assets/images/bsky_3n2aaxzapws23_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2aaxzapws23_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -143,7 +150,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Comentar falas de políticos como o Janones é útil porque expõe contradições e obriga a pessoa a explicar o que disse. Se a fala é problemática, trazer o vídeo e apontar o erro ajuda quem não acompanha política a entender o que está em jogo.",
+          "text": "Acompanhar e comentar falas de políticos como Janones é uma forma de expor contradições e manter o debate público vivo, especialmente quando o conteúdo original não é claro. Reclamar de uma fala é um direito e ajuda outros a perceberem o que está sendo dito.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -151,7 +158,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ficar reagindo a falas do Janones só dá palco e audiência para quem vive de provocação. Em vez de produzir conteúdo próprio, o criador transforma o político em personagem e alimenta exatamente o tipo de discussão que diz criticar.",
+          "text": "Ficar comentando e reclamando de falas de Janones só dá palco para quem vive de polêmica. Em vez de produzir conteúdo próprio, o usuário prefere reagir ao que o político disse, o que desvia o foco de assuntos mais relevantes e alimenta a briga nas redes.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -159,7 +166,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Depende do que a fala do Janones realmente diz e do tipo de comentário que vem depois. Reclamar sem contexto vira só mais um vídeo de reação; se o criador mostrar o trecho completo e explicar o motivo da crítica, aí sim o conteúdo tem valor.",
+          "text": "Sem saber qual é a fala e o contexto, não dá para concordar ou discordar do comentário. O post só pergunta se as pessoas querem ver a reação, mas não mostra o conteúdo, então qualquer julgamento sobre a reclamação fica no ar.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -171,16 +178,16 @@
     {
       "id": "bsky_3n2a33m6cis2h",
       "rank": 4,
-      "title": "Governo evita mexer nas renúncias tributárias mais graves, como MEI e Zona Franca de Manaus",
-      "label": "Renúncias tributárias e bolhas corporativistas",
-      "context": "O governo tem evitado alterar as renúncias tributárias consideradas mais graves, como as do MEI e da Zona Franca de Manaus, além de não mexer em bolhas corporativistas como supersalários e militares. A crítica aponta que o ajuste fiscal recai sobre outras áreas enquanto esses benefícios e privilégios permanecem intactos.",
+      "title": "Governo evita mexer em renúncias tributárias e bolhas corporativistas",
+      "label": "Renúncias tributárias e supersalários intocados",
+      "context": "O governo tem evitado alterar renúncias tributárias como as do MEI e da Zona Franca de Manaus, além de não mexer em bolhas corporativistas como supersalários e militares. A crítica aponta que esses benefícios e privilégios seguem fora do ajuste fiscal, enquanto outras áreas são cobradas a contribuir.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/arthursemtavola.bsky.social/post/3n2a33m6cis2h",
       "createdAt": "2026-11-13T22:51:03.078000+00:00",
-      "rawScore": 0.2830010698048325,
-      "relevanceScore": 0.3144456331164805,
-      "suggestedRadius": 69.65,
+      "rawScore": 0.306690202218106,
+      "relevanceScore": 0.3407668913534511,
+      "suggestedRadius": 71.03,
       "imageUrl": "assets/images/bsky_3n2a33m6cis2h_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2a33m6cis2h_uns_thumb.jpg",
       "category": "geopolitica",
@@ -196,17 +203,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O governo acerta ao não mexer na Zona Franca de Manaus de imediato, porque acabar com ela sem plano de substituição quebraria a economia de uma região inteira que depende desses empregos e incentivos para se manter de pé.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Renúncias como MEI e Zona Franca de Manaus e bolhas como supersalários e militares seguem intocadas, e isso mostra que o ajuste fiscal sempre sobra para quem não tem lobby organizado em Brasília para se defender.",
+          "text": "A Suécia chegou a um estado de bem-estar social robusto sem deixar a dívida passar de 80% do PIB, o que mostra que dá para sustentar políticas sociais sem depender de renúncias tributárias mal desenhadas como as do MEI e da Zona Franca.",
           "source": "sintese",
           "evidence": [
             1
@@ -214,12 +211,21 @@
           "votes": 0
         },
         {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A Zona Franca de Manaus é uma questão em aberto: sem ela, o que acontece com a cidade? Comparar com outra capital qualquer ignora que o modelo foi criado justamente para desenvolver uma região isolada da Amazônia.",
+          "id": "op2",
+          "tone": "negative",
+          "text": "Acabar com a Zona Franca de Manaus sem plano de substituição é temerário: a região depende desse modelo para gerar emprego e renda, e simplesmente cortar o benefício deixaria Manaus sem alternativa econômica viável.",
           "source": "sintese",
           "evidence": [
-            2,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Manaus sem a Zona Franca ficaria como qualquer outra capital brasileira, o que sugere que o problema não é o benefício em si, mas a ausência de uma política de desenvolvimento regional que funcione em qualquer cenário.",
+          "source": "sintese",
+          "evidence": [
             3
           ],
           "votes": 0
@@ -232,17 +238,17 @@
       "id": "bsky_3n27vbrdtps2c",
       "rank": 5,
       "title": "Um dos carrascos do que aconteceu em Manaus na pandemia Nunca se esqueçam",
-      "label": "Crise de Manaus · Cobrança de responsabilidade",
-      "context": "Um post no Bluesky chama de 'carrasco' um dos responsáveis pela crise de Manaus durante a pandemia e pede que o episódio não seja esquecido. A publicação reacende a cobrança sobre as decisões que levaram ao colapso no atendimento hospitalar da cidade.",
+      "label": "Carrasco de Manaus · Pandemia",
+      "context": "Um post no Bluesky chama de \"carrasco\" uma pessoa envolvida no que aconteceu em Manaus durante a pandemia de Covid-19 e repete \"nunca se esqueçam\". O episódio de Manaus ficou marcado pela crise de oxigênio e pelo colapso no atendimento, e a cobrança por responsabilização segue presente.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/luludussan.bsky.social/post/3n27vbrdtps2c",
       "createdAt": "2026-11-13T21:07:07.675000+00:00",
-      "rawScore": 0.19713214779834382,
-      "relevanceScore": 0.21903571977593755,
-      "suggestedRadius": 64.08,
-      "imageUrl": "assets/images/bsky_3n27vbrdtps2c_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27vbrdtps2c_wiki_thumb.jpg",
+      "rawScore": 0.21232644163980985,
+      "relevanceScore": 0.2359182684886776,
+      "suggestedRadius": 65.14,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-am",
       "sources": [
@@ -256,7 +262,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A cobrança pública é necessária: sem pressão constante, os responsáveis pela crise de Manaus durante a pandemia acabam esquecidos e impunes. O post cumpre o papel de manter o tema vivo e exigir que as decisões daquele período sejam lembradas e cobradas.",
+          "text": "A cobrança para que nunca se esqueça o que houve em Manaus é necessária. Sem memória, os responsáveis pelo colapso no atendimento e pela falta de oxigênio acabam impunes, e as vítimas não são reparadas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -264,7 +270,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Chamar alguém de 'carrasco' sem provas ou contexto não ajuda em nada. A crise de Manaus foi complexa e precisa ser discutida com base em fatos e responsabilidades claras, não com ataques emocionais que só polarizam e desviam o foco do que realmente importa.",
+          "text": "Chamar alguém de carrasco sem apresentar provas ou um processo formal é injusto. A crise de Manaus foi resultado de falhas sistêmicas e decisões de governo, não de uma pessoa só, e acusações assim podem destruir reputações.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -272,7 +278,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Lembrar o que aconteceu em Manaus é essencial, mas o post não aponta quem é o 'carrasco' nem quais decisões específicas levaram ao colapso. Sem informações concretas, a cobrança fica no campo da indignação e não avança na responsabilização.",
+          "text": "O caso de Manaus precisa de investigação transparente e responsabilização com base em evidências. Gritar 'nunca se esqueçam' sem apontar fatos concretos não ajuda a esclarecer o que realmente aconteceu nem a evitar novas tragédias.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -284,18 +290,18 @@
     {
       "id": "bsky_3n22jbwzgy22x",
       "rank": 6,
-      "title": "Manauaras fazem vídeos alarmistas sobre preços altos, ignorando efeito da seca no transporte",
+      "title": "Manaus: vídeos alarmistas sobre preços ignoram efeito da seca no transporte",
       "label": "Preços em Manaus · Seca e custo de vida",
-      "context": "Um post no Bluesky critica vídeos feitos em Manaus que alarmam sobre preços altos, mas omitem que a seca encarece o transporte de mercadorias que vêm de fora. A discussão liga o custo de vida à preservação ambiental, já que a seca afeta diretamente a logística e os preços na região.",
+      "context": "Um post no Bluesky critica vídeos feitos em Manaus que alarmam sobre a alta dos preços, dizendo que eles ignoram a seca, que encarece o transporte de mercadorias vindas de fora. O episódio coloca em discussão como a variação dos preços é explicada e quais fatores são lembrados nesse debate.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/milaleonel.bsky.social/post/3n22jbwzgy22x",
       "createdAt": "2026-11-11T17:49:08.769000+00:00",
-      "rawScore": 0.13769047129804407,
-      "relevanceScore": 0.1529894125533823,
-      "suggestedRadius": 59.47,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.18127580655236203,
+      "relevanceScore": 0.2014175628359578,
+      "suggestedRadius": 62.93,
+      "imageUrl": "assets/images/bsky_3n22jbwzgy22x_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n22jbwzgy22x_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-am",
       "sources": [
@@ -309,17 +315,15 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A seca encarece o transporte de tudo que chega em Manaus, então ignorar isso nos vídeos é desonesto. Quem fala só de preço alto sem citar a logística está fazendo alarmismo, não informação.",
+          "text": "A seca encarece o frete e isso pesa no preço final, então quem faz vídeo dizendo só 'está tudo caro' sem citar esse fator está simplificando a história. Ignorar a logística é esconder a causa real do problema.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Falar de preservação e fiscalização contra crime ambiental é tratado como demagogia de ONG estrangeira, mas é exatamente isso que evita secas piores. O problema não é o vídeo, é a falta de política ambiental.",
+          "text": "Falar de preservação e fiscalização contra crime ambiental é tratado como demagogia de ONG estrangeira, mas é justamente isso que evita a seca e o encarecimento. Quem critica os vídeos sobre preços deveria olhar para a causa ambiental.",
           "source": "sintese",
           "evidence": [
             1
@@ -329,7 +333,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A seca realmente encarece o transporte, mas os vídeos sobre preços altos não estão errados em reclamar. O custo de vida é real, e a população sente no bolso, independente da causa.",
+          "text": "A alta dos preços em Manaus tem várias causas, e a seca é uma delas, mas não a única. Vídeos alarmistas erram ao ignorar a logística, mas também é preciso considerar outros fatores que encarecem o consumo local.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -348,9 +352,9 @@
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/apenasumchico.bsky.social/post/3n24jefh4sk2f",
       "createdAt": "2026-11-12T12:55:50.974000+00:00",
-      "rawScore": 0.11548875143943461,
-      "relevanceScore": 0.12832083493270513,
-      "suggestedRadius": 57.49,
+      "rawScore": 0.14433181636739695,
+      "relevanceScore": 0.16036868485266328,
+      "suggestedRadius": 60.03,
       "imageUrl": null,
       "imageThumbUrl": "",
       "category": "geopolitica",
@@ -371,16 +375,16 @@
       "rank": 8,
       "title": "Saudade de Manaus e do sol à beira do rio",
       "label": "Saudade de Manaus · Sol à beira do rio",
-      "context": "Uma pessoa expressou no Bluesky a saudade de Manaus e do sol à beira do rio. A publicação é curta e não traz detalhes sobre o motivo da lembrança.",
+      "context": "Uma pessoa expressou no Bluesky a saudade que sente de Manaus e dos dias de sol à beira do rio. A publicação é curta e não traz detalhes sobre o motivo da lembrança ou o contexto da viagem.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/igoreme.bsky.social/post/3n24qdsscfk2n",
       "createdAt": "2026-11-12T15:00:52.083000+00:00",
-      "rawScore": 0.10790941660430427,
-      "relevanceScore": 0.1198993517825603,
-      "suggestedRadius": 56.78,
-      "imageUrl": "assets/images/bsky_3n24qdsscfk2n_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n24qdsscfk2n_reddit_thumb.jpg",
+      "rawScore": 0.1335453203044545,
+      "relevanceScore": 0.14838368922717168,
+      "suggestedRadius": 59.11,
+      "imageUrl": "assets/images/bsky_3n24qdsscfk2n_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24qdsscfk2n_wiki_thumb.jpg",
       "category": "tech",
       "region": "br-am",
       "sources": [
@@ -394,7 +398,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Manaus tem esse sol na beira do rio que não existe igual em outro lugar. Quem já viveu sabe que a saudade bate forte e é uma lembrança boa.",
+          "text": "Manaus tem esse poder de ficar na memória: o sol na beira do rio é uma imagem que muita gente que já viveu ali carrega com carinho. A saudade aparece como um elogio à cidade e ao modo de vida ribeirinho.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -402,7 +406,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O calor de Manaus é insuportável e o sol na beira do rio só lembra mosquito e suor. Não sinto falta nenhuma dessa parte.",
+          "text": "Falar de sol à beira do rio em Manaus pode soar idealizado demais para quem enfrenta o calor extremo e a umidade no dia a dia. A lembrança bonita esconde o desconforto real de quem vive a rotina da cidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -410,7 +414,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Saudade de Manaus é comum, mas o post não diz o que aconteceu. Pode ser só nostalgia ou algo mais concreto que não foi explicado.",
+          "text": "A postagem é só um desabafo pessoal, sem detalhes sobre quando ou por que a pessoa deixou Manaus. Sem mais informações, fica difícil saber se a saudade é de uma viagem, de uma época ou da cidade como um todo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -424,16 +428,16 @@
       "rank": 9,
       "title": "8k em Manaus eu vivo igual barão tranquilo",
       "label": "Salário de 8k em Manaus · Custo de vida",
-      "context": "Um post no Bluesky afirma que, com 8 mil reais por mês em Manaus, é possível viver como um barão, sem aperto. A declaração gerou comentários sobre o custo de vida na cidade e sobre a diferença entre renda formal e renda obtida de forma ilegal.",
+      "context": "Um post no Bluesky afirma que, com 8 mil reais por mês em Manaus, é possível viver como um barão, tranquilamente. A declaração gerou comentários sobre o custo de vida na cidade e sobre a origem do dinheiro necessário para esse padrão.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/ratofebril.bsky.social/post/3n253sj4jr22h",
       "createdAt": "2026-11-12T18:25:51.477000+00:00",
-      "rawScore": 0.09401438740017515,
-      "relevanceScore": 0.10446043044463905,
-      "suggestedRadius": 55.39,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.11404889260055458,
+      "relevanceScore": 0.12672099177839397,
+      "suggestedRadius": 57.36,
+      "imageUrl": "assets/images/bsky_3n253sj4jr22h_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n253sj4jr22h_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-am",
       "sources": [
@@ -447,7 +451,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O custo de vida em Manaus é alto, mas com 8 mil dá para viver muito bem se a pessoa não tiver filhos e não quiser morar em bairro com aluguel de 5 mil. Para quem é solteiro e organizado, o salário rende bastante.",
+          "text": "O custo de vida em Manaus é caro, mas com 8 mil dá para viver muito bem se a pessoa não tiver filhos e não quiser morar em bairro de aluguel de 5 mil. Para quem é solteiro e organizado, o salário rende bastante.",
           "source": "sintese",
           "evidence": [
             2
@@ -457,7 +461,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Tirar 8 mil limpo no Brasil só é possível para quem está envolvido com atividades ilegais, como tráfico de drogas. Para o trabalhador comum, esse valor líquido é praticamente inalcançável.",
+          "text": "Tirar 8 mil limpo no Brasil só é possível para quem está envolvido com atividades ilegais, como tráfico de drogas. Para o trabalhador comum, esse valor líquido é irreal.",
           "source": "sintese",
           "evidence": [
             1
@@ -467,7 +471,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A fama de que quem ganha 8 mil em Manaus está envolvido com coisa errada é tão forte que um amigo de lá disse que as pessoas achariam isso dele. O valor chama atenção e gera desconfiança antes mesmo de qualquer explicação.",
+          "text": "Um amigo que mora em Manaus contou que as pessoas de lá desconfiam de quem ganha 8 mil, achando que está envolvido com coisa errada. Isso mostra como o valor é visto como fora do normal para a região.",
           "source": "sintese",
           "evidence": [
             3
@@ -483,16 +487,16 @@
       "rank": 10,
       "title": "GPS com alerta de neve na pista em Manaus, AM",
       "label": "GPS alerta neve em Manaus",
-      "context": "Um usuário publicou uma imagem de um GPS exibindo um alerta de neve na pista, com localização em Manaus, Amazonas. O alerta é incomum porque Manaus tem clima tropical e não neva, o que gerou comentários sobre a origem da imagem.",
+      "context": "Um usuário publicou uma foto do GPS mostrando um alerta de neve na pista enquanto estava em Manaus, no Amazonas. O alerta é incomum porque Manaus tem clima tropical e não neva na região.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/vagyfaly.bsky.social/post/3mzys6glsc224",
       "createdAt": "2026-11-11T01:22:54.679000+00:00",
-      "rawScore": 0.06836616950925242,
-      "relevanceScore": 0.07596241056583602,
-      "suggestedRadius": 52.54,
-      "imageUrl": "assets/images/bsky_3mzys6glsc224_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzys6glsc224_wiki_thumb.jpg",
+      "rawScore": 0.09216772175622867,
+      "relevanceScore": 0.10240857972914297,
+      "suggestedRadius": 55.2,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-am",
       "sources": [
@@ -506,17 +510,15 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O GPS pode estar mostrando cinzas de incêndios que se acumularam e parecem neve, então o alerta faz sentido dentro do que a tecnologia consegue detectar.",
+          "text": "O GPS errou feio, mas é compreensível: em Manaus não neva, então o alerta de neve na pista é só um bug engraçado. Vale mais como piada do que como falha grave.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Um alerta de neve em Manaus é completamente sem noção, ainda mais com a temperatura que faz aqui; isso mostra que o sistema não foi feito para a nossa região.",
+          "text": "Um GPS que alerta neve em Manaus mostra como esses sistemas são mal calibrados para o Brasil. Se erra o básico, como confiar em rotas e alertas de segurança?",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -524,9 +526,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A imagem pode ser só uma brincadeira ou um erro pontual do aplicativo, mas vale lembrar que Manaus não tem neve e o clima é quente o ano todo.",
+          "text": "As cinzas dos incêndios que acumularam podem ter confundido o sensor do GPS, gerando o alerta de neve. É um lembrete de que a qualidade do ar e eventos ambientais afetam até a tecnologia.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],

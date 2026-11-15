@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T05:36:37.700519+00:00",
+  "generatedAt": "2026-11-15T18:44:08.435040+00:00",
   "region": "br-ro",
   "count": 7,
   "items": [
@@ -7,8 +7,8 @@
       "id": "bsky_3n2bzekag2k2t",
       "rank": 1,
       "title": "Pesticidas jogados em cima e na água de povos indígenas em Rondônia",
-      "label": "Pesticidas em terras indígenas · Rondônia",
-      "context": "Um post no Bluesky denuncia que pesticidas estão sendo jogados diretamente sobre pessoas e na água de povos indígenas em Rondônia, citando uma reportagem do g1 deste ano. O autor afirma que o crime já se repetiu outras vezes, mas não há detalhes sobre investigações ou responsáveis.",
+      "label": "Pesticidas contra indígenas · Rondônia",
+      "context": "Um post no Bluesky denuncia que pesticidas estão sendo jogados em cima e na água de povos indígenas em Rondônia, citando uma reportagem do g1 deste ano. O autor afirma que o crime já se repetiu outras vezes, mas não há detalhes sobre investigações ou responsáveis.",
       "source": "bluesky",
       "subreddit": "bsky_ro",
       "permalink": "https://bsky.app/profile/radioproletario.bsky.social/post/3n2bzekag2k2t",
@@ -31,7 +31,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A denúncia precisa ser levada a sério: jogar pesticida na água e em cima de indígenas é uma violência que se repete e não pode ficar impune. O link do g1 mostra que o caso é real e deste ano, então as autoridades têm obrigação de investigar e punir os responsáveis.",
+          "text": "A denúncia precisa ser levada a sério: jogar pesticidas na água de indígenas é uma violência que se repete e não pode ficar impune. O link do g1 mostra que o caso é real e atual, e a sociedade precisa cobrar punição aos responsáveis.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -39,7 +39,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Postar link sem detalhes não resolve nada: se o crime se repete, é porque falta fiscalização e punição. Ficar só compartilhando notícia antiga não muda a realidade dessas comunidades, que continuam expostas à contaminação.",
+          "text": "Postar link sem detalhes não resolve nada; é preciso mostrar quem são os responsáveis e cobrar das autoridades. Sem provas concretas, a denúncia pode até atrapalhar a investigação e gerar desinformação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -47,117 +47,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A denúncia é grave, mas precisamos de mais informações: quem são os responsáveis, se houve boletim de ocorrência e o que as autoridades fizeram. Sem esses dados, fica difícil cobrar ação efetiva e evitar que o crime se repita.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2bhjopqnk2a",
-      "rank": 2,
-      "title": "Passageiro dá piti em aeroporto após voo RJ-MAO ser desviado para Porto Velho por mau tempo",
-      "label": "Desvio de voo · Passageiro dá escândalo",
-      "context": "Um voo do Rio de Janeiro para Manaus foi desviado para Porto Velho por causa do mau tempo, e um passageiro fez escândalo no aeroporto. O caso gerou discussão sobre como passageiros lidam com imprevistos causados pelo clima, que estão fora do controle das companhias e dos funcionários.",
-      "source": "bluesky",
-      "subreddit": "bsky_ro",
-      "permalink": "https://bsky.app/profile/kotsuki.bsky.social/post/3n2bhjopqnk2a",
-      "createdAt": "2026-11-14T12:06:19.540000+00:00",
-      "rawScore": 0.2973150040215874,
-      "relevanceScore": 0.33035000446843044,
-      "suggestedRadius": 70.49,
-      "imageUrl": "assets/images/bsky_3n2bhjopqnk2a_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2bhjopqnk2a_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ro",
-      "sources": [
-        {
-          "title": "Não tenho paciência com adulto chiliquento. Quando meu vôo RJ-MAO foi desviado para Porto Velho por causa do mau tempo, tinha um cara dando piti no aeroporto. Amigo, voa você debaixo do toró, vai. Meu padrasto começou o dele, mas cortei logo. Tem as Karens, mas é mais homem que dá show, né?",
-          "url": "https://bsky.app/profile/kotsuki.bsky.social/post/3n2bhjopqnk2a",
-          "subreddit": "bsky_ro"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Gritar com atendente não resolve nada: o desvio foi por causa do mau tempo, uma decisão de segurança que ninguém no aeroporto controla. O cara só passou vergonha e atrasou ainda mais quem estava esperando.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O estresse do passageiro é compreensível, ainda mais se estiver com crianças e sem informação clara da companhia. Falta de comunicação e fila gigante transformam um imprevisto em desespero, e aí a pessoa explode.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Cada um reage de um jeito ao imprevisto: tem quem grite e tem quem engula o prejuízo calado. O que pesa é que o desvio por mau tempo é decisão de segurança, então o escândalo não muda o voo, só desgasta todo mundo.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n27gtuhaxc2o",
-      "rank": 3,
-      "title": "Pastor preso por pedofilia; autor compara com ausência de mulheres trans em banheiros",
-      "label": "Pastor preso · comparação com banheiros",
-      "context": "Um pastor foi preso sob acusação de pedofilia, segundo notícia do Diário da Amazônia. O post que divulgou o caso criticou a atenção dada a mulheres trans em banheiros femininos, comparando os dois assuntos.",
-      "source": "bluesky",
-      "subreddit": "bsky_ro",
-      "permalink": "https://bsky.app/profile/lunna.bsky.social/post/3n27gtuhaxc2o",
-      "createdAt": "2026-11-13T16:48:46.975000+00:00",
-      "rawScore": 0.28254847220730095,
-      "relevanceScore": 0.313942746897001,
-      "suggestedRadius": 69.62,
-      "imageUrl": "assets/images/bsky_3n27gtuhaxc2o_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27gtuhaxc2o_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ro",
-      "sources": [
-        {
-          "title": "Mais um dia mais um pastor preso por pedófilia. SEMPRE UM PASTOR NUNCAAAAA UMA MULHER TRANS NUM BANHEIRO FEMININO. 57/26 diariodaamazonia.com.br/noticia/5/45...",
-          "url": "https://bsky.app/profile/lunna.bsky.social/post/3n27gtuhaxc2o",
-          "subreddit": "bsky_ro"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A comparação escancara a hipocrisia: enquanto pastores cometem crimes graves e são presos, o foco de parte da sociedade insiste em vigiar mulheres trans em banheiros, um problema que não existe. O caso mostra onde está o perigo real.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Usar um crime horrível como esse para atacar pautas trans é oportunismo. O caso do pastor deve ser tratado com seriedade e não como arma retórica contra um grupo que já sofre violência. A justiça deve punir o culpado, não alimentar discurso de ódio.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A notícia é grave e merece apuração, mas a comparação feita no post desvia o foco. O importante é que o crime seja investigado e o responsável punido, independentemente de debates paralelos sobre banheiros. O sensacionalismo pode prejudicar a compreensão do caso.",
+          "text": "A gravidade é evidente, mas faltam informações sobre as circunstâncias exatas e os responsáveis. Seria importante que a reportagem do g1 trouxesse mais dados para que o público possa entender a dimensão do problema e cobrar soluções.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -168,17 +58,17 @@
     },
     {
       "id": "bsky_3n273pibg5c2w",
-      "rank": 4,
-      "title": "E sem esquecer que o Banco do Brasil também não está do nosso lado",
-      "label": "Banco do Brasil · Crítica à lealdade",
-      "context": "Um usuário do Bluesky publicou uma mensagem lembrando que o Banco do Brasil não está do lado do público. A postagem não detalha o motivo da crítica, mas sugere desconfiança em relação à instituição.",
+      "rank": 2,
+      "title": "BB não está do nosso lado, diz post",
+      "label": "BB · Crítica à isenção",
+      "context": "Um post no Bluesky afirma que o Banco do Brasil não está do lado dos clientes. A declaração sugere desconfiança em relação à instituição financeira.",
       "source": "bluesky",
       "subreddit": "bsky_ro",
       "permalink": "https://bsky.app/profile/zefloresta.bsky.social/post/3n273pibg5c2w",
       "createdAt": "2026-11-13T13:29:30.185000+00:00",
-      "rawScore": 0.2767299861836353,
-      "relevanceScore": 0.30747776242626146,
-      "suggestedRadius": 69.27,
+      "rawScore": 0.23880652901818072,
+      "relevanceScore": 0.2653405877979786,
+      "suggestedRadius": 66.91,
       "imageUrl": "assets/images/bsky_3n273pibg5c2w_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n273pibg5c2w_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -194,7 +84,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Banco do Brasil é uma empresa pública e deveria agir com transparência e compromisso com a população, não com interesses próprios. Essa crítica é um alerta necessário para que a sociedade cobre coerência da instituição.",
+          "text": "O Banco do Brasil precisa ser cobrado: se não está do nosso lado, é porque prioriza lucro e taxas em vez de atender bem quem depende dele. A crítica do post é justa e deve ser levada a sério.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -202,7 +92,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O Banco do Brasil é uma empresa como qualquer outra e precisa ser lucrativa para continuar existindo. Cobrar que ele 'esteja do nosso lado' é ignorar que ele opera num mercado competitivo e tem obrigações com acionistas e com a própria sustentabilidade.",
+          "text": "Generalizar o Banco do Brasil como adversário é exagero. A instituição tem programas sociais e serviços essenciais, e uma frase solta não reflete a realidade de milhões de correntistas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -210,7 +100,117 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A crítica ao Banco do Brasil precisa de contexto: sem saber a que se refere exatamente, fica difícil avaliar se a instituição falhou com o público ou se é apenas uma insatisfação pontual. O ideal é analisar casos concretos antes de generalizar.",
+          "text": "A afirmação do post é vaga: sem exemplos concretos de como o Banco do Brasil teria agido contra os clientes, fica difícil avaliar. Seria mais útil apontar casos específicos para embasar a crítica.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27gtuhaxc2o",
+      "rank": 3,
+      "title": "Pastor preso por pedofilia; autor compara com ausência de mulheres trans em banheiros",
+      "label": "Pastor preso · comparação com banheiro trans",
+      "context": "Um pastor foi preso por pedofilia, segundo notícia do Diário da Amazônia. O post que divulga o caso compara o episódio à ausência de mulheres trans em banheiros femininos, sugerindo que o risco real não está nelas.",
+      "source": "bluesky",
+      "subreddit": "bsky_ro",
+      "permalink": "https://bsky.app/profile/lunna.bsky.social/post/3n27gtuhaxc2o",
+      "createdAt": "2026-11-13T16:48:46.975000+00:00",
+      "rawScore": 0.23774112245984347,
+      "relevanceScore": 0.2641568027331594,
+      "suggestedRadius": 66.84,
+      "imageUrl": "assets/images/bsky_3n27gtuhaxc2o_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27gtuhaxc2o_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ro",
+      "sources": [
+        {
+          "title": "Mais um dia mais um pastor preso por pedófilia. SEMPRE UM PASTOR NUNCAAAAA UMA MULHER TRANS NUM BANHEIRO FEMININO. 57/26 diariodaamazonia.com.br/noticia/5/45...",
+          "url": "https://bsky.app/profile/lunna.bsky.social/post/3n27gtuhaxc2o",
+          "subreddit": "bsky_ro"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O caso mostra que o perigo real está em pastores que abusam de crianças, não em mulheres trans usando banheiros. A comparação escancara a hipocrisia de quem foca em pânico moral enquanto ignora crimes dentro das igrejas.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Usar um crime grave como esse para atacar pastores e defender uma pauta ideológica é oportunismo. O foco deveria ser a vítima e a punição do criminoso, não transformar a prisão em palanque para outro assunto.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A notícia da prisão do pastor é séria e merece apuração, mas a comparação com banheiros femininos desvia o debate. Cada caso tem suas circunstâncias e misturar os dois temas só confunde a discussão sobre segurança e justiça.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2bhjopqnk2a",
+      "rank": 4,
+      "title": "Passageiro dá piti em aeroporto após voo RJ-MAO ser desviado para Porto Velho por mau tempo",
+      "label": "Desvio de voo por mau tempo · reação de passageiro",
+      "context": "Um voo do Rio de Janeiro para Manaus foi desviado para Porto Velho por causa do mau tempo, e um passageiro deu um escândalo no aeroporto. O episódio gerou discussão sobre como passageiros lidam com imprevistos que fogem do controle da companhia e dos funcionários.",
+      "source": "bluesky",
+      "subreddit": "bsky_ro",
+      "permalink": "https://bsky.app/profile/kotsuki.bsky.social/post/3n2bhjopqnk2a",
+      "createdAt": "2026-11-14T12:06:19.540000+00:00",
+      "rawScore": 0.18377884848345244,
+      "relevanceScore": 0.20419872053716936,
+      "suggestedRadius": 63.11,
+      "imageUrl": "assets/images/bsky_3n2bhjopqnk2a_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2bhjopqnk2a_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ro",
+      "sources": [
+        {
+          "title": "Não tenho paciência com adulto chiliquento. Quando meu vôo RJ-MAO foi desviado para Porto Velho por causa do mau tempo, tinha um cara dando piti no aeroporto. Amigo, voa você debaixo do toró, vai. Meu padrasto começou o dele, mas cortei logo. Tem as Karens, mas é mais homem que dá show, né?",
+          "url": "https://bsky.app/profile/kotsuki.bsky.social/post/3n2bhjopqnk2a",
+          "subreddit": "bsky_ro"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Gritar com atendente não resolve nada: o desvio foi por causa do mau tempo, uma decisão de segurança que ninguém no aeroporto controla. Quem perde a paciência assim só atrasa o próprio embarque e desgasta quem está tentando ajudar.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O estresse de um desvio é real, ainda mais para quem está com crianças e pode perder conexões ou compromissos. A pessoa explodiu no aeroporto porque não recebeu informação clara nem amparo da companhia na hora do problema.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Cada um reage de um jeito ao imprevisto: tem quem grite e tem quem engula o prejuízo calado. O ponto é que o desvio por mau tempo é uma decisão técnica, e a discussão acaba sendo mais sobre o comportamento das pessoas do que sobre o voo em si.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -229,9 +229,9 @@
       "subreddit": "bsky_ro",
       "permalink": "https://bsky.app/profile/corridadelesma.bsky.social/post/3n26vrrvkl42v",
       "createdAt": "2026-11-13T11:43:24.172000+00:00",
-      "rawScore": 0.17737497565435617,
-      "relevanceScore": 0.19708330628261797,
-      "suggestedRadius": 62.64,
+      "rawScore": 0.14806341934487768,
+      "relevanceScore": 0.16451491038319743,
+      "suggestedRadius": 60.34,
       "imageUrl": "assets/images/bsky_3n26vrrvkl42v_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n26vrrvkl42v_uns.jpg",
       "category": "geopolitica",
@@ -252,14 +252,14 @@
       "rank": 6,
       "title": "Mineração na fronteira brasileira pode avançar sobre áreas protegidas em Rondônia e pressionar territórios em Mato Grosso",
       "label": "Mineração avança sobre áreas protegidas na Amazônia",
-      "context": "Uma reportagem do Observatório da Mineração aponta que a atividade mineradora na fronteira brasileira pode avançar sobre áreas protegidas em Rondônia e pressionar territórios em Mato Grosso. O avanço da mineração nessas regiões levanta preocupações sobre a preservação ambiental e os direitos das comunidades locais.",
+      "context": "Uma reportagem do Observatório da Mineração aponta que a atividade mineradora na fronteira brasileira pode avançar sobre áreas protegidas em Rondônia e pressionar territórios em Mato Grosso. O avanço da mineração nessas regiões levanta preocupações sobre a preservação ambiental e os direitos de comunidades locais.",
       "source": "bluesky",
       "subreddit": "bsky_ro",
       "permalink": "https://bsky.app/profile/obsmineracao.bsky.social/post/3n227xay6ec2l",
       "createdAt": "2026-11-11T15:02:09.371000+00:00",
-      "rawScore": 0.08271454543174932,
-      "relevanceScore": 0.09190505047972146,
-      "suggestedRadius": 54.19,
+      "rawScore": 0.08201783350801566,
+      "relevanceScore": 0.0911309261200174,
+      "suggestedRadius": 54.11,
       "imageUrl": "assets/images/bsky_3n227xay6ec2l_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n227xay6ec2l_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -275,7 +275,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A mineração é uma atividade econômica importante para o desenvolvimento regional, gerando empregos e renda. Com planejamento adequado e fiscalização, é possível conciliar a exploração mineral com a preservação ambiental.",
+          "text": "A mineração é uma atividade econômica importante para o desenvolvimento regional, gerando empregos e renda. Com planejamento e fiscalização adequados, é possível conciliar a exploração mineral com a preservação ambiental.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -283,7 +283,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O avanço da mineração sobre áreas protegidas é uma ameaça à biodiversidade e aos povos indígenas. É preciso fortalecer a fiscalização e impedir que interesses econômicos se sobreponham à conservação ambiental.",
+          "text": "O avanço da mineração sobre áreas protegidas é uma ameaça à biodiversidade e aos direitos das comunidades tradicionais. É preciso barrar esse avanço e fortalecer a fiscalização para proteger a floresta e os povos que nela vivem.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -291,7 +291,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A questão é complexa e exige diálogo entre todos os setores envolvidos. É fundamental garantir a participação das comunidades locais nas decisões sobre o uso do território e avaliar os impactos cumulativos da mineração.",
+          "text": "A questão é complexa e envolve interesses econômicos, ambientais e sociais. É fundamental um debate amplo e transparente, com participação da sociedade civil e dos órgãos competentes, para que se encontre um equilíbrio.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -303,9 +303,9 @@
     {
       "id": "bsky_3mzxc73qrw22h",
       "rank": 7,
-      "title": "Discurso contra 'invasões ilegais' criminaliza luta de indígenas e sem terra, diz post",
-      "label": "Criminalização de movimentos e grilagem de terras",
-      "context": "Um post no Bluesky afirma que o discurso de combate a 'invasões ilegais' em terras privadas e áreas públicas criminaliza a luta de indígenas, sem terra, extrativistas e seringueiros. Segundo o texto, esse discurso ignora a grilagem de terras públicas, o desmatamento e a criação de gado em áreas de preservação.",
+      "title": "Discurso contra \"invasões ilegais\" criminaliza luta de indígenas e sem terra, diz post",
+      "label": "Criminalização de movimentos · Grilagem ignorada",
+      "context": "Um post no Bluesky afirma que o discurso de combate a \"invasões ilegais\" em terras privadas e áreas públicas criminaliza a luta de indígenas, sem terra, extrativistas e seringueiros. Segundo o texto, esse mesmo discurso ignora a grilagem de terras públicas, o desmatamento e a criação de gado em áreas de preservação.",
       "source": "bluesky",
       "subreddit": "bsky_ro",
       "permalink": "https://bsky.app/profile/taniapac.bsky.social/post/3mzxc73qrw22h",
@@ -328,7 +328,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O post acerta ao mostrar que o discurso contra 'invasões' só pune quem luta por terra e moradia, enquanto a grilagem de terras públicas e o desmatamento seguem impunes. Criminalizar indígenas, sem terra e extrativistas é uma forma de proteger os verdadeiros invasores, que são os grandes latifundiários.",
+          "text": "Criminalizar indígenas, sem terra e seringueiros enquanto a grilagem de terras públicas e o desmatamento seguem impunes é escolher quem merece punição. O discurso de \"invasão ilegal\" só funciona para proteger quem já concentra terra e derruba floresta.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -336,7 +336,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Chamar toda ocupação de terra de 'luta' é um erro: invasão ilegal é crime, seja de indígenas, sem terra ou de qualquer grupo. O post ignora que a propriedade privada precisa ser respeitada e que o Estado deve coibir invasões, não relativizar a lei para justificar ações políticas.",
+          "text": "Toda propriedade privada precisa de proteção, e invasão é crime independentemente de quem a comete. Chamar de criminalização o que é aplicação da lei abre espaço para que qualquer grupo justifique ocupações e desrespeite o direito de quem produz na terra.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -344,7 +344,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O texto levanta um ponto válido sobre a seletividade na aplicação da lei, mas também generaliza ao tratar todos os casos como iguais. É preciso diferenciar ocupações por necessidade de subsistência de ações coordenadas de grupos políticos, e cobrar fiscalização tanto de invasões quanto de grilagem e desmatamento.",
+          "text": "O ponto central é a seletividade: se o poder público fiscalizasse com o mesmo rigor a grilagem de terras públicas e o desmatamento, o debate sobre \"invasões\" teria outro peso. Sem dados concretos de autuações e condenações, fica difícil medir quem é de fato criminalizado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

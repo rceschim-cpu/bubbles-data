@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-11-15T05:36:37.700519+00:00",
+  "generatedAt": "2026-11-15T18:44:08.435040+00:00",
   "region": "br-pa",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n2bptuwg5s2y",
+      "id": "bsky_3n2efophgtk2b",
       "rank": 1,
-      "title": "Usuário defende senso crítico em vez de ouvir deputado influencer",
-      "label": "Senso crítico · Opinião de influencer político",
-      "context": "Um usuário do Bluesky defendeu que as pessoas parem de ouvir o deputado Jones Manoel e analisem a conjuntura política por conta própria, lembrando como o poder do Estado é dividido. A publicação sugere que o senso crítico individual é mais confiável do que a opinião de um deputado influencer para interpretar a realidade.",
+      "title": "Está até melhor do que eu pensei, mas ainda falta muito",
+      "label": "Mapa do Brasil · Cobertura regional",
+      "context": "Um post no Bluesky comentou que um mapa do Brasil está melhor do que a pessoa esperava, mas que ainda falta muito. Nos comentários, várias pessoas apontaram que nunca foram ao Norte e que a região está ausente ou mal representada nos mapas.",
       "source": "bluesky",
       "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/pirataria.online/post/3n2bptuwg5s2y",
-      "createdAt": "2026-11-14T14:35:11.460000+00:00",
+      "permalink": "https://bsky.app/profile/paolaceleste.bsky.social/post/3n2efophgtk2b",
+      "createdAt": "2026-11-15T16:11:24.945000+00:00",
       "rawScore": 0.9,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3n2bptuwg5s2y_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2bptuwg5s2y_wiki_thumb.jpg",
+      "imageUrl": "assets/images/bsky_3n2efophgtk2b_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2efophgtk2b_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pa",
       "sources": [
         {
-          "title": "e para de ouvir Jones Manuel um pouco, da uma olhada na conjuntura por vc mesmo, lembra como o poder do Estado é dividido, vc não precisa de deputado influencer te ensinando a ver a realidade via opinião dele sabe? Veja com seu próprio senso crítico. Tudo tem solução e nem smp envolve bater na mesa.",
-          "url": "https://bsky.app/profile/pirataria.online/post/3n2bptuwg5s2y",
+          "title": "Tá até melhor do que pensei. Mas falta muito ainda.",
+          "url": "https://bsky.app/profile/paolaceleste.bsky.social/post/3n2efophgtk2b",
           "subreddit": "bsky_pa"
         }
       ],
@@ -31,7 +31,135 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Concordo que a gente precisa parar de terceirizar a leitura da política para deputado influencer. Entender como o poder do Estado é dividido e formar opinião própria é o que evita cair em narrativa pronta de quem vive de palco.",
+          "text": "O mapa já está melhor do que eu imaginava, e isso mostra que dá para representar o país de um jeito mais completo. Ainda falta muito, mas o caminho é esse: incluir o Norte de verdade, com Acre, Manaus e Belém aparecendo com destaque.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            4
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O Norte continua sendo o grande ausente dos nossos mapas e do nosso imaginário. Muita gente nunca foi para lá e o mapa não ajuda: o Acre, Manaus e Belém ficam de fora ou aparecem de qualquer jeito. Falta muito mesmo, e o buraco é justamente na região mais ignorada.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3,
+            4
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O Espírito Santo sempre fica de escanteio no churrasco dos mapas: nem é lembrado como o Norte, mas também não aparece direito. A discussão sobre o que falta no mapa deveria olhar para todas as regiões esquecidas, não só para uma.",
+          "source": "sintese",
+          "evidence": [
+            5
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2e627njrs2i",
+      "rank": 2,
+      "title": "Ele ser o mais votado do estado é inconcebível, diz usuário",
+      "label": "Resultado eleitoral · votação estadual",
+      "context": "Um usuário do Bluesky expressou inconformismo com o fato de um candidato ter sido o mais votado em seu estado. A discussão nos comentários gira em torno do que o resultado eleitoral realmente representa e dos limites da atuação política diante das instituições.",
+      "source": "bluesky",
+      "subreddit": "bsky_pa",
+      "permalink": "https://bsky.app/profile/homemdocafeezx.bsky.social/post/3n2e627njrs2i",
+      "createdAt": "2026-11-15T13:54:36.152000+00:00",
+      "rawScore": 0.41055023553154446,
+      "relevanceScore": 0.5672780394794938,
+      "suggestedRadius": 81.19,
+      "imageUrl": "assets/images/bsky_3n2e627njrs2i_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2e627njrs2i_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pa",
+      "sources": [
+        {
+          "title": "O mais bizarro é ele ser o mais votado do nosso estado.. Isso para mim é inconcebível, cara. De verdade.",
+          "url": "https://bsky.app/profile/homemdocafeezx.bsky.social/post/3n2e627njrs2i",
+          "subreddit": "bsky_pa"
+        },
+        {
+          "title": "lideranças de nicho das esquerdas usando o resultado eleitoral para \"provar\" que o povo quer isso ou aquilo. O que dá para extrair do resultado é, antes de mais nada, repúdio ao bolsonarismo e a manutenção do nosso parco estado de bem-estar social. Agora, extrair daí argumentos mais técnicos, que +",
+          "url": "https://bsky.app/profile/sandruska.bsky.social/post/3n2cedzlp4k2t",
+          "subreddit": "bsky_pa"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O resultado eleitoral mostrou repúdio ao bolsonarismo e manteve o pouco que temos de estado de bem-estar social. As lideranças de esquerda que tentam extrair daí uma prova de que o povo quer isso ou aquilo estão forçando a barra.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Ficar delirando processos revolucionários a partir de apartamentos não mobiliza ninguém. No segundo turno, o levante popular foi espontâneo; se dependesse da máquina de propaganda do PT, Lula teria perdido. É preciso provar que consegue mobilizar de verdade.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Lula não vai derrubar o teto de gastos nem acabar com a independência do Banco Central porque não existe apoio institucional para isso. Ele também não convoca movimentações populares nesse sentido, pois colocaria em risco sua própria existência política.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3,
+            5
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2e3u4uals2c",
+      "rank": 3,
+      "title": "Pessoa não binária transicionando para a caixa do gato de Schrödinger",
+      "label": "Identidade não binária · Metáfora quântica",
+      "context": "Um post no Bluesky afirma que uma pessoa não binária está transicionando para a caixa do gato de Schrödinger, pois não haveria estado físico da matéria que corresponda à sua identidade. A publicação usa a metáfora do experimento mental da física quântica para tratar da dificuldade de representar identidades não binárias em categorias materiais.",
+      "source": "bluesky",
+      "subreddit": "bsky_pa",
+      "permalink": "https://bsky.app/profile/autoramjluna.bsky.social/post/3n2e3u4uals2c",
+      "createdAt": "2026-11-15T13:15:24.843000+00:00",
+      "rawScore": 0.3872926560526462,
+      "relevanceScore": 0.4303251733918291,
+      "suggestedRadius": 75.36,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pa",
+      "sources": [
+        {
+          "title": "Nbs transicionando para a caixa do gato de Schrodinger pois não há estado físico da matéria que possa corresponder a sua identidade.",
+          "url": "https://bsky.app/profile/autoramjluna.bsky.social/post/3n2e3u4uals2c",
+          "subreddit": "bsky_pa"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A metáfora do gato de Schrödinger é uma forma criativa de mostrar que identidades não binárias não cabem em estados físicos fixos. Pessoas não binárias transcendem a matéria e viram conceitos, e isso é uma forma legítima de expressar a fluidez da identidade.",
           "source": "sintese",
           "evidence": [
             1
@@ -41,21 +169,23 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O recado contra ouvir o Jones Manoel soa como desmobilização. A gente tem que disputar as pautas e fazer frente ao centrão que tenta dar trabalho antes de ser engolido pelo PL na próxima legislatura, e isso exige se informar com quem está no debate.",
+          "text": "Esse tipo de postura só afasta aliados. Ficar reclamando de gente não binária e usando metáforas rebuscadas não ajuda em nada a causa, e ainda dá munição para quem critica. A comunidade precisa de menos discurso abstrato e mais atitude prática.",
           "source": "sintese",
           "evidence": [
-            1,
-            3
+            2,
+            4,
+            5
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Senso crítico próprio é importante, mas o exemplo do ajuste fiscal mostra que não dá para tratar tudo como opinião de influencer. Ser contra colocar o custo na conta do povo e deixar agro e Faria Lima intactos é uma posição concreta, não só narrativa.",
+          "text": "A referência ao gato de Schrödinger é interessante, mas a discussão acaba virando piada interna. Enquanto uns brincam com a ideia de virar corpo celeste, outros só querem mandar todo mundo tomar no cu, e o debate sobre identidade não binária fica em segundo plano.",
           "source": "sintese",
           "evidence": [
-            2
+            3,
+            5
           ],
           "votes": 0
         }
@@ -65,17 +195,17 @@
     },
     {
       "id": "bsky_3n2bmg7w4l22i",
-      "rank": 2,
+      "rank": 4,
       "title": "Piada com a sigla da Universidade do Estado do Pará (UEPA)",
-      "label": "Piada com a sigla UEPA",
-      "context": "Uma publicação no Bluesky brincou com a sigla da Universidade do Estado do Pará (UEPA), lendo o nome como uma onomatopeia de alerta. A piada viralizou entre pessoas que estudaram ou conhecem a universidade e gerou comentários sobre outras siglas de instituições.",
+      "label": "Piada com sigla da UEPA",
+      "context": "Uma publicação no Bluesky brincou com a sigla da Universidade do Estado do Pará (UEPA), lendo o nome como uma onomatopeia de alerta. A piada gerou comentários de pessoas que também associam siglas de universidades a imagens e memes.",
       "source": "bluesky",
       "subreddit": "bsky_pa",
       "permalink": "https://bsky.app/profile/fesleep.bsky.social/post/3n2bmg7w4l22i",
       "createdAt": "2026-11-14T13:33:50.848000+00:00",
-      "rawScore": 0.7291357081430383,
-      "relevanceScore": 0.9212618979367092,
-      "suggestedRadius": 93.59,
+      "rawScore": 0.23739659212692626,
+      "relevanceScore": 0.37488510236325145,
+      "suggestedRadius": 72.74,
       "imageUrl": "assets/images/bsky_3n2bmg7w4l22i_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2bmg7w4l22i_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -96,10 +226,9 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A piada com a UEPA é ótima porque a sigla realmente parece uma onomatopeia de sirene, e quem se formou lá pode brincar com isso com orgulho. É o tipo de humor leve que aproxima as pessoas da universidade.",
+          "text": "A sigla UEPA virou uma piada interna que aproxima quem estudou lá — me formei na UEEEPA e tenho orgulho de dizer isso, é um jeito leve de lembrar da universidade.",
           "source": "sintese",
           "evidence": [
-            1,
             2
           ],
           "votes": 0
@@ -107,7 +236,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ficar reduzindo o nome da universidade a uma piada de sirene desvia a atenção do que importa, que é a qualidade do ensino e a estrutura da UEPA. Quem estuda lá merece respeito, não vira meme por causa da sigla.",
+          "text": "Ficar reduzindo o nome da universidade a uma piada de internet desvia a atenção do que importa, que é o trabalho sério de ensino e pesquisa feito na UEPA.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -115,7 +244,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A brincadeira com a sigla é inofensiva, mas o comentário sobre a UENF mostra que o assunto virou comparação entre nomes de universidades. O foco acaba sendo mais a sonoridade das siglas do que a instituição em si.",
+          "text": "A associação da sigla com uma imagem de alerta é o que faz a piada funcionar, e cada um lembra de uma universidade diferente ao ver isso, como a UENF no Norte Fluminense.",
           "source": "sintese",
           "evidence": [
             1
@@ -127,101 +256,44 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2cedzlp4k2t",
-      "rank": 3,
-      "title": "Lideranças de esquerda usam resultado eleitoral para 'provar' vontade popular",
-      "label": "Resultado eleitoral e narrativas da esquerda",
-      "context": "Lideranças de nicho da esquerda estão interpretando o resultado das eleições como prova de que o povo quer determinadas pautas. O debate questiona se é possível extrair do resultado algo além do repúdio ao bolsonarismo e da manutenção do atual estado de bem-estar social.",
+      "id": "bsky_3n2dy76estk22",
+      "rank": 5,
+      "title": "COP 31: do mutirão de Belém ao Acelerador Global de Implementação",
+      "label": "COP31 · Acelerador Global de Implementação",
+      "context": "A COP31, realizada na Turquia, discute o Acelerador Global de Implementação, mecanismo que dá continuidade ao legado da COP30, sediada em Belém. O Brasil apresentou na conferência o Marco de Financiamento do Plano de Ação em Saúde de Belém, elaborado pelo Ministério da Saúde com apoio da OMS.",
       "source": "bluesky",
       "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/sandruska.bsky.social/post/3n2cedzlp4k2t",
-      "createdAt": "2026-11-14T20:42:08.655000+00:00",
-      "rawScore": 0.583703117909933,
-      "relevanceScore": 0.6485590198999256,
-      "suggestedRadius": 84.32,
-      "imageUrl": "assets/images/bsky_3n2cedzlp4k2t_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2cedzlp4k2t_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/jornalggn.bsky.social/post/3n2dy76estk22",
+      "createdAt": "2026-11-15T12:09:17.844000+00:00",
+      "rawScore": 0.14657482210484093,
+      "relevanceScore": 0.33896785797439616,
+      "suggestedRadius": 70.93,
+      "imageUrl": "assets/images/bsky_3n2dy76estk22_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2dy76estk22_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pa",
       "sources": [
         {
-          "title": "lideranças de nicho das esquerdas usando o resultado eleitoral para \"provar\" que o povo quer isso ou aquilo. O que dá para extrair do resultado é, antes de mais nada, repúdio ao bolsonarismo e a manutenção do nosso parco estado de bem-estar social. Agora, extrair daí argumentos mais técnicos, que +",
-          "url": "https://bsky.app/profile/sandruska.bsky.social/post/3n2cedzlp4k2t",
-          "subreddit": "bsky_pa"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O resultado eleitoral mostrou, sim, um repúdio claro ao bolsonarismo e a defesa do que já temos de proteção social. Ficar negando que houve uma sinalização popular é subestimar a eleição e ignorar que a vontade das urnas precisa ser traduzida em pautas concretas.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Querer tirar do resultado eleitoral um apoio a pautas técnicas que ninguém votou é sequestrar a vontade popular. O eleitor rejeitou o bolsonarismo, mas não deu cheque em branco para aventuras institucionais como derrubar o teto de gastos ou mexer no Banco Central.",
-          "source": "sintese",
-          "evidence": [
-            3,
-            4
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O resultado eleitoral serve para confirmar o repúdio ao bolsonarismo, mas daí a extrair apoio a mudanças institucionais específicas é um salto grande. O Congresso e a independência do Banco Central impõem limites reais, e o governo não tem base para embarcar em processos revolucionários.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            4
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n27w57nwas2p",
-      "rank": 4,
-      "title": "Lula chega às Filipinas para cúpula da Asean e visita de Estado",
-      "label": "Lula nas Filipinas · Agenda comercial",
-      "context": "O presidente Luiz Inácio Lula da Silva chegou às Filipinas nesta sexta-feira (13) para participar da cúpula da Asean e fazer uma visita de Estado, com uma agenda comercial ampla. A viagem ocorre após Lula passar pela Turquia para a COP31, onde o Brasil busca manter protagonismo em pautas ambientais e de transição energética.",
-      "source": "bluesky",
-      "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/iclnoticias.com.br/post/3n27w57nwas2p",
-      "createdAt": "2026-11-13T21:23:03.986000+00:00",
-      "rawScore": 0.41399865536678027,
-      "relevanceScore": 0.5711096170742003,
-      "suggestedRadius": 81.34,
-      "imageUrl": "assets/images/bsky_3n27w57nwas2p_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27w57nwas2p_reddit_thumb.jpg",
-      "category": "economia",
-      "region": "br-pa",
-      "sources": [
-        {
-          "title": "O presidente Luiz Inácio Lula da Silva (PT) chegou às Filipinas nesta sexta-feira (13) para participar da cúpula da Asean (Associação das Nações do Sudeste Asiático) e fazer uma visita de Estado, trazendo na bagagem uma agenda comercial ampla. 📄 Leia mais em iclnoticias.com.br/economia/lul...",
-          "url": "https://bsky.app/profile/iclnoticias.com.br/post/3n27w57nwas2p",
+          "title": "COP 31: Do mutirão de Belém ao Acelerador Global de Implementação, por Feijó, Feil & Ceia Para o Brasil, o Acelerador transforma o legado da COP30 em um mecanismo que continua funcionando depois do fim da presidência. jornalggn.com.br/artigos/cop-...",
+          "url": "https://bsky.app/profile/jornalggn.bsky.social/post/3n2dy76estk22",
           "subreddit": "bsky_pa"
         },
         {
           "title": "PRESIDENTE LULA CHEGA A TURQUIA PARA PARTICIPAR DA COP 31 Presidente LULA sendo recepcionado ao descer do avião, na Turquia. Nosso país é exemplo de preservação ambiental e transição energética, e liderou a última COP, em Belém, por tudo isso, o Brasil tem lugar de destaque na COP31. #LulaNaCop31",
           "url": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mzwgaxi25c25",
           "subreddit": "bsky_pa"
+        },
+        {
+          "title": "O Brasil apresentou na COP31 o Marco de Financiamento do Plano de Ação em Saúde de Belém. Elaborado pelo Ministério da Saúde com apoio da OMS, o documento orienta países a identificar fontes de recursos para adaptar seus sistemas às mudanças climáticas: trk.ebc.com.br/5jqME.",
+          "url": "https://bsky.app/profile/agenciabrasil.ebc.com.br/post/3mzy7jgg3lc2t",
+          "subreddit": "bsky_pa"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A comunicação do Brasil com outros países tende a melhorar muito a partir de agora, com essa agenda comercial ampla e a presença em cúpulas como a da Asean. Isso abre portas para negócios e parcerias que estavam paradas.",
+          "text": "O Acelerador Global de Implementação é o que faltava: transforma o legado da COP30 em um mecanismo que continua funcionando depois do fim da presidência, evitando que as decisões de Belém fiquem só no papel.",
           "source": "sintese",
           "evidence": [
             1
@@ -231,7 +303,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Enquanto o presidente viaja para Filipinas e Turquia, a economia interna continua patinando. Essas viagens custam caro e não trazem resultado prático para o brasileiro, que segue sem emprego e com preços altos.",
+          "text": "Criar mais um mecanismo internacional não resolve nada se os países não colocarem dinheiro de verdade. O Marco de Financiamento do Plano de Saúde de Belém ainda depende de recursos que ninguém garantiu.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -239,72 +311,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A agenda comercial é importante, mas o sucesso depende de acordos concretos que beneficiem os dois lados. Sem detalhes sobre o que está sendo negociado, fica difícil avaliar se a viagem traz ganhos reais ou é só protocolo.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n22nj7sfus22",
-      "rank": 5,
-      "title": "Punição no Brasil só atinge pobres e negros, enquanto Moro e Dallagnol ficam impunes",
-      "label": "Impune · Moro e Dallagnol",
-      "context": "Um post no Bluesky afirma que a punição no Brasil recai apenas sobre pessoas pobres e negras das comunidades, enquanto Sergio Moro, Deltan Dallagnol e a Rede Globo, apontados como responsáveis por desmandos, seguem sem punição. A publicação integra uma discussão sobre a seletividade do sistema de justiça e a impunidade de figuras poderosas.",
-      "source": "bluesky",
-      "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/akaishiri.bsky.social/post/3n22nj7sfus22",
-      "createdAt": "2026-11-11T19:05:04.572000+00:00",
-      "rawScore": 0.3208078689048876,
-      "relevanceScore": 0.4675642987832085,
-      "suggestedRadius": 77.03,
-      "imageUrl": "assets/images/bsky_3n22nj7sfus22_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n22nj7sfus22_reddit_thumb.jpg",
-      "category": "tech",
-      "region": "br-pa",
-      "sources": [
-        {
-          "title": "Infelizmente a punição nesse país,só ocorre para o povo pobre preto das comunidades... Sergio Moro,Deltan Dallagnol, rede globo,responsáveis pelo desmando, estão ai mamando nas tetas do estado brasileiro..",
-          "url": "https://bsky.app/profile/akaishiri.bsky.social/post/3n22nj7sfus22",
-          "subreddit": "bsky_pa"
-        },
-        {
-          "title": "www.cartacapital.com.br/artigo/o-pro... Mercado queria um miliciano covarde, vagabundo e burro para desgovernar o país e, insatisfeito com o resultado, quer arrastar o país para uma stagflação como punição",
-          "url": "https://bsky.app/profile/nildete.bsky.social/post/3mzylyltzms2d",
-          "subreddit": "bsky_pa"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Concordo que a punição no Brasil só alcança o povo pobre e preto das comunidades, enquanto os responsáveis pela farsa da Lava Jato, como Moro e Dallagnol, seguem impunes mamando nas tetas do estado. A justiça precisa ser igual para todos.",
+          "text": "A comunicação entre os países parece ter melhorado com o Acelerador, mas ainda é cedo para saber se ele vai funcionar na prática. O sucesso depende de como os governos vão usar esse espaço depois da COP31.",
           "source": "sintese",
           "evidence": [
-            1,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A crítica ignora que Moro e Dallagnol foram julgados e punidos pelos próprios erros, e a Rede Globo apenas noticiou os fatos. Jogar a culpa na imprensa e em juízes que agiram dentro da lei é uma narrativa que não se sustenta.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A seletividade da justiça é real, mas o post mistura casos distintos: a Lava Jato teve condenações anuladas por questões processuais, não por inocência comprovada. Sem provas concretas contra Moro e Dallagnol, a impunidade apontada precisa ser debatida com mais rigor.",
-          "source": "sintese",
-          "evidence": [
-            4,
-            6
+            1
           ],
           "votes": 0
         }
@@ -313,26 +323,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2cp75vpa22i",
+      "id": "bsky_3n2bptuwg5s2y",
       "rank": 6,
-      "title": "Ela queria desfilar toda em Givenchy no sambódromo do eléctrico para Belém",
-      "label": "Post de René sobre desfile em Belém",
-      "context": "Um post publicado no Bluesky descreve uma mulher vestida toda em Givenchy desfilando no sambódromo do eléctrico em direção a Belém. A publicação gerou confusão entre leitores, que não entenderam quem é a pessoa citada nem o que o texto quer dizer.",
+      "title": "Eleitor pede menos influenciadores e mais análise própria da conjuntura",
+      "label": "Consumo de opinião política · Senso crítico",
+      "context": "Um post no Bluesky critica quem aprende sobre política apenas por deputados influenciadores e defende que cada pessoa analise a conjuntura e a divisão dos poderes por conta própria. A mensagem sugere que soluções políticas não dependem necessariamente de confronto direto.",
       "source": "bluesky",
       "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/reneartois.bsky.social/post/3n2cp75vpa22i",
-      "createdAt": "2026-11-14T23:56:15.444000+00:00",
-      "rawScore": 0.3994592937715479,
-      "relevanceScore": 0.4438436597461643,
-      "suggestedRadius": 75.97,
-      "imageUrl": "assets/images/bsky_3n2cp75vpa22i_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2cp75vpa22i_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/pirataria.online/post/3n2bptuwg5s2y",
+      "createdAt": "2026-11-14T14:35:11.460000+00:00",
+      "rawScore": 0.2898989818550137,
+      "relevanceScore": 0.32210997983890416,
+      "suggestedRadius": 70.05,
+      "imageUrl": "assets/images/bsky_3n2bptuwg5s2y_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2bptuwg5s2y_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pa",
       "sources": [
         {
-          "title": "Isso queria ela, toda em Givenchy, a desfilar no sambodromo do eléctrico para Belém, faque para, faque para ali.",
-          "url": "https://bsky.app/profile/reneartois.bsky.social/post/3n2cp75vpa22i",
+          "title": "e para de ouvir Jones Manuel um pouco, da uma olhada na conjuntura por vc mesmo, lembra como o poder do Estado é dividido, vc não precisa de deputado influencer te ensinando a ver a realidade via opinião dele sabe? Veja com seu próprio senso crítico. Tudo tem solução e nem smp envolve bater na mesa.",
+          "url": "https://bsky.app/profile/pirataria.online/post/3n2bptuwg5s2y",
           "subreddit": "bsky_pa"
         }
       ],
@@ -340,15 +350,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O post tem graça justamente por ser exagerado: Givenchy, sambódromo, eléctrico e Belém na mesma frase criam uma imagem absurda que funciona como humor. Não precisa fazer sentido literal, é uma piada visual que pega quem entende a brincadeira.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A publicação não se explica: não dá para saber quem é a mulher, que eléctrico é esse nem por que Belém entra na história. Um texto que depende de contexto que ninguém tem vira ruído, e o leitor fica sem saber do que se está falando.",
+          "text": "O eleitor precisa parar de terceirizar o pensamento para deputado influencer e olhar a conjuntura com a própria cabeça, entendendo como o poder do Estado é dividido. Opinião de criador de conteúdo não substitui senso crítico, e nem toda solução exige bater na mesa.",
           "source": "sintese",
           "evidence": [
             1
@@ -356,12 +358,23 @@
           "votes": 0
         },
         {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Fiquei perdido na mesma frase: quem, o quê, onde, como? O post parece brincadeira interna de quem conhece a referência, mas para quem chega de fora falta a informação básica para acompanhar.",
+          "id": "op2",
+          "tone": "negative",
+          "text": "Disputar pautas e fazer frente ao Centrão exige sim posicionamento firme, não discurso de calma que só favorece quem quer passar ajuste fiscal colocando o peso no povo enquanto agro e Faria Lima ficam intactos. Senso crítico sem confronto vira omissão.",
           "source": "sintese",
           "evidence": [
-            1
+            1,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A crítica ao influenciador vale, mas o próprio texto já embute uma leitura política: quem concorda com Jones Manoel pode ler o recado como apoio a ele. Antes de pedir senso crítico alheio, é bom deixar claro de que lado a análise está sendo feita.",
+          "source": "sintese",
+          "evidence": [
+            3
           ],
           "votes": 0
         }
@@ -374,14 +387,14 @@
       "rank": 7,
       "title": "Volta a chover em Belém com a chegada do inverno amazônico",
       "label": "Chuva em Belém · Pré-venda de livro",
-      "context": "Uma autora comemorou a volta da chuva em Belém e o início do inverno amazônico, aproveitando para divulgar a pré-venda de seu romance de Natal ambientado na cidade. A postagem mistura a mudança climática com o lançamento literário, gerando comentários sobre o livro e sobre memória e reparação no Pará.",
+      "context": "Uma autora comemorou a volta da chuva em Belém e o início do inverno amazônico, aproveitando para divulgar a pré-venda de seu romance de Natal ambientado na cidade. A postagem mistura a mudança climática com a promoção do livro, que ela destaca como uma história natalina rara por se passar no Pará.",
       "source": "bluesky",
       "subreddit": "bsky_pa",
       "permalink": "https://bsky.app/profile/brunaguerreiro.bsky.social/post/3n24zohxilc2h",
       "createdAt": "2026-11-12T17:47:58.477000+00:00",
-      "rawScore": 0.20872742693982016,
-      "relevanceScore": 0.40802630779103977,
-      "suggestedRadius": 74.33,
+      "rawScore": 0.09085228781884838,
+      "relevanceScore": 0.27705393098996,
+      "suggestedRadius": 67.58,
       "imageUrl": "assets/images/bsky_3n24zohxilc2h_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n24zohxilc2h_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -407,17 +420,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A chuva em Belém é um alívio e marca o início do inverno amazônico, e a autora aproveitou bem para divulgar seu romance de Natal ambientado na cidade, algo que ainda não se vê por aqui.",
+          "text": "A chuva em Belém é um alívio e marca o início do inverno amazônico, e nada melhor do que celebrar com um romance de Natal que valoriza a cultura paraense. A autora acertou ao unir o clima da região com uma história inédita.",
           "source": "sintese",
           "evidence": [
-            2
+            1
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A postagem sobre a chuva virou propaganda de livro, e o comentário sobre reparação no Pará mostra que tem gente usando a mesma chuva para falar de memória e verdade, o que desvia o foco do clima.",
+          "text": "A postagem usa a chuva e o inverno amazônico apenas como gancho para vender o livro, desviando a atenção de questões urgentes como a reparação histórica no Pará. O foco deveria ser a luta por memória e justiça, não a pré-venda.",
           "source": "sintese",
           "evidence": [
             1
@@ -427,11 +440,74 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O livro físico também está disponível para encomenda, e a chuva em Belém é só o gancho para divulgar a pré-venda, enquanto outros comentários lembram a reparação histórica no Pará.",
+          "text": "A chuva em Belém é um fato climático importante, mas a divulgação do livro parece desconectada do contexto. Cada assunto tem seu espaço, e misturá-los pode confundir quem busca informação sobre o inverno amazônico ou sobre o romance.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n22nj7sfus22",
+      "rank": 8,
+      "title": "Punição no Brasil só atinge pobres e negros, enquanto Moro e Dallagnol ficam impunes",
+      "label": "Impunes da Lava Jato · Justiça seletiva",
+      "context": "Um post no Bluesky afirma que a punição no Brasil recai apenas sobre pessoas pobres e negras das comunidades, enquanto Sergio Moro, Deltan Dallagnol e a Rede Globo, apontados como responsáveis por desmandos, seguem sem punição. A publicação integra uma onda de críticas à seletividade do sistema de justiça e à impunidade de agentes públicos envolvidos em episódios como a Lava Jato.",
+      "source": "bluesky",
+      "subreddit": "bsky_pa",
+      "permalink": "https://bsky.app/profile/akaishiri.bsky.social/post/3n22nj7sfus22",
+      "createdAt": "2026-11-11T19:05:04.572000+00:00",
+      "rawScore": 0.1467832620907725,
+      "relevanceScore": 0.2742036245453028,
+      "suggestedRadius": 67.42,
+      "imageUrl": "assets/images/bsky_3n22nj7sfus22_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n22nj7sfus22_reddit_thumb.jpg",
+      "category": "tech",
+      "region": "br-pa",
+      "sources": [
+        {
+          "title": "Infelizmente a punição nesse país,só ocorre para o povo pobre preto das comunidades... Sergio Moro,Deltan Dallagnol, rede globo,responsáveis pelo desmando, estão ai mamando nas tetas do estado brasileiro..",
+          "url": "https://bsky.app/profile/akaishiri.bsky.social/post/3n22nj7sfus22",
+          "subreddit": "bsky_pa"
+        },
+        {
+          "title": "www.cartacapital.com.br/artigo/o-pro... Mercado queria um miliciano covarde, vagabundo e burro para desgovernar o país e, insatisfeito com o resultado, quer arrastar o país para uma stagflação como punição",
+          "url": "https://bsky.app/profile/nildete.bsky.social/post/3mzylyltzms2d",
+          "subreddit": "bsky_pa"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Concordo: a punição no Brasil só chega para o pobre e o preto da comunidade, enquanto Moro, Dallagnol e a Globo seguem mamando nas tetas do Estado. A farsa da Lava Jato destruiu reputações e não deu em nada para os poderosos.",
           "source": "sintese",
           "evidence": [
             1,
-            2
+            2,
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa narrativa de que a Justiça só pune pobres e negros ignora que Moro e Dallagnol foram julgados e condenados em algumas instâncias. A Lava Jato teve erros, mas também prendeu muitos corruptos brancos e ricos. Generalizar assim é injusto.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A seletividade da Justiça é real, mas o post mistura tudo: Moro e Dallagnol são acusados de abusos, mas a Globo é empresa privada. Sem provas concretas, fica difícil saber quem realmente desviou. O debate precisa de mais fatos e menos achismo.",
+          "source": "sintese",
+          "evidence": [
+            4,
+            5,
+            6
           ],
           "votes": 0
         }
@@ -440,18 +516,75 @@
       "promptVersion": 2
     },
     {
+      "id": "bsky_3n2e43gnjxk2x",
+      "rank": 9,
+      "title": "Pessoa de Belém diz que não existem pessoas famosas na cidade",
+      "label": "Belém · Falta de famosos",
+      "context": "Uma pessoa de Belém do Pará comentou no Bluesky que o mais próximo de famoso que estudou junto foi um colega que ficou em terceiro lugar no The Voice. O comentário gerou respostas que discordam da ideia de que não há pessoas famosas na cidade.",
+      "source": "bluesky",
+      "subreddit": "bsky_pa",
+      "permalink": "https://bsky.app/profile/saladadeputas.bsky.social/post/3n2e43gnjxk2x",
+      "createdAt": "2026-11-15T13:19:28.652000+00:00",
+      "rawScore": 0.2139282622538639,
+      "relevanceScore": 0.2376980691709599,
+      "suggestedRadius": 65.25,
+      "imageUrl": "assets/images/bsky_3n2e43gnjxk2x_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2e43gnjxk2x_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pa",
+      "sources": [
+        {
+          "title": "acho que o mais próximo de famoso que eu estudei \"junto\" (eu tava na 7 serie e ele no terceiro ano) foi um mano que ficou em terceiro acho no the voice mas eu tambem sou de belem do pará nao existe pessoas de verdade aqui",
+          "url": "https://bsky.app/profile/saladadeputas.bsky.social/post/3n2e43gnjxk2x",
+          "subreddit": "bsky_pa"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Belém é uma cidade com história e cultura, e dizer que não tem ninguém famoso é exagero. O comentário sobre Jesus nascer lá pode ser brincadeira, mas mostra que a cidade tem relevância. Além disso, o colega que ficou em terceiro no The Voice já é um exemplo de alguém que se destacou.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A pessoa tem razão em se sentir assim: é difícil ver famosos que realmente sejam de Belém e que a gente conheça pessoalmente. O caso do The Voice é isolado e não representa a realidade da maioria. A cidade é grande, mas a sensação é de que os talentos locais não têm projeção nacional.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Depende do que a gente considera famoso. Se for alguém de alcance nacional, realmente são poucos os paraenses conhecidos. Mas se a gente olhar para o cenário local, tem gente que faz sucesso na música, no esporte e na internet. O comentário reflete mais uma percepção pessoal do que uma realidade absoluta.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
       "id": "bsky_3n27ov22p4k23",
-      "rank": 8,
+      "rank": 10,
       "title": "Jaques Wagner e Rui Costa, do PT da Bahia, são intimados pela PF a depor no caso Master",
-      "label": "Intimação da PF · Caso Master na Bahia",
-      "context": "Jaques Wagner e Rui Costa, do PT da Bahia, foram intimados pela Polícia Federal a prestar depoimento no caso Master. A revista piauí mostrou na edição deste mês como os dois venceram a eleição apesar das ligações com o caso e como o partido atua para manter a hegemonia no estado.",
+      "label": "Intimação da PF · Caso Master",
+      "context": "Jaques Wagner e Rui Costa, do PT da Bahia, foram intimados pela Polícia Federal para prestar depoimento no caso Master. A revista piauí mostrou como eles venceram a eleição apesar das ligações com esse caso e como o partido atua para manter a hegemonia no estado.",
       "source": "bluesky",
       "subreddit": "bsky_pa",
       "permalink": "https://bsky.app/profile/revistapiaui.bsky.social/post/3n27ov22p4k23",
       "createdAt": "2026-11-13T19:12:38.582000+00:00",
-      "rawScore": 0.30261679548071363,
-      "relevanceScore": 0.3362408838674596,
-      "suggestedRadius": 70.79,
+      "rawScore": 0.12054519359459018,
+      "relevanceScore": 0.1339391039939891,
+      "suggestedRadius": 57.96,
       "imageUrl": "assets/images/bsky_3n27ov22p4k23_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27ov22p4k23_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -467,7 +600,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A intimação da PF é o passo certo: se há ligações com o caso Master, que os dois expliquem tudo à Justiça. Ninguém está acima de prestar esclarecimentos, e a investigação precisa seguir o curso sem pressão política.",
+          "text": "A intimação da PF é um passo necessário para esclarecer o caso Master. Jaques Wagner e Rui Costa precisam explicar as ligações com o caso, e a Justiça deve seguir seu curso independentemente do partido.",
           "source": "sintese",
           "evidence": [
             1
@@ -477,7 +610,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A revista piauí já mostrou como eles venceram a eleição mesmo com as ligações com o caso Master, e agora a intimação só confirma o que muita gente desconfiava. O partido usa a máquina para se manter no poder na Bahia e isso precisa ser cobrado nas urnas.",
+          "text": "A intimação expõe a contradição de um partido que se diz ético: Jaques Wagner e Rui Costa venceram a eleição mesmo com ligações no caso Master, e a piauí mostrou como o PT atua para manter a hegemonia na Bahia.",
           "source": "sintese",
           "evidence": [
             1
@@ -487,119 +620,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A intimação da PF para depor não significa condenação, e é preciso esperar o que eles têm a dizer antes de tirar conclusões. O caso Master ainda está em investigação, e a Justiça é o foro adequado para esclarecer os fatos.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2bzs3u4jc2m",
-      "rank": 9,
-      "title": "Afinal, vai ter ou não 2º turno para governador do Rio de Janeiro?",
-      "label": "2º turno no Rio · indefinição",
-      "context": "Um post pergunta se haverá segundo turno na eleição para governador do Rio de Janeiro, e um comentário afirma que a decisão foi enviada ao TSE e que ainda não há definição. A dúvida sobre a existência do segundo turno permanece sem resposta confirmada.",
-      "source": "bluesky",
-      "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/dulcinea.bsky.social/post/3n2bzs3u4jc2m",
-      "createdAt": "2026-11-14T17:33:08.348000+00:00",
-      "rawScore": 0.2954750563016934,
-      "relevanceScore": 0.3283056181129927,
-      "suggestedRadius": 70.38,
-      "imageUrl": "assets/images/bsky_3n2bzs3u4jc2m_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2bzs3u4jc2m_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pa",
-      "sources": [
-        {
-          "title": "GENTE afinal vai ter ou não 2°turno para governador do Estado do Rio de Janeiro?",
-          "url": "https://bsky.app/profile/dulcinea.bsky.social/post/3n2bzs3u4jc2m",
-          "subreddit": "bsky_pa"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O caso foi para o TSE, então é natural que a definição ainda não tenha saído. A Justiça Eleitoral precisa analisar com calma antes de confirmar se haverá ou não segundo turno no Rio.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A situação está confusa demais: ninguém sabe dizer se vai ter segundo turno ou não. Essa indefinição só atrapalha o eleitor, que fica sem saber o que vai acontecer.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Ainda não dá para cravar nada. O comentário diz que o caso foi mandado ao TSE e que a decisão não saiu, então o melhor é aguardar uma posição oficial antes de afirmar qualquer coisa.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2b5wgelhc26",
-      "rank": 10,
-      "title": "Problemas na habitação? Só se for para vocês, seus pobres",
-      "label": "Habitação · Crítica à fala sobre pobres",
-      "context": "Uma publicação no Bluesky ironiza a ideia de que exista crise habitacional, dizendo que os problemas de moradia atingem apenas as pessoas pobres. A frase sugere que quem não enfrenta essa dificuldade trata o tema como irrelevante para si.",
-      "source": "bluesky",
-      "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/dukke666.bsky.social/post/3n2b5wgelhc26",
-      "createdAt": "2026-11-14T09:14:30.842000+00:00",
-      "rawScore": 0.25343985982359757,
-      "relevanceScore": 0.28159984424844176,
-      "suggestedRadius": 67.84,
-      "imageUrl": "assets/images/bsky_3n2b5wgelhc26_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2b5wgelhc26_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pa",
-      "sources": [
-        {
-          "title": "Problemas na habitação... Pff... Só se for para vocês, seus pobres.",
-          "url": "https://bsky.app/profile/dukke666.bsky.social/post/3n2b5wgelhc26",
-          "subreddit": "bsky_pa"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A frase escancara como quem tem casa própria trata a crise habitacional como problema dos outros. Quem nunca precisou de aluguel social ou financiamento popular não sente o peso e ainda zomba de quem sente.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Generalizar que todo mundo que não passa aperto de moradia despreza os pobres é injusto. Muita gente reconhece a crise habitacional e apoia políticas de moradia sem ser afetada diretamente por ela.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A provocação acerta ao lembrar que a crise de habitação atinge mais quem tem menos renda, mas o tom de deboche não ajuda a explicar o problema. Falta falar de aluguel caro e falta de moradia popular de forma concreta.",
+          "text": "A intimação da PF não significa culpa formada. Jaques Wagner e Rui Costa têm direito de se explicar, e é preciso aguardar o depoimento e as investigações antes de tirar conclusões sobre o caso Master.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
