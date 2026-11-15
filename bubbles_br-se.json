@@ -1,76 +1,21 @@
 {
-  "generatedAt": "2026-11-14T17:53:05.010538+00:00",
+  "generatedAt": "2026-11-15T05:36:37.700519+00:00",
   "region": "br-se",
-  "count": 8,
+  "count": 9,
   "items": [
     {
-      "id": "bsky_3n27z6i77hk25",
-      "rank": 1,
-      "title": "Associação Boquinhense de Desporto (Boquim, Sergipe)",
-      "label": "Associação Boquinhense de Desporto · Boquim",
-      "context": "A Associação Boquinhense de Desporto é uma entidade esportiva sediada em Boquim, em Sergipe. O registro aparece em publicações de redes sociais em novembro de 2026, sem detalhes adicionais sobre suas atividades.",
-      "source": "bluesky",
-      "subreddit": "bsky_se",
-      "permalink": "https://bsky.app/profile/ultimadivisao.com.br/post/3n27z6i77hk25",
-      "createdAt": "2026-11-13T22:16:53.570000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3n27z6i77hk25_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27z6i77hk25_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-se",
-      "sources": [
-        {
-          "title": "Associação Boquinhense de Desporto (Boquim, Sergipe)",
-          "url": "https://bsky.app/profile/ultimadivisao.com.br/post/3n27z6i77hk25",
-          "subreddit": "bsky_se"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Associações de desporto como a de Boquim são o que mantém o esporte vivo no interior de Sergipe, longe dos grandes centros. Divulgar o nome da entidade ajuda a atrair apoio e visibilidade para o trabalho que já é feito na cidade.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Uma publicação que só repete o nome da Associação Boquinhense de Desporto, sem dizer o que ela faz, quando joga ou quem participa, não informa nada. Fica parecendo registro automático de rede social em vez de conteúdo útil para quem acompanha o esporte local.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O nome da Associação Boquinhense de Desporto aparece junto com o Real Futebol Clube Heips, do Rio de Janeiro, e não dá para saber se é um jogo, uma parceria ou só uma menção. Sem mais contexto sobre a relação entre os dois clubes, qualquer conclusão é chute.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3mzypfelcbk24",
-      "rank": 2,
+      "rank": 1,
       "title": "Prática de trancar vítimas e usar gás lacrimogêneo é ilegal, mas comum nas forças de segurança brasileiras",
-      "label": "Uso de gás e isolamento por forças de segurança",
-      "context": "Uma publicação no Bluesky afirma que trancar vítimas em locais fechados e jogar spray de pimenta ou gás lacrimogêneo é uma prática ilegal, mas comum nas forças de segurança brasileiras, inclusive no treinamento de recrutas. A postagem também menciona o caso de uma pessoa com esquizofrenia que estaria em surto e foi assassinada pela polícia.",
+      "label": "Uso de gás e confinamento pela polícia",
+      "context": "Um post no Bluesky afirma que trancar pessoas em locais fechados e jogar spray de pimenta ou gás lacrimogêneo é uma prática ilegal, mas comum nas forças de segurança brasileiras, inclusive no treinamento de recrutas. O comentário relaciona o caso a uma pessoa com esquizofrenia que estaria em surto e foi morta pela polícia.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/coalacroata.bsky.social/post/3mzypfelcbk24",
       "createdAt": "2026-11-11T00:33:08.771000+00:00",
-      "rawScore": 0.7436456152089638,
-      "relevanceScore": 0.7966599917168411,
-      "suggestedRadius": 89.55,
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
       "imageUrl": "assets/images/bsky_3mzypfelcbk24_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzypfelcbk24_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -86,7 +31,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A prática de trancar vítimas e usar gás lacrimogêneo é ilegal e precisa ser investigada, pois expõe pessoas em situação de vulnerabilidade, como a vítima com esquizofrenia em surto, a riscos graves e desnecessários.",
+          "text": "A prática de trancar vítimas e jogar gás lacrimogêneo é ilegal e precisa ser investigada, pois mostra como as forças de segurança agem com violência contra pessoas em situação de vulnerabilidade, como a pessoa com esquizofrenia mencionada.",
           "source": "sintese",
           "evidence": [
             1
@@ -96,7 +41,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "As forças de segurança usam essas técnicas como parte do treinamento e para conter situações de risco, mas a divulgação de casos isolados não justifica generalizar a instituição como assassina.",
+          "text": "A polícia brasileira enfrenta condições de trabalho precárias e falta de treinamento adequado, o que leva a erros como esse. A solução não é criminalizar a instituição, mas investir em capacitação e saúde mental para os agentes.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -104,7 +49,66 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O caso da pessoa com esquizofrenia em surto levanta dúvidas sobre como a polícia deveria agir nessas situações, mas é preciso apurar se houve excesso ou se a prática é realmente institucionalizada antes de tirar conclusões.",
+          "text": "O caso específico precisa ser apurado: se a pessoa estava em surto, a abordagem deveria ter sido diferente, com apoio de profissionais de saúde mental. A discussão sobre a legalidade da prática é válida, mas é preciso separar o episódio da crítica geral às forças de segurança.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27z6i77hk25",
+      "rank": 2,
+      "title": "Associação Boquinhense de Desporto (Boquim, Sergipe)",
+      "label": "Associação Boquinhense de Desporto · Boquim",
+      "context": "A Associação Boquinhense de Desporto é uma entidade esportiva sediada em Boquim, em Sergipe. O registro aparece em publicações de redes sociais ao lado de clubes de outras regiões, como o Real Futebol Clube Heips, do Rio de Janeiro.",
+      "source": "bluesky",
+      "subreddit": "bsky_se",
+      "permalink": "https://bsky.app/profile/ultimadivisao.com.br/post/3n27z6i77hk25",
+      "createdAt": "2026-11-13T22:16:53.570000+00:00",
+      "rawScore": 0.8048182737459936,
+      "relevanceScore": 0.8799839918475776,
+      "suggestedRadius": 92.28,
+      "imageUrl": "assets/images/bsky_3n27z6i77hk25_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27z6i77hk25_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-se",
+      "sources": [
+        {
+          "title": "Associação Boquinhense de Desporto (Boquim, Sergipe)",
+          "url": "https://bsky.app/profile/ultimadivisao.com.br/post/3n27z6i77hk25",
+          "subreddit": "bsky_se"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Associações como a Boquinhense de Desporto mostram que o esporte organizado também acontece fora dos grandes centros, em cidades como Boquim, e merecem visibilidade por manter times e competições locais funcionando.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Ver o nome da Associação Boquinhense de Desporto aparecer ao lado de um clube do Rio de Janeiro expõe como o esporte em Sergipe fica em segundo plano, sem estrutura nem espaço nas publicações que realmente alcançam público.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A menção à Associação Boquinhense de Desporto junto ao Real Futebol Clube Heips diz pouco por si só: sem detalhes sobre o que a associação faz ou qual a relação entre os clubes, fica difícil saber o que está sendo discutido.",
           "source": "sintese",
           "evidence": [
             1
@@ -125,9 +129,9 @@
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/aquelalu.bsky.social/post/3n22iry64ps25",
       "createdAt": "2026-11-11T17:40:12.972000+00:00",
-      "rawScore": 0.5738765316102112,
-      "relevanceScore": 0.7059247938786792,
-      "suggestedRadius": 86.41,
+      "rawScore": 0.675932919262987,
+      "relevanceScore": 0.8435620327641007,
+      "suggestedRadius": 91.11,
       "imageUrl": "assets/images/bsky_3n22iry64ps25_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n22iry64ps25_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -148,7 +152,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A combinação de caipiroskas geladas com camarão fresco na Praia do Saco é o retrato de um dia perfeito. Quem consegue esse tipo de programa entende que a vida pode ser simples e boa ao mesmo tempo.",
+          "text": "Praia do Saco com caipiroska e camarão é a definição de vida boa. O post mostra exatamente isso: duas bebidas, muita comida e um cenário de tirar o fôlego. Quem dera estar ali agora.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -156,7 +160,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Comer uma tonelada de camarão e beber duas caipiroskas na praia do Saco parece exagero e pode sair caro. O post idealiza um lazer que muita gente não tem condições de bancar.",
+          "text": "Comer uma tonelada de camarão e beber duas caipiroskas na praia pode parecer ótimo, mas o impacto ambiental e o preço dos frutos do mar não são brincadeira. A conta chega depois.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -164,7 +168,60 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O relato é divertido, mas a quantidade de camarão e caipiroskas chama atenção. Vale lembrar que moderação faz diferença mesmo em dias de festa na praia do Saco.",
+          "text": "A publicação é um desabafo pessoal de felicidade, mas não dá para generalizar: nem todo mundo tem acesso a esse tipo de lazer. A praia do Saco é linda, mas a realidade de Sergipe é bem mais complexa.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2cex5pshc2x",
+      "rank": 4,
+      "title": "Aparentemente é impossível viajar para Aracaju",
+      "label": "Dificuldade de viajar para Aracaju",
+      "context": "Um post no Bluesky afirma que viajar para Aracaju parece impossível. A publicação viralizou ao tratar das dificuldades de chegar à capital sergipana.",
+      "source": "bluesky",
+      "subreddit": "bsky_se",
+      "permalink": "https://bsky.app/profile/frutinhadodiabo.bsky.social/post/3n2cex5pshc2x",
+      "createdAt": "2026-11-14T20:52:50.444000+00:00",
+      "rawScore": 0.7602773686646207,
+      "relevanceScore": 0.8238217237553102,
+      "suggestedRadius": 90.46,
+      "imageUrl": "assets/images/bsky_3n2cex5pshc2x_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2cex5pshc2x_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-se",
+      "sources": [
+        {
+          "title": "Aparentemente é IMPOSSÍVEL viajar pra Aracaju",
+          "url": "https://bsky.app/profile/frutinhadodiabo.bsky.social/post/3n2cex5pshc2x",
+          "subreddit": "bsky_se"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Aracaju tem voos escassos e conexões caras, então quem depende de avião realmente sente que a cidade é inacessível. O post só expõe um problema real de logística que quem mora no Nordeste conhece bem.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Dizer que é impossível viajar para Aracaju é exagero de quem só olha para voo direto saindo de São Paulo. A cidade recebe turista o ano inteiro por rodovia e por conexões, e o post transforma uma inconveniência em drama.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A frase funciona mais como desabafo do que como dado: depende de onde a pessoa sai e do quanto está disposta a gastar. Falar em impossibilidade ignora que o acesso existe, só não é barato nem rápido para todo mundo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -175,17 +232,17 @@
     },
     {
       "id": "bsky_3n27wvlgycc2v",
-      "rank": 4,
+      "rank": 5,
       "title": "Por que meu pacote foi do Rio para Aracaju e voltou?",
-      "label": "Rastreamento de encomenda · Rota inusitada",
-      "context": "Uma pessoa relatou que seu pacote saiu do Rio de Janeiro, foi para Aracaju e depois retornou ao Rio, gerando dúvidas sobre a lógica da rota. O caso chamou atenção por mostrar como os trajetos de entrega podem parecer ilógicos para o destinatário.",
+      "label": "Pacote viaja errado · Logística de entregas",
+      "context": "Um usuário relatou no Bluesky que seu pacote saiu do Rio de Janeiro, foi para Aracaju e depois retornou, sem explicação aparente. O caso ilustra como rotas de entrega podem parecer sem sentido para o destinatário, que fica sem informação sobre o que aconteceu com o pedido.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/paattyk.bsky.social/post/3n27wvlgycc2v",
       "createdAt": "2026-11-13T21:36:08.078000+00:00",
-      "rawScore": 0.5111494393072101,
-      "relevanceScore": 0.4942970333844076,
-      "suggestedRadius": 78.18,
+      "rawScore": 0.44232672951503355,
+      "relevanceScore": 0.4229131880305912,
+      "suggestedRadius": 75.02,
       "imageUrl": "assets/images/bsky_3n27wvlgycc2v_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27wvlgycc2v_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -201,7 +258,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A logística das transportadoras segue centros de distribuição e rotas planejadas, então um desvio aparente pode ser só uma etapa normal do percurso até o destino final.",
+          "text": "Centros de distribuição às vezes redirecionam pacotes para otimizar rotas e lotação de caminhões, então esse desvio por Aracaju pode ser só uma etapa logística normal que parece estranha de fora.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -209,7 +266,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Esse tipo de rota duplicada mostra falha no sistema de triagem: o pacote deveria seguir direto e voltar é desperdício de tempo e dinheiro, atrasando a entrega sem necessidade.",
+          "text": "A transportadora deveria explicar cada movimentação estranha no rastreio; mandar o pacote para outro estado e voltar sem aviso gera desconfiança e faz o cliente achar que houve erro grave.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -217,7 +274,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Sem acesso aos detalhes internos da transportadora, é difícil saber se foi erro ou procedimento padrão; o jeito é acompanhar o rastreio e, se demorar, abrir reclamação.",
+          "text": "Sem detalhes do código de rastreio e da transportadora, fica difícil saber se foi erro de triagem ou rota planejada; o jeito é abrir reclamação e pedir a justificativa da movimentação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -227,18 +284,77 @@
       "promptVersion": 2
     },
     {
+      "id": "bsky_3mztbuzzxsk2d",
+      "rank": 6,
+      "title": "Governo de Sergipe anuncia racionamento de água por crise hídrica causada pelo El Niño",
+      "label": "Racionamento de água em Sergipe",
+      "context": "O governo de Sergipe anunciou oficialmente o início do racionamento de água no estado, atribuindo a medida à crise hídrica provocada pelo El Niño, com reservatórios em nível mínimo. A decisão afeta diretamente o abastecimento da população e ocorre em um momento de calor intenso.",
+      "source": "bluesky",
+      "subreddit": "bsky_se",
+      "permalink": "https://bsky.app/profile/linpjs.bsky.social/post/3mztbuzzxsk2d",
+      "createdAt": "2026-11-08T20:48:01.879000+00:00",
+      "rawScore": 0.34223336895817097,
+      "relevanceScore": 0.2967040295148291,
+      "suggestedRadius": 68.68,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-se",
+      "sources": [
+        {
+          "title": "O governo de Sergipe anunciou oficialmente o início do racionamento de água no estado em decorrência de crise hídrica causada pelo El Niño. Simplesmente não chove e temos reservatórios no mínimo.",
+          "url": "https://bsky.app/profile/linpjs.bsky.social/post/3mztbuzzxsk2d",
+          "subreddit": "bsky_se"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O governo de Sergipe agiu certo ao anunciar o racionamento agora, com os reservatórios no mínimo e sem previsão de chuva. Melhor avisar e organizar o consumo do que deixar todo mundo sem água de uma hora para outra.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Enquanto Sergipe enfrenta racionamento por causa da seca, outros estados estão debaixo d'água. Essa disparidade mostra que falta uma gestão nacional dos recursos hídricos para evitar que uns sofram com a escassez e outros com enchentes.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O calor intenso agrava ainda mais a situação em Sergipe, porque aumenta o consumo de água justamente quando os reservatórios estão no mínimo. O racionamento pode ser necessário, mas precisa vir acompanhado de orientação clara para a população.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
       "id": "bsky_3mzyxylwxic2x",
-      "rank": 5,
-      "title": "Larguei tudo em Curitiba e moro em Aracaju, feliz da vida. Nunca mais volto pro Sul",
+      "rank": 7,
+      "title": "Larguei tudo em Curitiba e moro em Aracaju, feliz da vida; nunca mais volto pro Sul",
       "label": "Mudança de Curitiba para Aracaju · Estilo de vida",
-      "context": "Uma pessoa relatou ter deixado Curitiba e se mudado para Aracaju, afirmando estar feliz e que não pretende voltar para o Sul. O relato coincide com notícias sobre crise hídrica e racionamento na região metropolitana de Aracaju, além de cancelamento de eventos de fim de ano e verão.",
+      "context": "Uma pessoa relatou que deixou Curitiba e se mudou para Aracaju, dizendo estar feliz e que não pretende voltar para o Sul. O relato coincide com notícias sobre crise hídrica e racionamento na região metropolitana de Aracaju, além de cancelamento de eventos de verão.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/aquelabitt.bsky.social/post/3mzyxylwxic2x",
       "createdAt": "2026-11-11T03:07:03.072000+00:00",
-      "rawScore": 0.11528071015678598,
-      "relevanceScore": 0.1855924075020872,
-      "suggestedRadius": 61.85,
+      "rawScore": 0.13815253834911223,
+      "relevanceScore": 0.23922577602374753,
+      "suggestedRadius": 65.35,
       "imageUrl": "assets/images/bsky_3mzyxylwxic2x_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzyxylwxic2x_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -264,7 +380,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Aracaju oferece uma qualidade de vida que Curitiba não tem mais: custo de vida menor, praia perto e um ritmo mais tranquilo. Quem se muda e se adapta não quer voltar para o estresse do Sul.",
+          "text": "Aracaju oferece uma qualidade de vida que Curitiba não tem mais: custo de vida menor, praia perto e um ritmo mais leve. Quem se muda e diz que não volta está priorizando bem-estar e felicidade, e isso deveria ser respeitado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -272,7 +388,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A crise hídrica e o racionamento na região metropolitana mostram que a cidade não está preparada para receber tanta gente. Mudar sem planejamento pode virar frustração.",
+          "text": "A crise hídrica e o racionamento na região metropolitana mostram que Aracaju não está preparada para receber todo mundo. Mudar sem considerar infraestrutura e serviços públicos pode virar frustração, e o cancelamento de eventos já é um sinal de alerta.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -280,64 +396,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Cada pessoa tem uma experiência diferente. O relato de felicidade é válido, mas a situação da água e dos eventos cancelados indica que é preciso avaliar bem antes de se mudar.",
+          "text": "Cada pessoa sabe o que é melhor para si, mas generalizar 'nunca mais volto pro Sul' ignora que ambas as regiões têm problemas e qualidades. O ideal é conhecer bem o destino antes de largar tudo, porque a felicidade inicial pode esconder desafios de adaptação.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mztbuzzxsk2d",
-      "rank": 6,
-      "title": "Governo de Sergipe anuncia racionamento de água por crise hídrica causada pelo El Niño",
-      "label": "Racionamento de água em Sergipe",
-      "context": "O governo de Sergipe anunciou oficialmente o início do racionamento de água no estado, atribuindo a medida à crise hídrica provocada pelo El Niño, com reservatórios em nível mínimo e ausência de chuvas. A decisão afeta diretamente o abastecimento da população e ocorre em um momento de calor intenso, enquanto outros estados enfrentam excesso de chuvas.",
-      "source": "bluesky",
-      "subreddit": "bsky_se",
-      "permalink": "https://bsky.app/profile/linpjs.bsky.social/post/3mztbuzzxsk2d",
-      "createdAt": "2026-11-08T20:48:01.879000+00:00",
-      "rawScore": 0.26797290357822356,
-      "relevanceScore": 0.17804418984895193,
-      "suggestedRadius": 61.32,
-      "imageUrl": "assets/images/bsky_3mztbuzzxsk2d_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztbuzzxsk2d_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-se",
-      "sources": [
-        {
-          "title": "O governo de Sergipe anunciou oficialmente o início do racionamento de água no estado em decorrência de crise hídrica causada pelo El Niño. Simplesmente não chove e temos reservatórios no mínimo.",
-          "url": "https://bsky.app/profile/linpjs.bsky.social/post/3mztbuzzxsk2d",
-          "subreddit": "bsky_se"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O governo de Sergipe agiu certo ao anunciar o racionamento antes que os reservatórios zerassem. Com o El Niño e a falta de chuva, não dá para esperar o colapso; é melhor planejar e avisar a população com antecedência do que ser pego de surpresa.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Sergipe chegar a esse ponto de racionamento mostra que faltou investimento em infraestrutura hídrica e em alternativas como dessalinização ou reúso de água. Não dá para culpar só o El Niño quando o problema se repete e os reservatórios nunca são ampliados.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O racionamento em Sergipe é necessário diante da crise, mas o calor intenso mencionado nos comentários agrava o consumo e a evaporação. A medida precisa vir acompanhada de campanhas de conscientização e de um plano claro de prioridades para evitar que a população mais pobre seja a mais afetada.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
           "votes": 0
         }
       ],
@@ -346,17 +407,17 @@
     },
     {
       "id": "bsky_3n24p5awa622u",
-      "rank": 7,
-      "title": "Oxe, ia ser top. No beco da Rapariga? Eu organizo a excursão de Aracaju!",
-      "label": "Excursão de Aracaju ao Beco da Rapariga",
-      "context": "Um usuário do Bluesky publicou uma mensagem convidando para uma excursão de Aracaju ao 'beco da Rapariga', dizendo que 'ia ser top'. A publicação não teve comentários, então não há informações sobre a reação de outras pessoas.",
+      "rank": 8,
+      "title": "Excursão de Aracaju ao Beco da Rapariga",
+      "label": "Beco da Rapariga · Excursão de Aracaju",
+      "context": "Um usuário do Bluesky propôs organizar uma excursão saindo de Aracaju para visitar o Beco da Rapariga, descrevendo o local como 'top'. A publicação não detalha onde fica o beco nem o que a excursão envolveria.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/catarinacristo.bsky.social/post/3n24p5awa622u",
       "createdAt": "2026-11-12T14:39:13.684000+00:00",
-      "rawScore": 0.16903036869887783,
-      "relevanceScore": 0.04936870761792008,
-      "suggestedRadius": 49.33,
+      "rawScore": 0.17904986259319858,
+      "relevanceScore": 0.09094359837939328,
+      "suggestedRadius": 54.09,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -372,7 +433,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A ideia de organizar uma excursão de Aracaju até o beco da Rapariga é animadora; parece um programa diferente e divertido, e o convite já mostra que o pessoal da região tem disposição para fazer acontecer.",
+          "text": "A ideia de organizar uma excursão de Aracaju para conhecer o Beco da Rapariga é animadora, ainda mais com alguém disposto a liderar o grupo. Se o local é 'top' como dizem, vale a pena reunir a galera e fazer o passeio acontecer.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -380,7 +441,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O convite para uma excursão de Aracaju ao beco da Rapariga soa como uma brincadeira sem noção; o lugar tem nome que não inspira confiança, e chamar gente para ir até lá pode acabar em situação desagradável.",
+          "text": "Organizar uma excursão para um lugar chamado Beco da Rapariga soa estranho e pode não ser seguro. Antes de sair divulgando, seria bom saber onde fica, o que oferece e se é um ambiente confiável para levar um grupo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -388,7 +449,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A publicação sobre a excursão de Aracaju ao beco da Rapariga é vaga: não diz data, horário nem como participar. Sem esses detalhes, fica difícil saber se é um convite real ou só uma piada entre amigos.",
+          "text": "A proposta é curiosa, mas falta informação: não se sabe onde fica o Beco da Rapariga, o que tem lá nem por que seria 'top'. Sem esses detalhes, fica difícil dizer se a excursão de Aracaju faz sentido ou não.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -399,15 +460,15 @@
     },
     {
       "id": "bsky_3n26uxj33qc2c",
-      "rank": 8,
+      "rank": 9,
       "title": "“Eurovision Asia” lembra o Coritiba do Sergipe, diz post",
-      "label": "Eurovision Asia · Piada com Coritiba do Sergipe",
-      "context": "Um post no Bluesky comparou o “Eurovision Asia” ao “Coritiba do Sergipe”, tratando o nome como uma combinação inusitada. Nos comentários, um usuário explicou que o nome “Asiavision” já estava patenteado e por isso o evento manteve a marca original para facilitar as buscas.",
+      "label": "Eurovision Asia · Comparação com Coritiba",
+      "context": "Um post no Bluesky comparou o “Eurovision Asia” ao “Coritiba do Sergipe”, citando o nome do evento. Nos comentários, um usuário afirmou que o “Asiavision” já estava patenteado e que o nome original foi mantido para facilitar as buscas.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/augustorb.bsky.social/post/3n26uxj33qc2c",
       "createdAt": "2026-11-13T11:28:43.773000+00:00",
-      "rawScore": 0.13106925139244294,
+      "rawScore": 0.10692474512963294,
       "relevanceScore": 0.0,
       "suggestedRadius": 36.0,
       "imageUrl": "assets/images/generic.png",
@@ -425,7 +486,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A explicação faz sentido: se “Asiavision” já estava patenteado, manter “Eurovision Asia” preserva a marca original e ajuda o público a encontrar o evento nas buscas, mesmo que o nome soe estranho à primeira vista.",
+          "text": "Manter o nome “Asiavision” por já estar patenteado foi uma decisão prática: preserva o brand original e facilita as buscas do público, mesmo que o apelido pegue.",
           "source": "sintese",
           "evidence": [
             1
@@ -435,17 +496,15 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O nome “Eurovision Asia” soa deslocado e confuso, e a piada com o Coritiba do Sergipe mostra que a combinação não funciona bem. Se a intenção era facilitar as buscas, o resultado acabou virando motivo de chacota.",
+          "text": "A comparação com o “Coritiba do Sergipe” pega porque o nome “Eurovision Asia” soa como uma versão improvisada, sem a identidade própria que o evento original tem.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A comparação com o Coritiba do Sergipe é engraçada, mas o caso é só uma questão de marca registrada: o nome “Asiavision” já estava patenteado, então a solução foi adaptar para “Eurovision Asia” sem grandes consequências.",
+          "text": "A piada do “Coritiba do Sergipe” funciona como metáfora de algo que tenta se parecer com o original, mas a questão do nome patenteado mostra que a escolha tem uma razão prática.",
           "source": "sintese",
           "evidence": [
             1

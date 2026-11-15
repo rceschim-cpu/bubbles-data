@@ -1,212 +1,21 @@
 {
-  "generatedAt": "2026-11-14T17:53:05.010538+00:00",
+  "generatedAt": "2026-11-15T05:36:37.700519+00:00",
   "region": "br-pi",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n2bmxhvttc2u",
-      "rank": 1,
-      "title": "Vamos passar raiva ouvindo o Teresina Forum, já que não tem outro podcast legal pra ouvir?",
-      "label": "Teresina Forum · Crítica a Moraes",
-      "context": "O post convida a ouvir o podcast Teresina Forum, que começou com Fernando falando sobre supostos 'arbítrios' de Alexandre de Moraes e questionando o que Xandão fez com o Itaú. A discussão gira em torno da crítica ao ministro e da qualidade do podcast como opção de entretenimento.",
-      "source": "bluesky",
-      "subreddit": "bsky_pi",
-      "permalink": "https://bsky.app/profile/galovasco.bsky.social/post/3n2bmxhvttc2u",
-      "createdAt": "2026-11-14T13:43:30.446000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3n2bmxhvttc2u_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2bmxhvttc2u_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pi",
-      "sources": [
-        {
-          "title": "Vamos passar raiva ouvindo o Teresina Forum, já que não tem outro podcast legal pra ouvir? Começou com o Fernando falando \"arbítrios\" de Alexandre de Moraes 😂😂😂 O que Xandão fez com o Itaú?",
-          "url": "https://bsky.app/profile/galovasco.bsky.social/post/3n2bmxhvttc2u",
-          "subreddit": "bsky_pi"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O Teresina Forum é uma opção legal de podcast e vale a pena ouvir, mesmo que o começo com as críticas aos 'arbítrios' de Alexandre de Moraes gere alguma raiva. É melhor do que não ter nada para ouvir.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O podcast já começa falando de 'arbítrios' de Alexandre de Moraes, o que gera raiva desnecessária. Não é um conteúdo agradável e só serve para passar raiva, como o próprio título sugere.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O episódio até que foi razoável, quase não deu raiva. Depende do trecho: a parte sobre os 'arbítrios' pode incomodar, mas no geral não é tão ruim assim.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2blhhaqrc2n",
-      "rank": 2,
-      "title": "Enquanto isso, tem cânion no Piauí",
-      "label": "Cânion no Piauí · Turismo",
-      "context": "Um post no Bluesky destacou a existência de um cânion no Piauí, chamando atenção para a paisagem. O comentário sugere que o turismo no Brasil pode ser uma atividade duradoura e que o local é maravilhoso para visitar.",
-      "source": "bluesky",
-      "subreddit": "bsky_pi",
-      "permalink": "https://bsky.app/profile/pexbruno.bsky.social/post/3n2blhhaqrc2n",
-      "createdAt": "2026-11-14T13:16:38.949000+00:00",
-      "rawScore": 0.6308283647504801,
-      "relevanceScore": 0.7009204052783112,
-      "suggestedRadius": 86.23,
-      "imageUrl": "assets/images/bsky_3n2blhhaqrc2n_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2blhhaqrc2n_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pi",
-      "sources": [
-        {
-          "title": "Enquanto isso, tem cânion no Piaui.",
-          "url": "https://bsky.app/profile/pexbruno.bsky.social/post/3n2blhhaqrc2n",
-          "subreddit": "bsky_pi"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O turismo no Brasil rende uma vida inteira e ainda sobra, e lugares como esse cânion no Piauí mostram esse potencial. É um destino maravilhoso de visitar, que merece ser mais conhecido e explorado.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A divulgação de belezas como o cânion no Piauí ainda é muito fraca, e isso faz com que o potencial turístico do Brasil seja subaproveitado. Faltam incentivos e infraestrutura para que locais assim recebam visitantes.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O cânion no Piauí é de fato um lugar maravilhoso de visitar, mas o turismo no Brasil como um todo depende de fatores como acesso, divulgação e estrutura. Não basta ter belezas naturais; é preciso que elas sejam acessíveis.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n25bmsfajs2a",
-      "rank": 3,
-      "title": "Piauí erra sobre origem da música 'Tariflávio' e apaga matéria",
-      "label": "Piauí · Erro sobre jingle 'Tariflávio'",
-      "context": "A revista Piauí publicou uma matéria sobre a origem da música 'Tariflávio', mas apagou o conteúdo após críticas nas redes. Internautas apontam que a canção original seria uma paródia sobre ACM Neto e que expressões usadas na letra são típicas da Bahia, não de Minas Gerais.",
-      "source": "bluesky",
-      "subreddit": "bsky_pi",
-      "permalink": "https://bsky.app/profile/fsmcruz.bsky.social/post/3n25bmsfajs2a",
-      "createdAt": "2026-11-12T20:10:02.171000+00:00",
-      "rawScore": 0.45293134722912876,
-      "relevanceScore": 0.6793639970013826,
-      "suggestedRadius": 85.45,
-      "imageUrl": "assets/images/bsky_3n25bmsfajs2a_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n25bmsfajs2a_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pi",
-      "sources": [
-        {
-          "title": "A Piauí fez uma matéria bem fraca sobre as causas das vitórias do PT na Bahia. Agora, achando que vergonha pouca é bobagem, deu uma barrigada sobre a origem da música \"Tariflávio\". Apagaram. A canção original, em homenagem a grampinho, nasceu ...na Bahia. piaui.uol.com.br/web/flavio-b...",
-          "url": "https://bsky.app/profile/fsmcruz.bsky.social/post/3n25bmsfajs2a",
-          "subreddit": "bsky_pi"
-        },
-        {
-          "title": "A Piauí fez uma matéria sobre a música \"Tariflavio Bolsonaro na cabeça do meu pau\" kkkkkk",
-          "url": "https://bsky.app/profile/eruilluviel.bsky.social/post/3n24n6isfpk2w",
-          "subreddit": "bsky_pi"
-        },
-        {
-          "title": "A Piauí criou um personagem, um adolescente mineiro, que teria escrito o maior jingle da campanha presidencial este ano. Se eu não soubesse quem é de fato um dos autores da música - e dica, \"na cabeça do meu pau e na cabeça da minha pica\" são expressões tipicamente baianas - eu ficaria confusa.",
-          "url": "https://bsky.app/profile/caroltypes.bsky.social/post/3n24ueifwwc27",
-          "subreddit": "bsky_pi"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A Piauí acertou em remover a matéria depois que o erro ficou evidente. Reconhecer a falha e apagar o conteúdo é melhor do que insistir numa informação errada sobre a origem da música.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            27
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A revista fez uma matéria fraca, atribuiu a música a um adolescente mineiro sem checar direito e ainda errou a origem baiana da paródia. Depois, apagou para não assumir a barrigada.",
-          "source": "sintese",
-          "evidence": [
-            3,
-            6,
-            20
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A origem da música é incerta: pode ser baiana, mineira ou até uma versão de IA para ACM Neto. Sem uma apuração mais profunda, fica difícil cravar de onde vem a paródia.",
-          "source": "sintese",
-          "evidence": [
-            9,
-            10,
-            22
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3n253zsegic2j",
-      "rank": 4,
-      "title": "Piauí desenvolve SoberanIA, primeiro modelo de IA 100% em português",
-      "label": "SoberanIA · IA em português para o setor público",
-      "context": "O Piauí desenvolveu o SoberanIA, um modelo de inteligência artificial treinado com cerca de 500 bilhões de tokens em português e alimentado por documentos oficiais do SEI. A ferramenta é destinada a prefeituras, estados e órgãos públicos para compreender a legislação e os processos administrativos brasileiros sem enviar dados para fora do país.",
+      "rank": 1,
+      "title": "Piauí desenvolve SoberanIA, primeiro modelo de IA em português",
+      "label": "SoberanIA · IA em português no setor público",
+      "context": "O Piauí desenvolveu o SoberanIA, descrito como o primeiro modelo de grande escala de inteligência artificial criado 100% em língua portuguesa no Brasil. Ele é voltado a prefeituras, estados e órgãos públicos para compreender a legislação e os processos administrativos brasileiros sem enviar dados para fora.",
       "source": "bluesky",
       "subreddit": "bsky_pi",
       "permalink": "https://bsky.app/profile/hiltonbastos.bsky.social/post/3n253zsegic2j",
       "createdAt": "2026-11-12T18:34:12.979000+00:00",
-      "rawScore": 0.611049717931764,
-      "relevanceScore": 0.6789441310352933,
-      "suggestedRadius": 85.44,
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
       "imageUrl": "assets/images/bsky_3n253zsegic2j_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n253zsegic2j_reddit_thumb.jpg",
       "category": "tech",
@@ -222,7 +31,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Piauí mostrou que o Nordeste pode liderar inovação com um modelo de IA treinado em português e feito para a administração pública. Isso é soberania tecnológica: usar documentos oficiais do SEI e manter os dados no Brasil, sem depender de empresas estrangeiras.",
+          "text": "O Piauí mostrou que o Nordeste pode liderar inovação: um modelo treinado com documentos oficiais do SEI e feito para a administração pública brasileira resolve um problema real e ainda mantém os dados no país.",
           "source": "sintese",
           "evidence": [
             1,
@@ -234,21 +43,21 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Um modelo de linguagem generativo treinado com documentos do SEI pode reproduzir os vícios da burocracia e não necessariamente ajudar o cidadão. Sem transparência sobre como foi treinado e avaliado, o SoberanIA pode virar mais uma ferramenta cara e pouco útil para prefeituras.",
+          "text": "A notícia merece cautela: um modelo de linguagem generativo treinado com documentos do governo pode reproduzir erros e vieses desses mesmos documentos, e ainda não está claro como ele será auditado ou usado pelas prefeituras.",
           "source": "sintese",
           "evidence": [
-            9
+            7
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A iniciativa do Piauí é interessante, mas o anúncio fala de um modelo de grande escala sem detalhar como ele será mantido e atualizado. O sucesso do SoberanIA depende de parcerias duradouras e de equipes técnicas nos órgãos públicos, não só do lançamento.",
+          "text": "O anúncio é promissor, mas o impacto depende de detalhes que ainda não foram divulgados: quais órgãos vão testar o SoberanIA, com que transparência e se ele realmente supera soluções já existentes no mercado.",
           "source": "sintese",
           "evidence": [
-            1,
-            7
+            8,
+            9
           ],
           "votes": 0
         }
@@ -257,23 +66,28 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n27rlkixs22w",
-      "rank": 5,
-      "title": "Comentários do Foro de Teresina criticam 'excessos fiscalistas'",
-      "label": "Foro de Teresina · Críticas fiscalistas nos comentários",
-      "context": "O podcast Foro de Teresina, da revista piauí, tem sido alvo de comentários que criticam o que chamam de 'excessos fiscalistas' em seus episódios recentes. A discussão gira em torno de como o programa aborda temas econômicos e se isso afeta sua audiência.",
+      "id": "bsky_3n2ckbrxoh225",
+      "rank": 2,
+      "title": "Celso Rocha de Barros explica no Foro de Teresina",
+      "label": "Foro de Teresina · Explicação de Celso Rocha de Barros",
+      "context": "Celso Rocha de Barros deu uma explicação no Foro de Teresina, segundo um post no Bluesky. O episódio gerou comentários sobre o tom do programa e sobre a posição defendida.",
       "source": "bluesky",
       "subreddit": "bsky_pi",
-      "permalink": "https://bsky.app/profile/arthursemtavola.bsky.social/post/3n27rlkixs22w",
-      "createdAt": "2026-11-13T20:00:59.272000+00:00",
-      "rawScore": 0.3042791219191683,
-      "relevanceScore": 0.5603101354657425,
-      "suggestedRadius": 80.91,
-      "imageUrl": "assets/images/bsky_3n27rlkixs22w_unsp.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27rlkixs22w_unsp_thumb.jpg",
+      "permalink": "https://bsky.app/profile/vitorvanacor.bsky.social/post/3n2ckbrxoh225",
+      "createdAt": "2026-11-14T22:28:15.846000+00:00",
+      "rawScore": 0.6734753833796273,
+      "relevanceScore": 0.9244129260574921,
+      "suggestedRadius": 93.69,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-pi",
       "sources": [
+        {
+          "title": "(considerando q é uma pergunta não-retórica) o Celso Rocha de Barros dá uma explicação no último (ou penúltimo?) Foro de Teresina. Não sou entendido, mas tem a ver com",
+          "url": "https://bsky.app/profile/vitorvanacor.bsky.social/post/3n2ckbrxoh225",
+          "subreddit": "bsky_pi"
+        },
         {
           "title": "Já é o segundo episódio do Foro de Teresina que os comentários estão tomados pelo chororó contra os \"excessos fiscalistas\" Fico curioso se isso tem algum impacto real na audiência",
           "url": "https://bsky.app/profile/arthursemtavola.bsky.social/post/3n27rlkixs22w",
@@ -283,10 +97,74 @@
           "title": "é a gente relaxar um pouquinho e o foro de teresina já começa a falar num sotaque liberalês quase ininteligível a ouvidos saudáveis",
           "url": "https://bsky.app/profile/meiapataca.bsky.social/post/3n22imn52zk2a",
           "subreddit": "bsky_pi"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A explicação do Celso Rocha de Barros no Foro de Teresina ajuda a entender o que está por trás do discurso contra os 'excessos fiscalistas' que tomou conta dos comentários. Ter alguém com conhecimento técnico explicando o assunto é útil para quem não é entendido no tema.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
         },
         {
-          "title": "Foro de Teresina: MAS NÃO PODE SEQUER DISCUTIR A PROPOSTA DO ALR OK ISSO É PÉSSIMO PRA ECONOMIA!!!",
-          "url": "https://bsky.app/profile/gsc.bsky.social/post/3mzr624e6ok2t",
+          "id": "op2",
+          "tone": "negative",
+          "text": "O Foro de Teresina passou meses criticando o estelionato eleitoral de vários políticos e agora recomenda um estelionato eleitoral autoconsciente, bem educado e sugerido por um jornalismo sério. Isso soa como dois pesos e duas medidas.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Defender que o governo não gaste mais do que arrecada está virando motivo de crítica no programa, e isso me parece um exagero. O tom liberalês que apareceu no Foro de Teresina nos últimos episódios pode estar distorcendo o debate sobre responsabilidade fiscal.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n24ueifwwc27",
+      "rank": 3,
+      "title": "Piauí cria personagem adolescente mineiro para jingle e apaga matéria após críticas",
+      "label": "Piauí · Jingle viral e origem baiana",
+      "context": "A revista Piauí publicou uma matéria atribuindo a autoria do jingle \"Tariflavio Bolsonaro na cabeça do meu pau\" a um adolescente mineiro, mas retirou o texto do ar após críticas. A polêmica gira em torno da origem da música, que muitos apontam como uma paródia baiana originalmente feita para ACM Neto.",
+      "source": "bluesky",
+      "subreddit": "bsky_pi",
+      "permalink": "https://bsky.app/profile/caroltypes.bsky.social/post/3n24ueifwwc27",
+      "createdAt": "2026-11-12T16:12:43.684000+00:00",
+      "rawScore": 0.6636636538609685,
+      "relevanceScore": 0.9135110043700935,
+      "suggestedRadius": 93.35,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pi",
+      "sources": [
+        {
+          "title": "A Piauí criou um personagem, um adolescente mineiro, que teria escrito o maior jingle da campanha presidencial este ano. Se eu não soubesse quem é de fato um dos autores da música - e dica, \"na cabeça do meu pau e na cabeça da minha pica\" são expressões tipicamente baianas - eu ficaria confusa.",
+          "url": "https://bsky.app/profile/caroltypes.bsky.social/post/3n24ueifwwc27",
+          "subreddit": "bsky_pi"
+        },
+        {
+          "title": "A Piauí fez uma matéria sobre a música \"Tariflavio Bolsonaro na cabeça do meu pau\" kkkkkk",
+          "url": "https://bsky.app/profile/eruilluviel.bsky.social/post/3n24n6isfpk2w",
+          "subreddit": "bsky_pi"
+        },
+        {
+          "title": "A Piauí fez uma matéria bem fraca sobre as causas das vitórias do PT na Bahia. Agora, achando que vergonha pouca é bobagem, deu uma barrigada sobre a origem da música \"Tariflávio\". Apagaram. A canção original, em homenagem a grampinho, nasceu ...na Bahia. piaui.uol.com.br/web/flavio-b...",
+          "url": "https://bsky.app/profile/fsmcruz.bsky.social/post/3n25bmsfajs2a",
           "subreddit": "bsky_pi"
         }
       ],
@@ -294,30 +172,100 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Os comentários contra os 'excessos fiscalistas' mostram que parte do público quer um debate econômico menos ortodoxo e mais aberto a propostas heterodoxas, como a do Alr. O Foro de Teresina deveria ouvir mais essas vozes em vez de reforçar só um lado.",
+          "text": "A Piauí acertou ao apagar a matéria depois que ficou claro que a expressão \"na cabeça do meu pau\" é usada em várias regiões, não só na Bahia. Melhor corrigir do que insistir num erro que alimenta estereótipos regionais.",
           "source": "sintese",
           "evidence": [
-            3
+            1,
+            3,
+            11,
+            14
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A insistência em criticar os 'excessos fiscalistas' soa como defesa de irresponsabilidade fiscal. Defender que o governo não gaste mais do que arrecada não é crime nem exagero, é o mínimo para a economia funcionar. O programa está certo em manter o foco nisso.",
+          "text": "A revista errou feio ao inventar um personagem mineiro para uma música que todo mundo sabe que nasceu na Bahia como paródia do ACM Neto. Apagar a matéria sem se retratar direito é típico de quem faz jornalismo preguiçoso e depois foge da responsabilidade.",
           "source": "sintese",
           "evidence": [
-            3
+            3,
+            6,
+            7,
+            17,
+            18
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O tom dos comentários pode não refletir a audiência real do Foro de Teresina. Muita gente ouve sem comentar, e a mudança de apresentadores pode ter mais impacto no clima do programa do que a linha editorial sobre economia.",
+          "text": "A origem da música é incerta: pode ser baiana, mineira ou até uma versão de IA. O problema é que a Piauí não checou direito e agora ninguém sabe o que é fato ou invenção. Talvez a revista devesse explicar melhor por que apagou.",
           "source": "sintese",
           "evidence": [
-            4
+            4,
+            9,
+            10,
+            22,
+            27
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2bmxhvttc2u",
+      "rank": 4,
+      "title": "Ouvir o Teresina Forum para passar raiva com os \"arbítrios\" de Alexandre de Moraes",
+      "label": "Teresina Forum · Arbitrios de Moraes",
+      "context": "Um post no Bluesky convida a ouvir o podcast Teresina Forum para \"passar raiva\", citando Fernando falando de \"arbítrios\" de Alexandre de Moraes e perguntando o que Xandão fez com o Itaú. Nos comentários, uma pessoa diz que o episódio foi \"bem razoável\" e quase não passou raiva.",
+      "source": "bluesky",
+      "subreddit": "bsky_pi",
+      "permalink": "https://bsky.app/profile/galovasco.bsky.social/post/3n2bmxhvttc2u",
+      "createdAt": "2026-11-14T13:43:30.446000+00:00",
+      "rawScore": 0.6461907590262966,
+      "relevanceScore": 0.7179897322514407,
+      "suggestedRadius": 86.84,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pi",
+      "sources": [
+        {
+          "title": "Vamos passar raiva ouvindo o Teresina Forum, já que não tem outro podcast legal pra ouvir? Começou com o Fernando falando \"arbítrios\" de Alexandre de Moraes 😂😂😂 O que Xandão fez com o Itaú?",
+          "url": "https://bsky.app/profile/galovasco.bsky.social/post/3n2bmxhvttc2u",
+          "subreddit": "bsky_pi"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Ouvir o Teresina Forum vale a pena justamente por esse tom debochado, que chama de \"arbítrios\" o que outros tratam com reverência e ainda provoca com a pergunta sobre o Itaú. É o tipo de podcast que prende a atenção pelo humor ácido.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Passar raiva de propósito com podcast que fica repetindo \"arbítrios\" de Alexandre de Moraes não é entretenimento, é masoquismo. Se o episódio já começa assim, melhor procurar outra coisa para ouvir do que se irritar de graça.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O episódio até que foi razoável, quase não deu raiva, o que mostra que o Teresina Forum não é esse drama todo que o post sugere. Vale ouvir sem expectativa de irritação, porque o resultado pode surpreender.",
+          "source": "sintese",
+          "evidence": [
+            2
           ],
           "votes": 0
         }
@@ -327,17 +275,17 @@
     },
     {
       "id": "bsky_3n277mjtfqs2d",
-      "rank": 6,
+      "rank": 5,
       "title": "Crânio de preguiça gigante encontrado na Serra da Capivara é exposto no Museu da Natureza",
       "label": "Crânio de preguiça gigante · exposição no Piauí",
-      "context": "Um crânio de preguiça gigante da espécie Eremotherium laurillardi, encontrado na região da Serra da Capivara, no Piauí, está em exposição no Museu da Natureza. O fóssil tem cerca de 70 cm de comprimento e pertence a um animal que media aproximadamente 5 metros.",
+      "context": "Um crânio de preguiça gigante da espécie Eremotherium laurillardi, encontrado na região da Serra da Capivara, no Piauí, está em exposição no Museu da Natureza. O fóssil tem cerca de 70 cm de comprimento e corresponde a um animal de aproximadamente 5 metros.",
       "source": "bluesky",
       "subreddit": "bsky_pi",
       "permalink": "https://bsky.app/profile/cisneros.bsky.social/post/3n277mjtfqs2d",
       "createdAt": "2026-11-13T14:39:27.677000+00:00",
-      "rawScore": 0.39035214923073674,
-      "relevanceScore": 0.5448357213674853,
-      "suggestedRadius": 80.29,
+      "rawScore": 0.5111832801221978,
+      "relevanceScore": 0.6790925334691087,
+      "suggestedRadius": 85.44,
       "imageUrl": "assets/images/bsky_3n277mjtfqs2d_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n277mjtfqs2d_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -358,7 +306,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A exposição desse crânio no Museu da Natureza é uma forma de valorizar a paleontologia brasileira e aproximar o público da pré-história da região. Com 70 cm e um animal de 5 metros, o fóssil impressiona e ajuda a entender a fauna gigante que já viveu no Piauí.",
+          "text": "A exposição desse crânio no Museu da Natureza é uma forma de valorizar a paleontologia brasileira e aproximar o público da pré-história da região. Um fóssil desse tamanho, com 70 cm e um animal de 5 metros, merece ser visto e estudado.",
           "source": "sintese",
           "evidence": [
             1
@@ -368,7 +316,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Focar só no tamanho do crânio e do animal deixa de lado o comportamento da preguiça gigante. Seria mais interessante saber se ela era agressiva ou dócil como as preguiças atuais, mas a exposição parece não explorar isso.",
+          "text": "Fico pensando se a divulgação não deveria focar mais no comportamento desses animais, como se eram agressivos ou dóceis, em vez de só no tamanho do crânio. A informação sobre a exposição acaba sendo superficial perto do que a ciência pode contar.",
           "source": "sintese",
           "evidence": [
             6
@@ -378,10 +326,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A descoberta do crânio é relevante, mas a discussão em torno da música da Piauí acabou desviando a atenção. O fóssil em si merece ser tratado com seriedade, independentemente da confusão sobre a autoria da canção.",
+          "text": "Achei curioso o crânio ser de uma preguiça gigante, mas confesso que cheguei aqui sem saber do que se tratava e só queria entender a relação com a música citada. O fóssil em si é impressionante, mas a conversa tomou outro rumo.",
           "source": "sintese",
           "evidence": [
-            2,
             3,
             4
           ],
@@ -389,6 +336,39 @@
         }
       ],
       "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2c4y6pcgc23",
+      "rank": 6,
+      "title": "Meu sonho é conhecer Maranhão e Piauí.",
+      "label": "",
+      "context": "",
+      "source": "bluesky",
+      "subreddit": "bsky_pi",
+      "permalink": "https://bsky.app/profile/karolsuetomoreira.com/post/3n2c4y6pcgc23",
+      "createdAt": "2026-11-14T18:30:13.542000+00:00",
+      "rawScore": 0.489128817576753,
+      "relevanceScore": 0.6545875750852812,
+      "suggestedRadius": 84.54,
+      "imageUrl": null,
+      "imageThumbUrl": "",
+      "category": "geopolitica",
+      "region": "br-pi",
+      "sources": [
+        {
+          "title": "Meu sonho é conhecer Maranhão e Piauí.",
+          "url": "https://bsky.app/profile/karolsuetomoreira.com/post/3n2c4y6pcgc23",
+          "subreddit": "bsky_pi"
+        },
+        {
+          "title": "está acontecendo algo no meu tiktok que só aparece conteúdo (homem) do maranhão, piauí e ceará...",
+          "url": "https://bsky.app/profile/qserjo.bsky.social/post/3n24f2j6awk2q",
+          "subreddit": "bsky_pi"
+        }
+      ],
+      "opinions": [],
+      "enrichedBy": "",
       "promptVersion": 2
     },
     {
@@ -401,9 +381,9 @@
       "subreddit": "bsky_pi",
       "permalink": "https://bsky.app/profile/iaanks.bsky.social/post/3n27bchi3bk25",
       "createdAt": "2026-11-13T15:09:39.079000+00:00",
-      "rawScore": 0.40282231606887053,
-      "relevanceScore": 0.4475803511876339,
-      "suggestedRadius": 76.14,
+      "rawScore": 0.5255746570372329,
+      "relevanceScore": 0.583971841152481,
+      "suggestedRadius": 81.85,
       "imageUrl": "assets/images/bsky_3n27bchi3bk25_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27bchi3bk25_reddit.jpg",
       "category": "geopolitica",
@@ -420,18 +400,78 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n27tch3ttk2p",
+      "id": "bsky_3n2bjgmxoec22",
       "rank": 8,
+      "title": "Demissão da Piauí por recusa de mudança de cidade",
+      "label": "Demissão na Piauí · Recusa de mudança",
+      "context": "Uma pessoa foi demitida da revista Piauí após se recusar a mudar de cidade por causa do filho e da gravidez. O caso é discutido como exemplo de como exigências de mobilidade no trabalho afetam trabalhadores com responsabilidades familiares.",
+      "source": "bluesky",
+      "subreddit": "bsky_pi",
+      "permalink": "https://bsky.app/profile/caffarena.bsky.social/post/3n2bjgmxoec22",
+      "createdAt": "2026-11-14T12:40:24.740000+00:00",
+      "rawScore": 0.5156798717107587,
+      "relevanceScore": 0.5729776352341763,
+      "suggestedRadius": 81.42,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pi",
+      "sources": [
+        {
+          "title": "Não, foi demitida da Piauí pq não queria mudar de cidade por conta do filho/gravidez",
+          "url": "https://bsky.app/profile/caffarena.bsky.social/post/3n2bjgmxoec22",
+          "subreddit": "bsky_pi"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A demissão escancara como empresas ainda tratam a gravidez e a maternidade como um problema operacional. Se a pessoa não pode se mudar por causa do filho, a revista deveria acomodar isso, não mandar embora. Isso é o tipo de decisão que mostra a cultura real de um veículo.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A revista tem o direito de definir onde o trabalho precisa ser feito, e a pessoa sabia das exigências ao aceitar o cargo. Se a mudança era condição da vaga, a recusa inviabiliza a relação. Não dá para transformar toda demissão em injustiça quando a empresa só está seguindo o que foi combinado.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O caso em si é triste, mas o que mais me pegou foi a falta de clareza sobre o ocorrido. As pessoas contam versões diferentes, ninguém confirma os detalhes e a história vai se espalhando sem checagem. Antes de julgar a revista ou a jornalista, falta saber exatamente o que foi proposto e recusado.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2,
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27tch3ttk2p",
+      "rank": 9,
       "title": "O melhor litoral do mundo! Isso é o Nordeste! Piauí de beleza!",
-      "label": "Litoral do Piauí · Beleza exaltada",
-      "context": "Um post no Bluesky exalta o litoral do Piauí como o melhor do mundo e destaca a beleza do estado. A publicação celebra as belezas naturais da região e a identidade nordestina.",
+      "label": "Litoral do Piauí · Beleza natural",
+      "context": "Um post no Bluesky exalta o litoral do Piauí como 'o melhor do mundo' e parte do Nordeste. A publicação destaca a beleza natural da costa piauiense e recebeu comentário concordando com os encantos do estado.",
       "source": "bluesky",
       "subreddit": "bsky_pi",
       "permalink": "https://bsky.app/profile/rdokyron.bsky.social/post/3n27tch3ttk2p",
       "createdAt": "2026-11-13T20:31:44.278000+00:00",
-      "rawScore": 0.39158180456359437,
-      "relevanceScore": 0.4350908939595493,
-      "suggestedRadius": 75.58,
+      "rawScore": 0.4814679771051862,
+      "relevanceScore": 0.5349644190057624,
+      "suggestedRadius": 79.88,
       "imageUrl": "assets/images/bsky_3n27tch3ttk2p_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27tch3ttk2p_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -447,7 +487,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O litoral do Piauí é realmente um dos mais bonitos do Brasil, com praias pouco exploradas e paisagens únicas. O estado merece esse reconhecimento e mais pessoas deveriam conhecer.",
+          "text": "O litoral do Piauí é realmente um dos mais bonitos do país, com praias pouco exploradas e paisagens naturais impressionantes. Quem conhece sabe que o estado tem belezas únicas que merecem ser reconhecidas.",
           "source": "sintese",
           "evidence": [
             1
@@ -457,7 +497,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Chamar o litoral do Piauí de melhor do mundo é um exagero. O estado tem belezas, mas há litorais mais famosos e estruturados no Brasil e no exterior. A afirmação soa mais como ufanismo do que realidade.",
+          "text": "Chamar o litoral piauiense de 'melhor do mundo' é um exagero; o estado tem belezas, mas faltam infraestrutura e acesso para competir com destinos consolidados. A exaltação ignora problemas como saneamento e conservação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -465,7 +505,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O litoral do Piauí tem seus encantos, mas é preciso considerar que a região ainda carece de infraestrutura turística. A beleza natural é inegável, porém o acesso e os serviços podem ser limitados.",
+          "text": "A beleza do litoral do Piauí é inegável, mas o debate sobre 'melhor do mundo' é subjetivo e depende do que cada um valoriza. O importante é que o estado ganhe visibilidade e invista em turismo sustentável.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -476,19 +516,19 @@
     },
     {
       "id": "bsky_3n27x3jpegc2p",
-      "rank": 9,
-      "title": "Revista Piauí é criticada por capa que parece gerada por IA",
-      "label": "Capa da Piauí · Crítica nas redes",
-      "context": "A revista Piauí publicou uma capa que foi criticada nas redes por parecer gerada por inteligência artificial. A crítica questiona a escolha de uma imagem que não representa a baianidade, tema da edição.",
+      "rank": 10,
+      "title": "Revista Piauí é criticada por usar imagem gerada por IA em matéria",
+      "label": "Revista Piauí · Imagem gerada por IA",
+      "context": "A revista Piauí publicou uma matéria com uma imagem que leitores identificaram como gerada por inteligência artificial, e o caso viralizou no Bluesky. A crítica se concentra na perda de autenticidade da publicação, conhecida por valorizar a cultura e a identidade brasileiras.",
       "source": "bluesky",
       "subreddit": "bsky_pi",
       "permalink": "https://bsky.app/profile/renatagames.bsky.social/post/3n27x3jpegc2p",
       "createdAt": "2026-11-13T21:39:22.577000+00:00",
-      "rawScore": 0.3843439976316484,
-      "relevanceScore": 0.4270488862573871,
-      "suggestedRadius": 75.21,
-      "imageUrl": "assets/images/bsky_3n27x3jpegc2p_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27x3jpegc2p_uns_thumb.jpg",
+      "rawScore": 0.4650560253551354,
+      "relevanceScore": 0.5167289170612616,
+      "suggestedRadius": 79.13,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-pi",
       "sources": [
@@ -502,7 +542,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A capa da Piauí acertou em usar uma imagem que celebra a baianidade, mesmo que pareça artificial. O importante é valorizar a cultura local e trazer visibilidade para o tema.",
+          "text": "A revista Piauí sempre prezou pela originalidade e pelo olhar humano, então usar IA numa imagem é uma traição à sua própria história. Uma publicação que se diz tão brasileira deveria valorizar artistas reais, não algoritmos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -510,7 +550,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A revista Piauí errou feio ao publicar uma capa que parece feita por IA e ainda por cima não representa a baianidade. Isso é uma sudestinada imperdoável, como dizem os baianos.",
+          "text": "O uso de IA em ilustrações é uma ferramenta como qualquer outra, e a Piauí pode ter optado por isso por questões de prazo ou orçamento. Criticar sem saber o contexto da produção é um exagero.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -518,73 +558,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A capa da Piauí gerou polêmica, mas é preciso ver se realmente foi feita por IA ou se é só uma ilustração estilizada. Sem confirmar, fica difícil julgar a intenção da revista.",
+          "text": "A questão é que a imagem ficou com cara de artificial e destoou do estilo da revista, mas talvez a Piauí tenha usado IA apenas como apoio e o resultado final não agradou. O ideal seria a revista se explicar.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzxnfbsjhs2e",
-      "rank": 10,
-      "title": "Tecnologia desenvolvida no Piauí relembra promessa de fibra óptica de Wellington Dias",
-      "label": "Fibra óptica de Wellington Dias · Meme",
-      "context": "Um vídeo sobre uma tecnologia desenvolvida no Piauí viralizou nos stories e fez usuários relembrarem a promessa de Wellington Dias de levar fibra óptica a todo o estado. A lembrança virou piada entre internautas que citam a antiga declaração como um marco engraçado da internet.",
-      "source": "bluesky",
-      "subreddit": "bsky_pi",
-      "permalink": "https://bsky.app/profile/eumesma.bsky.social/post/3mzxnfbsjhs2e",
-      "createdAt": "2026-11-10T14:24:36.774000+00:00",
-      "rawScore": 0.1618253617540989,
-      "relevanceScore": 0.2909170686156654,
-      "suggestedRadius": 68.36,
-      "imageUrl": "assets/images/bsky_3mzxnfbsjhs2e_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzxnfbsjhs2e_uns_thumb.jpg",
-      "category": "tech",
-      "region": "br-pi",
-      "sources": [
-        {
-          "title": "Acabou de passar ali nos stories um vídeo falando sobre uma tecnologia desenvolvida no Piauí e mais uma vez impossível não lembrar do dia em que vários tuiteiros de Furnas muito orgââânica nos mostraram que WELLINGTON DIAS BOTOU FIBRA ÓPTICA EM TODO O PIAUÍ",
-          "url": "https://bsky.app/profile/eumesma.bsky.social/post/3mzxnfbsjhs2e",
-          "subreddit": "bsky_pi"
-        },
-        {
-          "title": "Sabemos que ela não é do Piauí, porque senão poderia contar com a fibra ótica de Wellington Dias",
-          "url": "https://bsky.app/profile/patykisses.bsky.social/post/3n22specqd22r",
-          "subreddit": "bsky_pi"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A história da fibra óptica de Wellington Dias virou um clássico da internet piauiense e sempre rende boas risadas. É um daqueles momentos que a gente lembra com carinho e orgulho de ter acompanhado ao vivo.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3,
-            4
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Ficar revivendo essa promessa de fibra óptica é meio cansativo, porque a tecnologia no Piauí ainda engatinha e a piada acaba escondendo a falta de investimento real. O meme é engraçado, mas a realidade é outra.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O vídeo da tecnologia piauiense é legal, mas o meme da fibra óptica de Wellington Dias já está tão batido que ofusca qualquer novidade. Dá para rir da piada e ao mesmo tempo prestar atenção no que está sendo desenvolvido de verdade.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
           "votes": 0
         }
       ],

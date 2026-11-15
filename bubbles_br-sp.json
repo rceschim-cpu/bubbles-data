@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T17:53:05.010538+00:00",
+  "generatedAt": "2026-11-15T05:36:37.700519+00:00",
   "region": "br-sp",
   "count": 10,
   "items": [
@@ -8,12 +8,12 @@
       "rank": 1,
       "title": "Usuário deseja que Estado e Capital de São Paulo 'se fodam' após reeleição",
       "label": "Insatisfação com reeleição em São Paulo",
-      "context": "Um post no Bluesky expressa raiva contra o Estado e a capital de São Paulo, citando a reeleição de um político como motivo. A postagem gerou comentários que discutem votos em candidatos como Tarcísio e Ricardo Nunes, além de críticas ao custo de vida e a projetos de transporte na cidade.",
+      "context": "Um usuário do Bluesky publicou uma mensagem desejando que o Estado e a capital de São Paulo 'se fodam', citando a reeleição de um político como motivo. A postagem gerou comentários sobre eleições, custo de vida e projetos urbanos na cidade.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/hamorc.bsky.social/post/3n2b5ja22mc23",
       "createdAt": "2026-11-14T09:07:05.347000+00:00",
-      "rawScore": 0.6522985206938532,
+      "rawScore": 0.7659156376833631,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
       "imageUrl": "assets/images/bsky_3n2b5ja22mc23_wiki.jpg",
@@ -41,93 +41,36 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "São Paulo reelegeu Tarcísio com 52% dos votos, então a insatisfação de quem xinga a cidade não representa a maioria. O eleitorado paulistano escolheu esses políticos conscientemente, e quem não gosta que lide com o resultado das urnas.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A cidade que reelegeu Ricardo Nunes e a turma do PL não tem moral para reclamar do transporte público. O projeto do Bonde São Paulo custa R$ 2,8 bilhões e é um ônibus disfarçado que Curitiba já descartou, mas a prefeitura insiste em enganar a população.",
-          "source": "sintese",
-          "evidence": [
-            9,
-            11,
-            12
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Com 8 mil reais por mês dá para viver bem em São Paulo, sim, mas isso depende do estilo de vida. Quem mora com os pais e não paga contas fixas acha que é pouco, enquanto uma família com filhos em escola particular precisa de bem mais.",
+          "text": "Com 8 mil reais por mês dá para viver bem em São Paulo, sim. Muita gente que reclama não pesquisa preços nem calcula os próprios gastos, e quem mora com os pais às vezes não tem noção da realidade.",
           "source": "sintese",
           "evidence": [
             4,
             5,
-            6
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2bqerrdh22d",
-      "rank": 2,
-      "title": "Paulistano critica prédio e tatuador diz odiar areia",
-      "label": "Críticas a prédio e areia · Opiniões",
-      "context": "Um paulistano fez uma crítica a um prédio, enquanto um tatuador afirmou odiar areia. O comentário menciona o Empire State Building como exemplo de edifício inaugurado após o auge do estilo Art Déco, mas que ainda assim é amplamente admirado.",
-      "source": "bluesky",
-      "subreddit": "bsky_sp",
-      "permalink": "https://bsky.app/profile/fabiomarton.bsky.social/post/3n2bqerrdh22d",
-      "createdAt": "2026-11-14T14:44:39.744000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 0.9141776797903144,
-      "suggestedRadius": 93.37,
-      "imageUrl": "assets/images/bsky_3n2bqerrdh22d_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2bqerrdh22d_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sp",
-      "sources": [
-        {
-          "title": "Paulistano falando contra prédio. Tatooiner falando que odeia areia.",
-          "url": "https://bsky.app/profile/fabiomarton.bsky.social/post/3n2bqerrdh22d",
-          "subreddit": "bsky_sp"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O Empire State Building prova que um prédio pode ser inaugurado fora de moda e mesmo assim virar ícone. Se o paulistano critica o novo edifício, talvez esteja esquecendo que grandes obras às vezes precisam de tempo para serem valorizadas.",
-          "source": "sintese",
-          "evidence": [
-            1
+            6,
+            10
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Criticar um prédio só porque não segue o estilo da época é um preconceito bobo. O Empire State é lembrado justamente por sua ousadia, e o paulistano deveria reconhecer que a arquitetura vai além de tendências passageiras.",
+          "text": "A cidade reelegeu políticos como Bruno Covas, Ricardo Nunes e a turma do PL, então não adianta culpar o interior ou os jovens. O eleitorado paulistano tem responsabilidade direta pelo que acontece na capital.",
           "source": "sintese",
           "evidence": [
-            1
+            1,
+            9
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A comparação com o Empire State é interessante, mas cada prédio tem seu contexto. O comentário sobre areia e tatuador parece desconectado, e talvez a discussão esteja misturando coisas diferentes sem um critério claro.",
+          "text": "O projeto do Bonde São Paulo, que Curitiba descartou, vai custar quase 3 bilhões e terá velocidade média de 15 km/h. É um ônibus disfarçado de VLT, e a prefeitura insiste mesmo assim.",
           "source": "sintese",
           "evidence": [
-            1
+            11,
+            12,
+            13
           ],
           "votes": 0
         }
@@ -137,17 +80,17 @@
     },
     {
       "id": "bsky_3n24yym6eis2k",
-      "rank": 3,
-      "title": "Autor de novela estereotipada sobre o Nordeste é criticado por ser paulistano",
-      "label": "Novela estereotipada · Autor paulistano criticado",
-      "context": "O autor de uma novela acusada de reforçar estereótipos sobre o Nordeste é paulistano, segundo posts que viralizaram no Bluesky. A discussão aponta que as produções dele repetem uma visão do Nordeste atrasado e ignoram profissionais da própria região.",
+      "rank": 2,
+      "title": "Autor de novela estereotipada é criticado por retratar o Nordeste de forma distorcida",
+      "label": "Novela estereotipada · Críticas ao autor paulistano",
+      "context": "O autor de uma novela criticada por reforçar estereótipos sobre o Nordeste é apontado como paulistano, e internautas questionam a falta de participação de nordestinos na produção. A discussão gira em torno de como essas obras retratam a região e da responsabilidade dos envolvidos na criação.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/caopeta.com.br/post/3n24yym6eis2k",
       "createdAt": "2026-11-12T17:35:32.685000+00:00",
-      "rawScore": 0.48927984576000866,
-      "relevanceScore": 0.5985627579378656,
-      "suggestedRadius": 82.42,
+      "rawScore": 0.8571948240736335,
+      "relevanceScore": 0.8608960278621165,
+      "suggestedRadius": 91.67,
       "imageUrl": "assets/images/bsky_3n24yym6eis2k_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n24yym6eis2k_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -168,7 +111,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "As novelas dele dão audiência justamente porque acertam o que o público quer ver, e isso não é acidente. Quem critica deveria olhar os números antes de chamar de escárnio uma fórmula que funciona há três novelas seguidas.",
+          "text": "O autor tem todo o direito de escrever sobre o que quiser, e novelas são ficção, não documentários. Se o público assiste e dá audiência, é porque funciona. Quem não gosta é só não assistir.",
           "source": "sintese",
           "evidence": [
             11
@@ -178,7 +121,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O autor é paulistano e escreve sobre o Nordeste sem ouvir nordestinos, nem as filiais da Globo na região. O resultado é um Nordeste atrasado hipotético que reforça estereótipo e ninguém da produção parece ter percebido o erro.",
+          "text": "É inaceitável que um autor paulistano retrate o Nordeste de forma tão estereotipada e ninguém da região seja ouvido. A Globo tem filiais no Nordeste, mas parece que ninguém se manifestou. Isso é um desrespeito com a cultura local.",
           "source": "sintese",
           "evidence": [
             3,
@@ -191,10 +134,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O cara morou no sertão quando era criança, então talvez a fixação venha de uma experiência real, não de puro preconceito. Vale entender de onde vem esse hiperfoco antes de reduzir tudo a um paulistano sem noção.",
+          "text": "O autor já morou no sertão nordestino quando era criança, o que pode explicar sua fixação pelo tema. Mas isso não justifica a repetição de estereótipos; é preciso entender o contexto antes de julgar.",
           "source": "sintese",
           "evidence": [
-            6,
             10,
             12
           ],
@@ -205,18 +147,71 @@
       "promptVersion": 2
     },
     {
+      "id": "bsky_3n2ckq5nwxk23",
+      "rank": 3,
+      "title": "Tarcinico mostra por que veio: acabar com o povo paulista e paulistano",
+      "label": "Tarcinico e o ataque a São Paulo",
+      "context": "Tarcinico publicou uma mensagem dizendo que veio \"acabar com o povo paulista e paulistano\". A fala foi repercutida no Bluesky e gerou reação entre usuários da rede.",
+      "source": "bluesky",
+      "subreddit": "bsky_sp",
+      "permalink": "https://bsky.app/profile/tonzapar.bsky.social/post/3n2ckq5nwxk23",
+      "createdAt": "2026-11-14T22:36:17.857000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 0.8094553016683487,
+      "suggestedRadius": 89.98,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-sp",
+      "sources": [
+        {
+          "title": "Tarcinico mostra porquê veio, acabar com o povo Paulista e paulistano.",
+          "url": "https://bsky.app/profile/tonzapar.bsky.social/post/3n2ckq5nwxk23",
+          "subreddit": "bsky_sp"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Tarcinico expôs o que muita gente de fora de São Paulo pensa: a cidade concentra privilégios e poder demais, e alguém finalmente falou isso sem rodeios. A frase é dura, mas traduz um ressentimento real com o peso político e econômico que os paulistas carregam no país.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A fala de Tarcinico é um ataque direto a milhões de pessoas que só vivem e trabalham em São Paulo. Dizer que veio \"acabar\" com paulistas e paulistanos é incitação contra um grupo inteiro, e uma rede social não deveria amplificar esse tipo de ameaça sem consequência.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A frase de Tarcinico precisa ser lida no contexto em que foi publicada, e o post sozinho não mostra isso. Sem o restante da conversa e sem saber o tom usado, fica difícil dizer se é ameaça literal ou provocação, e tratar como ataque pode distorcer o que ele quis dizer.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
       "id": "bsky_3n27w6bk2n22o",
       "rank": 4,
-      "title": "Paulistano convive com essa gentalha há anos, diz usuário; desconforto deveria ser do MP",
-      "label": "Desconforto com gestão paulistana · Atuação do MP",
-      "context": "Um usuário do Bluesky afirmou que o desconforto com a situação não é do paulistano, mas do Ministério Público, que não dá andamento às denúncias. A fala critica a falta de investigação sobre contratações na gestão municipal e compara com a atuação do MP em gestões anteriores.",
+      "title": "Paulistano convive com essa gentalha há anos, diz publicação",
+      "label": "Desconforto paulistano · Atuação do MP",
+      "context": "Uma publicação no Bluesky afirma que o desconforto com o grupo citado deveria ser do paulistano, que convive com ele há anos, e não do Ministério Público. O texto também critica o MP por não dar andamento às denúncias.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/degiuli.bsky.social/post/3n27w6bk2n22o",
       "createdAt": "2026-11-13T21:23:02.675000+00:00",
-      "rawScore": 0.49249486274613447,
-      "relevanceScore": 0.5002531232599006,
-      "suggestedRadius": 78.44,
+      "rawScore": 0.7039501605467329,
+      "relevanceScore": 0.6331290995164868,
+      "suggestedRadius": 83.74,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -232,7 +227,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Ministério Público precisa agir com o mesmo rigor que teve na gestão Haddad, quando qualquer irregularidade virava ação de improbidade. Agora, contratações diretas de empresas de amigos nem inquérito geram, e isso mostra seletividade.",
+          "text": "O paulistano é quem aguenta essa gente no dia a dia há anos, então o incômodo faz sentido ser dele. Quem deveria estar constrangido é o Ministério Público, que recebe denúncia e não dá andamento a nada.",
           "source": "sintese",
           "evidence": [
             1
@@ -242,7 +237,66 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A população paulistana é que sofre há anos com gestões que não resolvem seus problemas, e o desconforto deveria ser de quem convive com isso, não do MP. Jogar a responsabilidade toda no Ministério Público é desviar o foco de quem realmente deveria se sentir incomodado.",
+          "text": "O Ministério Público age de forma seletiva: na gestão Haddad qualquer detalhe virava ação de improbidade, mas agora que o Resto contrata empresa de amigo diretamente nem inquérito se ouve falar. O problema não é o paulistano, é essa seletividade.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Chamar o paulistano de desconfortável é justo, mas o foco deveria ser a falta de resposta do MP. Sem inquérito instaurado, a discussão sobre impessoalidade na contratação de empresa de amigo fica só no discurso e não vira apuração.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2bqerrdh22d",
+      "rank": 5,
+      "title": "Paulistano critica prédio e tatuador diz odiar areia",
+      "label": "Críticas a prédios e areia",
+      "context": "Um paulistano fez uma crítica a um prédio, enquanto um tatuador afirmou odiar areia. A justaposição dessas duas opiniões gerou comentários sobre a falta de coerência ou o humor da situação.",
+      "source": "bluesky",
+      "subreddit": "bsky_sp",
+      "permalink": "https://bsky.app/profile/fabiomarton.bsky.social/post/3n2bqerrdh22d",
+      "createdAt": "2026-11-14T14:44:39.744000+00:00",
+      "rawScore": 0.6474041356245923,
+      "relevanceScore": 0.582271899892601,
+      "suggestedRadius": 81.78,
+      "imageUrl": "assets/images/bsky_3n2bqerrdh22d_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2bqerrdh22d_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sp",
+      "sources": [
+        {
+          "title": "Paulistano falando contra prédio. Tatooiner falando que odeia areia.",
+          "url": "https://bsky.app/profile/fabiomarton.bsky.social/post/3n2bqerrdh22d",
+          "subreddit": "bsky_sp"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O comentário sobre o Empire State edição de bolso mostra que prédios fora de época ainda são admirados, então a crítica do paulistano pode ser só implicância com algo que tem valor arquitetônico.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Reclamar de prédio em São Paulo e ao mesmo tempo odiar areia é uma contradição: quem vive na cidade grande não tem moral para criticar escolhas urbanas dos outros.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -250,7 +304,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A comparação entre gestões é inevitável, mas o MP tem autonomia para agir conforme as denúncias que recebe. Sem saber se houve representação formal, fica difícil afirmar que há omissão ou seletividade no caso atual.",
+          "text": "A comparação entre o prédio criticado e o Empire State edição de bolso sugere que o problema não é o estilo, mas a execução: um é icônico, o outro parece cópia fora de contexto.",
           "source": "sintese",
           "evidence": [
             1
@@ -263,7 +317,7 @@
     },
     {
       "id": "bsky_3n25higuflk2d",
-      "rank": 5,
+      "rank": 6,
       "title": "Justiça decreta prisão preventiva de Milton Leite por suposto elo com PCC",
       "label": "Prisão preventiva de Milton Leite · Operação PCC",
       "context": "A Justiça decretou a prisão preventiva de Milton Leite e de outros 14 investigados em uma operação que apura a infiltração do crime organizado no transporte paulistano. A defesa contesta as acusações.",
@@ -271,9 +325,9 @@
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/dilmaresiste.bsky.social/post/3n25higuflk2d",
       "createdAt": "2026-11-12T22:02:03.074000+00:00",
-      "rawScore": 0.35014011340306045,
-      "relevanceScore": 0.3556558627470304,
-      "suggestedRadius": 71.78,
+      "rawScore": 0.6023294765294256,
+      "relevanceScore": 0.5417319868087386,
+      "suggestedRadius": 80.16,
       "imageUrl": "assets/images/bsky_3n25higuflk2d_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n25higuflk2d_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -289,7 +343,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A prisão preventiva de Milton Leite é um passo importante para combater a infiltração do PCC no transporte público. A Justiça agiu corretamente ao atender o pedido do Ministério Público e afastar os envolvidos.",
+          "text": "A prisão preventiva de Milton Leite e dos outros 14 investigados é uma resposta necessária da Justiça. A infiltração do PCC no transporte paulistano é grave e precisa ser combatida com rigor, e a decisão mostra que ninguém está acima da lei.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -297,7 +351,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A prisão preventiva de Milton Leite parece mais uma ação midiática do que jurídica. A defesa contesta as acusações e não há provas concretas que justifiquem a medida extrema.",
+          "text": "A prisão preventiva de Milton Leite e dos demais investigados parece precipitada. A defesa contesta as acusações e não há condenação; medidas tão severas antes do julgamento podem violar garantias fundamentais e prejudicar a defesa.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -305,7 +359,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A decisão judicial que decretou a prisão preventiva de Milton Leite e de outros 15 investigados precisa ser analisada com cautela. É fundamental garantir o direito de defesa e aguardar o desenrolar do processo.",
+          "text": "A operação que resultou na prisão preventiva de Milton Leite e de outras 14 pessoas precisa ser conduzida com transparência. É fundamental que as investigações sobre a infiltração do crime organizado no transporte sejam rigorosas, mas também respeitem o devido processo legal.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -316,17 +370,17 @@
     },
     {
       "id": "bsky_3mzyjcilurc22",
-      "rank": 6,
+      "rank": 7,
       "title": "Paulistano sabe votar?",
       "label": "Voto do paulistano · Crítica à incoerência",
-      "context": "Posts no Bluesky questionam a lógica do eleitor de São Paulo que votou em Lula para presidente e em candidato bolsonarista para o governo do estado. A crítica sugere que o paulistano não sabe votar de forma coerente.",
+      "context": "Posts no Bluesky questionam a coerência do eleitor de São Paulo, que votou em Lula para presidente e em candidato bolsonarista para o governo do estado. A discussão gira em torno da lógica desse voto dividido e do que ele revela sobre o eleitorado paulistano.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/kissquerdista.bsky.social/post/3mzyjcilurc22",
       "createdAt": "2026-11-10T22:44:04.177000+00:00",
-      "rawScore": 0.10644950064570938,
-      "relevanceScore": 0.20970169499351513,
-      "suggestedRadius": 63.48,
+      "rawScore": 0.21463632229072066,
+      "relevanceScore": 0.2829822657507279,
+      "suggestedRadius": 67.92,
       "imageUrl": "assets/images/bsky_3mzyjcilurc22_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzyjcilurc22_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -347,7 +401,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O eleitor paulistano mostrou que sabe separar as eleições: votou em Lula para presidente e escolheu um bolsonarista para o governo do estado. Isso é maturidade democrática, não incoerência.",
+          "text": "O eleitor paulistano mostrou que sabe separar as eleições: votou em Lula para presidente e escolheu um bolsonarista para o governo do estado. Isso não é incoerência, é voto consciente em projetos diferentes para cada cargo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -355,7 +409,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A incoerência é clara: quem vota em Lula contra o bolsonarismo não pode votar em bolsonarista para o governo do estado. O paulistano precisa aprender a votar com lógica e coerência.",
+          "text": "A lógica do paulistano é falha: saiu de casa para votar contra o bolsonarismo na presidência, mas elegeu um bolsonarista para o governo do estado. Isso mostra que o eleitor não aprendeu a votar ou age por impulso, sem coerência.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -363,9 +417,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A crítica à incoerência do eleitor paulistano ignora que cada cargo tem suas particularidades. Votar em Lula para presidente e em bolsonarista para governador pode refletir prioridades diferentes, não falta de lógica.",
+          "text": "Os políticos envolvidos em corrupção e crimes continuam impunes, e isso confunde o eleitor. Enquanto a Justiça não age, fica difícil cobrar coerência do paulistano, que vota como pode diante da falta de opções confiáveis.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
@@ -374,17 +430,17 @@
     },
     {
       "id": "bsky_3n26tpgi4qc27",
-      "rank": 7,
+      "rank": 8,
       "title": "Ricardo Nunes é um câncer para São Paulo, diz usuário do Bluesky",
       "label": "Crítica a Ricardo Nunes · Prefeitura de SP",
-      "context": "Um usuário do Bluesky publicou que Ricardo Nunes é um câncer para a cidade de São Paulo e afirmou que, quando ele deixar a prefeitura, o cidadão paulistano deve se preparar. A declaração expressa insatisfação com a gestão do prefeito e sugere que a saída dele trará consequências a serem enfrentadas pela população.",
+      "context": "Um usuário do Bluesky publicou que Ricardo Nunes é um câncer para a cidade de São Paulo e afirmou que o cidadão paulistano deve se preparar quando ele deixar a prefeitura. A publicação expressa uma crítica direta ao prefeito, sem apresentar dados ou propostas.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/valderez.bsky.social/post/3n26tpgi4qc27",
       "createdAt": "2026-11-13T11:06:18.977000+00:00",
-      "rawScore": 0.16252827623344263,
-      "relevanceScore": 0.16508858051934208,
-      "suggestedRadius": 60.38,
+      "rawScore": 0.251191867469261,
+      "relevanceScore": 0.22592065428774055,
+      "suggestedRadius": 64.52,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -400,7 +456,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A crítica é justa: a gestão de Ricardo Nunes tem sido desastrosa para São Paulo, e quem vive aqui sente no dia a dia o abandono dos serviços públicos. Dizer que ele é um câncer é uma forma forte, mas honesta, de expressar o dano que a cidade vem sofrendo.",
+          "text": "A crítica é justa: a gestão de Ricardo Nunes tem sido desastrosa para São Paulo, e quem vive na cidade sente no dia a dia o abandono dos serviços públicos. Dizer que ele é um câncer é uma forma legítima de expressar a frustração de quem esperava mais da prefeitura.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -408,7 +464,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Chamar o prefeito de câncer é um exagero que não contribui para o debate. A cidade tem problemas reais, mas atacar a pessoa com metáforas agressivas só polariza e desvia a atenção do que realmente importa, que é cobrar soluções concretas.",
+          "text": "Chamar o prefeito de câncer é um exagero que não contribui para o debate. Ricardo Nunes foi eleito democraticamente e governa dentro das regras; críticas devem ser feitas com base em fatos e propostas, não com ataques pessoais que só aumentam a polarização.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -416,7 +472,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A frase sobre o cidadão se preparar quando ele deixar a prefeitura é vaga: não fica claro se é uma ameaça, um alerta ou uma constatação. Sem dados ou exemplos, fica difícil avaliar o que exatamente está sendo criticado na gestão.",
+          "text": "A frase é forte, mas sem exemplos concretos fica difícil avaliar. Para o eleitor comum, o que importa é saber o que mudou na saúde, na educação e no transporte durante a gestão Nunes, e isso a publicação não mostra.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -427,17 +483,17 @@
     },
     {
       "id": "bsky_3n252j7x2u22s",
-      "rank": 8,
+      "rank": 9,
       "title": "Paulistano tem que gastar o salário em restaurantes de culinária internacional de madrugada ou fica sem motivos para morar em São Paulo",
       "label": "Custo de vida e gastronomia em São Paulo",
-      "context": "Um post viral ironiza o alto custo de vida em São Paulo, sugerindo que os moradores precisam gastar o salário em restaurantes internacionais de madrugada para justificar a permanência na cidade. A frase expõe a percepção de que a vida noturna e a gastronomia sofisticada são apresentadas como principais atrativos paulistanos, enquanto o custo de moradia e alimentação pressiona o orçamento.",
+      "context": "Um post viral no Bluesky afirma que o paulistano precisa gastar o salário em restaurantes de culinária internacional de madrugada para ter motivos de morar em São Paulo. A frase ironiza o alto custo de vida e a cultura de consumo da cidade, que estaria atrelada a experiências gastronômicas caras.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/sarthathepuppy.bsky.social/post/3n252j7x2u22s",
       "createdAt": "2026-11-12T18:02:45.480000+00:00",
-      "rawScore": 0.1315450439662019,
-      "relevanceScore": 0.13361727008993038,
-      "suggestedRadius": 57.93,
+      "rawScore": 0.23047621650398095,
+      "relevanceScore": 0.20728910595289948,
+      "suggestedRadius": 63.32,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -453,7 +509,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A gastronomia internacional 24h é um diferencial real de São Paulo. Quem mora aqui tem acesso a restaurantes que não existem em outras cidades, e isso faz parte da identidade paulistana. Pagar caro por isso é uma escolha, não uma obrigação.",
+          "text": "A frase acerta em cheio: São Paulo virou uma cidade onde a vida social gira em torno de restaurantes caros e abertos de madrugada. Quem não pode pagar por isso acaba excluído, e a piada expõe essa realidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -461,7 +517,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O custo de vida em São Paulo está tão alto que a única forma de justificar morar aqui é gastando o salário em restaurantes caros. Isso é elitista e ignora a maioria da população, que não tem dinheiro nem para o básico, muito menos para culinária internacional de madrugada.",
+          "text": "Generalizar o paulistano como alguém que só vive de restaurantes internacionais de madrugada é elitista e ignora a maioria que trabalha duro e não tem tempo nem dinheiro para isso. A cidade tem muito mais a oferecer.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -469,7 +525,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A frase é um exagero irônico, mas reflete uma realidade: a cidade oferece opções caras e sofisticadas, mas também tem alternativas acessíveis. O problema é que a especulação imobiliária e o custo de vida empurram os moradores para longe, independentemente do que comem.",
+          "text": "A frase é um exagero cômico que reflete uma parte da realidade, mas morar em São Paulo envolve muitas outras coisas além de gastronomia. Cada um encontra seus motivos, e reduzir tudo a isso é simplista.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -480,17 +536,17 @@
     },
     {
       "id": "bsky_3mzxuv6pjss2k",
-      "rank": 9,
+      "rank": 10,
       "title": "Entregador de leite da Vigor passando por rua da Mooca, meados da década de 1950",
       "label": "Entregador de leite · Mooca anos 1950",
-      "context": "Uma imagem mostra um entregador de leite da Vigor passando por uma rua do bairro paulistano da Mooca em meados da década de 1950. O registro ilustra como a distribuição de leite era feita porta a porta na cidade naquela época.",
+      "context": "Uma imagem mostra um entregador de leite da Vigor passando por uma rua do bairro paulistano da Mooca em meados da década de 1950. O registro flagra a rotina de entregas de leite porta a porta na cidade naquela época.",
       "source": "bluesky",
       "subreddit": "bsky_sp",
       "permalink": "https://bsky.app/profile/saopauloantiga.com.br/post/3mzxuv6pjss2k",
       "createdAt": "2026-11-10T16:38:49.574000+00:00",
-      "rawScore": 0.06615285714278223,
-      "relevanceScore": 0.06719496161587643,
-      "suggestedRadius": 51.55,
+      "rawScore": 0.14057387611097344,
+      "relevanceScore": 0.12643141032677455,
+      "suggestedRadius": 57.33,
       "imageUrl": "assets/images/bsky_3mzxuv6pjss2k_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzxuv6pjss2k_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -506,7 +562,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A foto é um registro histórico valioso: mostra o cotidiano da Mooca nos anos 1950 e como o leite chegava às casas, algo que hoje quase não existe mais. Vale como memória da cidade e do trabalho dos entregadores.",
+          "text": "A foto é um registro histórico valioso da Mooca dos anos 1950, mostrando o cotidiano dos entregadores de leite da Vigor. É uma janela para entender como era a vida urbana em São Paulo naquela época.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -514,7 +570,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Publicar essa imagem sem contexto pode romantizar uma época de trabalho pesado e condições precárias. O entregador da Vigor fazia um serviço duro, sem os direitos que existem hoje, e isso não deveria ser visto só como charme nostálgico.",
+          "text": "A imagem idealiza o passado e não mostra as dificuldades do trabalho pesado dos entregadores, que enfrentavam longas jornadas e condições precárias. Essa nostalgia pode esconder as desigualdades da época.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -522,60 +578,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A imagem é interessante, mas seria mais útil se viesse com informações sobre o veículo, a rota ou a frequência das entregas. Sem esses dados, fica só como curiosidade visual e não ajuda a entender a logística da época.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzvdyro5f225",
-      "rank": 10,
-      "title": "Paulistano proibido de chamar parceiro de \"você\", só de \"tu\"",
-      "label": "Paulistano e o uso de \"tu\" no relacionamento",
-      "context": "Uma pessoa relata que, ao se relacionar com um paulistano, proíbe o parceiro de chamá-la de \"você\" e exige o uso de \"tu\". A situação brinca com a diferença entre o \"você\" mais comum em São Paulo e o \"tu\" usado em outras regiões do Brasil.",
-      "source": "bluesky",
-      "subreddit": "bsky_sp",
-      "permalink": "https://bsky.app/profile/sophrosynho.bsky.social/post/3mzvdyro5f225",
-      "createdAt": "2026-11-09T16:31:13.578000+00:00",
-      "rawScore": 0.03128563515565452,
-      "relevanceScore": 0.03177847706373616,
-      "suggestedRadius": 46.7,
-      "imageUrl": "assets/images/bsky_3mzvdyro5f225_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzvdyro5f225_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sp",
-      "sources": [
-        {
-          "title": "Eu quando me relaciono com algum paulistano e o proibo de me chamar de você, só de tu",
-          "url": "https://bsky.app/profile/sophrosynho.bsky.social/post/3mzvdyro5f225",
-          "subreddit": "bsky_sp"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O \"tu\" soa mais íntimo e carinhoso do que o \"você\", que em São Paulo virou quase um pronome sem sal. Impor esse tratamento no relacionamento é uma forma de criar proximidade e marcar a relação com um jeito próprio de falar.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Proibir o parceiro de usar o pronome que ele cresceu ouvindo é controlar demais o jeito de falar do outro. Paulistano fala \"você\" naturalmente, e transformar isso em regra de relacionamento soa mais como imposição do que como afeto.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O pronome depende muito da região e do círculo de cada um, então o combinado funciona só se os dois toparem. Se o paulistano achar graça e entrar na brincadeira, vira piada interna; se virar cobrança séria, aí já é outra história.",
+          "text": "A foto é interessante, mas seria mais útil se trouxesse mais informações sobre o contexto, como o horário, as condições de trabalho e o impacto da Vigor na região. Sem isso, fica apenas como uma curiosidade visual.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

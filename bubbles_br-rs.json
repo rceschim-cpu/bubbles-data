@@ -1,39 +1,39 @@
 {
-  "generatedAt": "2026-11-14T17:53:05.010538+00:00",
+  "generatedAt": "2026-11-15T05:36:37.700519+00:00",
   "region": "br-rs",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n2blm3e3x22s",
+      "id": "bsky_3n2czkmvtik2p",
       "rank": 1,
-      "title": "Indo a Porto Alegre me despedir de um amigo e baixista da minha banda, que vai morar no Canadá",
-      "label": "Despedida de amigo em Porto Alegre",
-      "context": "Uma pessoa está indo a Porto Alegre para se despedir de um amigo e baixista da sua banda, que vai morar no Canadá. A viagem marca o último encontro antes da mudança dele para outro país.",
+      "title": "Foi bom ir a Porto Alegre, mas estava com saudades das gatas, de casa e de usar droga",
+      "label": "Volta a Porto Alegre · Saudade de casa",
+      "context": "Um usuário do Bluesky relatou que foi bom viajar a Porto Alegre, mas sentiu falta das gatas, de casa e de usar droga. O post mistura o retorno à rotina com a experiência da viagem, e os comentários tratam de recepção na cidade, romance e dicas locais.",
       "source": "bluesky",
       "subreddit": "bsky_rs",
-      "permalink": "https://bsky.app/profile/nopertwo.bsky.social/post/3n2blm3e3x22s",
-      "createdAt": "2026-11-14T13:19:21.751000+00:00",
-      "rawScore": 0.6211483655484622,
+      "permalink": "https://bsky.app/profile/violenciadivina.bsky.social/post/3n2czkmvtik2p",
+      "createdAt": "2026-11-15T03:01:38.551000+00:00",
+      "rawScore": 0.6307841033682087,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3n2blm3e3x22s_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2blm3e3x22s_reddit_thumb.jpg",
+      "imageUrl": "assets/images/bsky_3n2czkmvtik2p_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2czkmvtik2p_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-rs",
       "sources": [
+        {
+          "title": "Foi muito bom ir pra Porto Alegre, mas eu tava com saudades das gatas, de casa e de usar droga.",
+          "url": "https://bsky.app/profile/violenciadivina.bsky.social/post/3n2czkmvtik2p",
+          "subreddit": "bsky_rs"
+        },
         {
           "title": "Indo pra Porto Alegre me despedir de um amigo e baixista da minha banda. Ele tá indo morar no Canadá. Provavelmente postarei fotos e vídeos.",
           "url": "https://bsky.app/profile/nopertwo.bsky.social/post/3n2blm3e3x22s",
           "subreddit": "bsky_rs"
         },
         {
-          "title": "Agora que o juros alto é bom e tem q manter assim pq é o único jeito de segurar a inflação. Valeu minha Porto Alegre",
-          "url": "https://bsky.app/profile/pirataria.online/post/3n26zt2zzac24",
-          "subreddit": "bsky_rs"
-        },
-        {
-          "title": "Após vários meses, de volta a Porto Alegre, para aproveitar a Feira do Livro.",
-          "url": "https://bsky.app/profile/raulpons.bsky.social/post/3n2buhckduc2q",
+          "title": "comprar uma passagem pra porto alegre saindo amanhã de manhã 😂",
+          "url": "https://bsky.app/profile/tomoyodaidouji.bsky.social/post/3n2ahqjnbrc2v",
           "subreddit": "bsky_rs"
         }
       ],
@@ -41,33 +41,338 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Porto Alegre é uma cidade bem romântica e acolhedora, perfeita para uma despedida especial. Aproveitar a Feira do Livro e os bons momentos com quem a gente gosta faz tudo valer a pena.",
+          "text": "Porto Alegre rende boas histórias: o relato de quem foi recebido por um piquirito na rodoviária e passeou pela Praia de Belas mostra que a cidade acolhe bem quem chega. Voltar pra casa com saudade das gatas e da rotina é sinal de que a viagem valeu.",
           "source": "sintese",
           "evidence": [
-            6,
-            7
+            1,
+            9
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A cidade tem seus problemas de segurança, como tiroteios e situações bizarras com vizinhos, o que pode tornar a estadia tensa. Ainda assim, a despedida do amigo é o que importa.",
+          "text": "Postar que estava com saudade de usar droga logo depois de elogiar a viagem banaliza uma coisa séria e ainda expõe os seguidores a esse tipo de conteúdo. Quem acompanha o perfil não precisa saber disso, e a cidade merecia um comentário menos caricato.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O post é só um desabafo pessoal de quem voltou de viagem e sentiu falta da rotina, incluindo as gatas e os hábitos de casa. Cabe a cada um decidir o que compartilhar, mas o tom parece mais confessional do que uma declaração sobre Porto Alegre.",
           "source": "sintese",
           "evidence": [
-            1,
+            3,
             4
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2crzdwfec24",
+      "rank": 2,
+      "title": "Pais do ano",
+      "label": "Criança esquecida em viagem · reação na web",
+      "context": "Uma publicação do site Metrópoles destacou o caso de uma criança que foi esquecida por seus pais durante uma viagem. O episódio gerou comentários na web comparando a situação a cenas de filmes e especulando sobre como os pais não perceberam a ausência da criança.",
+      "source": "bluesky",
+      "subreddit": "bsky_rs",
+      "permalink": "https://bsky.app/profile/gabiruera.bsky.social/post/3n2crzdwfec24",
+      "createdAt": "2026-11-15T00:46:43.852000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 0.8785230995861792,
+      "suggestedRadius": 92.24,
+      "imageUrl": "assets/images/bsky_3n2crzdwfec24_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2crzdwfec24_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rs",
+      "sources": [
+        {
+          "title": "Pais do ano www.metropoles.com/brasil/pais-...",
+          "url": "https://bsky.app/profile/gabiruera.bsky.social/post/3n2crzdwfec24",
+          "subreddit": "bsky_rs"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Pelo menos os pais levaram a criança na viagem, o que já é melhor do que esquecê-la em casa, como acontece em algumas histórias de cinema. A crítica pode ser exagerada, já que o esquecimento pode ter sido um acidente.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A mãe provavelmente chamou a criança várias vezes e, como ela não respondeu, acabou saindo e esperando do lado de fora. Isso mostra falta de atenção dos pais, que deveriam ter verificado melhor antes de deixar o local.",
+          "source": "sintese",
+          "evidence": [
+            2
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A viagem é uma mistura de emoções: a alegria de rever Porto Alegre e a tristeza da despedida. O importante é aproveitar o tempo com o amigo antes da mudança para o Canadá.",
+          "text": "O caso rendeu piadas na internet, com pessoas comparando a situação a filmes e imaginando como os pais não notaram a ausência da criança. A história viralizou mais pelo humor do que por uma análise séria do ocorrido.",
           "source": "sintese",
           "evidence": [
-            5,
-            8
+            1,
+            2
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2ct42a7hk2c",
+      "rank": 3,
+      "title": "Rio Grande do Sul poderia se chamar Novo Uruguai, sugere post",
+      "label": "Gaúchos e a fronteira com o Uruguai",
+      "context": "Um post no Bluesky brincou que o Rio Grande do Sul poderia se chamar 'Novo Uruguai', citando a proximidade entre gaúchos e uruguaios. A piada ganhou força com a notícia da visita do Papa Leão ao Uruguai, que fica a cerca de 100 km da fronteira, e comentários sobre gaúchos cruzando a fronteira com chimarrão.",
+      "source": "bluesky",
+      "subreddit": "bsky_rs",
+      "permalink": "https://bsky.app/profile/tiagoscopio.bsky.social/post/3n2ct42a7hk2c",
+      "createdAt": "2026-11-15T01:06:07.546000+00:00",
+      "rawScore": 0.4682052980264052,
+      "relevanceScore": 0.5467181889573371,
+      "suggestedRadius": 80.36,
+      "imageUrl": "assets/images/bsky_3n2ct42a7hk2c_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2ct42a7hk2c_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rs",
+      "sources": [
+        {
+          "title": "O Rio Grande do Sul podia tranquilamente chamar Novo Uruguai",
+          "url": "https://bsky.app/profile/tiagoscopio.bsky.social/post/3n2ct42a7hk2c",
+          "subreddit": "bsky_rs"
+        },
+        {
+          "title": "Notícia: Papa Leão visita o Uruguai Jornal Zero Hora: O Papa está está a 100k do Rio Grande do Sul",
+          "url": "https://bsky.app/profile/lumendes.bsky.social/post/3mzsdhvpjhs2l",
+          "subreddit": "bsky_rs"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A piada faz sentido: gaúcho e uruguaio compartilham chimarrão, fronteira e costumes, e a visita do Papa só mostrou isso. Ver gaúchos cruzando a fronteira com seus chimarrões para ver o Papa é a prova de que essa integração é real e divertida.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Chamar o Rio Grande do Sul de Novo Uruguai é exagero e ignora a identidade própria do estado. A autoestima do gaúcho é impressionante, mas essa brincadeira acaba apagando as diferenças culturais e políticas entre os dois lugares.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A curiosidade pelo fenômeno religioso é o que move muita gente, não a piada em si. Quem morou em Montevidéu sabe que a vida religiosa é mais discreta, então a visita do Papa desperta interesse tanto pela experiência quanto pelo chimarrão.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27e6a4w522x",
+      "rank": 4,
+      "title": "Amiga, não beije este homem, ele defende os caloteiros do agronegócio da soja no Mato Grosso que queimam dinheiro pra eleger bolsonarista como se fossem agricul",
+      "label": "Crítica a defensor do agronegócio e bolsonarismo",
+      "context": "Um post no Bluesky critica um homem por supostamente defender grandes produtores de soja do Mato Grosso que, segundo o texto, gastam dinheiro para eleger candidatos bolsonaristas e são tratados como se fossem agricultores familiares do Rio Grande do Sul. A crítica ocorre em meio a comentários sobre o baixo crescimento econômico do Rio Grande do Sul e a influência de milícias e apostas na renda familiar.",
+      "source": "bluesky",
+      "subreddit": "bsky_rs",
+      "permalink": "https://bsky.app/profile/opinioso.bsky.social/post/3n27e6a4w522x",
+      "createdAt": "2026-11-13T16:00:53.483000+00:00",
+      "rawScore": 0.3717667791061695,
+      "relevanceScore": 0.4502767028179555,
+      "suggestedRadius": 76.26,
+      "imageUrl": "assets/images/bsky_3n27e6a4w522x_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27e6a4w522x_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rs",
+      "sources": [
+        {
+          "title": "Amiga, não beije este homem, ele defende os caloteiros do agronegócio da soja no Mato Grosso que queimam dinheiro pra eleger bolsonarista como se fossem agricultores familiares do Rio Grande do Sul.",
+          "url": "https://bsky.app/profile/opinioso.bsky.social/post/3n27e6a4w522x",
+          "subreddit": "bsky_rs"
+        },
+        {
+          "title": "Que horror! Rio Grande do Sul quase sendo o antepenúltimo estado a não crescer ou crescer muito pouco; Rio de janeiro e Mato Grosso sul ?!? Múltiplas causas e condições, mas milícia e bets podem ter um dedinho por aí…principalmente se atentarmos à renda familiar",
+          "url": "https://bsky.app/profile/marilu2024.bsky.social/post/3n233laeres2n",
+          "subreddit": "bsky_rs"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O post acerta ao expor a hipocrisia de quem defende o agronegócio da soja no Mato Grosso, que financia campanhas bolsonaristas, enquanto posa de defensor da agricultura familiar gaúcha. Essa gente queima dinheiro para eleger quem não representa o pequeno produtor.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Criticar o agronegócio e o voto em Bolsonaro no Mato Grosso é fácil, mas o post ignora que o Rio Grande do Sul afunda por causa do próprio governo estadual, eleito por ampla maioria, e não por causa da soja ou do bolsonarismo. A crise gaúcha tem raízes locais.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A discussão mistura temas distintos: o post original fala de defensores do agronegócio e de eleições, mas os comentários escorregam para a crise econômica do RS e o papel de milícias e bets. Sem dados concretos, fica difícil separar causa e consequência.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2chjss36s2l",
+      "rank": 5,
+      "title": "Bilionários do agro enriquecidos com BB e governos progressistas têm contas desbloqueadas, diz post",
+      "label": "Bilionários do agro e contas desbloqueadas",
+      "context": "Um post no Bluesky afirma que bilionários do agronegócio, muitos vindos do Rio Grande do Sul para o Centro-Oeste, enriqueceram graças ao Banco do Brasil e a governos progressistas, e que agora têm suas contas desbloqueadas. O texto também menciona corrupção e dinheiro em paraísos fiscais, questionando por que esses produtores não pagam impostos.",
+      "source": "bluesky",
+      "subreddit": "bsky_rs",
+      "permalink": "https://bsky.app/profile/prada-57.bsky.social/post/3n2chjss36s2l",
+      "createdAt": "2026-11-14T21:37:19.649000+00:00",
+      "rawScore": 0.3617265107379242,
+      "relevanceScore": 0.34023304873210714,
+      "suggestedRadius": 71.0,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-rs",
+      "sources": [
+        {
+          "title": "Esses bilionarios do Agro, muitos originários do Rio Grande do Sul que invadiram o Centro-Oeste, ficaram bilionários graças ao BB e governos progressistas, tem que ter suas contas desbloqueadas, muita corrupção e dinheiro em paraísos fiscais! Por que os que põem comida na nossa mesa já pagaram?",
+          "url": "https://bsky.app/profile/prada-57.bsky.social/post/3n2chjss36s2l",
+          "subreddit": "bsky_rs"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O post acerta ao apontar que muitos bilionários do agro se beneficiaram de crédito subsidiado do Banco do Brasil e de políticas de governos progressistas, e agora querem sigilo e contas desbloqueadas. Quem produz comida deveria pagar impostos como todo mundo, não esconder dinheiro em paraísos fiscais.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Generalizar os bilionários do agro como corruptos é injusto. O agronegócio é responsável por grande parte das exportações e do PIB, e muitos produtores enfrentam dificuldades com dívidas e burocracia. Bloquear contas sem decisão judicial prejudica a produção e a economia.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A questão é complexa: se por um lado há suspeitas de corrupção e uso de paraísos fiscais, por outro o agro precisa de crédito e segurança jurídica para produzir. O debate deveria focar em transparência e fiscalização, sem demonizar todos os produtores rurais.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2a76nzdl22d",
+      "rank": 6,
+      "title": "Crítica à escolha de cenários nordestinos estereotipados em novelas",
+      "label": "Estereótipos regionais em novelas · Nordeste",
+      "context": "Posts no Bluesky questionam por que novelas ambientadas fora do eixo Rio-São Paulo recorrem sempre a um Nordeste estereotipado, em vez de retratar interiores de outros estados. A discussão aponta que outras regiões, como Sul e Norte, raramente aparecem ou são retratadas sem caricaturas.",
+      "source": "bluesky",
+      "subreddit": "bsky_rs",
+      "permalink": "https://bsky.app/profile/renato-rznd.bsky.social/post/3n2a76nzdl22d",
+      "createdAt": "2026-11-14T00:04:21.378000+00:00",
+      "rawScore": 0.23644246939660807,
+      "relevanceScore": 0.3149482294517227,
+      "suggestedRadius": 69.67,
+      "imageUrl": "assets/images/bsky_3n2a76nzdl22d_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2a76nzdl22d_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rs",
+      "sources": [
+        {
+          "title": "Se querem fazer uma novela com personagens caricatos do interior, por que não fazem do interior de SP, Rio Grande do Sul? Curioso que nem com o interior de Minas eles mexem, é sempre o nordeste hipotético.",
+          "url": "https://bsky.app/profile/renato-rznd.bsky.social/post/3n2a76nzdl22d",
+          "subreddit": "bsky_rs"
+        },
+        {
+          "title": "globo sempre q sai do eixo sp-rio nas novelas vai pro nordeste mediaval dela, cadê o rio grande do sul estereotipado? o Pará? ja teve novela q se passasse no norte inclusive?",
+          "url": "https://bsky.app/profile/nyandeco.bsky.social/post/3mzyhztwd4k2l",
+          "subreddit": "bsky_rs"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A crítica acerta ao notar que o Nordeste é sempre retratado de forma caricata, enquanto outros interiores nunca aparecem. Se a ideia é mostrar o Brasil real, por que não levar o mesmo olhar estereotipado para o interior de SP ou do Rio Grande do Sul?",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Reclamar que novelas não retratam outros interiores ignora que o público e a produção ainda se concentram no eixo Sudeste. Mudar cenário sem mudar o olhar caricato não resolve nada; o problema é o estereótipo, não o estado escolhido.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A discussão mostra que a escolha do cenário reflete mais a lógica comercial da TV aberta do que uma suposta perseguição regional. Enquanto isso, o interior de Santa Catarina e outras regiões seguem fora das tramas, como se não existissem.",
+          "source": "sintese",
+          "evidence": [
+            2
           ],
           "votes": 0
         }
@@ -77,17 +382,17 @@
     },
     {
       "id": "bsky_3n2by2qczqc2l",
-      "rank": 2,
+      "rank": 7,
       "title": "Seque os mares do meu Rio Grande do Sul",
-      "label": "Música gaúcha · Referência cultural",
-      "context": "O post no Bluesky cita a letra da música 'Seque os mares do meu Rio Grande do Sul', com link para o YouTube. A canção é associada à Administração Popular do PT em Porto Alegre, que viabilizou o disco.",
+      "label": "Música gaúcha · Referência à Administração Popular",
+      "context": "O post no Bluesky cita a letra 'Seque os mares do meu Rio Grande do Sul', associada à Administração Popular do PT em Porto Alegre. O comentário relaciona o disco aos governos históricos do partido na capital gaúcha.",
       "source": "bluesky",
       "subreddit": "bsky_rs",
       "permalink": "https://bsky.app/profile/arthursemtavola.bsky.social/post/3n2by2qczqc2l",
       "createdAt": "2026-11-14T17:01:51.056000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 0.8879245483085555,
-      "suggestedRadius": 92.54,
+      "rawScore": 0.31416300002771963,
+      "relevanceScore": 0.29266807458839894,
+      "suggestedRadius": 68.46,
       "imageUrl": "assets/images/bsky_3n2by2qczqc2l_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2by2qczqc2l_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -103,7 +408,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Administração Popular do PT em Porto Alegre viabilizou esse disco, e isso mostra como políticas culturais podem produzir obras que marcam época. É uma herança que merece ser lembrada.",
+          "text": "A Administração Popular do PT em Porto Alegre viabilizou esse disco, e isso mostra como políticas culturais de governos históricos deixaram marcas que a gente ainda celebra hoje.",
           "source": "sintese",
           "evidence": [
             1
@@ -113,7 +418,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Falar da Administração Popular como se fosse um marco positivo esconde os problemas da gestão petista na cidade. O disco pode ser bom, mas não apaga os erros administrativos.",
+          "text": "Ficar lembrando a Administração Popular como se fosse um grande feito é exagero; o disco existe por mérito dos artistas, não por causa de governo nenhum.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -121,108 +426,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A letra da música tem força própria, independente de quem viabilizou o disco. Associar a obra a um governo específico limita seu significado e ignora o valor artístico em si.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n27e6a4w522x",
-      "rank": 3,
-      "title": "Amiga, não beije este homem, ele defende os caloteiros do agronegócio da soja no Mato Grosso que queimam dinheiro pra eleger bolsonarista como se fossem agricultores familiares do Rio Grande do Sul.",
-      "label": "",
-      "context": "",
-      "source": "bluesky",
-      "subreddit": "bsky_rs",
-      "permalink": "https://bsky.app/profile/opinioso.bsky.social/post/3n27e6a4w522x",
-      "createdAt": "2026-11-13T16:00:53.483000+00:00",
-      "rawScore": 0.3638344067380633,
-      "relevanceScore": 0.45083065215243484,
-      "suggestedRadius": 76.29,
-      "imageUrl": "assets/images/bsky_3n27e6a4w522x_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27e6a4w522x_wiki.jpg",
-      "category": "geopolitica",
-      "region": "br-rs",
-      "sources": [
-        {
-          "title": "Amiga, não beije este homem, ele defende os caloteiros do agronegócio da soja no Mato Grosso que queimam dinheiro pra eleger bolsonarista como se fossem agricultores familiares do Rio Grande do Sul.",
-          "url": "https://bsky.app/profile/opinioso.bsky.social/post/3n27e6a4w522x",
-          "subreddit": "bsky_rs"
-        },
-        {
-          "title": "Que horror! Rio Grande do Sul quase sendo o antepenúltimo estado a não crescer ou crescer muito pouco; Rio de janeiro e Mato Grosso sul ?!? Múltiplas causas e condições, mas milícia e bets podem ter um dedinho por aí…principalmente se atentarmos à renda familiar",
-          "url": "https://bsky.app/profile/marilu2024.bsky.social/post/3n233laeres2n",
-          "subreddit": "bsky_rs"
-        }
-      ],
-      "opinions": [],
-      "enrichedBy": "",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2a76nzdl22d",
-      "rank": 4,
-      "title": "Interno de SP e RS não é retratado em novelas, só o Nordeste hipotético",
-      "label": "Novelas · Estereótipos regionais",
-      "context": "Um post no Bluesky critica a escolha de novelas que retratam personagens caricatos do interior, questionando por que sempre se recorre a um 'nordeste hipotético' e não a interiores de São Paulo, Rio Grande do Sul ou Minas Gerais. A discussão gerou comentários sobre a ausência de outras regiões como cenário e sobre o tratamento dado a elas.",
-      "source": "bluesky",
-      "subreddit": "bsky_rs",
-      "permalink": "https://bsky.app/profile/renato-rznd.bsky.social/post/3n2a76nzdl22d",
-      "createdAt": "2026-11-14T00:04:21.378000+00:00",
-      "rawScore": 0.24843700891318127,
-      "relevanceScore": 0.43540048363407186,
-      "suggestedRadius": 75.59,
-      "imageUrl": "assets/images/bsky_3n2a76nzdl22d_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2a76nzdl22d_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rs",
-      "sources": [
-        {
-          "title": "Se querem fazer uma novela com personagens caricatos do interior, por que não fazem do interior de SP, Rio Grande do Sul? Curioso que nem com o interior de Minas eles mexem, é sempre o nordeste hipotético.",
-          "url": "https://bsky.app/profile/renato-rznd.bsky.social/post/3n2a76nzdl22d",
-          "subreddit": "bsky_rs"
-        },
-        {
-          "title": "globo sempre q sai do eixo sp-rio nas novelas vai pro nordeste mediaval dela, cadê o rio grande do sul estereotipado? o Pará? ja teve novela q se passasse no norte inclusive?",
-          "url": "https://bsky.app/profile/nyandeco.bsky.social/post/3mzyhztwd4k2l",
-          "subreddit": "bsky_rs"
-        },
-        {
-          "title": "gauchazh.clicrbs.com.br/passo-fundo/... Em Passo Fundo noroeste do Rio Grande do Sul, uma cachorra da raça Border Collie fugiu de casa e foi sozinha para a pet shop onde ela sempre vai. Chegou sozinha e foi direto onde toma banho. ☺️",
-          "url": "https://bsky.app/profile/arlindars.bsky.social/post/3n22deoltok2v",
-          "subreddit": "bsky_rs"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Concordo que o interior de SP e o Rio Grande do Sul também renderiam boas tramas e personagens caricatos, mas parece que só o Nordeste é lembrado quando querem retratar o interior. Se fizessem com outras regiões, talvez não deixassem tão caricato.",
+          "text": "É curioso notar que esse disco está ligado à Administração Popular, mas o que importa mesmo é a obra em si e o que ela representa para o Rio Grande do Sul.",
           "source": "sintese",
           "evidence": [
-            1,
-            4
+            1
           ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A escolha do Nordeste hipotético é um problema porque reforça estereótipos e ignora a diversidade real da região. Novelas deveriam mostrar o Nordeste de forma mais autêntica, sem cair em caricaturas que não representam o povo nordestino.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A discussão sobre qual região é retratada nas novelas é válida, mas o comentário original foca no Nordeste hipotético. Talvez a questão seja menos sobre qual região e mais sobre como os personagens são construídos, independentemente do local.",
-          "source": "sintese",
-          "evidence": [],
           "votes": 0
         }
       ],
@@ -231,17 +439,17 @@
     },
     {
       "id": "bsky_3n22xfnv66k2e",
-      "rank": 5,
+      "rank": 8,
       "title": "Bang Chan fala sobre apresentação no Rock in Rio",
-      "label": "Bang Chan · Rock in Rio e público recorde",
+      "label": "Bang Chan · Rock in Rio",
       "context": "Bang Chan, do grupo Stray Kids, comentou em entrevista que nunca havia se apresentado para um público tão grande antes do Rock in Rio. Ele também disse que a primeira impressão foi maravilhosa e agradeceu aos fãs pelo apoio.",
       "source": "bluesky",
       "subreddit": "bsky_rs",
       "permalink": "https://bsky.app/profile/jdskz.bsky.social/post/3n22xfnv66k2e",
       "createdAt": "2026-11-11T22:01:47.570000+00:00",
-      "rawScore": 0.11073858839049208,
-      "relevanceScore": 0.19719616320748626,
-      "suggestedRadius": 62.64,
+      "rawScore": 0.1347397618814769,
+      "relevanceScore": 0.21324239274895662,
+      "suggestedRadius": 63.71,
       "imageUrl": "assets/images/bsky_3n22xfnv66k2e_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n22xfnv66k2e_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -262,7 +470,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Bang Chan mostrou humildade e empolgação ao falar do Rock in Rio. Dizer que nunca se apresentou para um público tão grande e que a primeira impressão foi maravilhosa mostra o quanto ele valoriza a oportunidade e os fãs.",
+          "text": "Bang Chan mostrou humildade e empolgação ao falar do Rock in Rio. Ele nunca tinha se apresentado para um público tão grande e mesmo assim disse que a primeira impressão foi maravilhosa. Isso mostra o quanto ele valoriza a oportunidade e os fãs.",
           "source": "sintese",
           "evidence": [
             4
@@ -272,7 +480,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A fala de Bang Chan soa ensaiada e genérica. Ele repete que foi incrível e maravilhoso, mas não traz nada concreto sobre a experiência no Rock in Rio. Parece mais um discurso pronto para agradar do que um relato sincero.",
+          "text": "A fala de Bang Chan parece mais um script pronto para agradar os fãs do que uma opinião sincera. Ele fala em 'primeira impressão maravilhosa' e 'sonho', mas não entra em detalhes sobre a experiência no Rock in Rio. Fica parecendo um discurso genérico.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -280,9 +488,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Bang Chan falou do Rock in Rio com entusiasmo, mas o depoimento é curto e não aprofunda. Dá para entender a empolgação, só que sem mais detalhes fica difícil saber o que realmente marcou a apresentação além do tamanho do público.",
+          "text": "Bang Chan falou do Rock in Rio com empolgação, mas o comentário dele sobre 'nunca ter se apresentado para um público tão grande' é o que mais chama atenção. Isso mostra que a experiência foi marcante, mas também levanta a questão de como o grupo lida com palcos desse tamanho.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            4
+          ],
           "votes": 0
         }
       ],
@@ -291,17 +501,17 @@
     },
     {
       "id": "bsky_3n224fdkx2226",
-      "rank": 6,
-      "title": "Frio e nublado no RS em novembro gera pedido por Natal frio ou sol imediato",
-      "label": "Clima de novembro no RS · Frio e chuva",
-      "context": "O Rio Grande do Sul registrou geada nos campos acima da serra em 10 de novembro, e o tempo segue nublado e frio no estado. A situação levanta discussão sobre a expectativa de um Natal frio em dezembro ou a volta do sol.",
+      "rank": 9,
+      "title": "Se continuar nublado e frio no RS em novembro, que dezembro seja muito frio com Natais de filme americano",
+      "label": "Clima de novembro no Sul · Sol ou frio extremo",
+      "context": "Um post no Bluesky reclama do tempo nublado e frio no Rio Grande do Sul em pleno novembro e pede que, se continuar assim, dezembro traga frio intenso e um Natal de filme americano — ou então que o sol apareça imediatamente. A reclamação encontra eco em outras cidades do Sul, onde o tempo frio e chuvoso também tem incomodado.",
       "source": "bluesky",
       "subreddit": "bsky_rs",
       "permalink": "https://bsky.app/profile/gabrieldivan.bsky.social/post/3n224fdkx2226",
       "createdAt": "2026-11-11T13:58:24.181000+00:00",
-      "rawScore": 0.1028905807915205,
-      "relevanceScore": 0.18933145248410446,
-      "suggestedRadius": 62.11,
+      "rawScore": 0.12740498324867852,
+      "relevanceScore": 0.10590431164102954,
+      "suggestedRadius": 55.53,
       "imageUrl": "assets/images/bsky_3n224fdkx2226_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n224fdkx2226_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -311,28 +521,21 @@
           "title": "Tá, seguinte: Se continuar NUBLADO e FRIO no Rio Grande do Sul em pleno novembro, então eu quero que fique MUITO frio em dezembro e vivenciemos aqueles Natais de filme americano, de uma vez. Do contrário, brilhe a estrela (o sol), imediatamente *por obséquio",
           "url": "https://bsky.app/profile/gabrieldivan.bsky.social/post/3n224fdkx2226",
           "subreddit": "bsky_rs"
-        },
-        {
-          "title": "10 de novembro e teve geada nos campos acima da serra no Rio Grande do Sul… alguém para esse guri el ninho 🥶",
-          "url": "https://bsky.app/profile/fesanthiago.bsky.social/post/3mzxcrwwpzk2i",
-          "subreddit": "bsky_rs"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Se o frio e o tempo nublado já chegaram em novembro, o jeito é torcer para que dezembro seja ainda mais gelado e a gente tenha um Natal de filme americano, com neve e tudo. Do contrário, que o sol apareça logo e acabe com essa garoa.",
+          "text": "Se novembro já veio nublado e frio, o jeito é abraçar de vez: quero dezembro gelado e um Natal de filme americano, com lareira e neve na janela. Melhor do que esse meio-termo sem graça de tempo fechado sem nenhuma recompensa.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Frio e chuva em novembro são um transtorno, ainda mais com geada nos campos. O ideal é que o sol volte logo e o tempo firme, porque ninguém aguenta mais essa umidade e esse frio fora de época.",
+          "text": "Novembro nublado e frio já é castigo suficiente, e ainda tem gente pedindo frio em dezembro? O que eu quero é sol imediatamente, como o próprio post sugeriu. Ninguém aguenta mais essa garoa sem fim, e em Curitiba a situação é a mesma.",
           "source": "sintese",
           "evidence": [
             1
@@ -342,9 +545,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O clima está mesmo imprevisível: geada em novembro e frio em plena primavera. Enquanto uns pedem Natal gelado, outros só querem o sol de volta, e a única certeza é que o tempo segue confuso.",
+          "text": "O problema não é o frio em si, é a falta de sol: tempo nublado e chuvoso por semanas deixa qualquer um de mau humor, seja em novembro ou dezembro. Se for para esfriar, que venha com céu limpo; se for para chover, que ao menos renda um Natal bonito.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
@@ -353,17 +558,17 @@
     },
     {
       "id": "bsky_3n27epslq2c22",
-      "rank": 7,
+      "rank": 10,
       "title": "A cara nem treme",
-      "label": "Reação de figura pública · postura inalterada",
-      "context": "Um post no Bluesky mostra uma figura pública mantendo a expressão inalterada diante de uma situação não especificada. A publicação viralizou e gerou comentários sobre a reação da pessoa e uma suposta mudança de ideia.",
+      "label": "Reação de jogador à torcida",
+      "context": "Um post no Bluesky mostra uma situação em que uma pessoa mantém a expressão facial inalterada diante de uma provocação ou pressão. A publicação gerou comentários sobre a reação da torcida e sobre o conceito de 'Fuck Around and Find Out'.",
       "source": "bluesky",
       "subreddit": "bsky_rs",
       "permalink": "https://bsky.app/profile/fernandaheck.bsky.social/post/3n27epslq2c22",
       "createdAt": "2026-11-13T16:10:47.873000+00:00",
-      "rawScore": 0.12955796834335795,
-      "relevanceScore": 0.1158427642761265,
-      "suggestedRadius": 56.42,
+      "rawScore": 0.12601664061177376,
+      "relevanceScore": 0.10451592628761586,
+      "suggestedRadius": 55.4,
       "imageUrl": "assets/images/bsky_3n27epslq2c22_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27epslq2c22_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -379,7 +584,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A postura da pessoa foi firme e não demonstrou abalo, o que muitos interpretam como segurança. Manter a compostura diante da pressão é uma qualidade, e isso ficou claro na reação dela.",
+          "text": "A torcida foi decisiva para fazer a pessoa mudar de ideia rapidinho. O carinho da torcida mostrou que a pressão funciona e que a pessoa repensou sua posição diante do apoio popular.",
           "source": "sintese",
           "evidence": [
             1
@@ -389,125 +594,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A mudança de ideia rápida após o apoio da torcida mostra que a convicção era frágil. Ceder à pressão popular desse jeito só confirma que a posição inicial não se sustentava.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O caso ilustra o padrão de 'fuck around and find out': a pessoa agiu de forma provocativa e acabou lidando com as consequências. É um exemplo claro de como certas atitudes geram reações previsíveis.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n26d3ijeou2p",
-      "rank": 8,
-      "title": "Barra do Rio Azul é um município brasileiro do estado do Rio Grande do Sul.",
-      "label": "Município gaúcho · Barra do Rio Azul",
-      "context": "Barra do Rio Azul é um município brasileiro localizado no estado do Rio Grande do Sul. A informação foi compartilhada com dados do IBGE, imagens do Google Places e mapas do Google Maps, além de texto e bandeira da Wikipedia.",
-      "source": "bluesky",
-      "subreddit": "bsky_rs",
-      "permalink": "https://bsky.app/profile/cidades-do-brasil.bsky.social/post/3n26d3ijeou2p",
-      "createdAt": "2026-11-13T06:08:48.774000+00:00",
-      "rawScore": 0.10901232791316406,
-      "relevanceScore": 0.09525339601006282,
-      "suggestedRadius": 54.52,
-      "imageUrl": "assets/images/bsky_3n26d3ijeou2p_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n26d3ijeou2p_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rs",
-      "sources": [
-        {
-          "title": "Barra do Rio Azul é um município brasileiro do estado do Rio Grande do Sul.",
-          "url": "https://bsky.app/profile/cidades-do-brasil.bsky.social/post/3n26d3ijeou2p",
-          "subreddit": "bsky_rs"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A divulgação de dados e imagens de Barra do Rio Azul ajuda a valorizar o município e a tornar informações públicas acessíveis para quem quer conhecer a região.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Postagens como essa apenas repetem informações básicas de Wikipedia e IBGE, sem aprofundar a realidade local ou trazer dados atualizados e relevantes sobre o município.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O conteúdo cumpre o papel de registrar a existência do município com fontes variadas, mas seria mais útil se indicasse a data de atualização dos dados e o contexto de sua publicação.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzqxjdycic2r",
-      "rank": 9,
-      "title": "Zucco prepara desculpas antes de assumir governo do RS, diz post",
-      "label": "Zucco e desculpas antes da posse no RS",
-      "context": "Um post no Bluesky afirma que Zucco, antes de assumir o governo do Rio Grande do Sul, já estaria preparando desculpas para uma possível incapacidade de gestão. A publicação critica o que chama de postura de palanque ideológico, em contraste com governadores de outros partidos que buscam diálogo com o governo federal.",
-      "source": "bluesky",
-      "subreddit": "bsky_rs",
-      "permalink": "https://bsky.app/profile/pimenta13br.bsky.social/post/3mzqxjdycic2r",
-      "createdAt": "2026-11-07T22:37:18.470000+00:00",
-      "rawScore": 0.0970391075229874,
-      "relevanceScore": 0.08325469269479392,
-      "suggestedRadius": 53.31,
-      "imageUrl": "assets/images/bsky_3mzqxjdycic2r_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzqxjdycic2r_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rs",
-      "sources": [
-        {
-          "title": "🚨 ABSURDO! Zucco ainda nem assumiu o governo do Rio Grande do Sul e já começou a preparar desculpas para uma possível incapacidade de gestão!",
-          "url": "https://bsky.app/profile/pimenta13br.bsky.social/post/3mzqxjdycic2r",
-          "subreddit": "bsky_rs"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O post acerta ao apontar que Zucco mantém o discurso de palanque em vez de buscar diálogo com o governo federal como outros governadores. Essa postura ideológica prejudica o RS, que precisa de gestão e não de briga política.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Criticar antes da posse é injusto: Zucco nem assumiu e já estão falando em incapacidade. O Rio Grande do Sul está lascado e o foco deveria ser cobrar soluções, não criar narrativa de fracasso antes do tempo.",
+          "text": "A situação é mais um caso clássico de F.A.F.O: quem provoca acaba encontrando as consequências. A pessoa que manteve a cara nem treme agora lida com o resultado de suas ações.",
           "source": "sintese",
           "evidence": [
             2
@@ -517,68 +604,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A discussão mistura incapacidade de gestão com incapacidade do gestor. Antes de julgar, é preciso ver se o problema é o Zucco ou a estrutura de governo, e se as desculpas são reais ou apenas retórica de oposição.",
-          "source": "sintese",
-          "evidence": [
-            5
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzy5wqjsyc2w",
-      "rank": 10,
-      "title": "Obrigado São Leopoldo, Tulkas, Hipe, Paulinho e Rocket Club: foi muito legal",
-      "label": "Agradecimento a São Leopoldo e parceiros",
-      "context": "Um post no Bluesky agradece a São Leopoldo, Tulkas, Hipe, Paulinho e Rocket Club por um evento que o autor considerou muito legal. O comentário destaca que a presença de Rik em São Leopoldo gerou um vídeo dele cumprimentando Hique.",
-      "source": "bluesky",
-      "subreddit": "bsky_rs",
-      "permalink": "https://bsky.app/profile/eusouorik.bsky.social/post/3mzy5wqjsyc2w",
-      "createdAt": "2026-11-10T19:20:52.170000+00:00",
-      "rawScore": 0.0901106769454137,
-      "relevanceScore": 0.076311516153172,
-      "suggestedRadius": 52.57,
-      "imageUrl": "assets/images/bsky_3mzy5wqjsyc2w_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzy5wqjsyc2w_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rs",
-      "sources": [
-        {
-          "title": "Obrigado São Leopoldo Obrigado Tulkas e Hipe Obrigado Paulinho e Rocket Club Foi legal d++++",
-          "url": "https://bsky.app/profile/eusouorik.bsky.social/post/3mzy5wqjsyc2w",
-          "subreddit": "bsky_rs"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O evento em São Leopoldo foi ótimo e a presença do Rik rendeu um momento espontâneo, o vídeo dele dando um salve pro Hique. Esse tipo de registro mostra que o encontro valeu a pena e deixou memória.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Agradecer nominalmente a Tulkas, Hipe, Paulinho e Rocket Club sem explicar o que cada um fez deixa o post vago. Fica parecendo lista de nomes sem contexto, e quem não foi ao evento não entende o que realmente aconteceu.",
+          "text": "A reação da pessoa pode ser interpretada de várias formas: indiferença, controle emocional ou até mesmo surpresa. O contexto completo da interação não está claro, o que dificulta conclusões definitivas.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O post celebra o evento, mas o comentário sobre o vídeo do Rik em São Leopoldo mostra que o registro acabou virando o centro da conversa. O agradecimento original fica em segundo plano diante da curiosidade sobre esse momento específico.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
           "votes": 0
         }
       ],

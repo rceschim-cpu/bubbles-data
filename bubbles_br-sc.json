@@ -1,21 +1,84 @@
 {
-  "generatedAt": "2026-11-14T17:53:05.010538+00:00",
+  "generatedAt": "2026-11-15T05:36:37.700519+00:00",
   "region": "br-sc",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n2bqdpxp5c2j",
+      "id": "bsky_3n2caxfmerk27",
       "rank": 1,
+      "title": "Escola em SC adverte alunos por foto entre colegas",
+      "label": "Advertência escolar por foto de alunos",
+      "context": "Uma escola em Santa Catarina advertiu disciplinarmente nove alunos por causa de uma foto tirada entre colegas, sem uso do nome da instituição ou propaganda profissional. A medida gerou debate sobre os limites da liberdade de expressão e o papel da escola na formação democrática dos estudantes.",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/hospiciobrasil.bsky.social/post/3n2caxfmerk27",
+      "createdAt": "2026-11-14T19:41:25.147000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n2caxfmerk27_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2caxfmerk27_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "Outros nove foram advertidos disciplinarmente. E sabe de onde veio a ideia? Dos pais dos alunos. Detalhe: não usaram o nome da escola, nem fizeram propaganda em nome da profissão. Era apenas uma foto entre colegas. A manchete nem precisava dizer que era SC. www.cartacapital.com.br/educacao/esc...",
+          "url": "https://bsky.app/profile/hospiciobrasil.bsky.social/post/3n2caxfmerk27",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A escola tem o direito de aplicar seu regimento interno, e se a foto foi tirada em contexto escolar, cabe à instituição zelar pelas normas. Os pais dos alunos apoiaram a medida, o que mostra que a comunidade escolar concorda com a advertência.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Advertir alunos por uma foto entre colegas é um absurdo, especialmente em um ambiente que deveria ensinar democracia e liberdade de expressão. A escola ainda gravou vídeo se dizendo 'sem viés ideológico', o que só piora a situação.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2,
+            5
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Esse tipo de advertência não é exclusividade de Santa Catarina; é provável que ocorra em muitos municípios brasileiros. A questão é estrutural e reflete como as escolas lidam com a liberdade de expressão dos alunos em geral.",
+          "source": "sintese",
+          "evidence": [
+            3,
+            4
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2bqdpxp5c2j",
+      "rank": 2,
       "title": "Delegado Haroldo da Mata, tenente Quim Kisuragui, investigador João Viquemario, cabo Judite Menina e perito Trajano Heidelstam (de Santa Catarina)",
-      "label": "Prisão autorizada por vara federal de SC",
-      "context": "A Justiça Federal de Santa Catarina autorizou a prisão do delegado Haroldo da Mata, do tenente Quim Kisuragui, do investigador João Viquemario, do cabo Judite Menina e do perito Trajano Heidelstam. O pedido foi feito pela delegada Érika Marena, que já atuou na Lava Jato, e a decisão gerou discussão sobre os critérios e o contexto político da medida.",
+      "label": "Agentes de SC · Nomes citados em post",
+      "context": "Um post no Bluesky lista nominalmente o delegado Haroldo da Mata, o tenente Quim (Joaquim) Kisuragui, o investigador João Viquemario, a cabo Judite Menina e o perito Trajano Heidelstam, este último identificado como sendo de Santa Catarina. A publicação gerou comentários que associam os citados a cargos políticos e a episódios envolvendo o estado catarinense.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/moara.bsky.social/post/3n2bqdpxp5c2j",
       "createdAt": "2026-11-14T14:44:04.441000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.36218206203573516,
+      "relevanceScore": 0.8639424881409835,
+      "suggestedRadius": 91.77,
       "imageUrl": "assets/images/bsky_3n2bqdpxp5c2j_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2bqdpxp5c2j_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -27,8 +90,8 @@
           "subreddit": "bsky_sc"
         },
         {
-          "title": "Mentira, foi a vara federal de Santa Catarina que autorizou a prisão. A delegada Érika Marena que pediu a prisão tinha feito parte da lava jato antes.",
-          "url": "https://bsky.app/profile/marciadobeco.bsky.social/post/3n2bipq3crk2a",
+          "title": "Estou errado quando digo que o Estado de Santa Catarina é uma pocilga fascista fedorenta ❓",
+          "url": "https://bsky.app/profile/hamorc.bsky.social/post/3n2cgeyqkus2s",
           "subreddit": "bsky_sc"
         },
         {
@@ -41,89 +104,35 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A prisão foi autorizada pela vara federal de Santa Catarina, não por um juiz qualquer. A delegada Érika Marena tem experiência na Lava Jato e pediu a medida com base em indícios. Isso mostra que a Justiça está agindo, independentemente de quem sejam os envolvidos.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O delegado Haroldo da Mata é conhecido por episódios como beber vinho barato e por declarações polêmicas. A prisão parece mais uma cortina de fumaça para desviar a atenção de outros problemas em Santa Catarina, como o alto número de prefeitos presos. A seletividade da Justiça é evidente.",
+          "text": "O delegado Haroldo da Mata virou figura conhecida justamente por esse jeito de encarar a vida sem cerimônia, e isso aproxima ele do eleitor comum muito mais do que qualquer discurso ensaiado de campanha.",
           "source": "sintese",
           "evidence": [
             4,
-            5
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A decisão da vara federal de Santa Catarina ainda precisa ser analisada com cuidado. É preciso ver se há provas concretas contra o delegado e os demais, e se a prisão não é apenas um reflexo do clima político acirrado no estado. Sem isso, fica difícil apoiar ou criticar.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            11
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2bse3m3is2e",
-      "rank": 2,
-      "title": "Família rica de Florianópolis surpreende com convite para jantar no Outback em SP",
-      "label": "Jantar no Outback · Crítica ao gosto",
-      "context": "Uma pessoa relata que parentes ricos de Florianópolis, em visita a São Paulo, convidaram sua mãe para jantar no Outback do Shopping Morumbi. O episódio gerou críticas à escolha de um restaurante de rede em vez de aproveitar a diversidade gastronômica e cultural da cidade.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/acabracho.bsky.social/post/3n2bse3m3is2e",
-      "createdAt": "2026-11-14T15:20:03.256000+00:00",
-      "rawScore": 0.731252583375671,
-      "relevanceScore": 0.5459679133290802,
-      "suggestedRadius": 80.33,
-      "imageUrl": "assets/images/bsky_3n2bse3m3is2e_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2bse3m3is2e_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "a ala rica da minha família q mora em florianópolis veio pra são paulo esses dias e minha mãe foi surpreendida com o convite de jantar no outback do shopping morumbi. eu fiquei horrorizada",
-          "url": "https://bsky.app/profile/acabracho.bsky.social/post/3n2bse3m3is2e",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "São Paulo tem opções gastronômicas que não existem em Florianópolis, e trocar isso por uma rede de shopping é desperdiçar o que a cidade oferece de melhor. Quem mora fora e vem visitar deveria aproveitar a cena local, não o que já conhece.",
-          "source": "sintese",
-          "evidence": [
-            1
+            6
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O convite para o Outback diz mais sobre a relação da família do que sobre gosto: é um lugar seguro, previsível e que agrada todo mundo. Julgar a escolha como horrorosa parece mais um julgamento de classe do que uma crítica gastronômica real.",
+          "text": "Santa Catarina aparece nesses posts como um estado onde a política virou piada de família: os mesmos nomes circulam, os mesmos sobrenomes se elegem e nada muda de verdade para quem vive lá.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2,
+            5,
+            6
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A escolha do Outback pode ser só falta de repertório de quem não conhece a cidade, não necessariamente desprezo por cultura. O que chama atenção é a família ressaltar que achou tudo caro, sendo gente que nunca precisou se preocupar com conta.",
+          "text": "A lista de nomes no post parece mais uma brincadeira interna do que uma denúncia séria, e sem saber o contexto de cada um fica difícil dizer se é crítica política ou só zoeira de internet.",
           "source": "sintese",
           "evidence": [
-            3
+            9,
+            10,
+            11
           ],
           "votes": 0
         }
@@ -135,15 +144,15 @@
       "id": "bsky_3n273uohtls2u",
       "rank": 3,
       "title": "Prefeitura de Florianópolis banca show de Ana Castela por R$ 1,7 milhão no Réveillon",
-      "label": "Show de Ana Castela · Gastos públicos",
-      "context": "A Prefeitura de Florianópolis contratou o show de Ana Castela para o Réveillon por R$ 1,7 milhão, valor superior ao que a cidade investiu em apoio à causa autista e em exames de ressonância magnética. O gasto gerou críticas nas redes sociais, com questionamentos sobre a prioridade do dinheiro público.",
+      "label": "Show de Ana Castela · Gasto público no Réveillon",
+      "context": "A Prefeitura de Florianópolis contratou o show de Ana Castela para o Réveillon por R$ 1,7 milhão, valor superior ao que a cidade investiu em apoio à causa autista e em exames de ressonância magnética. O gasto gerou críticas nas redes sociais, com comparações entre o custo do evento e os investimentos em saúde e assistência social.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/blogdonoblat.bsky.social/post/3n273uohtls2u",
       "createdAt": "2026-11-13T13:32:24.370000+00:00",
-      "rawScore": 0.38305249833765137,
-      "relevanceScore": 0.3535774012680103,
-      "suggestedRadius": 71.68,
+      "rawScore": 0.30125063432725574,
+      "relevanceScore": 0.43837490714687116,
+      "suggestedRadius": 75.73,
       "imageUrl": "assets/images/bsky_3n273uohtls2u_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n273uohtls2u_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -164,7 +173,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Réveillon de Florianópolis é um evento tradicional que atrai turistas e movimenta a economia local. Investir em um show de grande porte pode gerar retorno em impostos e visibilidade para a cidade, compensando o custo.",
+          "text": "O Réveillon de Florianópolis é uma vitrine turística que movimenta a economia local, e contratar uma atração nacional como Ana Castela atrai visitantes e gera receita para a cidade. O investimento se paga com o retorno do turismo e não pode ser analisado isoladamente.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -172,10 +181,11 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Gastar R$ 1,7 milhão em um único show enquanto faltam recursos para exames de ressonância e apoio a autistas é um desrespeito com a população. A prefeitura deveria priorizar serviços básicos e transparentes, não festas caras.",
+          "text": "Gastar R$ 1,7 milhão em um único show enquanto a cidade investe menos em exames de ressonância magnética e apoio à causa autista é uma inversão de prioridades. A prefeitura deveria destinar esse dinheiro para áreas essenciais e não para festa.",
           "source": "sintese",
           "evidence": [
             1,
+            2,
             6,
             7
           ],
@@ -184,11 +194,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A escolha do show e o valor contratado precisam ser debatidos com a população. Talvez seja o caso de criar regras claras para gastos com eventos, como limites proporcionais ao orçamento da saúde e educação, e dar espaço para artistas locais.",
+          "text": "A discussão sobre o show deveria incluir mais transparência nos critérios de contratação e um limite claro para gastos com eventos. Propor regras como vincular o custo de shows a um percentual do orçamento de educação ou detalhar emendas ajudaria a evitar excessos.",
           "source": "sintese",
           "evidence": [
             3,
-            8
+            4
           ],
           "votes": 0
         }
@@ -199,16 +209,16 @@
     {
       "id": "bsky_3n26wlhuns22t",
       "rank": 4,
-      "title": "Prefeito de Florianópolis paga show de artista e é criticado por gasto e pose ao lado de 'bandido'",
-      "label": "Show de artista em Florianópolis · Gasto público e polêmica",
-      "context": "O prefeito de Florianópolis pagou com recursos da cidade um show da artista conhecida como 'ßanta Katarrina', que também posou ao lado de um homem identificado como bandido. A crítica nas redes aponta desperdício de dinheiro público e associação da artista com criminoso.",
+      "title": "Prefeito de Florianópolis paga show de cantora com dinheiro público",
+      "label": "Show pago pela prefeitura · Florianópolis",
+      "context": "A prefeitura de Florianópolis pagou um show da cantora conhecida como Banda Katarrina, e o valor seria mais alto que o de outras apresentações dela. A crítica nas redes questiona o uso de dinheiro público para custear o evento e a proximidade da artista com uma figura controversa.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/hospiciobrasil.bsky.social/post/3n26wlhuns22t",
       "createdAt": "2026-11-13T11:57:47.978000+00:00",
-      "rawScore": 0.3873041034441423,
-      "relevanceScore": 0.2793587211262772,
-      "suggestedRadius": 67.71,
+      "rawScore": 0.3083314149518306,
+      "relevanceScore": 0.3337416608686088,
+      "suggestedRadius": 70.66,
       "imageUrl": "assets/images/bsky_3n26wlhuns22t_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n26wlhuns22t_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -224,30 +234,33 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O prefeito tem o direito de contratar shows para a cidade, e a artista é uma figura pública que gera público. A pose ao lado de um bandido não deveria ser motivo para cancelar o evento, já que a vida pessoal dela não interfere na apresentação.",
+          "text": "O show foi contratado com dinheiro público e o valor é maior do que o de outras apresentações da mesma artista, o que levanta suspeita de rachadinha. Financiar música deveria passar por critérios como a Lei Rouanet ou ter limite de valor conforme o público esperado.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            3,
+            8
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O valor pago a essa artista é muito mais alto do que os outros shows dela, o que levanta suspeita de rachadinha. Além disso, a prefeitura não deveria gastar dinheiro público com uma apresentação de mau-gosto e ainda por cima com alguém que posa ao lado de bandido.",
+          "text": "A prefeitura de Florianópolis está usando os cofres da cidade para premiar um show de mau gosto, e a foto da artista ao lado de um bandido só reforça a falta de caráter. O poder público não deveria bancar esse tipo de apresentação.",
           "source": "sintese",
           "evidence": [
-            3,
-            4,
-            8
+            1,
+            4
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A crítica à artista e ao prefeito é válida, mas o problema maior é a falta de critérios claros para o uso de dinheiro público em eventos culturais. Sem regras transparentes, qualquer contratação vira alvo de suspeita, independentemente da qualidade do show.",
+          "text": "O caso de Florianópolis se soma a outros governos que fazem pior, e a sensação é de que a cidade virou brega com esse tipo de contratação. A artista também não ganhou nada no Grammy Latino este ano, o que alimenta a dúvida sobre o critério do cachê.",
           "source": "sintese",
           "evidence": [
-            8
+            5,
+            6
           ],
           "votes": 0
         }
@@ -256,31 +269,31 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n27awlrmt22m",
+      "id": "bsky_3n27gogs2us26",
       "rank": 5,
-      "title": "Prefeitura contrata cantora de country pop e gera suspeita",
-      "label": "Contratação de cantora · Suspeita de irregularidade",
-      "context": "A Prefeitura contratou uma cantora de country pop jovem, e o caso virou notícia em veículos locais. A contratação é vista com desconfiança por parte do público, que questiona o uso de dinheiro público.",
+      "title": "Prefeitura contrata cantora country pop e gera suspeita",
+      "label": "Contratação de cantora country pop · Suspeita",
+      "context": "Uma prefeitura de Santa Catarina contratou uma cantora de country pop jovem, conforme noticiado pelo ICL Notícias. A contratação gerou suspeitas de irregularidade no uso de dinheiro público.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/nildete.bsky.social/post/3n27awlrmt22m",
-      "createdAt": "2026-11-13T15:02:59.378000+00:00",
-      "rawScore": 0.1951917157631087,
-      "relevanceScore": 0.2533014136636128,
-      "suggestedRadius": 66.2,
-      "imageUrl": "assets/images/bsky_3n27awlrmt22m_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27awlrmt22m_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/samucabks.bsky.social/post/3n27gogs2us26",
+      "createdAt": "2026-11-13T16:45:48.677000+00:00",
+      "rawScore": 0.12970029011729536,
+      "relevanceScore": 0.3110684472540376,
+      "suggestedRadius": 69.46,
+      "imageUrl": "assets/images/bsky_3n27gogs2us26_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27gogs2us26_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sc",
       "sources": [
         {
-          "title": "iclnoticias.com.br/prefeitura-d...",
-          "url": "https://bsky.app/profile/nildete.bsky.social/post/3n27awlrmt22m",
+          "title": "iclnoticias.com.br/prefeitura-d... Mas eles gostam...",
+          "url": "https://bsky.app/profile/samucabks.bsky.social/post/3n27gogs2us26",
           "subreddit": "bsky_sc"
         },
         {
-          "title": "iclnoticias.com.br/prefeitura-d... Mas eles gostam...",
-          "url": "https://bsky.app/profile/samucabks.bsky.social/post/3n27gogs2us26",
+          "title": "iclnoticias.com.br/prefeitura-d...",
+          "url": "https://bsky.app/profile/arlindars.bsky.social/post/3n277olzts22d",
           "subreddit": "bsky_sc"
         },
         {
@@ -293,7 +306,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A cantora é uma estrela do country pop jovem e tem público, então a prefeitura pode estar contratando alguém popular para um evento. Não vejo problema em trazer uma atração conhecida para a cidade.",
+          "text": "A cantora é uma estrela do country pop jovem atual, muito popular, e a prefeitura pode ter contratado alguém de fato relevante para o público. Não vejo problema em contratar artistas populares para eventos municipais.",
           "source": "sintese",
           "evidence": [
             1
@@ -303,19 +316,22 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Prefeitura usando dinheiro público para contratar cantora é surrupiar o dinheiro do povo. Criminosos que fazem isso deveriam ser investigados e punidos.",
+          "text": "Prefeituras usam dinheiro público para contratar artistas sem transparência, e isso é surrupiar o dinheiro do contribuinte. Em Santa Catarina, esse tipo de contratação suspeita já virou rotina.",
           "source": "sintese",
           "evidence": [
-            2
+            2,
+            3
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Nunca ouvi falar dessa cantora, só vejo notícia de contratação suspeita. Se ela é tão popular assim, por que só aparece em matéria de gasto público? Fica a dúvida sobre o critério da escolha.",
+          "text": "Nunca ouvi falar dessa cantora, só vejo notícias de contratação suspeita. Talvez ela seja popular em outro nicho, mas a falta de conhecimento sobre o artista levanta dúvidas sobre o critério da contratação.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            3
+          ],
           "votes": 0
         }
       ],
@@ -323,26 +339,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2baj2i7ps2w",
+      "id": "bsky_3n2bse3m3is2e",
       "rank": 6,
-      "title": "Ex-professora procura alunos que estudaram com ela em Florianópolis e no Rio",
-      "label": "Ex-professora busca alunos · Florianópolis e Rio",
-      "context": "Uma ex-professora que lecionou da educação infantil ao ensino médio em Florianópolis e no Rio de Janeiro publicou uma mensagem perguntando se alguém foi seu aluno nesses locais. A postagem busca identificar pessoas que estudaram com ela nas duas cidades.",
+      "title": "Família rica de Florianópolis convida para jantar no Outback em São Paulo e gera horror",
+      "label": "Jantar no Outback · Crítica ao gosto",
+      "context": "Uma pessoa relata que parentes ricos de Florianópolis, em visita a São Paulo, convidaram sua mãe para jantar no Outback do Shopping Morumbi. O episódio gerou críticas à escolha de um restaurante de rede em vez de explorar a gastronomia local.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/dulcinea.bsky.social/post/3n2baj2i7ps2w",
-      "createdAt": "2026-11-14T10:00:44.643000+00:00",
-      "rawScore": 0.17600664060076845,
-      "relevanceScore": 0.11557301143397583,
-      "suggestedRadius": 56.4,
-      "imageUrl": "assets/images/bsky_3n2baj2i7ps2w_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2baj2i7ps2w_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/acabracho.bsky.social/post/3n2bse3m3is2e",
+      "createdAt": "2026-11-14T15:20:03.256000+00:00",
+      "rawScore": 0.2772160265241888,
+      "relevanceScore": 0.2987036555745793,
+      "suggestedRadius": 68.79,
+      "imageUrl": "assets/images/bsky_3n2bse3m3is2e_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2bse3m3is2e_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sc",
       "sources": [
         {
-          "title": "Fui professora, do maternal até 6 anos em Florianópolis e professora ensino fundamental ao medio no RJ. Se vc foi aluno num destes Lugares, pode ser.",
-          "url": "https://bsky.app/profile/dulcinea.bsky.social/post/3n2baj2i7ps2w",
+          "title": "a ala rica da minha família q mora em florianópolis veio pra são paulo esses dias e minha mãe foi surpreendida com o convite de jantar no outback do shopping morumbi. eu fiquei horrorizada",
+          "url": "https://bsky.app/profile/acabracho.bsky.social/post/3n2bse3m3is2e",
           "subreddit": "bsky_sc"
         }
       ],
@@ -350,27 +366,29 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A atitude da professora é válida: ela quer reencontrar alunos que passaram pela sua trajetória em Florianópolis e no Rio. Esse tipo de busca pode render boas lembranças e até reacender laços antigos.",
+          "text": "São Paulo tem uma cena gastronômica enorme, com opções para todos os gostos e bolsos. Ir no Outback do Morumbi é desperdiçar a chance de mostrar o que a cidade tem de melhor, ainda mais com gente que pode pagar qualquer lugar.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A publicação pode não dar em nada, já que o nome da professora não foi informado e a descrição é muito genérica. Sem dados como escola ou período, fica difícil alguém se reconhecer como ex-aluno.",
+          "text": "O problema não é o Outback em si, mas a atitude de quem tem dinheiro e não faz questão de procurar nada cultural ou diferente. Só shopping e compras na José Paulino, reclamando de preço, mostra desinteresse pelo que a cidade oferece.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            3
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Quem mora em outra região, como no Paraná, não tem como confirmar se foi aluno dela, mesmo que o nome bata. A busca faz sentido, mas depende de coincidências e da memória de cada um.",
+          "text": "Cada família tem seus hábitos e talvez o Outback seja só um lugar seguro e conhecido para um jantar tranquilo. Nem todo mundo quer explorar restaurantes novos, e isso não necessariamente é um crime contra a gastronomia.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -382,16 +400,16 @@
       "rank": 7,
       "title": "Trabalhando no carro a caminho de Florianópolis",
       "label": "Viagem de última hora · Trabalho remoto",
-      "context": "Uma pessoa está em viagem de última hora para Florianópolis e passa o trajeto trabalhando, enquanto o acompanhante dirige e não pode responder. A situação gerou comentários sobre a flexibilidade do trabalho remoto e as expectativas em torno dele.",
+      "context": "Uma pessoa relata estar trabalhando durante uma viagem de carro de última hora para Florianópolis, enquanto o acompanhante dirige e não pode responder. O relato gerou comentários sobre a flexibilidade de trabalhar em trânsito e as expectativas em torno do horário de trabalho.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/nativerso.com/post/3n24oda6mjs2f",
       "createdAt": "2026-11-12T14:24:41.287000+00:00",
-      "rawScore": 0.06130280744727318,
-      "relevanceScore": 0.10417544084398928,
-      "suggestedRadius": 55.37,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.04133199452205305,
+      "relevanceScore": 0.1456891610347869,
+      "suggestedRadius": 58.9,
+      "imageUrl": "assets/images/bsky_3n24oda6mjs2f_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24oda6mjs2f_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sc",
       "sources": [
@@ -410,7 +428,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Trabalhar de dentro do carro numa viagem de última hora é exatamente a liberdade que o trabalho remoto permite. Se a pessoa consegue dar conta das demandas enquanto viaja, não há problema nenhum em aproveitar a estrada e ainda cumprir as obrigações.",
+          "text": "Trabalhar de qualquer lugar é a vantagem real de quem tem liberdade de horário. Se a pessoa consegue produzir no carro e ainda aproveitar a viagem, isso mostra que o modelo flexível funciona na prática.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -418,7 +436,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Decidir viajar em horário de trabalho e ainda reclamar que está trabalhando no carro soa contraditório. A tal liberdade do home office não é tão ampla assim, e o episódio vira um perrengue chique que só mostra como as pessoas confundem flexibilidade com ausência de compromisso.",
+          "text": "Viajar em horário de trabalho e chamar isso de liberdade é forçar a barra. A tal flexibilidade vira desculpa para misturar tudo, e no fim o descanso e o trabalho saem prejudicados.",
           "source": "sintese",
           "evidence": [
             1
@@ -428,7 +446,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A situação ilustra um limite prático do trabalho remoto: dá para responder mensagens do carro, mas o acompanhante que dirige fica sem poder participar. No fim, a viagem de última hora acaba virando um teste de até onde a flexibilidade realmente funciona.",
+          "text": "O relato é só um desabafo de viagem, mas expõe uma situação comum: quem trabalha remoto acaba emendando compromissos no trajeto. Depende do combinado com o trabalho e do quanto a pessoa consegue se organizar.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -442,14 +460,14 @@
       "rank": 8,
       "title": "Agenda de festas e shows em novembro no Rio e em Florianópolis",
       "label": "Agenda de shows · Rio e Floripa",
-      "context": "Posts no Bluesky divulgam eventos musicais em novembro de 2026, como o Bangarang Sound System no Moto Cerva, no Rio, e as festas Sattivas em Florianópolis. A lista circula como agenda cultural para quem procura opções de festa e show nessas cidades.",
+      "context": "Posts divulgam eventos musicais em novembro no Rio de Janeiro e em Florianópolis, como o Bangarang Sound System no Moto Cerva e as festas Sattivas no Tio Gether's e no Jungle Floripa. A lista circula para informar o público sobre opções de lazer e música ao vivo nessas cidades.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/skatapla.bsky.social/post/3n252dwzwyc2q",
       "createdAt": "2026-11-12T17:59:58.271000+00:00",
-      "rawScore": 0.030626853776806552,
-      "relevanceScore": 0.08039719582961431,
-      "suggestedRadius": 53.01,
+      "rawScore": 0.012590205045698659,
+      "relevanceScore": 0.11332398667180976,
+      "suggestedRadius": 56.2,
       "imageUrl": "assets/images/bsky_3n252dwzwyc2q_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n252dwzwyc2q_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -470,7 +488,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A divulgação de festas como o Bangarang Sound System e as Sattivas em Floripa ajuda quem quer sair no fim de semana a descobrir opções fora do circuito mainstream, com endereço e data na mão.",
+          "text": "A divulgação desses eventos é ótima para quem curte música alternativa, pois reúne opções como Bangarang Sound System e Sattivas em um só lugar, facilitando o acesso à cena local.",
           "source": "sintese",
           "evidence": [
             1,
@@ -481,20 +499,20 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Esse formato de post só com nome de festa e local, sem link ou informação de horário e preço, atrapalha quem tenta se organizar. Fica parecendo lista solta que não resolve a vida de ninguém.",
+          "text": "A lista mistura cidades e datas sem organização clara, o que confunde quem procura um evento específico; seria mais útil separar por local ou dia para não sobrecarregar a informação.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1,
+            3
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A agenda mistura Rio e Florianópolis no mesmo texto, o que confunde na hora de bater o olho. Separar por cidade e dia deixaria a leitura mais direta para quem só quer saber o que rola perto.",
+          "text": "A divulgação é válida, mas depende do interesse de cada um; quem não é fã dos estilos musicais citados pode não se atrair, e a utilidade varia conforme a região.",
           "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -504,16 +522,16 @@
     {
       "id": "bsky_3mzvgbgnct22b",
       "rank": 9,
-      "title": "Anúncio da OAB aparece no Instagram uma semana após evento",
-      "label": "OAB · Anúncio antigo no Instagram",
-      "context": "Um anúncio da OAB continuava sendo exibido no Instagram cerca de uma semana depois do evento que promovia. A campanha segue no ar mesmo após a data, o que gerou críticas ao gasto e à atuação da entidade.",
+      "title": "Anúncio da OAB apareceu no Instagram uma semana após evento",
+      "label": "OAB · Anúncio após evento",
+      "context": "Um anúncio da OAB continuava sendo exibido no Instagram uma semana depois do evento que promovia. A campanha segue no ar mesmo após a data, o que gerou críticas ao gasto de dinheiro e à atuação da entidade.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/mulhertamarindo.bsky.social/post/3mzvgbgnct22b",
       "createdAt": "2026-11-09T17:11:54.374000+00:00",
-      "rawScore": 0.11366022165737069,
-      "relevanceScore": 0.06724563288429927,
-      "suggestedRadius": 51.56,
+      "rawScore": 0.10085771683521538,
+      "relevanceScore": 0.10011242143658805,
+      "suggestedRadius": 54.98,
       "imageUrl": "assets/images/bsky_3mzvgbgnct22b_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzvgbgnct22b_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -529,18 +547,18 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A OAB está certa em litigar em causa estrangeira: defender advogados e a categoria em outro país é papel dela, e quem critica não entende que isso pode render lucro e prestígio institucional.",
+          "text": "A OAB está sendo criticada, mas o anúncio pode ser só um erro de agendamento da campanha. Não vejo má-fé em manter o post no ar por uma semana; é mais descuido do que vergonha.",
           "source": "sintese",
           "evidence": [
-            11,
-            12
+            1,
+            3
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A OAB só aparece para cobrar anuidade dos advogados; fora isso, é uma fábrica de vergonha que gasta dinheiro à toa mantendo no ar uma campanha de um evento que já aconteceu há uma semana.",
+          "text": "A OAB aproveita todas as oportunidades de passar vergonha: gasta dinheiro à toa numa campanha que já acabou e ainda aparece no Instagram uma semana depois. É uma entidade que só cobra anuidade e não se organiza.",
           "source": "sintese",
           "evidence": [
             2,
@@ -552,10 +570,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O anúncio continuar rodando uma semana depois pode ser só falha de agendamento ou de gestão de tráfego pago, não necessariamente uma decisão deliberada da OAB de insistir na campanha.",
+          "text": "O anúncio da OAB no Instagram é só um sintoma: a entidade precisa explicar por que a campanha continua rodando e qual o custo disso. Sem transparência, fica difícil saber se foi erro ou descaso.",
           "source": "sintese",
           "evidence": [
-            1
+            1,
+            12
           ],
           "votes": 0
         }
@@ -564,26 +583,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n27jfe6his2y",
+      "id": "bsky_3n2baj2i7ps2w",
       "rank": 10,
-      "title": "SC: campanha reúne doações para indígenas atingidos por tempestades",
-      "label": "Doações para indígenas atingidos por tempestades em SC",
-      "context": "Uma campanha está arrecadando doações para indígenas afetados por tempestades em Santa Catarina, com pontos de coleta em Florianópolis, Lages e Chapecó. A ação busca ajudar as comunidades a lidar com os impactos das chuvas fortes.",
+      "title": "Ex-professora de Florianópolis e do Rio pergunta se foi sua aluna",
+      "label": "Ex-professora procura alunos · Florianópolis e Rio",
+      "context": "Uma ex-professora que deu aulas do maternal até o 6º ano em Florianópolis e do ensino fundamental ao médio no Rio de Janeiro publicou uma mensagem perguntando se alguém que a lê foi seu aluno. A postagem viralizou e gerou respostas de pessoas que tentam confirmar se estudaram com ela.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/sul21.com.br/post/3n27jfe6his2y",
-      "createdAt": "2026-11-13T17:34:21.975000+00:00",
-      "rawScore": 0.10359158000440656,
-      "relevanceScore": 0.05944099767204116,
-      "suggestedRadius": 50.63,
-      "imageUrl": "assets/images/bsky_3n27jfe6his2y_og.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27jfe6his2y_og_thumb.jpg",
+      "permalink": "https://bsky.app/profile/dulcinea.bsky.social/post/3n2baj2i7ps2w",
+      "createdAt": "2026-11-14T10:00:44.643000+00:00",
+      "rawScore": 0.07892532943642633,
+      "relevanceScore": 0.07541508855332572,
+      "suggestedRadius": 52.48,
+      "imageUrl": "assets/images/bsky_3n2baj2i7ps2w_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2baj2i7ps2w_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sc",
       "sources": [
         {
-          "title": "SC: campanha reúne doações para indígenas atingidos por tempestades. Doações são recebidas em Florianópolis, Lages e Chapecó.",
-          "url": "https://bsky.app/profile/sul21.com.br/post/3n27jfe6his2y",
+          "title": "Fui professora, do maternal até 6 anos em Florianópolis e professora ensino fundamental ao medio no RJ. Se vc foi aluno num destes Lugares, pode ser.",
+          "url": "https://bsky.app/profile/dulcinea.bsky.social/post/3n2baj2i7ps2w",
           "subreddit": "bsky_sc"
         }
       ],
@@ -591,7 +610,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A campanha mostra solidariedade e organização da sociedade civil para ajudar os indígenas, que muitas vezes são esquecidos em situações de emergência. Doar é uma forma concreta de apoiar quem perdeu tudo nas tempestades.",
+          "text": "Achei bonito ela tentar reencontrar alunos depois de tanto tempo. Professora que passou por maternal, fundamental e médio em duas cidades diferentes deve ter histórias e memórias afetivas fortes, e essa busca mostra o quanto a relação em sala de aula marcou a vida dela.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -599,17 +618,21 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Doações emergenciais são importantes, mas não resolvem o problema de fundo: a falta de infraestrutura e de políticas públicas para proteger as comunidades indígenas dos eventos climáticos extremos, que tendem a se repetir.",
+          "text": "Fiquei com o pé atrás com esse tipo de postagem. Uma pessoa que se diz ex-professora e pede para ser identificada por alunos em duas cidades diferentes pode estar atrás de atenção ou até de dados pessoais, e quem responde acaba se expondo sem necessidade.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A iniciativa é válida, mas é preciso saber como as doações serão distribuídas e se vão chegar de fato às aldeias atingidas. Transparência na prestação de contas é essencial para que a ajuda tenha efeito real.",
+          "text": "A coincidência de nome atrapalha na hora de confirmar. Quem mora em outra cidade, como no Paraná, não tem como saber se é a mesma pessoa, e a conversa acaba dependendo de detalhes como escola, ano e turma para não virar só uma suposição.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
