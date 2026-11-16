@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T18:44:08.435040+00:00",
+  "generatedAt": "2026-11-16T05:36:04.706140+00:00",
   "region": "br-go",
   "count": 10,
   "items": [
@@ -8,7 +8,7 @@
       "rank": 1,
       "title": "Panará foram empurrados para o norte por mineradoras, guerras e massacres",
       "label": "Panará · Deslocamento forçado e colapso demográfico",
-      "context": "No século XVIII, os Panará ocupavam grandes extensões do Brasil Central entre São Paulo, Minas Gerais, Goiás e Mato Grosso do Sul, mas foram sucessivamente empurrados para o norte por frentes mineradoras, guerras e massacres. Na década de 1970, a abertura da rodovia Cuiabá-Santarém (BR-163) e a chegada de garimpeiros e do Batalhão de Engenharia do Exército levaram a surtos de gripe, sarampo e diarreia que dizimaram a população, período lembrado na memória oral como 'o tempo em que todo mundo morreu'.",
+      "context": "No século XVIII, os Panará ocupavam grandes extensões do Brasil Central entre São Paulo, Minas Gerais, Goiás e Mato Grosso do Sul, mas foram sucessivamente empurrados para o norte por frentes mineradoras, guerras e massacres. Na década de 1970, a abertura da rodovia Cuiabá-Santarém (BR-163) e a chegada de garimpeiros levaram a surtos de gripe, sarampo e diarreia que dizimaram a população, período lembrado como \"o tempo em que todo mundo morreu\".",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/beatrizdiniz.bsky.social/post/3n2eczlgres2w",
@@ -31,7 +31,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A expedição da Funai foi enviada como medida de urgência para abrir caminho e evitar confrontos diante do avanço do Batalhão de Engenharia do Exército e das levas de trabalhadores na BR-163. Sem essa intervenção, o contato teria sido ainda mais violento e o colapso demográfico dos Panará, maior.",
+          "text": "A Funai agiu certo ao enviar uma expedição de urgência para abrir caminho e evitar confrontos com o Batalhão de Engenharia e os trabalhadores da BR-163. Sem essa medida, o contato teria sido ainda mais violento e o colapso demográfico dos Panará seria maior.",
           "source": "sintese",
           "evidence": [
             2
@@ -41,9 +41,10 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O avanço das máquinas e a chegada de garimpeiros na década de 1970 provocaram um colapso demográfico entre os Panará. Sem imunidade contra os vírus dos homens brancos, surtos de gripe, sarampo e diarreia dizimaram a população, e o período ficou gravado como 'o tempo em que todo mundo morreu'.",
+          "text": "O avanço das máquinas e a chegada de garimpeiros na década de 1970 destruíram o santuário de floresta alta e rios fartos que os Panará encontraram ao norte mato-grossense. A rodovia Cuiabá-Santarém foi rasgada sem imunização prévia, e as doenças dizimaram a tribo.",
           "source": "sintese",
           "evidence": [
+            1,
             3
           ],
           "votes": 0
@@ -51,7 +52,67 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O santuário de floresta alta e rios fartos que os Panará encontraram ao norte mato-grossense ruiu na década de 1970. A história mostra que mesmo áreas aparentemente protegidas não resistiram à pressão da rodovia e das frentes de ocupação.",
+          "text": "A história dos Panará mostra que o deslocamento forçado começou muito antes da BR-163, ainda no século XVIII, com mineradoras e guerras. O colapso dos anos 1970 foi só o capítulo mais grave de um processo longo, e a memória oral guarda esse fio inteiro.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2erywcck22b",
+      "rank": 2,
+      "title": "Saudades de visitar lugares, me chamem para lugares",
+      "label": "Saudade de viajar e convites",
+      "context": "Uma pessoa publicou no Bluesky a frase \"saudades de visitar lugares me chamem para lugares\", dizendo estar postando direto de um ônibus a caminho de algum lugar, mas sem ter sido convidada. O post mistura o desejo de conhecer novos lugares com a queixa bem-humorada de não receber convites.",
+      "source": "bluesky",
+      "subreddit": "bsky_go",
+      "permalink": "https://bsky.app/profile/choobles.bsky.social/post/3n2erywcck22b",
+      "createdAt": "2026-11-15T19:51:52.445000+00:00",
+      "rawScore": 0.8476463859462899,
+      "relevanceScore": 0.9418293177180999,
+      "suggestedRadius": 94.23,
+      "imageUrl": "assets/images/bsky_3n2erywcck22b_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2erywcck22b_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-go",
+      "sources": [
+        {
+          "title": "saudades de visitar lugares me chamem para lugares",
+          "url": "https://bsky.app/profile/choobles.bsky.social/post/3n2erywcck22b",
+          "subreddit": "bsky_go"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A frase é um convite aberto e bem-humorado: a pessoa está no ônibus, querendo companhia para explorar lugares novos. Quem ler e tiver um programa legal devia chamar mesmo, porque esse tipo de post é um jeito leve de dizer que está disponível para sair.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Reclamar que não foi convidado enquanto já está indo para algum lugar soa contraditório. Se a pessoa quer ser chamada, o caminho é convidar os outros também, não só esperar que os convites caiam do céu. Relacionamento se constrói dos dois lados.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O post funciona mais como desabafo do que como pedido real de convite. A pessoa está no ônibus, provavelmente voltando ou indo resolver algo, e a frase é só uma forma de expressar vontade de sair mais. Não precisa ser lido como cobrança de ninguém.",
           "source": "sintese",
           "evidence": [
             1
@@ -63,26 +124,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2eneegoic2n",
-      "rank": 2,
-      "title": "Preconceito é tanto que se recusa a passar dentro de Goiás",
-      "label": "Preconceito e recusa de atravessar Goiás",
-      "context": "Um post no Bluesky afirma que o preconceito é tão grande que alguém se recusa a passar dentro de Goiás. A publicação viralizou e gerou discussão sobre a existência de preconceito regional contra o estado.",
+      "id": "bsky_3n2eoqjurrc2z",
+      "rank": 3,
+      "title": "Guru já tinha Lei de Minerais Críticos de Goiás pronta para governo Tariflávio",
+      "label": "Minerais críticos · Plano de governo",
+      "context": "Um post no Bluesky afirma que textos de um \"guru\" já traziam pronta uma Lei de Minerais Críticos de Goiás e uma Autoridade de Minerais Críticos para um possível governo Tariflávio. A publicação sugere que o material antecipa estruturas de governo antes mesmo da eleição.",
       "source": "bluesky",
       "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/mahoushojokuroki.bsky.social/post/3n2eneegoic2n",
-      "createdAt": "2026-11-15T18:28:42.052000+00:00",
-      "rawScore": 0.7152276340490793,
-      "relevanceScore": 0.7946973711656437,
-      "suggestedRadius": 89.49,
-      "imageUrl": "assets/images/bsky_3n2eneegoic2n_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2eneegoic2n_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/followlori.bsky.social/post/3n2eoqjurrc2z",
+      "createdAt": "2026-11-15T18:53:24.147000+00:00",
+      "rawScore": 0.564318155136896,
+      "relevanceScore": 0.6270201723743288,
+      "suggestedRadius": 83.51,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-go",
       "sources": [
         {
-          "title": "Preconceito é tanto que se recusa a passar dentro de goias!!!",
-          "url": "https://bsky.app/profile/mahoushojokuroki.bsky.social/post/3n2eneegoic2n",
+          "title": "Esse guru não escreve uma letrinha sem estar bem acomodado, agente sempre descobre algo novo com esses textos dele. Lei de Mineirais Criticos de Goiás e Autoridade de Minerais Críticos, já estava tudo pronto em um possível governo Tariflávio. Esse senhor é perigoso.",
+          "url": "https://bsky.app/profile/followlori.bsky.social/post/3n2eoqjurrc2z",
           "subreddit": "bsky_go"
         }
       ],
@@ -90,7 +151,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A recusa em atravessar Goiás revela um preconceito real contra o estado e sua população. Quem evita a região por medo ou desdém demonstra desconhecimento e reforça estereótipos que prejudicam a imagem local.",
+          "text": "Ter a Lei de Minerais Críticos de Goiás e a Autoridade de Minerais Críticos já redigidas mostra preparo de quem pensa o setor mineral a sério, em vez de improvisar depois de eleito. Planejamento antecipado para um governo Tariflávio é sinal de que a pauta não nasce no vácuo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -98,7 +159,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A frase do post é vaga e não aponta nenhum caso concreto de recusa. Acusar preconceito sem provas desvia a atenção de problemas reais e ainda pode ser usada para atacar quem tem críticas legítimas à região.",
+          "text": "Um guru que só escreve quando está bem acomodado e já entrega lei e autoridade prontas para um possível governo Tariflávio revela como esses textos servem a um projeto de poder, não ao debate público. Esse senhor é perigoso justamente porque age nos bastidores.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -106,7 +167,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post não deixa claro quem se recusa a passar por Goiás nem qual seria o motivo. Sem esse contexto, fica difícil avaliar se é preconceito ou outra questão, e a discussão acaba girando em torno de suposições.",
+          "text": "Descobrir que a Lei de Minerais Críticos de Goiás e a Autoridade de Minerais Críticos já estavam prontas em um possível governo Tariflávio diz mais sobre o método do guru do que sobre o conteúdo. Vale separar o que é proposta técnica do que é articulação política antes de julgar.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -117,17 +178,17 @@
     },
     {
       "id": "bsky_3n2e2kzvru227",
-      "rank": 3,
+      "rank": 4,
       "title": "Preço de hortifruti varia todo ano por causa do clima e do mercado",
-      "label": "Sazonalidade de preços · Morango em Brasília e Goiânia",
-      "context": "O preço de hortifruti varia ao longo do ano conforme o clima e as condições de mercado. Em Brasília e Goiânia, o morango fica mais barato em agosto e setembro, auge da seca, e encarece no período chuvoso.",
+      "label": "Variação sazonal de hortifruti · Brasília e Goiânia",
+      "context": "O preço de hortifruti varia todo ano por causa do clima e das variações de mercado, e em Brasília e Goiânia o morango fica super barato em agosto/setembro, auge da seca, e encarece no período chuvoso. Essa sazonalidade afeta diretamente o bolso de quem compra e a renda de quem vende, exigindo planejamento em ambas as pontas.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/rinaldocosta.bsky.social/post/3n2e2kzvru227",
       "createdAt": "2026-11-15T12:52:25.940000+00:00",
-      "rawScore": 0.34541611530386956,
-      "relevanceScore": 0.559902628195539,
-      "suggestedRadius": 80.9,
+      "rawScore": 0.3948687453439198,
+      "relevanceScore": 0.614849994906706,
+      "suggestedRadius": 83.05,
       "imageUrl": "assets/images/bsky_3n2e2kzvru227_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2e2kzvru227_reddit_thumb.jpg",
       "category": "economia",
@@ -153,7 +214,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Quem acompanha a sazonalidade consegue economizar de verdade: o morango em agosto e setembro, no auge da seca, fica super barato em Brasília e Goiânia. Vale planejar as compras e aproveitar essa janela de preços baixos.",
+          "text": "A sazonalidade do morango em Brasília e Goiânia é uma oportunidade clara: em agosto e setembro, no auge da seca, dá para comprar muito mais barato e aproveitar para fazer estoque ou receitas. Quem entende o ciclo do clima economiza de verdade e ainda come fruta de melhor qualidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -161,7 +222,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Depender do clima para o preço do hortifruti é ruim demais para o consumidor: no período chuvoso o morango encarece e pesa no orçamento. A variação anual acaba penalizando quem precisa comprar sempre, sem poder esperar a safra.",
+          "text": "Depender do clima para definir preço é um problema para quem vive do campo: na seca o morango fica barato demais e o produtor ganha pouco; na chuva, encarece e o consumidor reclama. Sem políticas de armazenamento ou irrigação, a variação anual vira montanha-russa de renda e de acesso.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -169,7 +230,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A variação de preço do morango entre seca e chuva faz sentido, mas o impacto depende da região e da oferta local. Em Brasília e Goiânia o padrão é claro, porém cada mercado e cada safra podem mudar esse comportamento.",
+          "text": "A variação de preço do morango entre seca e chuva é real, mas o impacto depende muito de onde se compra: feiras e produtores locais sentem mais o clima, enquanto supermercados com cadeia de frio e importação podem segurar o preço. Então a sazonalidade existe, mas não atinge todo mundo igual.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -180,17 +241,17 @@
     },
     {
       "id": "bsky_3n2e5iz45wc2h",
-      "rank": 4,
+      "rank": 5,
       "title": "Ser mineira e morar em Goiânia: o que eu não faço para beijar e dar para mulher",
-      "label": "Mineira em Goiânia · Beijar e dar para mulher",
-      "context": "Uma mulher mineira que mora em Goiânia publicou no Bluesky uma lista de coisas que faz para beijar e dar para mulher. O post virou assunto entre os usuários da rede, que reagiram à imagem publicada junto com o texto.",
+      "label": "Ser mineira em Goiânia · Beijar e dar",
+      "context": "Uma mineira que mora em Goiânia publicou um post falando sobre o que ela não faz para beijar e dar para mulher. O post gerou reações de humor entre os seguidores.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/catboyy.org/post/3n2e5iz45wc2h",
       "createdAt": "2026-11-15T13:44:59.947000+00:00",
-      "rawScore": 0.4039298923686741,
-      "relevanceScore": 0.448810991520749,
-      "suggestedRadius": 76.2,
+      "rawScore": 0.43929597388794817,
+      "relevanceScore": 0.4881066376532757,
+      "suggestedRadius": 77.92,
       "imageUrl": "assets/images/bsky_3n2e5iz45wc2h_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2e5iz45wc2h_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -206,7 +267,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A imagem que ela publicou junto com o texto é sensacional e deixa o post ainda mais engraçado. Esse tipo de humor sobre a vida de mineira em Goiânia é o que faz a rede valer a pena.",
+          "text": "A imagem que ela postou ficou sensacional e o jeito dela de contar a situação é engraçado demais, do tipo que a gente compartilha na hora com as amigas.",
           "source": "sintese",
           "evidence": [
             1
@@ -216,7 +277,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O post apela para um humor repetitivo sobre ser mineira e morar em Goiânia, e a imagem só serve para chamar atenção. Esse tipo de conteúdo não acrescenta nada e ainda reforça estereótipos regionais.",
+          "text": "Esse tipo de post apela para um humor forçado e repetitivo, e a piada sobre ser mineira em Goiânia já virou clichê que não acrescenta nada.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -224,11 +285,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O texto é uma brincadeira pessoal sobre a rotina de quem é mineira e mora em Goiânia, e a reação depende de conhecer esse contexto. A imagem publicada é o que mais chamou atenção nos comentários, mais do que a lista em si.",
+          "text": "O post funciona como desabafo bem-humorado de quem se mudou e está se adaptando à cidade, mas o assunto rende mais como conversa entre amigos do que como debate público.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -236,23 +295,81 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2bwiey7xs22",
-      "rank": 5,
-      "title": "Brota aqui em Goiânia então, se não terei de te caçar",
-      "label": "Piada e ameaça em Goiânia",
-      "context": "Um post no Bluesky diz 'Brota aqui em Goiânia então, se não terei de te caçar', marcado como piada. A frase gerou comentários sobre a intenção de viralizar e sobre um convite para comer lanchinho.",
+      "id": "bsky_3n2eneegoic2n",
+      "rank": 6,
+      "title": "Preconceito é tanto que se recusa a passar dentro de Goiás",
+      "label": "Recusa de passagem por Goiás · Preconceito",
+      "context": "Uma publicação no Bluesky afirma que o preconceito é tamanho que alguém se recusa a passar dentro de Goiás. O post viraliza ao tratar a recusa de atravessar o estado como sinal de preconceito.",
       "source": "bluesky",
       "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/catboyy.org/post/3n2bwiey7xs22",
-      "createdAt": "2026-11-14T16:34:01.646000+00:00",
-      "rawScore": 0.07366898729204209,
-      "relevanceScore": 0.2579613748490641,
-      "suggestedRadius": 66.47,
+      "permalink": "https://bsky.app/profile/mahoushojokuroki.bsky.social/post/3n2eneegoic2n",
+      "createdAt": "2026-11-15T18:28:42.052000+00:00",
+      "rawScore": 0.3940946405300134,
+      "relevanceScore": 0.4378829339222371,
+      "suggestedRadius": 75.7,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-go",
       "sources": [
+        {
+          "title": "Preconceito é tanto que se recusa a passar dentro de goias!!!",
+          "url": "https://bsky.app/profile/mahoushojokuroki.bsky.social/post/3n2eneegoic2n",
+          "subreddit": "bsky_go"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A recusa de passar por Goiás escancara um preconceito que muita gente prefere ignorar. Quem evita o estado por causa de sua origem ou de seus moradores está reproduzindo exatamente o tipo de discriminação que deveria ser combatido.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Recusar-se a passar por Goiás não é necessariamente preconceito: pode ser medo, falta de informação ou até uma escolha pessoal de rota. Chamar qualquer recusa de preconceito simplifica demais uma decisão que tem várias motivações possíveis.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Falta saber quem se recusa a passar por Goiás e por qual motivo. Sem esse contexto, o post pode tanto denunciar um preconceito real quanto apenas interpretar de forma exagerada uma escolha de viagem comum.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2aer6qmlc22",
+      "rank": 7,
+      "title": "Em Goiânia, queriam criar uma medalha \"Charlie Kirk\". Patriotas, né?",
+      "label": "Medalha Charlie Kirk em Goiânia",
+      "context": "Em Goiânia, surgiu a proposta de criar uma medalha em homenagem a Charlie Kirk, conforme relatado em posts de 13 e 14 de novembro de 2026. A iniciativa gerou reações nas redes sociais, com críticas à motivação por trás da homenagem.",
+      "source": "bluesky",
+      "subreddit": "bsky_go",
+      "permalink": "https://bsky.app/profile/gumihooppa.bsky.social/post/3n2aer6qmlc22",
+      "createdAt": "2026-11-14T01:44:10.580000+00:00",
+      "rawScore": 0.13818354436848473,
+      "relevanceScore": 0.32964421604511146,
+      "suggestedRadius": 70.45,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-go",
+      "sources": [
+        {
+          "title": "Aqui em Goiânia eles queriam criar uma medalha \"Charlie Kirk\". Patriotas, né?",
+          "url": "https://bsky.app/profile/gumihooppa.bsky.social/post/3n2aer6qmlc22",
+          "subreddit": "bsky_go"
+        },
         {
           "title": "Brota aqui em Goiânia então n //piada Se não terei de te caçar.",
           "url": "https://bsky.app/profile/catboyy.org/post/3n2bwiey7xs22",
@@ -262,28 +379,21 @@
           "title": "Então segura essa chatice e fique feliz como seu sócio, oh filha da puta. Caralho bicho eu perdi o rumo aqui em Goiânia lendo isso.",
           "url": "https://bsky.app/profile/aironjaso.bsky.social/post/3n27lhykvvs2w",
           "subreddit": "bsky_go"
-        },
-        {
-          "title": "Aqui em Goiânia eles queriam criar uma medalha \"Charlie Kirk\". Patriotas, né?",
-          "url": "https://bsky.app/profile/gumihooppa.bsky.social/post/3n2aer6qmlc22",
-          "subreddit": "bsky_go"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A piada é inofensiva e o comentário que convida para um lanchinho mostra que o tom é de brincadeira, não de ameaça real. Quem leva isso a sério está perdendo o contexto de humor.",
+          "text": "A proposta de uma medalha \"Charlie Kirk\" em Goiânia é uma forma de reconhecer publicamente alguém que defende ideias patrióticas e merece homenagem. A iniciativa mostra que a cidade valoriza lideranças alinhadas com esses princípios.",
           "source": "sintese",
-          "evidence": [
-            2
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Quem posta 'vou te caçar' só quer chamar atenção e viralizar, mas o conteúdo não acrescenta nada. Esse tipo de frase reforça um clima de hostilidade desnecessário.",
+          "text": "Criar uma medalha \"Charlie Kirk\" em Goiânia parece mais uma jogada para viralizar e inflar egos do que uma homenagem séria. A proposta não acrescenta nada de concreto e só serve para gerar números nas redes.",
           "source": "sintese",
           "evidence": [
             1
@@ -293,7 +403,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A frase pode ser só uma piada, mas o contexto de Goiânia e a menção a 'caçar' podem ser mal interpretados. O comentário sobre lanchinho sugere que a intenção era outra, mas a forma como foi escrita deixa dúvida.",
+          "text": "A ideia da medalha \"Charlie Kirk\" em Goiânia merece uma discussão mais aprofundada sobre seus reais objetivos e impactos. Sem clareza sobre o que a homenagem representa, fica difícil apoiar ou criticar de forma fundamentada.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -304,19 +414,19 @@
     },
     {
       "id": "bsky_3n2dkw5etyc2l",
-      "rank": 6,
-      "title": "Comentário diz que descrição parece goianos e quer acabar com pequi de Goiás",
-      "label": "Pequi de Goiás · Crítica em post",
-      "context": "Um post no Bluesky afirma que uma descrição parece se referir aos goianos e que seria uma forma de acabar com o pequi de Goiás. A publicação gerou reações, incluindo um comentário que compara a situação com o Paraná.",
+      "rank": 8,
+      "title": "Post diz que descrição parece goianos e quer acabar com pequi de Goiás",
+      "label": "Pequi de Goiás · Crítica em post viral",
+      "context": "Um post no Bluesky afirma que uma descrição 'parece tá descrevendo os goianos' e que 'é pra acabar com o pequi do Goiás'. A publicação usa emojis de nojo e viralizou entre goianos, que reagiram ao tom ofensivo à culinária e à identidade do estado.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/alvany.bsky.social/post/3n2dkw5etyc2l",
       "createdAt": "2026-11-15T08:12:20.040000+00:00",
-      "rawScore": 0.1660907778805386,
-      "relevanceScore": 0.18454530875615402,
-      "suggestedRadius": 61.78,
-      "imageUrl": "assets/images/bsky_3n2dkw5etyc2l_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2dkw5etyc2l_wiki_thumb.jpg",
+      "rawScore": 0.2211663570521317,
+      "relevanceScore": 0.24574039672459078,
+      "suggestedRadius": 65.74,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-go",
       "sources": [
@@ -330,27 +440,23 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O pequi é um símbolo de Goiás e qualquer coisa que ameace ou desvalorize esse patrimônio cultural precisa ser criticada. A postagem acerta ao apontar que a descrição ofende os goianos e desrespeita a culinária local.",
+          "text": "O pequi é patrimônio da culinária goiana e merece respeito. Quem critica sem conhecer o sabor e a tradição por trás do fruto só reforça preconceito contra a cultura do Centro-Oeste.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A comparação com os goianos é exagerada e generaliza. Cada estado tem suas tradições e o comentário do Paraná mostra que o problema não é exclusivo de Goiás. É preciso evitar criar rivalidade entre regiões por causa de uma descrição.",
+          "text": "A piada é infeliz porque generaliza os goianos e reduz a identidade do estado a um fruto. Brincadeiras assim alimentam estereótipos e não contribuem para o debate público.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A discussão sobre o pequi e a identidade goiana é válida, mas o comentário do Paraná sugere que o fenômeno não é local. Talvez a descrição se aplique a várias regiões, e o foco deveria ser entender o contexto original em vez de criar uma disputa entre estados.",
+          "text": "Aqui no Paraná também temos costumes parecidos com os descritos no post, então a comparação pode ser só uma forma de humor regional. O problema é o tom de nojo, que ofende quem gosta do pequi.",
           "source": "sintese",
           "evidence": [
             1
@@ -363,17 +469,17 @@
     },
     {
       "id": "bsky_3n2766lg4oc2t",
-      "rank": 7,
+      "rank": 9,
       "title": "Hoje: festa forrozeira em Goiânia no Shiva",
       "label": "Festa forrozeira em Goiânia",
-      "context": "O Shiva, em Goiânia, promove nesta sexta-feira, 13, uma festa com o grupo Papangu e programação de forró. O evento é divulgado como opção de lazer noturno na cidade.",
+      "context": "Nesta sexta-feira, 13, o Shiva em Goiânia recebe uma festa forrozeira com a participação de Papangu. O evento é divulgado como atração da noite na cidade.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/papangu.bandcamp.com/post/3n2766lg4oc2t",
       "createdAt": "2026-11-13T14:13:36.872000+00:00",
-      "rawScore": 0.043906157275017586,
-      "relevanceScore": 0.1598957303055751,
-      "suggestedRadius": 59.99,
+      "rawScore": 0.08152457465187013,
+      "relevanceScore": 0.20169397183541127,
+      "suggestedRadius": 62.95,
       "imageUrl": "assets/images/bsky_3n2766lg4oc2t_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2766lg4oc2t_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -394,7 +500,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Uma festa de forró em Goiânia numa sexta-feira 13 é o programa ideal para quem gosta de música ao vivo e quer sair sem gastar muito. O Shiva acerta ao trazer o Papangu, que tem presença de palco e anima o público.",
+          "text": "Uma festa forrozeira em Goiânia com Papangu é uma ótima pedida para a sexta-feira 13. O Shiva costuma trazer programações animadas e essa é uma chance de curtir um forró ao vivo na cidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -402,7 +508,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O forró que o Papangu toca é mais pop do que raiz, e isso descaracteriza o ritmo. Quem procura uma festa tradicional em Goiânia acaba encontrando um som que não representa a cultura local.",
+          "text": "O evento é divulgado em cima da hora, o que atrapalha quem precisa se organizar. Além disso, não há informações claras sobre horário e preço, o que deixa a divulgação incompleta para o público.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -410,7 +516,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O evento pode agradar quem curte forró, mas a divulgação é confusa: o título fala em 'prog forrozeiro' e o post seguinte cita Papangu. Sem mais detalhes sobre horário e preço, fica difícil decidir se vale a pena.",
+          "text": "A programação existe, mas depende do estilo musical que a pessoa gosta. Para quem curte forró, pode ser uma opção; para outros, não desperta interesse. O ideal é verificar detalhes antes de decidir.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -421,17 +527,17 @@
     },
     {
       "id": "bsky_3n2adaxych22w",
-      "rank": 8,
+      "rank": 10,
       "title": "Stray Kids, Goiás, Slime Read e Desenho",
-      "label": "Stray Kids · Memória afetiva no Bluesky",
-      "context": "Posts no Bluesky citam Stray Kids, Goiás, Slime Read e Desenho, com menções a fotografia, breja, gatos, boy groups e bangchan. A publicação reacendeu lembranças antigas entre usuários, que comentam sobre a saudade do Slime Read e tentam recordar o contexto da interação.",
+      "label": "Stray Kids · Memes e nostalgia no Bluesky",
+      "context": "Posts no Bluesky citam Stray Kids, Goiás, Slime Read e Desenho em uma interação antiga que voltou a circular. A lembrança gerou reações nostálgicas e piadas entre quem participou da conversa original.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/lclflavor.bsky.social/post/3n2adaxych22w",
       "createdAt": "2026-11-14T01:17:11.982000+00:00",
-      "rawScore": 0.043811696551486146,
-      "relevanceScore": 0.15979077394609573,
-      "suggestedRadius": 59.98,
+      "rawScore": 0.07624201194781467,
+      "relevanceScore": 0.1958244577197941,
+      "suggestedRadius": 62.55,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -452,7 +558,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Slime Read deixou saudade de verdade, desceu uma lágrima aqui lembrando. Esses posts do Bluesky resgatam memórias afetivas que a gente nem sabia que ainda tinha guardado.",
+          "text": "Slime Read fez falta de verdade, bateu uma nostalgia aqui. Essas interações antigas do Bluesky eram o melhor da rede, e lembrar disso mostra como a comunidade deixou saudade.",
           "source": "sintese",
           "evidence": [
             1
@@ -462,7 +568,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Regata me pegou de um jeito que fiquei tentando pensar se uso tanto assim. A referência veio do nada e nem lembro o contexto, só sei que me marcou e agora não sai da cabeça.",
+          "text": "Regata me pegou de um jeito que nem sei se uso tanto assim, mas a piada foi boa. O problema é que ninguém lembra o contexto direito e a conversa vira só um monte de referência solta.",
           "source": "sintese",
           "evidence": [
             2,
@@ -473,136 +579,12 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Juro que tô tentando lembrar e não faço ideia do que seja essa interação antiga. O post marcou a galera, mas o contexto original se perdeu e cada um interpreta de um jeito.",
+          "text": "Tô tentando lembrar e não faço ideia de qual foi o contexto dessa interação. Foi algo antigo que marcou, mas sem a conversa original fica difícil entender por que voltou a circular agora.",
           "source": "sintese",
           "evidence": [
             3,
             4
           ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n22evffvbc2f",
-      "rank": 9,
-      "title": "Globo repetiu com Goiânia o que fez em 2014: novela no interior com gente a cavalo foi uma das piores das 21h",
-      "label": "Novela de Goiânia · Crítica a estereótipo",
-      "context": "Um post no Bluesky compara a abordagem da Globo com Goiânia à de 2014, quando a emissora gravou uma novela no interior com pessoas andando a cavalo, resultando em uma das piores novelas das 21h. A comparação sugere que a emissora repete uma representação estereotipada do interior, tratando a região como um lugar de cavalos e carroças.",
-      "source": "bluesky",
-      "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/lumendes.bsky.social/post/3n22evffvbc2f",
-      "createdAt": "2026-11-11T16:30:32.470000+00:00",
-      "rawScore": 0.03540905937491916,
-      "relevanceScore": 0.15045451041657684,
-      "suggestedRadius": 59.27,
-      "imageUrl": "assets/images/bsky_3n22evffvbc2f_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n22evffvbc2f_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-go",
-      "sources": [
-        {
-          "title": "A Globo fez a mesma coisa com Goiânia em 2014, foram pro interior gravar uma novela com gente andando a cavalo e foi uma das piores novelas das 21h",
-          "url": "https://bsky.app/profile/lumendes.bsky.social/post/3n22evffvbc2f",
-          "subreddit": "bsky_go"
-        },
-        {
-          "title": "Vc tá me dizendo que não tem engarrafamento de cavalo em Goiânia no horário de pico? Não acredito!",
-          "url": "https://bsky.app/profile/nvaidarcerto.bsky.social/post/3n22fsn5ucc23",
-          "subreddit": "bsky_go"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A Globo erra ao retratar Goiânia como um lugar de gente a cavalo, ignorando que a cidade tem trânsito e problemas urbanos como qualquer capital. Essa visão estereotipada do interior já rendeu uma novela ruim em 2014 e parece que a emissora não aprendeu.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A comparação com 2014 é exagerada: uma novela ambientada no interior não é necessariamente ruim por mostrar cavalos, e o público pode gostar de histórias regionais. Julgar a qualidade antes de ver é precipitado.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A piada sobre engarrafamento de cavalo e ruas com nome C+ número mostra que o debate virou meme, mas o fundo é sério: a representação da Globo pode reforçar clichês sobre Goiânia, mesmo que a intenção seja só ambientar a novela.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2,
-            3,
-            4
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n233fgo3ec2j",
-      "rank": 10,
-      "title": "Praia Clube Uberlândia vence Saneago Goiás Vôlei por 3 sets a 0",
-      "label": "Superliga Masculina · Praia Clube vence Goiás",
-      "context": "O Praia Clube Uberlândia venceu o Saneago Goiás Vôlei por 3 sets a 0 (25x15, 27x25 e 25x17) na terceira rodada do turno da Superliga Masculina. A vitória consolida o bom início do time mineiro na competição.",
-      "source": "bluesky",
-      "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/portalvolei.bsky.social/post/3n233fgo3ec2j",
-      "createdAt": "2026-11-11T23:13:22.177000+00:00",
-      "rawScore": 0.019879574215199255,
-      "relevanceScore": 0.13319952690577697,
-      "suggestedRadius": 57.9,
-      "imageUrl": "assets/images/bsky_3n233fgo3ec2j_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n233fgo3ec2j_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-go",
-      "sources": [
-        {
-          "title": "✅ FIM DO TERCEIRO SET! #VoleiNoSporTV 🏐 (3) 🟡 Praia Clube Uberlândia 25x17 Saneago Goiás Vôlei 🟢 (0)",
-          "url": "https://bsky.app/profile/portalvolei.bsky.social/post/3n233fgo3ec2j",
-          "subreddit": "bsky_go"
-        },
-        {
-          "title": "✅ FIM DE JOGO! 🏐 🟡 PRAIA CLUBE UBERLÂNDIA 3x0 SANEAGO GOIÁS VÔLEI 🟢 ➡️ (25x15, 27x25, 25x17) 🏆 Superliga Masculina | Rodada 03 | Turno",
-          "url": "https://bsky.app/profile/portalvolei.bsky.social/post/3n2344aq7as2j",
-          "subreddit": "bsky_go"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O Praia Clube mostrou domínio completo, vencendo os três sets com autoridade e fechando o jogo sem dar chance ao adversário. O placar de 25x15 no primeiro set já indicava o ritmo forte da equipe.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O Saneago Goiás Vôlei teve um desempenho fraco, especialmente no primeiro e terceiro sets, com placares muito abaixo do esperado. A equipe precisa reagir rápido para não se distanciar na tabela.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O segundo set foi o mais equilibrado, terminando em 27x25, o que mostra que o Goiás Vôlei conseguiu competir de igual para igual em parte da partida, apesar do resultado final.",
-          "source": "sintese",
-          "evidence": [],
           "votes": 0
         }
       ],

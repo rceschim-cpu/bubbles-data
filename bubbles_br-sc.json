@@ -1,23 +1,51 @@
 {
-  "generatedAt": "2026-11-15T18:44:08.435040+00:00",
+  "generatedAt": "2026-11-16T05:36:04.706140+00:00",
   "region": "br-sc",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n2e264o3nk2c",
+      "id": "bsky_3n2fpigngfs2j",
       "rank": 1,
+      "title": "Quero viajar quero viajaaaaarrrrrrr",
+      "label": "",
+      "context": "",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/eusouorik.bsky.social/post/3n2fpigngfs2j",
+      "createdAt": "2026-11-16T04:39:29.044000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n2fpigngfs2j_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2fpigngfs2j_reddit.jpg",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "Quero viajar quero viajaaaaarrrrrrr",
+          "url": "https://bsky.app/profile/eusouorik.bsky.social/post/3n2fpigngfs2j",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [],
+      "enrichedBy": "",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2e264o3nk2c",
+      "rank": 2,
       "title": "Governo do DF propõe orçamento de R$ 120 milhões para Museu da Bíblia",
       "label": "Museu da Bíblia · Orçamento do DF",
-      "context": "O governo do Distrito Federal apresentou um orçamento de R$ 120 milhões para construir um Museu da Bíblia em Brasília. A proposta gerou críticas nas redes, com comparações a outros gastos públicos e questionamentos sobre prioridades em meio a problemas na saúde e educação.",
+      "context": "O governo do Distrito Federal apresentou um orçamento de R$ 120 milhões para construir um Museu da Bíblia. A proposta gerou críticas nas redes, com comparações a outros gastos públicos e questionamentos sobre prioridades em meio a problemas financeiros e serviços precários.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/alinelks.bsky.social/post/3n2e264o3nk2c",
       "createdAt": "2026-11-15T12:45:11.943000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3n2e264o3nk2c_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2e264o3nk2c_uns_thumb.jpg",
+      "rawScore": 0.49034713095683774,
+      "relevanceScore": 0.6559412566187086,
+      "suggestedRadius": 84.59,
+      "imageUrl": "assets/images/bsky_3n2e264o3nk2c_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2e264o3nk2c_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sc",
       "sources": [
@@ -36,7 +64,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Um museu da Bíblia pode ser um espaço cultural e turístico importante para Brasília, atraindo visitantes e valorizando a fé de grande parte da população. O investimento em cultura também é papel do Estado, e o projeto pode gerar empregos e movimento na economia local.",
+          "text": "Um museu da Bíblia pode ser um espaço cultural e turístico importante para Brasília, atraindo visitantes e preservando patrimônio religioso. Se o projeto for bem executado, pode gerar retorno econômico e educacional para a cidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -44,23 +72,22 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Gastar R$ 120 milhões num museu da Bíblia enquanto escolas e hospitais estão sucateados é um desrespeito com o dinheiro público. O governo do DF falir o banco da cidade e agora quer bancar um projeto que ninguém pediu, mostrando prioridades totalmente invertidas.",
+          "text": "Gastar R$ 120 milhões num museu da Bíblia enquanto o banco da cidade quebra e escolas e hospitais estão sucateados é um desrespeito com o eleitor. O governo do DF mostra que suas prioridades não são as necessidades básicas da população.",
           "source": "sintese",
           "evidence": [
             1,
             3,
-            4
+            5
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A proposta precisa ser discutida com transparência: se o museu for viável e tiver apoio da população, pode ser positivo, mas é preciso comparar com outras demandas urgentes. O ideal é que a decisão passe por audiências públicas e não seja imposta de cima para baixo.",
+          "text": "A proposta precisa ser analisada com cuidado: se o projeto já foi engavetado antes, por que voltou agora? É preciso transparência sobre o custo real e se há previsão de retorno, antes de aprovar um gasto tão alto em meio a outras demandas.",
           "source": "sintese",
           "evidence": [
-            5,
-            7
+            5
           ],
           "votes": 0
         }
@@ -70,17 +97,17 @@
     },
     {
       "id": "bsky_3n25nvn3g6k2l",
-      "rank": 2,
+      "rank": 3,
       "title": "Jensen Huang pode virar deputado pelo PL em Santa Catarina, diz post",
       "label": "Jensen Huang · PL Santa Catarina",
-      "context": "Um post no Bluesky ironiza a atenção dada a Jensen Huang e sugere que ele pode se candidatar a deputado pelo PL em Santa Catarina. A brincadeira se conecta a comentários sobre a política catarinense, incluindo a reeleição do governador e a representação da esquerda no estado.",
+      "context": "Um post no Bluesky ironiza a atenção dada a Jensen Huang e sugere que ele pode se candidatar a deputado pelo PL em Santa Catarina. A brincadeira se conecta a críticas ao cenário político catarinense, marcado por forte apoio à direita e episódios de corrupção.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/aphelionn.bsky.social/post/3n25nvn3g6k2l",
       "createdAt": "2026-11-12T23:49:43.277000+00:00",
-      "rawScore": 0.16415811938035504,
-      "relevanceScore": 0.5521640572184427,
-      "suggestedRadius": 80.58,
+      "rawScore": 0.1519759784809477,
+      "relevanceScore": 0.5800221669945077,
+      "suggestedRadius": 81.7,
       "imageUrl": "assets/images/bsky_3n25nvn3g6k2l_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n25nvn3g6k2l_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -97,8 +124,8 @@
           "subreddit": "bsky_sc"
         },
         {
-          "title": "delegado Haroldo da Mata, tenente Quim (Joaquim) Kisuragui, investigador João Viquemario, cabo Judite Menina e o perito Trajano Heidelstam (de Santa Catarina)",
-          "url": "https://bsky.app/profile/moara.bsky.social/post/3n2bqdpxp5c2j",
+          "title": "Coitadas das pessoas de Santa Catarina, reelegeram um mentiroso para governador.",
+          "url": "https://bsky.app/profile/ribeirotrilhas.bsky.social/post/3n25d2dq5w224",
           "subreddit": "bsky_sc"
         }
       ],
@@ -106,103 +133,40 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A piada faz sentido porque o PL em Santa Catarina tem espaço para figuras inusitadas, e o Jensen Huang já é tratado como celebridade por aqui. Se ele se filiar, vira deputado fácil.",
+          "text": "A piada com o Jensen Huang é certeira: se ele entrar na política por Santa Catarina, vira mais um nome sem preparo para governar. O estado já reelegeu um mentiroso e tem histórico de prefeitos presos, então a zoeira é justa.",
           "source": "sintese",
           "evidence": [
-            6,
-            24,
-            25
+            2,
+            3,
+            9
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ficar dando palco para esse tipo de brincadeira só normaliza a ideia de que qualquer um pode virar deputado pelo PL, enquanto o estado elegge governador mentiroso e tem prefeitos presos. A piada esconde o problema real.",
-          "source": "sintese",
-          "evidence": [
-            3,
-            9,
-            15
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A esquerda catarinense cresceu nas últimas eleições, elegendo deputados federais e estaduais, então a ideia de que o estado é só de direita não se sustenta. A piada do Jensen Huang é só um exagero para criticar o cenário político.",
+          "text": "Ficar ironizando o Jensen Huang desvia o foco do que importa: a esquerda cresceu em Santa Catarina, elegendo deputados federais e estaduais. Pintar o estado como um desastre total é exagero e não reconhece a resistência que existe por aqui.",
           "source": "sintese",
           "evidence": [
             4,
             5,
-            16,
-            19
+            15,
+            18,
+            20
           ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2eex57ux226",
-      "rank": 3,
-      "title": "Não era sobre impostos, mas sobre o lucro da Faria Lima, e agora?",
-      "label": "Crítica à hipocrisia da elite de Florianópolis",
-      "context": "O post viraliza ao apontar que o debate não é sobre impostos, mas sobre o lucro da Faria Lima, e questiona como isso é explicado para uma moradora de Florianópolis que frequenta a We Are Reino e tem um quiosque na praia. A crítica expõe a contradição entre o discurso de liberdade e a rotina de trabalho de quem viaja em horário comercial.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/leosmi.bsky.social/post/3n2eex57ux226",
-      "createdAt": "2026-11-15T15:58:08.946000+00:00",
-      "rawScore": 0.27949071617572535,
-      "relevanceScore": 0.4345994792815664,
-      "suggestedRadius": 75.55,
-      "imageUrl": "assets/images/bsky_3n2eex57ux226_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2eex57ux226_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "nunca foi questão de impostos e sim o lucro da faria lima... agora vai falar isso pra dona maria que mora em florianópolis, frequenta a we are reino e tem um quiosque na praia...",
-          "url": "https://bsky.app/profile/leosmi.bsky.social/post/3n2eex57ux226",
-          "subreddit": "bsky_sc"
-        },
-        {
-          "title": "Carro rebaixado, som, eletrônica, Florianópolis e praia",
-          "url": "https://bsky.app/profile/mathenzbr.bsky.social/post/3n276kmkkj224",
-          "subreddit": "bsky_sc"
-        },
-        {
-          "title": "Estou no carro desde cedo, indo pra Florianópolis, viagenzinha de última hora que decidimos fazer essa semana, e eu só tô o tempo todo trabalhando por mim e pelo Cristian que tá dirigindo e não pode responder.",
-          "url": "https://bsky.app/profile/nativerso.com/post/3n24oda6mjs2f",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A crítica acerta em cheio: a tal liberdade pregada pela elite da Faria Lima não é tão livre assim, já que muitos viajam em horário de trabalho e ainda chamam isso de perrengue chique. É hipocrisia pura.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Viajar em horário de trabalho não é hipocrisia, é privilégio de quem pode trabalhar de qualquer lugar. A crítica ignora que muita gente tem essa flexibilidade e não deveria ser julgada por isso.",
-          "source": "sintese",
-          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A discussão sobre a dona Maria de Florianópolis mostra que o debate real é sobre quem paga a conta, mas o foco no perrengue chique desvia do ponto principal: o lucro da Faria Lima e a desigualdade.",
+          "text": "A brincadeira com o Jensen Huang é só uma forma de criticar o eleitorado catarinense, mas o problema é mais profundo: a população que vota nesses políticos também tem responsabilidade. Não adianta culpar só os eleitos se boa parte dos eleitores os apoia.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            7,
+            9,
+            26,
+            28
+          ],
           "votes": 0
         }
       ],
@@ -213,15 +177,15 @@
       "id": "bsky_3n2caxfmerk27",
       "rank": 4,
       "title": "Escola em SC adverte alunos por foto entre colegas após reclamação de pais",
-      "label": "Advertência escolar por foto · Reclamação de pais",
-      "context": "Uma escola em Santa Catarina advertiu disciplinarmente nove alunos após uma foto entre colegas, motivada por reclamação de pais. O caso gerou debate sobre liberdade de expressão e os limites do regimento escolar.",
+      "label": "Advertência escolar · foto de alunos em SC",
+      "context": "Uma escola em Santa Catarina advertiu disciplinarmente alunos após uma foto entre colegas, e a denúncia partiu de pais dos próprios estudantes. O caso gerou discussão sobre os limites da liberdade de expressão e o papel das instituições de ensino na formação dos alunos.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/hospiciobrasil.bsky.social/post/3n2caxfmerk27",
       "createdAt": "2026-11-14T19:41:25.147000+00:00",
-      "rawScore": 0.3631942725854342,
-      "relevanceScore": 0.3593559788589276,
-      "suggestedRadius": 71.97,
+      "rawScore": 0.2852348303771924,
+      "relevanceScore": 0.31692758930799153,
+      "suggestedRadius": 69.78,
       "imageUrl": "assets/images/bsky_3n2caxfmerk27_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2caxfmerk27_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -237,7 +201,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A escola deveria ser um espaço de formação democrática, e punir alunos por uma foto entre colegas vai contra esse papel. O regimento interno não pode se sobrepor ao direito constitucional de livre manifestação, e a advertência só reforça um ambiente autoritário.",
+          "text": "A escola deveria ser um espaço de formação de conceitos como democracia e liberdade de expressão, e não de punição por uma foto entre colegas. Advertir alunos por algo tão simples, sem uso do nome da escola ou propaganda da profissão, soa como censura disfarçada de regimento.",
           "source": "sintese",
           "evidence": [
             1,
@@ -248,7 +212,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A reação da escola foi desproporcional, mas o caso também revela que a instituição agiu de forma ideológica ao gravar vídeo se dizendo 'sem viés'. Se a foto não tinha conotação política, a advertência é perseguição e merece processo.",
+          "text": "O regimento da escola existe para ser cumprido, e os pais têm o direito de reclamar quando algo foge das regras. Se a instituição gravou vídeo explicando que a advertência está prevista no regimento, ela apenas aplicou o que está escrito, sem viés ideológico.",
           "source": "sintese",
           "evidence": [
             2,
@@ -259,7 +223,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Esse tipo de advertência não é exclusividade de Santa Catarina; é um reflexo de como escolas em todo o Brasil lidam com liberdade de expressão. O problema é estrutural e não se resolve apenas com processos contra uma instituição específica.",
+          "text": "Casos assim não são privilégio de Santa Catarina e acontecem em qualquer município do Brasil. O problema é estrutural: a reação de empregadores e instituições a fotos inocentes revela um país que ainda confunde liberdade de expressão com ameaça.",
           "source": "sintese",
           "evidence": [
             3,
@@ -272,18 +236,71 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n273uohtls2u",
+      "id": "bsky_3n2f44kk5hk2o",
       "rank": 5,
+      "title": "Fobia social preventiva em relação à ANPOF: vou a Florianópolis com um saco na cabeça amanhã",
+      "label": "Fobia social · ANPOF em Florianópolis",
+      "context": "O autor do post diz que vai a Florianópolis para a ANPOF (Associação Nacional de Pós-Graduação em Filosofia) e brinca que pretende usar um saco na cabeça por causa da fobia social preventiva. A piada expõe a ansiedade de encontrar colegas e conhecidos em um evento acadêmico de grande porte.",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/italoalves.com/post/3n2f44kk5hk2o",
+      "createdAt": "2026-11-15T22:52:46.473000+00:00",
+      "rawScore": 0.2798917534654282,
+      "relevanceScore": 0.3109908371838091,
+      "suggestedRadius": 69.46,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "Fobia social preventiva em relação à ANPOF. Vou pra Florianópolis com um saco na cabeça amanhã.",
+          "url": "https://bsky.app/profile/italoalves.com/post/3n2f44kk5hk2o",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O saco na cabeça é uma metáfora honesta: eventos como a ANPOF juntam muita gente conhecida e a fobia social preventiva é real. Melhor rir disso do que fingir que a ansiedade some só porque o encontro é acadêmico.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Ir para a ANPOF já é privilégio de quem tem vaga e verba; transformar o encontro em piada de saco na cabeça desvia do problema real, que é a pressão por produtividade e a exposição constante em eventos assim.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A brincadeira funciona como válvula de escape, mas vale lembrar que fobia social não é timidez passageira. Quem posta isso pode estar pedindo acolhimento, e o evento poderia ter espaços mais tranquilos para quem sofre com multidões.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n273uohtls2u",
+      "rank": 6,
       "title": "Prefeitura de Florianópolis banca show de Ana Castela por R$ 1,7 milhão no Réveillon",
-      "label": "Show de Ana Castela · Gastos públicos",
-      "context": "A Prefeitura de Florianópolis contratou o show de Ana Castela para o Réveillon por R$ 1,7 milhão, valor superior ao que a cidade investiu em apoio à causa autista e em exames de ressonância magnética. O gasto gerou críticas nas redes sociais, com questionamentos sobre a prioridade do dinheiro público.",
+      "label": "Show de Ana Castela · gasto público no Réveillon",
+      "context": "A Prefeitura de Florianópolis contratou o show de Ana Castela para o Réveillon por R$ 1,7 milhão, valor superior ao investido pela cidade em apoio à causa autista e em exames de ressonância magnética. O gasto gerou críticas nas redes sociais, com comparações entre o custo do evento e os recursos destinados a serviços de saúde.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/blogdonoblat.bsky.social/post/3n273uohtls2u",
       "createdAt": "2026-11-13T13:32:24.370000+00:00",
-      "rawScore": 0.15896554864926984,
-      "relevanceScore": 0.2544990249305014,
-      "suggestedRadius": 66.27,
+      "rawScore": 0.14250041067809896,
+      "relevanceScore": 0.2694449007534433,
+      "suggestedRadius": 67.14,
       "imageUrl": "assets/images/bsky_3n273uohtls2u_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n273uohtls2u_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -312,10 +329,11 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Gastar R$ 1,7 milhão em um único show é um desrespeito com áreas essenciais como saúde e apoio à causa autista. A prefeitura deveria priorizar serviços básicos e exames de ressonância magnética, que têm demanda reprimida.",
+          "text": "Gastar R$ 1,7 milhão em um único show enquanto faltam recursos para exames de ressonância magnética e apoio à causa autista é um desrespeito com a população. A prefeitura deveria priorizar serviços essenciais e não festas.",
           "source": "sintese",
           "evidence": [
             1,
+            2,
             6,
             7
           ],
@@ -324,12 +342,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A falta de transparência nos critérios de contratação e a possibilidade de emendas parlamentares direcionadas levantam dúvidas sobre a real necessidade e o custo-benefício do show. A população precisa cobrar explicações e fiscalizar.",
+          "text": "A escolha do show e o valor contratado deveriam ser discutidos com a população. Talvez fosse melhor investir em artistas locais ou criar regras claras para gastos com eventos, garantindo transparência e prioridade nas necessidades básicas.",
           "source": "sintese",
           "evidence": [
             3,
-            4,
-            8
+            4
           ],
           "votes": 0
         }
@@ -338,18 +355,71 @@
       "promptVersion": 2
     },
     {
+      "id": "bsky_3n2fabzp2ls2s",
+      "rank": 7,
+      "title": "Preciso acabar com o transporte público da Grande Florianópolis com minhas próprias mãos e depois construir um modelo melhor",
+      "label": "Transporte público de Florianópolis · Proposta de reconstruç",
+      "context": "Um usuário do Bluesky declarou que precisa acabar com o sistema de transporte público da Grande Florianópolis com as próprias mãos e, depois, usá-lo para construir um modelo melhor. A declaração foi feita em tom de desabafo e não apresenta detalhes sobre como essa substituição seria feita.",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/sohfes.bsky.social/post/3n2fabzp2ls2s",
+      "createdAt": "2026-11-16T00:07:24.651000+00:00",
+      "rawScore": 0.20987751575159225,
+      "relevanceScore": 0.23319723972399137,
+      "suggestedRadius": 64.97,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "eu preciso acabar com o sistema de transporte público da grande Florianópolis com MINHAS PRÓPRIAS MÕES (e depois uso pra construir um modelo melhor)",
+          "url": "https://bsky.app/profile/sohfes.bsky.social/post/3n2fabzp2ls2s",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O sistema de transporte da Grande Florianópolis está tão defasado que precisa mesmo de uma reformulação completa. Destruir o modelo atual para construir um melhor é o único jeito de resolver os problemas de mobilidade.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Acabar com o transporte público sem um plano concreto é irresponsável. Milhares de pessoas dependem dele diariamente, e uma proposta vaga como essa só gera insegurança sobre o futuro da mobilidade na região.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A ideia de construir um modelo melhor é válida, mas precisa ser discutida com dados e participação popular. Sem detalhes sobre como fazer a transição, fica difícil apoiar ou criticar a proposta com seriedade.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
       "id": "bsky_3n26wlhuns22t",
-      "rank": 6,
-      "title": "Prefeito de Florianópolis paga show de artista e é criticado por gasto e pose ao lado de bandido",
-      "label": "Show de artista em Florianópolis · Críticas ao gasto público",
-      "context": "O prefeito de Florianópolis autorizou o pagamento de um show artístico na cidade, e uma foto da artista ao lado de um homem identificado como bandido gerou críticas nas redes. O caso levanta discussão sobre o uso de dinheiro público para eventos culturais e a associação da contratada com figuras criminosas.",
+      "rank": 8,
+      "title": "Prefeito de Florianópolis paga show de cantora com dinheiro público",
+      "label": "Show pago pela prefeitura · Florianópolis",
+      "context": "A prefeitura de Florianópolis pagou um show da cantora Katarrina, com valor acima do que ela costuma receber em outras apresentações. A crítica cresce porque a artista aparece em foto ao lado de uma pessoa que o post chama de bandido, e o gasto público virou o centro da discussão.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/hospiciobrasil.bsky.social/post/3n26wlhuns22t",
       "createdAt": "2026-11-13T11:57:47.978000+00:00",
-      "rawScore": 0.1640534653535546,
-      "relevanceScore": 0.1590148669215723,
-      "suggestedRadius": 59.93,
+      "rawScore": 0.14785145687274104,
+      "relevanceScore": 0.16427939652526782,
+      "suggestedRadius": 60.32,
       "imageUrl": "assets/images/bsky_3n26wlhuns22t_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n26wlhuns22t_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -365,85 +435,33 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O prefeito tem o direito de contratar shows para a cidade, e a artista é uma profissional reconhecida. A foto ao lado de um bandido não prova envolvimento com crime, e criticar o gasto sem conhecer o contrato é precipitado.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O valor pago a essa artista é muito mais alto que os outros shows dela, o que levanta suspeita de rachadinha. Além disso, a prefeitura não pode gastar dinheiro público com pseudoarte de mau gosto e ainda posar ao lado de bandido.",
+          "text": "O problema não é o show em si, é o critério: pagar mais caro do que ela cobra em outras apresentações e ainda por cima com dinheiro público levanta suspeita de rachadinha. Se é para financiar música, que passe pela Rouanet ou tenha limite por público, como qualquer cidade pequena faria.",
           "source": "sintese",
           "evidence": [
             3,
-            4,
             8
           ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O problema não é só o show, mas a falta de critério: se é para financiar música, que se use a Lei Rouanet ou se limite o valor com base no público. Cidades pequenas não deveriam pagar milhões para artistas famosos.",
-          "source": "sintese",
-          "evidence": [
-            8
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2e2ohf6as2x",
-      "rank": 7,
-      "title": "Time de futebol de Florianópolis tem Gustavo Kuerten como torcedor ilustre",
-      "label": "Gustavo Kuerten · Torcedor de time de Florianópolis",
-      "context": "O tenista Gustavo Kuerten, tricampeão de Roland Garros, é apontado como o torcedor mais famoso de um time de futebol de Florianópolis. A ligação entre o ídolo do tênis e o clube catarinense é o que desperta curiosidade no post.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/stoicchicken.bsky.social/post/3n2e2ohf6as2x",
-      "createdAt": "2026-11-15T12:54:21.542000+00:00",
-      "rawScore": 0.14935127804859946,
-      "relevanceScore": 0.1442240634015469,
-      "suggestedRadius": 58.79,
-      "imageUrl": "assets/images/bsky_3n2e2ohf6as2x_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2e2ohf6as2x_uns_thumb.jpg",
-      "category": "esportes",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "É o time de futebol de Florianópolis cujo torcedor mais ilustre é o Gustavo Kuerten do tênis.",
-          "url": "https://bsky.app/profile/stoicchicken.bsky.social/post/3n2e2ohf6as2x",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Ter o Gustavo Kuerten como torcedor mais ilustre dá outra visibilidade ao time de Florianópolis, porque ele é um nome reconhecido no mundo inteiro e isso ajuda a divulgar o clube fora de Santa Catarina.",
-          "source": "sintese",
-          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ficar lembrando o time só pelo torcedor famoso esconde o que realmente importa, que é a campanha do clube em campo. O Gustavo Kuerten é ídolo do tênis, mas isso não diz nada sobre a força do futebol catarinense.",
+          "text": "A prefeitura arromba os cofres para premiar uma apresentação de gosto duvidoso, e a artista ainda posa ao lado de um bandido. Florianópolis não precisa disso, e o valor pago acima do normal só confirma que o dinheiro público está sendo usado para favorecer gente próxima do poder.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1,
+            4
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A associação entre o Kuerten e o time de Florianópolis é curiosa, mas o post confunde um pouco: tem gente falando de uma cidade pequena e de outro clube ao mesmo tempo, então vale confirmar de qual time exatamente se está tratando.",
+          "text": "O caso de Florianópolis é mais um entre tantos: Santa Catarina e São Paulo se superam todo dia em gastos questionáveis, e quando a gente pensa que está ruim, os governos fazem pior. Sem transparência sobre o contrato e o critério do valor, fica difícil saber se é só mau gosto ou algo mais grave.",
           "source": "sintese",
           "evidence": [
-            1
+            5,
+            9
           ],
           "votes": 0
         }
@@ -453,17 +471,17 @@
     },
     {
       "id": "bsky_3n277olzts22d",
-      "rank": 8,
+      "rank": 9,
       "title": "Prefeitura contrata cantora country pop por valor suspeito",
       "label": "Contratação de cantora country pop · SC",
-      "context": "A Prefeitura de uma cidade de Santa Catarina contratou uma cantora de country pop jovem, e o caso viralizou como notícia de contratação suspeita. O episódio gerou discussão sobre o uso de dinheiro público em shows e sobre a transparência desses contratos.",
+      "context": "A Prefeitura de uma cidade de Santa Catarina contratou uma cantora de country pop jovem por um valor considerado suspeito, segundo notícia do ICL Notícias. O caso gerou comentários sobre a popularidade da artista e sobre o estado onde ocorreu a contratação.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/arlindars.bsky.social/post/3n277olzts22d",
       "createdAt": "2026-11-13T14:40:36.183000+00:00",
-      "rawScore": 0.038053112838266095,
-      "relevanceScore": 0.13285779943710224,
-      "suggestedRadius": 57.87,
+      "rawScore": 0.030223897309397542,
+      "relevanceScore": 0.14469321923266393,
+      "suggestedRadius": 58.82,
       "imageUrl": "assets/images/bsky_3n277olzts22d_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n277olzts22d_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -484,7 +502,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A cantora é uma estrela do country pop jovem e tem público de verdade, então contratar um show dela faz sentido para movimentar a cidade e atrair gente. O problema não é o cachê em si, mas a falta de explicação clara sobre o valor.",
+          "text": "A cantora é uma estrela do country pop jovem e muito popular, então contratá-la para um evento faz sentido e pode atrair público. O valor pode parecer alto, mas artistas conhecidas cobram caro e isso não é necessariamente irregular.",
           "source": "sintese",
           "evidence": [
             2
@@ -494,7 +512,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Prefeitura de Santa Catarina contratando show de cantora pop com valor suspeito é o retrato do desvio de dinheiro público. Se ninguém nunca ouviu falar dela, por que pagar tão caro? O dinheiro deveria ir para saúde e educação, não para palco.",
+          "text": "Santa Catarina tem um histórico de contratações suspeitas com valores altos, e esse caso é mais um exemplo. A prefeitura deveria explicar melhor por que pagou tanto por uma artista que muita gente nem conhece.",
           "source": "sintese",
           "evidence": [
             1
@@ -504,10 +522,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O caso é em Santa Catarina, o que já explica muita coisa, mas antes de julgar é preciso ver o contrato e o valor real. A cantora pode ser popular e o cachê pode ser justificável, então o certo é cobrar transparência em vez de assumir que é irregular.",
+          "text": "Nunca tinha ouvido falar dessa cantora, só vejo notícias de contratação suspeita. Isso mostra que a popularidade dela não é tão óbvia assim, e talvez o valor pago mereça uma investigação mais cuidadosa.",
           "source": "sintese",
           "evidence": [
-            1,
             2
           ],
           "votes": 0
@@ -517,88 +534,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2bse3m3is2e",
-      "rank": 9,
-      "title": "Família rica de Florianópolis surpreende com convite para jantar no Outback em SP",
-      "label": "Jantar no Outback · Crítica a escolha gastronômica",
-      "context": "Uma pessoa relata que parentes ricos de Florianópolis, em visita a São Paulo, convidaram sua mãe para jantar no Outback do Shopping Morumbi, o que a deixou horrorizada. O episódio gerou discussão sobre a escolha de restaurantes de rede em vez de explorar a gastronomia local da cidade.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/acabracho.bsky.social/post/3n2bse3m3is2e",
-      "createdAt": "2026-11-14T15:20:03.256000+00:00",
-      "rawScore": 0.10832400119468964,
-      "relevanceScore": 0.10294949803783777,
-      "suggestedRadius": 55.25,
-      "imageUrl": "assets/images/bsky_3n2bse3m3is2e_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2bse3m3is2e_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "a ala rica da minha família q mora em florianópolis veio pra são paulo esses dias e minha mãe foi surpreendida com o convite de jantar no outback do shopping morumbi. eu fiquei horrorizada",
-          "url": "https://bsky.app/profile/acabracho.bsky.social/post/3n2bse3m3is2e",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "São Paulo tem opções gastronômicas maravilhosas, e ir no Outback do Morumbi é desperdiçar o que a cidade oferece de melhor. Quem tem dinheiro e vem de fora deveria aproveitar a cena gastronômica local, não uma rede internacional que tem em qualquer shopping.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O convite para o Outback pode ser só uma forma de reunir a família sem complicação, sem precisar escolher restaurante caro ou arriscar um lugar que ninguém conhece. Nem todo mundo quer fazer turismo gastronômico quando visita parentes.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O que chama atenção é a família reclamar que tudo é caro em São Paulo enquanto escolhe um restaurante de shopping e faz compras na José Paulino. O rolê inteiro ficou em shopping e compras, sem procurar exposição ou teatro, o que diz mais sobre o estilo da visita do que sobre o Outback.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n252dwzwyc2q",
+      "id": "bsky_3n2eex57ux226",
       "rank": 10,
-      "title": "Agenda de festas e shows em novembro no Rio e em Florianópolis",
-      "label": "Agenda de shows · Rio e Floripa",
-      "context": "Posts divulgam eventos musicais em novembro de 2026 no Rio de Janeiro e em Florianópolis, como o Bangarang Sound System no Moto Cerva e as festas Sattivas no Tio Gether's e no Jungle Floripa. A divulgação serve para informar o público sobre opções de lazer e música ao vivo nessas cidades.",
+      "title": "Não é questão de impostos, e sim o lucro da Faria Lima, diz post",
+      "label": "Lucro da Faria Lima · Crítica a isenções",
+      "context": "Um post no Bluesky afirma que o debate não é sobre impostos, mas sobre o lucro da Faria Lima, e questiona como explicar isso para uma moradora de Florianópolis que frequenta a We Are Reino e tem um quiosque na praia. A publicação sugere que o tema envolve privilégios de grupos específicos e não a carga tributária em geral.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/skatapla.bsky.social/post/3n252dwzwyc2q",
-      "createdAt": "2026-11-12T17:59:58.271000+00:00",
-      "rawScore": 0.005412862404030189,
-      "relevanceScore": 0.10002081259947064,
-      "suggestedRadius": 54.98,
-      "imageUrl": "assets/images/bsky_3n252dwzwyc2q_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n252dwzwyc2q_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/leosmi.bsky.social/post/3n2eex57ux226",
+      "createdAt": "2026-11-15T15:58:08.946000+00:00",
+      "rawScore": 0.11016520831670497,
+      "relevanceScore": 0.12240578701856107,
+      "suggestedRadius": 56.99,
+      "imageUrl": "assets/images/bsky_3n2eex57ux226_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2eex57ux226_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sc",
       "sources": [
         {
-          "title": "RIO DE JANEIRO - 14/11 Bangarang Sound System no Moto Cerva no Rio De Janeiro SANTA CATARINA - 12/11 Sattivas #26 no Tio Gether’s - Morro das Pedras em Florianópolis - 14/11 Sattivas #25 no Jungle Floripa - Praia Do Moçambique em Florianopolis - 15/11 DJ LOVESTEADY no Quai 58 em Florianópolis 👇",
-          "url": "https://bsky.app/profile/skatapla.bsky.social/post/3n252dwzwyc2q",
-          "subreddit": "bsky_sc"
-        },
-        {
-          "title": "Ponte Hercílio Luz 2008 Florianópolis - SC #foto #fotografia #photo #photography #florianopolis #hercilioluz",
-          "url": "https://bsky.app/profile/rbonelli.bsky.social/post/3n226jnj3dk2b",
+          "title": "nunca foi questão de impostos e sim o lucro da faria lima... agora vai falar isso pra dona maria que mora em florianópolis, frequenta a we are reino e tem um quiosque na praia...",
+          "url": "https://bsky.app/profile/leosmi.bsky.social/post/3n2eex57ux226",
           "subreddit": "bsky_sc"
         }
       ],
@@ -606,18 +561,15 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A agenda está bem variada, com sound system no Rio e festas como Sattivas em Floripa. Quem curte música alternativa ganha boas opções para o fim de semana, sem precisar ir a lugares lotados ou caros.",
+          "text": "O post acerta ao apontar que o lucro da Faria Lima está no centro da discussão, não os impostos. A elite financeira é que se beneficia, e a dona Maria, com seu quiosque, não tem nada a ver com isso.",
           "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Faltam informações básicas nesses posts, como horário, preço e endereço completo. Divulgar só o nome do evento e do local não ajuda quem não conhece, e a pessoa acaba desistindo de ir.",
+          "text": "Criticar o lucro da Faria Lima ignorando que impostos afetam todos é um erro. A dona Maria também paga impostos e precisa de serviços públicos, então reduzir tudo a 'lucro' simplifica demais o debate.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -625,11 +577,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A divulgação funciona para quem já conhece a cena, mas quem é de fora fica perdido. Seria útil ter um resumo com data, local e estilo musical de cada evento para facilitar a escolha.",
+          "text": "A referência à dona Maria mostra que o debate precisa considerar realidades diferentes. Moradores de Florianópolis e frequentadores da We Are Reino têm vivências distintas, e generalizar o argumento pode não funcionar para todos.",
           "source": "sintese",
-          "evidence": [
-            3
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],

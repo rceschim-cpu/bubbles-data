@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-15T18:44:08.435040+00:00",
+  "generatedAt": "2026-11-16T05:36:04.706140+00:00",
   "region": "br-se",
   "count": 10,
   "items": [
     {
       "id": "bsky_3n2ehftrkyk2x",
       "rank": 1,
-      "title": "Influenciador no Instagram aumenta a vontade de conhecer Aracaju",
+      "title": "Influenciador no Instagram desperta vontade de conhecer Aracaju",
       "label": "Aracaju · Desejo de conhecer a cidade",
-      "context": "Um usuário do Bluesky relatou que segue um perfil no Instagram cujos carrosséis de fotos aumentam sua vontade de conhecer Aracaju. A publicação gerou comentários sobre a distância e o custo da viagem até a capital sergipana.",
+      "context": "Um usuário do Bluesky relatou que um perfil que segue no Instagram publica carrosséis que aumentam sua vontade de conhecer Aracaju. Nos comentários, outra pessoa disse que pretende visitar a cidade um dia, considerando a distância e o custo da passagem.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/paralisiadosono.bsky.social/post/3n2ehftrkyk2x",
@@ -31,7 +31,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Aracaju parece um destino acessível e bonito, e as fotos do influenciador despertam vontade de conhecer. A passagem não deve ser tão cara e a viagem é viável, então vale a pena planejar.",
+          "text": "Aracaju parece um destino acessível e bonito, e o carrossel do influenciador só confirma isso. A passagem não deve ser tão cara e a viagem é viável, então vale a pena conhecer.",
           "source": "sintese",
           "evidence": [
             1
@@ -41,7 +41,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A distância e o custo da passagem ainda são obstáculos para quem mora longe, e a empolgação com as fotos pode não se traduzir em viagem real. O entusiasmo do influenciador não resolve a logística.",
+          "text": "A distância e a passagem podem não ser tão baratas assim, e a 'bahia no meio' pode encarecer ou complicar o trajeto. O entusiasmo do post pode não se traduzir em uma viagem prática.",
           "source": "sintese",
           "evidence": [
             1
@@ -51,7 +51,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A vontade de conhecer Aracaju é real, mas depende de fatores práticos como preço da passagem e distância. O comentário mostra que a pessoa considera a viagem possível, mas ainda não decidiu.",
+          "text": "A vontade de conhecer Aracaju é real, mas depende de planejamento: é preciso verificar custos e rotas. O comentário mostra que a pessoa ainda está avaliando se a viagem é viável.",
           "source": "sintese",
           "evidence": [
             1
@@ -63,18 +63,71 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2ednus7r22w",
+      "id": "bsky_3n2ectbyk3c2f",
       "rank": 2,
-      "title": "Confusão em Aracaju interrompe a paz de moradores",
-      "label": "Confusão em Aracaju · Relatos de moradores",
-      "context": "Posts no Bluesky relatam uma confusão em Aracaju que acordou moradores, em meio a comentários sobre a cidade e sobre uma crise hídrica que afeta a região metropolitana. A situação gerou reações divididas entre quem reclama do barulho e quem comenta o episódio com humor.",
+      "title": "Nunca fui em Sergipe e preciso ir no norte",
+      "label": "Sergipe · Visita ao norte do estado",
+      "context": "Uma pessoa relata nunca ter visitado Sergipe e afirma que precisa conhecer a região norte do estado. O comentário destaca a ausência de experiência com o estado e a intenção de explorar essa área específica.",
+      "source": "bluesky",
+      "subreddit": "bsky_se",
+      "permalink": "https://bsky.app/profile/notkaio.bsky.social/post/3n2ectbyk3c2f",
+      "createdAt": "2026-11-15T15:20:26.744000+00:00",
+      "rawScore": 0.5972122502364093,
+      "relevanceScore": 0.6519567093422658,
+      "suggestedRadius": 84.45,
+      "imageUrl": "assets/images/bsky_3n2ectbyk3c2f_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2ectbyk3c2f_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-se",
+      "sources": [
+        {
+          "title": "Estranhamente nunca fui em Sergipe e preciso ir no norte.",
+          "url": "https://bsky.app/profile/notkaio.bsky.social/post/3n2ectbyk3c2f",
+          "subreddit": "bsky_se"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Sergipe é um estado pequeno mas cheio de belezas naturais, e o norte tem praias e rios que valem muito a pena conhecer. Quem nunca foi está perdendo uma experiência autêntica do Nordeste.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O norte de Sergipe é uma região pouco explorada turisticamente, com infraestrutura limitada e poucas opções de hospedagem. Talvez não seja o destino mais prático para uma primeira visita.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A experiência de conhecer Sergipe depende muito do que se busca: o litoral sul é mais badalado, enquanto o norte oferece tranquilidade e contato com a cultura local. Vale pesquisar antes de decidir.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2ednus7r22w",
+      "rank": 3,
+      "title": "Confusão em Aracaju interrompe a paz da cidade",
+      "label": "Confusão em Aracaju · Perturbação da tranquilidade",
+      "context": "Um episódio de confusão em Aracaju foi relatado por moradores nas redes sociais, com barulho que interrompeu a tranquilidade de quem estava em casa. A cidade também enfrenta crise hídrica, com racionamento na região metropolitana e cancelamento do Ano Novo e do festival de verão.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/ramirez.bsky.social/post/3n2ednus7r22w",
       "createdAt": "2026-11-15T15:35:06.750000+00:00",
-      "rawScore": 0.3388792421435243,
-      "relevanceScore": 0.5920290429114773,
-      "suggestedRadius": 82.17,
+      "rawScore": 0.3492573665807353,
+      "relevanceScore": 0.5968343487987463,
+      "suggestedRadius": 82.35,
       "imageUrl": "assets/images/bsky_3n2ednus7r22w_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2ednus7r22w_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -100,7 +153,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Aracaju virou assunto e muita gente está descobrindo a cidade agora, como mostram os posts de quem se mudou de Curitiba e não quer mais voltar. Mesmo com a confusão, o saldo é que a cidade está sendo notada e ganhando novos moradores felizes.",
+          "text": "Aracaju virou destino de gente que largou tudo no Sul e veio recomeçar aqui, e isso mostra que a cidade tem algo que atrai. Mesmo com a confusão e o barulho, quem escolheu morar aqui não se arrepende e não pensa em voltar.",
           "source": "sintese",
           "evidence": [
             2
@@ -110,17 +163,15 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Acordar com esculhambação na porta de casa é um desrespeito com quem precisa descansar, e o relato de quem teve a paz serena interrompida mostra como esses episódios incomodam. A cidade já enfrenta crise hídrica e racionamento, não precisa de mais transtorno na rotina.",
+          "text": "A cidade está sendo descoberta e já virou motivo de pânico para quem mora aqui. Somado ao racionamento de água e ao cancelamento do Ano Novo e do festival de verão, a sensação é de que Aracaju perdeu a paz que tinha.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O episódio rendeu piada e comentário sobre quem passou na frente, mas o post original já dizia que estava tudo bem. Talvez seja só um susto passageiro que virou conversa, sem motivo para tratar como problema maior do que realmente foi.",
+          "text": "O relato de barulho na madrugada parece mais um episódio pontual de vizinhança do que um problema da cidade inteira. Quem foi acordado reclama, mas a vida em Aracaju segue normal para a maioria dos moradores.",
           "source": "sintese",
           "evidence": [
             1,
@@ -133,129 +184,18 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2ectbyk3c2f",
-      "rank": 3,
-      "title": "Nunca fui a Sergipe e preciso ir ao norte",
-      "label": "Viagem a Sergipe · Norte do país",
-      "context": "Um usuário do Bluesky comentou que nunca visitou Sergipe e que precisa conhecer o norte do país. O post mistura a menção ao estado nordestino com a ideia de uma viagem pelo norte, o que gerou pouca repercussão na rede.",
-      "source": "bluesky",
-      "subreddit": "bsky_se",
-      "permalink": "https://bsky.app/profile/notkaio.bsky.social/post/3n2ectbyk3c2f",
-      "createdAt": "2026-11-15T15:20:26.744000+00:00",
-      "rawScore": 0.5281042928331366,
-      "relevanceScore": 0.5798561996530839,
-      "suggestedRadius": 81.69,
-      "imageUrl": "assets/images/bsky_3n2ectbyk3c2f_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2ectbyk3c2f_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-se",
-      "sources": [
-        {
-          "title": "Estranhamente nunca fui em Sergipe e preciso ir no norte.",
-          "url": "https://bsky.app/profile/notkaio.bsky.social/post/3n2ectbyk3c2f",
-          "subreddit": "bsky_se"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Sergipe é um destino que muita gente deixa de lado, mas tem praias e cidades históricas que valem a viagem. Quem nunca foi deveria incluir o estado no roteiro antes de partir para o norte.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Falar em Sergipe e em norte na mesma frase confunde: Sergipe fica no Nordeste, e o norte é outra região. Quem quer conhecer o país precisa separar bem os destinos para não misturar as rotas.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A vontade de conhecer o norte faz sentido, mas Sergipe acaba entrando como uma parada no caminho. Depende do tempo e do orçamento disponíveis para decidir se vale esticar o roteiro até lá.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n22iry64ps25",
-      "rank": 4,
-      "title": "A vida tá ótima: bebi duas caipiroskas e comi 1 tonelada de camarão na praia do Saco, em Sergipe",
-      "label": "Praia do Saco · Caipiroskas e camarão",
-      "context": "Um usuário do Bluesky publicou que bebeu duas caipiroskas e comeu uma grande quantidade de camarão na Praia do Saco, em Sergipe. O post viralizou como uma expressão de satisfação simples e prazerosa.",
-      "source": "bluesky",
-      "subreddit": "bsky_se",
-      "permalink": "https://bsky.app/profile/aquelalu.bsky.social/post/3n22iry64ps25",
-      "createdAt": "2026-11-11T17:40:12.972000+00:00",
-      "rawScore": 0.13456670942261725,
-      "relevanceScore": 0.24823635714866285,
-      "suggestedRadius": 65.89,
-      "imageUrl": "assets/images/bsky_3n22iry64ps25_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n22iry64ps25_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-se",
-      "sources": [
-        {
-          "title": "A vida tá óóótimaaaaaa (Bebi duas caipiroskas e comi 1 tonelada de camarão na praia do saco, em Sergipe",
-          "url": "https://bsky.app/profile/aquelalu.bsky.social/post/3n22iry64ps25",
-          "subreddit": "bsky_se"
-        },
-        {
-          "title": "A caipiroska é diferenciada na praia do saco, em Sergipe",
-          "url": "https://bsky.app/profile/aquelalu.bsky.social/post/3n22h6utkls25",
-          "subreddit": "bsky_se"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Nada melhor que aproveitar o dia na praia com uma caipiroska gelada e camarão fresco. A vida é feita desses pequenos momentos de felicidade.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Comer uma tonelada de camarão e beber duas caipiroskas não é exatamente um estilo de vida saudável. Melhor moderação.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A praia do Saco é um lugar agradável, mas o post parece mais uma brincadeira do que um relato literal. Cada um sabe o que faz da vida.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3mzypfelcbk24",
-      "rank": 5,
+      "rank": 4,
       "title": "Prática de trancar vítimas e usar gás lacrimogêneo é ilegal, mas comum nas forças de segurança brasileiras",
       "label": "Uso de gás e confinamento pela polícia",
-      "context": "Uma publicação no Bluesky afirma que trancar pessoas em locais fechados e lançar spray de pimenta ou gás lacrimogêneo é uma prática ilegal, mas comum nas forças de segurança do Brasil, inclusive no treinamento de recrutas. A postagem denuncia a instituição como assassina e levanta a suspeita de que a vítima do caso mencionado estaria em surto, sugerindo mais uma morte de pessoa com esquizofrenia pela polícia.",
+      "context": "Um post no Bluesky afirma que trancar pessoas em locais fechados e lançar spray de pimenta ou gás lacrimogêneo é uma prática ilegal, mas comum nas forças de segurança do Brasil, inclusive em treinamentos com recrutas. A publicação denuncia a instituição como assassina e levanta a suspeita de que a vítima do caso recente estaria em surto, sugerindo mais uma morte de pessoa com esquizofrenia pela polícia.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/coalacroata.bsky.social/post/3mzypfelcbk24",
       "createdAt": "2026-11-11T00:33:08.771000+00:00",
-      "rawScore": 0.1834395794920032,
-      "relevanceScore": 0.19047622102469114,
-      "suggestedRadius": 62.19,
+      "rawScore": 0.50068477707716,
+      "relevanceScore": 0.5410019582882618,
+      "suggestedRadius": 80.13,
       "imageUrl": "assets/images/bsky_3mzypfelcbk24_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzypfelcbk24_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -271,7 +211,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A denúncia escancara que a polícia brasileira age com violência ilegal e rotineira, como trancar pessoas e jogar gás lacrimogêneo, e ainda treina recrutas para isso. Isso mostra que a instituição é assassina e precisa ser responsabilizada, não protegida.",
+          "text": "A denúncia escancara uma prática ilegal que virou rotina nas forças de segurança: trancar pessoas e jogar gás lacrimogêneo, até em treinamento com recrutas. Isso precisa ser investigado e punido, porque a instituição age como se estivesse acima da lei.",
           "source": "sintese",
           "evidence": [
             1
@@ -281,7 +221,54 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A postagem generaliza e chama a instituição de assassina e vagabunda, mas sem provas concretas do caso. Falar em surto e esquizofrenia sem confirmação estigmatiza a vítima e desvia o foco de uma investigação séria sobre a conduta dos agentes.",
+          "text": "Generalizar as forças de segurança como assassinas ignora o trabalho de quem segue a lei e arrisca a vida diariamente. Casos isolados devem ser apurados, mas chamar a instituição inteira de criminosa é um exagero que não ajuda no debate.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A suspeita de que a vítima estava em surto levanta outra questão: como a polícia lida com pessoas com transtornos mentais? Sem protocolos claros, a abordagem pode terminar em tragédia, independentemente da intenção dos agentes.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2emmydsk22t",
+      "rank": 5,
+      "title": "Será que eu conheço? Em Aracaju todo mundo é conhecido",
+      "label": "Aracaju · Todo mundo se conhece",
+      "context": "Um post no Bluesky brinca que em Aracaju todo mundo é conhecido, sugerindo que o autor talvez conheça a pessoa mencionada. A ideia de que a cidade funciona como uma grande rede de conhecidos é o que move a conversa.",
+      "source": "bluesky",
+      "subreddit": "bsky_se",
+      "permalink": "https://bsky.app/profile/sand0k4.bsky.social/post/3n2emmydsk22t",
+      "createdAt": "2026-11-15T18:15:37.545000+00:00",
+      "rawScore": 0.421176975500683,
+      "relevanceScore": 0.44961068861092185,
+      "suggestedRadius": 76.23,
+      "imageUrl": "assets/images/bsky_3n2emmydsk22t_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2emmydsk22t_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-se",
+      "sources": [
+        {
+          "title": "hahaha será que eu conheço, la em aracaju é todo mundo conhecido",
+          "url": "https://bsky.app/profile/sand0k4.bsky.social/post/3n2emmydsk22t",
+          "subreddit": "bsky_se"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Aracaju tem esse jeito de cidade pequena mesmo: em qualquer roda alguém conhece alguém, e isso facilita tudo, desde achar um contato até resolver um problema. Se o nome é Cainan, é bem provável que o autor do post já tenha cruzado com ele por aí.",
           "source": "sintese",
           "evidence": [
             1
@@ -289,9 +276,17 @@
           "votes": 0
         },
         {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa história de que todo mundo se conhece em Aracaju soa mais como exagero de quem mora na bolha do centro. A cidade já tem quase um milhão de habitantes, e quem vive na periferia ou nos bairros mais afastados sabe que essa rede de conhecidos não alcança todo mundo.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
           "id": "op3",
           "tone": "neutral",
-          "text": "A prática descrita é grave, mas o comentário já assume que a vítima estava em surto e que a polícia a matou, o que precisa ser apurado. Sem dados oficiais, fica difícil separar o que é treinamento padrão do que é abuso pontual.",
+          "text": "Depende do círculo: em Aracaju, quem cresceu nos mesmos bairros e frequenta os mesmos lugares realmente esbarra em conhecidos o tempo todo. Mas o nome Cainan, sozinho, não confirma nada, porque a cidade tem muita gente com o mesmo nome e a brincadeira pode ser só isso.",
           "source": "sintese",
           "evidence": [
             1
@@ -306,15 +301,15 @@
       "id": "bsky_3n27z6i77hk25",
       "rank": 6,
       "title": "Associação Boquinhense de Desporto (Boquim, Sergipe)",
-      "label": "Associação Boquinhense de Desporto · Boquim",
-      "context": "A Associação Boquinhense de Desporto é uma entidade esportiva sediada em Boquim, em Sergipe. O registro aparece em publicações de redes sociais, sem detalhamento sobre suas atividades ou decisões.",
+      "label": "Associação Boquinhense de Desporto",
+      "context": "A Associação Boquinhense de Desporto é uma entidade esportiva sediada em Boquim, Sergipe. O post destaca sua existência, mas não detalha atividades ou eventos específicos.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/ultimadivisao.com.br/post/3n27z6i77hk25",
       "createdAt": "2026-11-13T22:16:53.570000+00:00",
-      "rawScore": 0.1319515388479959,
-      "relevanceScore": 0.13230835123832757,
-      "suggestedRadius": 57.82,
+      "rawScore": 0.3163858521551897,
+      "relevanceScore": 0.3291571780928697,
+      "suggestedRadius": 70.42,
       "imageUrl": "assets/images/bsky_3n27z6i77hk25_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27z6i77hk25_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -330,7 +325,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Associação Boquinhense de Desporto merece reconhecimento por manter o esporte vivo em Boquim, no interior de Sergipe, onde times e associações locais costumam sobreviver com pouco apoio e muita dedicação de quem organiza.",
+          "text": "A Associação Boquinhense de Desporto merece reconhecimento por representar Boquim e incentivar o esporte na região. Iniciativas locais como essa são fundamentais para revelar talentos e promover a inclusão social.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -338,7 +333,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Falar da Associação Boquinhense de Desporto sem dizer o que ela faz, quem dirige ou quais resultados entrega não ajuda em nada; uma publicação solta com o nome da entidade não informa ninguém sobre o esporte em Boquim.",
+          "text": "Falta informação concreta sobre o que a Associação Boquinhense de Desporto realmente faz. Sem transparência sobre projetos e resultados, fica difícil apoiar ou confiar no trabalho da entidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -346,121 +341,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O nome da Associação Boquinhense de Desporto aparece citado junto ao Real Futebol Clube Heips, do Rio de Janeiro, e sem mais detalhes fica difícil saber se é parceria, amistoso ou só uma menção entre clubes de estados diferentes.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2cex5pshc2x",
-      "rank": 7,
-      "title": "Aparentemente é impossível viajar para Aracaju",
-      "label": "Dificuldade de viajar para Aracaju",
-      "context": "Um post no Bluesky afirma que viajar para Aracaju parece impossível. A publicação viralizou ao expressar a frustração de quem tenta chegar à capital sergipana.",
-      "source": "bluesky",
-      "subreddit": "bsky_se",
-      "permalink": "https://bsky.app/profile/frutinhadodiabo.bsky.social/post/3n2cex5pshc2x",
-      "createdAt": "2026-11-14T20:52:50.444000+00:00",
-      "rawScore": 0.07323170099436142,
-      "relevanceScore": 0.06597046307197846,
-      "suggestedRadius": 51.41,
-      "imageUrl": "assets/images/bsky_3n2cex5pshc2x_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2cex5pshc2x_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-se",
-      "sources": [
-        {
-          "title": "Aparentemente é IMPOSSÍVEL viajar pra Aracaju",
-          "url": "https://bsky.app/profile/frutinhadodiabo.bsky.social/post/3n2cex5pshc2x",
-          "subreddit": "bsky_se"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A dificuldade de chegar a Aracaju é real: poucos voos diretos e conexões caras fazem a viagem parecer impossível para quem depende de transporte aéreo.",
+          "text": "O post apenas cita a Associação Boquinhense de Desporto, sem detalhes sobre suas ações. Seria útil saber mais sobre suas atividades e impacto antes de formar uma opinião.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Dizer que é impossível viajar para Aracaju é exagero de quem só olha para o preço das passagens; existem rotas terrestres e voos com conexão que funcionam.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A frase funciona mais como desabafo do que como dado: depende de onde a pessoa sai e do orçamento, então a experiência de chegar a Aracaju varia bastante.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mztbuzzxsk2d",
-      "rank": 8,
-      "title": "Governo de Sergipe anuncia racionamento de água por crise hídrica causada pelo El Niño",
-      "label": "Racionamento de água em Sergipe",
-      "context": "O governo de Sergipe anunciou oficialmente o início do racionamento de água no estado, atribuindo a medida à crise hídrica provocada pelo El Niño, com reservatórios em nível mínimo e ausência de chuvas. A decisão afeta diretamente o abastecimento da população e ocorre em um momento de calor intenso, enquanto outros estados enfrentam excesso de chuvas.",
-      "source": "bluesky",
-      "subreddit": "bsky_se",
-      "permalink": "https://bsky.app/profile/linpjs.bsky.social/post/3mztbuzzxsk2d",
-      "createdAt": "2026-11-08T20:48:01.879000+00:00",
-      "rawScore": 0.0732193474232822,
-      "relevanceScore": 0.06595650680359177,
-      "suggestedRadius": 51.41,
-      "imageUrl": "assets/images/bsky_3mztbuzzxsk2d_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mztbuzzxsk2d_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-se",
-      "sources": [
-        {
-          "title": "O governo de Sergipe anunciou oficialmente o início do racionamento de água no estado em decorrência de crise hídrica causada pelo El Niño. Simplesmente não chove e temos reservatórios no mínimo.",
-          "url": "https://bsky.app/profile/linpjs.bsky.social/post/3mztbuzzxsk2d",
-          "subreddit": "bsky_se"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O governo de Sergipe agiu certo ao anunciar o racionamento agora, porque com os reservatórios no mínimo e sem previsão de chuva, quanto antes a população se adaptar, menor o risco de um colapso total no abastecimento.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A crise hídrica em Sergipe foi agravada pela falta de investimento em infraestrutura e planejamento, e o racionamento chega como medida emergencial tardia, enquanto outros estados sofrem com enchentes e poderiam ter seus recursos melhor distribuídos.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O racionamento em Sergipe expõe a urgência de políticas de convivência com a seca, mas é preciso considerar que o calor extremo aumenta o consumo e medidas de conscientização e armazenamento de água da chuva podem ser tão importantes quanto a restrição.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
           "votes": 0
         }
       ],
@@ -469,17 +352,17 @@
     },
     {
       "id": "bsky_3n27wvlgycc2v",
-      "rank": 9,
+      "rank": 7,
       "title": "Por que meu pacote foi do Rio para Aracaju e voltou?",
-      "label": "Pacote extraviado · Rota Rio-Aracaju",
-      "context": "Um usuário relatou que seu pacote saiu do Rio de Janeiro, foi para Aracaju e retornou, sem explicação aparente. O caso ilustra como a rota de entregas pode confundir o rastreamento e gerar dúvidas sobre a logística.",
+      "label": "Entrega de pacote · Rota de ida e volta",
+      "context": "Uma pessoa relatou que seu pacote saiu do Rio de Janeiro, foi para Aracaju e depois retornou ao ponto de origem. O caso viralizou como exemplo de rotas de entrega aparentemente sem sentido.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/paattyk.bsky.social/post/3n27wvlgycc2v",
       "createdAt": "2026-11-13T21:36:08.078000+00:00",
-      "rawScore": 0.06996133297932301,
-      "relevanceScore": 0.06227581207200138,
-      "suggestedRadius": 50.97,
+      "rawScore": 0.16318545201264043,
+      "relevanceScore": 0.15305899896466615,
+      "suggestedRadius": 59.47,
       "imageUrl": "assets/images/bsky_3n27wvlgycc2v_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27wvlgycc2v_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -495,7 +378,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O rastreamento mostra cada etapa, então o pacote pode ter ido para Aracaju por um erro de triagem e já estar voltando para o destino certo. Pelo menos dá para acompanhar o trajeto e cobrar a entrega.",
+          "text": "A logística brasileira é complexa e às vezes um pacote passa por um centro de distribuição longe do destino porque é o caminho que a transportadora tem disponível naquele momento. Pode parecer absurdo, mas faz parte da operação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -503,7 +386,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Mandar um pacote do Rio para Aracaju e depois devolver é um desperdício de tempo e dinheiro. A transportadora deveria explicar por que a rota foi tão errada e ressarcir o transtorno causado ao cliente.",
+          "text": "Uma transportadora que manda o pacote do Rio para Aracaju e depois devolve para o Rio está claramente desperdiçando tempo e dinheiro do cliente. Não tem justificativa razoável para um trajeto tão errado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -511,7 +394,60 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Sem detalhes do código de rastreio e da transportadora, fica difícil saber se foi erro de triagem ou apenas uma atualização estranha no sistema. Vale checar o histórico completo antes de concluir que o pacote realmente voltou.",
+          "text": "Sem saber qual é a transportadora e o tipo de envio, fica difícil julgar se foi erro ou apenas uma rota mal planejada. O caso pode ser só um exemplo isolado de falha no rastreamento.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2cex5pshc2x",
+      "rank": 8,
+      "title": "Aparentemente é impossível viajar para Aracaju",
+      "label": "Dificuldade de viajar para Aracaju",
+      "context": "Um usuário do Bluesky relatou que, aparentemente, é impossível viajar para Aracaju. A publicação viralizou ao expressar essa dificuldade de forma direta, sem detalhar as razões por trás da afirmação.",
+      "source": "bluesky",
+      "subreddit": "bsky_se",
+      "permalink": "https://bsky.app/profile/frutinhadodiabo.bsky.social/post/3n2cex5pshc2x",
+      "createdAt": "2026-11-14T20:52:50.444000+00:00",
+      "rawScore": 0.13546864214489232,
+      "relevanceScore": 0.12119955379081854,
+      "suggestedRadius": 56.89,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-se",
+      "sources": [
+        {
+          "title": "Aparentemente é IMPOSSÍVEL viajar pra Aracaju",
+          "url": "https://bsky.app/profile/frutinhadodiabo.bsky.social/post/3n2cex5pshc2x",
+          "subreddit": "bsky_se"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Viajar para Aracaju realmente é complicado: são poucos voos diretos e os preços costumam ser altos, o que afasta quem quer conhecer a cidade. A publicação só expõe uma dificuldade que quem já tentou comprar passagem conhece bem.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Aracaju tem aeroporto e recebe voos de várias capitais, então dizer que é impossível viajar para lá é exagero. O problema pode ser a rota específica de quem postou, não a cidade em si, que recebe turistas normalmente.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A frase funciona mais como desabafo do que como dado: sem dizer de onde parte nem qual época, fica difícil saber se é falta de voo, preço ou conexão. A experiência de quem postou pode não valer para todo mundo que tenta ir a Aracaju.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -522,17 +458,17 @@
     },
     {
       "id": "bsky_3n24p5awa622u",
-      "rank": 10,
-      "title": "Excursão de Aracaju ao Beco da Rapariga: 'ia ser top', diz post",
-      "label": "Excursão de Aracaju · Beco da Rapariga",
-      "context": "Um post no Bluesky propõe organizar uma excursão saindo de Aracaju para o Beco da Rapariga, descrevendo o passeio como algo que 'ia ser top'. A publicação viralizou e gerou reações nas redes, mas não há comentários suficientes para indicar posições organizadas sobre o assunto.",
+      "rank": 9,
+      "title": "Excursão de Aracaju ao Beco da Rapariga",
+      "label": "Beco da Rapariga · Excursão de Aracaju",
+      "context": "Um usuário do Bluesky propôs organizar uma excursão saindo de Aracaju para visitar o Beco da Rapariga, chamando o passeio de \"top\". A publicação é uma brincadeira de tom empolgado e não há informações sobre data, local exato ou se a ideia saiu do papel.",
       "source": "bluesky",
       "subreddit": "bsky_se",
       "permalink": "https://bsky.app/profile/catarinacristo.bsky.social/post/3n24p5awa622u",
       "createdAt": "2026-11-12T14:39:13.684000+00:00",
-      "rawScore": 0.032446775783352595,
-      "relevanceScore": 0.019894283259207533,
-      "suggestedRadius": 44.46,
+      "rawScore": 0.08179115342065875,
+      "relevanceScore": 0.05949927092134248,
+      "suggestedRadius": 50.64,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -548,7 +484,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A ideia de sair de Aracaju para conhecer o Beco da Rapariga é exatamente o tipo de programa diferente que faz sucesso na internet. O post já mostra que tem gente disposta a embarcar nessa, e a empolgação de quem organiza é o que basta para o passeio acontecer.",
+          "text": "A ideia de montar uma excursão de Aracaju até o Beco da Rapariga é divertida e mostra disposição de reunir gente para conhecer um lugar diferente. Se o organizador levar a brincadeira a sério, vira um passeio animado e acessível para quem quer sair da rotina.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -556,7 +492,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Organizar uma excursão de Aracaju até o Beco da Rapariga soa mais como piada do que como plano real. Sem estrutura, sem detalhes de transporte e sem confirmação de nada, o post serve para gerar engajamento e não para levar ninguém a lugar algum.",
+          "text": "Chamar de excursão um passeio ao Beco da Rapariga soa mais como piada do que como plano real. Sem data, transporte ou qualquer detalhe combinado, a proposta fica só no post e não dá para levar a sério como algo que vai acontecer.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -564,9 +500,68 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post fala em excursão de Aracaju ao Beco da Rapariga, mas não passa de uma publicação solta, sem confirmação de data, preço ou roteiro. Antes de tratar como algo concreto, falta saber se a ideia saiu do papel ou se ficou só na brincadeira da rede.",
+          "text": "O post é claramente uma brincadeira e não passa disso por enquanto. Antes de tratar como excursão de verdade, faltaria saber quem organiza, quanto custa e quando seria — sem essas informações, é só uma ideia solta na rede.",
           "source": "sintese",
           "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n26uxj33qc2c",
+      "rank": 10,
+      "title": "“Eurovision Asia” lembra o Coritiba do Sergipe, diz usuário",
+      "label": "Eurovision Asia · Piada com nome",
+      "context": "Um usuário do Bluesky comparou o nome “Eurovision Asia” ao “Coritiba do Sergipe”, sugerindo uma combinação estranha de referências. Nos comentários, outro usuário explica que o nome “Asiavision” já estava patenteado, então mantiveram o “Eurovision” original para facilitar as buscas.",
+      "source": "bluesky",
+      "subreddit": "bsky_se",
+      "permalink": "https://bsky.app/profile/augustorb.bsky.social/post/3n26uxj33qc2c",
+      "createdAt": "2026-11-13T11:28:43.773000+00:00",
+      "rawScore": 0.03002848240119604,
+      "relevanceScore": 0.0,
+      "suggestedRadius": 36.0,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-se",
+      "sources": [
+        {
+          "title": "\"eurovision asia\" parece aquele coritiba do Sergipe kkkkk",
+          "url": "https://bsky.app/profile/augustorb.bsky.social/post/3n26uxj33qc2c",
+          "subreddit": "bsky_se"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A explicação faz sentido: se “Asiavision” já estava patenteado, manter “Eurovision” no nome ajuda o público a achar o evento nas buscas. É uma solução prática para um problema de marca.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O nome “Eurovision Asia” soa contraditório e confuso, como “Coritiba do Sergipe”. Se o evento é asiático, chamar de Eurovision desalinha a identidade e passa uma impressão errada.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A piada funciona justamente porque o nome mistura referências distantes. Mas se a patente de “Asiavision” já existia, a escolha pode ser só uma questão burocrática, não uma falha de criatividade.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T18:44:08.435040+00:00",
+  "generatedAt": "2026-11-16T05:36:04.706140+00:00",
   "region": "br-al",
   "count": 10,
   "items": [
@@ -8,7 +8,7 @@
       "rank": 1,
       "title": "Calor em Maceió dá vontade de ficar em casa o dia todo",
       "label": "Calor em Maceió · Vontade de ficar em casa",
-      "context": "Uma pessoa relatou no Bluesky que, com o calor em Maceió, só sente vontade de ficar em casa o dia todo. O comentário gerou identificação imediata de outra pessoa, que disse passar o dia todo assim em casa.",
+      "context": "Uma pessoa relatou no Bluesky que, com o calor em Maceió, só sente vontade de ficar em casa o dia todo. O comentário gerou respostas de quem também fica em casa e de quem brinca sobre aumentar o calor.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/alexsandroafonso.bsky.social/post/3n2cw4khrxc2z",
@@ -31,7 +31,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Ficar em casa no calor de Maceió é a melhor decisão: evita o sol forte, economiza energia e o corpo agradece. Quem pode ficar no conforto não tem por que sair enfrentar esse forno.",
+          "text": "Ficar em casa nessas horas é a melhor decisão: com esse calor de Maceió, sair só piora a situação. Melhor se proteger e curtir o frescor do lar do que enfrentar o sol escaldante.",
           "source": "sintese",
           "evidence": [
             1
@@ -41,18 +41,92 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Reclamar do calor e se trancar em casa não resolve nada; o calor de Maceió é conhecido e quem mora aqui precisa tocar a vida normalmente, trabalhar e sair. Ficar o dia todo em casa é privilégio de poucos.",
+          "text": "Esse calor todo é um convite para sair e se refrescar na praia ou tomar um banho de mar. Ficar trancado em casa é desperdiçar o dia, mesmo que esteja quente.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O calor de Maceió realmente dá vontade de não sair, mas cada um lida de um jeito: tem quem prefira enfrentar a rua e tem quem fique em casa. O comentário do amigo mostra que a zoeira também faz parte.",
+          "text": "O calor em Maceió é intenso, mas cada um lida como quer: tem gente que prefere ficar em casa, tem gente que brinca com a situação. O importante é se cuidar e evitar exageros.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2eszw34sc2a",
+      "rank": 2,
+      "title": "Mapa mostra estados que usuário não visitou, onde morou e quais já conheceu",
+      "label": "Mapa de viagens pelo Brasil · Estados visitados",
+      "context": "Um usuário do Bluesky publicou um mapa do Brasil indicando os estados que já visitou, onde morou e os três que ainda não conhece: Piauí, Tocantins e Alagoas. O post gerou conversa sobre viagens pelo país e sobre crescimento de renda em estados como Piauí, Alagoas e Tocantins.",
+      "source": "bluesky",
+      "subreddit": "bsky_al",
+      "permalink": "https://bsky.app/profile/magapatalogika.bsky.social/post/3n2eszw34sc2a",
+      "createdAt": "2026-11-15T20:10:29.341000+00:00",
+      "rawScore": 0.6308327634651932,
+      "relevanceScore": 0.8770322372636765,
+      "suggestedRadius": 92.19,
+      "imageUrl": "assets/images/bsky_3n2eszw34sc2a_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2eszw34sc2a_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-al",
+      "sources": [
+        {
+          "title": "Mapa que mostra os lugares que ainda não visitei, onde morei e quais visitei - Não visitei três estados: Piauí, Tocantins e Alagoas - Morei nos estados do Paraná, Tocantins e Amazonas - Fiquei por um tempo: Minas, Santa Catarina e Rio Grande do Sul - todos os outros não citados eu visitei",
+          "url": "https://bsky.app/profile/magapatalogika.bsky.social/post/3n2eszw34sc2a",
+          "subreddit": "bsky_al"
+        },
+        {
+          "title": "esse ano QUASE eu visitei alagoas e maranhão, mas MA santa catarina não deixou, AL o dinheiro não deixou",
+          "url": "https://bsky.app/profile/nubobot.com/post/3n2eripaqok27",
+          "subreddit": "bsky_al"
+        },
+        {
+          "title": "“Alagoas e Tocantins, com 42%, superaram a taxa do milagre do Vietnã. No Maranhão, esse crescimento foi maior que o dado da China. No Amapá, campeão, maior do que no boom da Geórgia (o país que você conhece pelo Kvaratskhelia).”",
+          "url": "https://bsky.app/profile/nandabel23.bsky.social/post/3n2234ua4bs2t",
+          "subreddit": "bsky_al"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Conhecer o próprio país vale mais do que qualquer viagem internacional, e o mapa mostra que dá para ir longe sem sair do Brasil. Quem já rodou tantos estados assim entende a diversidade de cada região melhor do que muita gente que só conhece capital.",
           "source": "sintese",
           "evidence": [
-            2
+            4,
+            5
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Faltar justamente Piauí, Tocantins e Alagoas diz muito sobre como o turismo brasileiro é concentrado no Sul e Sudeste. Esses estados têm crescimento de renda acima da média, mas continuam fora das rotas tradicionais de viagem, e o mapa só reflete isso.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2,
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O mapa é uma brincadeira pessoal, mas os números que apareceram na conversa são sérios: Piauí e Alagoas cresceram 42% em renda entre 2019 e 2025, e isso muda a leitura de quais estados valem a pena conhecer. Visitar ou não é escolha individual, mas o dado estadual pesa.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2,
+            3
           ],
           "votes": 0
         }
@@ -61,18 +135,71 @@
       "promptVersion": 2
     },
     {
+      "id": "bsky_3n2euuzql4c2y",
+      "rank": 3,
+      "title": "Falta muito para a meiuca do Brasil, mas queria demais ir pro Pará",
+      "label": "Viagem ao Pará · Desejo e distância",
+      "context": "Um usuário do Bluesky publicou que ainda falta muito para chegar à meiuca do Brasil, mas que gostaria muito de ir ao Pará. O post expressa o desejo de conhecer o estado, ao mesmo tempo em que reconhece a distância a ser percorrida.",
+      "source": "bluesky",
+      "subreddit": "bsky_al",
+      "permalink": "https://bsky.app/profile/larissajmar.bsky.social/post/3n2euuzql4c2y",
+      "createdAt": "2026-11-15T20:43:23.856000+00:00",
+      "rawScore": 0.5010992611410713,
+      "relevanceScore": 0.5567769568234125,
+      "suggestedRadius": 80.77,
+      "imageUrl": "assets/images/bsky_3n2euuzql4c2y_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2euuzql4c2y_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-al",
+      "sources": [
+        {
+          "title": "falta muito a meiuca ali do Brasil, mas queria demais ir pro Pará",
+          "url": "https://bsky.app/profile/larissajmar.bsky.social/post/3n2euuzql4c2y",
+          "subreddit": "bsky_al"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O Pará merece essa vontade de conhecer: é um estado com cultura, comida e paisagens que não se encontram em nenhum outro lugar do país, e vale encarar a distância para viver isso de perto.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A distância até o Pará é o que pesa: a viagem é longa e cara para quem está na meiuca do Brasil, e isso acaba afastando muita gente que tem vontade de conhecer o estado mas não consegue bancar o deslocamento.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Vontade de ir ao Pará não falta, mas o deslocamento é o ponto que decide: depende de quanto tempo e dinheiro a pessoa tem disponível, e para muitos a viagem fica só no desejo por causa disso.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
       "id": "bsky_3n2dwuf6xuk2r",
-      "rank": 2,
-      "title": "Heloísa Helena deixa o PT e lança candidatura presidencial com Collor como senador por Alagoas",
-      "label": "Heloísa Helena · Candidatura presidencial e retorno de Collo",
-      "context": "A senadora Heloísa Helena, eleita pelo PT, rompeu com o partido e passou a fazer oposição ao governo Lula, deixando a legenda para disputar a Presidência da República. Em seu vácuo político, Fernando Collor de Mello conseguiu se eleger senador por Alagoas.",
+      "rank": 4,
+      "title": "Heloísa Helena deixa o PT para disputar a Presidência e ressuscita Collor",
+      "label": "Heloísa Helena · Saída do PT e candidatura",
+      "context": "A senadora Heloísa Helena, eleita pelo PT, deixou o partido para se candidatar à Presidência da República. Sua candidatura é associada ao retorno político de Fernando Collor de Mello, que se elegeu senador por Alagoas.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/cordeiromiguel.bsky.social/post/3n2dwuf6xuk2r",
       "createdAt": "2026-11-15T11:46:03.845000+00:00",
-      "rawScore": 0.34895408934175476,
-      "relevanceScore": 0.38772676593528305,
-      "suggestedRadius": 73.36,
+      "rawScore": 0.25554852096790853,
+      "relevanceScore": 0.28394280107545394,
+      "suggestedRadius": 67.97,
       "imageUrl": "assets/images/bsky_3n2dwuf6xuk2r_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2dwuf6xuk2r_uns_thumb.jpg",
       "category": "geopolitica",
@@ -88,7 +215,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Heloísa Helena mostra coerência ao sair do PT e disputar a Presidência fora da estrutura do governo Lula. Uma candidatura própria de oposição dá ao eleitor uma alternativa real, em vez de ficar refém da polarização entre o governo e a oposição tradicional.",
+          "text": "A saída de Heloísa Helena do PT mostra que ela mantém coerência com suas convicções e não se curva à máquina partidária. Sua candidatura presidencial representa uma alternativa para quem quer mudança real, mesmo que isso implique alianças inesperadas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -96,7 +223,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ressuscitar Collor como senador por Alagoas é o preço que se paga quando uma candidatura presidencial se apoia em caciques regionais. A aliança com um político cassado por corrupção compromete o discurso de renovação e mostra que a tal oposição repete as velhas práticas.",
+          "text": "Heloísa Helena se elegeu pelo PT e agora deixa o partido para se aliar a Collor, um político com histórico de corrupção. Isso revela oportunismo e falta de compromisso com os eleitores que confiaram nela, além de ressuscitar uma figura desgastada.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -104,7 +231,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A trajetória de Heloísa Helena ilustra como o sistema político brasileiro recicla nomes: sai do PT, vira oposição e ainda impulsiona o retorno de Collor. Antes de apoiar ou criticar, vale olhar o histórico de cada um e o que essa candidatura realmente propõe para o país.",
+          "text": "A candidatura de Heloísa Helena e a volta de Collor ao Senado mostram como o cenário político brasileiro é dinâmico e cheio de reviravoltas. É preciso analisar cada caso com cuidado, sem julgamentos precipitados, considerando o contexto e as alianças necessárias.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -115,17 +242,17 @@
     },
     {
       "id": "bsky_3n2cdmf7uns2j",
-      "rank": 3,
+      "rank": 5,
       "title": "\"Lendo Jane Eyre em Penedo/Alagoas\" é bem nome de música da Lana",
       "label": "Nome de música da Lana · Penedo/AL",
-      "context": "Um post no Bluesky comparou a expressão \"lendo Jane Eyre em Penedo/Alagoas\" ao estilo de títulos de músicas da cantora Lana Del Rey. A brincadeira viralizou entre usuários da região, que reagiram com humor e identificação.",
+      "context": "Um post no Bluesky comparou a frase \"lendo Jane Eyre em Penedo/Alagoas\" ao estilo de títulos de músicas da cantora Lana Del Rey. A brincadeira viralizou entre usuários da rede, incluindo pessoas de Maceió e Penedo, que reagiram à coincidência.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/prettygirlhi.bsky.social/post/3n2cdmf7uns2j",
       "createdAt": "2026-11-14T20:28:53.643000+00:00",
-      "rawScore": 0.13395003796326524,
-      "relevanceScore": 0.2599444866258503,
-      "suggestedRadius": 66.59,
+      "rawScore": 0.12582308391516922,
+      "relevanceScore": 0.25091453768352134,
+      "suggestedRadius": 66.05,
       "imageUrl": "assets/images/bsky_3n2cdmf7uns2j_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2cdmf7uns2j_uns_thumb.jpg",
       "category": "geopolitica",
@@ -146,7 +273,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A combinação de Jane Eyre com Penedo/Alagoas tem tudo a ver com o universo da Lana: literatura clássica, cidade histórica e uma melancolia bonita. É exatamente o tipo de frase que ela usaria numa música.",
+          "text": "A frase tem tudo a ver com o universo da Lana: um lugar interiorano, um clássico da literatura e uma melancolia elegante. É exatamente o tipo de imagem que ela usaria numa música.",
           "source": "sintese",
           "evidence": [
             1
@@ -156,7 +283,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa comparação forçada com a Lana não faz sentido nenhum. Penedo é uma cidade real, com história própria, e reduzir tudo a um nome de música é uma bobagem que ignora o lugar.",
+          "text": "Comparar qualquer frase com 'nome de música da Lana' já virou clichê na internet. A graça se perde quando todo mundo começa a forçar a mesma piada com qualquer combinação de palavras.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -164,7 +291,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Achei engraçado o post, mas o que mais chamou atenção foi encontrar outros usuários de Maceió e Penedo na mesma conversa. A brincadeira acabou virando um ponto de encontro para quem é da região.",
+          "text": "O post acabou servindo mais para aproximar quem é de Alagoas do que para falar da Lana. Ver gente de Maceió e Penedo se encontrando nos comentários foi o efeito real da brincadeira.",
           "source": "sintese",
           "evidence": [
             1,
@@ -178,19 +305,19 @@
     },
     {
       "id": "bsky_3n24suw3brs27",
-      "rank": 4,
-      "title": "Sauna gratuita em qualquer lugar de Maceió: a hora de desidratar é agora",
-      "label": "Calor em Maceió · Sauna gratuita",
-      "context": "Uma publicação no Bluesky chama de 'sauna gratuita' o calor em qualquer lugar de Maceió e brinca que é hora de desidratar. A piada viraliza em meio a reclamações sobre preços altos na cidade e à divulgação do Festival Carambola, que completa 10 anos em 14 de novembro na Arena Alagoas.",
+      "rank": 6,
+      "title": "Calor em Maceió transforma a cidade em sauna gratuita",
+      "label": "Calor extremo em Maceió · Sauna natural",
+      "context": "Uma publicação no Bluesky descreveu o calor em Maceió como uma sauna gratuita em qualquer lugar da cidade, em novembro de 2026. O comentário gerou reações sobre hidratação e também sobre os preços de refeições na capital alagoana.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/yaasmineyas.bsky.social/post/3n24suw3brs27",
       "createdAt": "2026-11-12T15:46:07.386000+00:00",
-      "rawScore": 0.06852369991497688,
-      "relevanceScore": 0.25224438887454725,
-      "suggestedRadius": 66.13,
-      "imageUrl": "assets/images/bsky_3n24suw3brs27_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n24suw3brs27_reddit_thumb.jpg",
+      "rawScore": 0.08126869814743456,
+      "relevanceScore": 0.20140966460826062,
+      "suggestedRadius": 62.93,
+      "imageUrl": "assets/images/bsky_3n24suw3brs27_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24suw3brs27_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-al",
       "sources": [
@@ -203,18 +330,13 @@
           "title": "Jamais vou achar normal pagar pela \"experiência\" pra comer meio galeto com macarrão por 98 reais na minha incrível Maceió (e em nenhum outro lugar)",
           "url": "https://bsky.app/profile/sassenachisalive.bsky.social/post/3n254xu2xnc23",
           "subreddit": "bsky_al"
-        },
-        {
-          "title": "neste dia 14/11 o Festival Carambola completa 10 anos. principal festival independente de artes integradas do estado de Alagoas, o evento rola na Arena Alagoas, em Maceió, com nomes como Gaby Amarantos, IDLIBRA, Marcelo D2, Arnaldo Antunes e + ingressos aqui > shotgun.live/pt-br/festiv...",
-          "url": "https://bsky.app/profile/renan-guerra.bsky.social/post/3mzvj7wjc3k2o",
-          "subreddit": "bsky_al"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O calor de Maceió virou sauna gratuita e o humor é a melhor forma de encarar: em vez de reclamar, a galera brinca com a desidratação e ainda lembra de se reidratar. Esse tipo de post aproxima as pessoas e rende boas risadas.",
+          "text": "O calor de Maceió é tão forte que virou atração gratuita: qualquer esquina vira sauna sem pagar nada. Quem mora aqui já sabe que a única saída é se reidratar e levar na esportiva, porque o sol não dá trégua.",
           "source": "sintese",
           "evidence": [
             1
@@ -224,7 +346,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Pagar R$ 98 por meio galeto com macarrão é um absurdo que não dá para normalizar, e o calor só piora a sensação de que Maceió está cara demais para os moradores. A cidade precisa de preços justos, não de piada com a situação.",
+          "text": "Pagar 98 reais por meio galeto com macarrão em Maceió é um absurdo, ainda mais com esse calor que desidrata a gente. A cidade cobra caro até pela experiência de comer mal, e ninguém deveria achar isso normal.",
           "source": "sintese",
           "evidence": [
             2
@@ -234,10 +356,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O Festival Carambola completa 10 anos e traz Gaby Amarantos, Marcelo D2 e Arnaldo Antunes para a Arena Alagoas, mas o calor extremo pode afetar a experiência do público. Vale acompanhar a programação e se preparar para as altas temperaturas.",
+          "text": "O preço até inclui entrada e sobremesa, então não é só o galeto com macarrão. Mesmo assim, continua caro para o que oferece, e cada um decide se vale a pena pagar ou não.",
           "source": "sintese",
           "evidence": [
-            3
+            2
           ],
           "votes": 0
         }
@@ -247,17 +369,17 @@
     },
     {
       "id": "bsky_3n2cem6lkv22s",
-      "rank": 5,
+      "rank": 7,
       "title": "Usuário descobre ter mutual de Maceió e comemora",
       "label": "Mutual de Maceió · Descoberta no Bluesky",
-      "context": "Um usuário do Bluesky publicou que nunca imaginou ter um mutual de Maceió e comemorou ao descobrir que a outra pessoa também é da cidade. A coincidência gerou comentários sobre a possibilidade de os dois se conhecerem pessoalmente ou terem amigos em comum, já que Maceió é uma cidade pequena.",
+      "context": "Um usuário do Bluesky comemorou ao descobrir que tem um mutual (conexão mútua) que também é de Maceió. A coincidência gerou reações de surpresa nos comentários, com pessoas especulando se já se conhecem pessoalmente ou se têm amigos em comum por causa do tamanho da cidade.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/anagrawm.bsky.social/post/3n2cem6lkv22s",
       "createdAt": "2026-11-14T20:46:43.645000+00:00",
-      "rawScore": 0.13560061615009691,
-      "relevanceScore": 0.15066735127788547,
-      "suggestedRadius": 59.29,
+      "rawScore": 0.12696736105513098,
+      "relevanceScore": 0.1410748456168122,
+      "suggestedRadius": 58.54,
       "imageUrl": "assets/images/bsky_3n2cem6lkv22s_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2cem6lkv22s_uns_thumb.jpg",
       "category": "geopolitica",
@@ -273,7 +395,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Achar um mutual da mesma cidade é uma surpresa boa demais, ainda mais em Maceió, que é um ovo. Isso mostra como as redes ainda conseguem criar conexões locais inesperadas e dá até vontade de marcar um encontro.",
+          "text": "Maceió é um ovo, então descobrir um mutual daqui é quase certeza de que a gente já se esbarrou em algum lugar ou tem amigo em comum. Achar alguém da mesma cidade numa rede social é sempre uma surpresa boa.",
           "source": "sintese",
           "evidence": [
             2
@@ -283,7 +405,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Frequento os mesmos espaços que essa pessoa? Talvez não, porque nem estou postando do carambola. A coincidência de ser de Maceió não garante que a gente se esbarre por aí, então essa empolgação toda pode ser só um acaso sem futuro.",
+          "text": "Ser da mesma cidade não quer dizer nada se a pessoa não posta do mesmo lugar que você frequenta. Maceió pode até ser pequena, mas os espaços que cada um ocupa são bem diferentes, então a conexão pode ser só coincidência.",
           "source": "sintese",
           "evidence": [
             1
@@ -293,72 +415,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Maceió ser um ovo explica a coincidência, mas não dá para saber se é amizade em comum ou se os dois já se cruzaram por aí. O jeito é perguntar diretamente para matar a curiosidade e ver no que dá.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2234ua4bs2t",
-      "rank": 6,
-      "title": "Alagoas e Tocantins superam taxa de crescimento do Vietnã, diz IBGE",
-      "label": "Crescimento de renda por estado · IBGE",
-      "context": "Dados do IBGE sobre renda domiciliar per capita entre 2019 e 2025 mostram que Alagoas e Tocantins cresceram 42%, superando a taxa do 'milagre' do Vietnã, e o Amapá teve o maior avanço, acima do boom da Geórgia. O indicador nacional ponderado reflete o peso das regiões mais desenvolvidas, que cresceram menos, enquanto estados mais pobres tiveram avanços maiores.",
-      "source": "bluesky",
-      "subreddit": "bsky_al",
-      "permalink": "https://bsky.app/profile/nandabel23.bsky.social/post/3n2234ua4bs2t",
-      "createdAt": "2026-11-11T13:35:46.181000+00:00",
-      "rawScore": 0.11750705719445788,
-      "relevanceScore": 0.13056339688273097,
-      "suggestedRadius": 57.68,
-      "imageUrl": "assets/images/bsky_3n2234ua4bs2t_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2234ua4bs2t_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-al",
-      "sources": [
-        {
-          "title": "“Alagoas e Tocantins, com 42%, superaram a taxa do milagre do Vietnã. No Maranhão, esse crescimento foi maior que o dado da China. No Amapá, campeão, maior do que no boom da Geórgia (o país que você conhece pelo Kvaratskhelia).”",
-          "url": "https://bsky.app/profile/nandabel23.bsky.social/post/3n2234ua4bs2t",
-          "subreddit": "bsky_al"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Os números do IBGE mostram que estados como Alagoas, Tocantins e Amapá cresceram muito acima da média nacional, o que indica que as transferências de renda estão chegando onde mais precisam. Isso é um resultado concreto para as regiões mais pobres do país.",
+          "text": "A coincidência de ter um mutual de Maceió levanta a dúvida: ou já se conhecem pessoalmente, ou têm algum amigo em comum. Só que sem saber os lugares que cada um frequenta, fica difícil confirmar se a conexão é real ou só geográfica.",
           "source": "sintese",
           "evidence": [
             1,
             2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A PNAD é uma pesquisa amostral e as estimativas para estados menores têm incerteza, então usar esses dados para afirmar que Alagoas superou o Vietnã é exagero. O indicador nacional ponderado é mais confiável do que comparações estaduais feitas assim.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O crescimento da renda nos estados mais pobres é fato, mas depende de como se mede: a renda domiciliar per capita do IBGE entre 2019 e 2025 captura as transferências, porém a comparação com outros países ignora diferenças de custo de vida e de base de cálculo.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2,
-            3
           ],
           "votes": 0
         }
@@ -368,17 +429,17 @@
     },
     {
       "id": "bsky_3n24n5a7yv22u",
-      "rank": 7,
-      "title": "Fontaines D.C. em Maceió se eu ganhar na Mega-Sena",
-      "label": "Show do Fontaines D.C. em Maceió · Desejo de fã",
-      "context": "Um usuário do Bluesky publicou que, se ganhar na Mega-Sena, traria a banda irlandesa Fontaines D.C. para se apresentar em Maceió. A ideia gerou reação imediata de outro usuário, que sugeriu o Beco da Rapariga como local e se ofereceu para organizar uma excursão saindo de Aracaju.",
+      "rank": 8,
+      "title": "Fontaines D.C. em Maceió se eu ganhar na mega sena",
+      "label": "Show do Fontaines D.C. em Maceió",
+      "context": "Um usuário do Bluesky publicou que traria a banda irlandesa Fontaines D.C. para se apresentar em Maceió caso ganhasse na Mega-Sena. A ideia virou conversa entre seguidores, que começaram a sugerir locais e até organizar uma excursão de Aracaju para o show.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/jeffbrito85.bsky.social/post/3n24n5a7yv22u",
       "createdAt": "2026-11-12T14:03:25.282000+00:00",
-      "rawScore": 0.08955031763602482,
-      "relevanceScore": 0.09950035292891646,
-      "suggestedRadius": 54.93,
+      "rawScore": 0.1155600451502571,
+      "relevanceScore": 0.12840005016695233,
+      "suggestedRadius": 57.5,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -394,7 +455,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A ideia é ótima e o Beco da Rapariga seria um lugar perfeito para receber o Fontaines D.C. em Maceió. Já pensou a cena? Eu mesmo organizo a excursão de Aracaju e levo todo mundo para curtir.",
+          "text": "Ia ser top demais ver Fontaines D.C. em Maceió, e o Beco da Rapariga seria um lugar perfeito pra esse tipo de show. Já tô até pensando na excursão saindo de Aracaju pra galera toda ir junto.",
           "source": "sintese",
           "evidence": [
             1
@@ -404,7 +465,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Ganhar na Mega-Sena é praticamente impossível, então essa história de trazer o Fontaines D.C. a Maceió não passa de um sonho distante. Ficar prometendo show que nunca vai acontecer só gera frustração.",
+          "text": "Ganhar na Mega-Sena e gastar a bolada trazendo banda irlandesa pra tocar em Maceió é um jeito bem específico de torrar o prêmio. Com esse dinheiro dava pra fazer algo que ficasse de verdade pra cidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -412,7 +473,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O Beco da Rapariga pode até ser uma opção, mas precisaria de estrutura para um show internacional. Antes de pensar na excursão de Aracaju, seria bom avaliar se o local comporta público e equipamento.",
+          "text": "A ideia é divertida, mas depende de ganhar na Mega-Sena, o que é praticamente impossível. Enquanto isso, o jeito é continuar sonhando com o show e organizando a excursão de Aracaju no papo.",
           "source": "sintese",
           "evidence": [
             1
@@ -425,17 +486,17 @@
     },
     {
       "id": "bsky_3n26vrrvkl42v",
-      "rank": 8,
+      "rank": 9,
       "title": "Qual estado teve alfabetização infantil superior a São Paulo no ano passado?",
       "label": "Alfabetização infantil · Comparação entre estados",
-      "context": "Um post no Bluesky propôs um quiz perguntando qual estado teve índice de alfabetização infantil superior ao de São Paulo no ano anterior, com cinco alternativas. Nos comentários, a resposta apontada é que todas as alternativas superaram São Paulo, exceto Santa Catarina, e que São Paulo ficou abaixo da média nacional.",
+      "context": "Um post no Bluesky propôs um quiz perguntando qual estado teve índice de alfabetização infantil superior ao de São Paulo no ano anterior, com cinco alternativas. Nos comentários, a resposta apontada foi que quase todos os estados listados superaram São Paulo, exceto Santa Catarina, que teve um dos piores resultados do país.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/corridadelesma.bsky.social/post/3n26vrrvkl42v",
       "createdAt": "2026-11-13T11:43:24.172000+00:00",
-      "rawScore": 0.08511838300563214,
-      "relevanceScore": 0.09457598111736903,
-      "suggestedRadius": 54.45,
+      "rawScore": 0.09671444811644718,
+      "relevanceScore": 0.10746049790716353,
+      "suggestedRadius": 55.67,
       "imageUrl": "assets/images/bsky_3n26vrrvkl42v_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n26vrrvkl42v_uns_thumb.jpg",
       "category": "geopolitica",
@@ -451,7 +512,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A pergunta escancara o fracasso da educação paulista: o estado mais rico do país ficou abaixo da média nacional em alfabetização infantil, e quase todos os estados listados tiveram resultado melhor. Isso mostra que dinheiro não é tudo quando o assunto é ensino.",
+          "text": "A pergunta já entrega o recado: Rondônia, Acre, Piauí e Alagoas tiveram alfabetização infantil melhor que São Paulo, o estado mais rico do país. Isso mostra que dinheiro não é tudo quando o assunto é educação básica.",
           "source": "sintese",
           "evidence": [
             1
@@ -461,7 +522,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Santa Catarina aparece como exceção negativa no quiz, com um dos piores resultados do país em alfabetização infantil. Um estado com tanta riqueza e IDH alto não pode ficar atrás de Rondônia, Acre, Piauí e Alagoas nesse indicador.",
+          "text": "Santa Catarina aparece como exceção negativa mesmo sendo um estado rico, o que reforça que o problema não é só verba. O resultado de São Paulo abaixo da média nacional também acende alerta para a qualidade do ensino fundamental.",
           "source": "sintese",
           "evidence": [
             1
@@ -471,7 +532,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O quiz é uma pegadinha que generaliza: comparar um estado isolado com a média nacional esconde diferenças de metodologia e de porte populacional. São Paulo tem milhões de alunos, e um recorte único não diz muito sobre a qualidade real da alfabetização.",
+          "text": "O quiz vira pegadinha porque a maioria acerta por eliminação, mas o dado em si merece atenção: São Paulo ficou abaixo da média nacional em alfabetização infantil, e isso deveria pautar políticas públicas, não só memes.",
           "source": "sintese",
           "evidence": [
             1
@@ -483,86 +544,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2cefunvh22u",
-      "rank": 9,
-      "title": "Sou de Maceió e estou visitando Penedo com amigos hoje",
-      "label": "Mutual de Maceió · Encontro em Penedo",
-      "context": "Uma pessoa do Bluesky conta que é de Maceió e está visitando Penedo com amigos. O post gerou interação de outros usuários da mesma cidade, que reagiram à coincidência de terem um mutual local.",
-      "source": "bluesky",
-      "subreddit": "bsky_al",
-      "permalink": "https://bsky.app/profile/prettygirlhi.bsky.social/post/3n2cefunvh22u",
-      "createdAt": "2026-11-14T20:43:09.252000+00:00",
-      "rawScore": 0.06816007782365657,
-      "relevanceScore": 0.07573341980406285,
-      "suggestedRadius": 52.51,
-      "imageUrl": "assets/images/bsky_3n2cefunvh22u_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2cefunvh22u_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-al",
-      "sources": [
-        {
-          "title": "siiim, sou de maceió!! tô visitando penedo com meus amigos hoje",
-          "url": "https://bsky.app/profile/prettygirlhi.bsky.social/post/3n2cefunvh22u",
-          "subreddit": "bsky_al"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Achar um mutual de Maceió aqui é uma surpresa boa demais, ainda mais num app que parece dominado por gente de fora. Maceió é um ovo e esse tipo de coincidência só aproxima quem é daqui.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Ser de Maceió não quer dizer que a gente se conhece ou frequenta os mesmos lugares, então essa empolgação toda com 'mutual daqui' pode ser exagero. A cidade tem muita gente e círculos bem diferentes.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A coincidência de ter um mutual de Maceió é curiosa, mas o mais provável é que exista algum amigo em comum entre a gente. Maceió é pequena o suficiente pra isso acontecer sem que a gente se conheça de fato.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n27w6je5ks2n",
+      "id": "bsky_3mzy2u2vizc2m",
       "rank": 10,
-      "title": "Como ele não acabou, vim aqui curtir Penedo",
-      "label": "Penedo · Passeio após evento",
-      "context": "Um usuário do Bluesky publicou que, como o evento não terminou, foi até Penedo para aproveitar o local. O post registra a escolha de curtir Penedo como alternativa diante da continuidade da situação anterior.",
+      "title": "Tulla lê acordo do 11º Juizado de Maceió no início do vídeo",
+      "label": "Tulla lê acordo do 11º Juizado de Maceió",
+      "context": "No início de um vídeo, Tulla lê o acordo do 11º Juizado de Maceió. A leitura desse documento jurídico no começo da gravação chamou a atenção de quem assistiu.",
       "source": "bluesky",
       "subreddit": "bsky_al",
-      "permalink": "https://bsky.app/profile/milafas.bsky.social/post/3n27w6je5ks2n",
-      "createdAt": "2026-11-13T21:23:17.369000+00:00",
-      "rawScore": 0.06497255202392231,
-      "relevanceScore": 0.07219172447102479,
-      "suggestedRadius": 52.12,
-      "imageUrl": "assets/images/bsky_3n27w6je5ks2n_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27w6je5ks2n_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/ofioqueliga.bsky.social/post/3mzy2u2vizc2m",
+      "createdAt": "2026-11-10T18:25:31.279000+00:00",
+      "rawScore": 0.06597858081285225,
+      "relevanceScore": 0.07330953423650251,
+      "suggestedRadius": 52.25,
+      "imageUrl": "assets/images/bsky_3mzy2u2vizc2m_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzy2u2vizc2m_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-al",
       "sources": [
         {
-          "title": "como ele não acabou vim aqui curtir Penedo",
-          "url": "https://bsky.app/profile/milafas.bsky.social/post/3n27w6je5ks2n",
+          "title": "a tulla no começo do vídeo lendo o acordo do 11º juizado de maceió",
+          "url": "https://bsky.app/profile/ofioqueliga.bsky.social/post/3mzy2u2vizc2m",
           "subreddit": "bsky_al"
         }
       ],
@@ -570,15 +571,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Aproveitar Penedo quando o evento não acaba é a melhor decisão: em vez de ficar esperando, o jeito é curtir o lugar e transformar o imprevisto em passeio.",
+          "text": "A leitura do acordo pela Tulla logo no começo do vídeo é um achado, um momento que merecia reconhecimento em festivais de cinema. A cena tem força própria e prende pela naturalidade.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Trocar o evento por Penedo só porque ele não acabou parece desistência: quem estava acompanhando queria o desfecho, e sair antes deixa a sensação de que faltou conclusão.",
+          "text": "O vídeo começa com a Tulla lendo um acordo do juizado e isso não funciona: soa arrastado e sem impacto. A abertura não justifica a expectativa criada e compromete o restante.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -586,9 +589,12 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Ir para Penedo depende do que a pessoa busca: se o evento se estende sem previsão, curtir o lugar pode ser uma pausa razoável, mas não resolve a expectativa de quem queria o encerramento.",
+          "text": "A cena da Tulla lendo o acordo do 11º Juizado de Maceió tem potencial, mas o efeito depende de como o público reage. Se for como imagino, seria um daqueles momentos de morrer derretida vendo o filme.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2,
+            3
+          ],
           "votes": 0
         }
       ],

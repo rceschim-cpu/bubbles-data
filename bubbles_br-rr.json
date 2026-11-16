@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T18:44:08.435040+00:00",
+  "generatedAt": "2026-11-16T05:36:04.706140+00:00",
   "region": "br-rr",
   "count": 6,
   "items": [
@@ -7,8 +7,8 @@
       "id": "bsky_3n2d3oaxets2q",
       "rank": 1,
       "title": "Economia brasileira quebrada",
-      "label": "Economia brasileira · Crise e quebra",
-      "context": "Um post no Bluesky afirma que a economia brasileira está quebrada, citando uma matéria do site ndmais.com.br. A publicação gerou comentários que associam a suposta crise a empréstimos do BNDES e dívidas de INSS de um empresário.",
+      "label": "Economia brasileira · Crise e dívidas",
+      "context": "Um post no Bluesky afirma que a economia brasileira está quebrada, citando uma matéria do site ndmais.com.br. Nos comentários, o foco recai sobre as dívidas de uma rede de lojas com o INSS e sobre empréstimos do BNDES recebidos por seu dono.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/wilsonsilva.bsky.social/post/3n2d3oaxets2q",
@@ -31,7 +31,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O empresário que montou a rede de lojas e comprou jatinho usou empréstimos do BNDES e agora reclama do Estado, mostrando que a economia quebrada é consequência de quem se beneficiou e não quer pagar a conta.",
+          "text": "O dono da rede de lojas diz que nunca precisou do Estado, mas montou o negócio e comprou jatinho com empréstimos do BNDES. Isso mostra que ele mentiu e que não seria nada sem o dinheiro público.",
           "source": "sintese",
           "evidence": [
             1
@@ -41,62 +41,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A economia não está quebrada por causa de um empresário específico, mas por um conjunto de fatores estruturais; apontar um único caso como causa da crise é simplista e ignora a complexidade da situação fiscal do país.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A afirmação de que a economia está quebrada precisa de dados concretos; o post original cita uma matéria, mas os comentários focam em um empresário e não explicam os indicadores econômicos que sustentariam essa conclusão.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n24ddt4n6c2m",
-      "rank": 2,
-      "title": "Candidata recebe R$ 70 mil do fundão eleitoral e tem 8 votos em Roraima",
-      "label": "Fundão eleitoral · Voto mais caro do Brasil",
-      "context": "Uma candidata a deputada estadual pelo MDB de Roraima recebeu R$ 70 mil do fundo eleitoral e obteve apenas 8 votos, segundo reportagem do Metrópoles. O caso é apontado como o voto mais caro do Brasil e levanta discussão sobre a eficiência e a fiscalização do uso do dinheiro público nas campanhas.",
-      "source": "bluesky",
-      "subreddit": "bsky_rr",
-      "permalink": "https://bsky.app/profile/blogdonoblat.bsky.social/post/3n24ddt4n6c2m",
-      "createdAt": "2026-11-12T11:08:14.083000+00:00",
-      "rawScore": 0.31875252922806013,
-      "relevanceScore": 0.3541694769200668,
-      "suggestedRadius": 71.71,
-      "imageUrl": "assets/images/bsky_3n24ddt4n6c2m_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n24ddt4n6c2m_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rr",
-      "sources": [
-        {
-          "title": "Farra eleitoral: siglas despejam dezenas de milhões em candidatos sem voto Candidata a deputada estadual pelo MDB de Roraima recebeu R$ 70 mil do “fundão eleitoral\" e teve só 8 votos. É o voto mais caro do Brasil www.metropoles.com/colunas/andr...",
-          "url": "https://bsky.app/profile/blogdonoblat.bsky.social/post/3n24ddt4n6c2m",
-          "subreddit": "bsky_rr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O fundão eleitoral precisa de uma reforma urgente, porque do jeito que está é um sistema injusto: não se pode torrar dinheiro público, que é o suor do povo, com candidatos que não têm voto. Casos como esse mostram que o dinheiro está sendo mal utilizado.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Isso é lavagem de dinheiro, e é hora de chamar pelo nome certo. O dinheiro público está sendo desviado por meio de candidaturas sem voto, e enquanto isso não for tratado como crime, a farra continua.",
+          "text": "A rede de lojas está devendo horrores de INSS dos funcionários e mesmo assim o dono aparece reclamando que a aposentadoria quebra o país. É uma incoerência cobrar do Estado sem cumprir as obrigações.",
           "source": "sintese",
           "evidence": [
             2
@@ -106,7 +51,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O caso é grave, mas antes de generalizar é preciso investigar: pode ter havido erro na prestação de contas ou o dinheiro pode ter sido devolvido. A Justiça Eleitoral deveria apurar cada caso e punir os responsáveis, em vez de só criticar o sistema.",
+          "text": "A afirmação de que a economia brasileira está quebrada vem de um post que só cita uma matéria, sem apresentar dados. Antes de concordar ou discordar, seria preciso ver os números e o que a reportagem realmente diz.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -117,17 +62,17 @@
     },
     {
       "id": "bsky_3mzz73mkqac2i",
-      "rank": 3,
+      "rank": 2,
       "title": "Lula é gente como a gente, diz post sobre tratamento igualitário",
-      "label": "Lula · Tratamento igualitário e comparação",
-      "context": "Um post no Bluesky elogia o presidente Lula por tratar todas as pessoas de forma igual, e critica o ex-presidente preso por desdém a negros, citando um senador de Roraima. A publicação compara os dois e destaca a postura de Lula.",
+      "label": "Lula e tratamento igualitário · comparação com preso",
+      "context": "Um post no Bluesky elogia o presidente Lula por tratar todos de forma igual, enquanto critica um preso que, segundo o texto, tratava negros com desdém. A publicação compara a postura de Lula com a de um ex-senador de Roraima, chamado de 'capitão do mato'.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/akaishiri.bsky.social/post/3mzz73mkqac2i",
       "createdAt": "2026-11-11T05:14:02.774000+00:00",
-      "rawScore": 0.30806496534001215,
-      "relevanceScore": 0.3422944059333468,
-      "suggestedRadius": 71.1,
+      "rawScore": 0.4496113249663461,
+      "relevanceScore": 0.49956813885149565,
+      "suggestedRadius": 78.41,
       "imageUrl": "assets/images/bsky_3mzz73mkqac2i_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzz73mkqac2i_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -143,7 +88,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Lula trata todo mundo igual, sem distinção. Isso é o que se espera de um presidente, e o contraste com o ex-presidente, que desdenhava de negros, é evidente. O post acerta ao destacar essa diferença.",
+          "text": "Lula trata todos de forma igual, sem distinção. Isso é o que se espera de um presidente, e o contraste com o outro que está preso e tratava negros com desdém é evidente.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -151,7 +96,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Chamar Lula de 'gente como a gente' é forçar a barra. Presidente tem que ser tratado como autoridade, não como amigo. E a crítica ao ex-presidente parece mais um ataque político do que uma análise honesta.",
+          "text": "Chamar Lula de 'gente como a gente' é forçar a barra. Um presidente não é igual ao povo, e a comparação com o preso só serve para desviar das críticas reais ao governo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -159,7 +104,64 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A comparação entre Lula e o ex-presidente é simplista. Cada um teve seu estilo, e reduzir a discussão a 'gente como a gente' não ajuda a entender as políticas de fato. O foco deveria ser em ações concretas, não em simpatia.",
+          "text": "A comparação entre Lula e o preso é simplista. Cada um tem sua história, e reduzir a discussão a 'gente como a gente' não ajuda a entender os problemas reais do país.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n24ddt4n6c2m",
+      "rank": 3,
+      "title": "Candidata recebe R$ 70 mil do fundão eleitoral e tem só 8 votos em Roraima",
+      "label": "Fundão eleitoral · Voto mais caro do Brasil",
+      "context": "Uma candidata a deputada estadual pelo MDB de Roraima recebeu R$ 70 mil do fundo eleitoral e obteve apenas 8 votos, segundo reportagem do Metrópoles. O caso é apontado como o voto mais caro do Brasil e levanta discussão sobre a eficiência e a fiscalização do uso do dinheiro público nas campanhas.",
+      "source": "bluesky",
+      "subreddit": "bsky_rr",
+      "permalink": "https://bsky.app/profile/blogdonoblat.bsky.social/post/3n24ddt4n6c2m",
+      "createdAt": "2026-11-12T11:08:14.083000+00:00",
+      "rawScore": 0.4476511956989948,
+      "relevanceScore": 0.49739021744332756,
+      "suggestedRadius": 78.32,
+      "imageUrl": "assets/images/bsky_3n24ddt4n6c2m_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24ddt4n6c2m_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rr",
+      "sources": [
+        {
+          "title": "Farra eleitoral: siglas despejam dezenas de milhões em candidatos sem voto Candidata a deputada estadual pelo MDB de Roraima recebeu R$ 70 mil do “fundão eleitoral\" e teve só 8 votos. É o voto mais caro do Brasil www.metropoles.com/colunas/andr...",
+          "url": "https://bsky.app/profile/blogdonoblat.bsky.social/post/3n24ddt4n6c2m",
+          "subreddit": "bsky_rr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O fundão eleitoral precisa de uma reforma urgente, porque é injusto ver dinheiro público, que sai do suor do povo, ser torrado em candidatos sem voto. Casos como esse mostram que o sistema está errado e precisa de regras mais rígidas para evitar desperdício.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Isso não é só desperdício, é lavagem de dinheiro. O dinheiro público está sendo usado para beneficiar candidatos sem representatividade, e é hora de chamar pelo nome certo: corrupção. Precisamos de punição exemplar para quem se beneficia desse esquema.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O caso é grave, mas é preciso investigar se houve má-fé ou apenas uma campanha mal feita. O fundo eleitoral tem regras e a candidata pode ter cumprido a lei, mesmo com resultado pífio. O debate deveria focar em mudar as regras, não em julgar sem provas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -178,9 +180,9 @@
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/andreaugfonseca.bsky.social/post/3n27sq6ixps2a",
       "createdAt": "2026-11-13T20:21:28.780000+00:00",
-      "rawScore": 0.266195378846853,
-      "relevanceScore": 0.29577264316317003,
-      "suggestedRadius": 68.63,
+      "rawScore": 0.33586423300150475,
+      "relevanceScore": 0.37318248111278307,
+      "suggestedRadius": 72.65,
       "imageUrl": "assets/images/bsky_3n27sq6ixps2a_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27sq6ixps2a_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -196,15 +198,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A criação de gado pelas comunidades indígenas em Roraima é uma estratégia histórica de garantir a posse da terra, e não desmatamento. Chamar esses criadores de fazendeiros invasores ignora esse papel e criminaliza uma prática legítima de ocupação tradicional.",
+          "text": "A criação de gado pelas comunidades indígenas em Roraima é uma estratégia histórica de garantir a posse da terra, e não pode ser tratada como desmatamento. Chamar esses criadores de fazendeiros invasores é desconhecer a realidade local e criminalizar uma prática legítima.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A reportagem que motivou o post trata da terra indígena Kapôt Nhinõre, na divisa entre Mato Grosso e Pará, então usar Roraima para justificar a criação de gado indígena desvia o foco do caso concreto e pode enfraquecer a discussão sobre desmatamento na região.",
+          "text": "A reportagem original se refere à terra indígena Kapôt Nhinõre, na divisa entre Mato Grosso e Pará, e não a Roraima. Usar esse exemplo para justificar a criação de gado em Roraima é desviar o foco do que realmente está sendo discutido.",
           "source": "sintese",
           "evidence": [
             1
@@ -214,7 +218,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A distinção entre gado indígena e gado de fazendeiros invasores é válida, mas depende do contexto: em Roraima a prática tem esse significado histórico, enquanto em outras áreas o mesmo tipo de criação pode estar ligado a desmatamento. Generalizar para todo o país não ajuda.",
+          "text": "A prática de criar gado para garantir posse da terra é uma realidade em várias comunidades indígenas, mas é preciso diferenciar cada contexto. O caso de Roraima tem suas particularidades e não deve ser generalizado para outras regiões ou situações.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -224,31 +228,31 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2c37pidm22k",
+      "id": "bsky_3n24r6nhxkk2w",
       "rank": 5,
-      "title": "Roraima na linha do Equador tem 5 sóis por pessoa, diz post",
-      "label": "Roraima · Calor e insolação",
-      "context": "Uma publicação no Bluesky afirma que Roraima fica na linha do Equador e que lá 'é 5 sol por pessoa'. O comentário reforça o tom de brincadeira ao mencionar que o autor é sedentário e tem problema no pé, mas ainda quer escalar o Monte Roraima.",
+      "title": "Pessoa troca sonhos inalcançáveis por escalar o Monte Roraima",
+      "label": "Monte Roraima · Meta de vida",
+      "context": "Uma pessoa relatou que, diante da dificuldade de conquistar uma casa e um emprego que lhe permita uma vida legal, decidiu que seu novo objetivo de vida é escalar o Monte Roraima. A decisão gerou comentários sobre as condições físicas do autor e sobre as características do local, como a localização na linha do Equador.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
-      "permalink": "https://bsky.app/profile/driiversions.bsky.social/post/3n2c37pidm22k",
-      "createdAt": "2026-11-14T17:58:40.148000+00:00",
-      "rawScore": 0.132435524793493,
-      "relevanceScore": 0.25826169421499223,
-      "suggestedRadius": 66.49,
-      "imageUrl": "assets/images/bsky_3n2c37pidm22k_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2c37pidm22k_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/diasomnia.bsky.social/post/3n24r6nhxkk2w",
+      "createdAt": "2026-11-12T15:15:47.470000+00:00",
+      "rawScore": 0.1299642504192326,
+      "relevanceScore": 0.25551583379914733,
+      "suggestedRadius": 66.33,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-rr",
       "sources": [
         {
-          "title": "Roraima amg, bem na linha do Equador, aqui é 5 sol por pessoa kkkkkkkkk",
-          "url": "https://bsky.app/profile/driiversions.bsky.social/post/3n2c37pidm22k",
+          "title": "sou uma pessoa com poucos sonhos mas percebi que ambos estão se mostrando meio inalcançáveis (ter uma casa e um emprego que me permita ter uma vida legal) então decidi que meu objetivo de vida agora é escalar o monte roraima",
+          "url": "https://bsky.app/profile/diasomnia.bsky.social/post/3n24r6nhxkk2w",
           "subreddit": "bsky_rr"
         },
         {
-          "title": "sou uma pessoa com poucos sonhos mas percebi que ambos estão se mostrando meio inalcançáveis (ter uma casa e um emprego que me permita ter uma vida legal) então decidi que meu objetivo de vida agora é escalar o monte roraima",
-          "url": "https://bsky.app/profile/diasomnia.bsky.social/post/3n24r6nhxkk2w",
+          "title": "Roraima amg, bem na linha do Equador, aqui é 5 sol por pessoa kkkkkkkkk",
+          "url": "https://bsky.app/profile/driiversions.bsky.social/post/3n2c37pidm22k",
           "subreddit": "bsky_rr"
         }
       ],
@@ -256,7 +260,15 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A piada dos '5 sóis por pessoa' é ótima porque traduz o calor de Roraima de um jeito que quem é de fora entende na hora. Morar na linha do Equador é isso: sol o ano inteiro, e a galera local tira onda com a própria situação.",
+          "text": "Trocar metas que parecem impossíveis por um desafio concreto como escalar o Monte Roraima é uma forma de recuperar o controle sobre a própria vida. A pessoa está buscando algo que depende só dela, e não do mercado imobiliário ou de um emprego que nunca chega.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O autor admite que é sedentário, está acima do peso e tem problema de pisar, então escalar o Monte Roraima não é um objetivo realista, é uma fuga. Em vez de enfrentar os problemas de moradia e emprego, ele está trocando por uma meta que pode colocar a própria vida em risco.",
           "source": "sintese",
           "evidence": [
             1
@@ -264,17 +276,9 @@
           "votes": 0
         },
         {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Falar em '5 sóis por pessoa' parece exagero de quem nunca passou um dia inteiro sob o sol daqui. O calor é real e pesado, mas reduzir Roraima a essa piada ignora que a região tem chuvas e uma rotina que não é só forno.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
           "id": "op3",
           "tone": "neutral",
-          "text": "O comentário sobre ser sedentário e ter problema no pé mostra que a conversa virou desabafo: o sonho de escalar o Monte Roraima esbarra na condição física. A brincadeira dos sóis acaba servindo de gancho para falar de limites pessoais.",
+          "text": "A escolha do Monte Roraima como objetivo de vida é simbólica, mas o comentário sobre ser o último feito antes de partir para outro plano levanta uma questão: até que ponto essa meta é uma superação ou um sinal de desistência? O contexto físico e emocional precisa ser considerado.",
           "source": "sintese",
           "evidence": [
             1
@@ -290,7 +294,7 @@
       "rank": 6,
       "title": "Só acreditarei na Fundação Cobra Coral quando chover em Roraima nas cabeceiras dos rios",
       "label": "Descrença na Fundação Cobra Coral",
-      "context": "Um post no Bluesky ironiza a Fundação Cobra Coral dizendo que só acreditará nela quando chover em Roraima nas cabeceiras dos rios. A frase usa uma imagem de improbabilidade para expressar desconfiança sobre a atuação da fundação.",
+      "context": "Um usuário do Bluesky publicou que só acreditará na Fundação Cobra Coral quando chover em Roraima nas cabeceiras dos rios, uma condição usada como expressão de descrédito. A frase viralizou e gerou comentários que associam a fundação a contratos com os 'estragos cunidos' e a entidades regionais.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/leveneficor.bsky.social/post/3mzvzw5a2hk2y",
@@ -313,7 +317,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A descrença é justa: a Fundação Cobra Coral não mostra resultados concretos, e o povo de Roraima continua sem ver a tal chuva nas cabeceiras. Enquanto não houver prova real, ninguém é obrigado a acreditar.",
+          "text": "A descrença na Fundação Cobra Coral é justa: o range do feitiço dele é pequeno, como dizem nos comentários, e a fundação não merece crédito enquanto não chover em Roraima nas cabeceiras dos rios.",
           "source": "sintese",
           "evidence": [
             1
@@ -323,21 +327,19 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O range do feitiço dessa fundação é pequeno demais para causar efeito prático. Ficar prometendo chuva em Roraima sem entregar nada é fácil; o difícil é mostrar serviço de verdade.",
+          "text": "A Fundação Cobra Coral faz contratos com os estragos cunidos, e os de verdade a gente sabe quem são; por isso, apelar para uma entidade regional é a única forma de cobrar seriedade.",
           "source": "sintese",
           "evidence": [
-            1
+            2
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A comparação com a chuva em Roraima é só uma forma de dizer que a credibilidade da fundação está baixa. Mas antes de descartar, vale ver se os contratos e as ações dela são os verdadeiros ou apenas estragos mal feitos.",
+          "text": "A condição de chover em Roraima nas cabeceiras dos rios é tão improvável que a frase vira só uma forma de expressar descrédito, sem entrar no mérito do que a fundação faz ou deixa de fazer.",
           "source": "sintese",
-          "evidence": [
-            2
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],

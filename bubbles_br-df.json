@@ -1,21 +1,74 @@
 {
-  "generatedAt": "2026-11-15T18:44:08.435040+00:00",
+  "generatedAt": "2026-11-16T05:36:04.706140+00:00",
   "region": "br-df",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n2e2q2cwls27",
+      "id": "bsky_3n2esveixbk2h",
       "rank": 1,
+      "title": "Tenho que ir ao Norte e visitar mais o Nordeste também",
+      "label": "Viagem pelo Brasil · Norte e Nordeste",
+      "context": "O autor do post afirma que precisa conhecer o Norte e visitar mais o Nordeste. A declaração destaca o interesse em explorar essas regiões, o que pode incentivar o turismo e a valorização cultural local.",
+      "source": "bluesky",
+      "subreddit": "bsky_df",
+      "permalink": "https://bsky.app/profile/sisiphus.bsky.social/post/3n2esveixbk2h",
+      "createdAt": "2026-11-15T20:07:46.055000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n2esveixbk2h_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2esveixbk2h_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-df",
+      "sources": [
+        {
+          "title": "Tenho que ir ao Norte e visitar mais o Nordeste também",
+          "url": "https://bsky.app/profile/sisiphus.bsky.social/post/3n2esveixbk2h",
+          "subreddit": "bsky_df"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O Norte e o Nordeste têm belezas naturais e culturais únicas que merecem ser mais visitadas. Conhecer esses lugares é uma forma de valorizar o que o Brasil tem de melhor e apoiar o turismo local.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Viajar para o Norte e o Nordeste ainda é caro e pouco acessível para a maioria dos brasileiros. Sem políticas de incentivo e infraestrutura adequada, esse tipo de desejo fica só na vontade.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A vontade de conhecer o Norte e o Nordeste é válida, mas depende de tempo e dinheiro. Muitos só conseguem explorar a própria região onde vivem, então esse tipo de meta acaba sendo um privilégio.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2e2q2cwls27",
+      "rank": 2,
       "title": "Projeto engavetado do GDF é retomado e gera revolta",
       "label": "Retomada de projeto do GDF · Críticas",
-      "context": "Um projeto do Governo do Distrito Federal que havia sido engavetado voltou a ser discutido, gerando críticas nas redes. A retomada do projeto ocorre em meio a novas tentativas de impedir sua implementação.",
+      "context": "Um projeto do Governo do Distrito Federal que se acreditava estar engavetado voltou a ser discutido, gerando críticas nas redes. A retomada do projeto provocou reações negativas de quem se opõe à iniciativa.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/rinaldocosta.bsky.social/post/3n2e2q2cwls27",
       "createdAt": "2026-11-15T12:55:13.247000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.8030551978980368,
+      "relevanceScore": 0.8922835532200408,
+      "suggestedRadius": 92.68,
       "imageUrl": "assets/images/bsky_3n2e2q2cwls27_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2e2q2cwls27_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -31,7 +84,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A retomada do projeto é necessária para o desenvolvimento da cidade, mesmo que enfrente resistência. O GDF tem o direito de tirar do papel iniciativas que beneficiem a população.",
+          "text": "A retomada do projeto é uma decisão acertada do GDF, que demonstra compromisso em tirar do papel algo que estava parado. A medida pode trazer benefícios concretos para a população, mesmo que enfrente resistência inicial.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -39,7 +92,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Esse projeto já tinha sido engavetado e agora voltam com ele, ignorando a vontade popular. É revoltante ter que conviver com as decisões dessa cúpula do GDF que não ouve a população.",
+          "text": "Esse projeto já tinha sido engavetado e agora volta sem explicação convincente. A insistência em retomá-lo, mesmo após episódios como o de terem que impedir algo de novo essa semana, mostra falta de diálogo e desrespeito com quem será afetado.",
           "source": "sintese",
           "evidence": [
             1
@@ -49,11 +102,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A situação é confusa: se o projeto estava engavetado, por que retomá-lo agora? E ainda há relatos de tentativas de impedir sua implementação, o que mostra que o assunto não está resolvido.",
+          "text": "A volta desse projeto do GDF levanta dúvidas sobre os critérios usados para retomá-lo. Sem informações claras sobre por que foi engavetado e o que mudou, fica difícil apoiar ou condenar a iniciativa só com base no anúncio.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -61,31 +112,31 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2egjhfees2m",
-      "rank": 2,
-      "title": "Cidades do Entorno de Goiás como opção de hospedagem para Brasília",
-      "label": "Hospedagem no Entorno do DF",
-      "context": "Cidades do Entorno do Distrito Federal, principalmente em Goiás, aparecem como alternativa de hospedagem com linhas de transporte até Brasília. A sugestão vem acompanhada da orientação de pesquisar preços, distâncias e horários do transporte com antecedência antes de reservar.",
+      "id": "bsky_3n26s3wejqk2e",
+      "rank": 3,
+      "title": "GDF vai recorrer de decisão que reduz velocidade nas vias do DF",
+      "label": "Velocidade nas vias do DF · recurso do GDF",
+      "context": "A governadora Celina Leão afirmou que o Governo do Distrito Federal vai recorrer da decisão judicial que alterou a velocidade permitida nas vias, alegando ter estudos técnicos que comprovam a necessidade de manter a atual velocidade. O recurso mantém a disputa sobre o limite de velocidade em Brasília, cidade com grandes distâncias urbanas.",
       "source": "bluesky",
       "subreddit": "bsky_df",
-      "permalink": "https://bsky.app/profile/luladilma13.bsky.social/post/3n2egjhfees2m",
-      "createdAt": "2026-11-15T16:26:17.643000+00:00",
-      "rawScore": 0.45253124547709733,
-      "relevanceScore": 0.836145828307886,
-      "suggestedRadius": 90.86,
-      "imageUrl": "assets/images/bsky_3n2egjhfees2m_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2egjhfees2m_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/cyrusafa.bsky.social/post/3n26s3wejqk2e",
+      "createdAt": "2026-11-13T10:37:29.575000+00:00",
+      "rawScore": 0.3402543354712542,
+      "relevanceScore": 0.6652784283815221,
+      "suggestedRadius": 84.94,
+      "imageUrl": "assets/images/bsky_3n26s3wejqk2e_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n26s3wejqk2e_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-df",
       "sources": [
         {
-          "title": "Outra possibilidade são as cidades do Entorno, principalmente em Goiás, que também possuem alternativas de hospedagem e linhas de transporte até o Distrito Federal. 👇",
-          "url": "https://bsky.app/profile/luladilma13.bsky.social/post/3n2egjhfees2m",
+          "title": "Mas, claro, o nacional-taxismo Master não ia deixar barato: \"A governadora Celina Leão afirmou q o Governo do Distrito Federal (GDF) vai recorrer da decisão. 'Vamos recorrer, pq temos estudos técnicos que comprovam a necessidade de mantermos a atual velocidade', declarou.\" 🙄 O autor dos estudos👇",
+          "url": "https://bsky.app/profile/cyrusafa.bsky.social/post/3n26s3wejqk2e",
           "subreddit": "bsky_df"
         },
         {
-          "title": "Mas, claro, o nacional-taxismo Master não ia deixar barato: \"A governadora Celina Leão afirmou q o Governo do Distrito Federal (GDF) vai recorrer da decisão. 'Vamos recorrer, pq temos estudos técnicos que comprovam a necessidade de mantermos a atual velocidade', declarou.\" 🙄 O autor dos estudos👇",
-          "url": "https://bsky.app/profile/cyrusafa.bsky.social/post/3n26s3wejqk2e",
+          "title": "#Repost @midianinja A decisão, assinada ontem (9) pelo juiz Marcelo Gentil Monteiro, da 12ª Vara Federal do Distrito Federal, considerou que o apartamento 164-A estava formalmente registrado em nome da OAS Empreendimentos S.A. e que não existem mais fundamentos jurídicos para manter os (segue)",
+          "url": "https://bsky.app/profile/mariajo.bsky.social/post/3mzzm3lgiec2s",
           "subreddit": "bsky_df"
         },
         {
@@ -98,7 +149,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "As cidades do Entorno em Goiás são uma saída real para quem quer se hospedar perto de Brasília sem pagar os preços da capital, e ainda têm linhas de transporte até o DF. Pesquisar antes, comparar preços e conferir horários resolve boa parte do planejamento.",
+          "text": "O GDF está certo em recorrer: existem estudos técnicos mostrando que a velocidade atual é necessária para uma cidade espraiada como Brasília, onde muitas distâncias são iguais ou maiores que as de São Paulo e Rio, mesmo com um terço da população.",
           "source": "sintese",
           "evidence": [
             5
@@ -108,21 +159,20 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Brasília é uma cidade espraiada, com distâncias enormes mesmo tendo bem menos população que São Paulo ou Rio, e o transporte entre o Entorno e o DF pesa no deslocamento. Depender de linhas intermunicipais para se hospedar fora acaba custando tempo que a economia não compensa.",
+          "text": "Reduzir a velocidade máxima é o que de fato diminui mortes no trânsito, e o exemplo de São Paulo mostra isso: ao aumentar a velocidade máxima, as mortes subiram e a velocidade média caiu. Recorrer para manter tudo como está é ignorar esse resultado.",
           "source": "sintese",
           "evidence": [
-            7
+            3
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A escolha depende do que a pessoa prioriza: economizar na hospedagem ou ficar perto do que vai fazer em Brasília. Comparar preço, distância e horário do transporte antes de reservar é o que define se o Entorno vale a pena em cada caso.",
+          "text": "A distância urbana de Brasília é grande, mas o que limita a velocidade média não é a velocidade máxima, e sim outros fatores. O debate sobre o limite deveria olhar para esses dados em vez de virar disputa política entre governo e Justiça.",
           "source": "sintese",
           "evidence": [
-            5,
-            7
+            5
           ],
           "votes": 0
         }
@@ -132,17 +182,17 @@
     },
     {
       "id": "bsky_3n2e43eaj4k2b",
-      "rank": 3,
-      "title": "GDF dá calote em instituição social enquanto escolas e hospitais estão precários, diz post",
+      "rank": 4,
+      "title": "GDF dá calote em instituição social enquanto escolas e hospitais estão em más condições",
       "label": "Calote do GDF e prioridades de Musseline Leão",
-      "context": "Um post no Bluesky afirma que o GDF deu calote em uma instituição social enquanto escolas e hospitais públicos estão em más condições. A publicação questiona as prioridades de Musseline Leão diante desse cenário.",
+      "context": "O GDF é acusado de dar calote em uma instituição social enquanto escolas e hospitais públicos estão em más condições. A crítica aponta que Musseline Leão tem outras prioridades em vez de resolver esses problemas.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/evandrofisi.co/post/3n2e43eaj4k2b",
       "createdAt": "2026-11-15T13:19:53.642000+00:00",
-      "rawScore": 0.6077215592777743,
-      "relevanceScore": 0.6752461769753048,
-      "suggestedRadius": 85.3,
+      "rawScore": 0.5450961893207333,
+      "relevanceScore": 0.6056624325785925,
+      "suggestedRadius": 82.69,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -158,7 +208,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O post acerta ao cobrar Musseline Leão: enquanto escolas e hospitais seguem caindo aos pedaços, uma instituição social fica sem receber o que lhe é devido. Prioridade deveria ser o básico funcionando, não deixar quem depende do GDF no prejuízo.",
+          "text": "A denúncia expõe o que o GDF faz com o dinheiro público: deixa de pagar instituições sociais sérias enquanto escolas e hospitais seguem caindo aos pedaços. Cobrar Musseline Leão é o mínimo, porque a prioridade dele deveria ser a população, não os próprios interesses.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -166,7 +216,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Jogar a culpa em Musseline Leão é simplista demais. O calote em instituição social e a precariedade de escolas e hospitais são problemas estruturais do GDF, não de uma pessoa só, e um post no Bluesky não mostra números nem contratos para provar o que afirma.",
+          "text": "Jogar tudo nas costas do Musseline Leão é fácil, mas o GDF é uma máquina com várias secretarias e o orçamento é apertado. Antes de acusar de calote, é preciso ver se a instituição cumpriu as exigências e se o repasse estava mesmo previsto, senão vira só palanque.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -174,125 +224,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Falta informação concreta para julgar: o post não diz qual instituição social tomou calote, quanto se deve nem desde quando. Sem esses dados, fica difícil saber se é falha de gestão ou apenas mais um capítulo da crise fiscal do GDF.",
+          "text": "O problema é real, mas a postagem mistura duas coisas: o calote na instituição social e a situação de escolas e hospitais. Sem dados concretos sobre valores, prazos e contratos, fica difícil saber se é descaso do GDF ou falha na execução, e a discussão acaba sem solução prática.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n27oyezqa22u",
-      "rank": 4,
-      "title": "Globo deu origem ao lawfare da Lava Jato contra Lula, diz post",
-      "label": "Triplex da OAS · conluio Globo e Lava Jato",
-      "context": "Posts no Bluesky afirmam que uma sentença comprova que o triplex sempre pertenceu à OAS e que a Globo iniciou um conluio com a Lava Jato para prender Lula por 580 dias. Os posts ligam esse episódio à ascensão de Jair Bolsonaro ao poder.",
-      "source": "bluesky",
-      "subreddit": "bsky_df",
-      "permalink": "https://bsky.app/profile/brasinha.bsky.social/post/3n27oyezqa22u",
-      "createdAt": "2026-11-13T19:14:44.580000+00:00",
-      "rawScore": 0.09483418311583727,
-      "relevanceScore": 0.21648242568426362,
-      "suggestedRadius": 63.92,
-      "imageUrl": "assets/images/bsky_3n27oyezqa22u_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27oyezqa22u_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-df",
-      "sources": [
-        {
-          "title": "Globo que deu origem ao lawfare da Lava Jato contra Lula Sentença, que comprova que triplex sempre foi da OAS, revela o conluio da mídia liberal, iniciado pela Globo, com o lawfare da Lava Jato que colocou Lula por 580 dias abriu as portas para o neofascismo chegar ao poder com Jair Bolsonaro.",
-          "url": "https://bsky.app/profile/brasinha.bsky.social/post/3n27oyezqa22u",
-          "subreddit": "bsky_df"
-        },
-        {
-          "title": "Triplex da OAS: Justiça desmorona factoide da #GloboLixo (@oglobo.globo.com) que deu origem ao #Lawfare da #FarsaJato contra o estadista Lula. revistaforum.com.br/politica/tri... #MoroNaCadeia #DallagnolNaCadeia #LulaLivre",
-          "url": "https://bsky.app/profile/hugobezerra.bsky.social/post/3n27a3qgi622r",
-          "subreddit": "bsky_df"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A sentença que confirma que o triplex sempre foi da OAS expõe o lawfare da Lava Jato e o papel da Globo em impulsionar a narrativa que levou Lula à prisão por 580 dias. Esse conluio midiático abriu caminho para o neofascismo de Bolsonaro.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Atribuir à Globo a origem de todo o lawfare é simplista e ignora que a Lava Jato teve apoio de parte da sociedade e de outras instituições. A sentença sobre o triplex não prova um conluio midiático nacional.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A discussão sobre o triplex e o lawfare é relevante, mas ainda faltam detalhes sobre o teor exato da sentença e seu alcance. Seria preciso verificar como a decisão trata a atuação da imprensa antes de tirar conclusões definitivas.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzxeavj3rc2d",
-      "rank": 5,
-      "title": "Fachin arquiva Inquérito das Fake News após manifestação da PGR",
-      "label": "Arquivamento do Inquérito das Fake News",
-      "context": "O ministro Edson Fachin, do STF, acolheu manifestação da PGR que indicou o esgotamento do objeto específico das investigações e arquivou o Inquérito das Fake News. A decisão encerra o procedimento que apurava a disseminação de notícias falsas e ataques ao Supremo.",
-      "source": "bluesky",
-      "subreddit": "bsky_df",
-      "permalink": "https://bsky.app/profile/jnascim.info/post/3mzxeavj3rc2d",
-      "createdAt": "2026-11-10T11:41:07.374000+00:00",
-      "rawScore": 0.1529853886195671,
-      "relevanceScore": 0.16998376513285232,
-      "suggestedRadius": 60.74,
-      "imageUrl": "assets/images/bsky_3mzxeavj3rc2d_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzxeavj3rc2d_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-df",
-      "sources": [
-        {
-          "title": "📑 A íntegra da decisão do ministro Edson Fachin acolhendo manifestação da PGR, que indicou o esgotamento do objeto específico das investigações, arquivando o Inquérito das Fake News jnascim.info/Arquivamento...",
-          "url": "https://bsky.app/profile/jnascim.info/post/3mzxeavj3rc2d",
-          "subreddit": "bsky_df"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O arquivamento do inquérito é uma decisão técnica da PGR e do STF: as investigações sobre fake news chegaram ao fim do que podiam apurar. Insistir no caso sem novos elementos seria prolongar um processo sem justificativa.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Arquivar o Inquérito das Fake News sem transparência sobre o que foi apurado deixa a sensação de impunidade. A decisão sai em sigilo e não explica por que as investigações teriam se esgotado, o que enfraquece a confiança no trabalho do STF.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O arquivamento do inquérito reacende a discussão sobre a composição do STF: para parte dos críticos, a corte funciona melhor com menos ministros e mais foco. A decisão de Fachin, porém, segue o rito normal e não resolve o debate sobre o papel da corte.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            3
-          ],
           "votes": 0
         }
       ],
@@ -301,17 +235,17 @@
     },
     {
       "id": "bsky_3mzulghr6ek2u",
-      "rank": 6,
+      "rank": 5,
       "title": "Jornalista argentino e exemplo da Ford na tortura de sindicalistas",
       "label": "Ford e tortura na Argentina · Entrevista",
-      "context": "Um post no Bluesky destaca um vídeo em que o jornalista argentino Lobo entrevista representantes da Ford sobre o envolvimento da empresa com a ditadura argentina, incluindo salas usadas para tortura dentro de suas instalações. O caso é lembrado como exemplo do papel de multinacionais em violações de direitos humanos durante regimes autoritários.",
+      "context": "Um post no Bluesky destaca uma entrevista do jornalista argentino Lobo, que cita o envolvimento da Ford na Argentina com o sequestro e a tortura de sindicalistas e dissidentes, incluindo salas usadas para tortura dentro da fábrica. O caso é lembrado como exemplo de como empresas multinacionais participaram da repressão, e os comentários trazem paralelos com a Volkswagen no Brasil.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/jotatx.eurosky.social/post/3mzulghr6ek2u",
       "createdAt": "2026-11-09T09:11:35.176000+00:00",
-      "rawScore": 0.112856581067972,
-      "relevanceScore": 0.12539620118663555,
-      "suggestedRadius": 57.25,
+      "rawScore": 0.20344343987236246,
+      "relevanceScore": 0.22604826652484716,
+      "suggestedRadius": 64.53,
       "imageUrl": "assets/images/bsky_3mzulghr6ek2u_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzulghr6ek2u_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -327,7 +261,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O vídeo é fabuloso porque expõe a responsabilidade da Ford na Argentina, que cedeu instalações para tortura de sindicalistas. O jornalista Lobo conduz a entrevista de forma corajosa, mostrando a empresários que eles não podem escapar do passado.",
+          "text": "A entrevista do Lobo é fabulosa porque expõe o papel da Ford na Argentina, que cedeu salas para tortura de sindicalistas. É um exemplo que precisa ser lembrado para que empresas não sejam blindadas.",
           "source": "sintese",
           "evidence": [
             1
@@ -337,22 +271,21 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A entrevista mostra empresários com ar de superioridade e rindo na cara do jornalista, o que revela como essas empresas ainda tratam o assunto com desdém. O caso da Volkswagen no Brasil, com um trabalhador torturado e morto, mostra que a impunidade persiste.",
+          "text": "O jornalista Lobo é apresentado como consultor de grandes empresas, então ele não é isento para falar de negociações com patrões. Essa entrevista parece mais uma encenação do que jornalismo.",
           "source": "sintese",
           "evidence": [
-            2,
-            3
+            5
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Muita gente nunca soube desses casos, como o da Ford na Argentina ou da Volkswagen no Brasil. A entrevista serve para trazer à tona fatos históricos pouco divulgados, mas é preciso cuidado para não simplificar a complexidade do período.",
+          "text": "O caso da Ford na Argentina é chocante, mas também houve a Volkswagen no Brasil, com um trabalhador torturado e morto em São Bernardo. Isso mostra que a repressão dentro de fábricas não foi exclusividade de um país.",
           "source": "sintese",
           "evidence": [
-            4,
-            5
+            2,
+            3
           ],
           "votes": 0
         }
@@ -361,26 +294,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n26pmacmys2z",
-      "rank": 7,
-      "title": "Justiça determina remoção de conteúdo publicado pela revista Fórum",
-      "label": "Justiça · Conteúdo da revista Fórum",
-      "context": "A Justiça determinou a remoção de um conteúdo publicado pela revista Fórum, segundo a própria publicação. A decisão envolve a mídia e levanta discussão sobre limites judiciais sobre conteúdo jornalístico.",
+      "id": "bsky_3n27a3qgi622r",
+      "rank": 6,
+      "title": "Justiça desmorona factoide do triplex da OAS que deu origem ao lawfare contra Lula",
+      "label": "Triplex da OAS · Decisão judicial",
+      "context": "A Justiça desmontou o factoide do triplex da OAS, que havia sido usado como base para a condenação de Lula no âmbito da Operação Lava Jato. A decisão reacende a discussão sobre o chamado lawfare e o papel da imprensa na divulgação do caso.",
       "source": "bluesky",
       "subreddit": "bsky_df",
-      "permalink": "https://bsky.app/profile/arlindars.bsky.social/post/3n26pmacmys2z",
-      "createdAt": "2026-11-13T09:52:56.881000+00:00",
-      "rawScore": 0.07471061641697355,
-      "relevanceScore": 0.0830117960188595,
-      "suggestedRadius": 53.29,
-      "imageUrl": "assets/images/bsky_3n26pmacmys2z_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n26pmacmys2z_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/hugobezerra.bsky.social/post/3n27a3qgi622r",
+      "createdAt": "2026-11-13T14:47:58.771000+00:00",
+      "rawScore": 0.1294109248895007,
+      "relevanceScore": 0.14378991654388967,
+      "suggestedRadius": 58.75,
+      "imageUrl": "assets/images/bsky_3n27a3qgi622r_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27a3qgi622r_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-df",
       "sources": [
         {
-          "title": "revistaforum.com.br/midia/justic...",
-          "url": "https://bsky.app/profile/arlindars.bsky.social/post/3n26pmacmys2z",
+          "title": "Triplex da OAS: Justiça desmorona factoide da #GloboLixo (@oglobo.globo.com) que deu origem ao #Lawfare da #FarsaJato contra o estadista Lula. revistaforum.com.br/politica/tri... #MoroNaCadeia #DallagnolNaCadeia #LulaLivre",
+          "url": "https://bsky.app/profile/hugobezerra.bsky.social/post/3n27a3qgi622r",
           "subreddit": "bsky_df"
         }
       ],
@@ -388,7 +321,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Justiça agiu certo ao mandar remover o conteúdo da revista Fórum. Decisão judicial se cumpre, e nenhuma publicação pode ficar acima da lei quando há determinação para tirar algo do ar.",
+          "text": "A Justiça finalmente desmorona o factoide do triplex, mostrando que a condenação de Lula foi baseada em narrativa midiática, não em provas. Isso confirma o lawfare e exige responsabilização dos envolvidos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -396,7 +329,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Uma revista ter conteúdo removido por decisão judicial acende alerta para a liberdade de imprensa. Cabe recurso e transparência sobre o que motivou a ordem, senão vira censura disfarçada.",
+          "text": "A decisão judicial não apaga o fato de que o triplex foi objeto de investigação e condenação em outras instâncias. Chamar de factoide é ignorar o devido processo legal e as provas apresentadas na época.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -404,7 +337,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Falta saber o teor da decisão e o motivo da remoção antes de tomar lado. Sem conhecer o conteúdo e os argumentos do processo, fica difícil dizer se a ordem é proporcional ou exagerada.",
+          "text": "O desmoronamento do factoide do triplex precisa ser analisado com cautela: é preciso verificar se a decisão se baseia em novas provas ou em questões processuais, e como isso afeta a credibilidade das instituições.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -415,17 +348,17 @@
     },
     {
       "id": "bsky_3n25sasa4nc2b",
-      "rank": 8,
-      "title": "Publicação no Instagram sobre nova onda de sindicalismo",
-      "label": "Sindicalismo · Nova mobilização",
-      "context": "Uma publicação no Instagram, compartilhada no Bluesky em 13 de novembro de 2026, defende uma nova maré de sindicalismo. O post aparece em um momento de discussão sobre organização coletiva de trabalhadores.",
+      "rank": 7,
+      "title": "Publicação no Instagram gera chamado por nova onda de sindicalismo",
+      "label": "Sindicalismo · Chamado em post viral",
+      "context": "Um post no Instagram, compartilhado no Bluesky em 13 de novembro de 2026, motivou comentários defendendo uma nova maré de sindicalismo. A publicação não detalha o conteúdo, mas o comentário sugere que o tema mobiliza pessoas em torno da organização sindical.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/roberto1501.bsky.social/post/3n25sasa4nc2b",
       "createdAt": "2026-11-13T01:07:35.877000+00:00",
-      "rawScore": 0.07312584692422577,
-      "relevanceScore": 0.08125094102691753,
-      "suggestedRadius": 53.1,
+      "rawScore": 0.1169161068098153,
+      "relevanceScore": 0.12990678534423922,
+      "suggestedRadius": 57.63,
       "imageUrl": "assets/images/bsky_3n25sasa4nc2b_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n25sasa4nc2b_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -441,7 +374,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Uma nova maré de sindicalismo é exatamente o que falta para os trabalhadores recuperarem poder de barganha. A publicação no Instagram mostra que a ideia está circulando e ganhando força nas redes, o que pode virar mobilização real.",
+          "text": "O momento é propício para retomar a organização coletiva nos locais de trabalho. Uma nova maré de sindicalismo pode fortalecer a negociação por salários e condições dignas, algo que o post no Instagram ajudou a impulsionar.",
           "source": "sintese",
           "evidence": [
             1
@@ -451,7 +384,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Sindicato no Brasil tem histórico de peleguismo e de cobrar mensalidade sem entregar nada em troca. Compartilhar um post bonito no Instagram não muda isso, e chamar de 'nova maré' um movimento que ainda não mostrou resultado concreto é otimismo demais.",
+          "text": "Sindicatos no Brasil ainda carregam a imagem de estruturas distantes e pouco eficazes. Chamar de 'nova maré' sem discutir como essas entidades vão se renovar soa mais como slogan do que como proposta concreta para os trabalhadores.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -459,7 +392,60 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A publicação no Instagram levanta a bandeira do sindicalismo, mas ainda é só um post. Falta ver se essa conversa sai das redes e vira organização de base de verdade, com pauta clara e adesão dos trabalhadores nos locais de trabalho.",
+          "text": "A publicação em si não explica o que seria essa nova maré de sindicalismo. Sem detalhes sobre pautas, formas de organização ou setores envolvidos, fica difícil saber se é uma convocação real ou apenas uma expressão de desejo.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n26pmacmys2z",
+      "rank": 8,
+      "title": "Justiça determina remoção de conteúdo publicado pela revista Fórum",
+      "label": "Decisão judicial contra a revista Fórum",
+      "context": "A Justiça determinou a remoção de um conteúdo publicado pela revista Fórum, segundo a própria publicação noticiou. A decisão envolve a mídia e levanta discussão sobre limites de conteúdo jornalístico.",
+      "source": "bluesky",
+      "subreddit": "bsky_df",
+      "permalink": "https://bsky.app/profile/arlindars.bsky.social/post/3n26pmacmys2z",
+      "createdAt": "2026-11-13T09:52:56.881000+00:00",
+      "rawScore": 0.11590155764025523,
+      "relevanceScore": 0.12877950848917247,
+      "suggestedRadius": 57.53,
+      "imageUrl": "assets/images/bsky_3n26pmacmys2z_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n26pmacmys2z_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-df",
+      "sources": [
+        {
+          "title": "revistaforum.com.br/midia/justic...",
+          "url": "https://bsky.app/profile/arlindars.bsky.social/post/3n26pmacmys2z",
+          "subreddit": "bsky_df"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Justiça agiu certo ao mandar remover o conteúdo: nenhuma publicação pode ficar acima da lei, e se a decisão foi tomada é porque havia motivo concreto para isso. O Judiciário existe justamente para corrigir excessos.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Uma decisão judicial mandando a revista Fórum apagar conteúdo é um ataque direto à liberdade de imprensa. Remover matéria por ordem da Justiça abre precedente perigoso para qualquer veículo que incomode alguém poderoso.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Falta saber o teor da decisão e o motivo da remoção antes de tomar partido. Sem conhecer o conteúdo e o argumento do juiz, não dá para dizer se foi censura ou correção de abuso — o caso precisa de mais detalhes.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -473,14 +459,14 @@
       "rank": 9,
       "title": "Ah, mas é claro: notícia da UOL sobre educação gera reação",
       "label": "Notícia de educação · Reação nas redes",
-      "context": "Um post no Bluesky compartilhou um link da editoria de educação da UOL com a expressão 'ah, mas é claro', sem detalhar o conteúdo da matéria. A publicação repercutiu pelo tom irônico da legenda, que sugere desaprovação ao que a notícia reporta.",
+      "context": "Um post no Bluesky compartilhou uma notícia do UOL sobre educação com a expressão 'ah, mas é claro'. O comentário sugere ironia em relação ao conteúdo da matéria, mas o post não detalha o assunto específico da notícia.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/guilhermefreitas.bsky.social/post/3mzykhadslk2i",
       "createdAt": "2026-11-10T23:04:43.287000+00:00",
-      "rawScore": 0.0026996059775561843,
-      "relevanceScore": 0.002999562197284649,
-      "suggestedRadius": 39.29,
+      "rawScore": 0.003699224210162288,
+      "relevanceScore": 0.004110249122402542,
+      "suggestedRadius": 39.85,
       "imageUrl": "assets/images/bsky_3mzykhadslk2i_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzykhadslk2i_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -496,7 +482,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A ironia do 'ah, mas é claro' acerta em cheio: matérias de educação costumam repetir as mesmas explicações óbvias, e quem acompanha o tema já sabe o que vem antes de abrir o link.",
+          "text": "A matéria do UOL traz um dado que muita gente na educação já vinha apontando, e o post só reforça que esse tipo de pauta precisa de mais visibilidade nas redes.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -504,7 +490,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Compartilhar o link só com deboche, sem dizer o que a matéria fala, não informa ninguém. Quem vê o post fica sem saber o que a UOL reportou e ainda leva uma opinião pronta sem contexto nenhum.",
+          "text": "O 'ah, mas é claro' resume a falta de surpresa: a notícia confirma um problema que se repete na educação e ninguém parece tratar como prioridade de verdade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -512,7 +498,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post em si não diz nada sobre o conteúdo da notícia, então fica difícil concordar ou discordar. Antes de reagir à ironia, vale abrir o link e ver o que a reportagem da UOL realmente aponta sobre educação.",
+          "text": "Sem o texto completo da matéria fica difícil saber se a ironia do post se sustenta; o compartilhamento sozinho não explica qual ponto da notícia gerou a reação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -526,7 +512,7 @@
       "rank": 10,
       "title": "Cadê um espião pra fingir que gosta de mim em troca de segredos do GDF",
       "label": "Piada sobre espião e segredos do GDF",
-      "context": "Um usuário do Bluesky publicou uma piada pedindo um espião que finja gostar dele em troca de segredos do GDF. A brincadeira faz referência a um suposto esquema de espionagem envolvendo o governo do Distrito Federal.",
+      "context": "Um post no Bluesky brinca pedindo um espião que finja gostar da pessoa em troca de segredos do GDF (Governo do Distrito Federal). A piada usa o formato de um anúncio de relacionamento para satirizar a ideia de espionagem em troca de afeto.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/julianamarques.bsky.social/post/3mzwh5mmems27",
@@ -534,8 +520,8 @@
       "rawScore": 0.0,
       "relevanceScore": 0.0,
       "suggestedRadius": 36.0,
-      "imageUrl": "assets/images/bsky_3mzwh5mmems27_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzwh5mmems27_uns_thumb.jpg",
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-df",
       "sources": [
@@ -549,7 +535,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A piada é uma forma leve de criticar a falta de transparência no GDF, que parece tratar informações públicas como segredos de Estado. Rir disso é uma maneira de chamar atenção para a necessidade de mais abertura.",
+          "text": "A brincadeira funciona porque pega o formato de anúncio de relacionamento e aplica a algo completamente fora de contexto, que é a troca de segredos do GDF. É humor leve, sem alvo real, e mostra como uma piada simples pode render conversa.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -557,7 +543,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Brincar com espionagem e segredos do GDF banaliza um assunto sério, que deveria ser tratado com seriedade e não como meme. Isso desvia o foco de possíveis irregularidades reais.",
+          "text": "Piada com segredos de governo soa mal em um momento em que se fala tanto de vazamento e espionagem de verdade. Mesmo sendo brincadeira, banaliza um assunto sério e pode dar margem para interpretações que não ajudam em nada.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -565,7 +551,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A piada pode ser só uma brincadeira sem intenção política, mas o contexto de escândalos de espionagem faz com que ela seja interpretada como crítica. Depende de como cada um lê.",
+          "text": "O post é só uma piada e não dá para tirar muita coisa além disso. Sem contexto sobre o que seriam esses segredos do GDF, fica difícil saber se a brincadeira tem um alvo específico ou se é apenas humor aleatório.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

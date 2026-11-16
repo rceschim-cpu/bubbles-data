@@ -1,23 +1,82 @@
 {
-  "generatedAt": "2026-11-15T18:44:08.435040+00:00",
+  "generatedAt": "2026-11-16T05:36:04.706140+00:00",
   "region": "br-pb",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3mzyhrtnv2k2c",
+      "id": "bsky_3n2ffleyzls2b",
       "rank": 1,
+      "title": "Chegay João Pessoa, hora de limpar os ouvidos do sotaque de São Paulo",
+      "label": "Sotaque paulista · Chegada a João Pessoa",
+      "context": "Um usuário do Bluesky publicou que chegou a João Pessoa e escreveu que é hora de limpar os ouvidos do sotaque de São Paulo. A publicação recebeu comentários de boas-vindas e desejos de descanso.",
+      "source": "bluesky",
+      "subreddit": "bsky_pb",
+      "permalink": "https://bsky.app/profile/xibiuguloso.bsky.social/post/3n2ffleyzls2b",
+      "createdAt": "2026-11-16T01:42:07.749000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pb",
+      "sources": [
+        {
+          "title": "chegay joao pessoa hora de limpar os ouvidos do sotaque de sao paula",
+          "url": "https://bsky.app/profile/xibiuguloso.bsky.social/post/3n2ffleyzls2b",
+          "subreddit": "bsky_pb"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A chegada em João Pessoa é uma oportunidade de deixar o sotaque paulista de lado e curtir o jeito de falar da Paraíba, que é mais acolhedor e tranquilo. Quem chega merece descansar e se sentir em casa.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Falar em limpar os ouvidos do sotaque de São Paulo soa como desprezo à cultura paulista, como se um jeito de falar fosse melhor que o outro. Sotaque não é sujeira para ser limpa, é identidade.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A brincadeira com o sotaque é só uma forma leve de marcar a mudança de ares, sem ofensa real. O que importa é que a pessoa chegou bem e os comentários mostram acolhimento e desejo de descanso.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3mzyhrtnv2k2c",
+      "rank": 2,
       "title": "Globo faz novela com nordestino sonhando ir pro sudeste enquanto sudestino se muda pro nordeste",
       "label": "Novela da Globo e migração sudeste-nordeste",
-      "context": "Uma postagem no Bluesky critica a Globo por retratar em novela o nordestino que sonha em migrar para o Sudeste, enquanto, na vida real, pessoas do Sudeste estariam se mudando para o Nordeste em busca de qualidade de vida. A postagem cita problemas como a qualidade da água da Sabesp em São Paulo e o alto custo de vida, e recebeu comentários de pessoas que relatam ter deixado o Sul e o Sudeste para morar em estados nordestinos.",
+      "context": "Uma postagem no Bluesky critica a Globo por retratar em novela o nordestino que sonha em migrar para o sudeste, enquanto, na vida real, pessoas do sudeste estariam se mudando para o nordeste em busca de qualidade de vida. A postagem cita problemas como a qualidade da água da Sabesp em São Paulo e a violência, e recebeu comentários de pessoas que relatam ter deixado o sul e o sudeste para morar em estados nordestinos.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/danielduncan.bsky.social/post/3mzyhrtnv2k2c",
       "createdAt": "2026-11-10T22:16:54.673000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3mzyhrtnv2k2c_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzyhrtnv2k2c_wiki_thumb.jpg",
+      "rawScore": 0.2909115438040041,
+      "relevanceScore": 0.43036008007504395,
+      "suggestedRadius": 75.36,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
@@ -36,7 +95,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Globo está presa no século XX ao insistir na história do nordestino que sonha com o Sudeste, ignorando que hoje o movimento é o contrário: gente do Sul e do Sudeste se muda para o Nordeste em busca de qualidade de vida e foge de problemas como a água contaminada da Sabesp.",
+          "text": "A Globo está totalmente desconectada da realidade: enquanto a novela mostra nordestino querendo ir pro sudeste, quem mora em São Paulo está fugindo da água contaminada da Sabesp e da violência pra morar em João Pessoa ou Aracaju. A emissora insiste em um retrato ultrapassado do nordeste.",
           "source": "sintese",
           "evidence": [
             1,
@@ -49,26 +108,27 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa onda de sudestinos se mudando para o Nordeste está inchando cidades como João Pessoa e Aracaju, encarecendo o custo de vida e mudando a cara dos bairros. Quem é local já sente o impacto e teme que a qualidade de vida que atraiu os forasteiros se perca.",
+          "text": "Essa onda de sudestinos se mudando pro nordeste está inchando as capitais e encarecendo o custo de vida. Quem é local já sente o impacto: João Pessoa está ficando insuportável com tanta gente de fora, e os aluguéis não param de subir.",
           "source": "sintese",
           "evidence": [
             5,
             11,
-            15,
-            20
+            14,
+            15
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A migração para o Nordeste não é novidade nem unânime: muita gente do Sudeste sonha em sair, mas também há quem diga que algumas capitais já estão saturadas. O fenômeno varia conforme a cidade e o momento, e nem todo mundo que vem fica ou recomenda.",
+          "text": "A migração não é só sudeste-nordeste: muita gente do sul também está indo pro nordeste em busca de qualidade de vida, e há relatos de que a região oferece boa estrutura e serviços. O movimento é mais diverso do que a novela sugere, e cada caso tem suas motivações.",
           "source": "sintese",
           "evidence": [
-            10,
-            12,
-            13,
-            25
+            2,
+            4,
+            8,
+            9,
+            18
           ],
           "votes": 0
         }
@@ -77,18 +137,141 @@
       "promptVersion": 2
     },
     {
+      "id": "bsky_3n2eowtuoik23",
+      "rank": 3,
+      "title": "Paraíba!!!!! Eu moro em Pernambuco",
+      "label": "Comentário sobre localização · Paraíba e Pernambuco",
+      "context": "Um usuário publicou no Bluesky a frase \"Paraíba!!!!! Eu moro em Pernambuco\", sem explicar o motivo da exclamação. Nos comentários, outra pessoa disse que esqueceu de marcar que visitou Pernambuco.",
+      "source": "bluesky",
+      "subreddit": "bsky_pb",
+      "permalink": "https://bsky.app/profile/traebizz.bsky.social/post/3n2eowtuoik23",
+      "createdAt": "2026-11-15T18:56:55.645000+00:00",
+      "rawScore": 0.38059016728343525,
+      "relevanceScore": 0.41881106924375416,
+      "suggestedRadius": 74.83,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pb",
+      "sources": [
+        {
+          "title": "Paraíba!!!!! Eu moro em Pernambuco",
+          "url": "https://bsky.app/profile/traebizz.bsky.social/post/3n2eowtuoik23",
+          "subreddit": "bsky_pb"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A reação empolgada com a Paraíba mostra como o estado é querido por quem mora perto. Mesmo morando em Pernambuco, a pessoa fez questão de exaltar a Paraíba, e isso é legal de ver.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Postar só \"Paraíba!!!!! Eu moro em Pernambuco\" sem contexto mais confunde do que informa. Quem lê não entende se é elogio, crítica ou só uma piada interna, e a conversa não rende.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O comentário sobre esquecer de marcar a visita a Pernambuco mostra que essas postagens funcionam mais como registro pessoal de viagem do que como debate. Cada um compartilha o que quer, sem muita cobrança.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n274z4m2qc2v",
+      "rank": 4,
+      "title": "Sessões de cinema em João Pessoa são todas dubladas, reclama usuário",
+      "label": "Cinemas de João Pessoa · Sessões dubladas",
+      "context": "Um usuário relatou que, ao consultar os sites de três cinemas de João Pessoa, encontrou mais de 40 sessões e todas eram dubladas. A reclamação gerou discussão sobre a falta de opções legendadas e o impacto para quem prefere assistir aos filmes no idioma original.",
+      "source": "bluesky",
+      "subreddit": "bsky_pb",
+      "permalink": "https://bsky.app/profile/oten-oaoj.bsky.social/post/3n274z4m2qc2v",
+      "createdAt": "2026-11-13T13:52:44.273000+00:00",
+      "rawScore": 0.03403856427175676,
+      "relevanceScore": 0.36672257442677153,
+      "suggestedRadius": 72.33,
+      "imageUrl": "assets/images/bsky_3n274z4m2qc2v_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n274z4m2qc2v_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pb",
+      "sources": [
+        {
+          "title": "Entrei nos sites de 3 Cinemas daqui de João Pessoa, mais de 40 sessões e T O D A S dubladas, puta que me pariu, que ódio",
+          "url": "https://bsky.app/profile/oten-oaoj.bsky.social/post/3n274z4m2qc2v",
+          "subreddit": "bsky_pb"
+        },
+        {
+          "title": "A Ceci roubou pão na casa do João? ( ) Sim ( ) Não ( ) Outra pessoa",
+          "url": "https://bsky.app/profile/doouze.bsky.social/post/3n24wg26gas2u",
+          "subreddit": "bsky_pb"
+        },
+        {
+          "title": "can you meet me halfway? (📍joão pessoa",
+          "url": "https://bsky.app/profile/pimenta.bsky.social/post/3n27eufanus2r",
+          "subreddit": "bsky_pb"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A dublagem democratiza o acesso: muita gente não consegue acompanhar legenda, seja por questões de alfabetização, visão ou simples preferência. Ter todas as sessões dubladas atende a maioria da população, que consome cinema assim.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Cinema que só oferece dublado trata o espectador como incapaz de ler. Quem quer ver o filme no idioma original, com as atuações e o som como foram concebidos, fica sem opção. Isso é desrespeito com o público.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O problema não é a dublagem existir, mas a ausência de escolha. Uma programação equilibrada, com sessões legendadas em horários variados, atenderia tanto quem prefere dublado quanto quem quer o original, sem prejudicar ninguém.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
       "id": "bsky_3n27i3csw3k2i",
-      "rank": 2,
-      "title": "Questão do Enem sobre misoginia em textos religiosos gera polêmica",
+      "rank": 5,
+      "title": "Cristãos criticam questão do Enem sobre misoginia em textos religiosos",
       "label": "Questão do Enem · Misoginia em textos cristãos",
-      "context": "Uma questão do Enem pediu que os candidatos analisassem textos doutrinários cristãos com conteúdo misógino, citados pelo historiador Jean Delumeau, como fontes primárias. A proposta gerou críticas de que a prova seria misógina, e o tema chegou a ser discutido na Câmara Municipal de João Pessoa.",
+      "context": "Uma questão do Enem pediu que os alunos analisassem textos doutrinários cristãos com conteúdo misógino, citados pelo historiador Jean Delumeau, como fontes primárias. O tema gerou críticas de cristãos que consideraram a questão ofensiva à religião, e o assunto chegou a ser discutido na Câmara Municipal de João Pessoa.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/hospiciobrasil.bsky.social/post/3n27i3csw3k2i",
       "createdAt": "2026-11-13T17:10:53.481000+00:00",
-      "rawScore": 0.8796318611644685,
-      "relevanceScore": 0.8796318611644685,
-      "suggestedRadius": 92.27,
+      "rawScore": 0.25727419667364887,
+      "relevanceScore": 0.28082778015384646,
+      "suggestedRadius": 67.8,
       "imageUrl": "assets/images/bsky_3n27i3csw3k2i_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27i3csw3k2i_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -104,7 +287,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A questão do Enem fez exatamente o que devia: usar sermões antigos citados por um historiador para discutir a misoginia presente nesses textos. Quem chama a prova de misógina confunde o objeto de estudo com quem o denuncia.",
+          "text": "A questão só pede que o aluno analise textos históricos que existem e têm conteúdo misógino, citados por um historiador reconhecido. Criticar o enunciado é confundir o objeto de estudo com a opinião de quem o formulou.",
           "source": "sintese",
           "evidence": [
             1,
@@ -115,19 +298,21 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Cristãos que reclamam da questão demonstram não conhecer a própria história da religião que escolheram. O enunciado é claro ao tratar de textos doutrinários como fontes primárias, e a reação revela burrice e má-fé de quem nem leu o que estava sendo pedido.",
+          "text": "Uma prova do Enem deveria tratar a fé cristã com respeito, e não expor sermões antigos como se a misoginia fosse essência da religião. Quem formulou a questão escolheu um recorte que constrange os cristãos.",
           "source": "sintese",
           "evidence": [
-            1
+            1,
+            2
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O tema chegou a ser discutido na Câmara Municipal de João Pessoa, o que mostra que a polêmica saiu da prova e virou pauta política. Vale acompanhar se essa reação vai influenciar a forma como o Enem aborda religião nas próximas edições.",
+          "text": "O problema está na forma: usar textos doutrinários como fonte primária exige explicar o contexto histórico, senão o aluno lê o sermão antigo como se fosse a doutrina cristã de hoje. Sem esse cuidado, a questão vira alvo fácil de distorção.",
           "source": "sintese",
           "evidence": [
+            2,
             4
           ],
           "votes": 0
@@ -138,17 +323,17 @@
     },
     {
       "id": "bsky_3n2armjxfic2m",
-      "rank": 3,
+      "rank": 6,
       "title": "Usuário relata ter recebido algo de graça \"na tora\" e diz que não existe amor em SP",
-      "label": "Recebido de graça em São Paulo",
-      "context": "Um usuário do Bluesky relatou ter recebido algo de graça \"assim na tora\" e concluiu que \"realmente não existe amor em SP\". O post viralizou como desabafo sobre a experiência de ganhar algo sem esperar em São Paulo.",
+      "label": "Relato de presente inesperado em São Paulo",
+      "context": "Um usuário do Bluesky relatou ter recebido algo de graça, de forma inesperada, e comentou que \"realmente não existe amor em SP\". A publicação viralizou como um desabafo sobre a experiência de ganhar algo sem esperar em São Paulo.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/xibiuguloso.bsky.social/post/3n2armjxfic2m",
       "createdAt": "2026-11-14T05:34:15.245000+00:00",
-      "rawScore": 0.6643481716601188,
-      "relevanceScore": 0.6643481716601188,
-      "suggestedRadius": 84.9,
+      "rawScore": 0.1789658439184697,
+      "relevanceScore": 0.19320535766516636,
+      "suggestedRadius": 62.37,
       "imageUrl": "assets/images/bsky_3n2armjxfic2m_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2armjxfic2m_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -164,7 +349,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Ganhar algo de graça assim, sem pedir, é raro e mostra que ainda tem gente generosa por aí. O post pode soar pessimista, mas o próprio fato de ter recebido algo de graça já é um sinal de que o amor existe, só não é do jeito que a gente espera.",
+          "text": "Ganhar algo de graça assim, do nada, mostra que ainda tem gente boa em São Paulo. A cidade tem fama de fria, mas esses gestos pequenos provam o contrário e mereciam ser mais valorizados.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -172,7 +357,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A frase \"não existe amor em SP\" resume bem a experiência de quem vive na cidade: as pessoas até ajudam, mas o ritmo e a frieza do dia a dia fazem qualquer gesto parecer exceção. Receber algo \"na tora\" não muda a sensação de que a cidade é dura com quem está nela.",
+          "text": "Receber algo \"na tora\" e postar que não existe amor em SP soa mais como desabafo de quem já cansou da cidade. O jeito como as pessoas tratam umas às outras no dia a dia é o que realmente pesa nessa história.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -180,134 +365,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post é ambíguo: ao mesmo tempo que agradece o presente, reclama da cidade. Dá para ler como um desabafo bem-humorado sobre São Paulo, sem concluir que a cidade é hostil ou acolhedora. É mais uma piada sobre a experiência de morar lá do que uma tese sobre o amor.",
+          "text": "O relato é ambíguo: pode ser ironia ou gratidão disfarçada. Sem saber o que foi recebido e em que situação, fica difícil dizer se a pessoa está reclamando da cidade ou só fazendo uma piada com a própria sorte.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n274z4m2qc2v",
-      "rank": 4,
-      "title": "Mais de 40 sessões em cinemas de João Pessoa e todas são dubladas",
-      "label": "Sessões dubladas em cinemas de João Pessoa",
-      "context": "Uma pessoa relatou que, ao consultar os sites de três cinemas de João Pessoa, encontrou mais de 40 sessões e todas eram dubladas. O relato gerou discussão sobre a falta de opções legendadas e o impacto para quem prefere assistir aos filmes no idioma original.",
-      "source": "bluesky",
-      "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/oten-oaoj.bsky.social/post/3n274z4m2qc2v",
-      "createdAt": "2026-11-13T13:52:44.273000+00:00",
-      "rawScore": 0.1730207202498062,
-      "relevanceScore": 0.47302072024980624,
-      "suggestedRadius": 77.27,
-      "imageUrl": "assets/images/bsky_3n274z4m2qc2v_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n274z4m2qc2v_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pb",
-      "sources": [
-        {
-          "title": "Entrei nos sites de 3 Cinemas daqui de João Pessoa, mais de 40 sessões e T O D A S dubladas, puta que me pariu, que ódio",
-          "url": "https://bsky.app/profile/oten-oaoj.bsky.social/post/3n274z4m2qc2v",
-          "subreddit": "bsky_pb"
-        },
-        {
-          "title": "can you meet me halfway? (📍joão pessoa",
-          "url": "https://bsky.app/profile/pimenta.bsky.social/post/3n27eufanus2r",
-          "subreddit": "bsky_pb"
-        },
-        {
-          "title": "A Ceci roubou pão na casa do João? ( ) Sim ( ) Não ( ) Outra pessoa",
-          "url": "https://bsky.app/profile/doouze.bsky.social/post/3n24wg26gas2u",
-          "subreddit": "bsky_pb"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A dublagem é ótima para quem quer relaxar e não se preocupar em ler legenda, ainda mais com tanta gente usando celular durante o filme. Ter tudo dublado facilita a vida de quem só quer curtir a história sem esforço.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Os cinemas de João Pessoa simplesmente ignoram quem prefere ver o filme no idioma original. Mais de 40 sessões e nenhuma legendada é um desrespeito com o público que gosta de cinema de verdade e quer ouvir as atuações originais.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A oferta de sessões dubladas reflete o gosto da maioria do público local, mas quem quer legenda fica sem opção. O ideal seria equilibrar as duas coisas, com pelo menos algumas sessões legendadas por semana para atender a todos.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n273oaybms2s",
-      "rank": 5,
-      "title": "Admiradores de peixe-boi na Paraíba conhecem até os nomes dos animais",
-      "label": "Peixe-boi · Fãs na Paraíba",
-      "context": "Uma publicação no Bluesky destaca a comunidade de admiradores de peixe-boi na Paraíba, que conhece os nomes dos animais e onde encontrá-los. Um comentário confirma avistamentos de Mel e Favo de perto na praia de Formosa, em Cabedelo.",
-      "source": "bluesky",
-      "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/thaiskisuki.bsky.social/post/3n273oaybms2s",
-      "createdAt": "2026-11-13T13:28:48.178000+00:00",
-      "rawScore": 0.3869382950199787,
-      "relevanceScore": 0.3869382950199787,
-      "suggestedRadius": 73.32,
-      "imageUrl": "assets/images/bsky_3n273oaybms2s_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n273oaybms2s_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pb",
-      "sources": [
-        {
-          "title": "Adoro o universo de admiradores de peixe-boi aqui na Paraiba, quem curte eles já sabe até os nomes das lindezas e onde encontrá-los 🥺",
-          "url": "https://bsky.app/profile/thaiskisuki.bsky.social/post/3n273oaybms2s",
-          "subreddit": "bsky_pb"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Encontrar Mel e Favo tão de perto na praia de Formosa, em Cabedelo, mostra como esse contato aproxima as pessoas da natureza e cria uma rede de admiradores que se importa de verdade com os peixes-bois.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Ficar divulgando os nomes e os locais exatos onde os peixes-bois aparecem pode atrair curiosos demais e estressar os animais, que precisam de tranquilidade para descansar e se alimentar na costa.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O avistamento de Mel e Favo na praia de Formosa é bonito, mas depende de como as pessoas se aproximam: se for com distância e respeito, vira educação ambiental; se virar aglomeração, o peixe-boi paga o preço.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
           "votes": 0
         }
       ],
@@ -316,17 +376,17 @@
     },
     {
       "id": "bsky_3mzy3rzhdjc2h",
-      "rank": 6,
+      "rank": 7,
       "title": "Homens armados incendeiam 12 barracos e ameaçam 40 famílias na Paraíba",
       "label": "Incêndio criminoso em acampamento na Paraíba",
-      "context": "Homens armados incendiaram barracos e fizeram disparos no Acampamento Marilene Dantas, na Paraíba, na madrugada de 8 de novembro. O movimento denuncia ameaças e cobra proteção para cerca de 40 famílias.",
+      "context": "Na madrugada de 8 de novembro, homens armados incendiaram barracos do Acampamento Marilene Dantas, na Paraíba, e fizeram disparos. O movimento denuncia ameaças e cobra proteção para cerca de 40 famílias.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/alma-preta.bsky.social/post/3mzy3rzhdjc2h",
       "createdAt": "2026-11-10T18:42:18.687000+00:00",
-      "rawScore": 0.26800412673906854,
-      "relevanceScore": 0.36800412673906857,
-      "suggestedRadius": 72.4,
+      "rawScore": 0.07363534361957007,
+      "relevanceScore": 0.18724084260600712,
+      "suggestedRadius": 61.96,
       "imageUrl": "assets/images/bsky_3mzy3rzhdjc2h_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzy3rzhdjc2h_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -347,7 +407,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A resposta precisa ser cadeia pesada para todos os envolvidos. Incendiar barracos e atirar contra famílias é crime grave e não pode ficar impune. As autoridades têm que agir rápido e exemplarmente.",
+          "text": "A resposta precisa ser dura: cadeia para todos os envolvidos no incêndio e nas ameaças. Sem punição exemplar, esses ataques vão se repetir e as famílias ficam desprotegidas.",
           "source": "sintese",
           "evidence": [
             1
@@ -357,7 +417,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O poder público demora para proteger as famílias e só cobra proteção depois que o ataque acontece. Faltam medidas preventivas e presença do Estado antes da violência chegar. A impunidade alimenta novos ataques.",
+          "text": "O poder público demorou para agir; só depois do incêndio e dos disparos o movimento cobra proteção. Falta policiamento preventivo e apoio às famílias antes que o pior aconteça.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -365,69 +425,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A violência no campo atinge famílias que já vivem em situação vulnerável. É preciso investigar e punir os responsáveis, mas também garantir abrigo e segurança imediata para as 40 famílias ameaçadas.",
+          "text": "A violência é grave, mas é preciso investigar quem são os autores e qual o motivo antes de apontar culpados. Cobrar proteção é urgente, mas sem julgamento precipitado.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n23b6lr3b22i",
-      "rank": 7,
-      "title": "Colega da Paraíba passou mal de frio em Brasília, e pessoa nascida em Curitiba não sentiu frio",
-      "label": "Frio em Brasília · Relatos divergentes",
-      "context": "Uma pessoa que se mudou da Paraíba para Brasília em março relatou ter passado mal de frio no inverno, enquanto outra, nascida em Curitiba, disse não ter sentido frio nem usado casaco. O contraste entre as percepções de quem veio de fora e de quem é acostumado ao frio gerou comentários curiosos sobre onde teria feito frio de verdade.",
-      "source": "bluesky",
-      "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/julianamarques.bsky.social/post/3n23b6lr3b22i",
-      "createdAt": "2026-11-12T00:56:46.476000+00:00",
-      "rawScore": 0.3563911395575203,
-      "relevanceScore": 0.3563911395575203,
-      "suggestedRadius": 71.82,
-      "imageUrl": "assets/images/bsky_3n23b6lr3b22i_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n23b6lr3b22i_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pb",
-      "sources": [
-        {
-          "title": "Colega que chegou em Brasília em março vinda da Paraiba disse que passou mal de frio no inverno e eu tive uma momento nascida em Curitiba pois esse inverno nem casaco usei, eu não senti frio um único dia",
-          "url": "https://bsky.app/profile/julianamarques.bsky.social/post/3n23b6lr3b22i",
-          "subreddit": "bsky_pb"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Quem vem da Paraíba sente frio em Brasília porque não está acostumado com temperaturas mais baixas, e isso é normal. A adaptação ao clima é real e merece respeito, não ironia.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Brasília não tem inverno rigoroso, então esse relato de passar mal de frio soa exagerado. Quem é de Curitiba sabe que o frio daqui é fraco e não justifica esse tipo de reação.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A percepção de frio varia muito conforme a origem e a adaptação de cada pessoa. O relato da colega e o da pessoa de Curitiba mostram como a mesma estação pode ser sentida de formas completamente diferentes.",
-          "source": "sintese",
-          "evidence": [
-            4
-          ],
           "votes": 0
         }
       ],
@@ -444,9 +444,9 @@
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/patriciojunior.com.br/post/3n226soeeik2m",
       "createdAt": "2026-11-11T14:41:40.671000+00:00",
-      "rawScore": 0.2124904616968049,
-      "relevanceScore": 0.31249046169680494,
-      "suggestedRadius": 69.54,
+      "rawScore": 0.053142177794788054,
+      "relevanceScore": 0.16431020020514436,
+      "suggestedRadius": 60.32,
       "imageUrl": "assets/images/bsky_3n226soeeik2m_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n226soeeik2m_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -467,7 +467,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A reportagem do g1 mostra que o Nordeste tem computador quântico, o que é uma conquista tecnológica importante para a região. Isso prova que o Nordeste não é só o que a mídia tradicional costuma retratar, e merece reconhecimento pelo avanço científico.",
+          "text": "A reportagem do g1 mostra que o Nordeste tem computador quântico, o que contraria a imagem de atraso que muita gente associa à região. É uma notícia que valoriza a ciência e a tecnologia feitas fora do eixo Sul-Sudeste.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -475,7 +475,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A Globo só publicou essa matéria porque o Nordeste barrou o bolsonarismo de novo, e agora tenta mudar a narrativa com um filtro amarelo. A reportagem soa como deboche, como se o Nordeste fosse um lugar exótico que precisa ser retratado de forma caricata.",
+          "text": "A matéria do g1 parece tentar desqualificar o Nordeste com um título que soa irônico, como se a região não pudesse ter tecnologia de ponta. O tom da publicação reforça preconceito contra o povo nordestino.",
           "source": "sintese",
           "evidence": [
             1
@@ -485,7 +485,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O título da matéria do g1 pode ter sido mal interpretado, mas o fato é que a existência de um computador quântico no Nordeste é relevante e merece ser discutida com seriedade, sem cair em estereótipos regionais.",
+          "text": "O título do g1 sobre computador quântico no Nordeste gerou confusão porque não deixa claro se a matéria é séria ou uma crítica. Faltou contexto para o leitor entender o que a reportagem realmente quis dizer.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -495,26 +495,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzxibgp5zc2b",
+      "id": "bsky_3n273oaybms2s",
       "rank": 9,
-      "title": "A cor da turmalina Paraíba é a mais perfeita",
-      "label": "Turmalina Paraíba · Cor exaltada",
-      "context": "Um post no Bluesky afirmou que a cor da turmalina Paraíba é a mais perfeita, usando emojis de coração azul e verde. A publicação recebeu concordância imediata nos comentários, destacando o tom azul-esverdeado da gema.",
+      "title": "Admiradores de peixe-boi na Paraíba conhecem até os nomes dos animais",
+      "label": "Peixe-boi · Fãs na Paraíba",
+      "context": "Uma publicação no Bluesky exaltou o universo de admiradores de peixe-boi na Paraíba, destacando que os fãs já sabem até os nomes dos animais e onde encontrá-los. Um comentário citou Cabedelo e o encontro com Mel e Favo na praia de Formosa, mostrando como esse contato aproxima as pessoas da espécie.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/elfadafloresta.bsky.social/post/3mzxibgp5zc2b",
-      "createdAt": "2026-11-10T12:52:58.874000+00:00",
-      "rawScore": 0.07223863767527344,
-      "relevanceScore": 0.07223863767527344,
-      "suggestedRadius": 52.13,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "permalink": "https://bsky.app/profile/thaiskisuki.bsky.social/post/3n273oaybms2s",
+      "createdAt": "2026-11-13T13:28:48.178000+00:00",
+      "rawScore": 0.10255700819310079,
+      "relevanceScore": 0.10770838256306113,
+      "suggestedRadius": 55.69,
+      "imageUrl": "assets/images/bsky_3n273oaybms2s_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n273oaybms2s_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
         {
-          "title": "A cor da turmalina Paraíba é a mais perfeita 🩵💚",
-          "url": "https://bsky.app/profile/elfadafloresta.bsky.social/post/3mzxibgp5zc2b",
+          "title": "Adoro o universo de admiradores de peixe-boi aqui na Paraiba, quem curte eles já sabe até os nomes das lindezas e onde encontrá-los 🥺",
+          "url": "https://bsky.app/profile/thaiskisuki.bsky.social/post/3n273oaybms2s",
           "subreddit": "bsky_pb"
         }
       ],
@@ -522,7 +522,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A turmalina Paraíba tem mesmo a cor mais bonita que existe, aquele azul-esverdeado não aparece em nenhuma outra gema desse jeito. Quem já viu uma de perto sabe que não tem comparação, é um tom que chama atenção na hora.",
+          "text": "Encontrar Mel e Favo tão de perto na praia de Formosa é uma experiência que marca qualquer um. Esse carinho da comunidade por peixe-boi na Paraíba ajuda a criar laços e a valorizar a presença desses animais no litoral.",
           "source": "sintese",
           "evidence": [
             1
@@ -532,7 +532,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Chamar a turmalina Paraíba de cor mais perfeita é exagero, porque gosto de cor é pessoal e outras gemas têm tons igualmente marcantes. O azul-esverdeado dela é bonito, mas elevar isso a 'o mais perfeito' ignora que cada pedra tem seu charme.",
+          "text": "A proximidade excessiva com peixes-bois pode estressar os animais e atrapalhar o descanso deles. Mesmo com admiração, é preciso manter distância e evitar tocar ou perseguir, para não comprometer o bem-estar da espécie.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -540,7 +540,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A cor da turmalina Paraíba é linda, mas o que pesa mesmo é a raridade e o preço da gema, não só o tom. Falar da cor sem lembrar que pouca gente tem acesso a uma pedra dessas deixa a conversa pela metade.",
+          "text": "O contato com peixes-bois na Paraíba desperta admiração, mas é bom lembrar que esses animais são selvagens e precisam de cuidado. A empolgação de encontrar Mel e Favo não pode virar pressão sobre eles; observar de longe já é suficiente.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -550,26 +550,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzvda2s4ws2a",
+      "id": "bsky_3n23b6lr3b22i",
       "rank": 10,
-      "title": "Chuva? Na Paraíba o sol está rachando",
-      "label": "Sol forte na Paraíba · Contraste com chuva",
-      "context": "Uma publicação no Bluesky afirma que, enquanto se fala em chuva, na Paraíba o dia está de sol forte. O contraste vira assunto porque mostra como o tempo pode ser bem diferente em regiões distintas do país ao mesmo tempo.",
+      "title": "Colega paraibana passou mal de frio em Brasília, enquanto curitibana não sentiu frio",
+      "label": "Frio em Brasília · Relatos divergentes",
+      "context": "Uma pessoa que se mudou da Paraíba para Brasília em março relatou ter passado mal de frio durante o inverno, enquanto outra, nascida em Curitiba, disse não ter sentido frio nem usado casaco. O contraste entre as percepções de quem veio de regiões diferentes levanta dúvidas sobre a intensidade real do frio na capital.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/leleostories.bsky.social/post/3mzvda2s4ws2a",
-      "createdAt": "2026-11-09T16:17:24.371000+00:00",
-      "rawScore": 0.0,
-      "relevanceScore": 0.0,
-      "suggestedRadius": 36.0,
-      "imageUrl": "assets/images/bsky_3mzvda2s4ws2a_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzvda2s4ws2a_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/julianamarques.bsky.social/post/3n23b6lr3b22i",
+      "createdAt": "2026-11-12T00:56:46.476000+00:00",
+      "rawScore": 0.10082977867097039,
+      "relevanceScore": 0.10577571472370319,
+      "suggestedRadius": 55.51,
+      "imageUrl": "assets/images/bsky_3n23b6lr3b22i_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n23b6lr3b22i_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
         {
-          "title": "chuva? não sei do que vcs tão falando aqui na paraíba tá um solzão",
-          "url": "https://bsky.app/profile/leleostories.bsky.social/post/3mzvda2s4ws2a",
+          "title": "Colega que chegou em Brasília em março vinda da Paraiba disse que passou mal de frio no inverno e eu tive uma momento nascida em Curitiba pois esse inverno nem casaco usei, eu não senti frio um único dia",
+          "url": "https://bsky.app/profile/julianamarques.bsky.social/post/3n23b6lr3b22i",
           "subreddit": "bsky_pb"
         }
       ],
@@ -577,25 +577,32 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Quem está na Paraíba vive outra realidade: enquanto o resto do país fala de chuva, aqui o solzão segue firme e o dia rende. Esse contraste é só a prova de que o clima brasileiro não dá para resumir em uma previsão só.",
+          "text": "Quem vem de região quente sente muito mais o frio de Brasília, mesmo que não seja extremo. A colega paraibana passou mal porque não estava acostumada, e isso mostra como a adaptação climática é real.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1,
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Falar de solzão enquanto outras regiões enfrentam chuva forte esconde o problema: a seca e o calor excessivo no Nordeste são tratados como piada, quando deveriam ser levados a sério como questão climática.",
+          "text": "Brasília não tem inverno rigoroso, então esse relato de passar mal de frio parece exagero. Quem nasceu em Curitiba e não usou casaco confirma que o frio por aqui é fraco, e a colega talvez estivesse esperando outra coisa.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            3
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O clima no Brasil varia muito de região para região, então cada um relata o que vê na sua janela. O post só mostra essa diferença: sol na Paraíba e chuva em outro lugar não se anulam, são realidades simultâneas.",
+          "text": "A sensação térmica varia muito de pessoa para pessoa e depende da origem e do tempo de adaptação. O relato da paraibana e o da curitibana mostram que não dá para generalizar o frio de Brasília só com duas experiências.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            4
+          ],
           "votes": 0
         }
       ],

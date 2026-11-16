@@ -1,21 +1,80 @@
 {
-  "generatedAt": "2026-11-15T18:44:08.435040+00:00",
+  "generatedAt": "2026-11-16T05:36:04.706140+00:00",
   "region": "br-ba",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n2eh5fz7nc2s",
+      "id": "bsky_3n2f3ezrscs2h",
       "rank": 1,
+      "title": "Tô no pré-carnaval de Aracaju e arrumei um \"marido\" baiano kkkk. Tá divertido",
+      "label": "Pré-carnaval de Aracaju · \"Marido\" baiano",
+      "context": "Uma pessoa relatou nas redes sociais que, durante o pré-carnaval de Aracaju, arrumou um \"marido\" baiano e descreveu a experiência como divertida. O post gerou comentários bem-humorados sobre relacionamentos casuais e a simpatia dos baianos.",
+      "source": "bluesky",
+      "subreddit": "bsky_ba",
+      "permalink": "https://bsky.app/profile/aquelalu.bsky.social/post/3n2f3ezrscs2h",
+      "createdAt": "2026-11-15T22:39:36.948000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n2f3ezrscs2h_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2f3ezrscs2h_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ba",
+      "sources": [
+        {
+          "title": "Tô no pré carnaval de Aracaju e arrumei um “marido” baiano kkkk. Tá divertido",
+          "url": "https://bsky.app/profile/aquelalu.bsky.social/post/3n2f3ezrscs2h",
+          "subreddit": "bsky_ba"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Baianos são delícias demais, e o pré-carnaval de Aracaju é o lugar perfeito para esse tipo de encontro. A experiência só confirma a fama do povo baiano de ser acolhedor e divertido.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Esse \"marido\" é só de pré-carnaval, ou seja, diversão passageira. Não dá para levar a sério algo que dura só enquanto a festa acontece.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A pessoa não tem do que reclamar, e o clima de festa favorece esse tipo de interação. Cada um aproveita como quer, sem compromisso.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2eh5fz7nc2s",
+      "rank": 2,
       "title": "Shakira fará show em Salvador em 6 de janeiro de 2027",
       "label": "Shakira em Salvador · Arena Fonte Nova",
-      "context": "O prefeito Bruno Reis confirmou que Shakira se apresenta em Salvador no dia 6 de janeiro de 2027, na Arena Fonte Nova. O anúncio movimenta a expectativa por grandes shows na capital baiana e a discussão sobre logística e acesso ao evento.",
+      "context": "O prefeito Bruno Reis confirmou que Shakira fará um show em Salvador no dia 6 de janeiro de 2027, na Arena Fonte Nova. O anúncio movimenta a expectativa por grandes eventos na capital baiana e pelo impacto que shows desse porte costumam ter na cidade.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/tracklist.com.br/post/3n2eh5fz7nc2s",
       "createdAt": "2026-11-15T16:37:28.346000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.43059458239077303,
+      "relevanceScore": 0.8095659228551361,
+      "suggestedRadius": 89.99,
       "imageUrl": "assets/images/bsky_3n2eh5fz7nc2s_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2eh5fz7nc2s_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -41,7 +100,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Salvador receber um show internacional desse porte na Arena Fonte Nova coloca a cidade no circuito de grandes turnês e movimenta turismo, hotelaria e comércio. A confirmação pelo prefeito dá credibilidade ao anúncio e anima quem é fã.",
+          "text": "Salvador receber um show internacional desse tamanho na Arena Fonte Nova é um reconhecimento da força cultural da Bahia e deve movimentar o turismo e a economia da cidade no início de 2027.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -49,7 +108,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Marcar um show para janeiro de 2027 é fácil; o difícil é garantir que o público consiga chegar e voltar da Arena Fonte Nova sem repetir o transtorno de sempre. Quem mora longe já sabe o perrengue que é o deslocamento até lá.",
+          "text": "Marcar um show para janeiro de 2027 é fácil; o problema é a distância e a logística de chegar e voltar de Salvador, que já é complicada hoje e vai continuar sendo quando a data chegar.",
           "source": "sintese",
           "evidence": [
             1
@@ -59,7 +118,65 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A data ainda está distante e o anúncio veio só pela fala do prefeito, sem detalhes de venda de ingressos ou produção. Vale acompanhar a confirmação oficial da produção antes de fazer planos e gastos com antecedência.",
+          "text": "A confirmação pelo prefeito anima, mas ainda falta ver a data de venda dos ingressos e a estrutura do evento; por enquanto é só o anúncio, e muita coisa pode mudar até 2027.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2feb5ypys2q",
+      "rank": 3,
+      "title": "Botaram o pagodão baiano aqui DO NADA",
+      "label": "Pagodão baiano surpresa no Bluesky",
+      "context": "Um post no Bluesky celebrou o pagodão baiano com a frase 'BOTA A MÃO PRA CIMA E FAZ O L'. A publicação viralizou e gerou reações de surpresa e humor entre usuários da rede.",
+      "source": "bluesky",
+      "subreddit": "bsky_ba",
+      "permalink": "https://bsky.app/profile/lumendes.bsky.social/post/3n2feb5ypys2q",
+      "createdAt": "2026-11-16T01:18:29.548000+00:00",
+      "rawScore": 0.4101925282302015,
+      "relevanceScore": 0.5618048867723404,
+      "suggestedRadius": 80.97,
+      "imageUrl": "assets/images/bsky_3n2feb5ypys2q_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2feb5ypys2q_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ba",
+      "sources": [
+        {
+          "title": "Botaram o pagodão baiano aqui DO NADA 🎶BOTA A MÃO PRA CIMA E FAZ O L 🎶",
+          "url": "https://bsky.app/profile/lumendes.bsky.social/post/3n2feb5ypys2q",
+          "subreddit": "bsky_ba"
+        },
+        {
+          "title": "a melhor mesa de prova foi essa aqui! já já mais um café baiano PERFEITO no Oli Cafés! nuuuuuuh, bom d+",
+          "url": "https://bsky.app/profile/oliveiraerik.bsky.social/post/3n2a3gotp622v",
+          "subreddit": "bsky_ba"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O pagodão baiano aparecer do nada no feed é a melhor surpresa, ainda mais com esse refrão que todo mundo conhece. A energia da música contagiou a rede e virou meme na hora.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Esse tipo de post aleatório só polui o feed e desvia a atenção de conteúdos realmente relevantes. A rede já tem excesso de memes e piadas internas que não acrescentam nada.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A reação ao pagodão mostra como o Bluesky ainda está testando seus formatos virais. É um fenômeno curioso, mas não dá para dizer se veio para ficar ou se é só mais um modismo passageiro.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -70,17 +187,17 @@
     },
     {
       "id": "bsky_3n2bwxrzg3k2x",
-      "rank": 2,
-      "title": "Portal Vermelho publica artigo sobre expulsão de embaixador israelense",
-      "label": "Artigo do Vermelho · Reação a Israel",
-      "context": "O portal Vermelho publicou um artigo em 9 de novembro de 2026 que trata da expulsão de um diplomata israelense. O conteúdo repercutiu nas redes e gerou comentários críticos ao governo de Israel e ao Itamaraty.",
+      "rank": 4,
+      "title": "Portal Vermelho publica artigo sobre expulsão de embaixador israelense pelo Brasil",
+      "label": "Expulsão de embaixador israelense · Reação nas redes",
+      "context": "O portal Vermelho publicou, em 9 de novembro de 2026, um artigo sobre a expulsão do embaixador de Israel pelo Brasil. O conteúdo gerou reações nas redes sociais, com usuários criticando a medida e outros defendendo uma resposta mais dura do Itamaraty.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/nildete.bsky.social/post/3n2bwxrzg3k2x",
       "createdAt": "2026-11-14T16:42:43.248000+00:00",
-      "rawScore": 0.4441646784990096,
-      "relevanceScore": 0.3680721210100954,
-      "suggestedRadius": 72.4,
+      "rawScore": 0.4364200183572341,
+      "relevanceScore": 0.47887483627817173,
+      "suggestedRadius": 77.52,
       "imageUrl": "assets/images/bsky_3n2bwxrzg3k2x_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2bwxrzg3k2x_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -96,7 +213,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Expulsar o embaixador de Israel é o mínimo que o Brasil deveria fazer diante do que Netanyahu vem fazendo em Gaza e no Líbano. O artigo do Vermelho acerta ao cobrar essa posição firme do Itamaraty.",
+          "text": "O Brasil acertou ao expulsar o embaixador israelense. O governo de Netanyahu comete genocídio contra palestinos, libaneses cristãos e crianças iranianas, e o Itamaraty não pode fingir que não vê isso. Expulsar é o mínimo que se espera de um país que respeita direitos humanos.",
           "source": "sintese",
           "evidence": [
             1
@@ -106,7 +223,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Itamaraty fica com frescura diplomática enquanto Israel segue agindo como bandido. Expulsar embaixador não resolve nada, o certo era cortar relações de vez e parar de tratar esse governo com gentileza.",
+          "text": "Expulsar o embaixador é pouco. Essa corja de bandidos deveria ser posta para fora do país sem cerimônia, e o Itamaraty não devia ter tanta frescura diplomática com quem apoia genocídio. Pé na bunda é o que eles merecem.",
           "source": "sintese",
           "evidence": [
             2,
@@ -117,7 +234,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O artigo do Vermelho fala em expulsão, mas não fica claro qual diplomata nem qual foi a decisão oficial do Brasil. Sem confirmar o fato concreto, a discussão vira só troca de acusações nas redes.",
+          "text": "A expulsão do embaixador israelense precisa ser avaliada com cuidado. O Brasil tem uma tradição diplomática de diálogo, e romper relações pode isolar o país em vez de pressionar Israel. Talvez uma condenação formal fosse mais eficaz do que a expulsão.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -128,17 +245,17 @@
     },
     {
       "id": "bsky_3mzzmvharss2u",
-      "rank": 3,
-      "title": "Sionistas estariam montando comunidade em Itacaré, diz PRAVDA-BR",
-      "label": "Comunidade sionista em Itacaré · denúncia",
-      "context": "O perfil PRAVDA-BR publicou no X que sionistas estariam montando uma comunidade em Itacaré, na Bahia, comprando terras e se aproveitando da boa vontade da população local. A publicação defende que o Brasil não deveria permitir isso e cita Breno Altman como alguém que explica o porquê.",
+      "rank": 5,
+      "title": "Sionistas estariam montando comunidade em Itacaré, diz publicação",
+      "label": "Comunidade sionista em Itacaré · Compra de terras",
+      "context": "Uma publicação do perfil PRAVDA-BR no X afirma que sionistas estão montando uma comunidade em Itacaré, na Bahia, comprando terras e se aproveitando da população local, e cita Breno Altman para explicar o assunto. A postagem foi replicada no Bluesky e gerou discussão sobre a presença desses grupos no litoral baiano e sobre o que o poder público pode fazer.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/ricardosog.bsky.social/post/3mzzmvharss2u",
       "createdAt": "2026-11-11T09:21:07.875000+00:00",
-      "rawScore": 0.16887076251108799,
-      "relevanceScore": 0.2215149155197502,
-      "suggestedRadius": 64.24,
+      "rawScore": 0.19927608921593457,
+      "relevanceScore": 0.324706935684292,
+      "suggestedRadius": 70.19,
       "imageUrl": "assets/images/bsky_3mzzmvharss2u_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzzmvharss2u_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -159,29 +276,28 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Concordo com o Breno Altman em gênero, número e grau. O Brasil precisa reagir a essa ocupação em Itacaré, e o governo deveria exigir vistos e expulsar estrangeiros que vêm para cá com esse tipo de intenção.",
+          "text": "Concordo com o Breno Altman em gênero, número e grau: a compra de terras por sionistas em Itacaré é uma ameaça real e precisa ser denunciada. O povo baiano não pode aceitar passivamente que estrangeiros ricos tomem conta do nosso litoral.",
           "source": "sintese",
           "evidence": [
             6,
-            13,
-            14
+            11
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O foco no sionismo em Itacaré é um erro: a Bahia sofre com racismo e mercenarismo que não têm nada a ver com judeus defendendo seu estado. Essa denúncia desvia a atenção dos problemas reais da região.",
+          "text": "O governo Lula não faz nada para expulsar esses bandidos israelenses do litoral da Bahia. O Brasil virou um país onde qualquer criminoso internacional entra e fica impune, e a Bahia só parece interessar na época da eleição.",
           "source": "sintese",
           "evidence": [
-            8
+            13
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Quem tem poder para agir são o executivo e o judiciário, não o cidadão comum. Pressão popular e protestos ajudam, mas expulsar alguém do país é obrigação das autoridades, e é isso que precisa ser cobrado.",
+          "text": "O cidadão comum pode protestar, mas não tem poder de expulsar ninguém; só o Executivo e o Judiciário podem agir. É obrigação do governo exigir vistos e controlar a entrada de estrangeiros, então a pressão popular deve cobrar essa responsabilidade.",
           "source": "sintese",
           "evidence": [
             1,
@@ -195,17 +311,17 @@
     },
     {
       "id": "bsky_3n2bht4xqkk2c",
-      "rank": 4,
-      "title": "Falta um porradeiro raiz na seleção masculina, diz post após expulsão de Raphinha",
-      "label": "Expulsão de Raphinha · Reação nas redes",
-      "context": "Raphinha foi expulso após dar chilique em partida da seleção masculina, e um post no Bluesky criticou a falta de jogadores 'porradeiros' como Junior Baiano e Luis Fabiano. A comparação gerou comentários sobre violência no futebol e sobre a diferença de postura entre gerações de atletas.",
+      "rank": 6,
+      "title": "Falta um porradeiro raiz na seleção masculina, como Junior Baiano e Luis Fabiano; Raphinha deu chilique e foi expulso sem fazer nada",
+      "label": "Seleção masculina · Falta de 'porradeiro raiz'",
+      "context": "Um post no Bluesky critica a seleção masculina por não ter jogadores com perfil de 'porradeiro raiz', citando Junior Baiano e Luis Fabiano como exemplos, e reclama que Raphinha deu chilique e foi expulso sem fazer nada. A publicação usa tom de deboche para cobrar mais atitude e combatividade dos atletas.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/brenoamaro.bsky.social/post/3n2bht4xqkk2c",
       "createdAt": "2026-11-14T12:11:36.047000+00:00",
-      "rawScore": 0.1659594089669277,
-      "relevanceScore": 0.21908083309754028,
-      "suggestedRadius": 64.08,
+      "rawScore": 0.16287383255537607,
+      "relevanceScore": 0.2837859884620802,
+      "suggestedRadius": 67.96,
       "imageUrl": "assets/images/bsky_3n2bht4xqkk2c_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2bht4xqkk2c_uns_thumb.jpg",
       "category": "geopolitica",
@@ -226,7 +342,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Junior Baiano e Luis Fabiano resolviam no grito e na porrada, e essa seleção atual precisa resgatar essa raça. Raphinha deu chilique e foi expulso sem fazer nada, então uma voadora ou um soco giratório faria o juiz entender com quem está lidando.",
+          "text": "O time precisa de jogador com a personalidade do Junior Baiano, que não levava desaforo para casa. Essa falta de combatividade é o que explica a seleção não impor respeito em campo.",
           "source": "sintese",
           "evidence": [
             1,
@@ -237,19 +353,21 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Violência didática não resolve nada e só piora a imagem do futebol brasileiro. Raphinha errou ao dar chilique, mas defender porrada em campo é um retrocesso que não deveria ser celebrado como 'raiz'.",
+          "text": "Raphinha deu chilique e foi expulso sem fazer nada, e ainda tem gente pedindo voadora e soco giratório. Violência não resolve nada e só prejudica o time, que já ficou com um a menos.",
           "source": "sintese",
           "evidence": [
-            3
+            1
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A expulsão de Raphinha foi um chilique desnecessário, mas comparar com Junior Baiano e Luis Fabiano é saudosismo exagerado. O futebol mudou, e a esculhambação de antigamente não cabe mais no esporte profissional.",
+          "text": "A reclamação é válida, mas o problema não é só falta de porrada: é a seleção não ter um líder que imponha respeito sem precisar de violência. O chilique do Raphinha é sintoma disso.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            3
+          ],
           "votes": 0
         }
       ],
@@ -258,17 +376,17 @@
     },
     {
       "id": "bsky_3n2co2aeshk27",
-      "rank": 5,
-      "title": "Léo Gamalho iguala Zé Carlos na artilharia histórica da Série B com 92 gols",
+      "rank": 7,
+      "title": "Léo Gamalho iguala Zé Carlos na liderança da artilharia histórica da Série B com 92 gols",
       "label": "Artilharia histórica da Série B · Empate no topo",
-      "context": "Léo Gamalho chegou a 92 gols e se igualou a Zé Carlos na liderança da artilharia histórica da Série B. O feito coloca os dois no topo de uma lista que tem Élton (69), Anselmo Ramon (62) e outros nomes com 53 gols ou menos.",
+      "context": "Léo Gamalho chegou a 92 gols na Série B e se igualou a Zé Carlos como maior artilheiro da história da competição. O feito coloca os dois no topo de uma lista que tem Élton (69), Anselmo Ramon (62) e outros nomes com 53 gols ou menos.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/htesports.bsky.social/post/3n2co2aeshk27",
       "createdAt": "2026-11-14T23:35:36.849000+00:00",
-      "rawScore": 0.1028233634163524,
-      "relevanceScore": 0.16629496001429517,
-      "suggestedRadius": 60.47,
+      "rawScore": 0.09642350885720745,
+      "relevanceScore": 0.20908704289099722,
+      "suggestedRadius": 63.44,
       "imageUrl": "assets/images/bsky_3n2co2aeshk27_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2co2aeshk27_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -289,7 +407,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Léo Gamalho merece todo o reconhecimento: chegar a 92 gols e empatar com Zé Carlos na liderança histórica da Série B mostra uma consistência rara. É um recorde que valoriza a competição e a trajetória do atacante.",
+          "text": "Léo Gamalho merece o reconhecimento: 92 gols na Série B é uma marca enorme, e igualar Zé Carlos mostra consistência de quem fez história no campeonato. É um recorde que valoriza a competição e a trajetória do atacante.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -297,7 +415,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A lista de artilheiros da Série B mistura épocas e critérios diferentes, então esse empate com Zé Carlos pode ser menos significativo do que parece. Sem um recorte claro, o recorde fica mais simbólico do que histórico.",
+          "text": "A lista mistura épocas e contextos diferentes, então comparar números assim pode enganar. O recorde de Léo Gamalho é válido, mas o critério de contagem e o tempo de cada um na Série B precisam ser levados em conta antes de tratá-lo como o maior de todos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -305,9 +423,72 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O número de 92 gols é impressionante, mas o contexto de quantas partidas e em quais temporadas cada um fez esses gols muda a leitura. Vale comemorar, mas também entender como essa artilharia histórica é calculada.",
+          "text": "O empate no topo é curioso, mas a discussão sobre a música do Tariflávio e a homenagem a Grampinho Neto tomou conta dos comentários. Sobre o recorde em si, o dado é claro: 92 gols para cada um, e a lista segue com Élton e Anselmo Ramon atrás.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1,
+            2,
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2d44jpqi22i",
+      "rank": 8,
+      "title": "Governo precisa intervir na violência contra o povo baiano, diz post",
+      "label": "Violência na Bahia · Pedido de intervenção federal",
+      "context": "Um post no Bluesky cobra intervenção imediata do governo federal diante do que chama de onda de violência contra o povo baiano, citando que a Bahia foi o segundo estado que mais votou em Lula. O autor pede que o assunto chegue até Erika Hilton, Janones e o próprio presidente.",
+      "source": "bluesky",
+      "subreddit": "bsky_ba",
+      "permalink": "https://bsky.app/profile/littlejohn85.bsky.social/post/3n2d44jpqi22i",
+      "createdAt": "2026-11-15T03:47:25.352000+00:00",
+      "rawScore": 0.1796231005987306,
+      "relevanceScore": 0.19020116375258572,
+      "suggestedRadius": 62.17,
+      "imageUrl": "assets/images/bsky_3n2d44jpqi22i_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2d44jpqi22i_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ba",
+      "sources": [
+        {
+          "title": "O governo precisa intervir nisso já! A Bahia foi o segundo estado que mais votou no Lula, você acha que é coincidência essa onde de violência contra o povo baiano! Isso tem que chegar até a Erika Hilton, Janones e Lula!",
+          "url": "https://bsky.app/profile/littlejohn85.bsky.social/post/3n2d44jpqi22i",
+          "subreddit": "bsky_ba"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Bahia foi o segundo estado que mais votou em Lula e agora vive essa onda de violência contra o povo baiano. Cobrar intervenção federal e levar o caso a Erika Hilton, Janones e Lula é o mínimo que se espera de quem foi eleito com esse apoio.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Reconhecer o genocídio palestino e ao mesmo tempo continuar colaborando para que ele aconteça não se sustenta. Cortar relações com o estado terrorista é o que deveria estar na pauta, não só pedir que o governo federal aja na Bahia.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O post mistura dois assuntos distintos: a violência na Bahia e a política externa. Cobrar intervenção federal é uma coisa; cortar relações com outro estado é outra. Sem separar as pautas, o pedido perde força e vira só mais um grito nas redes.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
@@ -316,17 +497,17 @@
     },
     {
       "id": "bsky_3n27h4bace22q",
-      "rank": 6,
-      "title": "Dramaturgo baiano tem estreia na TV ofuscada por paulista em 3ª novela sobre o sertão",
-      "label": "Estreia de Elísio Lopes Jr · Sertão na TV",
-      "context": "Elísio Lopes Jr, dramaturgo baiano, estreia seu primeiro grande trabalho na TV, mas a discussão pública se concentra em Mario Teixeira, paulista que está em sua terceira novela sobre o sertão. A comparação levanta a questão de qual conteúdo a teledramaturgia brasileira está priorizando e divulgando.",
+      "rank": 9,
+      "title": "Dramaturgo baiano Elísio Lopes Jr. tem estreia na TV ofuscada por Mario Teixeira",
+      "label": "Estreia de Elísio Lopes Jr. na TV · Falta de reconhecimento",
+      "context": "Elísio Lopes Jr., dramaturgo baiano, estreou seu primeiro grande trabalho na TV, mas a discussão pública segue concentrada em Mario Teixeira, paulista que está na terceira novela sobre o sertão. A diferença de atenção levanta questionamentos sobre quais produções e profissionais recebem destaque na teledramaturgia brasileira.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/milamesmo.bsky.social/post/3n27h4bace22q",
       "createdAt": "2026-11-13T16:53:29.273000+00:00",
-      "rawScore": 0.130861846792555,
-      "relevanceScore": 0.10613041454337613,
-      "suggestedRadius": 55.55,
+      "rawScore": 0.14057227383109072,
+      "relevanceScore": 0.1463028737085582,
+      "suggestedRadius": 58.95,
       "imageUrl": "assets/images/bsky_3n27h4bace22q_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27h4bace22q_uns_thumb.jpg",
       "category": "geopolitica",
@@ -342,7 +523,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A estreia de Elísio Lopes Jr na TV merecia mais destaque, junto com toda a equipe. Um dramaturgo baiano trazendo sua voz para a teledramaturgia é o tipo de novidade que deveria ser celebrada, não ofuscada por mais uma novela de sertão assinada por quem já fez três.",
+          "text": "A estreia de Elísio Lopes Jr. na TV merecia o mesmo destaque que a terceira novela sertaneja de Mario Teixeira. Um dramaturgo baiano tendo seu primeiro grande trabalho na teledramaturgia deveria ser celebrado junto com toda a equipe, não ofuscado por um paulista repetindo a mesma fórmula.",
           "source": "sintese",
           "evidence": [
             1
@@ -352,7 +533,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A mídia e o público dão palco para o que não presta e ignoram o que presta. Enquanto isso, a teledramaturgia brasileira se afunda e a pessoa comum acha que bom mesmo é enlatado de streaming que cancela sem final. O problema é o que se propaga como conteúdo.",
+          "text": "A mídia e o público dão palco para o que não presta e ignoram o que tem valor. Enquanto isso, a teledramaturgia brasileira vai se esvaziando, e as pessoas passam a achar que só existe conteúdo ruim, quando há trabalhos como o de Elísio Lopes Jr. que mereciam reconhecimento.",
           "source": "sintese",
           "evidence": [
             1
@@ -362,9 +543,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O foco em Mario Teixeira não é à toa: ele já tem nome e três novelas sobre o sertão, o que garante ibope. Elísio Lopes Jr é uma aposta nova, e a TV aberta raramente arrisca sem uma base de público. A questão é se essa lógica abre espaço para novos dramaturgos ou os deixa de lado.",
+          "text": "O problema não é só a escolha de Mario Teixeira, mas o ciclo de conteúdo ruim que se propaga. Se o que circula é sempre o mesmo tipo de novela, o público passa a acreditar que a teledramaturgia brasileira está falida, e a estreia de Elísio Lopes Jr. acaba não tendo espaço para ser vista.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
@@ -373,17 +556,17 @@
     },
     {
       "id": "bsky_3n25cn54k2k2e",
-      "rank": 7,
+      "rank": 10,
       "title": "Filho de Leandro Ávila se casa com filha de Júnior Baiano",
       "label": "Casamento entre filhos de ex-jogadores",
-      "context": "O filho do ex-jogador Leandro Ávila se casou com a filha do também ex-jogador Júnior Baiano, conforme noticiado pelo ge.globo.com. A união entre as famílias de dois nomes conhecidos do futebol chamou atenção nas redes sociais.",
+      "context": "O filho do ex-jogador Leandro Ávila se casou com a filha do também ex-jogador Júnior Baiano, conforme noticiado pelo ge.globo.com. A união chama atenção por envolver duas famílias conhecidas do futebol brasileiro.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/ecolombari.bsky.social/post/3n25cn54k2k2e",
       "createdAt": "2026-11-12T20:28:10.283000+00:00",
-      "rawScore": 0.030823387437181302,
-      "relevanceScore": 0.10609826000100789,
-      "suggestedRadius": 55.54,
+      "rawScore": 0.03369607496685747,
+      "relevanceScore": 0.1385731174619463,
+      "suggestedRadius": 58.34,
       "imageUrl": "assets/images/bsky_3n25cn54k2k2e_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n25cn54k2k2e_reddit_thumb.jpg",
       "category": "esportes",
@@ -404,7 +587,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Achei uma notícia bonita, mostra que o futebol também cria laços familiares. As duas famílias se unindo é um exemplo de como o esporte pode aproximar pessoas.",
+          "text": "Achei muito legal ver os filhos de dois ídolos do futebol se casando. Mostra que as famílias continuam unidas e é uma história bonita de se acompanhar.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -412,7 +595,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Fico pensando se essa união não é só mais uma forma de manter privilégios no meio do futebol. Filhos de jogadores famosos se casando entre si parece coisa de panelinha.",
+          "text": "Fico pensando se essa notícia não é só mais uma forma de expor a vida privada dos filhos deles. Casamento é um momento íntimo, não precisava virar manchete esportiva.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -420,184 +603,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Não vejo nada demais, é só um casamento. O que importa é que sejam felizes, independentemente da fama dos pais. Acho que a repercussão é maior do que deveria.",
+          "text": "É uma curiosidade do mundo do futebol, mas não muda nada na vida de ninguém. Só acho engraçado como essas conexões entre famílias de jogadores sempre viram assunto.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzw3blex2s27",
-      "rank": 8,
-      "title": "Baiano dando voadora em genocida. Tudo de bom ☺️",
-      "label": "Voadora em genocida · Reação na web",
-      "context": "Um post no Bluesky mostra um baiano dando uma voadora em uma pessoa chamada de genocida, com a legenda 'Tudo de bom ☺️'. A publicação gerou reações e foi compartilhada com comentários como 'O pt baiano é uma dor de cabeça à parte. Tudo pombo sujo.'",
-      "source": "bluesky",
-      "subreddit": "bsky_ba",
-      "permalink": "https://bsky.app/profile/fadinhamalvada.bsky.social/post/3mzw3blex2s27",
-      "createdAt": "2026-11-09T23:27:46.983000+00:00",
-      "rawScore": 0.02409456839019952,
-      "relevanceScore": 0.10047252615726282,
-      "suggestedRadius": 55.02,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-ba",
-      "sources": [
-        {
-          "title": "Baiano dando voadora em genocida. Tudo de bom ☺️",
-          "url": "https://bsky.app/profile/fadinhamalvada.bsky.social/post/3mzw3blex2s27",
-          "subreddit": "bsky_ba"
-        },
-        {
-          "title": "O pt baiano é uma dor de cabeça à parte. Tudo pombo sujo.",
-          "url": "https://bsky.app/profile/avodopudim.bsky.social/post/3n225d5t3c225",
-          "subreddit": "bsky_ba"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A voadora do baiano é uma resposta direta e merecida contra um genocida. Quem comete atrocidades não merece piedade, e a internet tá certa em celebrar. Tudo de bom mesmo!",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O post 'O pt baiano é uma dor de cabeça à parte. Tudo pombo sujo.' critica a atitude do baiano, sugerindo que ele é problemático e que a voadora não resolve nada, só gera mais confusão.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A reação ao baiano varia: uns acham a voadora justificada, outros criticam o pt baiano como 'pombo sujo'. O episódio mostra como a internet reage de forma dividida a ações diretas.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n27yaya4j22b",
-      "rank": 9,
-      "title": "ÁRIDA: Backland's Awakening em promoção na Steam por R$ 4,89 até domingo",
-      "label": "Promoção de ÁRIDA na Steam",
-      "context": "O jogo ÁRIDA: Backland's Awakening está com desconto na Steam, de R$ 13,99 por R$ 4,89, até domingo (15/11). A promoção é uma chance de conhecer o título que se passa no sertão baiano e acompanha a jovem Cícera.",
-      "source": "bluesky",
-      "subreddit": "bsky_ba",
-      "permalink": "https://bsky.app/profile/aocagamelab.bsky.social/post/3n27yaya4j22b",
-      "createdAt": "2026-11-13T22:00:24.994000+00:00",
-      "rawScore": 0.09733218719390371,
-      "relevanceScore": 0.07809742101860682,
-      "suggestedRadius": 52.77,
-      "imageUrl": "assets/images/bsky_3n27yaya4j22b_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27yaya4j22b_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ba",
-      "sources": [
-        {
-          "title": "Última chamada! 🌵 ÁRIDA: Backland's Awakening sai de R$ 13,99 por R$ 4,89 na Steam, só até domingo (15/11). Sobreviva à seca no sertão baiano e descubra o destino da jovem Cícera.",
-          "url": "https://bsky.app/profile/aocagamelab.bsky.social/post/3n27yaya4j22b",
-          "subreddit": "bsky_ba"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Por R$ 4,89 vale a pena conhecer ÁRIDA, ainda mais com a temática do sertão baiano e a história da Cícera. É um preço acessível para um jogo independente e a promoção termina domingo, então é uma boa oportunidade.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Promoções relâmpago assim pressionam a gente a comprar por impulso. O jogo pode ser bom, mas o prazo curto até domingo e o preço baixo fazem muita gente comprar sem pensar se realmente vai jogar.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O desconto é atrativo, mas antes de comprar é bom ver se o jogo roda no seu PC e se o estilo agrada. A temática do sertão é interessante, mas cada um sabe se vale a pena gastar mesmo pouco.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2a35nxcu22i",
-      "rank": 10,
-      "title": "Boldo-baiano: usuário relata bem-estar após usar folhas de alumã",
-      "label": "Boldo-baiano · Usos e identificação da planta",
-      "context": "Um usuário do Bluesky relatou estar se sentindo bem após usar folhas de boldo-baiano, também chamado de alumã (Vernonia condensata), e compartilhou o link da página da planta na Wikipédia. Nos comentários, outras pessoas falaram sobre o cultivo da espécie, o hábito de catalogar plantas e o interesse em encontrar a planta.",
-      "source": "bluesky",
-      "subreddit": "bsky_ba",
-      "permalink": "https://bsky.app/profile/daisyhenry72.bsky.social/post/3n2a35nxcu22i",
-      "createdAt": "2026-11-13T22:57:24.775000+00:00",
-      "rawScore": 0.07978272895131375,
-      "relevanceScore": 0.06342492343985053,
-      "suggestedRadius": 51.11,
-      "imageUrl": "assets/images/bsky_3n2a35nxcu22i_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2a35nxcu22i_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ba",
-      "sources": [
-        {
-          "title": "Eu deu certo ou tu vai precisar de uma salina inteira? 🤭 Eu cai nas folhas de alumã e estou muito bem. Boldo-baiano/alumã (Vernonia condensata) da família Asteraceae pt.wikipedia.org/wiki/Boldo-b...",
-          "url": "https://bsky.app/profile/daisyhenry72.bsky.social/post/3n2a35nxcu22i",
-          "subreddit": "bsky_ba"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Saber o nome científico e a família da planta faz diferença: quem cataloga e estuda as espécies desde criança reconhece o boldo-baiano e usa com mais segurança, em vez de depender só do nome popular.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O relato de bem-estar depois de usar a folha não prova nada sobre a planta, e sair divulgando isso sem orientação pode levar gente a consumir a espécie errada achando que é boldo-baiano.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            4
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A planta desperta interesse por motivos que vão além do uso medicinal, e tem gente querendo encontrá-la por questões ligadas a exu e oxalá, o que mostra que o valor dela depende de quem procura.",
-          "source": "sintese",
-          "evidence": [
-            4,
-            5
-          ],
           "votes": 0
         }
       ],
