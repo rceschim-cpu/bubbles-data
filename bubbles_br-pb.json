@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-11-16T05:36:04.706140+00:00",
+  "generatedAt": "2026-11-16T21:53:04.857925+00:00",
   "region": "br-pb",
-  "count": 10,
+  "count": 9,
   "items": [
     {
-      "id": "bsky_3n2ffleyzls2b",
+      "id": "bsky_3n2h3cnngpc2k",
       "rank": 1,
-      "title": "Chegay João Pessoa, hora de limpar os ouvidos do sotaque de São Paulo",
-      "label": "Sotaque paulista · Chegada a João Pessoa",
-      "context": "Um usuário do Bluesky publicou que chegou a João Pessoa e escreveu que é hora de limpar os ouvidos do sotaque de São Paulo. A publicação recebeu comentários de boas-vindas e desejos de descanso.",
+      "title": "Em proporção, os maiores aumentos no número de idosos votando foram em Sergipe (22%), Bahia (21%) e Paraíba (20%).",
+      "label": "Aumento de idosos votantes no Nordeste",
+      "context": "Os maiores aumentos proporcionais no número de idosos votando ocorreram em Sergipe (22%), Bahia (21%) e Paraíba (20%). O comparecimento dos eleitores facultativos acima de 70 anos subiu de 56,2% para 62,7%, com Lula agradecendo aos idosos no discurso de vitória.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/xibiuguloso.bsky.social/post/3n2ffleyzls2b",
-      "createdAt": "2026-11-16T01:42:07.749000+00:00",
+      "permalink": "https://bsky.app/profile/breakingnewsnozap.bsky.social/post/3n2h3cnngpc2k",
+      "createdAt": "2026-11-16T17:43:36.553000+00:00",
       "rawScore": 0.9,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "imageUrl": "assets/images/bsky_3n2h3cnngpc2k_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2h3cnngpc2k_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
         {
-          "title": "chegay joao pessoa hora de limpar os ouvidos do sotaque de sao paula",
-          "url": "https://bsky.app/profile/xibiuguloso.bsky.social/post/3n2ffleyzls2b",
+          "title": "Em proporção, os maiores aumentos no número de idosos votando foram em Sergipe (22%), Bahia (21%) e Paraíba (20%).",
+          "url": "https://bsky.app/profile/breakingnewsnozap.bsky.social/post/3n2h3cnngpc2k",
           "subreddit": "bsky_pb"
         }
       ],
@@ -31,52 +31,52 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A chegada em João Pessoa é uma oportunidade de deixar o sotaque paulista de lado e curtir o jeito de falar da Paraíba, que é mais acolhedor e tranquilo. Quem chega merece descansar e se sentir em casa.",
+          "text": "O crescimento no comparecimento dos eleitores acima de 70 anos mostra que o voto facultativo está atraindo mais participação nessa faixa etária.",
           "source": "sintese",
           "evidence": [
-            1,
-            2
+            1
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Falar em limpar os ouvidos do sotaque de São Paulo soa como desprezo à cultura paulista, como se um jeito de falar fosse melhor que o outro. Sotaque não é sujeira para ser limpa, é identidade.",
+          "text": "Mesmo com o aumento, o voto facultativo a partir dos 70 anos ainda restringe o peso total dos idosos nas eleições.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A brincadeira com o sotaque é só uma forma leve de marcar a mudança de ares, sem ofensa real. O que importa é que a pessoa chegou bem e os comentários mostram acolhimento e desejo de descanso.",
+          "text": "Pesquisas como o Datafolha de setembro já indicavam que eleitores com mais de 70 anos estavam mais inclinados a apoiar Lula.",
           "source": "sintese",
           "evidence": [
-            1,
             2
           ],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3mzyhrtnv2k2c",
       "rank": 2,
-      "title": "Globo faz novela com nordestino sonhando ir pro sudeste enquanto sudestino se muda pro nordeste",
-      "label": "Novela da Globo e migração sudeste-nordeste",
-      "context": "Uma postagem no Bluesky critica a Globo por retratar em novela o nordestino que sonha em migrar para o sudeste, enquanto, na vida real, pessoas do sudeste estariam se mudando para o nordeste em busca de qualidade de vida. A postagem cita problemas como a qualidade da água da Sabesp em São Paulo e a violência, e recebeu comentários de pessoas que relatam ter deixado o sul e o sudeste para morar em estados nordestinos.",
+      "title": "Globo faz novela nordestino sonha Sudeste enquanto sudestinos vão para João Pessoa",
+      "label": "Novela da Globo e migração para o Nordeste",
+      "context": "A Globo produz novela em que nordestinos sonham em ir para o sudeste. Na prática, sulistas e sudestinos buscam moradia em João Pessoa após problemas com a água da Sabesp em São Paulo.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/danielduncan.bsky.social/post/3mzyhrtnv2k2c",
       "createdAt": "2026-11-10T22:16:54.673000+00:00",
-      "rawScore": 0.2909115438040041,
-      "relevanceScore": 0.43036008007504395,
-      "suggestedRadius": 75.36,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.3042816303607588,
+      "relevanceScore": 0.4286227944393653,
+      "suggestedRadius": 75.28,
+      "imageUrl": "assets/images/bsky_3mzyhrtnv2k2c_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzyhrtnv2k2c_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
@@ -95,62 +95,181 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Globo está totalmente desconectada da realidade: enquanto a novela mostra nordestino querendo ir pro sudeste, quem mora em São Paulo está fugindo da água contaminada da Sabesp e da violência pra morar em João Pessoa ou Aracaju. A emissora insiste em um retrato ultrapassado do nordeste.",
+          "text": "Muitos que saíram de São Paulo relatam qualidade de vida superior no litoral nordestino e afirmam que não voltam mais.",
           "source": "sintese",
           "evidence": [
-            1,
-            6,
-            7,
-            22
+            2,
+            4,
+            9
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Essa onda de sudestinos se mudando pro nordeste está inchando as capitais e encarecendo o custo de vida. Quem é local já sente o impacto: João Pessoa está ficando insuportável com tanta gente de fora, e os aluguéis não param de subir.",
+          "text": "João Pessoa já está inchada com a chegada de gente do sul e sudeste, o que encarece aluguéis e lota prédios.",
           "source": "sintese",
           "evidence": [
             5,
             11,
-            14,
-            15
+            14
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A migração não é só sudeste-nordeste: muita gente do sul também está indo pro nordeste em busca de qualidade de vida, e há relatos de que a região oferece boa estrutura e serviços. O movimento é mais diverso do que a novela sugere, e cada caso tem suas motivações.",
+          "text": "A emissora ainda retrata o nordeste como atrasado, mas a novela ignora o fluxo real de migração por qualidade de vida.",
           "source": "sintese",
           "evidence": [
-            2,
-            4,
-            8,
-            9,
-            18
+            1,
+            6
           ],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2ffleyzls2b",
+      "rank": 3,
+      "title": "Chegai João Pessoa hora de limpar os ouvidos do sotaque de São Paulo",
+      "label": "Chegada a João Pessoa e sotaque",
+      "context": "O post anuncia a chegada a João Pessoa. Ele menciona a diferença de sotaque em relação a São Paulo.",
+      "source": "bluesky",
+      "subreddit": "bsky_pb",
+      "permalink": "https://bsky.app/profile/xibiuguloso.bsky.social/post/3n2ffleyzls2b",
+      "createdAt": "2026-11-16T01:42:07.749000+00:00",
+      "rawScore": 0.33361695099356564,
+      "relevanceScore": 0.34717294407765925,
+      "suggestedRadius": 71.35,
+      "imageUrl": "assets/images/bsky_3n2ffleyzls2b_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2ffleyzls2b_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pb",
+      "sources": [
+        {
+          "title": "chegay joao pessoa hora de limpar os ouvidos do sotaque de sao paula",
+          "url": "https://bsky.app/profile/xibiuguloso.bsky.social/post/3n2ffleyzls2b",
+          "subreddit": "bsky_pb"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Chegar em João Pessoa abre espaço para um descanso gostoso e merecido depois da viagem.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O sotaque de São Paulo demora para sair e pode complicar a adaptação inicial.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A chegada depende de como cada um lida com a mudança de sotaque no dia a dia.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n24wg26gas2u",
+      "rank": 4,
+      "title": "A Ceci roubou pão na casa do João? ( ) Sim ( ) Não ( ) Outra pessoa",
+      "label": "Meme sobre João Pessoa lotada",
+      "context": "Um post pergunta se a Ceci roubou pão na casa do João com opções de resposta. Comentários ligam a pergunta ao crescimento de João Pessoa por especulação imobiliária e chegada de mais gente.",
+      "source": "bluesky",
+      "subreddit": "bsky_pb",
+      "permalink": "https://bsky.app/profile/doouze.bsky.social/post/3n24wg26gas2u",
+      "createdAt": "2026-11-12T16:48:21.584000+00:00",
+      "rawScore": 0.007031653494233947,
+      "relevanceScore": 0.20126761157431391,
+      "suggestedRadius": 62.92,
+      "imageUrl": "assets/images/bsky_3n24wg26gas2u_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n24wg26gas2u_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pb",
+      "sources": [
+        {
+          "title": "A Ceci roubou pão na casa do João? ( ) Sim ( ) Não ( ) Outra pessoa",
+          "url": "https://bsky.app/profile/doouze.bsky.social/post/3n24wg26gas2u",
+          "subreddit": "bsky_pb"
+        },
+        {
+          "title": "Porra, sim. Pensando bem, continua com as novelas, Globo, João Pessoa tá ficando inchada demais.",
+          "url": "https://bsky.app/profile/thaiskisuki.bsky.social/post/3mzynhya72s2n",
+          "subreddit": "bsky_pb"
+        },
+        {
+          "title": "Lrp nao vao pra João Pessoa, ngm aguenta mais",
+          "url": "https://bsky.app/profile/yaneyao.bsky.social/post/3mzyluusxy224",
+          "subreddit": "bsky_pb"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "João Pessoa continua atraindo quem busca qualidade de vida, e isso aparece quando as pessoas repetem que a cidade é um paraíso.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A especulação imobiliária está gentrificando João Pessoa enquanto novos moradores chegam e a cidade fica inchada demais.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Muita gente está pedindo para não irem para João Pessoa porque ninguém aguenta mais o crescimento atual.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n2eowtuoik23",
-      "rank": 3,
+      "rank": 5,
       "title": "Paraíba!!!!! Eu moro em Pernambuco",
-      "label": "Comentário sobre localização · Paraíba e Pernambuco",
-      "context": "Um usuário publicou no Bluesky a frase \"Paraíba!!!!! Eu moro em Pernambuco\", sem explicar o motivo da exclamação. Nos comentários, outra pessoa disse que esqueceu de marcar que visitou Pernambuco.",
+      "label": "Post mistura Paraíba e Pernambuco",
+      "context": "Uma postagem no Bluesky afirma 'Paraíba!!!!! Eu moro em Pernambuco'. Um comentário relata não ter marcado a visita a Pernambuco.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/traebizz.bsky.social/post/3n2eowtuoik23",
       "createdAt": "2026-11-15T18:56:55.645000+00:00",
-      "rawScore": 0.38059016728343525,
-      "relevanceScore": 0.41881106924375416,
-      "suggestedRadius": 74.83,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.19484004453178566,
+      "relevanceScore": 0.18721526272688022,
+      "suggestedRadius": 61.96,
+      "imageUrl": "assets/images/bsky_3n2eowtuoik23_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2eowtuoik23_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
@@ -164,7 +283,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A reação empolgada com a Paraíba mostra como o estado é querido por quem mora perto. Mesmo morando em Pernambuco, a pessoa fez questão de exaltar a Paraíba, e isso é legal de ver.",
+          "text": "A postagem capta de forma leve a proximidade entre os estados vizinhos e gera identificação imediata.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -172,7 +291,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Postar só \"Paraíba!!!!! Eu moro em Pernambuco\" sem contexto mais confunde do que informa. Quem lê não entende se é elogio, crítica ou só uma piada interna, e a conversa não rende.",
+          "text": "A frase confunde quem lê e reforça erros comuns sobre localização geográfica no Nordeste.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -180,7 +299,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O comentário sobre esquecer de marcar a visita a Pernambuco mostra que essas postagens funcionam mais como registro pessoal de viagem do que como debate. Cada um compartilha o que quer, sem muita cobrança.",
+          "text": "O comentário mostra que o autor esqueceu de registrar a visita a Pernambuco ao fazer o post.",
           "source": "sintese",
           "evidence": [
             1
@@ -188,152 +307,22 @@
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n274z4m2qc2v",
-      "rank": 4,
-      "title": "Sessões de cinema em João Pessoa são todas dubladas, reclama usuário",
-      "label": "Cinemas de João Pessoa · Sessões dubladas",
-      "context": "Um usuário relatou que, ao consultar os sites de três cinemas de João Pessoa, encontrou mais de 40 sessões e todas eram dubladas. A reclamação gerou discussão sobre a falta de opções legendadas e o impacto para quem prefere assistir aos filmes no idioma original.",
-      "source": "bluesky",
-      "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/oten-oaoj.bsky.social/post/3n274z4m2qc2v",
-      "createdAt": "2026-11-13T13:52:44.273000+00:00",
-      "rawScore": 0.03403856427175676,
-      "relevanceScore": 0.36672257442677153,
-      "suggestedRadius": 72.33,
-      "imageUrl": "assets/images/bsky_3n274z4m2qc2v_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n274z4m2qc2v_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pb",
-      "sources": [
-        {
-          "title": "Entrei nos sites de 3 Cinemas daqui de João Pessoa, mais de 40 sessões e T O D A S dubladas, puta que me pariu, que ódio",
-          "url": "https://bsky.app/profile/oten-oaoj.bsky.social/post/3n274z4m2qc2v",
-          "subreddit": "bsky_pb"
-        },
-        {
-          "title": "A Ceci roubou pão na casa do João? ( ) Sim ( ) Não ( ) Outra pessoa",
-          "url": "https://bsky.app/profile/doouze.bsky.social/post/3n24wg26gas2u",
-          "subreddit": "bsky_pb"
-        },
-        {
-          "title": "can you meet me halfway? (📍joão pessoa",
-          "url": "https://bsky.app/profile/pimenta.bsky.social/post/3n27eufanus2r",
-          "subreddit": "bsky_pb"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A dublagem democratiza o acesso: muita gente não consegue acompanhar legenda, seja por questões de alfabetização, visão ou simples preferência. Ter todas as sessões dubladas atende a maioria da população, que consome cinema assim.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Cinema que só oferece dublado trata o espectador como incapaz de ler. Quem quer ver o filme no idioma original, com as atuações e o som como foram concebidos, fica sem opção. Isso é desrespeito com o público.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O problema não é a dublagem existir, mas a ausência de escolha. Uma programação equilibrada, com sessões legendadas em horários variados, atenderia tanto quem prefere dublado quanto quem quer o original, sem prejudicar ninguém.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n27i3csw3k2i",
-      "rank": 5,
-      "title": "Cristãos criticam questão do Enem sobre misoginia em textos religiosos",
-      "label": "Questão do Enem · Misoginia em textos cristãos",
-      "context": "Uma questão do Enem pediu que os alunos analisassem textos doutrinários cristãos com conteúdo misógino, citados pelo historiador Jean Delumeau, como fontes primárias. O tema gerou críticas de cristãos que consideraram a questão ofensiva à religião, e o assunto chegou a ser discutido na Câmara Municipal de João Pessoa.",
-      "source": "bluesky",
-      "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/hospiciobrasil.bsky.social/post/3n27i3csw3k2i",
-      "createdAt": "2026-11-13T17:10:53.481000+00:00",
-      "rawScore": 0.25727419667364887,
-      "relevanceScore": 0.28082778015384646,
-      "suggestedRadius": 67.8,
-      "imageUrl": "assets/images/bsky_3n27i3csw3k2i_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27i3csw3k2i_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pb",
-      "sources": [
-        {
-          "title": "São cristãos burros, que não conhecem absolutamente nada da história da religião que escolheram. O enunciado da questão é claro: discutir textos doutrinários carregados de misoginia, citados pelo historiador Jean Delumeau, como fontes primárias. Burrice e má-fé. g1.globo.com/google/amp/e...",
-          "url": "https://bsky.app/profile/hospiciobrasil.bsky.social/post/3n27i3csw3k2i",
-          "subreddit": "bsky_pb"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A questão só pede que o aluno analise textos históricos que existem e têm conteúdo misógino, citados por um historiador reconhecido. Criticar o enunciado é confundir o objeto de estudo com a opinião de quem o formulou.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Uma prova do Enem deveria tratar a fé cristã com respeito, e não expor sermões antigos como se a misoginia fosse essência da religião. Quem formulou a questão escolheu um recorte que constrange os cristãos.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O problema está na forma: usar textos doutrinários como fonte primária exige explicar o contexto histórico, senão o aluno lê o sermão antigo como se fosse a doutrina cristã de hoje. Sem esse cuidado, a questão vira alvo fácil de distorção.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            4
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n2armjxfic2m",
       "rank": 6,
-      "title": "Usuário relata ter recebido algo de graça \"na tora\" e diz que não existe amor em SP",
-      "label": "Relato de presente inesperado em São Paulo",
-      "context": "Um usuário do Bluesky relatou ter recebido algo de graça, de forma inesperada, e comentou que \"realmente não existe amor em SP\". A publicação viralizou como um desabafo sobre a experiência de ganhar algo sem esperar em São Paulo.",
+      "title": "Nossa recebi essa de graça assim na tora realmente não existe amor em sp",
+      "label": "Presente grátis em São Paulo",
+      "context": "Uma pessoa relatou ter recebido algo de graça de forma inesperada em São Paulo. A experiência levou à conclusão de que não existe amor na cidade.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/xibiuguloso.bsky.social/post/3n2armjxfic2m",
       "createdAt": "2026-11-14T05:34:15.245000+00:00",
-      "rawScore": 0.1789658439184697,
-      "relevanceScore": 0.19320535766516636,
-      "suggestedRadius": 62.37,
+      "rawScore": 0.14492079190730442,
+      "relevanceScore": 0.12967710232138857,
+      "suggestedRadius": 57.61,
       "imageUrl": "assets/images/bsky_3n2armjxfic2m_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2armjxfic2m_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -349,7 +338,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Ganhar algo de graça assim, do nada, mostra que ainda tem gente boa em São Paulo. A cidade tem fama de fria, mas esses gestos pequenos provam o contrário e mereciam ser mais valorizados.",
+          "text": "Receber algo sem pedir nada em troca prova que ainda existem gestos generosos acontecendo em São Paulo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -357,7 +346,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Receber algo \"na tora\" e postar que não existe amor em SP soa mais como desabafo de quem já cansou da cidade. O jeito como as pessoas tratam umas às outras no dia a dia é o que realmente pesa nessa história.",
+          "text": "Concluir que não existe amor em São Paulo a partir de um único presente gratuito parece uma generalização precipitada.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -365,150 +354,30 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O relato é ambíguo: pode ser ironia ou gratidão disfarçada. Sem saber o que foi recebido e em que situação, fica difícil dizer se a pessoa está reclamando da cidade ou só fazendo uma piada com a própria sorte.",
+          "text": "O relato mostra um caso isolado de generosidade, mas não esclarece se isso reflete a realidade da cidade como um todo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzy3rzhdjc2h",
-      "rank": 7,
-      "title": "Homens armados incendeiam 12 barracos e ameaçam 40 famílias na Paraíba",
-      "label": "Incêndio criminoso em acampamento na Paraíba",
-      "context": "Na madrugada de 8 de novembro, homens armados incendiaram barracos do Acampamento Marilene Dantas, na Paraíba, e fizeram disparos. O movimento denuncia ameaças e cobra proteção para cerca de 40 famílias.",
-      "source": "bluesky",
-      "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/alma-preta.bsky.social/post/3mzy3rzhdjc2h",
-      "createdAt": "2026-11-10T18:42:18.687000+00:00",
-      "rawScore": 0.07363534361957007,
-      "relevanceScore": 0.18724084260600712,
-      "suggestedRadius": 61.96,
-      "imageUrl": "assets/images/bsky_3mzy3rzhdjc2h_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzy3rzhdjc2h_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pb",
-      "sources": [
-        {
-          "title": "Homens armados incendiaram 12 barracos e fizeram disparos; movimento denuncia ameaças e cobra proteção para cerca de 40 famílias almapreta.com.br/sessao/cotid...",
-          "url": "https://bsky.app/profile/alma-preta.bsky.social/post/3mzy3rzhdjc2h",
-          "subreddit": "bsky_pb"
-        },
-        {
-          "title": "\"Na madrugada de 8 de novembro, nove barracos do Acampamento Marilene Dantas, na Paraíba, foram incendiados e completamente destruídos em um ataque criminoso marcado por disparos de arma de fogo.\"",
-          "url": "https://bsky.app/profile/taniapac.bsky.social/post/3mzuvxotuok2b",
-          "subreddit": "bsky_pb"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A resposta precisa ser dura: cadeia para todos os envolvidos no incêndio e nas ameaças. Sem punição exemplar, esses ataques vão se repetir e as famílias ficam desprotegidas.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O poder público demorou para agir; só depois do incêndio e dos disparos o movimento cobra proteção. Falta policiamento preventivo e apoio às famílias antes que o pior aconteça.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A violência é grave, mas é preciso investigar quem são os autores e qual o motivo antes de apontar culpados. Cobrar proteção é urgente, mas sem julgamento precipitado.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n226soeeik2m",
-      "rank": 8,
-      "title": "Nordeste tem computador quântico, diz g1",
-      "label": "Computador quântico no Nordeste · g1",
-      "context": "O portal g1 publicou uma reportagem sobre a existência de um computador quântico no Nordeste. O título da matéria gerou reações nas redes, com usuários questionando o tom e a abordagem da publicação.",
-      "source": "bluesky",
-      "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/patriciojunior.com.br/post/3n226soeeik2m",
-      "createdAt": "2026-11-11T14:41:40.671000+00:00",
-      "rawScore": 0.053142177794788054,
-      "relevanceScore": 0.16431020020514436,
-      "suggestedRadius": 60.32,
-      "imageUrl": "assets/images/bsky_3n226soeeik2m_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n226soeeik2m_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pb",
-      "sources": [
-        {
-          "title": "O Nordeste tem computador quântico, tá? g1.globo.com/google/amp/p...",
-          "url": "https://bsky.app/profile/patriciojunior.com.br/post/3n226soeeik2m",
-          "subreddit": "bsky_pb"
-        },
-        {
-          "title": "A globo vendo q o nordeste barrou o bolsonarismo de novo e falando \"pois eu vou meter um filtro amarelo e botar esses paraíba tudo pra beber agua na cabaça\", juroo kkkkk",
-          "url": "https://bsky.app/profile/cruelseraph.bsky.social/post/3n23m7y3smc2c",
-          "subreddit": "bsky_pb"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A reportagem do g1 mostra que o Nordeste tem computador quântico, o que contraria a imagem de atraso que muita gente associa à região. É uma notícia que valoriza a ciência e a tecnologia feitas fora do eixo Sul-Sudeste.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A matéria do g1 parece tentar desqualificar o Nordeste com um título que soa irônico, como se a região não pudesse ter tecnologia de ponta. O tom da publicação reforça preconceito contra o povo nordestino.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O título do g1 sobre computador quântico no Nordeste gerou confusão porque não deixa claro se a matéria é séria ou uma crítica. Faltou contexto para o leitor entender o que a reportagem realmente quis dizer.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n273oaybms2s",
-      "rank": 9,
-      "title": "Admiradores de peixe-boi na Paraíba conhecem até os nomes dos animais",
-      "label": "Peixe-boi · Fãs na Paraíba",
-      "context": "Uma publicação no Bluesky exaltou o universo de admiradores de peixe-boi na Paraíba, destacando que os fãs já sabem até os nomes dos animais e onde encontrá-los. Um comentário citou Cabedelo e o encontro com Mel e Favo na praia de Formosa, mostrando como esse contato aproxima as pessoas da espécie.",
+      "rank": 7,
+      "title": "Adoro admiradores de peixe-boi na Paraíba que conhecem nomes e locais",
+      "label": "Fãs de peixe-boi em Cabedelo",
+      "context": "Uma postagem elogia os admiradores de peixe-boi na Paraíba. Eles conhecem nomes como Mel e Favo e locais como a praia de Formosa.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/thaiskisuki.bsky.social/post/3n273oaybms2s",
       "createdAt": "2026-11-13T13:28:48.178000+00:00",
-      "rawScore": 0.10255700819310079,
-      "relevanceScore": 0.10770838256306113,
-      "suggestedRadius": 55.69,
-      "imageUrl": "assets/images/bsky_3n273oaybms2s_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n273oaybms2s_wiki_thumb.jpg",
+      "rawScore": 0.07641910352063075,
+      "relevanceScore": 0.050720368652133335,
+      "suggestedRadius": 49.51,
+      "imageUrl": "assets/images/bsky_3n273oaybms2s_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n273oaybms2s_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
@@ -522,7 +391,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Encontrar Mel e Favo tão de perto na praia de Formosa é uma experiência que marca qualquer um. Esse carinho da comunidade por peixe-boi na Paraíba ajuda a criar laços e a valorizar a presença desses animais no litoral.",
+          "text": "Conhecer nomes como Mel e Favo e encontrar os animais na praia de Formosa torna a relação com os peixes-boi mais próxima e especial.",
           "source": "sintese",
           "evidence": [
             1
@@ -532,7 +401,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A proximidade excessiva com peixes-bois pode estressar os animais e atrapalhar o descanso deles. Mesmo com admiração, é preciso manter distância e evitar tocar ou perseguir, para não comprometer o bem-estar da espécie.",
+          "text": "Dar nomes individuais aos peixes-boi pode criar uma visão excessivamente domesticada desses animais selvagens.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -540,36 +409,38 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O contato com peixes-bois na Paraíba desperta admiração, mas é bom lembrar que esses animais são selvagens e precisam de cuidado. A empolgação de encontrar Mel e Favo não pode virar pressão sobre eles; observar de longe já é suficiente.",
+          "text": "A chance de ver Mel e Favo depende do local exato e da sorte ao visitar Cabedelo.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n23b6lr3b22i",
-      "rank": 10,
-      "title": "Colega paraibana passou mal de frio em Brasília, enquanto curitibana não sentiu frio",
-      "label": "Frio em Brasília · Relatos divergentes",
-      "context": "Uma pessoa que se mudou da Paraíba para Brasília em março relatou ter passado mal de frio durante o inverno, enquanto outra, nascida em Curitiba, disse não ter sentido frio nem usado casaco. O contraste entre as percepções de quem veio de regiões diferentes levanta dúvidas sobre a intensidade real do frio na capital.",
+      "id": "bsky_3mzy3rzhdjc2h",
+      "rank": 8,
+      "title": "Homens armados incendiaram 12 barracos e fizeram disparos",
+      "label": "Incêndio de barracos e disparos",
+      "context": "Homens armados incendiaram 12 barracos e efetuaram disparos. O movimento denuncia ameaças e cobra proteção para cerca de 40 famílias.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/julianamarques.bsky.social/post/3n23b6lr3b22i",
-      "createdAt": "2026-11-12T00:56:46.476000+00:00",
-      "rawScore": 0.10082977867097039,
-      "relevanceScore": 0.10577571472370319,
-      "suggestedRadius": 55.51,
-      "imageUrl": "assets/images/bsky_3n23b6lr3b22i_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n23b6lr3b22i_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/alma-preta.bsky.social/post/3mzy3rzhdjc2h",
+      "createdAt": "2026-11-10T18:42:18.687000+00:00",
+      "rawScore": 0.05759645202358057,
+      "relevanceScore": 0.029024916814322576,
+      "suggestedRadius": 46.22,
+      "imageUrl": "assets/images/bsky_3mzy3rzhdjc2h_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3mzy3rzhdjc2h_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
         {
-          "title": "Colega que chegou em Brasília em março vinda da Paraiba disse que passou mal de frio no inverno e eu tive uma momento nascida em Curitiba pois esse inverno nem casaco usei, eu não senti frio um único dia",
-          "url": "https://bsky.app/profile/julianamarques.bsky.social/post/3n23b6lr3b22i",
+          "title": "Homens armados incendiaram 12 barracos e fizeram disparos; movimento denuncia ameaças e cobra proteção para cerca de 40 famílias almapreta.com.br/sessao/cotid...",
+          "url": "https://bsky.app/profile/alma-preta.bsky.social/post/3mzy3rzhdjc2h",
           "subreddit": "bsky_pb"
         }
       ],
@@ -577,36 +448,82 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Quem vem de região quente sente muito mais o frio de Brasília, mesmo que não seja extremo. A colega paraibana passou mal porque não estava acostumada, e isso mostra como a adaptação climática é real.",
+          "text": "O movimento social cumpre seu papel ao denunciar as ameaças e exigir proteção imediata para as famílias que perderam seus barracos.",
           "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Brasília não tem inverno rigoroso, então esse relato de passar mal de frio parece exagero. Quem nasceu em Curitiba e não usou casaco confirma que o frio por aqui é fraco, e a colega talvez estivesse esperando outra coisa.",
+          "text": "A ação dos homens armados expõe a vulnerabilidade das famílias e a ausência de medidas de segurança efetivas no local.",
           "source": "sintese",
-          "evidence": [
-            3
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A sensação térmica varia muito de pessoa para pessoa e depende da origem e do tempo de adaptação. O relato da paraibana e o da curitibana mostram que não dá para generalizar o frio de Brasília só com duas experiências.",
+          "text": "Os disparos e o incêndio de barracos configuram um episódio de violência que afeta diretamente cerca de 40 famílias na área.",
           "source": "sintese",
-          "evidence": [
-            4
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n226soeeik2m",
+      "rank": 9,
+      "title": "O Nordeste tem computador quântico, tá?",
+      "label": "Computador quântico no Nordeste",
+      "context": "Uma postagem afirma que o Nordeste possui um computador quântico. O link direciona para uma reportagem do g1 sobre o tema.",
+      "source": "bluesky",
+      "subreddit": "bsky_pb",
+      "permalink": "https://bsky.app/profile/patriciojunior.com.br/post/3n226soeeik2m",
+      "createdAt": "2026-11-11T14:41:40.671000+00:00",
+      "rawScore": 0.03241486567031869,
+      "relevanceScore": 0.0,
+      "suggestedRadius": 36.0,
+      "imageUrl": "assets/images/bsky_3n226soeeik2m_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n226soeeik2m_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pb",
+      "sources": [
+        {
+          "title": "O Nordeste tem computador quântico, tá? g1.globo.com/google/amp/p...",
+          "url": "https://bsky.app/profile/patriciojunior.com.br/post/3n226soeeik2m",
+          "subreddit": "bsky_pb"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O Nordeste ganhar um computador quântico marca um avanço concreto em pesquisa e inovação para a região, abrindo portas para novos projetos científicos.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A declaração de que o Nordeste tem computador quântico soa vaga sem explicar quem construiu, onde fica e qual a capacidade real do equipamento.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A notícia sobre o computador quântico no Nordeste ainda deixa em aberto se o equipamento já está em operação ou se é apenas um projeto em fase inicial.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     }
   ]

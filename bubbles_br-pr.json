@@ -1,23 +1,112 @@
 {
-  "generatedAt": "2026-11-16T05:36:04.706140+00:00",
+  "generatedAt": "2026-11-16T21:53:04.857925+00:00",
   "region": "br-pr",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n2ezwjho6k2g",
+      "id": "bsky_3n2gyvsiuls2k",
       "rank": 1,
-      "title": "Já morei no Mato Grosso do Sul quando eu era criança, mas hoje eu moro no Paraná mesmo.",
+      "title": "Homem flagra tomates de boa qualidade jogados à beira da estrada no Paraná",
+      "label": "Tomates descartados à beira de estrada no Paraná",
+      "context": "Um homem flagrou uma produção de tomates de boa qualidade sendo jogada à beira da estrada no Paraná. O produtor preferiu descartar os tomates em vez de doá-los.",
+      "source": "bluesky",
+      "subreddit": "bsky_pr",
+      "permalink": "https://bsky.app/profile/romulobdias.bsky.social/post/3n2gyvsiuls2k",
+      "createdAt": "2026-11-16T17:00:40.352000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n2gyvsiuls2k_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2gyvsiuls2k_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pr",
+      "sources": [
+        {
+          "title": "Homem flagra produção de tomates de BOA QUALIDADE jogada à beira da estrada no Paraná — o produtor, que se bobear deu calote no BB, preferiu fazer isso do que doar a quem precisa",
+          "url": "https://bsky.app/profile/romulobdias.bsky.social/post/3n2gyvsiuls2k",
+          "subreddit": "bsky_pr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Paguei R$ 25 por kg em São Paulo e produtores com esse tipo de atitude deveriam perder acesso a incentivos públicos por alguns anos.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O ato de jogar comida boa fora é deplorável e o produtor deveria doar para creches ou escolas em vez de desperdiçar.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            4
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O vídeo é antigo e não corresponde ao momento atual de preços altos no mercado.",
+          "source": "sintese",
+          "evidence": [
+            3,
+            6
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2h2sj7ass2y",
+      "rank": 2,
+      "title": "Se tudo der certo, Alagoas e Paraná vão perder senadores eleitos",
       "label": "",
       "context": "",
       "source": "bluesky",
       "subreddit": "bsky_pr",
+      "permalink": "https://bsky.app/profile/galovasco.bsky.social/post/3n2h2sj7ass2y",
+      "createdAt": "2026-11-16T17:34:34.955000+00:00",
+      "rawScore": 0.3502848414422705,
+      "relevanceScore": 0.38920537938030053,
+      "suggestedRadius": 73.43,
+      "imageUrl": null,
+      "imageThumbUrl": "",
+      "category": "geopolitica",
+      "region": "br-pr",
+      "sources": [
+        {
+          "title": "Se tudo der certo, Alagoas e Paraná vão perder senadores eleitos",
+          "url": "https://bsky.app/profile/galovasco.bsky.social/post/3n2h2sj7ass2y",
+          "subreddit": "bsky_pr"
+        }
+      ],
+      "opinions": [],
+      "enrichedBy": "",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2ezwjho6k2g",
+      "rank": 3,
+      "title": "Já morei no Mato Grosso do Sul quando eu era criança, mas hoje eu moro no Paraná mesmo.",
+      "label": "Mudança de residência entre estados",
+      "context": "Uma pessoa afirmou ter morado no Mato Grosso do Sul na infância e residir atualmente no Paraná. Comentários citam um tornado recente em Maringá e outros eventos no estado.",
+      "source": "bluesky",
+      "subreddit": "bsky_pr",
       "permalink": "https://bsky.app/profile/leandrofj9514.bsky.social/post/3n2ezwjho6k2g",
       "createdAt": "2026-11-15T22:13:41.941000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.2027862783956219,
+      "relevanceScore": 0.3364291982173577,
+      "suggestedRadius": 70.8,
       "imageUrl": "assets/images/bsky_3n2ezwjho6k2g_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2ezwjho6k2g_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2ezwjho6k2g_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pr",
       "sources": [
@@ -30,38 +119,65 @@
           "title": "Olha, se eu fosse o Lula eu me recusava a liberar qualquer verba pro Paraná enquanto o Moro não pedisse desculpas",
           "url": "https://bsky.app/profile/tubazef.com/post/3n22igjbw7225",
           "subreddit": "bsky_pr"
-        },
-        {
-          "title": "#farsajatonuncamais E o Moro se tornou governador do Paraná, né? Putz...",
-          "url": "https://bsky.app/profile/alannahvic.bsky.social/post/3mzzupmjias2q",
-          "subreddit": "bsky_pr"
         }
       ],
-      "opinions": [],
-      "enrichedBy": "",
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Nascidos no Paraná que viveram em outros estados como Mato Grosso do Sul conseguem comparar realidades diferentes de perto.",
+          "source": "sintese",
+          "evidence": [
+            12
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O Paraná enfrenta desastres como o tornado em Maringá que destruiu partes da cidade e causou quedas de árvores.",
+          "source": "sintese",
+          "evidence": [
+            8
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A decisão de visitar países vizinhos como o Paraguai, que faz fronteira com ambos os estados, depende de cada pessoa.",
+          "source": "sintese",
+          "evidence": [
+            10,
+            11
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2f4mbu52s2r",
-      "rank": 2,
-      "title": "Globo Paraná-RPC já está pronta para narrativas",
-      "label": "Globo Paraná-RPC · Prontidão para narrativas",
-      "context": "A Globo Paraná-RPC publicou uma mensagem afirmando que já está pronta para narrativas. A declaração gerou discussão sobre o papel da emissora na cobertura jornalística.",
+      "id": "bsky_3n2h3t55evs2w",
+      "rank": 4,
+      "title": "O Paraná é um caso perdido, mas Renan de volta é bom...",
+      "label": "Retorno de Renan ao Paraná",
+      "context": "Um post no Bluesky afirma que o Paraná é um caso perdido, mas o retorno de Renan é positivo. Comentários citam a ausência do DD e a presença de Curi no time.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/radioproletario.bsky.social/post/3n2f4mbu52s2r",
-      "createdAt": "2026-11-15T23:01:34.549000+00:00",
-      "rawScore": 0.3972226213720321,
-      "relevanceScore": 0.3752706930657234,
-      "suggestedRadius": 72.76,
-      "imageUrl": "assets/images/bsky_3n2f4mbu52s2r_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2f4mbu52s2r_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/cientistadegente.bsky.social/post/3n2h3t55evs2w",
+      "createdAt": "2026-11-16T17:52:50.047000+00:00",
+      "rawScore": 0.2551871680674185,
+      "relevanceScore": 0.28354129785268717,
+      "suggestedRadius": 67.95,
+      "imageUrl": "assets/images/bsky_3n2h3t55evs2w_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2h3t55evs2w_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pr",
       "sources": [
         {
-          "title": "A Globo Paraná - Rpc já está pronta pra narrativas.",
-          "url": "https://bsky.app/profile/radioproletario.bsky.social/post/3n2f4mbu52s2r",
+          "title": "O Paraná é um caso perdido, mas Renan de volta é bom...",
+          "url": "https://bsky.app/profile/cientistadegente.bsky.social/post/3n2h3t55evs2w",
           "subreddit": "bsky_pr"
         }
       ],
@@ -69,52 +185,59 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Globo Paraná-RPC demonstra transparência ao admitir que está pronta para narrativas, o que pode significar uma cobertura mais alinhada com as expectativas do público e maior clareza editorial.",
+          "text": "Renan de volta traz uma melhora clara para o Paraná mesmo com o time em situação difícil, já que a ausência do DD já pesa bastante no desempenho.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A emissora anunciar que está pronta para narrativas soa como uma confissão de que vai priorizar interpretações em vez de fatos, comprometendo a objetividade jornalística que se espera de um veículo sério.",
+          "text": "O Paraná não tem condições de bolo e só conta com Curi, o que mostra que o retorno de Renan sozinho não resolve o problema maior do clube.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A frase é ambígua e pode ser apenas uma peça de marketing ou uma declaração sobre ficção; sem mais detalhes, é difícil avaliar se há mudança real na prática jornalística da Globo Paraná-RPC.",
+          "text": "A situação do Paraná depende de mais do que só Renan, pois a falta do DD já cria um bolo e a presença de Curi define o que o time realmente tem.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1,
+            2
+          ],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2cpdg7lck2j",
-      "rank": 3,
-      "title": "Prima descobre ser única compatível para doar medula ao irmão de 8 anos",
-      "label": "Vaquinha · Exame de compatibilidade de medula",
-      "context": "Uma vaquinha foi compartilhada para ajudar uma mulher a viajar de Curitiba e fazer o exame de compatibilidade de medula, para saber se poderia doar ao irmão de 8 anos. O resultado mostrou que apenas ela é compatível, e a família agradeceu a quem contribuiu.",
+      "id": "bsky_3n2h5lxa5mc2x",
+      "rank": 5,
+      "title": "Pesquisadores analisaram mais de 600 ostras em Paranaguá em três décadas",
+      "label": "Análise de ostras no estuário de Paranaguá",
+      "context": "Pesquisadores da Unespar campus de Paranaguá e parceiros analisaram mais de 600 ostras coletadas no Complexo Estuarino de Paranaguá em três décadas. O estudo abrange coletas realizadas ao longo desse período.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/frozencerrado.bsky.social/post/3n2cpdg7lck2j",
-      "createdAt": "2026-11-14T23:58:38.261000+00:00",
-      "rawScore": 0.3619884652137082,
-      "relevanceScore": 0.3419837011128248,
-      "suggestedRadius": 71.09,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "permalink": "https://bsky.app/profile/borinasredes.bsky.social/post/3n2h5lxa5mc2x",
+      "createdAt": "2026-11-16T18:24:39.953000+00:00",
+      "rawScore": 0.24884661491808924,
+      "relevanceScore": 0.27649623879787694,
+      "suggestedRadius": 67.55,
+      "imageUrl": "assets/images/bsky_3n2h5lxa5mc2x_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2h5lxa5mc2x_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pr",
       "sources": [
         {
-          "title": "Lembram de uma vaquinha que compartilhei com vcs da minha prima? Ela tava juntando dinheiro pra ir pra Curitiba fazer exame de compatibilidade de medula pra saber se seria doadora pro irmãozinho dela. Então. Só ela é compatível. Obrigada a quem ajudou.",
-          "url": "https://bsky.app/profile/frozencerrado.bsky.social/post/3n2cpdg7lck2j",
+          "title": "Pesquisadores da Unespar campus de Paranaguá e parceiros analisaram mais de 600 ostras coletadas no Complexo Estuarino de Paranaguá em três décadas. abori.com.br/ambiente/red...",
+          "url": "https://bsky.app/profile/borinasredes.bsky.social/post/3n2h5lxa5mc2x",
           "subreddit": "bsky_pr"
         }
       ],
@@ -122,19 +245,15 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A notícia é linda demais: só ela ser compatível com o irmãozinho de 8 anos mostra que a vaquinha valeu cada centavo. Mesmo quem não viu a campanha a tempo está comemorando o desfecho e torcendo para a doação dar certo.",
+          "text": "Os pesquisadores da Unespar e parceiros produziram um levantamento sólido ao examinar mais de 600 ostras no estuário.",
           "source": "sintese",
-          "evidence": [
-            1,
-            2,
-            3
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A vaquinha precisou existir porque o deslocamento até Curitiba para o exame não é coberto de forma acessível, e isso pesa numa família que já está lidando com a doença de uma criança. O resultado positivo não apaga a dificuldade que foi chegar até o exame.",
+          "text": "A análise de ostras coletadas em três décadas pode não refletir condições atuais do Complexo Estuarino de Paranaguá.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -142,34 +261,30 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Quem não viu a vaquinha na época só soube agora do desfecho e não teve como colaborar, mas o importante é que o exame foi feito e a compatibilidade confirmada. A história serve para lembrar que campanhas assim passam rápido no feed e muita gente fica de fora.",
+          "text": "O trabalho envolveu ostras do Complexo Estuarino de Paranaguá sem indicar resultados específicos sobre contaminação.",
           "source": "sintese",
-          "evidence": [
-            1,
-            2,
-            4
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n234bm3yp22o",
-      "rank": 4,
-      "title": "Moro é eleito governador do Paraná e críticos reagem",
-      "label": "Moro governador · Reação nas redes",
-      "context": "O ex-juiz Sergio Moro foi eleito governador do Paraná, segundo posts que comentam o resultado. A eleição dele é criticada por quem lembra que ele prendeu Lula por 580 dias e depois teve o julgamento anulado.",
+      "rank": 6,
+      "title": "Homem que prendeu Lula por 580 dias é eleito governador do Paraná",
+      "label": "Eleição de governador após prisão de Lula",
+      "context": "A pessoa que prendeu Lula por 580 dias foi eleita governador do Paraná. A anulação do julgamento é considerada de motivação política.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
       "permalink": "https://bsky.app/profile/hqsemroteiro.bsky.social/post/3n234bm3yp22o",
       "createdAt": "2026-11-11T23:28:58.481000+00:00",
-      "rawScore": 0.24963319998750827,
-      "relevanceScore": 0.3303112315831896,
-      "suggestedRadius": 70.48,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.10133466964213733,
+      "relevanceScore": 0.2237051884912637,
+      "suggestedRadius": 64.38,
+      "imageUrl": "assets/images/bsky_3n234bm3yp22o_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n234bm3yp22o_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pr",
       "sources": [
@@ -188,188 +303,65 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O povo do Paraná elegeu Moro e agora vai pagar por isso. A incompetência dele vai arruinar o estado, e quem votou nele talvez nem perceba, como acontece com quem elege bandidos há décadas.",
+          "text": "A anulação do julgamento de Lula ocorreu por razões políticas, conforme apontado por quem acompanhou o caso, e isso permitiu que o responsável pela prisão fosse eleito governador do Paraná sem maiores obstáculos.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O governador eleito vai arruinar o Paraná por causa da incompetência que já demonstrou, e o estado vai pagar o preço sem que a maioria perceba a tempo.",
           "source": "sintese",
           "evidence": [
             1,
             2,
-            8
+            6,
+            8,
+            13
           ],
           "votes": 0
         },
         {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A eleição de Moro é uma afronta: ele prendeu Lula por 580 dias por um triplex que nem era dele, e o julgamento foi anulado por motivos políticos. O Supremo sentou em cima da inelegibilidade e isso precisa ser lembrado.",
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O Supremo Tribunal sentou em cima da inelegibilidade do candidato, permitindo que ele assumisse o mandato apesar das restrições que deveriam ter sido aplicadas.",
           "source": "sintese",
           "evidence": [
-            3,
             5
           ],
           "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Moro como governador do Paraná deve ser um desastre, mas o eleitorado não olha propostas, só vota em quem a mídia empurra. Ele vai culpar o Lula por tudo e a carreira dele pode acabar nesse mandato.",
-          "source": "sintese",
-          "evidence": [
-            4,
-            6,
-            7
-          ],
-          "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2757ra57c2p",
-      "rank": 5,
-      "title": "Justiça manda remover posts de Curitiba",
-      "label": "Justiça manda apagar posts · Curitiba",
-      "context": "A Justiça determinou a remoção de publicações feitas por um perfil em Curitiba, segundo o post compartilhado no Bluesky. A decisão gerou reações sobre a eficácia de punições que se limitam a apagar conteúdo.",
-      "source": "bluesky",
-      "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/taniarivera.bsky.social/post/3n2757ra57c2p",
-      "createdAt": "2026-11-13T13:56:30.677000+00:00",
-      "rawScore": 0.25705196676836234,
-      "relevanceScore": 0.24284636506822707,
-      "suggestedRadius": 65.57,
-      "imageUrl": "assets/images/bsky_3n2757ra57c2p_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2757ra57c2p_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pr",
-      "sources": [
-        {
-          "title": "Ah! Curitiba... brasilforadacaverna.com.br/justica-mand...",
-          "url": "https://bsky.app/profile/taniarivera.bsky.social/post/3n2757ra57c2p",
-          "subreddit": "bsky_pr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Apagar posts não pune ninguém de verdade, só incentiva a repetir sabendo que não dá em nada. A Justiça devia aplicar consequências mais duras, porque remover conteúdo é o mínimo e não desestimula ninguém.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Essa gente da extrema direita tem um olhar e uma aparência estranhos, e a carinha de quem merece soco é fascinante. Enquanto o mundo se derrete com o Lula, esses só sujam a aura maravilhosa do país.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            3,
-            4
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A indenização por esse ato covarde ainda precisa ser definida, e Curitiba está seguindo o mesmo mal caminho de São Paulo. A decisão judicial levanta a dúvida sobre qual será o valor e o efeito real da punição.",
-          "source": "sintese",
-          "evidence": [
-            5,
-            6
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2btx7ng5c2e",
-      "rank": 6,
-      "title": "Bodinho loiro informa que acabou o frio na muralha Paraná/São Paulo",
-      "label": "Fim do frio no Sul e Sudeste",
-      "context": "O perfil bodinho loiro publicou no Bluesky que o frio acabou na região da muralha entre Paraná e São Paulo, prevendo que em breve as pessoas vão reclamar do calor. A mudança de temperatura marca a transição para dias mais quentes nessas regiões.",
-      "source": "bluesky",
-      "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/bodinholoiro.bsky.social/post/3n2btx7ng5c2e",
-      "createdAt": "2026-11-14T15:48:39.349000+00:00",
-      "rawScore": 0.15644526139174572,
-      "relevanceScore": 0.24227318837858336,
-      "suggestedRadius": 65.53,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-pr",
-      "sources": [
-        {
-          "title": "bodinho loiro informa que acabou o frio na muralha Paraná/São Paulo, em breve vamos ficar reclamando do calor",
-          "url": "https://bsky.app/profile/bodinholoiro.bsky.social/post/3n2btx7ng5c2e",
-          "subreddit": "bsky_pr"
-        },
-        {
-          "title": "seguinte vamos alugar um chalé no interior do Paraná e todo mundo dá a bunda",
-          "url": "https://bsky.app/profile/daszin.bsky.social/post/3mzysj77srk22",
-          "subreddit": "bsky_pr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Acabou o frio e já estou pensando no chalé no interior do Paraná, com todo mundo convidado. A temporada de calor é a melhor época pra reunir os mutuals e curtir o interior.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O Paraná não me parece um destino convidativo, e a conversa de chalé já tomou um rumo que não me agrada. Prefiro não ir e ficar longe desse tipo de proposta.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A previsão de calor já vem com a certeza de que logo estaremos reclamando, como sempre acontece. O ciclo de reclamar do frio e depois do calor não muda, independente do chalé.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2d4tkkrrk2v",
+      "id": "bsky_3n2faxp2ois2t",
       "rank": 7,
-      "title": "Fã conta terceira vez vendo show e diz que foi o favorito",
-      "label": "Show ao vivo · Álbum novo elogiado",
-      "context": "Um fã relatou no Bluesky que viu a mesma artista ao vivo pela terceira vez e considerou essa apresentação a melhor de todas. Ele destacou que o álbum novo funciona muito bem ao vivo, o que indica boa recepção da turnê atual.",
+      "title": "Paraná elege estropício para governador",
+      "label": "Eleição de governador no Paraná",
+      "context": "Posts no Bluesky afirmam que o Paraná elegeu um estropício para governador. Comentários citam que cargos importantes do governo estadual serão ocupados por indicados de partido de São Paulo.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/essenariz.bsky.social/post/3n2d4tkkrrk2v",
-      "createdAt": "2026-11-15T04:00:20.744000+00:00",
-      "rawScore": 0.21530388616783303,
-      "relevanceScore": 0.20340543119842355,
-      "suggestedRadius": 63.06,
-      "imageUrl": "assets/images/bsky_3n2d4tkkrrk2v_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2d4tkkrrk2v_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/rossinipoemas.bsky.social/post/3n2faxp2ois2t",
+      "createdAt": "2026-11-16T00:19:33.045000+00:00",
+      "rawScore": 0.05817011954250787,
+      "relevanceScore": 0.1757445772694532,
+      "suggestedRadius": 61.15,
+      "imageUrl": "assets/images/bsky_3n2faxp2ois2t_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2faxp2ois2t_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pr",
       "sources": [
         {
-          "title": "Terceira vez vendo ela e acho que foi meu show favorito, o novo álbum é uma delícia ao vivo",
-          "url": "https://bsky.app/profile/essenariz.bsky.social/post/3n2d4tkkrrk2v",
+          "title": "Sem papas na língua... E o estado fascista do Paraná (com as devidas exceções) ainda elege esse estropício para governador...",
+          "url": "https://bsky.app/profile/rossinipoemas.bsky.social/post/3n2faxp2ois2t",
+          "subreddit": "bsky_pr"
+        },
+        {
+          "title": "E vai ser governador do Paraná.",
+          "url": "https://bsky.app/profile/pavan-vicente.bsky.social/post/3mzyryw35hc2j",
           "subreddit": "bsky_pr"
         }
       ],
@@ -377,44 +369,50 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Ver a mesma artista três vezes e ainda sair dizendo que foi o melhor show até agora mostra que o álbum novo ganhou outra dimensão ao vivo. As músicas novas funcionam melhor no palco do que no estúdio, e isso justifica a turnê.",
+          "text": "O governador já mudou a direção ao entregar os principais cargos a indicados de fora do estado.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Elogio de fã que já foi três vezes não serve como parâmetro, porque quem volta sempre tende a achar tudo ótimo. O relato não diz nada sobre a qualidade real da apresentação nem sobre como o público novo recebeu o show.",
+          "text": "Ele é rasteiro e sem escrúpulos, e a justiça ainda o mantém solto como governador.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O comentário é de alguém que já conhece o repertório e a artista de outras apresentações, então a comparação com os shows anteriores pesa bastante. Para quem nunca viu, a experiência pode ser bem diferente do que esse fã descreve.",
+          "text": "Os apoiadores locais ficaram sem os carguinhos que esperavam após a eleição.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n24ckdvh522n",
       "rank": 8,
-      "title": "Justiça só será feita quando Marreco e Dallagnol forem presos",
-      "label": "Críticas a Moro e Dallagnol · Curitiba",
-      "context": "Posts no Bluesky criticam o ex-juiz Sergio Moro, chamado de 'Marreco de Curitiba', e o ex-procurador Deltan Dallagnol, pedindo que ambos sejam presos. A crítica também recai sobre a eleição de Moro para o governo do Paraná, vista como resultado da cumplicidade de quem votou nele.",
+      "title": "Ótimo Di@, JM E o ladrão é o Marreco de Curitiba",
+      "label": "Marreco de Curitiba chamado de ladrão",
+      "context": "Posts no Bluesky chamam o Marreco de Curitiba de ladrão e exigem sua prisão junto com Dallagnol. Comentários destacam que ele assumiu o governo do Paraná sem ser preso.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
       "permalink": "https://bsky.app/profile/clavedosul.bsky.social/post/3n24ckdvh522n",
       "createdAt": "2026-11-12T10:53:55.981000+00:00",
-      "rawScore": 0.1076378200590507,
-      "relevanceScore": 0.19616301904225386,
-      "suggestedRadius": 62.57,
+      "rawScore": 0.04301486840636389,
+      "relevanceScore": 0.15890540934040434,
+      "suggestedRadius": 59.92,
       "imageUrl": "assets/images/bsky_3n24ckdvh522n_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n24ckdvh522n_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -435,7 +433,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A prisão de Moro e Dallagnol é o mínimo para reparar os danos da Lava Jato. Enquanto os dois estiverem soltos, a Justiça brasileira segue devendo uma resposta à sociedade.",
+          "text": "O Marreco de Curitiba precisa ir para a cadeia junto com Dallagnol para que a justiça finalmente aconteça de verdade e recupere alguma credibilidade nas instituições. Essa prisão é o mínimo exigido depois de tudo que aconteceu.",
           "source": "sintese",
           "evidence": [
             1,
@@ -446,41 +444,40 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Moro ganhou o governo do Paraná porque o eleitorado paranaense quis. Ficar chamando de 'ladrão' quem foi eleito democraticamente é desrespeitar a escolha das urnas.",
+          "text": "Não foi preso e ainda ganhou o governo do Paraná como presente, o que mostra o quanto o sistema falha em punir quem deveria responder por crimes graves.",
           "source": "sintese",
           "evidence": [
-            2,
-            3
+            2
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A credibilidade do STF só volta quando o caso for julgado com isenção, sem pressão de nenhum lado. Prender Moro e Dallagnol por pressão popular não resolve nada.",
+          "text": "O governo do Paraná só foi possível graças à cumplicidade dos eleitores que escolheram o Marreco mesmo sabendo das acusações que pesavam sobre ele.",
           "source": "sintese",
           "evidence": [
-            4
+            3
           ],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n25f5enw4k2h",
       "rank": 9,
-      "title": "É pedir demais um trem Curitiba–São Paulo na gestão Lula 4?",
-      "label": "Trem Curitiba–São Paulo · Expectativa",
-      "context": "Um usuário do Bluesky questionou se é pedir demais ter um trem ligando Curitiba a São Paulo durante a gestão Lula 4. A postagem expressa ceticismo sobre a viabilidade da obra, mencionando a probabilidade de não acontecer.",
+      "title": "É pedir demais um trem Curitiba - São Paulo na gestão Lula 4 meu deus???",
+      "label": "Pedido de trem Curitiba-São Paulo",
+      "context": "Uma postagem no Bluesky questiona se é pedir demais um trem ligando Curitiba a São Paulo na gestão Lula 4. Outra postagem menciona processar quadrilha de Curitiba.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
       "permalink": "https://bsky.app/profile/hetthepumpking.bsky.social/post/3n25f5enw4k2h",
       "createdAt": "2026-11-12T21:12:58.877000+00:00",
-      "rawScore": 0.06129476765802928,
-      "relevanceScore": 0.152381047780793,
-      "suggestedRadius": 59.42,
+      "rawScore": 0.023833656433244282,
+      "relevanceScore": 0.13759295159249366,
+      "suggestedRadius": 58.26,
       "imageUrl": "assets/images/bsky_3n25f5enw4k2h_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n25f5enw4k2h_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -501,7 +498,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Um trem ligando Curitiba a São Paulo seria uma revolução para o transporte de passageiros no Sul e Sudeste, reduzindo custos e tempo de viagem. O governo Lula 4 tem a chance de investir em infraestrutura ferroviária e mostrar compromisso com mobilidade.",
+          "text": "Um trem ligando Curitiba a São Paulo melhoraria a mobilidade entre as duas cidades e valeria a pena na gestão atual.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -509,7 +506,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Pedir um trem Curitiba–São Paulo na gestão Lula 4 é ignorar a realidade fiscal e os gargalos históricos do transporte ferroviário no Brasil. O país precisa priorizar o básico antes de sonhar com trens de alta velocidade entre capitais.",
+          "text": "Pedir obras como esse trem agora ignora problemas maiores que precisam ser resolvidos primeiro em Curitiba.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -517,36 +514,36 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A viabilidade de um trem Curitiba–São Paulo depende de estudos de demanda e parcerias com a iniciativa privada. Sem um plano claro e financiamento definido, a proposta fica no campo das ideias, independentemente do governo.",
+          "text": "A viabilidade de um trem Curitiba-São Paulo depende de custos e planejamento que ainda não foram detalhados.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2ehyx4uf22d",
+      "id": "bsky_3n2cpdg7lck2j",
       "rank": 10,
-      "title": "Paraná recebe algo e post diz \"bom proveito\"",
-      "label": "Post no Bluesky · Paraná",
-      "context": "Um post no Bluesky publicado em 15 de novembro de 2026 diz \"Bom proveito Paraná com isso...\". O texto não detalha o que o Paraná estaria recebendo nem o contexto da frase.",
+      "title": "Prima é compatível para doar medula ao irmão",
+      "label": "Vaquinha de medula · Compatibilidade confirmada",
+      "context": "A prima viajou a Curitiba após vaquinha para fazer exame de compatibilidade de medula com o irmão. Apenas ela mostrou compatibilidade para a doação.",
       "source": "bluesky",
       "subreddit": "bsky_pr",
-      "permalink": "https://bsky.app/profile/belga.bsky.social/post/3n2ehyx4uf22d",
-      "createdAt": "2026-11-15T16:52:52.252000+00:00",
-      "rawScore": 0.14315776816487097,
-      "relevanceScore": 0.13524636308831287,
-      "suggestedRadius": 58.07,
-      "imageUrl": "assets/images/bsky_3n2ehyx4uf22d_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2ehyx4uf22d_wiki_thumb.jpg",
+      "permalink": "https://bsky.app/profile/frozencerrado.bsky.social/post/3n2cpdg7lck2j",
+      "createdAt": "2026-11-14T23:58:38.261000+00:00",
+      "rawScore": 0.1142990733153008,
+      "relevanceScore": 0.12699897035033422,
+      "suggestedRadius": 57.38,
+      "imageUrl": "assets/images/bsky_3n2cpdg7lck2j_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2cpdg7lck2j_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pr",
       "sources": [
         {
-          "title": "Bom proveito Paraná com isso...",
-          "url": "https://bsky.app/profile/belga.bsky.social/post/3n2ehyx4uf22d",
+          "title": "Lembram de uma vaquinha que compartilhei com vcs da minha prima? Ela tava juntando dinheiro pra ir pra Curitiba fazer exame de compatibilidade de medula pra saber se seria doadora pro irmãozinho dela. Então. Só ela é compatível. Obrigada a quem ajudou.",
+          "url": "https://bsky.app/profile/frozencerrado.bsky.social/post/3n2cpdg7lck2j",
           "subreddit": "bsky_pr"
         }
       ],
@@ -554,29 +551,37 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O post acerta ao mandar o recado direto pro Paraná: quem acompanha o que está acontecendo no estado entende a ironia e concorda que o \"bom proveito\" é merecido diante da situação.",
+          "text": "A prima ser compatível é uma notícia excelente que recompensa quem contribuiu com a vaquinha para o exame.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1,
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Uma frase solta assim não diz nada: sem explicar o que o Paraná estaria recebendo, o post só gera confusão e não ajuda ninguém a entender o que realmente aconteceu no estado.",
+          "text": "Muitos não viram a vaquinha a tempo e perderam a chance de ajudar antes do resultado sair.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2,
+            4
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Fica difícil tomar posição sobre um post tão curto: dá pra ler como ironia ou como comemoração, e sem o contexto completo qualquer interpretação é só um chute sobre a intenção de quem escreveu.",
+          "text": "O irmão tem apenas oito anos e agora depende de que a doação ocorra sem problemas.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            3
+          ],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     }
   ]

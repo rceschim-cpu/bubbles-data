@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-11-16T05:36:04.706140+00:00",
+  "generatedAt": "2026-11-16T21:53:04.857925+00:00",
   "region": "br-pe",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n2fhbb7brc2a",
+      "id": "bsky_3n2gx6kuxoc2r",
       "rank": 1,
-      "title": "Tremor de terra de 2,5 graus na Escala Richter atinge Caruaru, em Pernambuco. Apesar de relatos de susto, não houve danos ou feridos.",
-      "label": "Tremor de terra em Caruaru",
-      "context": "Um tremor de terra de magnitude 2,5 na Escala Richter foi registrado em Caruaru, Pernambuco, em 16 de novembro de 2026. Apesar dos relatos de susto, não houve danos ou feridos.",
+      "title": "O caso é grave e já está sendo cuidado pela Corregedoria do MP de Pernambuco",
+      "label": "Caso no MP de Pernambuco",
+      "context": "Um caso grave está sendo tratado pela Corregedoria do MP de Pernambuco. A promotora afirmou que a publicação foi feita por terceiros sem sua autorização.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/reporterenato.bsky.social/post/3n2fhbb7brc2a",
-      "createdAt": "2026-11-16T02:12:15.242000+00:00",
+      "permalink": "https://bsky.app/profile/janiceascari.bsky.social/post/3n2gx6kuxoc2r",
+      "createdAt": "2026-11-16T16:29:43.855000+00:00",
       "rawScore": 0.9,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "imageUrl": "assets/images/bsky_3n2gx6kuxoc2r_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2gx6kuxoc2r_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pe",
       "sources": [
         {
-          "title": "Tremor de terra de 2,5 graus na Escala Richter atinge Caruaru, em Pernambuco. Apesar de relatos de susto, não houve danos ou feridos.",
-          "url": "https://bsky.app/profile/reporterenato.bsky.social/post/3n2fhbb7brc2a",
+          "title": "O caso é grave e já está sendo cuidado pela Corregedoria do MP de Pernambuco. noticias.uol.com.br/colunas/carl...",
+          "url": "https://bsky.app/profile/janiceascari.bsky.social/post/3n2gx6kuxoc2r",
           "subreddit": "bsky_pe"
         }
       ],
@@ -31,7 +31,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O tremor foi de baixa magnitude e não causou danos, o que mostra que a situação está sob controle e não há motivo para alarme. As autoridades devem ter monitorado e informado a população, evitando pânico desnecessário.",
+          "text": "A Corregedoria do MP de Pernambuco age com seriedade ao assumir o caso grave desde o início.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -39,7 +39,64 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Apesar de não ter havido danos, o susto foi real e as pessoas precisam de mais informação sobre por que esses tremores acontecem e como se proteger. Faltou explicação clara para a população.",
+          "text": "A resposta da promotora soa incoerente porque o post estava em perfil público.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A promotora limitou-se a dizer que não autorizou a publicação mencionada.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2h5rnohrs2u",
+      "rank": 2,
+      "title": "Claudionor Germano compôs trilha sonora de carnavais de Pernambuco",
+      "label": "Claudionor Germano voz do frevo",
+      "context": "Claudionor Germano compôs a trilha sonora de todos os carnavais de Pernambuco. O texto o apresenta como a voz eterna do frevo.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/luisnassif.bsky.social/post/3n2h5rnohrs2u",
+      "createdAt": "2026-11-16T18:29:04.748000+00:00",
+      "rawScore": 0.7884784728339497,
+      "relevanceScore": 0.8760871920377218,
+      "suggestedRadius": 92.16,
+      "imageUrl": "assets/images/bsky_3n2h5rnohrs2u_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2h5rnohrs2u_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "A eterna voz do frevo Claudionor Germano, por Urariano Mota Pode-se dizer que Claudionor Germano compôs a trilha sonora de todos os carnavais de Pernambuco. jornalggn.com.br/cronica/a-et...",
+          "url": "https://bsky.app/profile/luisnassif.bsky.social/post/3n2h5rnohrs2u",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Claudionor Germano marcou gerações ao criar músicas que definiram o carnaval pernambucano por décadas, tornando o frevo mais vivo e acessível para o público.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Afirmar que ele compôs a trilha de todos os carnavais de Pernambuco parece exagero, pois ignora outros compositores que também contribuíram para o gênero.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -47,30 +104,140 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Tremores de baixa magnitude como esse são relativamente comuns em algumas regiões do Nordeste e geralmente não causam danos. O episódio serve para lembrar a importância de estudos geológicos e planos de contingência.",
+          "text": "A obra de Claudionor Germano representa uma parte importante do frevo, mas seu impacto exato depende de quantas composições realmente foram usadas em cada carnaval.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2gncft5hk2t",
+      "rank": 3,
+      "title": "Pedro Alcântara dirigente do PT em Pernambuco",
+      "label": "Dirigente do PT em Pernambuco",
+      "context": "Pedro Alcântara é dirigente do PT em Pernambuco. O comentário menciona a dificuldade de autocrítica mesmo se Lula falar.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/lumendes.bsky.social/post/3n2gncft5hk2t",
+      "createdAt": "2026-11-16T13:32:55.258000+00:00",
+      "rawScore": 0.544077058012221,
+      "relevanceScore": 0.6045300644580233,
+      "suggestedRadius": 82.65,
+      "imageUrl": "assets/images/bsky_3n2gncft5hk2t_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2gncft5hk2t_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "Pedro Alcântara dirigente do PT em Pernambuco 👇🏻",
+          "url": "https://bsky.app/profile/lumendes.bsky.social/post/3n2gncft5hk2t",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Pedro Alcântara como dirigente do PT em Pernambuco organiza melhor as ações do partido na região e fortalece a base local.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Mesmo se o Lula falar, essa gente não muda de ideia porque é difícil fazer autocrítica no grupo.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A posição de Pedro Alcântara no PT em Pernambuco depende de como o partido reage a críticas internas sobre suas decisões.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2ggogegrc2s",
+      "rank": 4,
+      "title": "Delikata em Recife testa jornada 4x3 há meses",
+      "label": "Delikata testa 4x3 em Recife",
+      "context": "A empresa Delikata de Recife está testando a jornada 4x3 há alguns meses. O post recomenda que Rick procure informações sobre essa experiência.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/nathalemulatinho.bsky.social/post/3n2ggogegrc2s",
+      "createdAt": "2026-11-16T11:34:23.349000+00:00",
+      "rawScore": 0.4515585836769309,
+      "relevanceScore": 0.5017317596410343,
+      "suggestedRadius": 78.5,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "Procura sobre a Delikata també, Rick! É uma empresa aqui de Recife que já está testando a 4x3 há alguns meses também.",
+          "url": "https://bsky.app/profile/nathalemulatinho.bsky.social/post/3n2ggogegrc2s",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Delikata está mostrando que é possível testar a redução da jornada em empresas locais sem grandes problemas.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A experiência da Delikata com 4x3 ainda precisa de mais tempo para provar se realmente vale a pena.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Qualquer empresa que adote 4x3 como a Delikata deve medir produtividade e bem-estar dos funcionários.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n2fbjn2e4s23",
-      "rank": 2,
-      "title": "Trabalhadores da cultura ainda não receberam cachê do São João em Pernambuco",
-      "label": "Cachê do São João atrasado em Pernambuco",
-      "context": "Trabalhadores da cultura de Pernambuco ainda não receberam o cachê referente ao São João, segundo relato publicado no Bluesky. O atraso afeta diretamente a renda de quem trabalhou nas festas juninas do estado.",
+      "rank": 5,
+      "title": "Vocês sabiam que trabalhadores da cultura não receberam cachê do São João em Pernambuco?",
+      "label": "Atraso no cachê do São João em Pernambuco",
+      "context": "Trabalhadores da cultura em Pernambuco ainda não receberam o cachê do São João. O não pagamento atinge diretamente a renda desses profissionais após o evento.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
       "permalink": "https://bsky.app/profile/sofmolas.bsky.social/post/3n2fbjn2e4s23",
       "createdAt": "2026-11-16T00:29:33.949000+00:00",
-      "rawScore": 0.7830077591115883,
-      "relevanceScore": 0.870008621235098,
-      "suggestedRadius": 91.96,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.4021930512688136,
+      "relevanceScore": 0.44688116807645956,
+      "suggestedRadius": 76.11,
+      "imageUrl": "assets/images/bsky_3n2fbjn2e4s23_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2fbjn2e4s23_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pe",
       "sources": [
@@ -84,7 +251,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Cobrar publicamente o pagamento é essencial para dar visibilidade ao problema e pressionar os organizadores a quitar a dívida com quem trabalhou no São João.",
+          "text": "O pagamento deve sair em breve e resolver a situação dos trabalhadores da cultura envolvidos no São João.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -92,7 +259,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A falta de pagamento desrespeita os trabalhadores da cultura, que dependem desse dinheiro para viver e se sentem desvalorizados após meses de espera.",
+          "text": "O atraso no cachê do São João prejudica quem depende desse dinheiro para viver e planejar o ano.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -100,36 +267,36 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O atraso pode ter causas burocráticas, como repasses públicos ou prestação de contas, e seria preciso entender o motivo antes de apontar culpados.",
+          "text": "O fato de o cachê ainda não ter sido pago levanta dúvidas sobre os prazos de liberação em Pernambuco.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2etqmx45222",
-      "rank": 3,
-      "title": "Claudionor Germano morre aos 94 anos no Recife",
-      "label": "Morte de Claudionor Germano · Frevo",
-      "context": "O cantor Claudionor Germano faleceu aos 94 anos neste domingo (15), no Recife, onde convivia com a doença de Parkinson. Ele foi um dos grandes intérpretes de frevo, principalmente das canções de Capiba e Nelson Ferreira, e recebeu o título de Patrimônio Vivo de Pernambuco em 2016.",
+      "id": "bsky_3n2gcz2zmx22g",
+      "rank": 6,
+      "title": "Vendo bom dia pernambuco depois de 5 meses",
+      "label": "Retorno ao Bom Dia Pernambuco",
+      "context": "Uma pessoa relata voltar a assistir Bom Dia Pernambuco após cinco meses. Comentários mencionam a apresentadora Bianka Carvalho e a saudade de vê-la diariamente.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/tagrevista.com/post/3n2etqmx45222",
-      "createdAt": "2026-11-15T20:24:17.652000+00:00",
-      "rawScore": 0.41237245753262686,
-      "relevanceScore": 0.4581916194806965,
-      "suggestedRadius": 76.61,
-      "imageUrl": "assets/images/bsky_3n2etqmx45222_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2etqmx45222_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/joulee.bsky.social/post/3n2gcz2zmx22g",
+      "createdAt": "2026-11-16T10:28:44.847000+00:00",
+      "rawScore": 0.3455033785590906,
+      "relevanceScore": 0.38389264284343394,
+      "suggestedRadius": 73.18,
+      "imageUrl": "assets/images/bsky_3n2gcz2zmx22g_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2gcz2zmx22g_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pe",
       "sources": [
         {
-          "title": "🚨 | Claudionor Germano faleceu aos 94 anos neste domingo (15), no Recife. O artista convivia com uma doença de Parkinson. O cantor foi um dos grandes intérpretes de frevo, principalmente das canções de Capiba e Nelson Ferreira. Em 2016, recebeu o título de Patrimônio Vivo de Pernambuco 🖤",
-          "url": "https://bsky.app/profile/tagrevista.com/post/3n2etqmx45222",
+          "title": "Vendo bom dia pernambuco depois de 5 meses",
+          "url": "https://bsky.app/profile/joulee.bsky.social/post/3n2gcz2zmx22g",
           "subreddit": "bsky_pe"
         }
       ],
@@ -137,97 +304,51 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Claudionor Germano deixa um legado enorme para o frevo, imortalizado nas canções de Capiba e Nelson Ferreira. O título de Patrimônio Vivo de Pernambuco reconhece essa contribuição, e sua música continua viva.",
+          "text": "Bianka Carvalho é uma diva que aparece em reportagens e faz valer a pena acordar cedo para acompanhar o programa.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1,
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A perda de Claudionor Germano é irreparável para a cultura pernambucana. Com ele, parte da memória do frevo se vai, e fica a lacuna de quem tanto fez pelo ritmo.",
+          "text": "Cinco meses sem o programa criam uma sensação clara de falta das reportagens e da presença diária da apresentadora.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A morte de Claudionor Germano, aos 94 anos, após conviver com Parkinson, encerra uma trajetória longa e produtiva. Sua obra permanece como registro importante do frevo.",
+          "text": "Assistir exige acordar na madrugada, o que permite ver Bianka Carvalho quando ela aparece nas reportagens do Hora 1.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2eo6rmfes24",
-      "rank": 4,
-      "title": "Nordestina relata ter circulado mais entre cidades da Bahia e Pernambuco",
-      "label": "Rotina regional · Vivência nordestina",
-      "context": "Uma pessoa nordestina conta que passou boa parte da vida circulando entre cidades da Bahia e que às vezes ia a Petrolina e Recife, em Pernambuco, mas não chegou a visitar muito do resto da região. O relato mostra como a vivência dentro do próprio Nordeste pode se concentrar em poucos polos próximos, mesmo para quem mora na região.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/elevenwav.bsky.social/post/3n2eo6rmfes24",
-      "createdAt": "2026-11-15T18:42:43.746000+00:00",
-      "rawScore": 0.3867025909781771,
-      "relevanceScore": 0.4296695455313079,
-      "suggestedRadius": 75.33,
-      "imageUrl": "assets/images/bsky_3n2eo6rmfes24_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2eo6rmfes24_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "engraçado que como nordestina eu passei boa parte da vida mais entre cidades da bahia mesmo, e as vezes ia em petrolina e recife no pernambuco, mas não cheguei a visitar mto do resto",
-          "url": "https://bsky.app/profile/elevenwav.bsky.social/post/3n2eo6rmfes24",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A vivência de quem cresce no Nordeste costuma se limitar aos polos mais próximos, como as cidades da Bahia e Recife, e isso não diminui o pertencimento: conhecer a própria região aos poucos já é uma forma legítima de vivê-la.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O Nordeste é tratado como um bloco só, mas a distância entre seus estados faz muita gente nunca sair do próprio entorno; falar de Petrolina e Recife como se fossem perto mostra o quanto a região é grande e pouco explorada por quem mora nela.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Depende muito de onde a pessoa nasce: quem mora perto de divisas estaduais circula mais entre estados vizinhos, enquanto quem está no interior de um estado grande acaba conhecendo pouco além das cidades mais próximas.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n2doijdjtk2d",
-      "rank": 5,
+      "rank": 7,
       "title": "Agente secreto se passa em Pernambuco no período da ditadura",
-      "label": "Agente secreto · Ditadura em Pernambuco",
-      "context": "O título \"Agente secreto se passa em Pernambuco no período da ditadura\" foi publicado no Bluesky em 15 de novembro de 2026. A obra retrata um agente secreto atuando em Pernambuco durante a ditadura militar, tema que desperta interesse por resgatar esse período histórico.",
+      "label": "Série ambientada na ditadura em Pernambuco",
+      "context": "O seriado Agente secreto é ambientado em Pernambuco durante o período da ditadura. Comentários observam que a produção mostra uma cidade mais evoluída em comparação com novelas atuais.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
       "permalink": "https://bsky.app/profile/eubetina.bsky.social/post/3n2doijdjtk2d",
       "createdAt": "2026-11-15T09:16:16.045000+00:00",
-      "rawScore": 0.35325568505693883,
-      "relevanceScore": 0.392506316729932,
-      "suggestedRadius": 73.59,
+      "rawScore": 0.34425758325704614,
+      "relevanceScore": 0.38250842584116235,
+      "suggestedRadius": 73.11,
       "imageUrl": "assets/images/bsky_3n2doijdjtk2d_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2doijdjtk2d_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -243,68 +364,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A escolha de Pernambuco como cenário para uma história de agente secreto na ditadura é acertada, pois o estado teve um papel importante na resistência e na repressão, e isso ainda é pouco explorado nas artes.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O título não deixa claro se é um livro, filme ou série, e a falta de informações concretas sobre a obra gera expectativa frustrada; sem saber o formato, fica difícil se interessar.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Histórias sobre a ditadura militar são sempre bem-vindas para manter viva a memória, mas é preciso ver se a obra terá profundidade ou se ficará apenas no entretenimento superficial.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2dzli6zjc2z",
-      "rank": 6,
-      "title": "Dois dos cinco estados com mais serviços públicos digitais são do Nordeste: Piauí em 1º e Pernambuco em 4º",
-      "label": "Serviços digitais · Piauí lidera",
-      "context": "O Piauí aparece em primeiro lugar e Pernambuco em quarto entre os cinco estados com maior oferta de serviços públicos digitais, segundo levantamento divulgado em novembro de 2026. Rio de Janeiro e São Paulo ficam em sétimo e décimo segundo lugares, respectivamente.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/munky.bsky.social/post/3n2dzli6zjc2z",
-      "createdAt": "2026-11-15T12:34:46.648000+00:00",
-      "rawScore": 0.3000725154084279,
-      "relevanceScore": 0.3334139060093643,
-      "suggestedRadius": 70.65,
-      "imageUrl": "assets/images/bsky_3n2dzli6zjc2z_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2dzli6zjc2z_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "Dois dos cinco estados com mais oferta de serviços públicos digitais são do Nordeste, bicho, é o Piauí em 1º e Pernambuco em 4º, o RJ tá em 7º, São Paulo tá em 12º",
-          "url": "https://bsky.app/profile/munky.bsky.social/post/3n2dzli6zjc2z",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O Piauí liderar e Pernambuco aparecer em quarto mostra que estados do Nordeste estão investindo em digitalização e resolvendo a vida do cidadão sem depender de fila ou papel. Isso derruba o preconceito de que serviço público bom só existe no Sudeste.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Serviço digital no papel é uma coisa, mas quem mora em área isolada não tem internet estável e acaba comprando painel led ou lampião porque a luz não chega. O ranking mede oferta no site, não se o serviço funciona de verdade para quem mais precisa.",
+          "text": "A série apresenta uma Pernambuco mais desenvolvida do que as novelas atuais costumam retratar, valorizando o cenário histórico.",
           "source": "sintese",
           "evidence": [
             1
@@ -312,135 +372,50 @@
           "votes": 0
         },
         {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O ranking mostra oferta de serviços digitais, mas não diz se eles são acessíveis ou se resolvem de fato. Piauí em primeiro e São Paulo em décimo segundo pode indicar tanto avanço real quanto diferença de critério na medição.",
+          "id": "op2",
+          "tone": "negative",
+          "text": "A história se passa em uma época sem tecnologia, o que limita as possibilidades narrativas e afasta o público atual.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2eowtuoik23",
-      "rank": 7,
-      "title": "Paraíba!!!!! Eu moro em Pernambuco",
-      "label": "",
-      "context": "",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/traebizz.bsky.social/post/3n2eowtuoik23",
-      "createdAt": "2026-11-15T18:56:55.645000+00:00",
-      "rawScore": 0.2993127051604604,
-      "relevanceScore": 0.33256967240051155,
-      "suggestedRadius": 70.6,
-      "imageUrl": "assets/images/bsky_3n2eowtuoik23_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2eowtuoik23_wiki.jpg",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "Paraíba!!!!! Eu moro em Pernambuco",
-          "url": "https://bsky.app/profile/traebizz.bsky.social/post/3n2eowtuoik23",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [],
-      "enrichedBy": "",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2d23ihcmc22",
-      "rank": 8,
-      "title": "Segunda maior votação do estado é irrelevante? Ele foi o primeiro deputado federal eleito pelo PSOL em Pernambuco",
-      "label": "Votação de deputado do PSOL em Pernambuco",
-      "context": "Um post no Bluesky ironiza a afirmação de que a segunda maior votação do estado seria irrelevante, lembrando que o candidato foi o primeiro deputado federal eleito pelo PSOL em Pernambuco. A discussão gira em torno do peso real dessa votação e do significado histórico da eleição para o partido.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/barditooficial.bsky.social/post/3n2d23ihcmc22",
-      "createdAt": "2026-11-15T03:11:04.041000+00:00",
-      "rawScore": 0.18787704660006097,
-      "relevanceScore": 0.31986338511117884,
-      "suggestedRadius": 69.93,
-      "imageUrl": "assets/images/bsky_3n2d23ihcmc22_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2d23ihcmc22_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "Realmente, a segunda maior votação do estado é muito irrelevante. Ele só foi o primeiro deputado federal eleito do PSOL em Pernambuco. Isso não é nada. Qualquer zé ruela consegue fazer isso.",
-          "url": "https://bsky.app/profile/barditooficial.bsky.social/post/3n2d23ihcmc22",
-          "subreddit": "bsky_pe"
         },
         {
-          "title": "Ele foi eleito coma maior votação do universo de Pernambuco, diz ele. Cara, insuportável",
-          "url": "https://bsky.app/profile/hashitaguicansada.bsky.social/post/3n2cy7lnnwc2h",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Ser o primeiro deputado federal eleito pelo PSOL em Pernambuco e ainda ter a segunda maior votação do estado mostra que o partido finalmente fincou raízes por lá. Não é qualquer um que consegue esse feito, e chamar isso de irrelevante é desconhecer a história política do estado.",
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O filme menciona de forma explícita o contexto da ditadura em Pernambuco, destacando esse detalhe na trama.",
           "source": "sintese",
           "evidence": [
             3
           ],
           "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A votação pode até ser alta, mas o histórico do candidato é problemático: ele já foi expulso de outro partido e agora pode implodir o PSOL ou ser expulso de novo. Vai fazer a revolução com emendas? Isso mostra que o discurso radical não se sustenta na prática.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O número de votos é inegável, mas o que importa é o que ele vai fazer no mandato. A esquerda radical precisa mostrar serviço, e até agora não vi nenhum levante armado, nem um tirozinho sendo treinado. Radical onde?",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n26v7y3mak2j",
-      "rank": 9,
-      "title": "Calote do agronegócio tem raízes na Guerra dos Mascates, diz post",
-      "label": "Calote do agro · Raízes históricas",
-      "context": "Um post no Bluesky afirma que o calote do agronegócio remete às suas origens na Guerra dos Mascates, em Pernambuco do século 18, e critica o projeto de Brasil agrário implantado por Portugal. A publicação associa o episódio histórico à escravidão, à corrupção e à compra de políticos e coronéis.",
+      "id": "bsky_3n2fhbb7brc2a",
+      "rank": 8,
+      "title": "Tremor de terra de 2,5 graus atinge Caruaru em Pernambuco",
+      "label": "Tremor de 2,5 graus em Caruaru",
+      "context": "Um tremor de terra de 2,5 graus na Escala Richter atingiu Caruaru, em Pernambuco. Apesar de relatos de susto, não houve danos ou feridos.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/radioproletario.bsky.social/post/3n26v7y3mak2j",
-      "createdAt": "2026-11-13T11:33:28.674000+00:00",
-      "rawScore": 0.14669584085627782,
-      "relevanceScore": 0.27410648984030866,
-      "suggestedRadius": 67.41,
-      "imageUrl": "assets/images/bsky_3n26v7y3mak2j_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n26v7y3mak2j_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/reporterenato.bsky.social/post/3n2fhbb7brc2a",
+      "createdAt": "2026-11-16T02:12:15.242000+00:00",
+      "rawScore": 0.324827701033973,
+      "relevanceScore": 0.3609196678155256,
+      "suggestedRadius": 72.05,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
       "region": "br-pe",
       "sources": [
         {
-          "title": "1) O calote do #Agro nos remete às suas raízes, Pernambuco do século 18, #GuerraDosMascates. Implantado por Portugal,o projeto de um Brasil agrário,soltou no solo brasileiro os criminosos das masmorras portuguesas, o escravagismo, a corrupção, a compra de politicos e coroneis barbaros pés descalsos.",
-          "url": "https://bsky.app/profile/radioproletario.bsky.social/post/3n26v7y3mak2j",
-          "subreddit": "bsky_pe"
-        },
-        {
-          "title": "tranquilamente afirmo que Bahia, Minas Gerais e Pernambuco [pra mim] tem os homens mais lindos e gostosos do Brasil.",
-          "url": "https://bsky.app/profile/descolonizado.bsky.social/post/3n2by3hrjec2h",
+          "title": "Tremor de terra de 2,5 graus na Escala Richter atinge Caruaru, em Pernambuco. Apesar de relatos de susto, não houve danos ou feridos.",
+          "url": "https://bsky.app/profile/reporterenato.bsky.social/post/3n2fhbb7brc2a",
           "subreddit": "bsky_pe"
         }
       ],
@@ -448,52 +423,97 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A submissão cultural que vem dos coronéis de engenho continua na mídia e nas TVs, que ainda tratam esses personagens como heróis brasileiros. Enquanto isso, empresários do agro trocam aviões e iates todo ano e, na hora de pagar, entram na lista de inadimplentes.",
+          "text": "Caruaru saiu ilesa do tremor de 2,5 graus porque a magnitude baixa impediu qualquer dano real às construções ou às pessoas.",
           "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Cada caso é um caso: antes de sair por aí chamando produtor rural de caloteiro, é preciso analisar corretamente para não cometer injustiças. Jogar todo o agronegócio na lista de inadimplentes com base em episódios isolados distorce a realidade de quem trabalha e honra seus compromissos.",
+          "text": "O susto relatado pelos moradores revela que até tremores pequenos geram medo desnecessário em regiões sem histórico sísmico.",
           "source": "sintese",
-          "evidence": [
-            2
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A conversa sobre calote no agro acabou desviando para outro assunto: os homens bonitos e o sotaque de Bahia, Minas Gerais e Pernambuco. O post original até tenta puxar uma reflexão histórica, mas o que realmente rendeu foi a resenha sobre os estados.",
+          "text": "Tremores de 2,5 graus costumam passar sem consequências quando não atingem áreas com construções muito antigas ou instáveis.",
           "source": "sintese",
-          "evidence": [
-            3,
-            4
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2guiklnxs2s",
+      "rank": 9,
+      "title": "O sotaque de Recife é com certeza um dos mais perigosos do Brasil",
+      "label": "Sotaque de Recife · Perigoso",
+      "context": "Um post no Bluesky afirma que o sotaque de Recife é um dos mais perigosos do Brasil. A declaração se refere a uma característica linguística regional.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/caiquems.bsky.social/post/3n2guiklnxs2s",
+      "createdAt": "2026-11-16T15:41:38.640000+00:00",
+      "rawScore": 0.25208980095779776,
+      "relevanceScore": 0.2800997788419975,
+      "suggestedRadius": 67.75,
+      "imageUrl": "assets/images/bsky_3n2guiklnxs2s_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2guiklnxs2s_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "O sotaque de Recife é com certeza um dos mais perigosos do Brasil",
+          "url": "https://bsky.app/profile/caiquems.bsky.social/post/3n2guiklnxs2s",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O sotaque de Recife transmite uma intensidade que pode soar intimidadora para quem não está acostumado a ouvi-lo em conversas cotidianas.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Rotular sotaques regionais como perigosos cria estereótipos que não refletem a realidade das pessoas que falam dessa forma.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A sensação de perigo associada ao sotaque depende do contexto em que ele aparece e da familiaridade do ouvinte com ele.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n2cx46r6t22d",
       "rank": 10,
-      "title": "Jones não tem relevância nem em Recife, dizem usuários",
-      "label": "Jones · Relevância eleitoral em Pernambuco",
-      "context": "Usuários no Bluesky criticam a atenção dada ao deputado federal Jones, afirmando que ele não tem expressão política nem em Recife. A discussão gira em torno da votação dele em Pernambuco e do espaço que ele recebe na mídia e em podcasts.",
+      "title": "Estão dando relevância para Jones, ele não é levante nem em Recife Parem com isso.",
+      "label": "Relevância de Jones em Pernambuco",
+      "context": "Posts no Bluesky pedem para parar de dar palco a Jones por ele não ser líder nem em Recife ou Pernambuco. Um dos posts destaca que o autor, pernambucano, sabe que lá ninguém dá bola para ele.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
       "permalink": "https://bsky.app/profile/marcosti.bsky.social/post/3n2cx46r6t22d",
       "createdAt": "2026-11-15T02:17:45.846000+00:00",
-      "rawScore": 0.14050559022994913,
-      "relevanceScore": 0.26722843358883236,
-      "suggestedRadius": 67.02,
+      "rawScore": 0.08470452312060815,
+      "relevanceScore": 0.20522724791178681,
+      "suggestedRadius": 63.18,
       "imageUrl": "assets/images/bsky_3n2cx46r6t22d_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2cx46r6t22d_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -514,7 +534,18 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Jones foi o segundo deputado mais votado em Pernambuco, com mais de 200 mil votos, e o primeiro federal eleito pelo PSOL no estado. Chamar isso de irrelevante é ignorar o tamanho da votação que ele teve nas urnas.",
+          "text": "Jones é irrelevante no interior de Pernambuco e só aparece em podcasts, sem conexão real com o eleitorado estadual que decide as eleições.",
+          "source": "sintese",
+          "evidence": [
+            6,
+            8
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Jones foi o segundo deputado mais votado em Pernambuco com mais de 200 mil votos e o primeiro do PSOL no estado, o que mostra relevância concreta.",
           "source": "sintese",
           "evidence": [
             1,
@@ -523,20 +554,9 @@
           "votes": 0
         },
         {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A votação de Jones ficou pouco à frente da estadual do PT, que nem é conhecida no interior, e ele é conhecido mesmo é em podcast. O povo não passa o tempo vendo podcast, então essa relevância toda é inflada.",
-          "source": "sintese",
-          "evidence": [
-            5,
-            6
-          ],
-          "votes": 0
-        },
-        {
           "id": "op3",
           "tone": "neutral",
-          "text": "Comparar Jones com a média nacional de votos não faz sentido, porque cada estado tem população e eleitorado diferentes. O correto seria olhar a média dentro de Pernambuco, que é onde a disputa realmente acontece.",
+          "text": "Comparar votos de Jones com a média nacional não faz sentido porque cada estado tem população e eleitorado diferentes, devendo valer a média estadual.",
           "source": "sintese",
           "evidence": [
             7,
@@ -545,7 +565,7 @@
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     }
   ]

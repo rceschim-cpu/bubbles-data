@@ -1,21 +1,109 @@
 {
-  "generatedAt": "2026-11-16T05:36:04.706140+00:00",
+  "generatedAt": "2026-11-16T21:53:04.857925+00:00",
   "region": "br-pa",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n2fcsqrb3s2x",
+      "id": "bsky_3n2hbabxevk2i",
       "rank": 1,
+      "title": "PMs aposentados ganham muito mais que professores concursados",
+      "label": "Salários de PMs aposentados vs. professores",
+      "context": "Uma publicação destaca que policiais militares aposentados recebem salários maiores do que professores concursados. O contraste levanta discussão sobre a valorização salarial de diferentes carreiras públicas.",
+      "source": "bluesky",
+      "subreddit": "bsky_pa",
+      "permalink": "https://bsky.app/profile/nildete.bsky.social/post/3n2hbabxevk2i",
+      "createdAt": "2026-11-16T19:29:42.343000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n2hbabxevk2i_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2hbabxevk2i_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pa",
+      "sources": [
+        {
+          "title": "revistaforum.com.br/politica/esc... Esses PMs aposentados ganham muito mais que professores concursados",
+          "url": "https://bsky.app/profile/nildete.bsky.social/post/3n2hbabxevk2i",
+          "subreddit": "bsky_pa"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O Nordeste está dando show na educação enquanto São Paulo só piora, e isso tem a ver com quem manda votar em corrupto negacionista bolsonarista. A diferença salarial entre PMs aposentados e professores concursados é mais um sintoma do descaso com a educação.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            4
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Essa gente odeia professores, representam um perigo, podem ensinar o povo a pensar. Por isso querem pagar tão mal os professores e tão bem os PMs aposentados: é uma forma de controle.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Tem que fiscalizar essas verbas e salários desses PMs dessas escolas. A diferença salarial é gritante, mas antes de criticar é preciso entender como esses valores são definidos e se há irregularidades.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2hd7rdcus2n",
+      "rank": 2,
+      "title": "Até o momento a legislação do Estado de Minas gerais permite uma vogal por palavra. Mas estamos trabalhando para diminuir para zero vogais",
+      "label": "",
+      "context": "",
+      "source": "bluesky",
+      "subreddit": "bsky_pa",
+      "permalink": "https://bsky.app/profile/gatosabado.bsky.social/post/3n2hd7rdcus2n",
+      "createdAt": "2026-11-16T20:05:09.547000+00:00",
+      "rawScore": 0.5708249211560497,
+      "relevanceScore": 0.6342499123956107,
+      "suggestedRadius": 83.78,
+      "imageUrl": null,
+      "imageThumbUrl": "",
+      "category": "geopolitica",
+      "region": "br-pa",
+      "sources": [
+        {
+          "title": "Até o momento a legislação do Estado de Minas gerais permite uma vogal por palavra. Mas estamos trabalhando para diminuir para zero vogais",
+          "url": "https://bsky.app/profile/gatosabado.bsky.social/post/3n2hd7rdcus2n",
+          "subreddit": "bsky_pa"
+        }
+      ],
+      "opinions": [],
+      "enrichedBy": "",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2fcsqrb3s2x",
+      "rank": 3,
       "title": "Estado não é empresa: serviço público precisa cobrir a população, não dar lucro",
-      "label": "Serviço público · Crítica à lógica de mercado",
-      "context": "Um post no Bluesky defende que o Estado não deve ser gerido como empresa e que serviços essenciais precisam de cobertura máxima, sem a lógica de lucro. A publicação gerou comentários sobre ajuste fiscal, taxação de ricos e o papel do setor público.",
+      "label": "Serviço público · Estado x lógica de mercado",
+      "context": "Um post no Bluesky defende que o Estado não deve ser administrado como empresa nem buscar lucro, e que todo serviço público precisa de máxima cobertura de atendimento. A discussão gira em torno da ideia de superávit fiscal e de quem deve pagar a conta do ajuste.",
       "source": "bluesky",
       "subreddit": "bsky_pa",
       "permalink": "https://bsky.app/profile/salvandonerd.blog.br/post/3n2fcsqrb3s2x",
       "createdAt": "2026-11-16T00:52:36.047000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.24906197536246055,
+      "relevanceScore": 0.45284247270508465,
+      "suggestedRadius": 76.38,
       "imageUrl": "assets/images/bsky_3n2fcsqrb3s2x_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2fcsqrb3s2x_reddit_thumb.jpg",
       "category": "economia",
@@ -41,7 +129,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Serviço público tem que ser do povo e para o povo, sem essa de dar lucro. O Estado pode e deve investir no atendimento, e quem tem que pagar a conta é quem sonega e deve bilhões, não os mais pobres.",
+          "text": "Serviço essencial é do povo e para o povo, e o Estado pode e deve ficar no vermelho para garantir atendimento. Quem tem que pagar a conta é quem sonega imposto e dá calote, não os mais pobres. Taxar os ricos e cobrar as dívidas bilionárias das grandes empresas é o caminho.",
           "source": "sintese",
           "evidence": [
             2,
@@ -54,22 +142,20 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Sem lucro como sinal, quem decide se o serviço está bom é o gabinete, não quem está na fila. O cidadão precisa poder dizer não e escolher outro serviço, senão vira monopólio estatal sem qualidade.",
+          "text": "Aceitar que o Estado pode ficar devendo para sempre é aceitar a derrota antes de começar. Sem superávit, não há como financiar serviço público de qualidade, e a conta sempre sobra para o cidadão comum no fim. É preciso responsabilidade fiscal para o Estado funcionar.",
           "source": "sintese",
           "evidence": [
-            9
+            6
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A discussão sobre superávit e ajuste fiscal precisa ser mais clara: não dá para aceitar a premissa de que o Estado tem que ficar no azul sem debater quem paga a conta. O debate está confuso e falta focar em quem realmente sonega.",
+          "text": "O debate sobre o papel do Estado esbarra na conjuntura política: um centrão tentando dar trabalho antes de ser engolido pelo PL na próxima legislatura. Disputar pautas é necessário, mas é preciso pensar como fazer frente a esse bloco antes de discutir modelo de gestão.",
           "source": "sintese",
           "evidence": [
-            1,
-            5,
-            6
+            1
           ],
           "votes": 0
         }
@@ -78,8 +164,116 @@
       "promptVersion": 2
     },
     {
+      "id": "bsky_3n2hawtxkpk2b",
+      "rank": 4,
+      "title": "Benedita da Silva anuncia aposentadoria após 40 anos de atuação política",
+      "label": "Benedita da Silva · Aposentadoria política",
+      "context": "A deputada federal Benedita da Silva anunciou sua aposentadoria após 40 anos de atuação política. Ela entrou para a história como a primeira mulher negra a governar o estado do Rio de Janeiro.",
+      "source": "bluesky",
+      "subreddit": "bsky_pa",
+      "permalink": "https://bsky.app/profile/correiocb.bsky.social/post/3n2hawtxkpk2b",
+      "createdAt": "2026-11-16T19:24:24.540000+00:00",
+      "rawScore": 0.32813858153573316,
+      "relevanceScore": 0.3645984239285924,
+      "suggestedRadius": 72.23,
+      "imageUrl": "assets/images/bsky_3n2hawtxkpk2b_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2hawtxkpk2b_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pa",
+      "sources": [
+        {
+          "title": "📰 Benedita da Silva anuncia aposentadoria após 40 anos de atuação política A deputada federal entrou para a história como a primeira mulher negra a governar o estado do Rio de Janeiro",
+          "url": "https://bsky.app/profile/correiocb.bsky.social/post/3n2hawtxkpk2b",
+          "subreddit": "bsky_pa"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Benedita da Silva construiu uma trajetória única: 40 anos de mandatos e o marco de ser a primeira mulher negra a governar o Rio. Sua aposentadoria encerra um ciclo de representatividade que abriu portas para muitas outras mulheres na política.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A saída de Benedita da Silva deixa uma lacuna difícil de preencher. Com 40 anos de experiência e sendo a primeira mulher negra a governar o Rio, sua ausência pode enfraquecer a luta por pautas sociais e a representação de minorias no Congresso.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A aposentadoria de Benedita da Silva após 40 anos marca o fim de uma era, mas também levanta a questão: quem dará continuidade ao seu legado? Sua história como primeira mulher negra a governar o Rio é inspiradora, mas a renovação política é inevitável.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2gpzfcrhc2r",
+      "rank": 5,
+      "title": "Incêndios florestais em 61 municípios do Pará levam a situação de emergência reconhecida pelo Ministério da Integração e do Desenvolvimento Regional",
+      "label": "Incêndios no Pará · Emergência federal",
+      "context": "O Ministério da Integração e do Desenvolvimento Regional reconheceu situação de emergência em 61 municípios do Pará por causa de incêndios florestais, e outros 50 municípios estão na mesma situação devido a queimadas e estiagem. O reconhecimento permite que as defesas civis desses municípios solicitem recursos federais para enfrentar a crise.",
+      "source": "bluesky",
+      "subreddit": "bsky_pa",
+      "permalink": "https://bsky.app/profile/conexaoplaneta.bsky.social/post/3n2gpzfcrhc2r",
+      "createdAt": "2026-11-16T14:21:36.448000+00:00",
+      "rawScore": 0.3045989061550791,
+      "relevanceScore": 0.338443229061199,
+      "suggestedRadius": 70.91,
+      "imageUrl": "assets/images/bsky_3n2gpzfcrhc2r_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2gpzfcrhc2r_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pa",
+      "sources": [
+        {
+          "title": "#Incêndiosflorestais em 61 municípios do #Pará impõem situação de #emergência reconhecida pelo Ministério da Integração e do Desenvolvimento Regional. Medida permite a solicitação de #recursos federais p/ defesa civil. Outros 50 municípios estão na mesma situação devido a #queimadas e da #estiagem",
+          "url": "https://bsky.app/profile/conexaoplaneta.bsky.social/post/3n2gpzfcrhc2r",
+          "subreddit": "bsky_pa"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O reconhecimento federal da emergência em 61 municípios do Pará é uma medida necessária e urgente, pois permite que as defesas civis locais acessem recursos federais para combater os incêndios e atender a população afetada. Sem esse apoio, os municípios não teriam condições de lidar com a gravidade da situação.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A crise dos incêndios no Pará tem raízes claras no garimpo ilegal e no desmatamento, que precisam ser combatidos com rigor. Decretar emergência sem enfrentar essas causas apenas palia o problema e não evita que novos focos de fogo surjam na próxima estiagem.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A situação de emergência em 61 municípios do Pará e outros 50 em alerta mostra que o problema é amplo e exige coordenação entre os governos federal, estadual e municipal. É preciso verificar se os recursos federais chegarão com agilidade e se serão suficientes para todas as localidades afetadas.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
       "id": "bsky_3n2eniuar3k2x",
-      "rank": 2,
+      "rank": 6,
       "title": "Plano Moretti é arrocho fiscal e endurece regras, mas é o que o país precisa?",
       "label": "Plano Moretti · Arrocho fiscal e desenvolvimento",
       "context": "O Plano Moretti é um pacote de ajuste fiscal que endurece as regras econômicas já existentes. O debate questiona se esse caminho reduz o investimento estatal e quem se beneficia com a medida.",
@@ -87,11 +281,11 @@
       "subreddit": "bsky_pa",
       "permalink": "https://bsky.app/profile/brenoaltman.bsky.social/post/3n2eniuar3k2x",
       "createdAt": "2026-11-15T18:31:12.954000+00:00",
-      "rawScore": 0.5481273841855261,
-      "relevanceScore": 0.6123095704319869,
-      "suggestedRadius": 82.95,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.18785220453740153,
+      "relevanceScore": 0.31983578281933506,
+      "suggestedRadius": 69.93,
+      "imageUrl": "assets/images/bsky_3n2eniuar3k2x_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2eniuar3k2x_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pa",
       "sources": [
@@ -110,7 +304,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Plano Moretti é necessário para o país se desenvolver e ampliar o Estado de bem-estar. Sem regras fiscais mais duras, o governo não consegue investir com responsabilidade e garantir políticas sociais no longo prazo.",
+          "text": "O Plano Moretti é necessário para o país se desenvolver e ampliar o Estado de bem-estar, como as urnas e as ruas decidiram. Sem esse arrocho, não há recursos para políticas sociais.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -118,7 +312,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Esse arrocho fiscal só beneficia quem defende políticas neoliberais, reduzindo o investimento estatal justamente quando o país precisa de mais presença do Estado. As urnas e as ruas não decidiram por esse caminho.",
+          "text": "Políticas econômicas neoliberais como o Plano Moretti só beneficiam o mercado financeiro e reduzem o investimento estatal. O governo Lula IV não pode seguir esse caminho.",
           "source": "sintese",
           "evidence": [
             1
@@ -128,7 +322,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O governo Lula IV só começa em janeiro de 2027, então ainda não dá para afirmar que esse será o caminho adotado. É preciso esperar para ver se o Plano Moretti será de fato implementado.",
+          "text": "O governo Lula IV só começa em janeiro de 2027, então ainda não dá para saber se o Plano Moretti será mantido ou ajustado. É preciso esperar para avaliar.",
           "source": "sintese",
           "evidence": [
             2
@@ -140,251 +334,18 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2efophgtk2b",
-      "rank": 3,
-      "title": "Ainda falta muito para conhecer o Norte do Brasil",
-      "label": "Mapas de viagem · Norte esquecido",
-      "context": "Uma pessoa comentou que um mapa de viagens que viu está melhor do que imaginava, mas ainda incompleto. Nos comentários, várias pessoas dizem nunca ter ido ao Norte do país e citam Acre, Manaus e Belém como destinos que querem conhecer.",
-      "source": "bluesky",
-      "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/paolaceleste.bsky.social/post/3n2efophgtk2b",
-      "createdAt": "2026-11-15T16:11:24.945000+00:00",
-      "rawScore": 0.3520744806750645,
-      "relevanceScore": 0.3326175984573187,
-      "suggestedRadius": 70.6,
-      "imageUrl": "assets/images/bsky_3n2efophgtk2b_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2efophgtk2b_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pa",
-      "sources": [
-        {
-          "title": "Tá até melhor do que pensei. Mas falta muito ainda.",
-          "url": "https://bsky.app/profile/paolaceleste.bsky.social/post/3n2efophgtk2b",
-          "subreddit": "bsky_pa"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Uma excursão pro Norte resolveria o que mais falta nesses mapas, e eu topo. Acre, Manaus e Belém estão na minha lista de prioridades de viagem, então ver esse buraco no mapa só me dá mais vontade de ir.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            4
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O Espírito Santo sempre fica de fora desses mapas e dessas conversas de viagem, e ninguém lembra dele no churrasco. Antes de reclamar do Norte, o mapa deveria parar de esquecer o Sudeste fora do eixo Rio-São Paulo.",
-          "source": "sintese",
-          "evidence": [
-            5
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Meu caso é que nunca fui ao Norte e nem sei direito o que colocar no mapa, então a crítica de que falta muito faz sentido pra mim. Copiar o alt text de outra pessoa foi o jeito mais rápido de começar a preencher isso.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2f446jqok2u",
-      "rank": 4,
-      "title": "Crítica a quem quer ensinar Lula a governar após rejeição em Belém",
-      "label": "Rejeição em Belém · Crítica à oposição",
-      "context": "Um post critica pessoas que, segundo o autor, tiveram 75% de rejeição e não reelegeram o prefeito em Belém em 2024, mas agora querem ensinar Lula a governar diante de um Congresso que piora em 2027. O texto questiona a legitimidade dessas vozes para dar lições de administração.",
-      "source": "bluesky",
-      "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/dulcinea.bsky.social/post/3n2f446jqok2u",
-      "createdAt": "2026-11-15T22:52:34.752000+00:00",
-      "rawScore": 0.30722793957108496,
-      "relevanceScore": 0.2902494359806692,
-      "suggestedRadius": 68.32,
-      "imageUrl": "assets/images/bsky_3n2f446jqok2u_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2f446jqok2u_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pa",
-      "sources": [
-        {
-          "title": "Sempre os mesmos,só tem garganta, administram tão bem q não conseguiram reeleger o prefeito deles em 2024 em Belem pq tinha 75% de rejeição e querem ensinar Lula a governar com um congresso q só piora em 27? Não tenho mais saco para esta galera \"oba oba\" puxadora de tapete do povo!",
-          "url": "https://bsky.app/profile/dulcinea.bsky.social/post/3n2f446jqok2u",
-          "subreddit": "bsky_pa"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Quem não conseguiu reeleger o prefeito em Belém com 75% de rejeição não tem moral para ensinar Lula a governar. Antes de dar lição, esse pessoal deveria olhar o próprio histórico de administração e a rejeição que acumulou.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Criticar quem aponta erros do governo não resolve nada. O Congresso que piora em 2027 é um problema real, e quem puxa tapete do povo deveria ser cobrado por propostas concretas, não por ter perdido uma eleição municipal.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A rejeição em Belém e a crítica a Lula são coisas separadas. Dá para discordar da forma como o governo federal conduz a relação com o Congresso sem que isso signifique endossar quem foi rejeitado nas urnas em 2024.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2e627njrs2i",
-      "rank": 5,
-      "title": "Ele ser o mais votado do estado é inconcebível, diz usuário",
-      "label": "Resultado eleitoral · Leitura de votos",
-      "context": "Um usuário do Bluesky declarou ser inconcebível que um determinado candidato tenha sido o mais votado em seu estado. A discussão em torno do resultado eleitoral gira em torno de como interpretar a votação e o que ela realmente sinaliza.",
-      "source": "bluesky",
-      "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/homemdocafeezx.bsky.social/post/3n2e627njrs2i",
-      "createdAt": "2026-11-15T13:54:36.152000+00:00",
-      "rawScore": 0.20033004492760662,
-      "relevanceScore": 0.2837327434151468,
-      "suggestedRadius": 67.96,
-      "imageUrl": "assets/images/bsky_3n2e627njrs2i_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2e627njrs2i_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pa",
-      "sources": [
-        {
-          "title": "O mais bizarro é ele ser o mais votado do nosso estado.. Isso para mim é inconcebível, cara. De verdade.",
-          "url": "https://bsky.app/profile/homemdocafeezx.bsky.social/post/3n2e627njrs2i",
-          "subreddit": "bsky_pa"
-        },
-        {
-          "title": "lideranças de nicho das esquerdas usando o resultado eleitoral para \"provar\" que o povo quer isso ou aquilo. O que dá para extrair do resultado é, antes de mais nada, repúdio ao bolsonarismo e a manutenção do nosso parco estado de bem-estar social. Agora, extrair daí argumentos mais técnicos, que +",
-          "url": "https://bsky.app/profile/sandruska.bsky.social/post/3n2cedzlp4k2t",
-          "subreddit": "bsky_pa"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O segundo turno mostrou um levante popular espontâneo, que não dependeu da máquina de propaganda do PT. As esquerdas que ficam delirando processos revolucionários a partir de seus apartamentos deveriam provar que conseguem mobilizar tanta gente assim.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Lideranças de nicho da esquerda estão usando o resultado eleitoral para 'provar' que o povo quer isso ou aquilo. O que dá para extrair é repúdio ao bolsonarismo e a manutenção do parco estado de bem-estar social, não um cheque em branco para agendas que não tiveram respaldo nas urnas.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Lula está enfiado nas regras institucionais e não tem apoio para derrubar o teto de gastos ou acabar com a independência do Banco Central. O congresso corrupto de direita e a independência do banco central fogem ao controle do presidente, então existem limites claros para sua atuação.",
-          "source": "sintese",
-          "evidence": [
-            3,
-            5
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2eqo2fp7c2v",
-      "rank": 6,
-      "title": "Estado como balcão de negócios da burguesia, segundo Marx",
-      "label": "Estado e classe dominante · Citação de Marx",
-      "context": "Um post no Bluesky citou Karl Marx para afirmar que o Estado, em sua forma estrutural, serve apenas como balcão de negócios da classe dominante. A citação foi usada para defender a visão de que o Estado não é neutro e atende aos interesses da burguesia.",
-      "source": "bluesky",
-      "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/salvandonerd.blog.br/post/3n2eqo2fp7c2v",
-      "createdAt": "2026-11-15T19:27:48.558000+00:00",
-      "rawScore": 0.29384698025654077,
-      "relevanceScore": 0.2776079558491784,
-      "suggestedRadius": 67.61,
-      "imageUrl": "assets/images/bsky_3n2eqo2fp7c2v_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2eqo2fp7c2v_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pa",
-      "sources": [
-        {
-          "title": "\"O Estado, em sua forma estrutural e pensado pela e para a classe dominante, não tem nenhuma serventia além de ser o grande balcão de negócios da burguesia.\" Espero que as sábias palavras do bom velhinho Karl Marx ajude a elucidar essa dúvida. 😉✨",
-          "url": "https://bsky.app/profile/salvandonerd.blog.br/post/3n2eqo2fp7c2v",
-          "subreddit": "bsky_pa"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A citação de Marx continua atual: o Estado foi estruturado para servir à classe dominante e funciona como um grande balcão de negócios da burguesia. Quem acompanha a política econômica vê isso na prática, com leis e instituições favorecendo sempre os mesmos grupos.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Essa visão de Marx é reducionista e ignora que o Estado também garante direitos sociais e regula o mercado. Dizer que ele só serve à burguesia desconsidera conquistas trabalhistas e políticas públicas que beneficiam a população de forma geral.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A frase de Marx ajuda a pensar, mas a realidade é mais complexa: o Estado não é só um balcão da burguesia nem um protetor neutro. Depende do momento histórico e das forças políticas que controlam suas instituições.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3n2bmg7w4l22i",
       "rank": 7,
       "title": "Piada com a sigla da Universidade do Estado do Pará (UEPA)",
       "label": "Piada com sigla da UEPA",
-      "context": "Uma publicação no Bluesky brincou com a sigla da Universidade do Estado do Pará (UEPA), lendo o nome como uma onomatopeia de alerta. A piada viralizou entre pessoas que também associaram a sigla a outras universidades e a memes antigos da internet.",
+      "context": "Uma publicação no Bluesky brincou com a sigla da Universidade do Estado do Pará (UEPA), lendo o nome como uma onomatopeia de alerta. A piada gerou comentários de pessoas que também associam siglas de universidades a imagens e memes.",
       "source": "bluesky",
       "subreddit": "bsky_pa",
       "permalink": "https://bsky.app/profile/fesleep.bsky.social/post/3n2bmg7w4l22i",
       "createdAt": "2026-11-14T13:33:50.848000+00:00",
-      "rawScore": 0.19081680857708663,
-      "relevanceScore": 0.2747452421841582,
-      "suggestedRadius": 67.45,
+      "rawScore": 0.09452607699590317,
+      "relevanceScore": 0.21614008555100353,
+      "suggestedRadius": 63.89,
       "imageUrl": "assets/images/bsky_3n2bmg7w4l22i_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2bmg7w4l22i_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -405,7 +366,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A sigla da UEPA virou piada porque o nome lido rápido soa como um alarme, e isso é inofensivo. Quem estudou lá, como eu, pode até se divertir com a brincadeira e usar o meme como forma de lembrar da universidade com carinho.",
+          "text": "A piada com a UEPA é inofensiva e mostra como o humor ajuda a lembrar de instituições públicas que muita gente nem conhece. Quem se formou lá, como eu, pode até se divertir com a brincadeira e divulgar a universidade de um jeito leve.",
           "source": "sintese",
           "evidence": [
             1,
@@ -416,7 +377,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Brincar com a sigla da UEPA desvia a atenção do que importa: a universidade é pública e enfrenta problemas reais de estrutura e verba. Transformar o nome em meme só reforça uma imagem frívola e não ajuda em nada a defesa da instituição.",
+          "text": "Brincar com a sigla da UEPA desvia a atenção do que importa: a universidade forma gente e faz pesquisa no Pará. Ficar reduzindo o nome a uma piada de internet não ajuda em nada a valorizar a instituição nem a discutir seu papel na região.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -424,10 +385,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A piada com a UEPA é só uma associação sonora que qualquer sigla pode gerar, como acontece com a UENF. O meme não diz nada sobre a qualidade da universidade e serve mais como um teste de como nosso cérebro lê palavras rápido.",
+          "text": "A associação da sigla UEPA com um som de alerta é só um trocadilho que pega pela sonoridade, e cada um lembra de uma universidade diferente ao ver a piada. O comentário sobre Windows e Linux mostra que o mesmo post acabou puxando outro assunto, sem relação direta com a UEPA.",
           "source": "sintese",
           "evidence": [
-            1
+            1,
+            3
           ],
           "votes": 0
         }
@@ -436,36 +398,31 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n24zohxilc2h",
+      "id": "bsky_3n2e627njrs2i",
       "rank": 8,
-      "title": "Volta a chover em Belém com chegada do inverno amazônico",
-      "label": "Chuva em Belém · Pré-venda de livro",
-      "context": "Uma autora comemorou a volta da chuva em Belém e o início do inverno amazônico, aproveitando para divulgar a pré-venda de seu romance de Natal ambientado na cidade. A publicação mistura a mudança climática local com a promoção do livro, que ela destaca como uma história natalina rara por se passar no Pará.",
+      "title": "Ele ser o mais votado do estado é inconcebível, diz usuário",
+      "label": "Resultado eleitoral · Leitura de votos",
+      "context": "Um usuário do Bluesky declarou ser inconcebível que um determinado candidato tenha sido o mais votado em seu estado. A discussão em torno do resultado eleitoral gira em torno de como interpretar a votação e o que ela realmente sinaliza.",
       "source": "bluesky",
       "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/brunaguerreiro.bsky.social/post/3n24zohxilc2h",
-      "createdAt": "2026-11-12T17:47:58.477000+00:00",
-      "rawScore": 0.0836539135774025,
-      "relevanceScore": 0.22876808834515983,
-      "suggestedRadius": 64.7,
-      "imageUrl": "assets/images/bsky_3n24zohxilc2h_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n24zohxilc2h_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/homemdocafeezx.bsky.social/post/3n2e627njrs2i",
+      "createdAt": "2026-11-15T13:54:36.152000+00:00",
+      "rawScore": 0.0739920384968385,
+      "relevanceScore": 0.19332448721870943,
+      "suggestedRadius": 62.38,
+      "imageUrl": "assets/images/bsky_3n2e627njrs2i_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2e627njrs2i_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pa",
       "sources": [
         {
-          "title": "voltou a chover em Belém, caralho, inverno amazônico chegandoooo 🛐 hora de vcs garantirem meu livro novo na pré-venda, pq ele é um romance de Natal que se passa em Belém do Pará e eu sei que vcs nunca leram nenhum assim! Os Desejos de Natal de Olívia: link.amazon/B02E0m2GM",
-          "url": "https://bsky.app/profile/brunaguerreiro.bsky.social/post/3n24zohxilc2h",
+          "title": "O mais bizarro é ele ser o mais votado do nosso estado.. Isso para mim é inconcebível, cara. De verdade.",
+          "url": "https://bsky.app/profile/homemdocafeezx.bsky.social/post/3n2e627njrs2i",
           "subreddit": "bsky_pa"
         },
         {
-          "title": "Décadas depois, em 2026, o Estado brasileiro firmou um acordo histórico de reparação, em cerimônia realizada no Museu do Estado do Pará, em Belém.",
-          "url": "https://bsky.app/profile/mdhcbrasil.bsky.social/post/3mzxypupt7k2q",
-          "subreddit": "bsky_pa"
-        },
-        {
-          "title": "— prenda minha parabólica, princesinha clarabucólica, paralelas que se cruzam em belém do pará — para o quê? — paraguai",
-          "url": "https://bsky.app/profile/arrobagaf.bsky.social/post/3n22m3f3ktk2r",
+          "title": "lideranças de nicho das esquerdas usando o resultado eleitoral para \"provar\" que o povo quer isso ou aquilo. O que dá para extrair do resultado é, antes de mais nada, repúdio ao bolsonarismo e a manutenção do nosso parco estado de bem-estar social. Agora, extrair daí argumentos mais técnicos, que +",
+          "url": "https://bsky.app/profile/sandruska.bsky.social/post/3n2cedzlp4k2t",
           "subreddit": "bsky_pa"
         }
       ],
@@ -473,96 +430,31 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A chuva em Belém é um alívio e marca o começo do inverno amazônico, então nada mais justo que a autora aproveite esse clima para divulgar um romance de Natal que se passa na cidade. É uma forma criativa de unir o momento com a cultura local.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A postagem usa a chuva e o inverno amazônico só como gancho para vender o livro, desviando a atenção do que realmente importa: a reparação histórica que está sendo discutida em Belém. O foco deveria ser a memória e a justiça, não a pré-venda.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O livro físico também está disponível e pode ser encomendado pelo formulário, o que dá mais opções para quem quer apoiar a autora. A chuva em Belém é só o pano de fundo para divulgar a obra, e cada um escolhe se quer comprar ou não.",
+          "text": "O resultado eleitoral mostrou repúdio ao bolsonarismo e manutenção do estado de bem-estar social, não um mandato para aventuras revolucionárias. As lideranças de nicho da esquerda que tentam extrair daí uma prova de que o povo quer isso ou aquilo estão forçando a barra.",
           "source": "sintese",
           "evidence": [
             2
           ],
           "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n22nj7sfus22",
-      "rank": 9,
-      "title": "Punição no Brasil só atinge pobres e negros, enquanto Moro e Dallagnol ficam impunes",
-      "label": "Impunes da Lava Jato · Crítica à seletividade",
-      "context": "O post no Bluesky critica a seletividade da punição no Brasil, afirmando que ela recai sobre pessoas pobres e negras das comunidades, enquanto Sergio Moro, Deltan Dallagnol e a Rede Globo, apontados como responsáveis por desmandos, permanecem sem punição. A publicação integra uma onda de críticas à Operação Lava Jato e à condução do processo que levou à prisão do ex-presidente Lula em 2018.",
-      "source": "bluesky",
-      "subreddit": "bsky_pa",
-      "permalink": "https://bsky.app/profile/akaishiri.bsky.social/post/3n22nj7sfus22",
-      "createdAt": "2026-11-11T19:05:04.572000+00:00",
-      "rawScore": 0.1396321189009996,
-      "relevanceScore": 0.22638919966383766,
-      "suggestedRadius": 64.55,
-      "imageUrl": "assets/images/bsky_3n22nj7sfus22_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n22nj7sfus22_reddit_thumb.jpg",
-      "category": "tech",
-      "region": "br-pa",
-      "sources": [
-        {
-          "title": "Infelizmente a punição nesse país,só ocorre para o povo pobre preto das comunidades... Sergio Moro,Deltan Dallagnol, rede globo,responsáveis pelo desmando, estão ai mamando nas tetas do estado brasileiro..",
-          "url": "https://bsky.app/profile/akaishiri.bsky.social/post/3n22nj7sfus22",
-          "subreddit": "bsky_pa"
-        },
-        {
-          "title": "www.cartacapital.com.br/artigo/o-pro... Mercado queria um miliciano covarde, vagabundo e burro para desgovernar o país e, insatisfeito com o resultado, quer arrastar o país para uma stagflação como punição",
-          "url": "https://bsky.app/profile/nildete.bsky.social/post/3mzylyltzms2d",
-          "subreddit": "bsky_pa"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A crítica acerta em cheio: a Lava Jato foi uma farsa que destruiu reputações e tirou Lula da eleição de 2018, mas seus arquitetos, Moro e Dallagnol, seguem impunes e sustentados pelo Estado. Justiça de verdade puniria com o mesmo rigor os poderosos que armaram tudo isso.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2,
-            3
-          ],
-          "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Jogar a culpa toda em Moro e Dallagnol é simplista. A Lava Jato prendeu e condenou muitos políticos e empresários brancos e ricos, não só pobres. O problema é a lentidão e a impunidade geral, não uma suposta perseguição exclusiva a negros e pobres.",
+          "text": "Ficar delirando processos revolucionários a partir de apartamentos não mobiliza ninguém. No segundo turno, o levante popular foi espontâneo e, se dependesse da máquina de propaganda do PT, Lula teria perdido. É preciso provar que consegue mobilizar de verdade, não só interpretar urnas.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A seletividade da Justiça é real, mas o post mistura tudo: Lava Jato, pandemia, impeachment da Dilma. Sem provas concretas contra Moro e Dallagnol, fica só a indignação. Precisamos de investigação séria, não de linchamento público.",
+          "text": "Lula está enfiado nas regras institucionais e não tem apoio para derrubar o teto de gastos ou acabar com a independência do Banco Central. Ele não vai convocar movimentações populares nesse sentido porque colocaria em risco sua própria existência política. Existem limites claros para sua atuação.",
           "source": "sintese",
           "evidence": [
-            4,
-            5,
-            6
+            3,
+            5
           ],
           "votes": 0
         }
@@ -572,17 +464,17 @@
     },
     {
       "id": "bsky_3mzwgaxi25c25",
-      "rank": 10,
+      "rank": 9,
       "title": "Lula chega à Turquia para participar da COP 31",
       "label": "Lula na COP 31 · Turquia",
-      "context": "O presidente Lula chegou à Turquia para participar da COP 31, após o Brasil ter sediado a COP 30 em Belém. O país apresenta na conferência o Marco de Financiamento do Plano de Ação em Saúde de Belém, elaborado pelo Ministério da Saúde com apoio da OMS.",
+      "context": "O presidente Lula desembarcou na Turquia para participar da COP 31, após o Brasil ter presidido a COP 30 em Belém. O país chega ao encontro com destaque por ter liderado a conferência anterior e por defender seu histórico em preservação ambiental e transição energética.",
       "source": "bluesky",
       "subreddit": "bsky_pa",
       "permalink": "https://bsky.app/profile/marcianobrito.bsky.social/post/3mzwgaxi25c25",
       "createdAt": "2026-11-10T02:44:15.977000+00:00",
-      "rawScore": 0.071906105742392,
-      "relevanceScore": 0.21766950596075355,
-      "suggestedRadius": 63.99,
+      "rawScore": 0.043449516796013075,
+      "relevanceScore": 0.15938835199557008,
+      "suggestedRadius": 59.95,
       "imageUrl": "assets/images/bsky_3mzwgaxi25c25_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzwgaxi25c25_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -597,18 +489,13 @@
           "title": "COP 31: Do mutirão de Belém ao Acelerador Global de Implementação, por Feijó, Feil & Ceia Para o Brasil, o Acelerador transforma o legado da COP30 em um mecanismo que continua funcionando depois do fim da presidência. jornalggn.com.br/artigos/cop-...",
           "url": "https://bsky.app/profile/jornalggn.bsky.social/post/3n2dy76estk22",
           "subreddit": "bsky_pa"
-        },
-        {
-          "title": "O Brasil apresentou na COP31 o Marco de Financiamento do Plano de Ação em Saúde de Belém. Elaborado pelo Ministério da Saúde com apoio da OMS, o documento orienta países a identificar fontes de recursos para adaptar seus sistemas às mudanças climáticas: trk.ebc.com.br/5jqME.",
-          "url": "https://bsky.app/profile/agenciabrasil.ebc.com.br/post/3mzy7jgg3lc2t",
-          "subreddit": "bsky_pa"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Brasil chega à COP 31 com lugar de destaque porque liderou a COP 30 em Belém e agora apresenta o Marco de Financiamento do Plano de Ação em Saúde, mostrando que o legado da conferência anterior continua rendendo frutos concretos.",
+          "text": "O Brasil chega à COP 31 com moral, depois de ter liderado a COP 30 em Belém e de ser exemplo em preservação ambiental e transição energética. Essa posição de destaque permite ao país influenciar as negociações e manter o legado da conferência anterior funcionando.",
           "source": "sintese",
           "evidence": [
             1
@@ -618,7 +505,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A participação de Lula na COP 31 vira palanque político: o discurso de 'exemplo de preservação ambiental' não se sustenta enquanto o país precisa apresentar documentos para captar recursos internacionais de saúde e adaptação climática.",
+          "text": "A ida de Lula à Turquia não apaga a falta de resultados concretos da COP 30 em Belém. O governo fala em liderança e destaque, mas o país ainda precisa mostrar ações efetivas de preservação e transição energética que justifiquem esse protagonismo todo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -626,9 +513,69 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O que importa na COP 31 é se o Acelerador Global de Implementação e o Marco de Financiamento de Saúde saem do papel e continuam funcionando depois do fim da presidência brasileira, independente de quem esteja no palco.",
+          "text": "O destaque do Brasil na COP 31 depende menos do discurso de liderança e mais de o Acelerador Global de Implementação sair do papel. O legado da COP 30 só se sustenta se o mecanismo continuar funcionando depois do fim da presidência brasileira.",
           "source": "sintese",
           "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2efophgtk2b",
+      "rank": 10,
+      "title": "Ainda falta muito para conhecer o Norte do Brasil",
+      "label": "Mapas do Brasil · Região Norte esquecida",
+      "context": "Uma pessoa comentou que o mapa do Brasil que viu está melhor do que imaginava, mas ainda incompleto. Nos comentários, várias pessoas dizem nunca ter ido ao Norte e citam Acre, Manaus e Belém como destinos que querem conhecer.",
+      "source": "bluesky",
+      "subreddit": "bsky_pa",
+      "permalink": "https://bsky.app/profile/paolaceleste.bsky.social/post/3n2efophgtk2b",
+      "createdAt": "2026-11-15T16:11:24.945000+00:00",
+      "rawScore": 0.125693760963365,
+      "relevanceScore": 0.13965973440373888,
+      "suggestedRadius": 58.42,
+      "imageUrl": "assets/images/bsky_3n2efophgtk2b_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2efophgtk2b_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pa",
+      "sources": [
+        {
+          "title": "Tá até melhor do que pensei. Mas falta muito ainda.",
+          "url": "https://bsky.app/profile/paolaceleste.bsky.social/post/3n2efophgtk2b",
+          "subreddit": "bsky_pa"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O mapa já está melhor do que eu esperava, e isso mostra que dá pra ir além do eixo Sul-Sudeste. Uma excursão pro Norte seria ótima, porque Acre, Manaus e Belém estão nas minhas prioridades de viagem e quase ninguém conhece de verdade.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            4
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A região Norte continua fora dos nossos mapas mentais, e o comentário de que nunca fomos lá escancara isso. Falta representação de verdade: o mapa pode até ter melhorado, mas ainda deixa de fora uma parte enorme do país.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O Espírito Santo sempre fica de lado nesse tipo de conversa, e o mesmo vale pro Norte quando o assunto é mapa. Antes de cobrar mais regiões, vale entender o que já foi incluído e o que ainda está faltando de fato.",
+          "source": "sintese",
+          "evidence": [
+            5
+          ],
           "votes": 0
         }
       ],

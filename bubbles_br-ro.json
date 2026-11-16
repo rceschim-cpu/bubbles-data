@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-16T05:36:04.706140+00:00",
+  "generatedAt": "2026-11-16T21:53:04.857925+00:00",
   "region": "br-ro",
-  "count": 6,
+  "count": 7,
   "items": [
     {
       "id": "bsky_3n2bzekag2k2t",
       "rank": 1,
-      "title": "Pesticidas jogados em cima e na água de povos indígenas em Rondônia",
-      "label": "Pesticidas contra povos indígenas · Rondônia",
-      "context": "Um post no Bluesky denuncia que pesticidas estão sendo jogados em cima e na água de povos indígenas em Rondônia, citando uma reportagem do g1 deste ano. O autor afirma que o crime já se repetiu outras vezes, mas não há detalhes sobre investigações ou responsáveis.",
+      "title": "Muitos deles também jogam pesticidas em cima e na água dos povos indígenas",
+      "label": "Pesticidas em água de indígenas",
+      "context": "Relatos indicam que pessoas jogam pesticidas na água de povos indígenas. O crime se repetiu outras vezes conforme o link de notícia deste ano.",
       "source": "bluesky",
       "subreddit": "bsky_ro",
       "permalink": "https://bsky.app/profile/radioproletario.bsky.social/post/3n2bzekag2k2t",
@@ -31,7 +31,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A denúncia precisa ser levada a sério: jogar pesticidas na água de comunidades indígenas é um crime que se repete e não pode ficar impune. O link do g1 mostra que o problema é real e atual, e a sociedade precisa cobrar punição aos responsáveis.",
+          "text": "Relatos como este evidenciam a repetição de agressões ambientais contra comunidades indígenas e a necessidade de maior vigilância.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -39,7 +39,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Postar link sem detalhes não resolve nada; é preciso mostrar quem são os responsáveis e cobrar das autoridades. A denúncia genérica pode até atrapalhar, porque não aponta culpados nem medidas concretas para acabar com o problema.",
+          "text": "Afirmações sobre crimes recorrentes precisam de provas específicas para não generalizar situações sem contexto completo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -47,28 +47,56 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A gravidade é evidente, mas faltam informações sobre as circunstâncias exatas e as providências já tomadas. Seria importante que a reportagem do g1 trouxesse dados sobre investigações e punições para que a denúncia não fique só no alerta.",
+          "text": "O uso de pesticidas em áreas rurais envolve regras de aplicação que merecem verificação caso a caso.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2evjuxya22b",
+      "rank": 2,
+      "title": "minha meta é ir em todos o próximo é justamente o Pará",
+      "label": "",
+      "context": "",
+      "source": "bluesky",
+      "subreddit": "bsky_ro",
+      "permalink": "https://bsky.app/profile/viuvadoexaltasamba.bsky.social/post/3n2evjuxya22b",
+      "createdAt": "2026-11-15T20:54:59.245000+00:00",
+      "rawScore": 0.6291030834745877,
+      "relevanceScore": 0.6990034260828751,
+      "suggestedRadius": 86.16,
+      "imageUrl": "assets/images/bsky_3n2evjuxya22b_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2evjuxya22b_reddit.jpg",
+      "category": "geopolitica",
+      "region": "br-ro",
+      "sources": [
+        {
+          "title": "minha meta é ir em todos o próximo é justamente o Pará",
+          "url": "https://bsky.app/profile/viuvadoexaltasamba.bsky.social/post/3n2evjuxya22b",
+          "subreddit": "bsky_ro"
+        }
+      ],
+      "opinions": [],
+      "enrichedBy": "",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n273pibg5c2w",
-      "rank": 2,
-      "title": "BB não está do nosso lado, diz post",
-      "label": "BB · Crítica à isenção do banco",
-      "context": "Um post no Bluesky critica o Banco do Brasil (BB) por não apoiar a causa do autor. A mensagem sugere que o banco não é aliado, mas não detalha o motivo da crítica.",
+      "rank": 3,
+      "title": "E não esqueça que o BB não está do nosso lado",
+      "label": "BB · Alinhamento questionado",
+      "context": "Um post no Bluesky afirma que não se deve esquecer que o BB não está do nosso lado. A mensagem funciona como um alerta direto sobre a posição do banco.",
       "source": "bluesky",
       "subreddit": "bsky_ro",
       "permalink": "https://bsky.app/profile/zefloresta.bsky.social/post/3n273pibg5c2w",
       "createdAt": "2026-11-13T13:29:30.185000+00:00",
-      "rawScore": 0.1820005741693063,
-      "relevanceScore": 0.20222286018811808,
-      "suggestedRadius": 62.98,
+      "rawScore": 0.189635637754696,
+      "relevanceScore": 0.21070626417188443,
+      "suggestedRadius": 63.54,
       "imageUrl": "assets/images/bsky_3n273pibg5c2w_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n273pibg5c2w_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -84,7 +112,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O BB é uma empresa pública e deveria estar alinhado com os interesses da população, não com o mercado financeiro. Se o banco não está do nosso lado, é porque prioriza lucro e não as pessoas.",
+          "text": "O lembrete sobre o BB ajuda as pessoas a não depositarem confiança em instituições que não defendem seus interesses.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -92,7 +120,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O BB é um banco como qualquer outro e precisa ser gerido com responsabilidade, não com base em alinhamentos políticos. Cobrar que ele 'esteja do nosso lado' é ignorar sua função técnica e seu papel institucional.",
+          "text": "Afirmar que o BB não está do lado das pessoas sem apresentar provas concretas enfraquece o debate.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -100,28 +128,28 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A crítica ao BB precisa de contexto: sem saber a que causa o post se refere, fica difícil avaliar se o banco está ou não do lado certo. Generalizar sem dados concretos não ajuda o debate.",
+          "text": "A posição do BB depende do contexto específico de cada política ou ação que ele adota.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n27gtuhaxc2o",
-      "rank": 3,
-      "title": "Pastor preso por pedofilia e comparação com mulheres trans em banheiros",
-      "label": "Pastor preso · comparação com banheiro trans",
-      "context": "Um pastor foi preso por pedofilia, segundo notícia do Diário da Amazônia. O caso gerou comparação nas redes com o debate sobre mulheres trans em banheiros femininos, citando que nunca houve registro de uma mulher trans nessa situação.",
+      "rank": 4,
+      "title": "Mais um pastor preso por pedofilia, nunca mulher trans em banheiro",
+      "label": "Prisões de pastores por pedofilia",
+      "context": "Um post no Bluesky afirma que mais um pastor foi preso por pedofilia. O autor contrasta isso com a ausência de casos envolvendo mulheres trans em banheiros femininos.",
       "source": "bluesky",
       "subreddit": "bsky_ro",
       "permalink": "https://bsky.app/profile/lunna.bsky.social/post/3n27gtuhaxc2o",
       "createdAt": "2026-11-13T16:48:46.975000+00:00",
-      "rawScore": 0.17629133702419184,
-      "relevanceScore": 0.19587926336021314,
-      "suggestedRadius": 62.55,
+      "rawScore": 0.17749867319276533,
+      "relevanceScore": 0.19722074799196146,
+      "suggestedRadius": 62.65,
       "imageUrl": "assets/images/bsky_3n27gtuhaxc2o_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27gtuhaxc2o_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -137,7 +165,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A comparação escancara a hipocrisia: enquanto pastores cometem pedofilia, a discussão sobre banheiros trans serve para desviar o foco. Os dados mostram que não há casos de mulheres trans em banheiros femininos, então por que tanto alarme?",
+          "text": "A repetição de prisões de pastores por crimes sexuais contra crianças mostra um padrão que exige atenção maior da sociedade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -145,7 +173,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Generalizar pastores como pedófilos é injusto e sensacionalista. A maioria das igrejas condena esses crimes e não se pode usar um caso isolado para atacar toda uma fé. O foco deveria ser a punição do criminoso, não a religião.",
+          "text": "Associar sistematicamente pastores a pedofilia generaliza uma profissão inteira sem considerar que crimes ocorrem em diversos grupos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -153,70 +181,13 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O caso é grave e deve ser investigado, mas a comparação com a questão trans em banheiros é forçada. São problemas diferentes: um é crime sexual, o outro é sobre direitos e segurança. Misturar os dois não ajuda a resolver nenhum dos dois.",
+          "text": "Cada caso de abuso deve ser julgado individualmente, com base nas provas, independentemente da profissão ou identidade da pessoa envolvida.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2bhjopqnk2a",
-      "rank": 4,
-      "title": "Passageiro dá escândalo em aeroporto após voo RJ-MAO ser desviado para Porto Velho por mau tempo",
-      "label": "Escândalo em aeroporto · Voo desviado por chuva",
-      "context": "Um voo do Rio de Janeiro para Manaus foi desviado para Porto Velho por causa do mau tempo, e um passageiro deu um escândalo no aeroporto. O episódio gerou discussão sobre como as pessoas reagem a imprevistos de viagem e sobre a paciência com quem reclama em público.",
-      "source": "bluesky",
-      "subreddit": "bsky_ro",
-      "permalink": "https://bsky.app/profile/kotsuki.bsky.social/post/3n2bhjopqnk2a",
-      "createdAt": "2026-11-14T12:06:19.540000+00:00",
-      "rawScore": 0.07366813566565197,
-      "relevanceScore": 0.08185348407294664,
-      "suggestedRadius": 53.17,
-      "imageUrl": "assets/images/bsky_3n2bhjopqnk2a_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2bhjopqnk2a_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ro",
-      "sources": [
-        {
-          "title": "Não tenho paciência com adulto chiliquento. Quando meu vôo RJ-MAO foi desviado para Porto Velho por causa do mau tempo, tinha um cara dando piti no aeroporto. Amigo, voa você debaixo do toró, vai. Meu padrasto começou o dele, mas cortei logo. Tem as Karens, mas é mais homem que dá show, né?",
-          "url": "https://bsky.app/profile/kotsuki.bsky.social/post/3n2bhjopqnk2a",
-          "subreddit": "bsky_ro"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Gritar com atendente não resolve nada: o cara não controla o clima nem transforma funcionário em avião. O desvio foi por segurança, e quem perde a paciência só piora a situação para todo mundo no aeroporto.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O estresse de um voo desviado é real, ainda mais para quem está com crianças e sem informação clara. Chamar o passageiro de chiliquento ignora que a falta de suporte da companhia é o que faz a pessoa explodir.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Cada um reage de um jeito ao imprevisto: tem quem grite e tem quem engula o prejuízo calado. O desvio por mau tempo é imprevisível, mas a forma de reclamar no aeroporto diz mais sobre a pessoa do que sobre o problema em si.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
@@ -229,11 +200,11 @@
       "subreddit": "bsky_ro",
       "permalink": "https://bsky.app/profile/corridadelesma.bsky.social/post/3n26vrrvkl42v",
       "createdAt": "2026-11-13T11:43:24.172000+00:00",
-      "rawScore": 0.06634935636490669,
-      "relevanceScore": 0.07372150707211854,
-      "suggestedRadius": 52.29,
-      "imageUrl": "assets/images/bsky_3n26vrrvkl42v_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n26vrrvkl42v_uns.jpg",
+      "rawScore": 0.05235926619759475,
+      "relevanceScore": 0.05817696244177194,
+      "suggestedRadius": 50.47,
+      "imageUrl": "assets/images/bsky_3n26vrrvkl42v_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n26vrrvkl42v_wiki.jpg",
       "category": "geopolitica",
       "region": "br-ro",
       "sources": [
@@ -248,11 +219,68 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n227xay6ec2l",
+      "id": "bsky_3n2bhjopqnk2a",
       "rank": 6,
-      "title": "Mineração na fronteira brasileira pode avançar sobre áreas protegidas em Rondônia e pressionar territórios em Mato Grosso",
-      "label": "Mineração avança sobre áreas protegidas na Amazônia",
-      "context": "Uma reportagem do Observatório da Mineração aponta que a atividade mineradora na fronteira brasileira pode avançar sobre áreas protegidas em Rondônia e pressionar territórios em Mato Grosso. O avanço da mineração nessas regiões pode afetar diretamente unidades de conservação e terras indígenas, ampliando a pressão sobre o meio ambiente e as comunidades locais.",
+      "title": "Passageiro dá piti em aeroporto após desvio de voo por mau tempo",
+      "label": "Chilique de passageiro em aeroporto",
+      "context": "Um passageiro relatou que seu voo RJ-MAO foi desviado para Porto Velho por mau tempo e viu um homem dando chilique no aeroporto. O comentário observa que o estresse aumenta com crianças, mas gritar não transforma o atendente em avião.",
+      "source": "bluesky",
+      "subreddit": "bsky_ro",
+      "permalink": "https://bsky.app/profile/kotsuki.bsky.social/post/3n2bhjopqnk2a",
+      "createdAt": "2026-11-14T12:06:19.540000+00:00",
+      "rawScore": 0.02086369936461252,
+      "relevanceScore": 0.023181888182902798,
+      "suggestedRadius": 45.14,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-ro",
+      "sources": [
+        {
+          "title": "Não tenho paciência com adulto chiliquento. Quando meu vôo RJ-MAO foi desviado para Porto Velho por causa do mau tempo, tinha um cara dando piti no aeroporto. Amigo, voa você debaixo do toró, vai. Meu padrasto começou o dele, mas cortei logo. Tem as Karens, mas é mais homem que dá show, né?",
+          "url": "https://bsky.app/profile/kotsuki.bsky.social/post/3n2bhjopqnk2a",
+          "subreddit": "bsky_ro"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Reclamar alto com atendentes não muda o mau tempo nem faz o avião decolar mais cedo.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O estresse de um voo desviado é real e quem está com crianças sente ainda mais pressão na hora.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Impedir que o próprio padrasto fizesse o mesmo mostra que nem todo mundo reage da mesma forma ao atraso.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n227xay6ec2l",
+      "rank": 7,
+      "title": "Mineração na fronteira brasileira pode avançar sobre áreas protegidas em Rondônia",
+      "label": "Mineração em áreas protegidas de Rondônia",
+      "context": "Uma reportagem indica que a mineração na fronteira brasileira pode avançar sobre áreas protegidas em Rondônia. A atividade também pode pressionar territórios em Mato Grosso.",
       "source": "bluesky",
       "subreddit": "bsky_ro",
       "permalink": "https://bsky.app/profile/obsmineracao.bsky.social/post/3n227xay6ec2l",
@@ -275,7 +303,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A mineração é uma atividade econômica importante para o desenvolvimento regional, gerando empregos e renda. Se feita com responsabilidade e dentro da lei, pode contribuir para o crescimento de Rondônia e Mato Grosso sem necessariamente destruir o meio ambiente.",
+          "text": "A mineração gera empregos e receita em estados como Rondônia e Mato Grosso, ajudando a desenvolver regiões de fronteira.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -283,7 +311,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O avanço da mineração sobre áreas protegidas é uma ameaça grave às florestas e às comunidades tradicionais. O governo precisa reforçar a fiscalização e impedir que interesses econômicos se sobreponham à preservação ambiental e aos direitos dos povos indígenas.",
+          "text": "Avançar a mineração sobre áreas protegidas em Rondônia ameaça a preservação ambiental e os territórios vizinhos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -291,13 +319,13 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A questão é complexa e exige equilíbrio: é preciso avaliar caso a caso, com estudos de impacto ambiental rigorosos e participação das comunidades afetadas. Sem dados concretos sobre as áreas exatas, não dá para afirmar se haverá dano ou benefício.",
+          "text": "O impacto depende de como as regras de proteção são aplicadas na prática nessas áreas de fronteira.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     }
   ]
