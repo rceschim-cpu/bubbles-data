@@ -1,21 +1,83 @@
 {
-  "generatedAt": "2026-11-17T07:33:11.304676+00:00",
+  "generatedAt": "2026-11-17T21:01:01.600127+00:00",
   "region": "br-go",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n2gv7yfipc2d",
+      "id": "bsky_3n2j77al3bc2x",
       "rank": 1,
-      "title": "Chaminés Fadas em Campos Belos, Goiás, agora abertas para visitação",
-      "label": "Chaminés Fadas · Formações raras em Goiás",
-      "context": "As Chaminés Fadas em Campos Belos, Goiás, são formações geológicas raras que agora estão abertas para visitação. Elas resultam de erosão da água e intemperismo que criou milhares de estruturas em formatos e alturas variados.",
+      "title": "Trago conteúdo radioativo da outra rede como dono de ferro velho de Goiás",
+      "label": "Post sobre CTG e gaúchos na Noruega",
+      "context": "Um usuário publicou no Bluesky trazendo conteúdo de outra rede. Ele se compara ao dono de ferro-velho que espalhou fragmentos de césio 137 em Goiás.",
+      "source": "bluesky",
+      "subreddit": "bsky_go",
+      "permalink": "https://bsky.app/profile/naomuito.bsky.social/post/3n2j77al3bc2x",
+      "createdAt": "2026-11-17T13:59:03.642000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n2j77al3bc2x_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2j77al3bc2x_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-go",
+      "sources": [
+        {
+          "title": "trago esse conteúdo radioativo da outra rede me sentindo aquele dono de ferro velho de goiás que espalhou fragmentos de césio 137 pela cidade",
+          "url": "https://bsky.app/profile/naomuito.bsky.social/post/3n2j77al3bc2x",
+          "subreddit": "bsky_go"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A quantidade de gaúchos na Noruega e a descoberta do CTG por quem vive na Europa mostram que a tradição gaúcha atravessa fronteiras com naturalidade e gera curiosidade positiva entre as pessoas.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            3,
+            4
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Explicar o que é CTG para europeus costuma ser difícil porque eles tendem a continuar achando que qualquer brasileiro faz parte dessa cultura, independentemente da realidade.",
+          "source": "sintese",
+          "evidence": [
+            5,
+            6
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "CTGs existem em vários países do mundo, inclusive no Japão, o que indica que a tradição gaúcha se espalhou mais do que muitos imaginam.",
+          "source": "sintese",
+          "evidence": [
+            7
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2gv7yfipc2d",
+      "rank": 2,
+      "title": "Chaminés Fadas em Campos Belos agora abertas para visitação",
+      "label": "Chaminés Fadas · Goiás",
+      "context": "As Chaminés de Fadas em Campos Belos, Goiás, são formações geológicas raras que agora estão abertas para visitação. Elas resultam de erosão prolongada que criou milhares de estruturas com formatos e alturas variados.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/ricardosog.bsky.social/post/3n2gv7yfipc2d",
       "createdAt": "2026-11-16T15:54:48.946000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.5528942067650332,
+      "relevanceScore": 0.6143268964055925,
+      "suggestedRadius": 83.03,
       "imageUrl": "assets/images/bsky_3n2gv7yfipc2d_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2gv7yfipc2d_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -31,28 +93,25 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "As Chaminés Fadas chegam a quase quatro metros e impressionam de perto pela variedade de desenhos únicos em cada estrutura.",
+          "text": "As formações chegam a quase 4 metros e cada uma apresenta um desenho diferente, o que torna a experiência de perto impressionante.",
           "source": "sintese",
           "evidence": [
-            1,
-            3
+            1
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A raridade extrema dessas formações no Brasil levanta dúvida se a abertura para visitação vai preservar o local intacto.",
+          "text": "A raridade dessas estruturas esculpidas naturalmente exige cuidado para que a visitação não comprometa o que levou tanto tempo para se formar.",
           "source": "sintese",
-          "evidence": [
-            4
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O processo de erosão explica as milhares de chaminés em diferentes tamanhos, mas não fica claro se elas existem apenas nesse ponto do país.",
+          "text": "O processo de erosão pela água e intemperismo explica as milhares de formas espalhadas pela área, sem que se saiba se existem equivalentes em outros pontos do Brasil.",
           "source": "sintese",
           "evidence": [
             2,
@@ -65,79 +124,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2hm5zn74s2o",
-      "rank": 2,
-      "title": "Vanderlan Cardoso defendeu usar US$ 100 bilhões das reservas para agronegócio",
-      "label": "Proposta de uso de reservas internacionais",
-      "context": "Vanderlan Cardoso defendeu usar US$ 100 bilhões das reservas internacionais para ajudar o agronegócio. A proposta representa cerca de um quarto das reservas brasileiras.",
-      "source": "bluesky",
-      "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/brasinha.bsky.social/post/3n2hm5zn74s2o",
-      "createdAt": "2026-11-16T22:45:24.744000+00:00",
-      "rawScore": 0.5858694817700663,
-      "relevanceScore": 0.6509660908556292,
-      "suggestedRadius": 84.41,
-      "imageUrl": "assets/images/bsky_3n2hm5zn74s2o_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2hm5zn74s2o_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-go",
-      "sources": [
-        {
-          "title": "Vanderlan Cardoso defendeu usar US$ 100 bilhões das reservas internacionais para ajudar o agronegócio. A proposta representa cerca de um quarto das reservas brasileiras e levanta uma pergunta: quem vai proteger o Brasil se vier uma crise? Viramos reféns do agro? SÓ PODIA SER DE GOIAS ESTE VAGABUNDO",
-          "url": "https://bsky.app/profile/brasinha.bsky.social/post/3n2hm5zn74s2o",
-          "subreddit": "bsky_go"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O agronegócio gera divisas essenciais para o país e merece acesso a parte das reservas em momentos de dificuldade para sustentar empregos e produção.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Reservas internacionais existem para proteger o Brasil em crises cambiais e não devem ser comprometidas por setores específicos.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Qualquer uso de reservas precisa de regras claras sobre reembolso e limites para evitar riscos futuros à estabilidade econômica.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2gug4s3xc2t",
+      "id": "bsky_3n2j5yb3sbk2g",
       "rank": 3,
-      "title": "Senador Wilder Morais articula indicação de Tasso Mendonça Júnior com apoio de Silveira",
-      "label": "Indicação de Tasso Mendonça Júnior para ANM",
-      "context": "Wilder Morais, senador do PL por Goiás, articulou a indicação de Tasso Mendonça Júnior, que conta com apoio do ministro Silveira. Tasso já passou pela ANM de 2018 a 2021, retornou em abril de 2022 indicado por Jair Bolsonaro e ficou até dezembro de 2025.",
+      "title": "Três grupos xingam e filmam assentados do MST no local",
+      "label": "Hostilização a acampados do MST",
+      "context": "Três grupos passaram pelo local para xingar, filmar e hostilizar assentados e acampados do MST. A coordenação do movimento relatou que um dos homens se declarou fascista ao ser abordado.",
       "source": "bluesky",
       "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/beatrizdiniz.bsky.social/post/3n2gug4s3xc2t",
-      "createdAt": "2026-11-16T15:40:17.142000+00:00",
-      "rawScore": 0.5113365795241774,
-      "relevanceScore": 0.5681517550268638,
-      "suggestedRadius": 81.23,
-      "imageUrl": "assets/images/bsky_3n2gug4s3xc2t_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2gug4s3xc2t_uns_thumb.jpg",
+      "permalink": "https://bsky.app/profile/renildoborges.bsky.social/post/3n2j5yb3sbk2g",
+      "createdAt": "2026-11-17T13:36:53.849000+00:00",
+      "rawScore": 0.46713417011299224,
+      "relevanceScore": 0.5190379667922136,
+      "suggestedRadius": 79.23,
+      "imageUrl": "assets/images/bsky_3n2j5yb3sbk2g_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2j5yb3sbk2g_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-go",
       "sources": [
         {
-          "title": "Articulação direta de Wilder Morais, senador do PL por Goiás, dono de mineradora 🤡 indicação de Tasso Mendonça Júnior tem apoio do ministro Silveira 🤡 A primeira passagem dele pela AMN foi de 2018 a 2021, voltou em abril de 2022, indicado por Jair Bolsonaro, e ficou até dezembro de 2025 🤡",
-          "url": "https://bsky.app/profile/beatrizdiniz.bsky.social/post/3n2gug4s3xc2t",
+          "title": "Ao menos três grupos passaram pelo local para xingar, filmar e hostilizar assentados e acampados do Movimento dos Trabalhadores Rurais Sem Terra (MST). Em conversa com o Brasil de Fato DF, a coordenação do movimento disse que, ao ser abordado, um dos homens se declarou como fascista...",
+          "url": "https://bsky.app/profile/renildoborges.bsky.social/post/3n2j5yb3sbk2g",
           "subreddit": "bsky_go"
         }
       ],
@@ -145,7 +151,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A articulação de Wilder Morais permitiu que a indicação de Tasso Mendonça Júnior recebesse apoio explícito do ministro Silveira, mostrando que o governo mantém canais abertos para indicações técnicas.",
+          "text": "O relato da coordenação do MST expõe claramente a hostilização sofrida pelos assentados no local.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -153,21 +159,17 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O governo está aceitando indicação de bolsonarista para a ANM sem resistência, repetindo o padrão de acomodar nomes de oposição em cargos estratégicos.",
+          "text": "Grupos que se declaram fascistas ao abordar acampados do MST demonstram intolerância direta contra o movimento.",
           "source": "sintese",
-          "evidence": [
-            3
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Resta verificar se a indicação de Tasso Mendonça Júnior para a ANM será de fato aceita, considerando seu histórico de nomeação por Bolsonaro.",
+          "text": "A presença de três grupos filmando e xingando assentados levanta questões sobre segurança no acampamento.",
           "source": "sintese",
-          "evidence": [
-            4
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -177,16 +179,16 @@
     {
       "id": "bsky_3n2gxauwnqs25",
       "rank": 4,
-      "title": "Mineração Maracá é alvo de duas ações por danos da Mina Chapada em Goiás",
+      "title": "Mineração Maracá é alvo de ações por danos em mina em Goiás",
       "label": "Ações civis contra mina em Goiás",
-      "context": "A Mineração Maracá, subsidiária da Lundin Mining, é alvo de duas ações civis públicas que apontam danos à saúde de moradores e ao meio ambiente causados pela Mina Chapada em Alto Horizonte, Goiás. As ações podem gerar responsabilização da empresa pelos impactos descritos.",
+      "context": "A Mineração Maracá, subsidiária da Lundin Mining, é alvo de duas ações civis públicas pela Mina Chapada em Alto Horizonte, Goiás. As ações apontam danos à saúde dos moradores e ao meio ambiente.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/renildoborges.bsky.social/post/3n2gxauwnqs25",
       "createdAt": "2026-11-16T16:31:15.748000+00:00",
-      "rawScore": 0.45542034056699227,
-      "relevanceScore": 0.5060226006299914,
-      "suggestedRadius": 78.68,
+      "rawScore": 0.28929040155546526,
+      "relevanceScore": 0.3214337795060725,
+      "suggestedRadius": 70.02,
       "imageUrl": "assets/images/bsky_3n2gxauwnqs25_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2gxauwnqs25_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -202,7 +204,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "As ações civis contra a Mineração Maracá representam um passo importante para que os moradores de Alto Horizonte tenham reparação pelos danos à saúde e ao ambiente causados pela Mina Chapada.",
+          "text": "As duas ações civis públicas vão ajudar a reparar os danos causados pela Mina Chapada aos moradores locais.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -210,7 +212,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A Mineração Maracá enfrenta processos que podem prejudicar suas operações em Goiás sem provas definitivas de que a Mina Chapada seja a única responsável pelos problemas relatados na região.",
+          "text": "A Mineração Maracá pode enfrentar prejuízos sem que as alegações de danos tenham sido comprovadas em juízo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -218,7 +220,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O resultado das duas ações civis contra a Mineração Maracá vai depender das provas apresentadas sobre os danos atribuídos à Mina Chapada em Alto Horizonte.",
+          "text": "O resultado das ações depende das evidências apresentadas sobre os impactos ambientais e à saúde.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -237,9 +239,9 @@
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/sav.trevastropicais.art.br/post/3n2gmnscpo22p",
       "createdAt": "2026-11-16T13:21:26.248000+00:00",
-      "rawScore": 0.43387760001052855,
-      "relevanceScore": 0.4820862222339206,
-      "suggestedRadius": 77.66,
+      "rawScore": 0.2652257900755324,
+      "relevanceScore": 0.2946953223061471,
+      "suggestedRadius": 68.57,
       "imageUrl": "assets/images/bsky_3n2gmnscpo22p_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2gmnscpo22p_reddit.jpg",
       "category": "geopolitica",
@@ -256,186 +258,18 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2huhex7mk2p",
-      "rank": 6,
-      "title": "Escolha um novo Bond a partir de imagens já no seu celular",
-      "label": "Jogo de escolher novo Bond com fotos",
-      "context": "A postagem propõe selecionar um novo James Bond usando imagens já salvas no celular. A ideia transforma a escolha em uma atividade rápida e baseada na galeria pessoal do usuário.",
-      "source": "bluesky",
-      "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/anjoglifosatiel.bsky.social/post/3n2huhex7mk2p",
-      "createdAt": "2026-11-17T01:13:40.246000+00:00",
-      "rawScore": 0.3763351435994227,
-      "relevanceScore": 0.41815015955491414,
-      "suggestedRadius": 74.8,
-      "imageUrl": "assets/images/bsky_3n2huhex7mk2p_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2huhex7mk2p_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-go",
-      "sources": [
-        {
-          "title": "Pick a new Bond from images already on your phone",
-          "url": "https://bsky.app/profile/anjoglifosatiel.bsky.social/post/3n2huhex7mk2p",
-          "subreddit": "bsky_go"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Imagens já guardadas no celular permitem uma seleção espontânea e pessoal para o novo Bond sem precisar procurar referências externas. Cada foto traz um candidato inesperado que reflete o gosto de quem está escolhendo.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Limitar a escolha a fotos do celular reduz as opções a pessoas conhecidas ou aleatórias e tira o foco de atores que realmente se adequariam ao papel de Bond.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O resultado depende totalmente das fotos que cada pessoa tem salvas, o que pode gerar escolhas divertidas ou completamente aleatórias conforme a galeria individual.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2hgaip4422k",
-      "rank": 7,
-      "title": "Saneago Goiás Vôlei x Vôlei Renata na Superliga Masculina em 16/11/2026",
-      "label": "Partida Superliga Masculina de Vôlei",
-      "context": "O jogo entre Saneago Goiás Vôlei e Vôlei Renata está marcado para 16 de novembro de 2026 às 18h30 no Rio Vermelho em Goiânia. A partida integra a quarta rodada do turno da Superliga Masculina e será transmitida pelo SporTV2.",
-      "source": "bluesky",
-      "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/portalvolei.bsky.social/post/3n2hgaip4422k",
-      "createdAt": "2026-11-16T20:59:37.543000+00:00",
-      "rawScore": 0.20665720931680687,
-      "relevanceScore": 0.3407302325742298,
-      "suggestedRadius": 71.02,
-      "imageUrl": "assets/images/bsky_3n2hgaip4422k_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2hgaip4422k_reddit_thumb.jpg",
-      "category": "esportes",
-      "region": "br-go",
-      "sources": [
-        {
-          "title": "🏐 🟢 SANEAGO GOIÁS VÔLEI x VÔLEI RENATA 🔵 🏆 Superliga | Masculina ➡️ Rodada 04 | Turno 📆 16/11/2026 (segunda) ⏰ 18h30 🏟️ Rio Vermelho 📍 Goiânia - Goiás 📺 SporTV2",
-          "url": "https://bsky.app/profile/portalvolei.bsky.social/post/3n2hgaip4422k",
-          "subreddit": "bsky_go"
-        },
-        {
-          "title": "Associação Atlética Flugoiânia de Futebol (Goiânia, Goiás)",
-          "url": "https://bsky.app/profile/ultimadivisao.com.br/post/3n25b2rkzh22u",
-          "subreddit": "bsky_go"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Saneago Goiás Vôlei e Vôlei Renata vão entregar um jogo técnico e equilibrado na Superliga Masculina, com boa transmissão no SporTV2.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O horário de 18h30 em dia útil pode reduzir o público presente no Rio Vermelho para o confronto da quarta rodada.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A quarta rodada da Superliga Masculina inclui este duelo entre Saneago Goiás Vôlei e Vôlei Renata em Goiânia.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2hmp45xqs2n",
-      "rank": 8,
-      "title": "Oloko e vc poderia ter feito parte da HISTÓRIA de Goiás, mas simplesmente dormindo",
-      "label": "Post sobre história perdida em Goiás",
-      "context": "Um post no Bluesky afirma que alguém poderia ter feito parte da história de Goiás, mas estava dormindo. O comentário menciona que o autor já protagonizou muitas histórias e agora dorme cedo.",
-      "source": "bluesky",
-      "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/brncrvlh.bsky.social/post/3n2hmp45xqs2n",
-      "createdAt": "2026-11-16T22:54:48.542000+00:00",
-      "rawScore": 0.2644508944361201,
-      "relevanceScore": 0.2938343271512445,
-      "suggestedRadius": 68.52,
-      "imageUrl": "assets/images/bsky_3n2hmp45xqs2n_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2hmp45xqs2n_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-go",
-      "sources": [
-        {
-          "title": "oloko e vc poderia ter feito parte da HISTÓRIA de Goiás, mas simplesmente dormindo 🤣",
-          "url": "https://bsky.app/profile/brncrvlh.bsky.social/post/3n2hmp45xqs2n",
-          "subreddit": "bsky_go"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Viver tantas histórias ao longo da vida em Goiás já basta para justificar dormir cedo sem arrependimento algum.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Dormir no momento certo pode significar perder a chance de entrar para a história local de forma única.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Depois de protagonizar várias histórias, priorizar o sono vira uma escolha natural para quem já viveu bastante.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3n27bchi3bk25",
-      "rank": 9,
-      "title": "Tatuadora tem vagas para doguinhos em Goiânia semana que vem",
-      "label": "Vagas para tatuagens de cachorros",
-      "context": "Uma tatuadora anunciou duas vagas para Goiânia na semana seguinte e lista de espera para Brasília e São Paulo. Ela também planeja abrir três vagas em Teresina em fevereiro.",
+      "rank": 6,
+      "title": "Tatuadora abre vagas para doguinhos em Goiânia na próxima semana",
+      "label": "Vagas para tatuagens de cachorros em Goiânia",
+      "context": "A tatuadora anunciou duas vagas para tatuagens em Goiânia na semana seguinte. Ela mantém lista de espera para Brasília e São Paulo e planeja abrir três vagas em Teresina em fevereiro.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/iaanks.bsky.social/post/3n27bchi3bk25",
       "createdAt": "2026-11-13T15:09:39.079000+00:00",
-      "rawScore": 0.10108616650912687,
-      "relevanceScore": 0.28842490731249165,
-      "suggestedRadius": 68.22,
+      "rawScore": 0.08200703193442743,
+      "relevanceScore": 0.26722586889615896,
+      "suggestedRadius": 67.02,
       "imageUrl": "assets/images/bsky_3n27bchi3bk25_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27bchi3bk25_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -461,7 +295,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A tatuadora está recebendo muitas encomendas de doguinhos e isso mostra que o trabalho dela agrada bastante.",
+          "text": "A tatuadora está com alta demanda por desenhos de cachorros e consegue atender clientes em várias cidades.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -469,7 +303,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A lista de espera para Brasília e São Paulo indica que as vagas estão muito limitadas para quem mora longe.",
+          "text": "As vagas em Goiânia são poucas e a lista de espera para outras capitais já está cheia.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -477,7 +311,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O anúncio mistura disponibilidade imediata em Goiânia com planos de retorno à família em Teresina.",
+          "text": "O anúncio mostra disponibilidade limitada em Goiânia e datas futuras para Teresina.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -487,26 +321,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2hhzmrna22q",
-      "rank": 10,
-      "title": "Eu adoro essas luzes verdes na apresentação do time do Goiás. Acho belo.",
-      "label": "Luzes verdes na apresentação do Goiás",
-      "context": "Um post elogia as luzes verdes usadas na apresentação do time do Goiás. O autor considera essa iluminação bela.",
+      "id": "bsky_3n2huhex7mk2p",
+      "rank": 7,
+      "title": "Escolha um novo Bond a partir de imagens já no seu celular",
+      "label": "Novo Bond via fotos do celular",
+      "context": "A postagem no Bluesky propõe escolher um novo Bond usando imagens já salvas no celular. A ideia é apresentada como uma atividade direta e pessoal.",
       "source": "bluesky",
       "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/vhcaldas.bsky.social/post/3n2hhzmrna22q",
-      "createdAt": "2026-11-16T21:31:11.849000+00:00",
-      "rawScore": 0.21532878886514026,
-      "relevanceScore": 0.23925420985015583,
-      "suggestedRadius": 65.35,
-      "imageUrl": "assets/images/bsky_3n2hhzmrna22q_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2hhzmrna22q_uns_thumb.jpg",
+      "permalink": "https://bsky.app/profile/anjoglifosatiel.bsky.social/post/3n2huhex7mk2p",
+      "createdAt": "2026-11-17T01:13:40.246000+00:00",
+      "rawScore": 0.17292226475603925,
+      "relevanceScore": 0.1921358497289325,
+      "suggestedRadius": 62.3,
+      "imageUrl": "assets/images/bsky_3n2huhex7mk2p_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2huhex7mk2p_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-go",
       "sources": [
         {
-          "title": "eu adoro essas luzes verdes na apresentação do time do Goiás. acho belo.",
-          "url": "https://bsky.app/profile/vhcaldas.bsky.social/post/3n2hhzmrna22q",
+          "title": "Pick a new Bond from images already on your phone",
+          "url": "https://bsky.app/profile/anjoglifosatiel.bsky.social/post/3n2huhex7mk2p",
           "subreddit": "bsky_go"
         }
       ],
@@ -514,7 +348,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "As luzes verdes na apresentação do Goiás criam um visual que realmente chama atenção e merece elogio pela beleza.",
+          "text": "Fotos já no celular permitem escolher o novo Bond de forma rápida e criativa sem precisar procurar imagens externas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -522,7 +356,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Luzes coloridas em apresentações de times podem distrair do foco principal no futebol e na torcida.",
+          "text": "A proposta limita as opções a fotos pessoais e pode resultar em escolhas pouco representativas do personagem.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -530,9 +364,186 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A iluminação verde funciona bem dependendo do estádio e da ocasião específica da apresentação.",
+          "text": "O resultado depende inteiramente das imagens que cada pessoa já tem guardadas no celular.",
           "source": "sintese",
           "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2eczlgres2w",
+      "rank": 8,
+      "title": "Panará foram empurrados para norte por mineradoras, guerras e massacres no século XVIII",
+      "label": "Deslocamento dos Panará no Brasil Central",
+      "context": "No século XVIII os Panará ocupavam extensões do Brasil Central entre São Paulo, Minas Gerais, Goiás e Mato Grosso do Sul, mas foram empurrados para o norte por frentes mineradoras, guerras e massacres. O santuário ao norte ruiu na década de 1970 com o avanço da BR-163, garimpeiros e doenças que dizimaram a população.",
+      "source": "bluesky",
+      "subreddit": "bsky_go",
+      "permalink": "https://bsky.app/profile/beatrizdiniz.bsky.social/post/3n2eczlgres2w",
+      "createdAt": "2026-11-15T15:23:42.549000+00:00",
+      "rawScore": 0.15632931149590013,
+      "relevanceScore": 0.17369923499544457,
+      "suggestedRadius": 61.01,
+      "imageUrl": "assets/images/bsky_3n2eczlgres2w_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2eczlgres2w_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-go",
+      "sources": [
+        {
+          "title": "\"No século XVIII, [os Panará] ocupavam grandes extensões do Brasil Central entre São Paulo, Minas Gerais, Goiás e Mato Grosso do Sul, mas foram sucessivamente empurrados para o norte por frentes mineradoras, guerras e massacres.\"",
+          "url": "https://bsky.app/profile/beatrizdiniz.bsky.social/post/3n2eczlgres2w",
+          "subreddit": "bsky_go"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A memória oral dos Panará registra com precisão o período em que doenças dizimaram a população após o contato com trabalhadores da rodovia.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O avanço do Batalhão de Engenharia do Exército e das levas de garimpeiros destruiu o território que os Panará haviam encontrado ao norte.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A expedição da Funai foi enviada para abrir caminho e evitar confrontos diretos durante a construção da BR-163.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2aer6qmlc22",
+      "rank": 9,
+      "title": "Aqui em Goiânia eles queriam criar uma medalha \"Charlie Kirk\". Patriotas, né?",
+      "label": "Medalha Charlie Kirk em Goiânia",
+      "context": "Em Goiânia foi mencionada a ideia de criar uma medalha Charlie Kirk. O post usa tom irônico ao se referir aos proponentes como patriotas.",
+      "source": "bluesky",
+      "subreddit": "bsky_go",
+      "permalink": "https://bsky.app/profile/gumihooppa.bsky.social/post/3n2aer6qmlc22",
+      "createdAt": "2026-11-14T01:44:10.580000+00:00",
+      "rawScore": 0.02635765372816545,
+      "relevanceScore": 0.14039739303129495,
+      "suggestedRadius": 58.48,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-go",
+      "sources": [
+        {
+          "title": "Aqui em Goiânia eles queriam criar uma medalha \"Charlie Kirk\". Patriotas, né?",
+          "url": "https://bsky.app/profile/gumihooppa.bsky.social/post/3n2aer6qmlc22",
+          "subreddit": "bsky_go"
+        },
+        {
+          "title": "Brota aqui em Goiânia então n //piada Se não terei de te caçar.",
+          "url": "https://bsky.app/profile/catboyy.org/post/3n2bwiey7xs22",
+          "subreddit": "bsky_go"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A medalha Charlie Kirk em Goiânia reconheceria publicamente uma figura que inspira muitos na cidade.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O post ironiza a proposta chamando os envolvidos de patriotas, indicando que a ideia soa exagerada.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O comentário responde ao convite de forma leve, propondo um lanche e conversa em vez de confronto.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2hmp45xqs2n",
+      "rank": 10,
+      "title": "Você poderia ter feito parte da história de Goiás, mas dormindo",
+      "label": "História de Goiás · Dormindo na hora",
+      "context": "Um post no Bluesky afirma que alguém poderia ter feito parte da história de Goiás, mas estava dormindo. O comentário indica que o autor já viveu histórias suficientes e agora dorme cedo.",
+      "source": "bluesky",
+      "subreddit": "bsky_go",
+      "permalink": "https://bsky.app/profile/brncrvlh.bsky.social/post/3n2hmp45xqs2n",
+      "createdAt": "2026-11-16T22:54:48.542000+00:00",
+      "rawScore": 0.11176611984679234,
+      "relevanceScore": 0.12418457760754704,
+      "suggestedRadius": 57.14,
+      "imageUrl": "assets/images/bsky_3n2hmp45xqs2n_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2hmp45xqs2n_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-go",
+      "sources": [
+        {
+          "title": "oloko e vc poderia ter feito parte da HISTÓRIA de Goiás, mas simplesmente dormindo 🤣",
+          "url": "https://bsky.app/profile/brncrvlh.bsky.social/post/3n2hmp45xqs2n",
+          "subreddit": "bsky_go"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Já protagonizei tantas histórias por aqui que agora vale dormir cedo e curtir o resto da vida em paz, sem precisar de mais aventuras.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Dormir na hora errada faz a pessoa perder a chance de entrar para a história de Goiás e ficar só com a piada depois.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Cada fase da vida pede algo diferente, quem já viveu bastante pode escolher dormir sem culpa e deixar as novas histórias para outros.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],

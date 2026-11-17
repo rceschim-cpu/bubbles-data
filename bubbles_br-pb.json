@@ -1,23 +1,207 @@
 {
-  "generatedAt": "2026-11-17T07:33:11.304676+00:00",
+  "generatedAt": "2026-11-17T21:01:01.600127+00:00",
   "region": "br-pb",
-  "count": 8,
+  "count": 9,
   "items": [
     {
-      "id": "bsky_3n2h3cnngpc2k",
+      "id": "bsky_3n2juhtlbg22h",
       "rank": 1,
+      "title": "E pq não me levou pra curtir as praias de João Pessoa?",
+      "label": "Sudestinos mudando para João Pessoa",
+      "context": "Pessoas do Sudeste estão pesquisando apartamentos em João Pessoa por causa da água em São Paulo. O aumento de novos moradores está deixando a cidade mais cheia.",
+      "source": "bluesky",
+      "subreddit": "bsky_pb",
+      "permalink": "https://bsky.app/profile/americojoaquim.bsky.social/post/3n2juhtlbg22h",
+      "createdAt": "2026-11-17T20:19:14.642000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-pb",
+      "sources": [
+        {
+          "title": "E pq não me levou pra curtir as praias de João Pessoa? 🤔🤭 Mas quando voltar, tô aqui, vamos desenrolar esse encontro, né? 😘",
+          "url": "https://bsky.app/profile/americojoaquim.bsky.social/post/3n2juhtlbg22h",
+          "subreddit": "bsky_pb"
+        },
+        {
+          "title": "a globo fazendo novela em que o nordestino sonha em ir pro sudeste, enquanto, na vida real, o sudestino tá pesquisando apartamento em joão pessoa porque cansou de ingerir metanol em são paulo e tomar banho com água necrosada da sabesp",
+          "url": "https://bsky.app/profile/danielduncan.bsky.social/post/3mzyhrtnv2k2c",
+          "subreddit": "bsky_pb"
+        },
+        {
+          "title": "Porra, sim. Pensando bem, continua com as novelas, Globo, João Pessoa tá ficando inchada demais.",
+          "url": "https://bsky.app/profile/thaiskisuki.bsky.social/post/3mzynhya72s2n",
+          "subreddit": "bsky_pb"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Quem saiu de São Paulo e foi morar perto da praia em João Pessoa ou na Bahia relata que nunca mais volta, com qualidade de vida muito superior e menos doenças.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            3,
+            8,
+            14
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "João Pessoa está ficando insuportável com a quantidade de gente do Sul e Sudeste vindo morar aqui, lotando prédios e mudando o ritmo da cidade.",
+          "source": "sintese",
+          "evidence": [
+            4,
+            10
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "As novelas da Globo ainda mostram o Nordeste como sonho distante para nordestinos, enquanto na vida real sudestinos é que estão indo para lá.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            5
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2ispzybjs2s",
+      "rank": 2,
+      "title": "O que seria do Brasil sem o nordeste. Paraíba recebe primeiros computadores quânticos da América Latina",
+      "label": "Paraíba recebe computadores quânticos",
+      "context": "A Paraíba recebeu os primeiros computadores quânticos da América Latina. O estado passa a ser visto como polo de tecnologia avançada.",
+      "source": "bluesky",
+      "subreddit": "bsky_pb",
+      "permalink": "https://bsky.app/profile/radioproletario.bsky.social/post/3n2ispzybjs2s",
+      "createdAt": "2026-11-17T10:15:23.042000+00:00",
+      "rawScore": 0.751163139885499,
+      "relevanceScore": 0.6393106657163494,
+      "suggestedRadius": 83.97,
+      "imageUrl": "assets/images/bsky_3n2ispzybjs2s_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2ispzybjs2s_reddit_thumb.jpg",
+      "category": "tech",
+      "region": "br-pb",
+      "sources": [
+        {
+          "title": "O que seria do Brasil sem o nordeste. Paraíba recebe primeiros computadores quânticos da América Latina e se torna polo de tecnologia de ponta www.brasil247.com/nordeste/par...",
+          "url": "https://bsky.app/profile/radioproletario.bsky.social/post/3n2ispzybjs2s",
+          "subreddit": "bsky_pb"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Paraíba está avançando ao receber os primeiros computadores quânticos da América Latina, reforçando o papel do Nordeste no desenvolvimento tecnológico do país.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Muita gente ainda não entende a diferença entre um computador quântico e um clássico, o que torna difícil avaliar o real impacto dessa chegada.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O vídeo explica em termos simples o que separa um computador quântico de um modelo tradicional e ajuda a entender a notícia.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2iw2trfzs22",
+      "rank": 3,
+      "title": "jornaldaparaiba.com.br/saude/sus-of...",
+      "label": "SUS em saúde pública",
+      "context": "O post no Bluesky de 17 de novembro de 2026 compartilha o link jornaldaparaiba.com.br/saude/sus-of.... O link trata de oferta do SUS.",
+      "source": "bluesky",
+      "subreddit": "bsky_pb",
+      "permalink": "https://bsky.app/profile/maisummarcelo.bsky.social/post/3n2iw2trfzs22",
+      "createdAt": "2026-11-17T11:15:06.946000+00:00",
+      "rawScore": 0.3334549364922371,
+      "relevanceScore": 0.2694342917144663,
+      "suggestedRadius": 67.14,
+      "imageUrl": "assets/images/bsky_3n2iw2trfzs22_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2iw2trfzs22_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pb",
+      "sources": [
+        {
+          "title": "jornaldaparaiba.com.br/saude/sus-of...",
+          "url": "https://bsky.app/profile/maisummarcelo.bsky.social/post/3n2iw2trfzs22",
+          "subreddit": "bsky_pb"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O SUS amplia acesso a tratamentos essenciais para quem depende do sistema público.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A notícia não traz detalhes suficientes sobre o que exatamente o SUS está oferecendo.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O link direciona para uma matéria sobre ações do SUS na Paraíba.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2h3cnngpc2k",
+      "rank": 4,
       "title": "Em proporção, os maiores aumentos no número de idosos votando foram em Sergipe (22%), Bahia (21%) e Paraíba (20%).",
       "label": "Aumento de idosos votando em três estados",
-      "context": "Os dados indicam os maiores aumentos proporcionais no número de idosos votando em Sergipe, Bahia e Paraíba. O comparecimento dos eleitores facultativos acima de 70 anos subiu de 56,2% para 62,7%.",
+      "context": "Em proporção, os maiores aumentos no número de idosos votando ocorreram em Sergipe (22%), Bahia (21%) e Paraíba (20%). O comparecimento dos eleitores facultativos acima de 70 anos subiu de 56,2% para 62,7%.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/breakingnewsnozap.bsky.social/post/3n2h3cnngpc2k",
       "createdAt": "2026-11-16T17:43:36.553000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3n2h3cnngpc2k_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2h3cnngpc2k_uns_thumb.jpg",
+      "rawScore": 0.207158400190795,
+      "relevanceScore": 0.15759999083961748,
+      "suggestedRadius": 59.82,
+      "imageUrl": "assets/images/bsky_3n2h3cnngpc2k_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2h3cnngpc2k_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
@@ -31,7 +215,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O aumento reflete o apoio dos idosos a Lula, que os agradeceu na vitória por ver neles a imagem mais forte e corajosa da eleição.",
+          "text": "O crescimento no comparecimento mostra que mais idosos estão escolhendo participar mesmo com o voto facultativo após os 70 anos.",
           "source": "sintese",
           "evidence": [
             1
@@ -41,7 +225,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Apesar do aumento, o voto facultativo a partir dos 70 anos ainda deixa muitos idosos fora das urnas.",
+          "text": "O foco nesses três estados deixa claro que outras regiões não conseguiram elevar a participação dos eleitores mais velhos na mesma medida.",
           "source": "sintese",
           "evidence": [
             1
@@ -51,7 +235,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O Datafolha já apontava em setembro maior disposição dos eleitores com mais de 70 anos a comparecer.",
+          "text": "Pesquisas como o Datafolha já indicavam maior disposição dos eleitores acima de 70 anos antes do pleito.",
           "source": "sintese",
           "evidence": [
             2
@@ -63,93 +247,20 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3mzyhrtnv2k2c",
-      "rank": 2,
-      "title": "Globo faz novela nordestino sonha Sudeste enquanto sudestino pesquisa apartamento em João Pessoa",
-      "label": "Novela Globo e migração para João Pessoa",
-      "context": "A Globo produz novela em que nordestinos sonham migrar para o Sudeste. Na prática sudestinos buscam moradia em João Pessoa após problemas com água da Sabesp em São Paulo.",
-      "source": "bluesky",
-      "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/danielduncan.bsky.social/post/3mzyhrtnv2k2c",
-      "createdAt": "2026-11-10T22:16:54.673000+00:00",
-      "rawScore": 0.6273880176305059,
-      "relevanceScore": 0.9829566243741974,
-      "suggestedRadius": 95.49,
-      "imageUrl": "assets/images/bsky_3mzyhrtnv2k2c_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzyhrtnv2k2c_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pb",
-      "sources": [
-        {
-          "title": "a globo fazendo novela em que o nordestino sonha em ir pro sudeste, enquanto, na vida real, o sudestino tá pesquisando apartamento em joão pessoa porque cansou de ingerir metanol em são paulo e tomar banho com água necrosada da sabesp",
-          "url": "https://bsky.app/profile/danielduncan.bsky.social/post/3mzyhrtnv2k2c",
-          "subreddit": "bsky_pb"
-        },
-        {
-          "title": "pra mim, a ironia é a globo meter uma novela dessas justamente quando tanta gente do sul e do sudeste tá se mudando pro nordeste em busca da qualidade de vida que já não encontra onde mora. você vai a joão pessoa e parece que tem mais catarinense do que paraibano",
-          "url": "https://bsky.app/profile/danielduncan.bsky.social/post/3mzyenguojk26",
-          "subreddit": "bsky_pb"
-        },
-        {
-          "title": "Porra, sim. Pensando bem, continua com as novelas, Globo, João Pessoa tá ficando inchada demais.",
-          "url": "https://bsky.app/profile/thaiskisuki.bsky.social/post/3mzynhya72s2n",
-          "subreddit": "bsky_pb"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Pessoas que deixaram São Paulo relatam vida melhor no Nordeste com praias acessíveis e sem doenças causadas pela água contaminada.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            4,
-            9
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A Globo ainda retrata o Nordeste como atrasado em suas novelas apesar da migração real de sulistas e sudestinos em busca de qualidade de vida.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            6
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "João Pessoa já recebe tantos moradores de outras regiões que alguns locais reclamam do aumento no preço dos aluguéis e da lotação da cidade.",
-          "source": "sintese",
-          "evidence": [
-            5,
-            11
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3n2ffleyzls2b",
-      "rank": 3,
+      "rank": 5,
       "title": "Chegay João Pessoa hora de limpar os ouvidos do sotaque de São Paulo",
-      "label": "Chegada a João Pessoa e sotaque paulista",
-      "context": "Uma pessoa chegou em João Pessoa e comentou sobre limpar os ouvidos do sotaque de São Paulo. Os comentários celebram a chegada e desejam um bom descanso.",
+      "label": "Chegada a João Pessoa · Sotaque",
+      "context": "Uma postagem anunciou a chegada a João Pessoa e a necessidade de limpar os ouvidos do sotaque de São Paulo. Os comentários responderam de forma acolhedora e desejaram descanso.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/xibiuguloso.bsky.social/post/3n2ffleyzls2b",
       "createdAt": "2026-11-16T01:42:07.749000+00:00",
-      "rawScore": 0.4982303300023809,
-      "relevanceScore": 0.5149021491364031,
-      "suggestedRadius": 79.05,
-      "imageUrl": "assets/images/bsky_3n2ffleyzls2b_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2ffleyzls2b_uns_thumb.jpg",
+      "rawScore": 0.14296805012554026,
+      "relevanceScore": 0.10076008744491446,
+      "suggestedRadius": 55.05,
+      "imageUrl": "assets/images/bsky_3n2ffleyzls2b_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2ffleyzls2b_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
@@ -163,7 +274,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Chegar em João Pessoa é o momento certo para deixar o sotaque de São Paulo para trás e curtir o sossego.",
+          "text": "A chegada permite relaxar de verdade depois da correria de São Paulo e curtir o novo ritmo.",
           "source": "sintese",
           "evidence": [
             1,
@@ -174,7 +285,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O sotaque de São Paulo não precisa ser tratado como algo a ser limpo, ele faz parte de quem fala assim.",
+          "text": "Mudar de sotaque exige esforço extra e nem sempre compensa logo no início.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -182,66 +293,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A mensagem parece mais uma brincadeira sobre a diferença de sotaques do que uma crítica séria.",
+          "text": "Tudo depende de quanto tempo a pessoa vai ficar e como se adapta ao novo ambiente.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2eowtuoik23",
-      "rank": 4,
-      "title": "Paraíba!!!!! Eu moro em Pernambuco",
-      "label": "Identidade paraibana em Pernambuco",
-      "context": "Uma postagem afirma 'Paraíba!!!!! Eu moro em Pernambuco'. Um comentário menciona não ter marcado a visita a Pernambuco.",
-      "source": "bluesky",
-      "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/traebizz.bsky.social/post/3n2eowtuoik23",
-      "createdAt": "2026-11-15T18:56:55.645000+00:00",
-      "rawScore": 0.305958907661889,
-      "relevanceScore": 0.282753082830795,
-      "suggestedRadius": 67.9,
-      "imageUrl": "assets/images/bsky_3n2eowtuoik23_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2eowtuoik23_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pb",
-      "sources": [
-        {
-          "title": "Paraíba!!!!! Eu moro em Pernambuco",
-          "url": "https://bsky.app/profile/traebizz.bsky.social/post/3n2eowtuoik23",
-          "subreddit": "bsky_pb"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A identidade paraibana permanece mesmo quando a pessoa vive em Pernambuco.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Esquecer de marcar a visita a Pernambuco mostra falta de atenção ao estado.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O comentário reflete um erro pessoal ao não registrar a viagem a Pernambuco.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
           "votes": 0
         }
       ],
@@ -250,17 +304,17 @@
     },
     {
       "id": "bsky_3n2armjxfic2m",
-      "rank": 5,
-      "title": "Nossa recebi essa de graça assim na tora realmente não existe amor em sp",
-      "label": "Recebimento grátis em São Paulo",
-      "context": "Uma pessoa recebeu algo de graça em São Paulo. A experiência gerou a afirmação de que não existe amor na cidade.",
+      "rank": 6,
+      "title": "Nossa, recebi essa de graça assim na tora, realmente não existe amor em SP",
+      "label": "Item recebido de graça em SP",
+      "context": "Uma pessoa relatou ter recebido algo gratuitamente em São Paulo. A experiência gerou a observação de que não existe amor na cidade.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/xibiuguloso.bsky.social/post/3n2armjxfic2m",
       "createdAt": "2026-11-14T05:34:15.245000+00:00",
-      "rawScore": 0.27482435579545467,
-      "relevanceScore": 0.2451611356882992,
-      "suggestedRadius": 65.71,
+      "rawScore": 0.09614157430502776,
+      "relevanceScore": 0.059295718435451505,
+      "suggestedRadius": 50.61,
       "imageUrl": "assets/images/bsky_3n2armjxfic2m_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2armjxfic2m_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -276,7 +330,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Receber algo sem pagar em São Paulo pode representar um gesto inesperado de generosidade que contrasta com a imagem habitual da cidade e mostra que surpresas positivas ainda ocorrem no dia a dia.",
+          "text": "Receber algo de graça em São Paulo pode indicar que ainda há momentos de generosidade espontânea no dia a dia da cidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -284,7 +338,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A entrega sem qualquer demonstração de carinho reforça a sensação de frieza nas relações em São Paulo, onde até um presente gratuito chega de forma impessoal e distante.",
+          "text": "São Paulo transmite a sensação de frieza e falta de afeto mesmo quando algo é entregue sem custo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -292,7 +346,64 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O relato mistura a gratuidade do item com uma observação sobre o ambiente social, sem detalhar o que foi recebido nem o contexto exato da entrega.",
+          "text": "A gratuidade do item parece aleatória e não altera a percepção geral sobre relações na cidade.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2eowtuoik23",
+      "rank": 7,
+      "title": "Paraíba!!!!! Eu moro em Pernambuco",
+      "label": "Confusão entre Paraíba e Pernambuco",
+      "context": "Uma postagem afirma 'Paraíba!!!!! Eu moro em Pernambuco'. Um comentário menciona não ter marcado a visita a Pernambuco por engano.",
+      "source": "bluesky",
+      "subreddit": "bsky_pb",
+      "permalink": "https://bsky.app/profile/traebizz.bsky.social/post/3n2eowtuoik23",
+      "createdAt": "2026-11-15T18:56:55.645000+00:00",
+      "rawScore": 0.09030561636913577,
+      "relevanceScore": 0.05412803692328596,
+      "suggestedRadius": 49.96,
+      "imageUrl": "assets/images/bsky_3n2eowtuoik23_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2eowtuoik23_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pb",
+      "sources": [
+        {
+          "title": "Paraíba!!!!! Eu moro em Pernambuco",
+          "url": "https://bsky.app/profile/traebizz.bsky.social/post/3n2eowtuoik23",
+          "subreddit": "bsky_pb"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O comentário revela que é comum cometer deslizes simples ao registrar viagens em perfis pessoais sem intenção de enganar ninguém.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Não marcar Pernambuco depois de visitar demonstra falta de atenção que pode gerar confusão desnecessária sobre a localização real da pessoa.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A postagem original mistura a menção a Paraíba com a correção de morar em Pernambuco sem explicar o motivo da exclamação inicial.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -303,19 +414,19 @@
     },
     {
       "id": "bsky_3n273oaybms2s",
-      "rank": 6,
-      "title": "Adoro o universo de admiradores de peixe-boi na Paraíba",
-      "label": "Admiradores de peixe-boi em Cabedelo",
-      "context": "Uma postagem elogia quem acompanha peixes-boi na Paraíba e conhece seus nomes. Um comentário menciona avistamentos de Mel e Favo na praia de Formosa.",
+      "rank": 8,
+      "title": "Adoro admiradores de peixe-boi na Paraíba que sabem nomes e locais",
+      "label": "Fãs de peixe-boi na Paraíba",
+      "context": "Uma postagem elogia os admiradores de peixe-boi na Paraíba. Quem curte os animais sabe os nomes deles e onde encontrá-los.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/thaiskisuki.bsky.social/post/3n273oaybms2s",
       "createdAt": "2026-11-13T13:28:48.178000+00:00",
-      "rawScore": 0.1501905720616338,
-      "relevanceScore": 0.09467794805834914,
-      "suggestedRadius": 54.46,
-      "imageUrl": "assets/images/bsky_3n273oaybms2s_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n273oaybms2s_uns_thumb.jpg",
+      "rawScore": 0.054440537886862365,
+      "relevanceScore": 0.022369873989083366,
+      "suggestedRadius": 44.97,
+      "imageUrl": "assets/images/bsky_3n273oaybms2s_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n273oaybms2s_wiki_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pb",
       "sources": [
@@ -329,7 +440,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Saber os nomes dos peixes-boi como Mel e Favo cria uma conexão mais próxima com os animais na região de Cabedelo.",
+          "text": "Conhecer nomes como Mel e Favo e avistá-los na praia de Formosa revela o carinho real da comunidade de Cabedelo pelos peixes-boi.",
           "source": "sintese",
           "evidence": [
             1
@@ -339,7 +450,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A familiaridade excessiva com nomes e locais pode atrapalhar a proteção natural dos peixes-boi na Paraíba.",
+          "text": "Divulgar locais exatos de encontro com os animais pode atrair mais gente e acabar perturbando os peixes-boi na região.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -347,62 +458,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Os encontros com peixes-boi dependem do local exato como Formosa e da sorte de cada observador.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzy3rzhdjc2h",
-      "rank": 7,
-      "title": "Homens armados incendiaram 12 barracos e fizeram disparos",
-      "label": "Incêndio de barracos por homens armados",
-      "context": "Homens armados incendiaram 12 barracos e fizeram disparos. O movimento denuncia ameaças e cobra proteção para cerca de 40 famílias.",
-      "source": "bluesky",
-      "subreddit": "bsky_pb",
-      "permalink": "https://bsky.app/profile/alma-preta.bsky.social/post/3mzy3rzhdjc2h",
-      "createdAt": "2026-11-10T18:42:18.687000+00:00",
-      "rawScore": 0.12507786573593876,
-      "relevanceScore": 0.06435679447790214,
-      "suggestedRadius": 51.22,
-      "imageUrl": "assets/images/bsky_3mzy3rzhdjc2h_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzy3rzhdjc2h_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pb",
-      "sources": [
-        {
-          "title": "Homens armados incendiaram 12 barracos e fizeram disparos; movimento denuncia ameaças e cobra proteção para cerca de 40 famílias almapreta.com.br/sessao/cotid...",
-          "url": "https://bsky.app/profile/alma-preta.bsky.social/post/3mzy3rzhdjc2h",
-          "subreddit": "bsky_pb"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O movimento age corretamente ao denunciar as ameaças e exigir proteção imediata para as famílias.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Incendiar barracos e atirar contra moradores é um ato grave que agrava a insegurança local.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A situação exige apuração policial para identificar os responsáveis e garantir a segurança das famílias.",
+          "text": "O post destaca que os admiradores locais tratam os peixes-boi como indivíduos com nomes e rotinas conhecidas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -413,15 +469,15 @@
     },
     {
       "id": "bsky_3n226soeeik2m",
-      "rank": 8,
+      "rank": 9,
       "title": "O Nordeste tem computador quântico, tá?",
       "label": "Computador quântico no Nordeste",
-      "context": "Uma notícia afirma que o Nordeste tem computador quântico. O post compartilha o link de reportagem do g1.",
+      "context": "Uma postagem no Bluesky afirma que o Nordeste tem computador quântico. O link direciona para uma matéria do g1.",
       "source": "bluesky",
       "subreddit": "bsky_pb",
       "permalink": "https://bsky.app/profile/patriciojunior.com.br/post/3n226soeeik2m",
       "createdAt": "2026-11-11T14:41:40.671000+00:00",
-      "rawScore": 0.07177602563613202,
+      "rawScore": 0.02917782707077196,
       "relevanceScore": 0.0,
       "suggestedRadius": 36.0,
       "imageUrl": "assets/images/bsky_3n226soeeik2m_reddit.jpg",
@@ -439,7 +495,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Nordeste ganha acesso direto a um computador quântico, o que pode acelerar pesquisas científicas e atrair investimentos em tecnologia para a região sem depender de centros distantes.",
+          "text": "O Nordeste contar com um computador quântico marca um avanço concreto em infraestrutura tecnológica para a região e abre portas para pesquisas locais que antes dependiam de equipamentos distantes.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -447,7 +503,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A notícia sobre o computador quântico no Nordeste não traz detalhes sobre capacidade, custo ou quem vai operar o equipamento, deixando a informação incompleta para avaliação real.",
+          "text": "A declaração de que o Nordeste já possui computador quântico soa precipitada sem dados sobre capacidade real, acesso da população ou resultados práticos já obtidos com o equipamento.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -455,7 +511,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A afirmação de que o Nordeste tem computador quântico depende de confirmação sobre o modelo e a infraestrutura necessária para seu funcionamento efetivo.",
+          "text": "A informação sobre o computador quântico no Nordeste depende de detalhes da matéria do g1 para esclarecer se o equipamento é novo, de qual instituição e qual o alcance efetivo do projeto.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

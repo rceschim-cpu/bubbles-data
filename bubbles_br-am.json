@@ -1,21 +1,74 @@
 {
-  "generatedAt": "2026-11-17T07:33:11.304676+00:00",
+  "generatedAt": "2026-11-17T21:01:01.600127+00:00",
   "region": "br-am",
-  "count": 10,
+  "count": 9,
   "items": [
     {
-      "id": "bsky_3n2h3weri5c2u",
+      "id": "bsky_3n2jkxtynhs2g",
       "rank": 1,
-      "title": "Mortes macabras em Manaus por homens que davam em cima de adolescentes",
-      "label": "Assassinatos em Manaus por rejeição",
-      "context": "Em Manaus ocorreram mortes macabras envolvendo homens que cortejavam adolescentes. Uma mulher participou de um assassinato e um homem agiu com amigo após a garota engravidar.",
+      "title": "Que notícia linda um homem morreu",
+      "label": "Postagem irônica sobre morte",
+      "context": "Um post no Bluesky compartilhou o link de uma notícia do G1 sobre a morte de um homem. O título do post descreve essa notícia como linda.",
+      "source": "bluesky",
+      "subreddit": "bsky_am",
+      "permalink": "https://bsky.app/profile/zecapagodinhe.bsky.social/post/3n2jkxtynhs2g",
+      "createdAt": "2026-11-17T17:29:27.554000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n2jkxtynhs2g_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2jkxtynhs2g_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-am",
+      "sources": [
+        {
+          "title": "que notícia linda um homem morreu g1.globo.com/am/amazonas/...",
+          "url": "https://bsky.app/profile/zecapagodinhe.bsky.social/post/3n2jkxtynhs2g",
+          "subreddit": "bsky_am"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O título irônico chama atenção para uma morte que a reportagem do G1 considera relevante no Amazonas e destaca o contraste entre o fato e a forma como é noticiado.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Usar o termo linda para descrever a morte de um homem soa como zombaria direta do ocorrido e desconsidera o peso real do evento relatado no G1.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A postagem provavelmente emprega sarcasmo para expressar reação à notícia sem detalhar o conteúdo da reportagem do G1 sobre o caso no Amazonas.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2h3weri5c2u",
+      "rank": 2,
+      "title": "Mortes macabras em Manaus por assédio a adolescentes",
+      "label": "Assassinatos de adolescentes em Manaus",
+      "context": "Em Manaus, homens que assediavam adolescentes provocaram mortes macabras. Em um caso uma mulher participou do assassinato e em outro um homem agiu com amigo após a gravidez da garota.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/milaleonel.bsky.social/post/3n2h3weri5c2u",
       "createdAt": "2026-11-16T17:54:49.854000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.17930686558757405,
+      "relevanceScore": 0.19922985065286006,
+      "suggestedRadius": 62.78,
       "imageUrl": "assets/images/bsky_3n2h3weri5c2u_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2h3weri5c2u_wiki_thumb.jpg",
       "category": "tech",
@@ -31,7 +84,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Relatos como esse de Manaus ajudam a mostrar como rejeições podem escalar para violência extrema contra jovens.",
+          "text": "Os casos revelam o risco real quando adolescentes aceitam investidas de homens mais velhos sem avaliar as consequências.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -39,7 +92,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A descrição mistura casos diferentes e usa termos vagos que não esclarecem o que realmente aconteceu.",
+          "text": "A desculpa de não aceitar o fim do relacionamento não justifica nenhum assassinato, independentemente das circunstâncias.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -47,7 +100,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Os dois episódios citados têm motivações distintas, uma com participação feminina e outra ligada à gravidez.",
+          "text": "Os detalhes sobre a participação da mulher e do amigo do homem ainda precisam de mais informações para serem compreendidos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -58,17 +111,17 @@
     },
     {
       "id": "bsky_3n2crfocmts2c",
-      "rank": 2,
-      "title": "Falei para uma paraense que comi tacacá em Manaus e ela reagiu assim",
-      "label": "Reação sobre tacacá comido em Manaus",
-      "context": "Uma pessoa contou a uma paraense que comeu tacacá em Manaus. A reação foi comparada à incredulidade de quem diz ter comido pão de queijo em São Paulo.",
+      "rank": 3,
+      "title": "Paraense reage a tacacá comido em Manaus como pão de queijo em SP",
+      "label": "Rivalidade AM-PA sobre comida regional",
+      "context": "Uma pessoa contou a uma paraense que comeu tacacá em Manaus. A reação foi igual à de quem diz ter comido pão de queijo em São Paulo.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/tricolhosa.bsky.social/post/3n2crfocmts2c",
       "createdAt": "2026-11-15T00:35:41.155000+00:00",
-      "rawScore": 0.2909594971528415,
-      "relevanceScore": 0.32328833016982383,
-      "suggestedRadius": 70.12,
+      "rawScore": 0.06723569477224188,
+      "relevanceScore": 0.07470632752471319,
+      "suggestedRadius": 52.4,
       "imageUrl": "assets/images/bsky_3n2crfocmts2c_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2crfocmts2c_uns_thumb.jpg",
       "category": "geopolitica",
@@ -84,7 +137,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A rivalidade entre Amazonas e Pará aparece de forma leve quando o assunto é tacacá preparado fora do estado de origem.",
+          "text": "A rivalidade entre Amazonas e Pará explica reações como essa porque cada estado valoriza suas versões de pratos típicos e vê adaptações de fora com desconfiança natural.",
           "source": "sintese",
           "evidence": [
             2
@@ -94,7 +147,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O paredão do BBB com Isabelle Nogueira e Alane usou essa história de forma exagerada para gerar entretenimento.",
+          "text": "Associar o episódio ao paredão da Isabelle e da Alane no BBB mistura contextos diferentes e desvia o foco da simples comparação entre estados sobre comida.",
           "source": "sintese",
           "evidence": [
             1
@@ -104,115 +157,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post mostra como cada estado do Norte defende sua versão tradicional de pratos como o tacacá.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2gijudmtk27",
-      "rank": 3,
-      "title": "Manaus oferece meio litro de café e leite por R$ 6",
-      "label": "Café e leite por R$6 em Manaus",
-      "context": "Uma pessoa relata ter recebido meio litro de café e meio litro de leite por R$ 6 em Manaus. O valor é apresentado como surpreendentemente baixo para porções generosas.",
-      "source": "bluesky",
-      "subreddit": "bsky_am",
-      "permalink": "https://bsky.app/profile/jsouzaprimo.bsky.social/post/3n2gijudmtk27",
-      "createdAt": "2026-11-16T12:07:42.941000+00:00",
-      "rawScore": 0.2126820438467962,
-      "relevanceScore": 0.23631338205199579,
-      "suggestedRadius": 65.17,
-      "imageUrl": "assets/images/bsky_3n2gijudmtk27_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2gijudmtk27_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-am",
-      "sources": [
-        {
-          "title": "Manaus tem preços muito bons em alimentação, vim tomar um café e eu tô até agora sem acreditar que eles vieram com meio litro de café e meio litro de leite por incríveis R$ 6",
-          "url": "https://bsky.app/profile/jsouzaprimo.bsky.social/post/3n2gijudmtk27",
-          "subreddit": "bsky_am"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Manaus mantém preços acessíveis que permitem porções grandes de café e leite por apenas seis reais, algo que surpreende positivamente quem visita a cidade e compara com outros lugares.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O relato de seis reais por meio litro de cada item pode indicar porções excessivas ou qualidade inferior, o que levanta dúvidas sobre o real benefício para o consumidor.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O preço de seis reais por essas quantidades depende do padrão de preparo e do local específico, sem que o post esclareça se o valor reflete a média geral da cidade.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2fnsrpxhc2b",
-      "rank": 4,
-      "title": "Chocante, mas estou triste de voltar para Manaus",
-      "label": "Tristeza inesperada ao retornar para Manaus",
-      "context": "Uma pessoa relatou surpresa ao sentir tristeza por voltar a Manaus, algo que não acontecia apesar de viajar bastante. O tempo com entes queridos e amizades de longa data tornou esse retorno mais marcante.",
-      "source": "bluesky",
-      "subreddit": "bsky_am",
-      "permalink": "https://bsky.app/profile/thomsilva.bsky.social/post/3n2fnsrpxhc2b",
-      "createdAt": "2026-11-16T04:09:27.146000+00:00",
-      "rawScore": 0.204868652344957,
-      "relevanceScore": 0.2276318359388411,
-      "suggestedRadius": 64.63,
-      "imageUrl": "assets/images/bsky_3n2fnsrpxhc2b_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2fnsrpxhc2b_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-am",
-      "sources": [
-        {
-          "title": "chocante mas acho que estou triste de estar voltando pra manaus (sentimento que não batia ha um tempo e eu tenho viajado bastante",
-          "url": "https://bsky.app/profile/thomsilva.bsky.social/post/3n2fnsrpxhc2b",
-          "subreddit": "bsky_am"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Acompanhar os amores e reencontrar amizades de duas décadas deu um peso especial ao retorno para Manaus.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Sentir tristeza ao voltar indica que a rotina em Manaus perdeu algo que as viagens recentes ofereciam.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O choque surgiu porque o sentimento de apego a Manaus reapareceu depois de um período sem viagens intensas.",
+          "text": "A intensidade da resposta depende de quanto a pessoa leva a sério as diferenças entre as receitas de tacacá feitas em cada estado da região Norte.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -223,17 +168,17 @@
     },
     {
       "id": "bsky_3n2c2txlcvc2x",
-      "rank": 5,
-      "title": "Eu em Manaus há três meses com a pior qualidade do ar do mundo",
-      "label": "Pior qualidade do ar em Manaus",
-      "context": "Moradores de Manaus afirmam que a cidade tem a pior qualidade do ar do mundo há três meses. A fumaça vem de queimadas em regiões da floresta carregadas pelo vento.",
+      "rank": 4,
+      "title": "Eu em Manaus porque estamos há três meses com a pior qualidade do ar do mundo",
+      "label": "Pior qualidade do ar em Manaus por meses",
+      "context": "Um morador de Manaus afirma que a cidade registra a pior qualidade do ar do mundo há três meses. Queimadas em regiões da floresta enviam fumaça para a área urbana carregada pelo vento.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/thomsilva.bsky.social/post/3n2c2txlcvc2x",
       "createdAt": "2026-11-14T17:52:04.552000+00:00",
-      "rawScore": 0.19007741131135877,
-      "relevanceScore": 0.21119712367928753,
-      "suggestedRadius": 63.57,
+      "rawScore": 0.0355384527646564,
+      "relevanceScore": 0.03948716973850711,
+      "suggestedRadius": 47.92,
       "imageUrl": "assets/images/bsky_3n2c2txlcvc2x_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2c2txlcvc2x_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -249,7 +194,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O resumo sobre as queimadas explica de forma clara como o vento leva a fumaça das florestas até Manaus e afeta a cidade inteira.",
+          "text": "Queimadas em partes da floresta, possivelmente ligadas ao agro, explicam a fumaça que o vento leva até Manaus e piora o ar da cidade.",
           "source": "sintese",
           "evidence": [
             2
@@ -259,17 +204,17 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Queimar áreas da floresta, provavelmente pelo agro, está jogando fumaça sobre Manaus e piorando o ar de forma insuportável há meses.",
+          "text": "É insano constatar que o ar de São Paulo chega a ser mais respirável que o de Manaus neste período de fumaça constante.",
           "source": "sintese",
           "evidence": [
-            2
+            1
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Em Cuiabá o mesmo acontece quando o Pantanal pega fogo, por isso a solidariedade com quem enfrenta essa situação em Manaus.",
+          "text": "Cuiabá vive situação semelhante quando o Pantanal pega fogo e a fumaça atinge a cidade, gerando o mesmo efeito.",
           "source": "sintese",
           "evidence": [
             4
@@ -281,26 +226,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2aaxzapws23",
-      "rank": 6,
-      "title": "Vocês querem ver eu comentando uma fala do Janones e reclamando dela?",
-      "label": "Post oferece comentário sobre Janones",
-      "context": "Um usuário no Bluesky pergunta se as pessoas querem ver ele comentando e reclamando de uma fala do Janones. O post inclui um link para um reel no Instagram.",
+      "id": "bsky_3n2fnsrpxhc2b",
+      "rank": 5,
+      "title": "Chocante, mas triste de voltar para Manaus após viajar bastante",
+      "label": "Tristeza ao retornar para Manaus",
+      "context": "Uma pessoa relatou tristeza por estar voltando para Manaus depois de viagens frequentes. O comentário menciona que a companhia de entes queridos e amizades de duas décadas equilibrou esse sentimento.",
       "source": "bluesky",
       "subreddit": "bsky_am",
-      "permalink": "https://bsky.app/profile/yrs-pa.bsky.social/post/3n2aaxzapws23",
-      "createdAt": "2026-11-14T00:36:24.671000+00:00",
-      "rawScore": 0.17106270457978712,
-      "relevanceScore": 0.19006967175531903,
-      "suggestedRadius": 62.16,
-      "imageUrl": "assets/images/bsky_3n2aaxzapws23_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2aaxzapws23_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/thomsilva.bsky.social/post/3n2fnsrpxhc2b",
+      "createdAt": "2026-11-16T04:09:27.146000+00:00",
+      "rawScore": 0.02813609709322745,
+      "relevanceScore": 0.031262330103586054,
+      "suggestedRadius": 46.61,
+      "imageUrl": "assets/images/bsky_3n2fnsrpxhc2b_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2fnsrpxhc2b_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-am",
       "sources": [
         {
-          "title": "Vocês querem ver eu comentando uma fala do Janones e reclamando dela? www.instagram.com/reel/Dfs5Xhz...",
-          "url": "https://bsky.app/profile/yrs-pa.bsky.social/post/3n2aaxzapws23",
+          "title": "chocante mas acho que estou triste de estar voltando pra manaus (sentimento que não batia ha um tempo e eu tenho viajado bastante",
+          "url": "https://bsky.app/profile/thomsilva.bsky.social/post/3n2fnsrpxhc2b",
           "subreddit": "bsky_am"
         }
       ],
@@ -308,15 +253,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O criador do post está disposto a analisar a fala de Janones de forma direta e transparente para o público.",
+          "text": "Ter vindo com os amores e passado dias com amizades de duas décadas equilibrou a tristeza do retorno a Manaus, transformando o que poderia ser só melancolia em algo mais leve e significativo.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Reclamar de uma fala específica de Janones pode reforçar divisões sem trazer informações novas.",
+          "text": "Voltar para Manaus após um período de viagens frequentes gera uma tristeza que não aparecia há tempo, mostrando como o retorno à rotina pode pesar mesmo quando se viaja bastante.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -324,7 +271,60 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O reel no Instagram pode esclarecer qual fala de Janones está sendo comentada e por quê.",
+          "text": "O sentimento de tristeza ao voltar para Manaus não batia há algum tempo, possivelmente porque as viagens recentes e o contato com pessoas próximas mudaram a forma como o retorno é percebido.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2gijudmtk27",
+      "rank": 6,
+      "title": "Manaus tem café com meio litro de leite por R$ 6",
+      "label": "Café por R$6 com meio litro em Manaus",
+      "context": "Uma pessoa relata ter pago R$ 6 por meio litro de café e meio litro de leite em Manaus. O valor chama atenção por ser considerado muito acessível para alimentação.",
+      "source": "bluesky",
+      "subreddit": "bsky_am",
+      "permalink": "https://bsky.app/profile/jsouzaprimo.bsky.social/post/3n2gijudmtk27",
+      "createdAt": "2026-11-16T12:07:42.941000+00:00",
+      "rawScore": 0.0236780343471101,
+      "relevanceScore": 0.026308927052344555,
+      "suggestedRadius": 45.73,
+      "imageUrl": "assets/images/bsky_3n2gijudmtk27_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2gijudmtk27_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-am",
+      "sources": [
+        {
+          "title": "Manaus tem preços muito bons em alimentação, vim tomar um café e eu tô até agora sem acreditar que eles vieram com meio litro de café e meio litro de leite por incríveis R$ 6",
+          "url": "https://bsky.app/profile/jsouzaprimo.bsky.social/post/3n2gijudmtk27",
+          "subreddit": "bsky_am"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Meio litro de café e meio litro de leite por R$ 6 em Manaus representa uma opção prática e barata para quem quer consumir sem gastar muito.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O preço baixo relatado em Manaus pode não compensar se a qualidade do café e do leite for inferior à de outros estabelecimentos.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O valor de R$ 6 por essa quantidade depende do lugar específico visitado e pode variar conforme o tipo de cafeteria em Manaus.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -337,15 +337,15 @@
       "id": "bsky_3n2fpdf7poc22",
       "rank": 7,
       "title": "Todo show de rap na cidade de Manaus dá 15 pessoas",
-      "label": "Público reduzido em shows de rap em Manaus",
-      "context": "Um post afirma que todo show de rap em Manaus reúne 15 pessoas. A afirmação ressalta a escala limitada dos eventos do gênero na cidade.",
+      "label": "Público de 15 pessoas em shows de rap",
+      "context": "Um post afirma que todo show de rap em Manaus reúne 15 pessoas. A afirmação destaca a dificuldade de atrair público para o gênero na cidade.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/zecapagodinhe.bsky.social/post/3n2fpdf7poc22",
       "createdAt": "2026-11-16T04:36:38.548000+00:00",
-      "rawScore": 0.15348961462912597,
-      "relevanceScore": 0.1705440162545844,
-      "suggestedRadius": 60.78,
+      "rawScore": 0.013117463323356494,
+      "relevanceScore": 0.014574959248173881,
+      "suggestedRadius": 43.24,
       "imageUrl": "assets/images/bsky_3n2fpdf7poc22_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2fpdf7poc22_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -361,7 +361,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A cena de rap em Manaus mantém shows regulares mesmo com público de 15 pessoas, o que demonstra dedicação dos artistas e um núcleo fiel que sustenta a atividade sem depender de grandes plateias.",
+          "text": "Shows com apenas 15 pessoas em Manaus permitem que os rappers conversem diretamente com cada fã e criem conexões reais sem a distância de grandes plateias.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -369,7 +369,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O número fixo de 15 pessoas por show de rap em Manaus revela falta de interesse maior pelo gênero, limitando o crescimento e a visibilidade dos eventos na cidade.",
+          "text": "Com público fixo em 15 pessoas os shows de rap em Manaus não conseguem pagar produção básica nem motivar novos artistas a se apresentarem na cidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -377,67 +377,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O dado de 15 pessoas pode refletir apenas os shows observados pelo autor do post, sem necessariamente representar todos os eventos de rap realizados em Manaus.",
+          "text": "O número de 15 pessoas pode refletir apenas os eventos de artistas locais e mudar quando nomes maiores da cena nacional passam por Manaus.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2a33m6cis2h",
-      "rank": 8,
-      "title": "Governo evita mexer em renúncias tributárias graves como MEI e Zona Franca",
-      "label": "Renúncias fiscais e benefícios corporativos",
-      "context": "O post afirma que o governo evita mexer nas renúncias tributárias mais graves como o MEI e a Zona Franca de Manaus. O mesmo ocorre com supersalários e benefícios a militares.",
-      "source": "bluesky",
-      "subreddit": "bsky_am",
-      "permalink": "https://bsky.app/profile/arthursemtavola.bsky.social/post/3n2a33m6cis2h",
-      "createdAt": "2026-11-13T22:51:03.078000+00:00",
-      "rawScore": 0.14195328502148327,
-      "relevanceScore": 0.15772587224609252,
-      "suggestedRadius": 59.83,
-      "imageUrl": "assets/images/bsky_3n2a33m6cis2h_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2a33m6cis2h_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-am",
-      "sources": [
-        {
-          "title": "O Governo tá evitando mexer nas renúncias tributárias mais graves, estilo o MEI ou a Zona Franca de Manaus, assim como nas bolhas corporativistas (supersalários e milicos)",
-          "url": "https://bsky.app/profile/arthursemtavola.bsky.social/post/3n2a33m6cis2h",
-          "subreddit": "bsky_am"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A Zona Franca de Manaus deve continuar porque a cidade sofreria sem ela, igual a qualquer outra capital brasileira.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O governo precisa cortar renúncias graves e bolhas como supersalários para equilibrar as contas públicas.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A Suécia construiu forte estado de bem-estar social mantendo a dívida abaixo de 80% do PIB.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
           "votes": 0
         }
       ],
@@ -446,17 +388,17 @@
     },
     {
       "id": "bsky_3n27vbrdtps2c",
-      "rank": 9,
+      "rank": 8,
       "title": "Um dos carrascos do que aconteceu em Manaus na pandemia",
-      "label": "Acusação sobre Manaus na pandemia",
-      "context": "Um post no Bluesky chama uma pessoa de um dos carrascos do que aconteceu em Manaus na pandemia. A mensagem repete três vezes a frase nunca se esqueçam.",
+      "label": "Lembrança dos eventos em Manaus",
+      "context": "Um post nas redes identifica uma pessoa como carrasco dos acontecimentos em Manaus na pandemia. A mensagem repete três vezes o pedido para nunca esquecer.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/luludussan.bsky.social/post/3n27vbrdtps2c",
       "createdAt": "2026-11-13T21:07:07.675000+00:00",
-      "rawScore": 0.10699229037601693,
-      "relevanceScore": 0.11888032264001881,
-      "suggestedRadius": 56.69,
+      "rawScore": 0.009899187322129143,
+      "relevanceScore": 0.010999097024587937,
+      "suggestedRadius": 42.29,
       "imageUrl": "assets/images/bsky_3n27vbrdtps2c_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27vbrdtps2c_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -472,7 +414,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A repetição da frase nunca se esqueçam no post reforça a necessidade de manter viva a memória sobre as consequências do que ocorreu em Manaus durante a pandemia para que responsabilidades não sejam ignoradas.",
+          "text": "Destacar quem contribuiu para o que ocorreu em Manaus reforça a necessidade de memória sobre a pandemia.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -480,7 +422,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Usar o termo carrasco de forma direta em um post sem apresentar fatos concretos sobre o que aconteceu em Manaus pode simplificar eventos complexos e dificultar uma análise precisa das causas da pandemia.",
+          "text": "Rotular alguém como carrasco sem detalhes concretos distorce a compreensão dos fatos em Manaus.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -488,7 +430,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post foca em lembrar o ocorrido em Manaus na pandemia através da repetição da mensagem, mas não traz detalhes adicionais sobre quem seria o alvo da acusação ou os eventos específicos citados.",
+          "text": "O post foca na repetição da frase nunca se esqueçam sem apresentar novos elementos sobre o ocorrido.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -499,17 +441,17 @@
     },
     {
       "id": "bsky_3n24qdsscfk2n",
-      "rank": 10,
+      "rank": 9,
       "title": "Ai saudades Manaus, saudades solzinho na beira do rio",
-      "label": "Saudades de Manaus e do rio",
-      "context": "Uma postagem no Bluesky manifesta saudade de Manaus e do solzinho na beira do rio. A mensagem foi publicada em novembro de 2026.",
+      "label": "Saudade de Manaus e sol no rio",
+      "context": "Um post no Bluesky expressa saudade de Manaus. A mensagem cita especificamente o solzinho na beira do rio.",
       "source": "bluesky",
       "subreddit": "bsky_am",
       "permalink": "https://bsky.app/profile/igoreme.bsky.social/post/3n24qdsscfk2n",
       "createdAt": "2026-11-12T15:00:52.083000+00:00",
-      "rawScore": 0.07414070632879448,
-      "relevanceScore": 0.08237856258754941,
-      "suggestedRadius": 53.22,
+      "rawScore": 0.0,
+      "relevanceScore": 0.0,
+      "suggestedRadius": 36.0,
       "imageUrl": "assets/images/bsky_3n24qdsscfk2n_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n24qdsscfk2n_reddit_thumb.jpg",
       "category": "tech",
@@ -525,7 +467,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Quem postou demonstra afeto claro por Manaus ao relembrar o sol e a beira do rio, mostrando que esses elementos simples ainda geram conexão forte com a cidade.",
+          "text": "Manaus oferece um clima quente e paisagem de rio que cria memórias fortes para quem morou lá.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -533,7 +475,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A saudade expressa na postagem indica que a pessoa pode estar insatisfeita com sua situação atual e prefere o ambiente que deixou para trás em Manaus.",
+          "text": "Saudades assim ignoram os problemas reais que levam as pessoas a deixar Manaus.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -541,7 +483,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Mensagens curtas como essa costumam aparecer quando alguém revive memórias de locais específicos, sem necessariamente indicar mudança de planos ou insatisfação permanente.",
+          "text": "O sentimento depende de quanto tempo a pessoa passou na cidade e do que vivenciou lá.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

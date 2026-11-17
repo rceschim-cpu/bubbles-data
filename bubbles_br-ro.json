@@ -1,21 +1,139 @@
 {
-  "generatedAt": "2026-11-17T07:33:11.304676+00:00",
+  "generatedAt": "2026-11-17T21:01:01.600127+00:00",
   "region": "br-ro",
-  "count": 7,
+  "count": 8,
   "items": [
     {
-      "id": "bsky_3n2bzekag2k2t",
+      "id": "bsky_3n2jcjsokgs2n",
       "rank": 1,
-      "title": "Pesticidas jogados em água de povos indígenas em Rondônia",
-      "label": "Pesticidas em água indígena",
-      "context": "Muitos jogam pesticidas em cima e na água dos povos indígenas em Rondônia. O crime já se repetiu outras vezes além deste ano.",
+      "title": "Polícia Federal destrói equipamentos de garimpo ilegal em Rondônia mas não prende ninguém",
+      "label": "Operação PF destrói garimpo sem prisões",
+      "context": "A Polícia Federal realizou operação em Guajará-Mirim, Rondônia, destruindo estruturas e equipamentos de garimpo ilegal de ouro. O fato gerou questionamentos porque nenhum operador ou financiador foi preso.",
+      "source": "bluesky",
+      "subreddit": "bsky_ro",
+      "permalink": "https://bsky.app/profile/renildoborges.bsky.social/post/3n2jcjsokgs2n",
+      "createdAt": "2026-11-17T14:58:16.345000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n2jcjsokgs2n_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2jcjsokgs2n_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ro",
+      "sources": [
+        {
+          "title": "Destrói mas não prende ninguém, nem operadores, nem financiadores... A Polícia Federal realizou uma operação de combate ao garimpo ilegal de ouro na região de fronteira de Guajará-Mirim, em Rondônia, resultando na destruição de estruturas e equipamentos utilizados na exploração mineral clandestina.",
+          "url": "https://bsky.app/profile/renildoborges.bsky.social/post/3n2jcjsokgs2n",
+          "subreddit": "bsky_ro"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A destruição de equipamentos no garimpo de Guajará-Mirim é um avanço necessário, pois enfraquece a estrutura clandestina mesmo sem prisões imediatas.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Operações que só destroem equipamentos em Rondônia não resolvem nada, já que operadores e financiadores continuam livres para recomeçar.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A falta de prisões em ações como a de Guajará-Mirim pode ocorrer porque a polícia nem sempre encontra os responsáveis no local durante a batida.",
+          "source": "sintese",
+          "evidence": [
+            5
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2j3erolvs25",
+      "rank": 2,
+      "title": "Governo vai asfaltar a BR-319 que liga Manaus a Porto Velho",
+      "label": "Asfaltamento da BR-319 e forma da crítica",
+      "context": "O governo planeja asfaltar a BR-319 ligando Manaus a Porto Velho e conduz o processo de licenciamento na base do rolo compressor. Críticas sobre desmatamento e grilagem são ignoradas por não gerarem polêmica suficiente.",
+      "source": "bluesky",
+      "subreddit": "bsky_ro",
+      "permalink": "https://bsky.app/profile/nvaidarcerto.bsky.social/post/3n2j3erolvs25",
+      "createdAt": "2026-11-17T12:50:08.846000+00:00",
+      "rawScore": 0.29059237969174373,
+      "relevanceScore": 0.3228804218797153,
+      "suggestedRadius": 70.09,
+      "imageUrl": "assets/images/bsky_3n2j3erolvs25_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2j3erolvs25_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ro",
+      "sources": [
+        {
+          "title": "Isso é a coisa mais burra que uma pessoa pode usar pra defender o seu ponto. Eu vou dar um exemplo muito claro do pq desse chororô sobre a \"forma da crítica\" é uma desculpa p/ defesa incondicional do governo. O governo vai asfaltar a BR-319 q liga Manaus a Porto Velho, todo o processo tá sendo +",
+          "url": "https://bsky.app/profile/nvaidarcerto.bsky.social/post/3n2j3erolvs25",
+          "subreddit": "bsky_ro"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O asfaltamento da BR-319 avança porque críticas ambientais bem comportadas não criam pressão real sobre o governo.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Respostas do governo a críticas sobre meio ambiente atacam a forma da fala para defender o projeto sem discutir impactos.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Mesmo quando a crítica é específica e tranquila, como no caso de Rui Costa, a resposta oficial foca em xenofobia em vez do conteúdo.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2bzekag2k2t",
+      "rank": 3,
+      "title": "Muitos jogam pesticidas em água dos povos indígenas",
+      "label": "Pesticidas em água indígena · Rondônia",
+      "context": "Muitos jogam pesticidas em cima e na água dos povos indígenas. O crime já se repetiu outras vezes.",
       "source": "bluesky",
       "subreddit": "bsky_ro",
       "permalink": "https://bsky.app/profile/radioproletario.bsky.social/post/3n2bzekag2k2t",
       "createdAt": "2026-11-14T17:25:36.545000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.07600434023159489,
+      "relevanceScore": 0.08444926692399432,
+      "suggestedRadius": 53.44,
       "imageUrl": "assets/images/bsky_3n2bzekag2k2t_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2bzekag2k2t_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -31,7 +149,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A publicação do link do g1 traz visibilidade para casos de contaminação que afetam comunidades indígenas e podem levar a ações de proteção.",
+          "text": "A repetição desses lançamentos de pesticidas exige ações concretas para proteger as comunidades indígenas atingidas em Rondônia.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -39,7 +157,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Jogar pesticidas na água de povos indígenas constitui crime ambiental grave que causa danos diretos à saúde e ao território.",
+          "text": "Jogar pesticidas diretamente na água de povos indígenas constitui crime ambiental grave que viola direitos básicos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -47,7 +165,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Casos relatados exigem verificação detalhada das fontes para confirmar a frequência e os responsáveis pelos lançamentos.",
+          "text": "O link do g1 mostra um caso recente mas não traz detalhes sobre quem são os responsáveis pelos atos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -57,46 +175,18 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2evjuxya22b",
-      "rank": 2,
-      "title": "minha meta é ir em todos o próximo é justamente o Pará",
-      "label": "",
-      "context": "",
-      "source": "bluesky",
-      "subreddit": "bsky_ro",
-      "permalink": "https://bsky.app/profile/viuvadoexaltasamba.bsky.social/post/3n2evjuxya22b",
-      "createdAt": "2026-11-15T20:54:59.245000+00:00",
-      "rawScore": 0.4988318759401293,
-      "relevanceScore": 0.554257639933477,
-      "suggestedRadius": 80.67,
-      "imageUrl": "assets/images/bsky_3n2evjuxya22b_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2evjuxya22b_reddit.jpg",
-      "category": "geopolitica",
-      "region": "br-ro",
-      "sources": [
-        {
-          "title": "minha meta é ir em todos o próximo é justamente o Pará",
-          "url": "https://bsky.app/profile/viuvadoexaltasamba.bsky.social/post/3n2evjuxya22b",
-          "subreddit": "bsky_ro"
-        }
-      ],
-      "opinions": [],
-      "enrichedBy": "",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3n273pibg5c2w",
-      "rank": 3,
-      "title": "Não esqueça que o BB não está do nosso lado",
-      "label": "Lembrete sobre o Banco do Brasil",
-      "context": "Um post no Bluesky afirma que o BB não está do nosso lado. A mensagem foi publicada em 2026-11-13.",
+      "rank": 4,
+      "title": "E sem esquecer que o BB não está do nosso lado também não hein",
+      "label": "Crítica ao posicionamento do BB",
+      "context": "Um post no Bluesky afirma que o BB não está do nosso lado. A mensagem funciona como alerta sobre a postura do banco.",
       "source": "bluesky",
       "subreddit": "bsky_ro",
       "permalink": "https://bsky.app/profile/zefloresta.bsky.social/post/3n273pibg5c2w",
       "createdAt": "2026-11-13T13:29:30.185000+00:00",
-      "rawScore": 0.1976682943756495,
-      "relevanceScore": 0.21963143819516612,
-      "suggestedRadius": 64.12,
+      "rawScore": 0.018834053324685154,
+      "relevanceScore": 0.02092672591631684,
+      "suggestedRadius": 44.68,
       "imageUrl": "assets/images/bsky_3n273pibg5c2w_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n273pibg5c2w_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -112,7 +202,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O aviso ajuda as pessoas a não depositarem confiança em uma instituição que não as representa.",
+          "text": "O Banco do Brasil tem priorizado outros interesses em vez de apoiar quem realmente precisa em momentos decisivos. Essa constatação reforça a necessidade de buscar alternativas que estejam mais alinhadas com as demandas populares.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -120,7 +210,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Afirmações genéricas como essa não mostram ações concretas do BB para sustentar a crítica.",
+          "text": "Atacar o BB dessa forma ignora que o banco opera dentro de regras e limites que afetam todas as instituições financeiras do país. Generalizar sua posição sem detalhes concretos enfraquece qualquer argumento.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -128,7 +218,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A posição do BB depende do assunto específico que está sendo discutido no momento.",
+          "text": "A frase reflete uma insatisfação pontual mas deixa claro que o BB segue diretrizes próprias como qualquer grande banco. Entender o contexto específico por trás dessa reclamação ajudaria a avaliar melhor a situação.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -139,19 +229,19 @@
     },
     {
       "id": "bsky_3n27gtuhaxc2o",
-      "rank": 4,
-      "title": "Mais um dia mais um pastor preso por pedófilia",
-      "label": "Prisão de pastor por pedofilia",
-      "context": "Um post no Bluesky relata a prisão de mais um pastor por pedofilia. A mensagem contrasta isso com a presença de mulheres trans em banheiros femininos.",
+      "rank": 5,
+      "title": "Mais um pastor preso por pedofilia nunca uma mulher trans em banheiro feminino",
+      "label": "Prisões de pastores por pedofilia",
+      "context": "Um post no Bluesky afirma que pastores são presos por pedofilia com frequência. Ele contrasta isso com a presença de mulheres trans em banheiros femininos.",
       "source": "bluesky",
       "subreddit": "bsky_ro",
       "permalink": "https://bsky.app/profile/lunna.bsky.social/post/3n27gtuhaxc2o",
       "createdAt": "2026-11-13T16:48:46.975000+00:00",
-      "rawScore": 0.18213895662385893,
-      "relevanceScore": 0.20237661847095437,
-      "suggestedRadius": 62.99,
-      "imageUrl": "assets/images/bsky_3n27gtuhaxc2o_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27gtuhaxc2o_wiki_thumb.jpg",
+      "rawScore": 0.017240854356130663,
+      "relevanceScore": 0.01915650484014518,
+      "suggestedRadius": 44.3,
+      "imageUrl": "assets/images/bsky_3n27gtuhaxc2o_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27gtuhaxc2o_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-ro",
       "sources": [
@@ -165,7 +255,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A prisão de pastores por crimes sexuais revela onde o risco real se concentra em vez de focar em mulheres trans.",
+          "text": "Dados sobre prisões de pastores por pedofilia indicam que o problema real está em líderes religiosos e não em banheiros.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -173,7 +263,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Usar prisões de pastores para atacar mulheres trans mistura dois assuntos sem conexão direta.",
+          "text": "Usar casos de pastores para atacar mulheres trans mistura dois assuntos sem conexão direta.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -181,7 +271,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Casos de abuso devem ser tratados individualmente independentemente da profissão ou identidade da pessoa.",
+          "text": "A notícia citada relata uma prisão específica de pastor mas não traz números gerais sobre o tema.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -192,17 +282,17 @@
     },
     {
       "id": "bsky_3n26vrrvkl42v",
-      "rank": 5,
-      "title": "hora do jogo da adivinhação! assinale qual estado teve um índice de alfabetização infantil superior a São Paulo no ano passado: A) Rondônia; B) Acre; C) Piauí;",
-      "label": "Quiz de alfabetização infantil por estado",
-      "context": "Um post faz um jogo da adivinhação sobre qual estado superou São Paulo em alfabetização infantil no ano passado, listando cinco opções. O comentário revela que todas as alternativas exceto Santa Catarina tiveram índices superiores, com São Paulo abaixo da média nacional.",
+      "rank": 6,
+      "title": "Qual estado teve índice de alfabetização infantil superior a São Paulo?",
+      "label": "Alfabetização infantil · Estados vs São Paulo",
+      "context": "Uma postagem propõe um quiz sobre qual estado superou São Paulo em alfabetização infantil no ano passado. Comentários revelam que todas as alternativas exceto Santa Catarina tiveram índices superiores, com São Paulo abaixo da média nacional.",
       "source": "bluesky",
       "subreddit": "bsky_ro",
       "permalink": "https://bsky.app/profile/corridadelesma.bsky.social/post/3n26vrrvkl42v",
       "createdAt": "2026-11-13T11:43:24.172000+00:00",
-      "rawScore": 0.05094519984563945,
-      "relevanceScore": 0.056605777606266054,
-      "suggestedRadius": 50.28,
+      "rawScore": 0.005930913477461039,
+      "relevanceScore": 0.006589903863845599,
+      "suggestedRadius": 40.87,
       "imageUrl": "assets/images/bsky_3n26vrrvkl42v_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n26vrrvkl42v_uns_thumb.jpg",
       "category": "geopolitica",
@@ -218,7 +308,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Vários estados com menos recursos superaram São Paulo na alfabetização infantil, indicando que o desempenho educacional pode avançar independentemente da riqueza estadual.",
+          "text": "Rondônia, Acre, Piauí e Alagoas mostram que estados com menos recursos podem alcançar melhores resultados em alfabetização infantil que São Paulo.",
           "source": "sintese",
           "evidence": [
             1
@@ -228,7 +318,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O estado mais rico do país registrou alfabetização infantil abaixo da média nacional, expondo uma falha clara na gestão educacional de São Paulo.",
+          "text": "São Paulo, o estado mais rico do país, ficou abaixo da média nacional em alfabetização infantil, o que expõe falhas graves na educação básica.",
           "source": "sintese",
           "evidence": [
             1
@@ -238,7 +328,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O quiz funciona como pegadinha porque Santa Catarina teve um dos piores resultados, enquanto as demais opções superaram São Paulo.",
+          "text": "Santa Catarina teve um dos piores desempenhos do país em alfabetização infantil, diferente das outras opções listadas no quiz.",
           "source": "sintese",
           "evidence": [
             1
@@ -251,17 +341,17 @@
     },
     {
       "id": "bsky_3n227xay6ec2l",
-      "rank": 6,
+      "rank": 7,
       "title": "Mineração na fronteira brasileira pode avançar sobre áreas protegidas em Rondônia",
-      "label": "Mineração avança em áreas protegidas de RO",
-      "context": "Uma reportagem indica que a mineração na fronteira brasileira pode avançar sobre áreas protegidas em Rondônia. Isso pode pressionar territórios em Mato Grosso.",
+      "label": "Mineração avança em áreas protegidas de Rondônia",
+      "context": "Uma reportagem indica que a mineração na fronteira brasileira pode avançar sobre áreas protegidas em Rondônia e pressionar territórios em Mato Grosso. A consequência direta é a pressão sobre territórios em Mato Grosso.",
       "source": "bluesky",
       "subreddit": "bsky_ro",
       "permalink": "https://bsky.app/profile/obsmineracao.bsky.social/post/3n227xay6ec2l",
       "createdAt": "2026-11-11T15:02:09.371000+00:00",
-      "rawScore": 0.009441556651053748,
-      "relevanceScore": 0.01049061850117083,
-      "suggestedRadius": 42.15,
+      "rawScore": 0.0036869033509590978,
+      "relevanceScore": 0.004096559278843442,
+      "suggestedRadius": 39.84,
       "imageUrl": "assets/images/bsky_3n227xay6ec2l_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n227xay6ec2l_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -277,7 +367,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O setor mineral vê na expansão em Rondônia uma chance de gerar empregos e renda em regiões de fronteira com baixo desenvolvimento.",
+          "text": "O setor mineral pode gerar empregos e desenvolvimento econômico em Rondônia com a expansão de projetos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -285,7 +375,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A possibilidade de mineração invadir áreas protegidas em Rondônia ameaça a preservação ambiental e os territórios vizinhos em Mato Grosso.",
+          "text": "Áreas protegidas em Rondônia ficam vulneráveis caso a mineração avance sem restrições claras.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -293,7 +383,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O relatório destaca a necessidade de avaliar os limites legais atuais antes de permitir qualquer avanço da mineração na região.",
+          "text": "A pressão sobre territórios em Mato Grosso depende das regras que forem aplicadas à mineração.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -304,10 +394,10 @@
     },
     {
       "id": "bsky_3n2bhjopqnk2a",
-      "rank": 7,
+      "rank": 8,
       "title": "Não tenho paciência com adulto chiliquento em aeroporto após desvio de voo",
-      "label": "Piti de passageiro em aeroporto por mau tempo",
-      "context": "Um passageiro relatou que seu voo RJ-MAO foi desviado para Porto Velho por mau tempo e viu um homem reclamando no aeroporto. O comentário observa que entender o estresse não justifica gritar com atendentes.",
+      "label": "Chilique de passageiro em aeroporto",
+      "context": "Um voo RJ-MAO foi desviado para Porto Velho por mau tempo e um homem deu piti no aeroporto. O autor do relato cortou o padrasto que começou a reclamar da situação.",
       "source": "bluesky",
       "subreddit": "bsky_ro",
       "permalink": "https://bsky.app/profile/kotsuki.bsky.social/post/3n2bhjopqnk2a",
@@ -330,15 +420,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Adultos que fazem cena em aeroportos por causa de mau tempo só aumentam o desconforto de todos sem mudar o voo ou o clima.",
+          "text": "Adultos que fazem cena em aeroportos por causa de mau tempo só aumentam o estresse alheio sem resolver nada.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O estresse de um voo desviado é compreensível, principalmente quando se viaja com crianças, e nem sempre significa chilique sem motivo.",
+          "text": "O estresse de quem viaja com crianças em voos desviados explica reações fortes mesmo sem mudar o resultado.",
           "source": "sintese",
           "evidence": [
             1
@@ -348,7 +440,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Gritar com atendentes não resolve o problema de um voo atrasado, mas o cansaço de desvios por tempo afeta qualquer passageiro.",
+          "text": "Gritar com atendentes não transforma ninguém em avião e não ajuda em nada na hora do problema.",
           "source": "sintese",
           "evidence": [
             1

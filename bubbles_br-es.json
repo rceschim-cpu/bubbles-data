@@ -1,21 +1,90 @@
 {
-  "generatedAt": "2026-11-17T07:33:11.304676+00:00",
+  "generatedAt": "2026-11-17T21:01:01.600127+00:00",
   "region": "br-es",
-  "count": 8,
+  "count": 6,
   "items": [
     {
-      "id": "bsky_3n2hrovpce222",
+      "id": "bsky_3n2j6ybgrz22y",
       "rank": 1,
-      "title": "Nos documentos da prefeitura está 'DA Serra' mas quem não é capixaba fala 'DE'",
-      "label": "Preposição 'da' ou 'de' para Serra",
-      "context": "Documentos da prefeitura registram 'DA Serra'. Pessoas que não são capixabas costumam dizer 'DE'.",
+      "title": "Isenção de IR até 5000 exige acordos e vantagens",
+      "label": "Isenção de IR e ciclo de acordos",
+      "context": "A isenção de IR até 5000 foi apresentada como grande vitória. Para alcançá-la foi preciso costurar acordos com concessões de vantagens.",
+      "source": "bluesky",
+      "subreddit": "bsky_es",
+      "permalink": "https://bsky.app/profile/jubtb.bsky.social/post/3n2j6ybgrz22y",
+      "createdAt": "2026-11-17T13:54:42.845000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n2j6ybgrz22y_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2j6ybgrz22y_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-es",
+      "sources": [
+        {
+          "title": "Lembrando que foi uma grande vitória a isenção de IR até 5000 e demais mudanças, mas viu a luta? Pra isso foi necessário costurar muitos acordos, e pra fazer acordos tem que oferecer vantagens. No final das contas estamos presos em um ciclo e reféns.",
+          "url": "https://bsky.app/profile/jubtb.bsky.social/post/3n2j6ybgrz22y",
+          "subreddit": "bsky_es"
+        },
+        {
+          "title": "AJUSTE FISCAL DO GOVERNO PODE TIRAR ATÉ R$ 20 BI DO SUS Saúde digna para todos exige avanços reais, mas primeira proposta de Lula depois da grande vitória envolve corte de bilhões. Como o PLP 299 mina o orçamento público? Quais as primeiras reações a ele? Mobilização conseguirá barrar retrocesso?",
+          "url": "https://bsky.app/profile/outrasaude.bsky.social/post/3n26qc5ljfk2l",
+          "subreddit": "bsky_es"
+        },
+        {
+          "title": "Uma grande vitória para as mães!",
+          "url": "https://bsky.app/profile/suzanaleao.bsky.social/post/3n23dylclj22f",
+          "subreddit": "bsky_es"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Imposto menor para quem trabalha é boa notícia, sem dúvida. O ciclo de acordos tem raiz no volume de recursos que o Estado distribui.",
+          "source": "sintese",
+          "evidence": [
+            6
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Não pode criticar o tesourasso e depois propor outro sem manter coerência nas posições.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A vitória não justificou as mobilizações de rua que ocorreram antes da aprovação.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2hrovpce222",
+      "rank": 2,
+      "title": "Nos documentos da prefeitura tá 'DA Serra' mas não capixabas falam 'DE'",
+      "label": "Preposição 'da' ou 'de' Serra",
+      "context": "Documentos da prefeitura registram 'DA Serra'. Pessoas que não são capixabas usam 'DE Serra'.",
       "source": "bluesky",
       "subreddit": "bsky_es",
       "permalink": "https://bsky.app/profile/guihth.bsky.social/post/3n2hrovpce222",
       "createdAt": "2026-11-17T00:24:10.852000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.722762651011006,
+      "relevanceScore": 0.7101988038025928,
+      "suggestedRadius": 86.56,
       "imageUrl": "assets/images/bsky_3n2hrovpce222_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2hrovpce222_uns_thumb.jpg",
       "category": "geopolitica",
@@ -36,7 +105,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Serra funciona como substantivo quando se refere à cidade, então 'de Serra' é a forma natural e correta.",
+          "text": "DE Serra é a forma certa porque Serra funciona como nome próprio, igual a de Cariacica ou de Vitória.",
           "source": "sintese",
           "evidence": [
             1
@@ -46,7 +115,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Os documentos oficiais da prefeitura usam 'DA Serra', o que indica que essa é a grafia esperada.",
+          "text": "Documentos oficiais da prefeitura usam DA Serra, mas isso contrasta com o que a maioria dos capixabas realmente fala.",
           "source": "sintese",
           "evidence": [
             2
@@ -56,77 +125,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Na prática quem mora em Cariacica ou Vitória já coloca 'da' automaticamente ao falar da cidade.",
+          "text": "Na minha cabeça já entra DA Serra quando penso na cidade, independentemente da regra gramatical.",
           "source": "sintese",
           "evidence": [
             4
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n26qc5ljfk2l",
-      "rank": 2,
-      "title": "Ajuste fiscal do governo pode tirar até R$ 20 bi do SUS",
-      "label": "PLP 299 corta verba do SUS",
-      "context": "O ajuste fiscal do governo pode retirar até R$ 20 bilhões do SUS via PLP 299. A proposta surge logo após a vitória eleitoral e afeta o orçamento da saúde pública.",
-      "source": "bluesky",
-      "subreddit": "bsky_es",
-      "permalink": "https://bsky.app/profile/outrasaude.bsky.social/post/3n26qc5ljfk2l",
-      "createdAt": "2026-11-13T10:05:11.477000+00:00",
-      "rawScore": 0.5513340402676904,
-      "relevanceScore": 0.7835268497564266,
-      "suggestedRadius": 89.11,
-      "imageUrl": "assets/images/bsky_3n26qc5ljfk2l_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n26qc5ljfk2l_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-es",
-      "sources": [
-        {
-          "title": "AJUSTE FISCAL DO GOVERNO PODE TIRAR ATÉ R$ 20 BI DO SUS Saúde digna para todos exige avanços reais, mas primeira proposta de Lula depois da grande vitória envolve corte de bilhões. Como o PLP 299 mina o orçamento público? Quais as primeiras reações a ele? Mobilização conseguirá barrar retrocesso?",
-          "url": "https://bsky.app/profile/outrasaude.bsky.social/post/3n26qc5ljfk2l",
-          "subreddit": "bsky_es"
-        },
-        {
-          "title": "Errado é o governo Lula não ter 200 decretos com essa grande vitória! Já tão querendo ser miguxo do centrão de novo ! Pelo amor !",
-          "url": "https://bsky.app/profile/avidago.bsky.social/post/3mzzqekmrw223",
-          "subreddit": "bsky_es"
-        },
-        {
-          "title": "Uma grande vitória para as mães!",
-          "url": "https://bsky.app/profile/suzanaleao.bsky.social/post/3n23dylclj22f",
-          "subreddit": "bsky_es"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O ajuste fiscal equilibra as contas públicas e evita problemas maiores no futuro mesmo com impacto no SUS.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Não pode criticar um corte e depois fazer outro igual no orçamento da saúde.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A mobilização nas ruas não foi motivada por esse tipo de proposta de corte.",
-          "source": "sintese",
-          "evidence": [
-            2
           ],
           "votes": 0
         }
@@ -139,14 +141,14 @@
       "rank": 3,
       "title": "Mais coisas belas da minha cidade, o Museu de Artes do Espírito Santo",
       "label": "Museu de Artes do Espírito Santo",
-      "context": "Uma postagem no Bluesky destaca o Museu de Artes do Espírito Santo como uma das coisas belas da cidade. O compartilhamento ocorreu em 14 de novembro de 2026.",
+      "context": "Uma postagem destacou o Museu de Artes do Espírito Santo como exemplo de coisas belas na cidade. O compartilhamento mostra atrações culturais locais.",
       "source": "bluesky",
       "subreddit": "bsky_es",
       "permalink": "https://bsky.app/profile/carolinagava.bsky.social/post/3n2cepibfn22f",
       "createdAt": "2026-11-14T20:48:50.352000+00:00",
-      "rawScore": 0.26730488826272447,
-      "relevanceScore": 0.36730488826272445,
-      "suggestedRadius": 72.36,
+      "rawScore": 0.38670692402067186,
+      "relevanceScore": 0.42011955065920553,
+      "suggestedRadius": 74.89,
       "imageUrl": "assets/images/bsky_3n2cepibfn22f_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2cepibfn22f_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -167,7 +169,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Museu de Artes do Espírito Santo merece ser mostrado porque representa uma parte bonita e acessível da cidade para quem mora lá.",
+          "text": "Compartilhar fotos de museus locais como o de Artes do Espírito Santo ajuda as pessoas a valorizarem o que existe perto de casa.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -175,7 +177,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Priorizar casamento como o maior objetivo da vida soa cafona quando existem outras coisas para desejar além disso.",
+          "text": "Focar só em casamento como o maior objetivo da vida soa cafona quando há tantas outras coisas para desejar, como visitar museus.",
           "source": "sintese",
           "evidence": [
             1
@@ -185,7 +187,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Casar é algo que muita gente quer mas planejar uma festa grande exige esforço que nem todo mundo tem vontade de fazer agora.",
+          "text": "É possível querer casar e ainda assim achar importante planejar outros momentos além do casamento.",
           "source": "sintese",
           "evidence": [
             1
@@ -199,16 +201,16 @@
     {
       "id": "bsky_3mzyki7fpbk2n",
       "rank": 4,
-      "title": "Mineiro encaixa muito bem em capixaba. Disponível na quinta no laranjinha",
-      "label": "Anúncio de perfil mineiro em capixaba",
-      "context": "Um post no Bluesky afirma que um mineiro encaixa muito bem em capixaba e está disponível na quinta no laranjinha. O anúncio inclui o link privacy.com.br/Profile/nerd.",
+      "title": "Mineiro encaixa muito bem em capixaba. Disponível na quinta no laranjinha 🔥",
+      "label": "Anúncio de disponibilidade pessoal",
+      "context": "Um post no Bluesky afirma que um mineiro encaixa bem em capixaba e está disponível na quinta no laranjinha. O texto direciona para o perfil privacy.com.br/Profile/nerd...",
       "source": "bluesky",
       "subreddit": "bsky_es",
       "permalink": "https://bsky.app/profile/agroboy31.bsky.social/post/3mzyki7fpbk2n",
       "createdAt": "2026-11-10T23:05:13.685000+00:00",
-      "rawScore": 0.25199537983657594,
-      "relevanceScore": 0.25199537983657594,
-      "suggestedRadius": 66.12,
+      "rawScore": 0.41026910346570394,
+      "relevanceScore": 0.3541393452418728,
+      "suggestedRadius": 71.71,
       "imageUrl": "assets/images/bsky_3mzyki7fpbk2n_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzyki7fpbk2n_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -224,7 +226,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O anúncio destaca que o mineiro se adapta bem ao ambiente capixaba e oferece disponibilidade imediata na quinta.",
+          "text": "O post oferece uma indicação direta de alguém disponível para encontro na região capixaba.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -232,7 +234,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Publicar esse tipo de anúncio direto no Bluesky expõe o perfil de forma muito explícita sem contexto adicional.",
+          "text": "Anúncios como esse em redes sociais costumam gerar desconfiança sobre a veracidade do perfil.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -240,117 +242,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post foca apenas na disponibilidade e no encaixe regional sem detalhar mais sobre o serviço oferecido.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzy2s4avkk2n",
-      "rank": 5,
-      "title": "Preparação para visita técnica ao parque Paulo Cesar Vinha mudou visão de aluno",
-      "label": "Estudo de parque altera visão sobre entorno",
-      "context": "Alunos do ensino fundamental estudaram por um mês o parque estadual Paulo Cesar Vinha e a reserva de Jacarenema para uma visita técnica. A visita não aconteceu, mas o estudo fez o aluno enxergar sua região de forma diferente.",
-      "source": "bluesky",
-      "subreddit": "bsky_es",
-      "permalink": "https://bsky.app/profile/dreeh.bsky.social/post/3mzy2s4avkk2n",
-      "createdAt": "2026-11-10T18:24:24.481000+00:00",
-      "rawScore": 0.092318326455764,
-      "relevanceScore": 0.092318326455764,
-      "suggestedRadius": 54.23,
-      "imageUrl": "assets/images/bsky_3mzy2s4avkk2n_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzy2s4avkk2n_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-es",
-      "sources": [
-        {
-          "title": "No ensino fundamental, na preparação para uma visita técnica ao parque estadual Paulo Cesar Vinha, passamos um mês estudando o parque e a reserva de Jacarenema, no fim a visita nunca aconteceu, no dia VV estava fazendo o que fazia de melhor, sendo a Veneza Capixaba, mas algo mudou pra mim",
-          "url": "https://bsky.app/profile/dreeh.bsky.social/post/3mzy2s4avkk2n",
-          "subreddit": "bsky_es"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Depois daquele mês de estudo passei a enxergar meu entorno com outros olhos, principalmente porque vivia numa região de extração de areia que causou a morte do biólogo que dá nome ao parque.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A visita técnica ao parque nunca ter acontecido impediu que o conhecimento adquirido em sala de aula fosse visto na prática pelos alunos.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Visitas técnicas boas são assim, pois conseguem mudar a forma como alguém percebe o lugar onde vive mesmo sem o passeio ocorrer.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzxyuyx45s2v",
-      "rank": 6,
-      "title": "Faço dessa luta uma grande vitoria todos os dias, Sertanejo? eca!",
-      "label": "Post sobre luta diária e vitória",
-      "context": "Um post no Bluesky em 10 de novembro de 2026 afirma fazer de uma luta uma grande vitória todos os dias. A frase inclui a exclamação 'Sertanejo? eca!'.",
-      "source": "bluesky",
-      "subreddit": "bsky_es",
-      "permalink": "https://bsky.app/profile/dabeeshoo.bsky.social/post/3mzxyuyx45s2v",
-      "createdAt": "2026-11-10T17:50:15.878000+00:00",
-      "rawScore": 0.05596254487295553,
-      "relevanceScore": 0.05596254487295553,
-      "suggestedRadius": 50.19,
-      "imageUrl": "assets/images/bsky_3mzxyuyx45s2v_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3mzxyuyx45s2v_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-es",
-      "sources": [
-        {
-          "title": "Faço dessa luta uma grande vitoria todos os dias, Sertanejo? eca!",
-          "url": "https://bsky.app/profile/dabeeshoo.bsky.social/post/3mzxyuyx45s2v",
-          "subreddit": "bsky_es"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Transformar lutas em vitórias diárias mostra determinação real para enfrentar desafios sem desistir.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A rejeição expressa com 'Sertanejo? eca!' soa desnecessária e enfraquece a mensagem principal.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A frase mistura motivação pessoal com uma reação específica que depende do contexto para ser entendida.",
+          "text": "A mensagem foca apenas na compatibilidade regional e na data específica de disponibilidade.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -361,17 +253,17 @@
     },
     {
       "id": "bsky_3n223ysne6226",
-      "rank": 7,
+      "rank": 5,
       "title": "Com gol nos acréscimos, Botafogo vence Flamengo no Niltão pela Copa Rio Sub-15",
       "label": "Botafogo vence Flamengo nos acréscimos",
-      "context": "Botafogo marcou nos acréscimos e venceu o Flamengo no Niltão pela Copa Rio Sub-15. O resultado foi definido no final da partida entre as equipes sub-15.",
+      "context": "Botafogo marcou um gol nos acréscimos e venceu o Flamengo no Niltão pela Copa Rio Sub-15. O resultado define o desfecho da partida entre as equipes da categoria sub-15.",
       "source": "bluesky",
       "subreddit": "bsky_es",
       "permalink": "https://bsky.app/profile/fogaonet.bsky.social/post/3n223ysne6226",
       "createdAt": "2026-11-11T13:51:25.684000+00:00",
-      "rawScore": 0.020801696122860702,
-      "relevanceScore": 0.020801696122860702,
-      "suggestedRadius": 44.65,
+      "rawScore": 0.0338391948908607,
+      "relevanceScore": 0.029209585174534862,
+      "suggestedRadius": 46.25,
       "imageUrl": "assets/images/bsky_3n223ysne6226_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n223ysne6226_reddit_thumb.jpg",
       "category": "esportes",
@@ -387,7 +279,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Botafogo mostrou determinação ao marcar nos acréscimos e conquistar a vitória contra o Flamengo na Copa Rio Sub-15.",
+          "text": "Botafogo demonstrou garra ao virar o placar com o gol nos acréscimos contra o Flamengo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -395,7 +287,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Flamengo deixou a vitória escapar ao sofrer o gol nos minutos finais contra o Botafogo na categoria sub-15.",
+          "text": "O Flamengo deixou escapar a vitória ao não segurar a defesa até o fim da partida.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -403,7 +295,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O placar final reflete apenas o que aconteceu em campo entre as duas equipes juvenis no Niltão.",
+          "text": "Gols nos acréscimos mudam o rumo de jogos da Copa Rio Sub-15 com frequência.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -414,10 +306,10 @@
     },
     {
       "id": "bsky_3n22mctmmnk2m",
-      "rank": 8,
-      "title": "Capixaba diz que Contarato se apresentou como delegado na campanha",
+      "rank": 6,
+      "title": "Contarato se apresentou como delegado e conservadores viram bancada da bala",
       "label": "Contarato como delegado na campanha",
-      "context": "O post afirma que Contarato era delegado e se apresentou como tal na campanha. Isso bastou para o conservador médio achar que ele integraria a bancada da bala.",
+      "context": "Um capixaba que votou em Contarato há oito anos afirma que ele é delegado e se apresentou assim na campanha. Isso bastou para o conservador médio associá-lo à bancada da bala.",
       "source": "bluesky",
       "subreddit": "bsky_es",
       "permalink": "https://bsky.app/profile/theoniros.bsky.social/post/3n22mctmmnk2m",
@@ -440,10 +332,9 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Contarato casado com homem e eleito pela REDE conseguiu passar como opção conservadora só por se apresentar como delegado.",
+          "text": "A história de um gay eleito pela REDE enganando a direita conservadora é satisfatória para quem observa o resultado eleitoral.",
           "source": "sintese",
           "evidence": [
-            1,
             3
           ],
           "votes": 0
@@ -451,7 +342,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O eleitor médio não pesquisa e por isso acreditou que Contarato fosse da bancada da bala apesar de ele ter concorrido pela REDE.",
+          "text": "O eleitor médio não pesquisa e por isso acreditou que Contarato fosse do PSDB ou da bancada da bala quando ele concorreu pela REDE.",
           "source": "sintese",
           "evidence": [
             2
@@ -461,7 +352,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A filiação ao PT pesou contra Contarato no Espírito Santo e contribuiu para ele não se reeleger ao Senado.",
+          "text": "Contarato é casado com homem, tem filhos e se elegeu pela REDE, mas a filiação ao PT pesou contra sua reeleição por causa do anti-petismo.",
           "source": "sintese",
           "evidence": [
             1

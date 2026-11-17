@@ -1,21 +1,248 @@
 {
-  "generatedAt": "2026-11-17T07:33:11.304676+00:00",
+  "generatedAt": "2026-11-17T21:01:01.600127+00:00",
   "region": "br-pe",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n2h5rnohrs2u",
+      "id": "bsky_3n2jldvoxl22d",
       "rank": 1,
-      "title": "A eterna voz do frevo Claudionor Germano, por Urariano Mota",
-      "label": "Claudionor Germano e o frevo pernambucano",
-      "context": "Claudionor Germano compôs a trilha sonora de todos os carnavais de Pernambuco. Ele é figura respeitada no Carnaval Pernambucano com discografia admirável.",
+      "title": "Comentários em post de Jones sobre solidariedade a família de jovem assassinada em Recife",
+      "label": "Comentários sobre post de Jones em Recife",
+      "context": "Jones prestou solidariedade à família de jovem negra e periférica assassinada em Recife. Um comentário menciona cobrança por provas de racismo sofrido por Jones nesse rolê.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/kayyf.bsky.social/post/3n2jldvoxl22d",
+      "createdAt": "2026-11-17T17:36:00.059000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n2jldvoxl22d_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2jldvoxl22d_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "Comentários em um post de Jones prestando solidariedade à familia de jovem, negra e periférica, assassinada em Recife. Tudo muito dentro do tom.",
+          "url": "https://bsky.app/profile/kayyf.bsky.social/post/3n2jldvoxl22d",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Jones agiu certo ao prestar solidariedade à família sem precisar provar nada sobre si mesmo.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Cobrar provas de racismo de Jones nesse caso só desvia o foco da vítima e da família.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A exigência de provas por parte de alguns usuários revela como o debate sobre racismo se desenrola nessa rede.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2jt6qbzx22k",
+      "rank": 2,
+      "title": "Passada que em Recife também tem Bom Pastor",
+      "label": "Bairro Bom Pastor em Recife",
+      "context": "Uma postagem afirma que Recife também tem um Bom Pastor. Comentários identificam o local como bairro e citam similaridade com Natal, onde há presença de facções.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/1996crash.bsky.social/post/3n2jt6qbzx22k",
+      "createdAt": "2026-11-17T19:56:13.851000+00:00",
+      "rawScore": 0.7743413711527619,
+      "relevanceScore": 0.8603793012808465,
+      "suggestedRadius": 91.65,
+      "imageUrl": "assets/images/bsky_3n2jt6qbzx22k_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2jt6qbzx22k_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "passada que em recife também tem bom pastor",
+          "url": "https://bsky.app/profile/1996crash.bsky.social/post/3n2jt6qbzx22k",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A descoberta de que Recife também tem um Bom Pastor esclareceu bastante quem leu a postagem e não fazia ideia da existência desse bairro.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O bairro Bom Pastor em Natal enfrenta problemas reais com a presença de facções, o que pode se repetir em outros lugares com o mesmo nome.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Bom Pastor é simplesmente o nome de um bairro tanto em Recife quanto em Natal, sem maiores implicações além da coincidência geográfica.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2jwvk5mfc2a",
+      "rank": 3,
+      "title": "Compartilhei sem morar em Pernambuco pois você não manda em mim",
+      "label": "Postagem desafiando regra de Pernambuco",
+      "context": "Uma postagem afirma ter compartilhado conteúdo sem morar em Pernambuco. A justificativa é que ninguém manda na pessoa.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/letylicious.bsky.social/post/3n2jwvk5mfc2a",
+      "createdAt": "2026-11-17T21:02:40.942000+00:00",
+      "rawScore": 0.6737191558972134,
+      "relevanceScore": 0.7485768398857927,
+      "suggestedRadius": 87.91,
+      "imageUrl": "assets/images/bsky_3n2jwvk5mfc2a_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2jwvk5mfc2a_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "Compartilhei sem morar em Pernambuco pois você não manda em mim",
+          "url": "https://bsky.app/profile/letylicious.bsky.social/post/3n2jwvk5mfc2a",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A postagem mostra que é possível compartilhar ideias livremente sem precisar residir em Pernambuco, reforçando que decisões pessoais não dependem de ordens externas.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Compartilhar sem morar em Pernambuco desconsidera possíveis regras locais que visam garantir que apenas residentes participem de certos debates ou conteúdos.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A frase da postagem indica uma recusa direta a qualquer tentativa de controle, mas deixa claro que o contexto da regra original não foi detalhado.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2jkptbcts2q",
+      "rank": 4,
+      "title": "Tentei fazer feirinhas em Recife por anos mas ninguém ajuda",
+      "label": "Desistência de feirinhas em Recife",
+      "context": "Uma pessoa passou anos tentando organizar feirinhas em Recife. Todos querem participar mas ninguém ajuda na organização, levando à desistência.",
+      "source": "bluesky",
+      "subreddit": "bsky_pe",
+      "permalink": "https://bsky.app/profile/137magdiel.bsky.social/post/3n2jkptbcts2q",
+      "createdAt": "2026-11-17T17:24:44.654000+00:00",
+      "rawScore": 0.41215481841664536,
+      "relevanceScore": 0.5690609093518282,
+      "suggestedRadius": 81.26,
+      "imageUrl": "assets/images/bsky_3n2jkptbcts2q_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2jkptbcts2q_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pe",
+      "sources": [
+        {
+          "title": "Passei muitos anos tentando fazer feirinhas em Recife, e é uma merda pq todo mundo quer participar, mas ninguém quer ajudar a fazer. Porisso cansei e não quero mais",
+          "url": "https://bsky.app/profile/137magdiel.bsky.social/post/3n2jkptbcts2q",
+          "subreddit": "bsky_pe"
+        },
+        {
+          "title": "Uai, mas vc assistiu o filme de olho fechado? Hahaha. Mas falando sério, sou mineiro e morei uns anos em Recife, quando mudei pra lá fiquei impressionado com a cidade, foram tantos preconceitos que foram quebrados na época.",
+          "url": "https://bsky.app/profile/gabrielpm.bsky.social/post/3n2dxowdje22l",
+          "subreddit": "bsky_pe"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Feirinhas em Recife podem dar certo quando as pessoas se comprometem a dividir o trabalho de organização desde o começo.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A experiência mostra que é impossível manter feirinhas em Recife porque a maioria só aparece para participar e nunca ajuda.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O problema pode estar na forma como a organização é proposta, e não necessariamente na falta de interesse das pessoas.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2h5rnohrs2u",
+      "rank": 5,
+      "title": "A eterna voz do frevo Claudionor Germano por Urariano Mota",
+      "label": "Claudionor Germano voz do frevo pernambucano",
+      "context": "Urariano Mota afirma que Claudionor Germano compôs a trilha sonora de todos os carnavais de Pernambuco. O artista é lembrado por sua contribuição ao frevo no estado.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
       "permalink": "https://bsky.app/profile/luisnassif.bsky.social/post/3n2h5rnohrs2u",
       "createdAt": "2026-11-16T18:29:04.748000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.19507724866801326,
+      "relevanceScore": 0.21675249852001474,
+      "suggestedRadius": 63.93,
       "imageUrl": "assets/images/bsky_3n2h5rnohrs2u_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2h5rnohrs2u_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -31,7 +258,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Claudionor Germano é um artista pernambucano de qualidade comprovada que marcou todos os carnavais com sua discografia.",
+          "text": "Claudionor Germano é uma figura absolutamente respeitada no Carnaval Pernambucano com discografia admirável e qualidade comprovada.",
           "source": "sintese",
           "evidence": [
             1
@@ -41,7 +268,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A afirmação de que ele compôs a trilha de todos os carnavais pode exagerar o alcance real de sua obra.",
+          "text": "O reconhecimento a Claudionor Germano permanece restrito ao ambiente do Carnaval Pernambucano sem maior projeção nacional.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -49,11 +276,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Claudionor Germano permanece lembrado principalmente por sua contribuição ao frevo em Pernambuco.",
+          "text": "A importância de Claudionor Germano depende do quanto se valoriza a tradição do frevo em Pernambuco.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -62,17 +287,17 @@
     },
     {
       "id": "bsky_3n2hiwdnnws23",
-      "rank": 2,
-      "title": "Ele passou a campanha falando de LGBTQIAPN+ em Pernambuco e tinha equipe queer",
-      "label": "Defesa de candidato contra rótulo LGBTfóbico",
-      "context": "Um post afirma que o candidato falou de pessoas LGBTQIAPN+ em todos os lugares de Pernambuco durante a campanha e mantinha pessoas queer na equipe. A ideia de que ele seria LGBTfóbico é apresentada como mal fundamentada.",
+      "rank": 6,
+      "title": "Ideia dele como LGBTfóbico é mal fundamentada após campanha em Pernambuco",
+      "label": "Campanha em Pernambuco com equipe queer",
+      "context": "Durante a campanha em Pernambuco ele falou de pessoas LGBTQIAPN+ em vários lugares e manteve pessoas queer na equipe. A acusação de LGBTfobia contra ele é considerada mal fundamentada.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
       "permalink": "https://bsky.app/profile/quimerafalante.bsky.social/post/3n2hiwdnnws23",
       "createdAt": "2026-11-16T21:47:17.645000+00:00",
-      "rawScore": 0.8472562312435301,
-      "relevanceScore": 0.9413958124928112,
-      "suggestedRadius": 94.22,
+      "rawScore": 0.16512722552921116,
+      "relevanceScore": 0.18347469503245684,
+      "suggestedRadius": 61.7,
       "imageUrl": "assets/images/bsky_3n2hiwdnnws23_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2hiwdnnws23_uns_thumb.jpg",
       "category": "geopolitica",
@@ -88,7 +313,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A campanha do candidato incluiu falas sobre pessoas LGBTQIAPN+ em Pernambuco e contava com membros queer na equipe, o que enfraquece a acusação de LGBTfobia.",
+          "text": "A campanha em Pernambuco incluiu falas constantes sobre pessoas LGBTQIAPN+ e contava com pessoas queer na equipe, o que enfraquece a acusação de LGBTfobia.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -96,7 +321,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Mesmo com falas na campanha, o histórico do candidato em Pernambuco ainda pode sustentar críticas de LGBTfobia para quem acompanha o tema.",
+          "text": "Mesmo com falas sobre o tema, a presença de pessoas queer na equipe não prova ausência de LGBTfobia em outras ações do candidato.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -104,7 +329,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Os comentários esclarecem que a discussão se refere a Paulo Galo e não a outra pessoa citada anteriormente.",
+          "text": "O debate gira em torno de quem exatamente está sendo citado, se Paulo Galo ou outra pessoa, antes de avaliar a acusação.",
           "source": "sintese",
           "evidence": [
             1,
@@ -118,17 +343,17 @@
     },
     {
       "id": "bsky_3n2gx6kuxoc2r",
-      "rank": 3,
-      "title": "Caso grave é cuidado pela Corregedoria do MP de Pernambuco",
-      "label": "Investigação no MP de Pernambuco",
-      "context": "O caso grave está sendo cuidado pela Corregedoria do MP de Pernambuco. A promotora afirmou que a publicação foi feita por terceiros sem sua autorização.",
+      "rank": 7,
+      "title": "O caso é grave e já está sendo cuidado pela Corregedoria do MP de Pernambuco",
+      "label": "Caso grave no MP de Pernambuco",
+      "context": "Um caso grave está sendo tratado pela Corregedoria do MP de Pernambuco. A promotora afirmou que não autorizou a publicação feita por terceiros.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
       "permalink": "https://bsky.app/profile/janiceascari.bsky.social/post/3n2gx6kuxoc2r",
       "createdAt": "2026-11-16T16:29:43.855000+00:00",
-      "rawScore": 0.7141391197234866,
-      "relevanceScore": 0.793487910803874,
-      "suggestedRadius": 89.45,
+      "rawScore": 0.1551819274298177,
+      "relevanceScore": 0.17242436381090856,
+      "suggestedRadius": 60.91,
       "imageUrl": "assets/images/bsky_3n2gx6kuxoc2r_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2gx6kuxoc2r_uns_thumb.jpg",
       "category": "geopolitica",
@@ -144,7 +369,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Corregedoria do MP de Pernambuco já cuida do caso grave, o que demonstra que o órgão age com rapidez quando há irregularidades.",
+          "text": "A Corregedoria do MP de Pernambuco demonstra responsabilidade ao assumir o caso grave desde o início e conduzir as apurações necessárias.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -152,7 +377,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A promotora nega autorização para a publicação, mas o fato de o caso chegar à Corregedoria indica que algo saiu do controle interno.",
+          "text": "A alegação da promotora de não autorizar a publicação perde força porque o post é público em seu perfil de rede social.",
           "source": "sintese",
           "evidence": [
             1
@@ -162,7 +387,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A declaração da promotora sobre postagens de terceiros precisa ser verificada pela Corregedoria antes de qualquer conclusão.",
+          "text": "Posts em perfis públicos de redes sociais podem ser compartilhados por qualquer pessoa sem necessidade de autorização prévia.",
           "source": "sintese",
           "evidence": [
             1
@@ -175,17 +400,17 @@
     },
     {
       "id": "bsky_3n2ggogegrc2s",
-      "rank": 4,
-      "title": "Procura sobre a Delikata também, Rick! Empresa de Recife testa 4x3 há meses.",
-      "label": "Delikata testa 4x3 em Recife",
-      "context": "Uma empresa chamada Delikata em Recife está testando a jornada 4x3 há alguns meses. O comentário mostra que outras pessoas também notaram essa iniciativa.",
+      "rank": 8,
+      "title": "Procura sobre a Delikata també, Rick! Empresa de Recife testa 4x3 há meses",
+      "label": "Delikata testa jornada 4x3 em Recife",
+      "context": "A empresa Delikata, localizada em Recife, está testando a jornada 4x3 há alguns meses. Usuários online mencionam o caso como exemplo de modelo alternativo de trabalho.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
       "permalink": "https://bsky.app/profile/nathalemulatinho.bsky.social/post/3n2ggogegrc2s",
       "createdAt": "2026-11-16T11:34:23.349000+00:00",
-      "rawScore": 0.6129025655936025,
-      "relevanceScore": 0.6810028506595582,
-      "suggestedRadius": 85.51,
+      "rawScore": 0.1432603416997373,
+      "relevanceScore": 0.15917815744415256,
+      "suggestedRadius": 59.94,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -201,7 +426,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Delikata serve como exemplo concreto de que empresas locais em Recife já conseguem aplicar a jornada 4x3 com sucesso há meses.",
+          "text": "A Delikata mostra que empresas locais podem implementar a jornada 4x3 sem dificuldade aparente.",
           "source": "sintese",
           "evidence": [
             1
@@ -211,7 +436,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Mencionar apenas uma empresa testando 4x3 não prova que o modelo seja viável ou sustentável para a maioria dos negócios.",
+          "text": "Ainda falta saber como a 4x3 funciona na prática dentro da Delikata.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -219,7 +444,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A Delikata aparece como mais um caso de empresa brasileira experimentando a 4x3, mas ainda faltam detalhes sobre os resultados.",
+          "text": "O comentário sobre a Delikata surgiu porque o tema da jornada 4x3 está circulando.",
           "source": "sintese",
           "evidence": [
             1
@@ -232,17 +457,17 @@
     },
     {
       "id": "bsky_3n2gncft5hk2t",
-      "rank": 5,
+      "rank": 9,
       "title": "Pedro Alcântara dirigente do PT em Pernambuco",
       "label": "Dirigente do PT em Pernambuco",
-      "context": "Pedro Alcântara é dirigente do PT em Pernambuco. O partido é acusado de falir os Correios e agora o BB.",
+      "context": "Pedro Alcântara é dirigente do PT em Pernambuco. Comentários citam que o partido agora apresenta o Agro do Master depois de falir os Correios e afetar o BB.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
       "permalink": "https://bsky.app/profile/lumendes.bsky.social/post/3n2gncft5hk2t",
       "createdAt": "2026-11-16T13:32:55.258000+00:00",
-      "rawScore": 0.5985437585271194,
-      "relevanceScore": 0.6650486205856881,
-      "suggestedRadius": 84.93,
+      "rawScore": 0.13403940793442842,
+      "relevanceScore": 0.14893267548269826,
+      "suggestedRadius": 59.16,
       "imageUrl": "assets/images/bsky_3n2gncft5hk2t_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2gncft5hk2t_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -258,7 +483,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Pedro Alcântara representa uma liderança regional que o PT mantém ativa em Pernambuco.",
+          "text": "Pedro Alcântara representa uma renovação na liderança do PT em Pernambuco com foco em novas iniciativas como o Agro do Master.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -266,7 +491,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Depois de falir os Correios, o PT agora afeta o BB com suas escolhas de dirigentes.",
+          "text": "O PT continua sua trajetória de prejudicar instituições públicas ao falir os Correios e agora impactar o BB.",
           "source": "sintese",
           "evidence": [
             2
@@ -276,7 +501,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Mesmo se o Lula falar, membros do PT têm dificuldade em fazer autocritica.",
+          "text": "Mesmo que Lula intervenha, membros do PT têm dificuldade para fazer autocritica e mudar de posição.",
           "source": "sintese",
           "evidence": [
             1
@@ -288,124 +513,18 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2hlavnolk2g",
-      "rank": 6,
-      "title": "Agência Brasil publica notícia sobre cultura",
-      "label": "Notícia cultural da Agência Brasil",
-      "context": "A Agência Brasil publicou uma notícia sobre cultura em 16 de novembro de 2026. O post apareceu no Bluesky.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/arlindars.bsky.social/post/3n2hlavnolk2g",
-      "createdAt": "2026-11-16T22:29:01.245000+00:00",
-      "rawScore": 0.5516462342184343,
-      "relevanceScore": 0.6129402602427048,
-      "suggestedRadius": 82.97,
-      "imageUrl": "assets/images/bsky_3n2hlavnolk2g_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2hlavnolk2g_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "agenciabrasil.ebc.com.br/cultura/noti...",
-          "url": "https://bsky.app/profile/arlindars.bsky.social/post/3n2hlavnolk2g",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A notícia da Agência Brasil amplia o acesso a informações culturais para o público geral.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A publicação não oferece detalhes suficientes sobre o conteúdo da notícia.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Trata-se de um link padrão da agência sem contexto adicional disponível.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2fbjn2e4s23",
-      "rank": 7,
-      "title": "Vocês sabiam que trabalhadores da cultura não receberam cachê do São João em Pernambuco?",
-      "label": "Atraso no cachê do São João em Pernambuco",
-      "context": "Trabalhadores da cultura ainda não receberam o cachê do São João em Pernambuco. A informação foi compartilhada em novembro de 2026.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/sofmolas.bsky.social/post/3n2fbjn2e4s23",
-      "createdAt": "2026-11-16T00:29:33.949000+00:00",
-      "rawScore": 0.48619954818473554,
-      "relevanceScore": 0.5402217202052617,
-      "suggestedRadius": 80.1,
-      "imageUrl": "assets/images/bsky_3n2fbjn2e4s23_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2fbjn2e4s23_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "vcs sabiam q os trabalhadores da cultura ainda não receberam o cache do SÃO JOÃO em pernambuco?",
-          "url": "https://bsky.app/profile/sofmolas.bsky.social/post/3n2fbjn2e4s23",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Os trabalhadores da cultura em Pernambuco precisam receber o cachê do São João o quanto antes para honrar o trabalho realizado nos eventos.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O atraso no pagamento do cachê do São João mostra falta de prioridade com os profissionais da cultura em Pernambuco.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O pagamento pendente do cachê do São João em Pernambuco depende de quando os recursos serão liberados para os trabalhadores.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3n2doijdjtk2d",
-      "rank": 8,
+      "rank": 10,
       "title": "Agente secreto se passa em Pernambuco no período da ditadura",
-      "label": "Filme ambientado em Pernambuco na ditadura",
-      "context": "Um filme retrata um agente secreto em Pernambuco durante a ditadura. A produção destaca uma cidade mais evoluída que nas novelas atuais.",
+      "label": "Série Agente secreto em Pernambuco",
+      "context": "A produção Agente secreto tem Pernambuco como cenário durante a ditadura. Comentários destacam a representação de uma cidade mais evoluída que em novelas atuais.",
       "source": "bluesky",
       "subreddit": "bsky_pe",
       "permalink": "https://bsky.app/profile/eubetina.bsky.social/post/3n2doijdjtk2d",
       "createdAt": "2026-11-15T09:16:16.045000+00:00",
-      "rawScore": 0.4617342460761422,
-      "relevanceScore": 0.5130380511957136,
-      "suggestedRadius": 78.98,
+      "rawScore": 0.13059880473563681,
+      "relevanceScore": 0.14510978303959646,
+      "suggestedRadius": 58.86,
       "imageUrl": "assets/images/bsky_3n2doijdjtk2d_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2doijdjtk2d_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -421,7 +540,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O filme mostra Pernambuco com uma cidade mais desenvolvida do que as novelas atuais costumam apresentar para aquela época.",
+          "text": "A série mostra uma Pernambuco mais avançada do que as novelas atuais costumam apresentar, o que valoriza a época retratada.",
           "source": "sintese",
           "evidence": [
             1
@@ -431,7 +550,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A história se passa numa era sem tecnologia e isso limita bastante o que o filme consegue mostrar.",
+          "text": "A história se passa em uma era sem tecnologia, o que limita as possibilidades de enredo e torna o cenário menos dinâmico.",
           "source": "sintese",
           "evidence": [
             2
@@ -441,123 +560,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O filme deixa bem claro e em destaque que a história acontece em Pernambuco no período da ditadura.",
+          "text": "O filme menciona de forma bem explícita que a trama se desenvolve em Pernambuco na ditadura, reforçando o contexto histórico.",
           "source": "sintese",
           "evidence": [
             3
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2fhbb7brc2a",
-      "rank": 9,
-      "title": "Tremor de terra de 2,5 graus na Escala Richter atinge Caruaru, em Pernambuco",
-      "label": "Tremor de 2,5 graus em Caruaru",
-      "context": "Um tremor de 2,5 graus na Escala Richter atingiu Caruaru, em Pernambuco. Apesar de relatos de susto, não houve danos ou feridos.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/reporterenato.bsky.social/post/3n2fhbb7brc2a",
-      "createdAt": "2026-11-16T02:12:15.242000+00:00",
-      "rawScore": 0.3761529948043927,
-      "relevanceScore": 0.41794777200488076,
-      "suggestedRadius": 74.79,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "Tremor de terra de 2,5 graus na Escala Richter atinge Caruaru, em Pernambuco. Apesar de relatos de susto, não houve danos ou feridos.",
-          "url": "https://bsky.app/profile/reporterenato.bsky.social/post/3n2fhbb7brc2a",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A ausência de danos ou feridos após o tremor em Caruaru mostra que a intensidade foi baixa o suficiente para não afetar estruturas ou colocar pessoas em risco.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Mesmo sem consequências materiais, o susto relatado por moradores indica que eventos sísmicos geram alarme desnecessário em áreas pouco preparadas para eles.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Relatos de susto são comuns em tremores de pequena magnitude como esse, independentemente de haver ou não danos visíveis nas construções.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2gcz2zmx22g",
-      "rank": 10,
-      "title": "Vendo bom dia pernambuco depois de 5 meses",
-      "label": "Retorno ao Bom Dia Pernambuco",
-      "context": "Uma usuária relata assistir ao Bom Dia Pernambuco após cinco meses. Comentários destacam a apresentadora Bianka Carvalho em reportagens matinais.",
-      "source": "bluesky",
-      "subreddit": "bsky_pe",
-      "permalink": "https://bsky.app/profile/joulee.bsky.social/post/3n2gcz2zmx22g",
-      "createdAt": "2026-11-16T10:28:44.847000+00:00",
-      "rawScore": 0.33713346010801554,
-      "relevanceScore": 0.3745927334533506,
-      "suggestedRadius": 72.72,
-      "imageUrl": "assets/images/bsky_3n2gcz2zmx22g_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2gcz2zmx22g_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pe",
-      "sources": [
-        {
-          "title": "Vendo bom dia pernambuco depois de 5 meses",
-          "url": "https://bsky.app/profile/joulee.bsky.social/post/3n2gcz2zmx22g",
-          "subreddit": "bsky_pe"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Bianka Carvalho aparece em reportagens e faz muita falta quando não é vista todo dia no programa.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A pausa de cinco meses no Bom Dia Pernambuco gerou saudade e interrompeu o hábito de acompanhar as reportagens.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Acordar cedo permite ver o Hora 1 com Bianka Carvalho, mas nem sempre é possível manter essa rotina.",
-          "source": "sintese",
-          "evidence": [
-            1
           ],
           "votes": 0
         }
