@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-16T21:53:04.857925+00:00",
+  "generatedAt": "2026-11-17T07:33:11.304676+00:00",
   "region": "br-sc",
   "count": 10,
   "items": [
     {
       "id": "bsky_3n2hb22e2ek26",
       "rank": 1,
-      "title": "Cancellier não se suicidou; foi suicidado",
-      "label": "Morte de Cancellier após prisão",
-      "context": "Cancellier foi preso em 14 de setembro sem ser ouvido sobre as acusações e passou 30 horas em cela com criminosos em Santa Catarina. Ele morreu após o encarceramento, com alegações de que não se tratou de suicídio.",
+      "title": "Cancellier não se suicidou; foi suicidado após prisão em Santa Catarina",
+      "label": "Morte de Cancellier em cela",
+      "context": "Cancellier foi preso em 14 de setembro sem ser ouvido sobre as acusações e passou 30 horas em cela com os piores bandidos de Santa Catarina, em situação vexatória. Ele morreu após esse período, com relatos de que o suicídio foi induzido.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/hiltonbastos.bsky.social/post/3n2hb22e2ek26",
@@ -41,81 +41,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Cancellier foi assassinado nas condições da prisão, como ocorreu com Vlado Herzog em 1975, e esse crime precisa ser investigado até o fim.",
+          "text": "Cancellier foi assassinado nas condições da prisão, como no caso de Vlado Herzog, e esse crime não pode ficar impune.",
           "source": "sintese",
           "evidence": [
-            5
+            2
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Santa Catarina elegeu governadores mentirosos e tem o maior número de prefeitos presos do Brasil, o que reflete falhas graves no estado.",
-          "source": "sintese",
-          "evidence": [
-            3,
-            4
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Santa Catarina elegeu deputados de esquerda nas últimas votações, com crescimento em relação ao período anterior, ao contrário do que alguns afirmam.",
-          "source": "sintese",
-          "evidence": [
-            6,
-            12
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2he7swloc2o",
-      "rank": 2,
-      "title": "Reitor preso, humilhado e banido da UFSC se joga de shopping em Florianópolis",
-      "label": "Suicídio de reitor após prisão e banimento",
-      "context": "O reitor foi levado para um presídio, despido, humilhado e proibido de frequentar a UFSC. Dezoito dias após a prisão, ele subiu até o sétimo andar de um shopping em Florianópolis e se jogou.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/hiltonbastos.bsky.social/post/3n2he7swloc2o",
-      "createdAt": "2026-11-16T20:27:17.043000+00:00",
-      "rawScore": 0.6730427093307374,
-      "relevanceScore": 0.6086739723086408,
-      "suggestedRadius": 82.81,
-      "imageUrl": "assets/images/bsky_3n2he7swloc2o_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2he7swloc2o_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "[...] O reitor foi levado para um presídio, despido, humilhado e proibido de frequentar a UFSC. Dezoito dias após a prisão, o reitor subiu até o sétimo andar de um shopping center em Florianópolis, e se jogou. Deixou um bilhete: “A minha morte foi decretada quando fui banido da universidade!!!”",
-          "url": "https://bsky.app/profile/hiltonbastos.bsky.social/post/3n2he7swloc2o",
-          "subreddit": "bsky_sc"
-        },
-        {
-          "title": "a ala rica da minha família q mora em florianópolis veio pra são paulo esses dias e minha mãe foi surpreendida com o convite de jantar no outback do shopping morumbi. eu fiquei horrorizada",
-          "url": "https://bsky.app/profile/acabracho.bsky.social/post/3n2bse3m3is2e",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O bilhete deixado pelo reitor mostra que o banimento da universidade foi o fator decisivo que levou ao desfecho.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O tratamento de prisão com humilhação e proibição de acesso à UFSC contribuiu diretamente para o desespero do reitor.",
+          "text": "A narrativa de suicídio induzido exagera os fatos sem provas além das condições relatadas da cela.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -123,7 +59,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O caso envolve uma prisão seguida de suicídio dezoito dias depois em Florianópolis, conforme o bilhete deixado.",
+          "text": "As prisões em Santa Catarina expõem qualquer detento a riscos graves independentemente das acusações iniciais.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -134,19 +70,19 @@
     },
     {
       "id": "bsky_3n2e264o3nk2c",
-      "rank": 3,
+      "rank": 2,
       "title": "Governo do DF apresenta orçamento de 120 milhões para Museu da Bíblia",
-      "label": "Orçamento de 120 milhões para museu",
-      "context": "O governo do DF apresentou orçamento de 120 milhões para construir um Museu da Bíblia. Comentários citam calotes em instituições sociais e escolas em más condições como contraste.",
+      "label": "Orçamento de 120 milhões para Museu da Bíblia",
+      "context": "O governo do DF apresentou um orçamento de 120 milhões para construir um Museu da Bíblia. O projeto é comparado a ações semelhantes em Santa Catarina.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/alinelks.bsky.social/post/3n2e264o3nk2c",
       "createdAt": "2026-11-15T12:45:11.943000+00:00",
-      "rawScore": 0.4519639555752753,
-      "relevanceScore": 0.43460224041444756,
-      "suggestedRadius": 75.55,
-      "imageUrl": "assets/images/bsky_3n2e264o3nk2c_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2e264o3nk2c_wiki_thumb.jpg",
+      "rawScore": 0.8730084448838273,
+      "relevanceScore": 0.7661218559968428,
+      "suggestedRadius": 88.52,
+      "imageUrl": "assets/images/bsky_3n2e264o3nk2c_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2e264o3nk2c_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-sc",
       "sources": [
@@ -165,7 +101,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Museu da Bíblia atende a maioria bolsonarista do DF que apoia ações desse tipo sem questionar.",
+          "text": "O bolsonarismo é maioria no DF e ações como essa refletem o que a maioria dos eleitores apoia.",
           "source": "sintese",
           "evidence": [
             10
@@ -175,7 +111,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O GDF dá calote em instituições sociais e deixa escolas e hospitais em ruínas enquanto gasta com o museu.",
+          "text": "O GDF dá calote em instituições sociais enquanto escolas e hospitais caem aos pedaços, mas prioriza o Museu da Bíblia.",
           "source": "sintese",
           "evidence": [
             3
@@ -185,10 +121,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Já existe um Museu da Bíblia em Barueri, SP, mantido pela Sociedade Bíblica do Brasil.",
+          "text": "O projeto do Museu da Bíblia já tinha sido engavetado antes, o que levanta dúvida sobre por que voltou agora.",
           "source": "sintese",
           "evidence": [
-            9
+            5
           ],
           "votes": 0
         }
@@ -198,7 +134,7 @@
     },
     {
       "id": "bsky_3n2fpigngfs2j",
-      "rank": 4,
+      "rank": 3,
       "title": "Quero viajar quero viajaaaaarrrrrrr",
       "label": "",
       "context": "",
@@ -206,9 +142,9 @@
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/eusouorik.bsky.social/post/3n2fpigngfs2j",
       "createdAt": "2026-11-16T04:39:29.044000+00:00",
-      "rawScore": 0.37152691414483874,
-      "relevanceScore": 0.2925307488481332,
-      "suggestedRadius": 68.45,
+      "rawScore": 0.6246256200106312,
+      "relevanceScore": 0.49181416854286275,
+      "suggestedRadius": 78.08,
       "imageUrl": "assets/images/bsky_3n2fpigngfs2j_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2fpigngfs2j_reddit.jpg",
       "category": "geopolitica",
@@ -225,18 +161,71 @@
       "promptVersion": 2
     },
     {
+      "id": "bsky_3n2he7swloc2o",
+      "rank": 4,
+      "title": "Reitor preso se joga de shopping após banimento da UFSC",
+      "label": "Suicídio de reitor após prisão",
+      "context": "O reitor foi levado para presídio, despido, humilhado e proibido de frequentar a UFSC. Dezoito dias depois, ele se jogou do sétimo andar de um shopping em Florianópolis deixando bilhete sobre o banimento.",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/hiltonbastos.bsky.social/post/3n2he7swloc2o",
+      "createdAt": "2026-11-16T20:27:17.043000+00:00",
+      "rawScore": 0.6131330961292111,
+      "relevanceScore": 0.48276525044516544,
+      "suggestedRadius": 77.69,
+      "imageUrl": "assets/images/bsky_3n2he7swloc2o_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2he7swloc2o_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "[...] O reitor foi levado para um presídio, despido, humilhado e proibido de frequentar a UFSC. Dezoito dias após a prisão, o reitor subiu até o sétimo andar de um shopping center em Florianópolis, e se jogou. Deixou um bilhete: “A minha morte foi decretada quando fui banido da universidade!!!”",
+          "url": "https://bsky.app/profile/hiltonbastos.bsky.social/post/3n2he7swloc2o",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A nota deixada pelo reitor aponta o banimento da universidade como o momento que decretou sua morte.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O tratamento de despimento e humilhação no presídio agravou a situação do reitor até o suicídio.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O caso envolve prisão, proibição de acesso à UFSC e o salto de shopping em Florianópolis após dezoito dias.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
       "id": "bsky_3n273uohtls2u",
       "rank": 5,
-      "title": "Prefeitura de Florianópolis banca show mais caro de Ana Castela por R$ 1,7 milhão",
+      "title": "Prefeitura de Florianópolis banca show de Ana Castela por R$ 1,7 milhão no Réveillon",
       "label": "Gasto de R$ 1,7 milhão em show de Ana Castela",
-      "context": "A Prefeitura de Florianópolis contratou Ana Castela para se apresentar no Réveillon por R$ 1,7 milhão. Esse valor supera o investido pela cidade em apoio à causa autista e exames de ressonância magnética.",
+      "context": "A Prefeitura de Florianópolis contratou Ana Castela para se apresentar no Réveillon por R$ 1,7 milhão. Esse valor supera o que a cidade investiu em apoio à causa autista e em exames de ressonância magnética.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/blogdonoblat.bsky.social/post/3n273uohtls2u",
       "createdAt": "2026-11-13T13:32:24.370000+00:00",
-      "rawScore": 0.1806951161084477,
-      "relevanceScore": 0.2210121242554363,
-      "suggestedRadius": 64.21,
+      "rawScore": 0.39298804395068754,
+      "relevanceScore": 0.3881661225055946,
+      "suggestedRadius": 73.38,
       "imageUrl": "assets/images/bsky_3n273uohtls2u_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n273uohtls2u_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -257,7 +246,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O show de Ana Castela no Réveillon reflete exatamente o que os eleitores de Santa Catarina votaram e desejam ver.",
+          "text": "O show de Ana Castela no Réveillon reflete exatamente o que os eleitores de Florianópolis demonstraram querer nas urnas.",
           "source": "sintese",
           "evidence": [
             2
@@ -267,17 +256,18 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Gastar R$ 1,7 milhão num show enquanto se investe menos em saúde e autismo é escolha errada de prioridades.",
+          "text": "Gastar R$ 1,7 milhão com um show enquanto se investe menos em saúde e apoio a autistas é uma escolha errada da prefeitura.",
           "source": "sintese",
           "evidence": [
-            1
+            1,
+            6
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Prefeituras precisam de leis que limitem gastos com shows a uma porcentagem do que investem em educação.",
+          "text": "Prefeituras deveriam seguir regras como a Lei Rouanet para detalhar gastos com artistas e limitar valores em eventos.",
           "source": "sintese",
           "evidence": [
             3
@@ -289,18 +279,236 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2h763az2c2u",
+      "id": "bsky_3n2f44kk5hk2o",
       "rank": 6,
+      "title": "Fobia social preventiva em relação à ANPOF. Vou pra Florianópolis com um saco na cabeça amanhã.",
+      "label": "Fobia social antes de ANPOF",
+      "context": "Uma pessoa relata fobia social preventiva em relação à ANPOF e planeja ir a Florianópolis com um saco na cabeça amanhã. A menção ao acessório reflete o desconforto antecipado com o evento.",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/italoalves.com/post/3n2f44kk5hk2o",
+      "createdAt": "2026-11-15T22:52:46.473000+00:00",
+      "rawScore": 0.29150183809979935,
+      "relevanceScore": 0.2295210595609718,
+      "suggestedRadius": 64.75,
+      "imageUrl": "assets/images/bsky_3n2f44kk5hk2o_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2f44kk5hk2o_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "Fobia social preventiva em relação à ANPOF. Vou pra Florianópolis com um saco na cabeça amanhã.",
+          "url": "https://bsky.app/profile/italoalves.com/post/3n2f44kk5hk2o",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A forma leve de descrever a própria fobia social preventiva torna mais fácil reconhecer o desconforto antes de ir à ANPOF.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Planejar usar um saco na cabeça para ir a Florianópolis mostra que a ansiedade em relação à ANPOF está muito alta.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O post mistura humor e fobia social ao mencionar o saco na cabeça para o evento da ANPOF amanhã.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2bse3m3is2e",
+      "rank": 7,
+      "title": "Ala rica da família convida mãe para jantar no Outback em São Paulo",
+      "label": "Família rica escolhe Outback no shopping",
+      "context": "Uma parente rica de Florianópolis convidou a mãe da autora para jantar no Outback do Shopping Morumbi em São Paulo. A autora ficou horrorizada com a escolha do local.",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/acabracho.bsky.social/post/3n2bse3m3is2e",
+      "createdAt": "2026-11-14T15:20:03.256000+00:00",
+      "rawScore": 0.18990855510340207,
+      "relevanceScore": 0.14952911813922468,
+      "suggestedRadius": 59.2,
+      "imageUrl": "assets/images/bsky_3n2bse3m3is2e_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2bse3m3is2e_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "a ala rica da minha família q mora em florianópolis veio pra são paulo esses dias e minha mãe foi surpreendida com o convite de jantar no outback do shopping morumbi. eu fiquei horrorizada",
+          "url": "https://bsky.app/profile/acabracho.bsky.social/post/3n2bse3m3is2e",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "São Paulo tem opções gastronômicas excelentes que compensam vários defeitos da cidade, mas a família jogou essa vantagem fora ao escolher o Outback.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A família rica ignorou exposições e teatro e preferiu shopping e compras na José Paulino, achando tudo caro mesmo sem precisar se preocupar com contas.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Em outras cidades também acontece de levarem visitantes para redes como Coco Bambu na primeira vez, sem buscar opções mais locais.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2fabzp2ls2s",
+      "rank": 8,
+      "title": "Eu preciso acabar com o sistema de transporte público da grande Florianópolis com minhas próprias mãos",
+      "label": "Transporte público em Florianópolis · Reconstrução radical",
+      "context": "Uma postagem afirma o desejo de acabar com o sistema de transporte público da grande Florianópolis com as próprias mãos para depois construir um modelo melhor. A mensagem expressa insatisfação direta com o serviço atual de mobilidade na região.",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/sohfes.bsky.social/post/3n2fabzp2ls2s",
+      "createdAt": "2026-11-16T00:07:24.651000+00:00",
+      "rawScore": 0.18288544974684592,
+      "relevanceScore": 0.1439993053828014,
+      "suggestedRadius": 58.77,
+      "imageUrl": "assets/images/bsky_3n2fabzp2ls2s_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2fabzp2ls2s_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "eu preciso acabar com o sistema de transporte público da grande Florianópolis com MINHAS PRÓPRIAS MÕES (e depois uso pra construir um modelo melhor)",
+          "url": "https://bsky.app/profile/sohfes.bsky.social/post/3n2fabzp2ls2s",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Reconstruir o transporte público de Florianópolis do zero permitiria criar um sistema realmente eficiente e adaptado às necessidades dos moradores da região.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Acabar com o sistema atual de transporte prejudicaria quem depende dele todos os dias sem garantir que algo melhor surja no lugar.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Mudanças no transporte público exigem planejamento detalhado para não deixar a população sem opções viáveis durante a transição.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2eex57ux226",
+      "rank": 9,
+      "title": "Nunca foi questão de impostos e sim o lucro da Faria Lima",
+      "label": "Lucro da Faria Lima vs impostos",
+      "context": "Um post afirma que a questão não envolve impostos, mas o lucro da Faria Lima. A mensagem é dirigida a uma mulher de Florianópolis que frequenta a We Are Reino e tem um quiosque na praia.",
+      "source": "bluesky",
+      "subreddit": "bsky_sc",
+      "permalink": "https://bsky.app/profile/leosmi.bsky.social/post/3n2eex57ux226",
+      "createdAt": "2026-11-15T15:58:08.946000+00:00",
+      "rawScore": 0.16947926406339175,
+      "relevanceScore": 0.13344361913809208,
+      "suggestedRadius": 57.92,
+      "imageUrl": "assets/images/bsky_3n2eex57ux226_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2eex57ux226_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-sc",
+      "sources": [
+        {
+          "title": "nunca foi questão de impostos e sim o lucro da faria lima... agora vai falar isso pra dona maria que mora em florianópolis, frequenta a we are reino e tem um quiosque na praia...",
+          "url": "https://bsky.app/profile/leosmi.bsky.social/post/3n2eex57ux226",
+          "subreddit": "bsky_sc"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A Faria Lima lucra muito enquanto o debate finge girar em torno de impostos que afetam pequenos negócios como o quiosque de Dona Maria.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Reduzir tudo ao lucro da Faria Lima ignora que impostos reais impactam quem trabalha com quiosques e serviços locais em Florianópolis.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A frase mistura crítica ao mercado financeiro com o exemplo de uma dona de quiosque, mas não explica como os dois se conectam no caso concreto.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2h763az2c2u",
+      "rank": 10,
       "title": "Florianópolis? Praça da Alfândega 18h",
-      "label": "Encontro na Praça da Alfândega",
-      "context": "Um post propõe encontro em Florianópolis na Praça da Alfândega às 18h. Um comentário demonstra interesse mas cita dificuldades financeiras e de saúde para ir.",
+      "label": "Encontro em Praça da Alfândega",
+      "context": "Um post propôs um encontro em Florianópolis na Praça da Alfândega às 18h. Um comentário manifesta interesse mas cita dificuldades financeiras, gripe e necessidade de carona para comparecer.",
       "source": "bluesky",
       "subreddit": "bsky_sc",
       "permalink": "https://bsky.app/profile/sapatrevas.com/post/3n2h763az2c2u",
       "createdAt": "2026-11-16T18:52:38.446000+00:00",
-      "rawScore": 0.18735371697248077,
-      "relevanceScore": 0.1475175042206357,
-      "suggestedRadius": 59.04,
+      "rawScore": 0.15660111879152758,
+      "relevanceScore": 0.12330369834978328,
+      "suggestedRadius": 57.07,
       "imageUrl": "assets/images/bsky_3n2h763az2c2u_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2h763az2c2u_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -316,7 +524,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Com carona eu iria ao encontro na praça apesar da gripe e da situação financeira precária, pois o convite desperta vontade de participar.",
+          "text": "A proposta de encontro na praça atrai quem consegue ir, mesmo com limitações, porque a carona resolveria o deslocamento de São José.",
           "source": "sintese",
           "evidence": [
             1
@@ -326,7 +534,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A situação financeira extremamente precária e a gripe impedem comparecer ao encontro mesmo com vontade, limitando quem mora em São José.",
+          "text": "A situação financeira precária e a gripe impedem a participação, tornando o convite inviável sem apoio para o transporte.",
           "source": "sintese",
           "evidence": [
             1
@@ -336,234 +544,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Moro em São José e manjo pouco da região, então pergunto se a Praça da Alfândega fica perto do terminal e do mercado municipal.",
+          "text": "A localização exata da praça perto do terminal e do mercado municipal ainda precisa ser confirmada para quem não conhece bem a região.",
           "source": "sintese",
           "evidence": [
             1
           ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2f44kk5hk2o",
-      "rank": 7,
-      "title": "Fobia social preventiva em relação à ANPOF. Vou pra Florianópolis com um saco na cabeça amanhã.",
-      "label": "Fobia social antes de ANPOF em Florianópolis",
-      "context": "Uma pessoa anunciou que irá a Florianópolis com um saco na cabeça amanhã. O motivo é uma fobia social preventiva em relação à ANPOF.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/italoalves.com/post/3n2f44kk5hk2o",
-      "createdAt": "2026-11-15T22:52:46.473000+00:00",
-      "rawScore": 0.16688377176473884,
-      "relevanceScore": 0.13139999517210801,
-      "suggestedRadius": 57.75,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "Fobia social preventiva em relação à ANPOF. Vou pra Florianópolis com um saco na cabeça amanhã.",
-          "url": "https://bsky.app/profile/italoalves.com/post/3n2f44kk5hk2o",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Reconhecer a ansiedade com antecedência e planejar algo como usar um saco na cabeça permite lidar melhor com o desconforto esperado em eventos como o da ANPOF sem fingir normalidade.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Transformar a fobia social em piada pública com o saco na cabeça pode acabar reforçando o isolamento em vez de ajudar a enfrentar o evento em Florianópolis.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A escolha de ir mesmo assim com o saco na cabeça representa uma estratégia individual para participar do encontro da ANPOF apesar da ansiedade antecipada.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n276kmkkj224",
-      "rank": 8,
-      "title": "Carro rebaixado, som, eletrônica, Florianópolis e praia",
-      "label": "Sound systems em praias de Florianópolis",
-      "context": "Postagens divulgam eventos de sound system em Florianópolis nos dias 12, 14 e 15 de novembro, incluindo Sattivas no Morro das Pedras e na Praia do Moçambique. Esses encontros reúnem música eletrônica e som em locais de praia.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/mathenzbr.bsky.social/post/3n276kmkkj224",
-      "createdAt": "2026-11-13T14:20:28.076000+00:00",
-      "rawScore": 0.009114816257643711,
-      "relevanceScore": 0.08591420350728957,
-      "suggestedRadius": 53.59,
-      "imageUrl": "assets/images/bsky_3n276kmkkj224_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n276kmkkj224_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "Carro rebaixado, som, eletrônica, Florianópolis e praia",
-          "url": "https://bsky.app/profile/mathenzbr.bsky.social/post/3n276kmkkj224",
-          "subreddit": "bsky_sc"
-        },
-        {
-          "title": "RIO DE JANEIRO - 14/11 Bangarang Sound System no Moto Cerva no Rio De Janeiro SANTA CATARINA - 12/11 Sattivas #26 no Tio Gether’s - Morro das Pedras em Florianópolis - 14/11 Sattivas #25 no Jungle Floripa - Praia Do Moçambique em Florianopolis - 15/11 DJ LOVESTEADY no Quai 58 em Florianópolis 👇",
-          "url": "https://bsky.app/profile/skatapla.bsky.social/post/3n252dwzwyc2q",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A programação de Sattivas em Florianópolis traz opções variadas de som eletrônico direto na praia, permitindo que o público aproveite a combinação de música e ambiente litorâneo em datas consecutivas.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A concentração de eventos em Florianópolis em poucos dias pode limitar quem mora em outras cidades e quer participar de mais de uma data sem precisar viajar repetidamente.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "As listas de eventos em Florianópolis e São Paulo mostram que o formato sound system aparece em vários estados, com cada cidade destacando locais e atrações próprias.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2,
-            3
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2fabzp2ls2s",
-      "rank": 9,
-      "title": "Eu preciso acabar com o transporte público de Florianópolis com minhas próprias mãos",
-      "label": "Reforma total no transporte de Florianópolis",
-      "context": "Uma postagem no Bluesky afirma a necessidade de acabar com o sistema de transporte público da grande Florianópolis. O objetivo declarado é usar essa ação para construir um modelo melhor depois.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/sohfes.bsky.social/post/3n2fabzp2ls2s",
-      "createdAt": "2026-11-16T00:07:24.651000+00:00",
-      "rawScore": 0.10891212329454786,
-      "relevanceScore": 0.08575460827468803,
-      "suggestedRadius": 53.57,
-      "imageUrl": "assets/images/bsky_3n2fabzp2ls2s_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2fabzp2ls2s_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "eu preciso acabar com o sistema de transporte público da grande Florianópolis com MINHAS PRÓPRIAS MÕES (e depois uso pra construir um modelo melhor)",
-          "url": "https://bsky.app/profile/sohfes.bsky.social/post/3n2fabzp2ls2s",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O transporte público da grande Florianópolis está tão defasado que só uma reconstrução completa a partir do zero conseguiria entregar algo realmente útil para quem depende dele.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Acabar com o sistema atual de transporte público de Florianópolis deixaria milhares de pessoas sem opção viável de locomoção enquanto nada de concreto fosse construído no lugar.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Qualquer tentativa de substituir o transporte público de Florianópolis depende de um plano detalhado que garanta continuidade do serviço durante a transição.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2eex57ux226",
-      "rank": 10,
-      "title": "Nunca foi questão de impostos e sim o lucro da Faria Lima",
-      "label": "Lucro da Faria Lima e impostos",
-      "context": "O post afirma que o debate não trata de impostos, mas do lucro da Faria Lima. Ele sugere explicar essa ideia para uma dona Maria que tem quiosque na praia em Florianópolis.",
-      "source": "bluesky",
-      "subreddit": "bsky_sc",
-      "permalink": "https://bsky.app/profile/leosmi.bsky.social/post/3n2eex57ux226",
-      "createdAt": "2026-11-15T15:58:08.946000+00:00",
-      "rawScore": 0.08815219508077536,
-      "relevanceScore": 0.06940877405595672,
-      "suggestedRadius": 51.81,
-      "imageUrl": "assets/images/bsky_3n2eex57ux226_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2eex57ux226_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-sc",
-      "sources": [
-        {
-          "title": "nunca foi questão de impostos e sim o lucro da faria lima... agora vai falar isso pra dona maria que mora em florianópolis, frequenta a we are reino e tem um quiosque na praia...",
-          "url": "https://bsky.app/profile/leosmi.bsky.social/post/3n2eex57ux226",
-          "subreddit": "bsky_sc"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A Faria Lima obtém lucros elevados enquanto o foco recai sobre impostos pagos por quem tem pequeno negócio na praia.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Dona Maria com seu quiosque não deveria ser usada como exemplo para defender que o problema é só o lucro alheio.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O argumento liga o lucro da Faria Lima diretamente ao dia a dia de quem trabalha com quiosque em Florianópolis.",
-          "source": "sintese",
-          "evidence": [],
           "votes": 0
         }
       ],

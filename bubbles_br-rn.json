@@ -1,21 +1,82 @@
 {
-  "generatedAt": "2026-11-16T21:53:04.857925+00:00",
+  "generatedAt": "2026-11-17T07:33:11.304676+00:00",
   "region": "br-rn",
-  "count": 9,
+  "count": 10,
   "items": [
     {
-      "id": "bsky_3n2grbv64js2c",
+      "id": "bsky_3n2hpz5a7ns2k",
       "rank": 1,
+      "title": "Concordo com padre Fabio Potiguar: ajuste fiscal deve respeitar promessas das urnas",
+      "label": "Ajuste fiscal e promessas eleitorais",
+      "context": "Um post concorda com a declaração do padre Fabio Potiguar sobre ajuste fiscal e limites de gastos. O ajuste deve respeitar o compromisso que a população aprovou nas urnas.",
+      "source": "bluesky",
+      "subreddit": "bsky_rn",
+      "permalink": "https://bsky.app/profile/fabridosreis.bsky.social/post/3n2hpz5a7ns2k",
+      "createdAt": "2026-11-16T23:54:11.540000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n2hpz5a7ns2k_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2hpz5a7ns2k_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rn",
+      "sources": [
+        {
+          "title": "CONCORDO COM O QUE DISSE O PADRE FABIO POTIGUAR. \"O AJUSTE FISCAL E OS LIMITES DE GASTOS SÃO IMPORTANTES, MAS DEVEM RESPEITAR O COMPROMISSO QUE A POPULAÇÃO APROVOU NAS URNAS\".",
+          "url": "https://bsky.app/profile/fabridosreis.bsky.social/post/3n2hpz5a7ns2k",
+          "subreddit": "bsky_rn"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O ajuste fiscal aumenta os orçamentos de saúde em mais de 20 bilhões e de educação em mais de 18 bilhões acima do mínimo legal.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Mentiras circulam afirmando cortes em áreas sociais quando na verdade não há redução nesses setores.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A economia de quase 30 bilhões vem de cortes em salários acima do teto constitucional de 46 mil reais.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2grbv64js2c",
+      "rank": 2,
       "title": "A “vanguarda do atraso” está no Sul/Sudeste. Nasci no Centro-oeste mas minha mãe foi nordestina, do Rio Grande do Norte.",
-      "label": "Regionalismo e estereótipos no Brasil",
-      "context": "Um post afirma que a vanguarda do atraso está no Sul e Sudeste, citando origem no Centro-Oeste e mãe do Rio Grande do Norte. Fontes mencionam novelas da Globo que retratam o Nordeste de forma medieval sem mostrar outras regiões como o Rio Grande do Sul.",
+      "label": "Vanguarda do atraso no Sul/Sudeste",
+      "context": "Post afirma que a vanguarda do atraso está no Sul/Sudeste, com autor nascido no Centro-Oeste e mãe do Rio Grande do Norte. Fontes citam estereótipos em novelas da Globo sobre o Nordeste e falta de representação do Rio Grande do Norte.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/lucierirala.bsky.social/post/3n2grbv64js2c",
       "createdAt": "2026-11-16T14:44:13.050000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.30321297373217776,
+      "relevanceScore": 0.5477842173183121,
+      "suggestedRadius": 80.41,
       "imageUrl": "assets/images/bsky_3n2grbv64js2c_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2grbv64js2c_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -41,7 +102,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A crítica a estereótipos do Nordeste em novelas reforça que regiões como o Rio Grande do Norte merecem retratos mais atuais e menos distorcidos pela mídia nacional.",
+          "text": "O Sul e Sudeste concentram visões atrasadas em relação ao resto do país, como indica o post de quem tem raízes nordestinas no Rio Grande do Norte.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -49,7 +110,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Generalizar o Sul e Sudeste como vanguarda do atraso ignora a diversidade interna dessas áreas e não resolve a falta de representação de estados nordestinos.",
+          "text": "A afirmação generaliza regiões inteiras sem base concreta e ignora que estereótipos sobre o Nordeste aparecem em novelas da Globo há anos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -57,117 +118,28 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Discussões sobre representações regionais citam tanto o Nordeste quanto a ausência de estados como Pará e Rio Grande do Sul em produções televisivas.",
+          "text": "Novelas da Globo raramente mostram o Rio Grande do Norte ou o Pará de forma realista, repetindo sempre o mesmo eixo Rio-São Paulo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
       "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2elok42jc24",
-      "rank": 2,
-      "title": "Soma de visitas ao Espírito Santo chega a quase dois meses",
-      "label": "Tempo acumulado em visitas ao ES",
-      "context": "Uma pessoa relatou que a soma de todas as suas visitas ao Espírito Santo totaliza quase dois meses. Comentários citam planos de viagem para outros estados e menções a Goiás.",
-      "source": "bluesky",
-      "subreddit": "bsky_rn",
-      "permalink": "https://bsky.app/profile/teke.bsky.social/post/3n2elok42jc24",
-      "createdAt": "2026-11-15T17:58:38.944000+00:00",
-      "rawScore": 0.49188083261963783,
-      "relevanceScore": 0.4024587734668693,
-      "suggestedRadius": 74.06,
-      "imageUrl": "assets/images/bsky_3n2elok42jc24_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2elok42jc24_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rn",
-      "sources": [
-        {
-          "title": "não sei o quanto fiquei um tempo seria, mas se somar todas minhas vistas pro Espírito Santo deve dar quase dois meses",
-          "url": "https://bsky.app/profile/teke.bsky.social/post/3n2elok42jc24",
-          "subreddit": "bsky_rn"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A expectativa de visitar mais estados do Nordeste e até o Norte em breve mostra que as viagens podem continuar ampliando o tempo fora de casa.",
-          "source": "sintese",
-          "evidence": [
-            5
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Recusar passar por Goiás durante as viagens revela um preconceito forte contra o estado, mesmo quando as passagens são apenas em escala.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Sem planos de viajar tão cedo, o tempo total em outros estados fica limitado às escalas de voo já realizadas por Brasília.",
-          "source": "sintese",
-          "evidence": [
-            2,
-            4
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2erywcck22b",
-      "rank": 3,
-      "title": "saudades de visitar lugares me chamem para lugares",
-      "label": "",
-      "context": "",
-      "source": "bluesky",
-      "subreddit": "bsky_rn",
-      "permalink": "https://bsky.app/profile/choobles.bsky.social/post/3n2erywcck22b",
-      "createdAt": "2026-11-15T19:51:52.445000+00:00",
-      "rawScore": 0.46737450037529005,
-      "relevanceScore": 0.38049176903862275,
-      "suggestedRadius": 73.01,
-      "imageUrl": "assets/images/bsky_3n2erywcck22b_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2erywcck22b_reddit.jpg",
-      "category": "geopolitica",
-      "region": "br-rn",
-      "sources": [
-        {
-          "title": "saudades de visitar lugares me chamem para lugares",
-          "url": "https://bsky.app/profile/choobles.bsky.social/post/3n2erywcck22b",
-          "subreddit": "bsky_rn"
-        }
-      ],
-      "opinions": [],
-      "enrichedBy": "",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n27ozufh5s2l",
-      "rank": 4,
+      "rank": 3,
       "title": "PIB do RN cresce 6% em 2024 e registra terceiro maior avanço do Brasil",
       "label": "PIB do RN cresce 6% em 2024",
-      "context": "O PIB do Rio Grande do Norte cresceu 6% em 2024 e chegou a R$ 111,4 bilhões segundo o IBGE. O estado registrou o segundo maior crescimento do Nordeste e o terceiro do Brasil.",
+      "context": "O PIB do Rio Grande do Norte cresceu 6% em 2024 e chegou a R$ 111,4 bilhões segundo o IBGE. O estado ficou em terceiro lugar no ranking nacional e em segundo no Nordeste.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/marcianobrito.bsky.social/post/3n27ozufh5s2l",
       "createdAt": "2026-11-13T19:15:21.472000+00:00",
-      "rawScore": 0.25793097507529567,
-      "relevanceScore": 0.282388699965021,
-      "suggestedRadius": 67.88,
+      "rawScore": 0.13126271758835525,
+      "relevanceScore": 0.23784414924371877,
+      "suggestedRadius": 65.26,
       "imageUrl": "assets/images/bsky_3n27ozufh5s2l_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27ozufh5s2l_reddit_thumb.jpg",
       "category": "economia",
@@ -188,7 +160,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O crescimento de 6% mostra que a economia potiguar está se expandindo de forma consistente e relevante.",
+          "text": "O crescimento de 6% mostra que a economia potiguar está se expandindo de forma consistente.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -196,17 +168,21 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Mesmo com o avanço, o valor de R$ 111,4 bilhões ainda revela que o RN precisa de mais desenvolvimento econômico.",
+          "text": "O nome Rio Grande do Norte gera confusão com outros estados e distrai do dado econômico.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O resultado coloca o RN em posição destacada no Nordeste, mas depende de como os próximos anos vão se comportar.",
+          "text": "O resultado pode virar tema de novela ou piada nas redes sem mudar a vida prática das pessoas.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            3
+          ],
           "votes": 0
         }
       ],
@@ -214,26 +190,26 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n27fsmplgc2h",
-      "rank": 5,
-      "title": "3 mamíferos da fauna brasileira desapareceram do Rio Grande do Norte",
-      "label": "Mamíferos extintos regionalmente no RN",
-      "context": "Três mamíferos foram reconhecidos como regionalmente extintos no Rio Grande do Norte na lista estadual de 31 espécies ameaçadas. A classificação foi elaborada pelo Idema e publicada em 29/10.",
+      "id": "bsky_3n2elok42jc24",
+      "rank": 4,
+      "title": "Soma de visitas ao Espírito Santo chega a quase dois meses",
+      "label": "Tempo acumulado em viagens ao ES",
+      "context": "Uma postagem afirma que somar todas as visitas ao Espírito Santo resulta em quase dois meses. Comentários citam planos limitados de viagem e referências a outros estados.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
-      "permalink": "https://bsky.app/profile/conexaoplaneta.bsky.social/post/3n27fsmplgc2h",
-      "createdAt": "2026-11-13T16:30:14.371000+00:00",
-      "rawScore": 0.3546574272317375,
-      "relevanceScore": 0.2794543547003555,
-      "suggestedRadius": 67.72,
-      "imageUrl": "assets/images/bsky_3n27fsmplgc2h_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27fsmplgc2h_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/teke.bsky.social/post/3n2elok42jc24",
+      "createdAt": "2026-11-15T17:58:38.944000+00:00",
+      "rawScore": 0.21683204701244796,
+      "relevanceScore": 0.22139760095183794,
+      "suggestedRadius": 64.23,
+      "imageUrl": "assets/images/bsky_3n2elok42jc24_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2elok42jc24_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-rn",
       "sources": [
         {
-          "title": "3 #mamíferos q integram a fauna brasileira desapareceram do #RioGrandeDoNorte. A #onça-pintada, a #anta e o #queixada foram oficialmente reconhecidos como Regionalmente Extintos. A classificação consta da nova lista estadual de 31 #espécies #ameaçadas elaborada pelo Idema e publicada em 29/10",
-          "url": "https://bsky.app/profile/conexaoplaneta.bsky.social/post/3n27fsmplgc2h",
+          "title": "não sei o quanto fiquei um tempo seria, mas se somar todas minhas vistas pro Espírito Santo deve dar quase dois meses",
+          "url": "https://bsky.app/profile/teke.bsky.social/post/3n2elok42jc24",
           "subreddit": "bsky_rn"
         }
       ],
@@ -241,25 +217,91 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A lista elaborada pelo Idema traz clareza sobre o estado atual da fauna e ajuda a direcionar esforços de proteção para as espécies que ainda restam no Rio Grande do Norte.",
+          "text": "A expectativa de ir para mais estados do Nordeste e com sorte para o Norte em breve mostra vontade de ampliar roteiros pelo país.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            5
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Reconhecer a extinção regional agora não reverte a perda de habitat que levou a onça-pintada, anta e queixada a desaparecerem do estado.",
+          "text": "Recusar passar dentro de Goiás revela preconceito contra o estado em vez de considerar rotas reais de viagem.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1,
+            3
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A extinção é regional, ou seja, as três espécies podem ainda existir em outras partes do Brasil, apenas não mais no Rio Grande do Norte.",
+          "text": "Passagens por Brasília em escala de voo impedem registrar visitas adicionais mesmo quando o ônibus poderia incluir outros lugares.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            4
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2erywcck22b",
+      "rank": 5,
+      "title": "saudades de visitar lugares me chamem para lugares",
+      "label": "Saudades de convites para sair",
+      "context": "Um usuário postou no Bluesky expressando saudade de visitar lugares e pedindo para ser chamado. O post foi feito direto de um ônibus rumo a um lugar sem convite.",
+      "source": "bluesky",
+      "subreddit": "bsky_rn",
+      "permalink": "https://bsky.app/profile/choobles.bsky.social/post/3n2erywcck22b",
+      "createdAt": "2026-11-15T19:51:52.445000+00:00",
+      "rawScore": 0.2027814199795305,
+      "relevanceScore": 0.20538418599564803,
+      "suggestedRadius": 63.19,
+      "imageUrl": "assets/images/bsky_3n2erywcck22b_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2erywcck22b_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rn",
+      "sources": [
+        {
+          "title": "saudades de visitar lugares me chamem para lugares",
+          "url": "https://bsky.app/profile/choobles.bsky.social/post/3n2erywcck22b",
+          "subreddit": "bsky_rn"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O comentário mostra que muita gente se identifica com a vontade de receber convites e acaba compartilhando situações parecidas no dia a dia.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Postar esse tipo de mensagem enquanto já está indo a algum lugar sem convite pode reforçar uma sensação de exclusão em vez de resolver.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O post e o comentário juntos ilustram uma experiência comum de viajar sozinho mesmo querendo companhia.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
@@ -269,18 +311,18 @@
     {
       "id": "bsky_3n2elarvgzs2d",
       "rank": 6,
-      "title": "Novela anterior se passava no interior do RN em 1920 com mais modernidade",
-      "label": "Comparação de novelas no Nordeste",
-      "context": "Uma novela anterior se passava no interior do Rio Grande do Norte na década de 1920. Telespectadores notam que ela mostrava mais modernidade que a atual.",
+      "title": "uma parte da novela que essa está substituindo se passava no interior do rio grande do norte na década de 1920 e tinha muito mais modernidade do que essa palhaç",
+      "label": "Crítica à novela atual no Nordeste",
+      "context": "Uma parte da novela anterior se passava no interior do Rio Grande do Norte na década de 1920. O post afirma que essa parte tinha mais modernidade do que a atual.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/augustononame.bsky.social/post/3n2elarvgzs2d",
       "createdAt": "2026-11-15T17:50:54.540000+00:00",
-      "rawScore": 0.22436597453699045,
-      "relevanceScore": 0.2523016796754341,
-      "suggestedRadius": 66.14,
-      "imageUrl": "assets/images/bsky_3n2elarvgzs2d_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2elarvgzs2d_wiki_thumb.jpg",
+      "rawScore": 0.09680766783977265,
+      "relevanceScore": 0.19857593668155984,
+      "suggestedRadius": 62.74,
+      "imageUrl": "assets/images/bsky_3n2elarvgzs2d_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2elarvgzs2d_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-rn",
       "sources": [
@@ -299,7 +341,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A novela anterior retratava retirantes e seca sem cair na caricatura bisonha que a mídia sudestina repete desde a República.",
+          "text": "A novela anterior mostrava retirantes, seca e miséria entre negros libertos sem cair na caricatura bisonha que a mídia sudestina repete desde a República.",
           "source": "sintese",
           "evidence": [
             1
@@ -309,15 +351,17 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A atual novela parece uma palhaçada ao ignorar a modernidade real que já existia no interior do Rio Grande do Norte nos anos 1920.",
+          "text": "A Globo errou feio ao situar a novela na Chapada Diamantina, pois o que se vê por lá é água de rio, cachoeira e frio de manhã nas cidades.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Cidades da Chapada Diamantina têm vinícolas, produção de café e comida orgânica que contrastam com a imagem de miséria mostrada em novelas.",
+          "text": "Na Chapada Diamantina existe vinícola com tour acima de mil reais, polo de café em Piatã e bastante comida orgânica nos mercados locais.",
           "source": "sintese",
           "evidence": [
             3
@@ -329,8 +373,61 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2evjuxya22b",
+      "id": "bsky_3n27fsmplgc2h",
       "rank": 7,
+      "title": "3 mamíferos da fauna brasileira desapareceram do Rio Grande do Norte",
+      "label": "Extinção regional de três mamíferos no RN",
+      "context": "O Idema publicou em 29/10 a nova lista estadual de 31 espécies ameaçadas. Nela, onça-pintada, anta e queixada foram reconhecidas como regionalmente extintas no Rio Grande do Norte.",
+      "source": "bluesky",
+      "subreddit": "bsky_rn",
+      "permalink": "https://bsky.app/profile/conexaoplaneta.bsky.social/post/3n27fsmplgc2h",
+      "createdAt": "2026-11-13T16:30:14.371000+00:00",
+      "rawScore": 0.18158563259332489,
+      "relevanceScore": 0.18122747484366117,
+      "suggestedRadius": 61.54,
+      "imageUrl": "assets/images/bsky_3n27fsmplgc2h_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27fsmplgc2h_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rn",
+      "sources": [
+        {
+          "title": "3 #mamíferos q integram a fauna brasileira desapareceram do #RioGrandeDoNorte. A #onça-pintada, a #anta e o #queixada foram oficialmente reconhecidos como Regionalmente Extintos. A classificação consta da nova lista estadual de 31 #espécies #ameaçadas elaborada pelo Idema e publicada em 29/10",
+          "url": "https://bsky.app/profile/conexaoplaneta.bsky.social/post/3n27fsmplgc2h",
+          "subreddit": "bsky_rn"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A lista do Idema torna visível o que já vinha acontecendo e pode ajudar a direcionar recursos para proteger outras espécies antes que desapareçam também.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Reconhecer a extinção regional depois do fato mostra que as medidas de proteção no Rio Grande do Norte chegaram tarde demais para esses três mamíferos.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A classificação depende de dados de campo atualizados, e é preciso verificar se restam populações isoladas ou se a extinção é definitiva na região.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2evjuxya22b",
+      "rank": 8,
       "title": "minha meta é ir em todos o próximo é justamente o Pará",
       "label": "",
       "context": "",
@@ -338,9 +435,9 @@
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/viuvadoexaltasamba.bsky.social/post/3n2evjuxya22b",
       "createdAt": "2026-11-15T20:54:59.245000+00:00",
-      "rawScore": 0.3168333839056712,
-      "relevanceScore": 0.2455496104508555,
-      "suggestedRadius": 65.73,
+      "rawScore": 0.13477894628014553,
+      "relevanceScore": 0.12788217652343936,
+      "suggestedRadius": 57.46,
       "imageUrl": "assets/images/bsky_3n2evjuxya22b_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2evjuxya22b_reddit.jpg",
       "category": "geopolitica",
@@ -358,17 +455,17 @@
     },
     {
       "id": "bsky_3n2epqj7icc23",
-      "rank": 8,
+      "rank": 9,
       "title": "Missão: visitar o Norte e o Centro Oeste",
       "label": "Missão de viagem ao Norte e Centro-Oeste",
-      "context": "Um post no Bluesky de 15 de novembro de 2026 propõe a missão de visitar o Norte e o Centro-Oeste. O comentário indica que outros usuários podem criar suas próprias versões por meio de whereidlive.com.",
+      "context": "Um usuário postou no Bluesky em 15 de novembro de 2026 a frase 'Missão: visitar o Norte e o Centro Oeste'. Um comentário sugere que outras pessoas criem a própria missão por meio de um link externo.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/alinebsilva.bsky.social/post/3n2epqj7icc23",
       "createdAt": "2026-11-15T19:11:22.945000+00:00",
-      "rawScore": 0.23421077544432345,
-      "relevanceScore": 0.17148829487547745,
-      "suggestedRadius": 60.85,
+      "rawScore": 0.10007638483792683,
+      "relevanceScore": 0.0883318763756219,
+      "suggestedRadius": 53.83,
       "imageUrl": "assets/images/bsky_3n2epqj7icc23_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2epqj7icc23_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -384,7 +481,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Missões pessoais de viagem como essa ajudam a planejar roteiros concretos pelo Norte e Centro-Oeste, motivando as pessoas a preencherem suas próprias listas e explorarem regiões menos visitadas do país.",
+          "text": "Missões pessoais de viagem como essa motivam as pessoas a planejarem visitas a regiões específicas do país.",
           "source": "sintese",
           "evidence": [
             1
@@ -394,17 +491,21 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Propor missões de viagem em posts públicos pode criar pressão desnecessária para quem não tem tempo ou recursos para visitar o Norte e o Centro-Oeste agora.",
+          "text": "Links externos em posts de missão podem levar a sites que coletam dados pessoais sem aviso claro.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O formato de missão funciona melhor quando cada pessoa adapta o roteiro ao seu próprio orçamento e disponibilidade para o Norte e Centro-Oeste.",
+          "text": "O formato de missão funciona melhor quando cada pessoa adapta as regiões ao próprio contexto de vida.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
@@ -413,15 +514,15 @@
     },
     {
       "id": "bsky_3n22td44j322b",
-      "rank": 9,
+      "rank": 10,
       "title": "Silêncio no segundo turno em Coophab foi ensurdecedor",
       "label": "Silêncio eleitoral em Coophab",
-      "context": "Um morador retornou a Tel Aviv potiguar em 2024 e vive no bairro Coophab. Com 86% das urnas apuradas no segundo turno, apenas seu apartamento e duas unidades comemoravam.",
+      "context": "Um morador retornou a Coophab em 2024 e observou silêncio durante a apuração do segundo turno. Apenas seu apartamento e duas unidades comemoraram quando 86% das urnas estavam apuradas.",
       "source": "bluesky",
       "subreddit": "bsky_rn",
       "permalink": "https://bsky.app/profile/pedroalbano.bsky.social/post/3n22td44j322b",
       "createdAt": "2026-11-11T20:48:45.385000+00:00",
-      "rawScore": 0.04289888565241179,
+      "rawScore": 0.022571477017381672,
       "relevanceScore": 0.0,
       "suggestedRadius": 36.0,
       "imageUrl": "assets/images/generic.png",
@@ -439,7 +540,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O bairro Coophab demonstrou coesão ao não comemorar os resultados com 86% apurados.",
+          "text": "Coophab mostrou coesão ao manter o silêncio diante dos resultados parciais do segundo turno.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -447,7 +548,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O silêncio ensurdecedor em Coophab revela isolamento político de quem mora ali.",
+          "text": "O silêncio ensurdecedor revelou isolamento de quem esperava comemoração no condomínio.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -455,7 +556,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Apenas três apartamentos comemoraram quando 86% das urnas já estavam contadas.",
+          "text": "A apuração com 86% das urnas indicou que poucos apartamentos apoiavam o resultado naquele bairro.",
           "source": "sintese",
           "evidence": [],
           "votes": 0

@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-16T21:53:04.857925+00:00",
+  "generatedAt": "2026-11-17T07:33:11.304676+00:00",
   "region": "br-go",
   "count": 10,
   "items": [
     {
       "id": "bsky_3n2gv7yfipc2d",
       "rank": 1,
-      "title": "Chaminés de Fadas em Campos Belos, Goiás, abertas para visitação",
-      "label": "Chaminés de Fadas · Formações geológicas raras em Goiás",
-      "context": "As Chaminés de Fadas, em Campos Belos (GO), são formações geológicas raras criadas pela erosão da água e do intemperismo sobre camadas diferentes do terreno, e o local agora está aberto para visitação. São milhares de estruturas espalhadas pela área, com formatos e alturas variados, algumas chegando a quase 4 metros.",
+      "title": "Chaminés Fadas em Campos Belos, Goiás, agora abertas para visitação",
+      "label": "Chaminés Fadas · Formações raras em Goiás",
+      "context": "As Chaminés Fadas em Campos Belos, Goiás, são formações geológicas raras que agora estão abertas para visitação. Elas resultam de erosão da água e intemperismo que criou milhares de estruturas em formatos e alturas variados.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/ricardosog.bsky.social/post/3n2gv7yfipc2d",
@@ -31,7 +31,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Ver de perto formações de quase 4 metros, cada uma com um desenho diferente, deve ser impressionante. Já entrou na minha lista de lugares para conhecer, e saber que o acesso está aberto só aumenta a vontade de ir.",
+          "text": "As Chaminés Fadas chegam a quase quatro metros e impressionam de perto pela variedade de desenhos únicos em cada estrutura.",
           "source": "sintese",
           "evidence": [
             1,
@@ -42,7 +42,65 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Abrir um lugar desses para visitação sem informação clara sobre controle de visitantes preocupa. Erosão é um processo lento e frágil, e milhares de formações espalhadas pela área podem ser danificadas rápido com fluxo desordenado.",
+          "text": "A raridade extrema dessas formações no Brasil levanta dúvida se a abertura para visitação vai preservar o local intacto.",
+          "source": "sintese",
+          "evidence": [
+            4
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O processo de erosão explica as milhares de chaminés em diferentes tamanhos, mas não fica claro se elas existem apenas nesse ponto do país.",
+          "source": "sintese",
+          "evidence": [
+            2,
+            5
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2hm5zn74s2o",
+      "rank": 2,
+      "title": "Vanderlan Cardoso defendeu usar US$ 100 bilhões das reservas para agronegócio",
+      "label": "Proposta de uso de reservas internacionais",
+      "context": "Vanderlan Cardoso defendeu usar US$ 100 bilhões das reservas internacionais para ajudar o agronegócio. A proposta representa cerca de um quarto das reservas brasileiras.",
+      "source": "bluesky",
+      "subreddit": "bsky_go",
+      "permalink": "https://bsky.app/profile/brasinha.bsky.social/post/3n2hm5zn74s2o",
+      "createdAt": "2026-11-16T22:45:24.744000+00:00",
+      "rawScore": 0.5858694817700663,
+      "relevanceScore": 0.6509660908556292,
+      "suggestedRadius": 84.41,
+      "imageUrl": "assets/images/bsky_3n2hm5zn74s2o_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2hm5zn74s2o_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-go",
+      "sources": [
+        {
+          "title": "Vanderlan Cardoso defendeu usar US$ 100 bilhões das reservas internacionais para ajudar o agronegócio. A proposta representa cerca de um quarto das reservas brasileiras e levanta uma pergunta: quem vai proteger o Brasil se vier uma crise? Viramos reféns do agro? SÓ PODIA SER DE GOIAS ESTE VAGABUNDO",
+          "url": "https://bsky.app/profile/brasinha.bsky.social/post/3n2hm5zn74s2o",
+          "subreddit": "bsky_go"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O agronegócio gera divisas essenciais para o país e merece acesso a parte das reservas em momentos de dificuldade para sustentar empregos e produção.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Reservas internacionais existem para proteger o Brasil em crises cambiais e não devem ser comprometidas por setores específicos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -50,33 +108,30 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O que chama atenção é o processo natural: água e intemperismo desgastando camadas do terreno de formas diferentes ao longo do tempo. Entender essa formação ajuda a valorizar o lugar, mas também a pensar em como a visitação pode afetar esse equilíbrio.",
+          "text": "Qualquer uso de reservas precisa de regras claras sobre reembolso e limites para evitar riscos futuros à estabilidade econômica.",
           "source": "sintese",
-          "evidence": [
-            2,
-            4
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n2gug4s3xc2t",
-      "rank": 2,
-      "title": "Senador Wilder Morais articula indicação de Tasso Mendonça Júnior à ANM com apoio de Silveira",
-      "label": "Indicação à ANM · Apoio de Silveira",
-      "context": "O senador Wilder Morais (PL-GO), dono de mineradora, articula a indicação de Tasso Mendonça Júnior para a Agência Nacional de Mineração, com apoio do ministro Alexandre Silveira. Tasso já comandou a AMN entre 2018 e 2021, voltou em abril de 2022 por indicação de Jair Bolsonaro e permaneceu até dezembro de 2025.",
+      "rank": 3,
+      "title": "Senador Wilder Morais articula indicação de Tasso Mendonça Júnior com apoio de Silveira",
+      "label": "Indicação de Tasso Mendonça Júnior para ANM",
+      "context": "Wilder Morais, senador do PL por Goiás, articulou a indicação de Tasso Mendonça Júnior, que conta com apoio do ministro Silveira. Tasso já passou pela ANM de 2018 a 2021, retornou em abril de 2022 indicado por Jair Bolsonaro e ficou até dezembro de 2025.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/beatrizdiniz.bsky.social/post/3n2gug4s3xc2t",
       "createdAt": "2026-11-16T15:40:17.142000+00:00",
-      "rawScore": 0.5315797259324063,
-      "relevanceScore": 0.590644139924896,
-      "suggestedRadius": 82.11,
-      "imageUrl": "assets/images/bsky_3n2gug4s3xc2t_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2gug4s3xc2t_wiki_thumb.jpg",
+      "rawScore": 0.5113365795241774,
+      "relevanceScore": 0.5681517550268638,
+      "suggestedRadius": 81.23,
+      "imageUrl": "assets/images/bsky_3n2gug4s3xc2t_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2gug4s3xc2t_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-go",
       "sources": [
@@ -90,21 +145,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Tasso Mendonça Júnior já passou pela agência e conhece o setor por dentro, então a indicação faz sentido técnico. O apoio do ministro Silveira mostra que a escolha tem respaldo dentro do próprio governo, não é só articulação política de senador.",
+          "text": "A articulação de Wilder Morais permitiu que a indicação de Tasso Mendonça Júnior recebesse apoio explícito do ministro Silveira, mostrando que o governo mantém canais abertos para indicações técnicas.",
           "source": "sintese",
-          "evidence": [
-            1,
-            4
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Um senador dono de mineradora articular diretamente a indicação do chefe da agência que regula mineração é conflito de interesse escancarado. E o histórico de Tasso, que já foi indicado por Bolsonaro e ficou até dezembro de 2025, mostra continuidade de um perfil bolsonarista no comando.",
+          "text": "O governo está aceitando indicação de bolsonarista para a ANM sem resistência, repetindo o padrão de acomodar nomes de oposição em cargos estratégicos.",
           "source": "sintese",
           "evidence": [
-            2,
             3
           ],
           "votes": 0
@@ -112,7 +163,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A indicação ainda precisa ser aceita e passar pelo processo formal, então o debate agora é sobre se o governo vai confirmar um nome com esse histórico. O ponto é acompanhar se a escolha se sustenta tecnicamente ou se é só acomodação política entre PL e ministério.",
+          "text": "Resta verificar se a indicação de Tasso Mendonça Júnior para a ANM será de fato aceita, considerando seu histórico de nomeação por Bolsonaro.",
           "source": "sintese",
           "evidence": [
             4
@@ -120,22 +171,156 @@
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2gxauwnqs25",
+      "rank": 4,
+      "title": "Mineração Maracá é alvo de duas ações por danos da Mina Chapada em Goiás",
+      "label": "Ações civis contra mina em Goiás",
+      "context": "A Mineração Maracá, subsidiária da Lundin Mining, é alvo de duas ações civis públicas que apontam danos à saúde de moradores e ao meio ambiente causados pela Mina Chapada em Alto Horizonte, Goiás. As ações podem gerar responsabilização da empresa pelos impactos descritos.",
+      "source": "bluesky",
+      "subreddit": "bsky_go",
+      "permalink": "https://bsky.app/profile/renildoborges.bsky.social/post/3n2gxauwnqs25",
+      "createdAt": "2026-11-16T16:31:15.748000+00:00",
+      "rawScore": 0.45542034056699227,
+      "relevanceScore": 0.5060226006299914,
+      "suggestedRadius": 78.68,
+      "imageUrl": "assets/images/bsky_3n2gxauwnqs25_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2gxauwnqs25_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-go",
+      "sources": [
+        {
+          "title": "A Mineração Maracá, subsidiária da multinacional canadense Lundin Mining, é alvo de duas ações civis públicas que apontam danos à saúde de moradores e ao meio ambiente causados pela Mina Chapada, empreendimento de cobre e ouro em Alto Horizonte, município de 6 mil habitantes em Goiás.",
+          "url": "https://bsky.app/profile/renildoborges.bsky.social/post/3n2gxauwnqs25",
+          "subreddit": "bsky_go"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "As ações civis contra a Mineração Maracá representam um passo importante para que os moradores de Alto Horizonte tenham reparação pelos danos à saúde e ao ambiente causados pela Mina Chapada.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A Mineração Maracá enfrenta processos que podem prejudicar suas operações em Goiás sem provas definitivas de que a Mina Chapada seja a única responsável pelos problemas relatados na região.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O resultado das duas ações civis contra a Mineração Maracá vai depender das provas apresentadas sobre os danos atribuídos à Mina Chapada em Alto Horizonte.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2gmnscpo22p",
+      "rank": 5,
+      "title": "infelizmente o capitalismo me impede de conhecer mais do Brasil e passar uma semaninha em cada parque nacional dessa terrinha boa",
+      "label": "",
+      "context": "",
+      "source": "bluesky",
+      "subreddit": "bsky_go",
+      "permalink": "https://bsky.app/profile/sav.trevastropicais.art.br/post/3n2gmnscpo22p",
+      "createdAt": "2026-11-16T13:21:26.248000+00:00",
+      "rawScore": 0.43387760001052855,
+      "relevanceScore": 0.4820862222339206,
+      "suggestedRadius": 77.66,
+      "imageUrl": "assets/images/bsky_3n2gmnscpo22p_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2gmnscpo22p_reddit.jpg",
+      "category": "geopolitica",
+      "region": "br-go",
+      "sources": [
+        {
+          "title": "infelizmente o capitalismo me impede de conhecer mais do Brasil e passar uma semaninha em cada parque nacional dessa terrinha boa",
+          "url": "https://bsky.app/profile/sav.trevastropicais.art.br/post/3n2gmnscpo22p",
+          "subreddit": "bsky_go"
+        }
+      ],
+      "opinions": [],
+      "enrichedBy": "",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2huhex7mk2p",
+      "rank": 6,
+      "title": "Escolha um novo Bond a partir de imagens já no seu celular",
+      "label": "Jogo de escolher novo Bond com fotos",
+      "context": "A postagem propõe selecionar um novo James Bond usando imagens já salvas no celular. A ideia transforma a escolha em uma atividade rápida e baseada na galeria pessoal do usuário.",
+      "source": "bluesky",
+      "subreddit": "bsky_go",
+      "permalink": "https://bsky.app/profile/anjoglifosatiel.bsky.social/post/3n2huhex7mk2p",
+      "createdAt": "2026-11-17T01:13:40.246000+00:00",
+      "rawScore": 0.3763351435994227,
+      "relevanceScore": 0.41815015955491414,
+      "suggestedRadius": 74.8,
+      "imageUrl": "assets/images/bsky_3n2huhex7mk2p_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2huhex7mk2p_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-go",
+      "sources": [
+        {
+          "title": "Pick a new Bond from images already on your phone",
+          "url": "https://bsky.app/profile/anjoglifosatiel.bsky.social/post/3n2huhex7mk2p",
+          "subreddit": "bsky_go"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Imagens já guardadas no celular permitem uma seleção espontânea e pessoal para o novo Bond sem precisar procurar referências externas. Cada foto traz um candidato inesperado que reflete o gosto de quem está escolhendo.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Limitar a escolha a fotos do celular reduz as opções a pessoas conhecidas ou aleatórias e tira o foco de atores que realmente se adequariam ao papel de Bond.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O resultado depende totalmente das fotos que cada pessoa tem salvas, o que pode gerar escolhas divertidas ou completamente aleatórias conforme a galeria individual.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n2hgaip4422k",
-      "rank": 3,
-      "title": "Saneago Goiás Vôlei x Vôlei Renata pela Superliga Masculina",
-      "label": "Superliga Masculina · Rodada 04",
-      "context": "O Saneago Goiás Vôlei enfrenta o Vôlei Renata nesta segunda-feira, 16 de novembro de 2026, às 18h30, no ginásio Rio Vermelho, em Goiânia, pela quarta rodada do turno da Superliga Masculina. A partida será transmitida pelo SporTV2.",
+      "rank": 7,
+      "title": "Saneago Goiás Vôlei x Vôlei Renata na Superliga Masculina em 16/11/2026",
+      "label": "Partida Superliga Masculina de Vôlei",
+      "context": "O jogo entre Saneago Goiás Vôlei e Vôlei Renata está marcado para 16 de novembro de 2026 às 18h30 no Rio Vermelho em Goiânia. A partida integra a quarta rodada do turno da Superliga Masculina e será transmitida pelo SporTV2.",
       "source": "bluesky",
       "subreddit": "bsky_go",
       "permalink": "https://bsky.app/profile/portalvolei.bsky.social/post/3n2hgaip4422k",
       "createdAt": "2026-11-16T20:59:37.543000+00:00",
-      "rawScore": 0.35439582358732297,
-      "relevanceScore": 0.5048842484303588,
-      "suggestedRadius": 78.63,
+      "rawScore": 0.20665720931680687,
+      "relevanceScore": 0.3407302325742298,
+      "suggestedRadius": 71.02,
       "imageUrl": "assets/images/bsky_3n2hgaip4422k_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2hgaip4422k_reddit_thumb.jpg",
       "category": "esportes",
@@ -156,7 +341,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Saneago Goiás Vôlei joga em casa, no Rio Vermelho, e isso dá ao time a chance de mostrar força diante da torcida. A transmissão na SporTV2 ajuda a divulgar o vôlei goiano e a atrair novos fãs para a Superliga.",
+          "text": "Saneago Goiás Vôlei e Vôlei Renata vão entregar um jogo técnico e equilibrado na Superliga Masculina, com boa transmissão no SporTV2.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -164,7 +349,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O Vôlei Renata chega como visitante e vai encarar não só o adversário, mas também a pressão da torcida local. Jogar em Goiânia numa segunda-feira à noite é uma logística desgastante para a equipe de Campinas.",
+          "text": "O horário de 18h30 em dia útil pode reduzir o público presente no Rio Vermelho para o confronto da quarta rodada.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -172,36 +357,36 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A quarta rodada da Superliga Masculina ainda é o começo do turno, então o resultado não define muita coisa. O importante é ver como as duas equipes se portam taticamente antes da sequência decisiva da competição.",
+          "text": "A quarta rodada da Superliga Masculina inclui este duelo entre Saneago Goiás Vôlei e Vôlei Renata em Goiânia.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2gxauwnqs25",
-      "rank": 4,
-      "title": "Mineração Maracá, subsidiária da Lundin Mining, é alvo de duas ações civis públicas por danos à saúde e ao meio ambiente em Alto Horizonte (GO)",
-      "label": "Mineração Maracá · Ações civis públicas em Goiás",
-      "context": "A Mineração Maracá, subsidiária da canadense Lundin Mining, enfrenta duas ações civis públicas que apontam danos à saúde de moradores e ao meio ambiente causados pela Mina Chapada, de cobre e ouro, em Alto Horizonte (GO), município de 6 mil habitantes. As ações buscam responsabilizar a empresa por esses impactos na região.",
+      "id": "bsky_3n2hmp45xqs2n",
+      "rank": 8,
+      "title": "Oloko e vc poderia ter feito parte da HISTÓRIA de Goiás, mas simplesmente dormindo",
+      "label": "Post sobre história perdida em Goiás",
+      "context": "Um post no Bluesky afirma que alguém poderia ter feito parte da história de Goiás, mas estava dormindo. O comentário menciona que o autor já protagonizou muitas histórias e agora dorme cedo.",
       "source": "bluesky",
       "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/renildoborges.bsky.social/post/3n2gxauwnqs25",
-      "createdAt": "2026-11-16T16:31:15.748000+00:00",
-      "rawScore": 0.4504743701668465,
-      "relevanceScore": 0.5005270779631628,
-      "suggestedRadius": 78.45,
-      "imageUrl": "assets/images/bsky_3n2gxauwnqs25_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2gxauwnqs25_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/brncrvlh.bsky.social/post/3n2hmp45xqs2n",
+      "createdAt": "2026-11-16T22:54:48.542000+00:00",
+      "rawScore": 0.2644508944361201,
+      "relevanceScore": 0.2938343271512445,
+      "suggestedRadius": 68.52,
+      "imageUrl": "assets/images/bsky_3n2hmp45xqs2n_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2hmp45xqs2n_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-go",
       "sources": [
         {
-          "title": "A Mineração Maracá, subsidiária da multinacional canadense Lundin Mining, é alvo de duas ações civis públicas que apontam danos à saúde de moradores e ao meio ambiente causados pela Mina Chapada, empreendimento de cobre e ouro em Alto Horizonte, município de 6 mil habitantes em Goiás.",
-          "url": "https://bsky.app/profile/renildoborges.bsky.social/post/3n2gxauwnqs25",
+          "title": "oloko e vc poderia ter feito parte da HISTÓRIA de Goiás, mas simplesmente dormindo 🤣",
+          "url": "https://bsky.app/profile/brncrvlh.bsky.social/post/3n2hmp45xqs2n",
           "subreddit": "bsky_go"
         }
       ],
@@ -209,15 +394,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "As ações civis públicas são o instrumento certo para obrigar a Mineração Maracá a responder pelos danos que a Mina Chapada pode ter causado à saúde dos moradores e ao meio ambiente em Alto Horizonte. Em um município pequeno, a população não tem como enfrentar uma multinacional sozinha, e o Judiciário precisa garantir e",
+          "text": "Viver tantas histórias ao longo da vida em Goiás já basta para justificar dormir cedo sem arrependimento algum.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A Mineração Maracá nega os danos e diz que a Mina Chapada opera dentro das licenças ambientais. A empresa gera emprego e renda em Alto Horizonte, e essas ações civis públicas podem paralisar a operação sem provas concretas de que a mineração seja a causa dos problemas de saúde e ambientais apontados.",
+          "text": "Dormir no momento certo pode significar perder a chance de entrar para a história local de forma única.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -225,64 +412,38 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O caso da Mina Chapada em Alto Horizonte precisa de perícia técnica independente para confirmar se há relação entre a mineração e os danos à saúde e ao meio ambiente. Sem esses laudos, tanto condenar a Mineração Maracá quanto descartar as ações civis públicas seria precipitado.",
+          "text": "Depois de protagonizar várias histórias, priorizar o sono vira uma escolha natural para quem já viveu bastante.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2gmnscpo22p",
-      "rank": 5,
-      "title": "infelizmente o capitalismo me impede de conhecer mais do Brasil e passar uma semaninha em cada parque nacional dessa terrinha boa",
-      "label": "",
-      "context": "",
+      "id": "bsky_3n27bchi3bk25",
+      "rank": 9,
+      "title": "Tatuadora tem vagas para doguinhos em Goiânia semana que vem",
+      "label": "Vagas para tatuagens de cachorros",
+      "context": "Uma tatuadora anunciou duas vagas para Goiânia na semana seguinte e lista de espera para Brasília e São Paulo. Ela também planeja abrir três vagas em Teresina em fevereiro.",
       "source": "bluesky",
       "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/sav.trevastropicais.art.br/post/3n2gmnscpo22p",
-      "createdAt": "2026-11-16T13:21:26.248000+00:00",
-      "rawScore": 0.40749147238674177,
-      "relevanceScore": 0.4527683026519353,
-      "suggestedRadius": 76.37,
-      "imageUrl": "assets/images/bsky_3n2gmnscpo22p_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2gmnscpo22p_reddit.jpg",
+      "permalink": "https://bsky.app/profile/iaanks.bsky.social/post/3n27bchi3bk25",
+      "createdAt": "2026-11-13T15:09:39.079000+00:00",
+      "rawScore": 0.10108616650912687,
+      "relevanceScore": 0.28842490731249165,
+      "suggestedRadius": 68.22,
+      "imageUrl": "assets/images/bsky_3n27bchi3bk25_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27bchi3bk25_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-go",
       "sources": [
         {
-          "title": "infelizmente o capitalismo me impede de conhecer mais do Brasil e passar uma semaninha em cada parque nacional dessa terrinha boa",
-          "url": "https://bsky.app/profile/sav.trevastropicais.art.br/post/3n2gmnscpo22p",
-          "subreddit": "bsky_go"
-        }
-      ],
-      "opinions": [],
-      "enrichedBy": "",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2e2kzvru227",
-      "rank": 6,
-      "title": "Preço de hortifruti varia todo ano por causa do clima e do mercado",
-      "label": "Variação sazonal de hortifruti · Morango em Brasília e Goiân",
-      "context": "O preço de hortifruti varia ao longo do ano conforme o clima e as condições de mercado. Em Brasília e Goiânia, o morango fica mais barato em agosto e setembro, auge da seca, e encarece no período chuvoso.",
-      "source": "bluesky",
-      "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/rinaldocosta.bsky.social/post/3n2e2kzvru227",
-      "createdAt": "2026-11-15T12:52:25.940000+00:00",
-      "rawScore": 0.06553703426232037,
-      "relevanceScore": 0.24892587148270665,
-      "suggestedRadius": 65.94,
-      "imageUrl": "assets/images/bsky_3n2e2kzvru227_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2e2kzvru227_reddit_thumb.jpg",
-      "category": "economia",
-      "region": "br-go",
-      "sources": [
-        {
-          "title": "Preço de hortifruti varia TODO ano por causa do clima e das variações de mercado. Aqui pras bandas de Brasília e Goiânia, o morango fica super barato em agosto/setembro - auge da seca - e encarece no período chuvoso.",
-          "url": "https://bsky.app/profile/rinaldocosta.bsky.social/post/3n2e2kzvru227",
+          "title": "bunitinha que vo tatuar esse fim de semana, tenho recebido muita encomenda de doguinhos fiapo de manga, amoeles ✨ tenho 2 vagas p/ Goiânia semana que vem *rolando lista de espera p/BSB e SP* aaah e fevereiro tô de volta pra visitar minha família, vo abrir 3 vaguinhas pra tatuar em Teresina/Piauí",
+          "url": "https://bsky.app/profile/iaanks.bsky.social/post/3n27bchi3bk25",
           "subreddit": "bsky_go"
         },
         {
@@ -291,8 +452,8 @@
           "subreddit": "bsky_go"
         },
         {
-          "title": "bunitinha que vo tatuar esse fim de semana, tenho recebido muita encomenda de doguinhos fiapo de manga, amoeles ✨ tenho 2 vagas p/ Goiânia semana que vem *rolando lista de espera p/BSB e SP* aaah e fevereiro tô de volta pra visitar minha família, vo abrir 3 vaguinhas pra tatuar em Teresina/Piauí",
-          "url": "https://bsky.app/profile/iaanks.bsky.social/post/3n27bchi3bk25",
+          "title": "Preço de hortifruti varia TODO ano por causa do clima e das variações de mercado. Aqui pras bandas de Brasília e Goiânia, o morango fica super barato em agosto/setembro - auge da seca - e encarece no período chuvoso.",
+          "url": "https://bsky.app/profile/rinaldocosta.bsky.social/post/3n2e2kzvru227",
           "subreddit": "bsky_go"
         }
       ],
@@ -300,7 +461,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Quem acompanha a sazonalidade consegue economizar de verdade: o morango em agosto e setembro, no auge da seca, fica super barato em Brasília e Goiânia. Vale planejar as compras e aproveitar essa janela de preços baixos.",
+          "text": "A tatuadora está recebendo muitas encomendas de doguinhos e isso mostra que o trabalho dela agrada bastante.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -308,7 +469,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Depender do clima para o preço do hortifruti é ruim demais para o consumidor: no período chuvoso o morango encarece e pesa no orçamento. A variação anual acaba penalizando justamente quem mais precisa de comida barata.",
+          "text": "A lista de espera para Brasília e São Paulo indica que as vagas estão muito limitadas para quem mora longe.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -316,216 +477,36 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A variação de preço do morango entre seca e chuva faz sentido, mas o impacto real depende da região e da oferta local. Em Brasília e Goiânia a diferença é clara, mas em outros lugares o efeito pode ser menor ou até invertido.",
+          "text": "O anúncio mistura disponibilidade imediata em Goiânia com planos de retorno à família em Teresina.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2aer6qmlc22",
-      "rank": 7,
-      "title": "Em Goiânia, queriam criar uma medalha \"Charlie Kirk\"",
-      "label": "Medalha Charlie Kirk em Goiânia",
-      "context": "Em Goiânia, surgiu a proposta de criar uma medalha chamada \"Charlie Kirk\", conforme relatado em posts de 13 e 14 de novembro de 2026. A iniciativa gerou discussão nas redes sociais, com reações que questionam a motivação por trás da homenagem.",
-      "source": "bluesky",
-      "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/gumihooppa.bsky.social/post/3n2aer6qmlc22",
-      "createdAt": "2026-11-14T01:44:10.580000+00:00",
-      "rawScore": 0.023345454915191785,
-      "relevanceScore": 0.20204633887478599,
-      "suggestedRadius": 62.97,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-go",
-      "sources": [
-        {
-          "title": "Aqui em Goiânia eles queriam criar uma medalha \"Charlie Kirk\". Patriotas, né?",
-          "url": "https://bsky.app/profile/gumihooppa.bsky.social/post/3n2aer6qmlc22",
-          "subreddit": "bsky_go"
-        },
-        {
-          "title": "Brota aqui em Goiânia então n //piada Se não terei de te caçar.",
-          "url": "https://bsky.app/profile/catboyy.org/post/3n2bwiey7xs22",
-          "subreddit": "bsky_go"
-        },
-        {
-          "title": "Então segura essa chatice e fique feliz como seu sócio, oh filha da puta. Caralho bicho eu perdi o rumo aqui em Goiânia lendo isso.",
-          "url": "https://bsky.app/profile/aironjaso.bsky.social/post/3n27lhykvvs2w",
-          "subreddit": "bsky_go"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A proposta de uma medalha \"Charlie Kirk\" em Goiânia é uma forma de reconhecer publicamente alguém que defende ideias patrióticas, e isso merece ser debatido e apoiado por quem se identifica com esses valores.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Criar uma medalha com o nome de Charlie Kirk em Goiânia parece mais uma jogada para viralizar e ganhar visibilidade nas redes do que uma homenagem séria, já que não traz benefício concreto para a cidade.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A discussão sobre a medalha \"Charlie Kirk\" em Goiânia mostra como temas políticos podem gerar reações exageradas, e talvez o foco deveria ser debater propostas que realmente impactem a vida das pessoas na cidade.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2gl7wlw622u",
-      "rank": 8,
-      "title": "Feira da Reforma Agrária em Goiânia tem xingamentos e provocações a famílias no primeiro dia",
-      "label": "Feira da Reforma Agrária · Goiânia",
-      "context": "No primeiro dia da Feira da Reforma Agrária em Goiânia, um grupo chamado de 'fascistas' pela reportagem do Brasil de Fato xingou e provocou as famílias presentes no evento. A feira reúne famílias ligadas à reforma agrária, e as provocações ocorreram durante a programação do evento.",
-      "source": "bluesky",
-      "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/nobre84.bsky.social/post/3n2gl7wlw622u",
-      "createdAt": "2026-11-16T12:56:32.542000+00:00",
-      "rawScore": 0.1780363873852517,
-      "relevanceScore": 0.19781820820583523,
-      "suggestedRadius": 62.69,
-      "imageUrl": "assets/images/bsky_3n2gl7wlw622u_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2gl7wlw622u_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-go",
-      "sources": [
-        {
-          "title": "‘Fascistas’ xingam e provocam famílias no primeiro dia da Feira da Reforma Agrária em Goiânia | Brasil de Fato www.brasildefato.com.br/2026/11/15/f...",
-          "url": "https://bsky.app/profile/nobre84.bsky.social/post/3n2gl7wlw622u",
-          "subreddit": "bsky_go"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A feira é um espaço legítimo de famílias que trabalham a terra e produzem alimento, e o que aconteceu mostra por que esses encontros precisam de proteção e visibilidade em vez de serem tratados como caso isolado.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Chamar de 'fascistas' quem aparece para provocar é simplificar demais: o episódio revela que a feira virou palco de confronto político, e a organização deveria explicar como pretende evitar que famílias sejam expostas a esse tipo de hostilidade.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O relato vem de uma única reportagem e não há detalhes sobre quem eram os provocadores nem o que a organização fez no momento; sem essas informações, fica difícil avaliar a dimensão do episódio e o que ele significa para a feira.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2eczlgres2w",
-      "rank": 9,
-      "title": "Panará foram empurrados para o norte por mineradoras, guerras e massacres",
-      "label": "Panará · Deslocamento forçado e colapso demográfico",
-      "context": "No século XVIII, os Panará ocupavam grandes extensões do Brasil Central entre São Paulo, Minas Gerais, Goiás e Mato Grosso do Sul, mas foram sucessivamente empurrados para o norte por frentes mineradoras, guerras e massacres. Na década de 1970, a abertura da rodovia Cuiabá-Santarém (BR-163) e a chegada de garimpeiros levaram a surtos de gripe, sarampo e diarreia que dizimaram a população, período lembrado como \"o tempo em que todo mundo morreu\".",
-      "source": "bluesky",
-      "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/beatrizdiniz.bsky.social/post/3n2eczlgres2w",
-      "createdAt": "2026-11-15T15:23:42.549000+00:00",
-      "rawScore": 0.14417112012610817,
-      "relevanceScore": 0.1601901334734535,
-      "suggestedRadius": 60.01,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-go",
-      "sources": [
-        {
-          "title": "\"No século XVIII, [os Panará] ocupavam grandes extensões do Brasil Central entre São Paulo, Minas Gerais, Goiás e Mato Grosso do Sul, mas foram sucessivamente empurrados para o norte por frentes mineradoras, guerras e massacres.\"",
-          "url": "https://bsky.app/profile/beatrizdiniz.bsky.social/post/3n2eczlgres2w",
-          "subreddit": "bsky_go"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A Funai agiu certo ao enviar uma expedição de urgência para abrir caminho e evitar confrontos com o Batalhão de Engenharia e os trabalhadores da BR-163. Sem essa medida, o contato teria sido ainda mais violento e o colapso demográfico dos Panará seria maior.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O avanço das máquinas e a chegada de garimpeiros na década de 1970 destruíram o santuário de floresta alta e rios fartos que os Panará encontraram ao norte mato-grossense. A rodovia Cuiabá-Santarém foi rasgada sem imunização prévia, e as doenças dizimaram a tribo.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A história dos Panará mostra que o deslocamento forçado começou no século XVIII com mineradoras e guerras, mas o golpe final veio nos anos 1970 com a BR-163. O \"tempo em que todo mundo morreu\" ficou na memória oral como prova de que o impacto não foi só territorial, foi demográfico.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2erywcck22b",
+      "id": "bsky_3n2hhzmrna22q",
       "rank": 10,
-      "title": "Saudades de visitar lugares, me chamem para lugares",
-      "label": "Convite para visitar lugares",
-      "context": "Uma pessoa publicou no Bluesky que está com saudades de visitar lugares e pediu que a chamem para programas. O post foi feito de dentro de um ônibus, a caminho de um lugar para o qual não foi convidada.",
+      "title": "Eu adoro essas luzes verdes na apresentação do time do Goiás. Acho belo.",
+      "label": "Luzes verdes na apresentação do Goiás",
+      "context": "Um post elogia as luzes verdes usadas na apresentação do time do Goiás. O autor considera essa iluminação bela.",
       "source": "bluesky",
       "subreddit": "bsky_go",
-      "permalink": "https://bsky.app/profile/choobles.bsky.social/post/3n2erywcck22b",
-      "createdAt": "2026-11-15T19:51:52.445000+00:00",
-      "rawScore": 0.11346970885678997,
-      "relevanceScore": 0.1260774542853222,
-      "suggestedRadius": 57.3,
-      "imageUrl": "assets/images/bsky_3n2erywcck22b_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2erywcck22b_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/vhcaldas.bsky.social/post/3n2hhzmrna22q",
+      "createdAt": "2026-11-16T21:31:11.849000+00:00",
+      "rawScore": 0.21532878886514026,
+      "relevanceScore": 0.23925420985015583,
+      "suggestedRadius": 65.35,
+      "imageUrl": "assets/images/bsky_3n2hhzmrna22q_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2hhzmrna22q_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-go",
       "sources": [
         {
-          "title": "saudades de visitar lugares me chamem para lugares",
-          "url": "https://bsky.app/profile/choobles.bsky.social/post/3n2erywcck22b",
+          "title": "eu adoro essas luzes verdes na apresentação do time do Goiás. acho belo.",
+          "url": "https://bsky.app/profile/vhcaldas.bsky.social/post/3n2hhzmrna22q",
           "subreddit": "bsky_go"
         }
       ],
@@ -533,35 +514,29 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Achei ótima a atitude de pedir convite publicamente. Muita gente sente vontade de sair, mas não tem com quem ou não recebe convites. Expor isso de forma leve e direta pode fazer alguém lembrar dela e chamar para um programa.",
+          "text": "As luzes verdes na apresentação do Goiás criam um visual que realmente chama atenção e merece elogio pela beleza.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Postar que está indo para um lugar sem ter sido convidada parece uma forma de cobrança indireta. Se a pessoa quer companhia, o mais eficaz é chamar alguém diretamente em vez de esperar que os outros tomem a iniciativa.",
+          "text": "Luzes coloridas em apresentações de times podem distrair do foco principal no futebol e na torcida.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A situação é ambígua: ao mesmo tempo em que a pessoa demonstra vontade de ser incluída, ela já está a caminho de um lugar. Isso pode indicar que o convite é para outros programas, não para aquele específico, e cada um interpreta de um jeito.",
+          "text": "A iluminação verde funciona bem dependendo do estádio e da ocasião específica da apresentação.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     }
   ]

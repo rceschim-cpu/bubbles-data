@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T21:53:04.857925+00:00",
+  "generatedAt": "2026-11-17T07:33:11.304676+00:00",
   "regions": [
     {
       "id": "br-al",
@@ -41,7 +41,7 @@
       "uf": "DF",
       "name": "Distrito Federal",
       "capital": "Brasília",
-      "count": 10
+      "count": 9
     },
     {
       "id": "br-es",
@@ -79,6 +79,13 @@
       "count": 9
     },
     {
+      "id": "br-mg",
+      "uf": "MG",
+      "name": "Minas Gerais",
+      "capital": "Belo Horizonte",
+      "count": 3
+    },
+    {
       "id": "br-pa",
       "uf": "PA",
       "name": "Pará",
@@ -90,7 +97,7 @@
       "uf": "PB",
       "name": "Paraíba",
       "capital": "João Pessoa",
-      "count": 9
+      "count": 8
     },
     {
       "id": "br-pr",
@@ -125,7 +132,7 @@
       "uf": "RN",
       "name": "Rio Grande do Norte",
       "capital": "Natal",
-      "count": 9
+      "count": 10
     },
     {
       "id": "br-rs",
@@ -146,34 +153,13 @@
       "uf": "RR",
       "name": "Roraima",
       "capital": "Boa Vista",
-      "count": 9
+      "count": 10
     },
     {
       "id": "br-sc",
       "uf": "SC",
       "name": "Santa Catarina",
       "capital": "Florianópolis",
-      "count": 10
-    },
-    {
-      "id": "br-sp",
-      "uf": "SP",
-      "name": "São Paulo",
-      "capital": "São Paulo",
-      "count": 9
-    },
-    {
-      "id": "br-se",
-      "uf": "SE",
-      "name": "Sergipe",
-      "capital": "Aracaju",
-      "count": 10
-    },
-    {
-      "id": "br-to",
-      "uf": "TO",
-      "name": "Tocantins",
-      "capital": "Palmas",
       "count": 10
     }
   ]

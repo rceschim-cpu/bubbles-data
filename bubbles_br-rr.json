@@ -1,21 +1,74 @@
 {
-  "generatedAt": "2026-11-16T21:53:04.857925+00:00",
+  "generatedAt": "2026-11-17T07:33:11.304676+00:00",
   "region": "br-rr",
-  "count": 9,
+  "count": 10,
   "items": [
     {
-      "id": "bsky_3n2hifcvzgs2p",
+      "id": "bsky_3n2im6x5mh22f",
       "rank": 1,
-      "title": "Roraima tem pior qualidade do ar que São Paulo por queima de biomassa",
+      "title": "Tem coisa esquisita nesta história de lojas vazias",
+      "label": "Suspeita em lojas com estética cafona",
+      "context": "Um post descreve lojas vazias mesmo vendendo jogo de copos baratos. O autor questiona a estética cafona de gosto subcolonizado.",
+      "source": "bluesky",
+      "subreddit": "bsky_rr",
+      "permalink": "https://bsky.app/profile/radioproletario.bsky.social/post/3n2im6x5mh22f",
+      "createdAt": "2026-11-17T08:18:32.044000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
+      "imageUrl": "assets/images/bsky_3n2im6x5mh22f_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2im6x5mh22f_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rr",
+      "sources": [
+        {
+          "title": "Tem coisa esquisita nesta história, talvez um dia saibamos a verdade, talvez nunca saibamos. Lojas vazias mesmo vendendo jogo de copos baratos. Estética cafona de gosto subcolonizado. ndmais.com.br/transportes/...",
+          "url": "https://bsky.app/profile/radioproletario.bsky.social/post/3n2im6x5mh22f",
+          "subreddit": "bsky_rr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Lojas que vendem copos baratos podem simplesmente operar com baixa demanda sem indicar nada oculto.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A combinação de lojas vazias e estética subcolonizada sugere algo realmente estranho por trás.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Talvez nunca saibamos a verdade completa sobre o que acontece nessas lojas.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2hifcvzgs2p",
+      "rank": 2,
+      "title": "São Paulo não tem a pior qualidade do ar, Roraima vive situação mais grave",
       "label": "Qualidade do ar em Roraima e São Paulo",
-      "context": "Roraima vive situação mais grave de qualidade do ar que São Paulo, já que cerca de 70% da emissão de material particulado vem da queima de biomassa. Drauzio Varella fala sobre os efeitos da poluição do ar no corpo humano.",
+      "context": "São Paulo não tem a pior qualidade do ar do país. Roraima vive situação mais grave, já que cerca de 70% da emissão de material particulado vem da queima de biomassa.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/drauziovarella.bsky.social/post/3n2hifcvzgs2p",
       "createdAt": "2026-11-16T21:37:46.356000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
+      "rawScore": 0.5472470609371517,
+      "relevanceScore": 0.6080522899301686,
+      "suggestedRadius": 82.79,
       "imageUrl": "assets/images/bsky_3n2hifcvzgs2p_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2hifcvzgs2p_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -31,7 +84,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Roraima enfrenta um problema maior com a poluição do ar porque a queima de biomassa responde por cerca de 70% das emissões de material particulado no estado.",
+          "text": "A comparação mostra que o problema da poluição não se concentra apenas nas grandes cidades como São Paulo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -39,7 +92,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A comparação entre São Paulo e Roraima desvia o foco das fontes urbanas de poluição que também causam danos sérios à saúde em grandes cidades.",
+          "text": "A queima de biomassa em Roraima representa uma fonte séria de material particulado que afeta a saúde da população local.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -47,7 +100,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Drauzio Varella explica os efeitos da poluição do ar no corpo humano, o que ajuda a entender por que os dados de emissões importam em qualquer região.",
+          "text": "Drauzio Varella explica os efeitos da poluição do ar no corpo humano sem apontar culpados específicos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -58,7 +111,7 @@
     },
     {
       "id": "bsky_3n2gmnscpo22p",
-      "rank": 2,
+      "rank": 3,
       "title": "infelizmente o capitalismo me impede de conhecer mais do Brasil e passar uma semaninha em cada parque nacional dessa terrinha boa",
       "label": "",
       "context": "",
@@ -66,9 +119,9 @@
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/sav.trevastropicais.art.br/post/3n2gmnscpo22p",
       "createdAt": "2026-11-16T13:21:26.248000+00:00",
-      "rawScore": 0.49838812651676395,
-      "relevanceScore": 0.5537645850186266,
-      "suggestedRadius": 80.65,
+      "rawScore": 0.5144033938735284,
+      "relevanceScore": 0.5715593265261426,
+      "suggestedRadius": 81.36,
       "imageUrl": "assets/images/bsky_3n2gmnscpo22p_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2gmnscpo22p_reddit.jpg",
       "category": "geopolitica",
@@ -85,18 +138,136 @@
       "promptVersion": 2
     },
     {
+      "id": "bsky_3n2hwakv73k2m",
+      "rank": 4,
+      "title": "Vei vc foi pra roraima comigo ?? 😭😭",
+      "label": "Viagem esquecida a outro estado",
+      "context": "Uma postagem pergunta se outra pessoa viajou para Roraima junto. O comentário menciona ter esquecido que a viagem passou por outro estado.",
+      "source": "bluesky",
+      "subreddit": "bsky_rr",
+      "permalink": "https://bsky.app/profile/posterfheteople.bsky.social/post/3n2hwakv73k2m",
+      "createdAt": "2026-11-17T01:45:38.443000+00:00",
+      "rawScore": 0.2123479042491357,
+      "relevanceScore": 0.23594211583237298,
+      "suggestedRadius": 65.14,
+      "imageUrl": "assets/images/bsky_3n2hwakv73k2m_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2hwakv73k2m_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rr",
+      "sources": [
+        {
+          "title": "vei vc foi pra roraima comigo ?? 😭😭",
+          "url": "https://bsky.app/profile/posterfheteople.bsky.social/post/3n2hwakv73k2m",
+          "subreddit": "bsky_rr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Redescobrir que a viagem incluiu outro estado traz um alívio engraçado e revive a memória de forma leve sem precisar de explicações complicadas.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Esquecer completamente um estado inteiro da viagem indica que a pessoa não prestou atenção nos detalhes importantes do trajeto.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O comentário apenas registra o fato de que a viagem alcançou outro estado sem avaliar se isso foi bom ou ruim.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2hrmzgmlc2p",
+      "rank": 5,
+      "title": "Nó vei nao lembrava q ce tinha passado em roraima e maranhao",
+      "label": "Viagem esquecida a Roraima e Maranhão",
+      "context": "Uma postagem menciona o esquecimento de ter passado por Roraima e Maranhão. Comentários relembram que a viagem incluiu outro estado.",
+      "source": "bluesky",
+      "subreddit": "bsky_rr",
+      "permalink": "https://bsky.app/profile/sistilho.bsky.social/post/3n2hrmzgmlc2p",
+      "createdAt": "2026-11-17T00:23:11.150000+00:00",
+      "rawScore": 0.18418383700036778,
+      "relevanceScore": 0.20464870777818642,
+      "suggestedRadius": 63.14,
+      "imageUrl": "assets/images/bsky_3n2hrmzgmlc2p_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2hrmzgmlc2p_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-rr",
+      "sources": [
+        {
+          "title": "nó vei nao lembrava q ce tinha passado em roraima e maranhao",
+          "url": "https://bsky.app/profile/sistilho.bsky.social/post/3n2hrmzgmlc2p",
+          "subreddit": "bsky_rr"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A viagem em grupo para Roraima e Maranhão gera momentos leves de redescoberta entre quem participou.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Esquecer detalhes concretos da viagem mostra como a memória falha rápido mesmo em experiências marcantes.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A rota da viagem de fato incluiu outro estado além dos dois mencionados na postagem inicial.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
       "id": "bsky_3n2heqotjy22h",
-      "rank": 3,
+      "rank": 6,
       "title": "O projeto também foi notícia no Roraima em Foco",
-      "label": "Notícia de projeto em Roraima",
-      "context": "O projeto foi notícia no site Roraima em Foco. O site Roraima na Rede também repercutiu a Caminhada.",
+      "label": "Notícia do projeto em Roraima",
+      "context": "O projeto foi noticiado pelo site Roraima em Foco. A Caminhada também repercutiu no Roraima na Rede.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/edgarborges.bsky.social/post/3n2heqotjy22h",
       "createdAt": "2026-11-16T20:31:13.546000+00:00",
-      "rawScore": 0.2504043722135602,
-      "relevanceScore": 0.2782270802372891,
-      "suggestedRadius": 67.65,
+      "rawScore": 0.13131709160447066,
+      "relevanceScore": 0.14590787956052295,
+      "suggestedRadius": 58.92,
       "imageUrl": "assets/images/bsky_3n2heqotjy22h_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2heqotjy22h_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -112,7 +283,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A menção em Roraima em Foco ajuda a divulgar o projeto para mais pessoas na região.",
+          "text": "Sites locais como Roraima em Foco ajudam a divulgar o projeto para mais pessoas da região.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -120,7 +291,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A cobertura limitada a sites locais reduz o alcance do projeto.",
+          "text": "A cobertura em portais regionais ainda deixa o projeto restrito a um público muito pequeno.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -128,7 +299,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Roraima na Rede também tratou da Caminhada ligada ao projeto.",
+          "text": "A Caminhada apareceu em pelo menos dois veículos de comunicação de Roraima.",
           "source": "sintese",
           "evidence": [
             1
@@ -141,17 +312,17 @@
     },
     {
       "id": "bsky_3n2heqlc62c2h",
-      "rank": 4,
+      "rank": 7,
       "title": "Estamos na Folha de Boa Vista por conta do projeto Caminhada Arteliteratura",
       "label": "Caminhada Arteliteratura na Folha de Boa Vista",
-      "context": "O projeto Caminhada Arteliteratura foi noticiado na Folha de Boa Vista. Comentários indicam que o projeto também apareceu em Roraima em Foco e Roraima na Rede.",
+      "context": "O projeto Caminhada Arteliteratura foi notícia na Folha de Boa Vista. Outros sites como Roraima em Foco e Roraima na Rede também repercutiram a iniciativa.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/edgarborges.bsky.social/post/3n2heqlc62c2h",
       "createdAt": "2026-11-16T20:31:13.545000+00:00",
-      "rawScore": 0.250404357165607,
-      "relevanceScore": 0.2782270635173411,
-      "suggestedRadius": 67.65,
+      "rawScore": 0.13131708881913853,
+      "relevanceScore": 0.1459078764657095,
+      "suggestedRadius": 58.92,
       "imageUrl": "assets/images/bsky_3n2heqlc62c2h_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2heqlc62c2h_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -167,18 +338,15 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A aparição em vários sites regionais demonstra o bom alcance do projeto Caminhada Arteliteratura.",
+          "text": "A cobertura na Folha de Boa Vista amplia o alcance do projeto Caminhada Arteliteratura na região.",
           "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A cobertura permanece restrita a veículos locais sem expansão para mídias maiores.",
+          "text": "A visibilidade ainda fica restrita a veículos locais sem maior projeção nacional.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -186,7 +354,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Diferentes portais de Roraima mencionaram o projeto após o anúncio inicial.",
+          "text": "Além da Folha de Boa Vista, o projeto apareceu no Roraima em Foco e no Roraima na Rede.",
           "source": "sintese",
           "evidence": [
             1,
@@ -200,17 +368,17 @@
     },
     {
       "id": "bsky_3n2d3oaxets2q",
-      "rank": 5,
+      "rank": 8,
       "title": "Economia brasileira quebrada",
-      "label": "Economia brasileira em foco",
-      "context": "Um post afirma que a economia brasileira está quebrada e inclui link para artigo. Comentários destacam que o autor usou empréstimos do BNDES para montar sua rede de lojas e comprou jatinho.",
+      "label": "Reclamação sobre economia e BNDES",
+      "context": "Um post afirma que a economia brasileira está quebrada. Comentários indicam que o autor montou rede de lojas e comprou jatinho com empréstimos do BNDES e deve INSS dos funcionários.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/wilsonsilva.bsky.social/post/3n2d3oaxets2q",
       "createdAt": "2026-11-15T03:39:30.757000+00:00",
-      "rawScore": 0.07131706174694945,
-      "relevanceScore": 0.07924117971883272,
-      "suggestedRadius": 52.89,
+      "rawScore": 0.10738443786246622,
+      "relevanceScore": 0.11931604206940691,
+      "suggestedRadius": 56.73,
       "imageUrl": "assets/images/bsky_3n2d3oaxets2q_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2d3oaxets2q_reddit_thumb.jpg",
       "category": "economia",
@@ -226,7 +394,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O empresário montou sua rede de lojas e comprou jatinho com empréstimos do BNDES, o que reforça a dependência do Estado e a fragilidade econômica.",
+          "text": "O empresário montou sua rede de lojas e comprou jatinho usando empréstimos do BNDES, provando que dependeu do Estado para crescer.",
           "source": "sintese",
           "evidence": [
             1
@@ -236,7 +404,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O autor reclama da aposentadoria mas está devendo INSS dos funcionários, o que enfraquece sua crítica sobre o país.",
+          "text": "Ele está devendo horrores de INSS dos funcionários e ainda reclama que a aposentadoria quebra o país.",
           "source": "sintese",
           "evidence": [
             2
@@ -246,7 +414,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O caso mostra que alguns empresários afirmam independência do Estado enquanto usaram recursos públicos em seus negócios.",
+          "text": "O autor mentiu ao dizer que nunca precisou do Estado, já que seus negócios dependiam de financiamento público.",
           "source": "sintese",
           "evidence": [
             1
@@ -259,17 +427,17 @@
     },
     {
       "id": "bsky_3mzz73mkqac2i",
-      "rank": 6,
-      "title": "Lula é gente como a gente e trata todos de igual forma",
-      "label": "Post elogia tratamento igualitário de Lula",
-      "context": "Um post afirma que Lula trata a todos de igual forma. O texto contrasta isso com o desdém de uma pessoa presa em relação a negros.",
+      "rank": 9,
+      "title": "Lula trata todos de igual forma diferente do preso",
+      "label": "Elogio a Lula por igualdade no tratamento",
+      "context": "Um post afirma que Lula trata a todos de igual forma. Ele contrasta isso com o preso que desdenhava negros, inclusive o Senador de Roraima.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/akaishiri.bsky.social/post/3mzz73mkqac2i",
       "createdAt": "2026-11-11T05:14:02.774000+00:00",
-      "rawScore": 0.04890856137209741,
-      "relevanceScore": 0.05434284596899712,
-      "suggestedRadius": 49.99,
+      "rawScore": 0.08810768854862717,
+      "relevanceScore": 0.09789743172069686,
+      "suggestedRadius": 54.77,
       "imageUrl": "assets/images/bsky_3mzz73mkqac2i_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzz73mkqac2i_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -285,7 +453,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Lula demonstra proximidade com as pessoas ao tratar todos da mesma maneira sem distinções.",
+          "text": "Lula demonstra ser gente como a gente ao tratar todos de forma igual sem distinção.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -293,7 +461,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A pessoa presa tratava negros com desdém, inclusive o senador de Roraima.",
+          "text": "O preso anterior desdenhava de negros e agia com superioridade em relação a eles.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -301,7 +469,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post usa a expressão capitão do mato para descrever o comportamento de uma autoridade em relação a negros.",
+          "text": "A comparação entre os dois presidentes depende de quais ações específicas são consideradas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -312,17 +480,17 @@
     },
     {
       "id": "bsky_3n24ddt4n6c2m",
-      "rank": 7,
+      "rank": 10,
       "title": "Farra eleitoral: siglas despejam dezenas de milhões em candidatos sem voto",
-      "label": "R$ 70 mil para candidata com 8 votos",
-      "context": "Uma candidata a deputada estadual pelo MDB de Roraima recebeu R$ 70 mil do fundão eleitoral e obteve apenas 8 votos. O caso é apresentado como o voto mais caro do Brasil.",
+      "label": "Candidata do MDB recebe R$ 70 mil por 8 votos",
+      "context": "Uma candidata a deputada estadual pelo MDB de Roraima recebeu R$ 70 mil do fundão eleitoral e obteve apenas 8 votos. O caso é apontado como o voto mais caro do Brasil.",
       "source": "bluesky",
       "subreddit": "bsky_rr",
       "permalink": "https://bsky.app/profile/blogdonoblat.bsky.social/post/3n24ddt4n6c2m",
       "createdAt": "2026-11-12T11:08:14.083000+00:00",
-      "rawScore": 0.04613369277888127,
-      "relevanceScore": 0.05125965864320141,
-      "suggestedRadius": 49.58,
+      "rawScore": 0.08129314674860674,
+      "relevanceScore": 0.09032571860956305,
+      "suggestedRadius": 54.03,
       "imageUrl": "assets/images/bsky_3n24ddt4n6c2m_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n24ddt4n6c2m_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -338,7 +506,15 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Reforma urgente no sistema é essencial para impedir que dinheiro público seja desperdiçado dessa forma.",
+          "text": "O fundão eleitoral permite que partidos sustentem candidaturas mesmo com baixa votação popular.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Isto segue e gastança de dinheiro público que é o suor do povo e exige reforma urgente.",
           "source": "sintese",
           "evidence": [
             1
@@ -346,131 +522,13 @@
           "votes": 0
         },
         {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Isto é lavagem de dinheiro e precisa ser chamado pelo nome correto.",
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Isto configura lavagem de dinheiro e exige o uso dos termos corretos para descrever o fato.",
           "source": "sintese",
           "evidence": [
             2
           ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O sistema atual é injusto porque gasta o suor do povo em algo que não faz sentido.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n27sq6ixps2a",
-      "rank": 8,
-      "title": "Em Roraima, criação de gado por indígenas garante posse da terra",
-      "label": "Criação de gado indígena em Roraima",
-      "context": "Em Roraima, comunidades indígenas criam gado na área de cerrado como forma histórica de garantir a posse da terra. Essa prática não representa desmatamento e não envolve fazendeiros invasores.",
-      "source": "bluesky",
-      "subreddit": "bsky_rr",
-      "permalink": "https://bsky.app/profile/andreaugfonseca.bsky.social/post/3n27sq6ixps2a",
-      "createdAt": "2026-11-13T20:21:28.780000+00:00",
-      "rawScore": 0.028376385149982097,
-      "relevanceScore": 0.03152931683331344,
-      "suggestedRadius": 46.65,
-      "imageUrl": "assets/images/bsky_3n27sq6ixps2a_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27sq6ixps2a_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rr",
-      "sources": [
-        {
-          "title": "só um adendo - em Roraima, a criação de gado PELAS COMUNIDADES indígenas na área de cerrado é historicamente uma forma de garantir a posse da terra e não representa desmatamento. Não são fazendeiros invasores, nesse caso.",
-          "url": "https://bsky.app/profile/andreaugfonseca.bsky.social/post/3n27sq6ixps2a",
-          "subreddit": "bsky_rr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Comunidades indígenas em Roraima mantêm a criação de gado no cerrado como método tradicional para assegurar a posse de suas terras sem causar desmatamento.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A afirmação sobre Roraima não corresponde à reportagem citada, que trata da terra indígena Kapôt Nhinõre entre Mato Grosso e Pará.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A criação de gado por indígenas pode servir para proteger terras, mas exige verificação caso a caso para confirmar ausência de impacto ambiental.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2c37pidm22k",
-      "rank": 9,
-      "title": "Roraima amg, bem na linha do Equador, aqui é 5 sol por pessoa kkkkkkkkk",
-      "label": "Calor intenso em Roraima",
-      "context": "Uma postagem descreve Roraima como localizada na linha do Equador. Nela, o autor menciona cinco sóis por pessoa.",
-      "source": "bluesky",
-      "subreddit": "bsky_rr",
-      "permalink": "https://bsky.app/profile/driiversions.bsky.social/post/3n2c37pidm22k",
-      "createdAt": "2026-11-14T17:58:40.148000+00:00",
-      "rawScore": 0.0,
-      "relevanceScore": 0.0,
-      "suggestedRadius": 36.0,
-      "imageUrl": "assets/images/bsky_3n2c37pidm22k_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2c37pidm22k_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-rr",
-      "sources": [
-        {
-          "title": "Roraima amg, bem na linha do Equador, aqui é 5 sol por pessoa kkkkkkkkk",
-          "url": "https://bsky.app/profile/driiversions.bsky.social/post/3n2c37pidm22k",
-          "subreddit": "bsky_rr"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A postagem capta bem o calor forte de Roraima com humor direto e leve.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A descrição exagera o clima e pode passar impressão errada sobre a região.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A frase usa gíria local para falar do sol sem entrar em detalhes sobre o tempo real.",
-          "source": "sintese",
-          "evidence": [],
           "votes": 0
         }
       ],

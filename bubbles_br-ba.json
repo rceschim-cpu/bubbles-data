@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-16T21:53:04.857925+00:00",
+  "generatedAt": "2026-11-17T07:33:11.304676+00:00",
   "region": "br-ba",
   "count": 10,
   "items": [
     {
       "id": "bsky_3n2hbksw4qs2p",
       "rank": 1,
-      "title": "Jornalista Mário Alves desaparece no Rio de Janeiro em 1970",
-      "label": "Desaparecimento de Mário Alves · 1970",
-      "context": "Na noite de 16 de janeiro de 1970, o jornalista Mário Alves de Souza Vieira, de 46 anos, saiu de casa no bairro da Abolição, no Rio de Janeiro, por volta das 20h e nunca mais foi visto. Baiano de Sento Sé, ele militava no Partido Comunista Brasileiro desde 1939.",
+      "title": "Jornalista Mário Alves sai de casa e nunca mais é visto em 1970",
+      "label": "Desaparecimento do jornalista Mário Alves em 1970",
+      "context": "Na noite de 16 de janeiro de 1970, o jornalista Mário Alves saiu de casa no bairro da Abolição no Rio de Janeiro por volta das 20h e nunca mais foi visto. Ele militava no Partido Comunista Brasileiro desde 1939.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/renildoborges.bsky.social/post/3n2hbksw4qs2p",
@@ -31,15 +31,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Mário Alves era um jornalista comprometido com a verdade e a justiça social, e seu desaparecimento é uma ferida que a sociedade brasileira precisa lembrar para que casos assim nunca mais se repitam.",
+          "text": "Preservar a memória de militantes como Mário Alves reforça a rejeição à ditadura militar no Brasil.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A falta de respostas sobre o paradeiro de Mário Alves após tantos anos mostra como a impunidade e o silêncio ainda cercam os crimes da ditadura, e isso deveria envergonhar as instituições.",
+          "text": "O desaparecimento de Mário Alves expõe os riscos que opositores políticos enfrentavam na época.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -47,28 +49,28 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O caso de Mário Alves é mais um entre tantos desaparecimentos políticos da época, e a ausência de informações oficiais dificulta qualquer conclusão sobre o que realmente aconteceu.",
+          "text": "Detalhes sobre o destino de Mário Alves após deixar sua casa em 1970 permanecem sem respostas claras.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n2gpeqbbds2m",
       "rank": 2,
-      "title": "Pessoa quase é atropelada em Salvador após olhar para o lado errado",
-      "label": "Quase atropelamento em Salvador · Trânsito",
-      "context": "Um morador de Salvador relatou no Bluesky que quase foi atropelado ao atravessar uma avenida depois de olhar para o lado errado, como se estivesse em um país de mão inglesa. O episódio gerou comentários sobre o trânsito da cidade, com outros usuários mencionando a demora no deslocamento e a direção considerada confusa.",
+      "title": "Querido diário: quase morri atropelado em Salvador, Bahia",
+      "label": "Quase atropelamento por mão inglesa em Salvador",
+      "context": "Uma pessoa quase foi atropelada ao atravessar avenida em Salvador depois de olhar para o lado errado, como se o trânsito fosse inglês. Comentários destacam o trânsito local como o mais confuso que já viram.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/blasfemico.bsky.social/post/3n2gpeqbbds2m",
       "createdAt": "2026-11-16T14:10:02.351000+00:00",
-      "rawScore": 0.35384601173284713,
-      "relevanceScore": 0.7196066673878685,
-      "suggestedRadius": 86.9,
+      "rawScore": 0.3326264991303751,
+      "relevanceScore": 0.6789194371799037,
+      "suggestedRadius": 85.44,
       "imageUrl": "assets/images/bsky_3n2gpeqbbds2m_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2gpeqbbds2m_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -80,13 +82,13 @@
           "subreddit": "bsky_ba"
         },
         {
-          "title": "eu moro em Salvador - você não vai encontrar a clássica \"comida baiana\" no norte da Bahia (acarajé, vatapá e afins); assim como eu nunca comi buchada de bode por aqui meses atrás fui a trabalho para Barreiras/Luis Eduardo (oeste) e é outra Bahia, incluindo a vegetação, que é cerrado",
-          "url": "https://bsky.app/profile/marinateixeira13.bsky.social/post/3n24xeps5zs2l",
+          "title": "Shakira fará um show em Salvador, na Bahia, no dia 6 de janeiro de 2027, na Arena Fonte Nova. A informação foi confirmada pelo prefeito Bruno Reis.",
+          "url": "https://bsky.app/profile/tracklist.com.br/post/3n2eh5fz7nc2s",
           "subreddit": "bsky_ba"
         },
         {
-          "title": "Shakira fará um show em Salvador, na Bahia, no dia 6 de janeiro de 2027, na Arena Fonte Nova. A informação foi confirmada pelo prefeito Bruno Reis.",
-          "url": "https://bsky.app/profile/tracklist.com.br/post/3n2eh5fz7nc2s",
+          "title": "cheguei em salvador e 5 minutos tomando sol e ouvindo bahia fm já trouxeram um pouco do meu brilho de volta",
+          "url": "https://bsky.app/profile/lulululululululu1.bsky.social/post/3n2bqyzqukk2m",
           "subreddit": "bsky_ba"
         }
       ],
@@ -94,7 +96,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O trânsito de Salvador é realmente caótico, e esse relato mostra como é fácil se confundir. Quem mora aqui sabe que atravessar avenida é sempre um risco, ainda mais com a quantidade de carros e a falta de sinalização clara.",
+          "text": "A história sobre Salvador mostra o trânsito caótico de um jeito que faz rir, apesar do susto real.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O trânsito em Salvador é o mais maluco que existe e quase mata quem erra o lado de olhar.",
           "source": "sintese",
           "evidence": [
             3
@@ -102,43 +114,34 @@
           "votes": 0
         },
         {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A pessoa quase morreu por bobeira, mas o problema maior é a cidade não oferecer condições seguras para pedestres. Olhar para o lado errado acontece, mas a falta de faixas e semáforos adequados em avenidas movimentadas é o que realmente coloca vidas em risco.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
           "id": "op3",
           "tone": "neutral",
-          "text": "O relato é engraçado, mas também serve de alerta: cada cidade tem seu jeito de atravessar, e quem não está acostumado pode se dar mal. Em Salvador, o fluxo de carros é intenso, e a distração pode ser fatal, então é sempre bom redobrar a atenção.",
+          "text": "Chegar em casa em Salvador demora tanto que qualquer evento parece distante por anos.",
           "source": "sintese",
           "evidence": [
-            1,
-            2
+            1
           ],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n2f3ezrscs2h",
       "rank": 3,
-      "title": "Pré-carnaval de Aracaju rende 'marido' baiano e diversão",
-      "label": "Pré-carnaval de Aracaju · Relato pessoal",
-      "context": "Uma pessoa relatou nas redes que está no pré-carnaval de Aracaju e arrumou um 'marido' baiano, descrevendo a experiência como divertida. O post gerou comentários leves sobre relacionamentos passageiros e a simpatia dos baianos.",
+      "title": "Tô no pré carnaval de Aracaju e arrumei um “marido” baiano kkkk. Tá divertido",
+      "label": "Encontro casual no pré-carnaval de Aracaju",
+      "context": "Uma usuária relata estar no pré-carnaval de Aracaju e ter encontrado um parceiro baiano temporário. Comentários tratam o encontro como algo leve e sem maiores compromissos.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/aquelalu.bsky.social/post/3n2f3ezrscs2h",
       "createdAt": "2026-11-15T22:39:36.948000+00:00",
-      "rawScore": 0.289033300610756,
-      "relevanceScore": 0.4179592347694263,
-      "suggestedRadius": 74.79,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
+      "rawScore": 0.3793461241115897,
+      "relevanceScore": 0.5288001620849497,
+      "suggestedRadius": 79.63,
+      "imageUrl": "assets/images/bsky_3n2f3ezrscs2h_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2f3ezrscs2h_uns_thumb.jpg",
       "category": "geopolitica",
       "region": "br-ba",
       "sources": [
@@ -157,7 +160,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Baiano tem uma energia contagiante e o pré-carnaval de Aracaju é prova disso: a festa é animada e o povo recebe bem, então esse 'marido' temporário só confirma que a folia por lá é deliciosa.",
+          "text": "Baianos são delícias demais e o relato do pré-carnaval em Aracaju confirma que o encontro rendeu diversão imediata.",
           "source": "sintese",
           "evidence": [
             2,
@@ -168,7 +171,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Esse negócio de 'marido de pré-carnaval' é só brincadeira de momento, mas o post escancara como a folia vira desculpa para relacionamentos descartáveis, o que não deveria ser tratado como algo tão natural assim.",
+          "text": "O tal marido serve só para o pré-carnaval e nada além disso, sem qualquer intenção de algo mais sério.",
           "source": "sintese",
           "evidence": [
             1
@@ -178,81 +181,31 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O relato é divertido e tal, mas cada um vive o pré-carnaval como quer: tem gente que leva na brincadeira, tem gente que não, e o post só mostra uma experiência pessoal, sem generalizar o que acontece em Aracaju.",
+          "text": "O encontro em Aracaju é apenas uma diversão passageira típica dessa época, sem reclamações nem expectativas maiores.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1,
+            3
+          ],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2gv5z7ep22l",
-      "rank": 4,
-      "title": "PT baiano poderia migrar para o PL, diz post sobre Ruim Costa",
-      "label": "PT baiano e migração para o PL",
-      "context": "Um post no Bluesky afirma que todo o PT baiano poderia ir para o PL e chama Ruim Costa de bolsonarista. A declaração sugere uma possível mudança de partido de integrantes do PT na Bahia.",
-      "source": "bluesky",
-      "subreddit": "bsky_ba",
-      "permalink": "https://bsky.app/profile/avodopudim.bsky.social/post/3n2gv5z7ep22l",
-      "createdAt": "2026-11-16T15:53:40.748000+00:00",
-      "rawScore": 0.3350479518582345,
-      "relevanceScore": 0.35646467213605865,
-      "suggestedRadius": 71.82,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-ba",
-      "sources": [
-        {
-          "title": "O PT baiano todo podia ir pro PL. Ruim Costa já é o bolsonano deles mesmo.",
-          "url": "https://bsky.app/profile/avodopudim.bsky.social/post/3n2gv5z7ep22l",
-          "subreddit": "bsky_ba"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Se o PT baiano já age como bolsonarista, melhor migrar logo para o PL e assumir a verdadeira sigla. Ruim Costa e seus aliados não representam mais a esquerda e deveriam sair do partido.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Chamar o PT baiano de bolsonarista é um exagero que ignora a história do partido na Bahia. Ruim Costa sempre foi petista e essa proposta de migração para o PL soa como provocação sem fundamento.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A afirmação de que todo o PT baiano poderia ir para o PL parece mais uma hipérbole do que uma análise política séria. Sem dados concretos, fica difícil avaliar se há realmente um movimento nesse sentido.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n2bwxrzg3k2x",
-      "rank": 5,
-      "title": "Portal Vermelho publica artigo sobre expulsão de embaixador israelense",
-      "label": "Artigo do Vermelho · Reação a Israel",
-      "context": "O portal Vermelho publicou um artigo em 9 de novembro de 2026 que trata da expulsão de um embaixador israelense. A publicação gerou comentários que criticam Israel e defendem a medida.",
+      "rank": 4,
+      "title": "vermelho.org.br/2026/11/09/s...",
+      "label": "Comentários sobre Netanyahu no Bluesky",
+      "context": "Um post no Bluesky compartilha link do vermelho.org.br de novembro de 2026. Comentários chamam Netanyahu de genocida e pedem expulsão imediata.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/nildete.bsky.social/post/3n2bwxrzg3k2x",
       "createdAt": "2026-11-14T16:42:43.248000+00:00",
-      "rawScore": 0.24749003476169534,
-      "relevanceScore": 0.2567276890219345,
-      "suggestedRadius": 66.4,
+      "rawScore": 0.37099727439666286,
+      "relevanceScore": 0.40743206505712365,
+      "suggestedRadius": 74.3,
       "imageUrl": "assets/images/bsky_3n2bwxrzg3k2x_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2bwxrzg3k2x_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -268,7 +221,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Expulsar o embaixador de Israel é o mínimo que o Brasil deveria fazer diante do que Netanyahu vem fazendo em Gaza e no Líbano. O artigo do Vermelho acerta ao cobrar essa posição do Itamaraty.",
+          "text": "Netanyahu age como Hitler ao matar palestinos, libaneses cristãos e crianças iranianas.",
           "source": "sintese",
           "evidence": [
             1
@@ -278,10 +231,9 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Itamaraty fica com frescura diplomática enquanto Israel comete genocídio. Expulsar embaixador é pouco: tem que cortar relações e tratar esses bandidos como merecem, sem meia medida.",
+          "text": "O Itamaraty faz frescura em vez de dar pé na bunda nesses bandidos.",
           "source": "sintese",
           "evidence": [
-            2,
             3
           ],
           "votes": 0
@@ -289,28 +241,83 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O artigo do Vermelho fala em expulsão, mas não fica claro qual embaixador nem qual foi a decisão do governo brasileiro. Sem esses dados, o debate vira só troca de acusações sem saber o que de fato aconteceu.",
+          "text": "Essa corja de bandidos precisa ser expulsa sem rodeios.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2gv5z7ep22l",
+      "rank": 5,
+      "title": "O PT baiano todo podia ir pro PL. Ruim Costa já é o bolsonano deles mesmo.",
+      "label": "Sugestão de migração do PT baiano ao PL",
+      "context": "Um post propõe que o PT baiano migre inteiro para o PL. O autor afirma que Ruim Costa já representa a posição bolsonarista do grupo.",
+      "source": "bluesky",
+      "subreddit": "bsky_ba",
+      "permalink": "https://bsky.app/profile/avodopudim.bsky.social/post/3n2gv5z7ep22l",
+      "createdAt": "2026-11-16T15:53:40.748000+00:00",
+      "rawScore": 0.32333368828664827,
+      "relevanceScore": 0.3540412006509514,
+      "suggestedRadius": 71.7,
+      "imageUrl": "assets/images/bsky_3n2gv5z7ep22l_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2gv5z7ep22l_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ba",
+      "sources": [
+        {
+          "title": "O PT baiano todo podia ir pro PL. Ruim Costa já é o bolsonano deles mesmo.",
+          "url": "https://bsky.app/profile/avodopudim.bsky.social/post/3n2gv5z7ep22l",
+          "subreddit": "bsky_ba"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Ruim Costa já representa a visão bolsonarista dentro do PT baiano, o que torna natural a ideia de que o grupo inteiro migre para o PL.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Reduzir o PT baiano a Ruim Costa para defender uma mudança de partido simplifica demais a realidade do grupo.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A sugestão de transferência depende de como cada um entende o alinhamento atual de Ruim Costa com o restante do PT baiano.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3mzzmvharss2u",
       "rank": 6,
-      "title": "Sionistas estariam montando comunidade em Itacaré, diz PRAVDA-BR",
-      "label": "Comunidade sionista em Itacaré · denúncia",
-      "context": "O perfil PRAVDA-BR publicou no X que sionistas estariam montando uma comunidade em Itacaré, na Bahia, comprando terras e se aproveitando da boa vontade da população local, citando Breno Altman. A publicação gerou reações que vão de pedidos de expulsão dos estrangeiros a críticas à própria denúncia.",
+      "title": "Sionistas montam comunidade em Itacaré comprando terras na Bahia",
+      "label": "Compra de terras em Itacaré por sionistas",
+      "context": "Post de @pravda_br afirma que sionistas estão montando uma comunidade em Itacaré com compra de terras e abusando da boa vontade do povo baiano. O Brasil não pode permitir isso em seu território segundo o post.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/ricardosog.bsky.social/post/3mzzmvharss2u",
       "createdAt": "2026-11-11T09:21:07.875000+00:00",
-      "rawScore": 0.1361767055226423,
-      "relevanceScore": 0.2438407067284217,
-      "suggestedRadius": 65.63,
+      "rawScore": 0.2211595803894082,
+      "relevanceScore": 0.351605850954896,
+      "suggestedRadius": 71.58,
       "imageUrl": "assets/images/bsky_3mzzmvharss2u_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzzmvharss2u_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -331,52 +338,115 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Concordo com o Breno Altman em gênero, número e grau: a compra de terras por sionistas em Itacaré precisa ser denunciada e o Brasil não pode permitir esse tipo de comunidade se formando no nosso território.",
+          "text": "A compra de terras por sionistas em Itacaré exige pressão popular e protestos para impedir a ocupação do território baiano.",
           "source": "sintese",
           "evidence": [
-            6
+            1,
+            4
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A denúncia erra o alvo: a Bahia sofre com racismo e mercenarismo que não têm nada a ver com sionismo, e judeus têm direito de defender seu estado. Itacaré nem foi o local de onde saiu a rave associada ao 7 de outubro.",
+          "text": "Judeus têm direito de defender seu estado e comprar terras sem que isso seja tratado como ameaça sionista.",
           "source": "sintese",
           "evidence": [
-            8,
-            9
+            8
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O cidadão comum pode protestar e exigir dos poderes constituídos, mas não tem poder de expulsar ninguém. Só o Executivo e o Judiciário podem tirar estrangeiros do país, e é obrigação do governo exigir vistos na entrada.",
+          "text": "Somente o executivo e o judiciário podem expulsar estrangeiros, cabendo ao cidadão comum apenas cobrar as autoridades.",
           "source": "sintese",
           "evidence": [
-            1,
             14
           ],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2bht4xqkk2c",
+      "rank": 7,
+      "title": "Falta um porradeiro raiz nessa seleção masculina",
+      "label": "Ausência de jogadores agressivos na seleção",
+      "context": "Raphinha deu chilique e foi expulso sem reagir fisicamente. O post reclama da falta de jogadores como Junior Baiano que usariam voadora ou soco giratório.",
+      "source": "bluesky",
+      "subreddit": "bsky_ba",
+      "permalink": "https://bsky.app/profile/brenoamaro.bsky.social/post/3n2bht4xqkk2c",
+      "createdAt": "2026-11-14T12:11:36.047000+00:00",
+      "rawScore": 0.137022303047039,
+      "relevanceScore": 0.2573585999041176,
+      "suggestedRadius": 66.44,
+      "imageUrl": "assets/images/bsky_3n2bht4xqkk2c_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2bht4xqkk2c_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ba",
+      "sources": [
+        {
+          "title": "Falta um porradeiro raiz nessa seleção masculina Tipo Junior Baiano, Luis Fabiano... Raphinha deu chilique e foi expulso e não fez nada Cadê a voadora? Cadê o soco giratório? Frouxos",
+          "url": "https://bsky.app/profile/brenoamaro.bsky.social/post/3n2bht4xqkk2c",
+          "subreddit": "bsky_ba"
+        },
+        {
+          "title": "eu pensava, esse tipo de esculhambação só baiano sabe fazer",
+          "url": "https://bsky.app/profile/cintiage1984.bsky.social/post/3n27x7ezhss2h",
+          "subreddit": "bsky_ba"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Jogadores como Junior Baiano mudariam o jogo com uma voadora certeira no juiz.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Raphinha saiu expulso sem fazer nada e deixou a seleção parecendo frouxa.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Violência didática ainda faz diferença em situações como essa.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n2feb5ypys2q",
-      "rank": 7,
-      "title": "Pagodão baiano toca do nada e anima o ambiente",
-      "label": "Pagodão baiano · Música surpresa",
-      "context": "Um post no Bluesky relatou que o pagodão baiano começou a tocar de repente no local, com o refrão \"bota a mão pra cima e faz o L\". O registro viralizou ao destacar a música baiana surgindo sem aviso no meio do ambiente.",
+      "rank": 8,
+      "title": "Botaram o pagodão baiano aqui do nada com Bota a mão pra cima e faz o L",
+      "label": "Pagodão baiano tocado inesperadamente",
+      "context": "Uma postagem registra pagodão baiano sendo colocado para tocar de repente. A música inclui a frase 'Bota a mão pra cima e faz o L'.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/lumendes.bsky.social/post/3n2feb5ypys2q",
       "createdAt": "2026-11-16T01:18:29.548000+00:00",
-      "rawScore": 0.09745182998329004,
-      "relevanceScore": 0.19972930725889732,
-      "suggestedRadius": 62.81,
+      "rawScore": 0.11633325527180867,
+      "relevanceScore": 0.2341835466903173,
+      "suggestedRadius": 65.04,
       "imageUrl": "assets/images/bsky_3n2feb5ypys2q_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2feb5ypys2q_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -397,7 +467,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Pagodão baiano tocando do nada é o melhor tipo de surpresa: anima qualquer ambiente na hora e ainda coloca todo mundo pra cantar junto. Esse refrão é contagiante e merece tocar mais vezes por aí.",
+          "text": "O pagodão baiano surgiu do nada e trouxe animação imediata ao ambiente com sua energia típica.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -405,7 +475,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Música que entra do nada e ainda com refrão político no meio incomoda quem só queria sossego. O ambiente vira palco de mensagem que ninguém pediu pra ouvir, e isso tira o clima em vez de melhorar.",
+          "text": "Colocar música alta sem aviso pode interromper conversas ou concentracão de quem está no local.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -413,93 +483,28 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post é mais sobre o susto de ouvir pagodão baiano surgindo sem aviso do que sobre a música em si. Vale ver se o refrão era mesmo parte da canção ou só brincadeira de quem escreveu.",
+          "text": "A faixa combina com o estilo baiano e funciona bem em momentos descontraídos como cafés ou eventos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2bht4xqkk2c",
-      "rank": 8,
-      "title": "Falta um porradeiro raiz nessa seleção masculina, como Junior Baiano e Luis Fabiano; Raphinha deu chilique e foi expulso sem fazer nada",
-      "label": "Seleção masculina · Falta de 'porradeiro raiz'",
-      "context": "Um post no Bluesky criticou a seleção masculina por não ter jogadores com perfil de 'porradeiro raiz', citando Junior Baiano e Luis Fabiano como exemplos, e mencionou que Raphinha deu chilique e foi expulso sem fazer nada. A publicação gerou comentários que defenderam a necessidade de violência em campo, como uma voadora no juiz.",
-      "source": "bluesky",
-      "subreddit": "bsky_ba",
-      "permalink": "https://bsky.app/profile/brenoamaro.bsky.social/post/3n2bht4xqkk2c",
-      "createdAt": "2026-11-14T12:11:36.047000+00:00",
-      "rawScore": 0.09213503631108892,
-      "relevanceScore": 0.19367296217566593,
-      "suggestedRadius": 62.4,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-ba",
-      "sources": [
-        {
-          "title": "Falta um porradeiro raiz nessa seleção masculina Tipo Junior Baiano, Luis Fabiano... Raphinha deu chilique e foi expulso e não fez nada Cadê a voadora? Cadê o soco giratório? Frouxos",
-          "url": "https://bsky.app/profile/brenoamaro.bsky.social/post/3n2bht4xqkk2c",
-          "subreddit": "bsky_ba"
-        },
-        {
-          "title": "eu pensava, esse tipo de esculhambação só baiano sabe fazer",
-          "url": "https://bsky.app/profile/cintiage1984.bsky.social/post/3n27x7ezhss2h",
-          "subreddit": "bsky_ba"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Odeio o Raphinha, mas nesse caso a expulsão dele foi necessária. A seleção precisa de alguém que reaja à altura, como o Junior Baiano faria, e não de jogador que só dá chilique e não faz nada.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Violência didática não resolve nada. Uma voadora no juiz ou soco giratório só piora a imagem da seleção e não ganha jogo. O time precisa de técnica e cabeça fria, não de porradeiro raiz.",
-          "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A esculhambação baiana tem seu valor, mas o Raphinha deu chilique e foi expulso sem fazer nada. Fica a dúvida se um porradeiro raiz como Junior Baiano resolveria ou só criaria mais confusão.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n2co2aeshk27",
       "rank": 9,
-      "title": "Léo Gamalho iguala Zé Carlos na liderança da artilharia histórica da Série B com 92 gols",
-      "label": "Artilharia histórica da Série B · Empate no topo",
-      "context": "Léo Gamalho chegou a 92 gols e se igualou a Zé Carlos como maior artilheiro da história da Série B. O recorde foi divulgado em post no Bluesky em novembro de 2026, com a lista dos demais goleadores da competição.",
+      "title": "Léo Gamalho se iguala a Zé Carlos na artilharia histórica da Série B com 92 gols",
+      "label": "Empate em 92 gols na Série B",
+      "context": "Léo Gamalho alcançou 92 gols e igualou Zé Carlos na liderança da artilharia histórica da Série B. A lista também menciona outros artilheiros como Élton com 69 gols.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
       "permalink": "https://bsky.app/profile/htesports.bsky.social/post/3n2co2aeshk27",
       "createdAt": "2026-11-14T23:35:36.849000+00:00",
-      "rawScore": 0.05245686768588884,
-      "relevanceScore": 0.1484756691677973,
-      "suggestedRadius": 59.12,
+      "rawScore": 0.07321587869044764,
+      "relevanceScore": 0.18588516642803932,
+      "suggestedRadius": 61.87,
       "imageUrl": "assets/images/bsky_3n2co2aeshk27_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2co2aeshk27_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -520,7 +525,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Léo Gamalho merece o reconhecimento: 92 gols na Série B é uma marca enorme e mostra consistência de quem jogou muito tempo na divisão. Igualar Zé Carlos é histórico e prova que ele é um dos grandes nomes da competição.",
+          "text": "Léo Gamalho igualar Zé Carlos em 92 gols destaca sua regularidade como goleador em várias temporadas da Série B.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -528,7 +533,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A lista mistura épocas e critérios diferentes, então esse recorde de 92 gols precisa de contexto. Sem saber quantos jogos cada um fez ou em que formatos de campeonato atuaram, a comparação fica injusta e esvazia o feito.",
+          "text": "Colocar Léo Gamalho no topo com 92 gols ignora que a Série B atual tem nível diferente dos tempos de Zé Carlos.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -536,45 +541,36 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O número de 92 gols é impressionante, mas o que mais se vê nos comentários é a dúvida sobre a origem da música citada na postagem. A homenagem a Léo Gamalho acabou dividindo espaço com uma discussão sobre a autoria do hino.",
+          "text": "A artilharia histórica da Série B mostra vários jogadores com números próximos, como Caio Dantas com 52 gols.",
           "source": "sintese",
-          "evidence": [
-            1,
-            2,
-            3
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n25cn54k2k2e",
+      "id": "bsky_3n27h4bace22q",
       "rank": 10,
-      "title": "Filho de Leandro Ávila se casa com filha de Júnior Baiano",
-      "label": "Casamento entre filhos de ex-jogadores",
-      "context": "O filho do ex-jogador Leandro Ávila se casou com a filha do também ex-jogador Júnior Baiano, conforme noticiado pelo ge.globo.com. A união entre as famílias de dois nomes conhecidos do futebol chamou a atenção nas redes sociais.",
+      "title": "Estamos dando voz ao que não presta e deixando o que presta de lado",
+      "label": "Foco em novela de Mario Teixeira",
+      "context": "Elísio Lopes Jr, dramaturgo baiano, teve seu primeiro grande trabalho na TV deixado de lado enquanto se fala há semanas da novela de Mario Teixeira. Isso leva as pessoas a acharem que a teledramaturgia brasileira está falida.",
       "source": "bluesky",
       "subreddit": "bsky_ba",
-      "permalink": "https://bsky.app/profile/ecolombari.bsky.social/post/3n25cn54k2k2e",
-      "createdAt": "2026-11-12T20:28:10.283000+00:00",
-      "rawScore": 0.02100103708341117,
-      "relevanceScore": 0.11264441884030327,
-      "suggestedRadius": 56.14,
-      "imageUrl": "assets/images/bsky_3n25cn54k2k2e_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n25cn54k2k2e_reddit_thumb.jpg",
-      "category": "esportes",
+      "permalink": "https://bsky.app/profile/milamesmo.bsky.social/post/3n27h4bace22q",
+      "createdAt": "2026-11-13T16:53:29.273000+00:00",
+      "rawScore": 0.13335565727161122,
+      "relevanceScore": 0.14123532258160773,
+      "suggestedRadius": 58.55,
+      "imageUrl": "assets/images/bsky_3n27h4bace22q_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27h4bace22q_uns_thumb.jpg",
+      "category": "geopolitica",
       "region": "br-ba",
       "sources": [
         {
-          "title": "O filho do Leandro Ávila se casou com a filha do Júnior Baiano ge.globo.com/futebol/time...",
-          "url": "https://bsky.app/profile/ecolombari.bsky.social/post/3n25cn54k2k2e",
-          "subreddit": "bsky_ba"
-        },
-        {
-          "title": "Sou muito filho de baiano mesmo, amo uma farofa kkkkk",
-          "url": "https://bsky.app/profile/barbieanjodamorte.bsky.social/post/3mzykfj4ktc2f",
+          "title": "estamos dando voz ao que não presta e deixando o que presta de lado. Elísio Lopes Jr um dramaturgo baiano que merecia ter seu primeiro grande trabalho na tv enaltecido, junto com o resto da equipe, mas estamos há semanas falando de Mario Teixeira, um paulista que tá na sua 3ª novela sobre o sertão.",
+          "url": "https://bsky.app/profile/milamesmo.bsky.social/post/3n27h4bace22q",
           "subreddit": "bsky_ba"
         }
       ],
@@ -582,15 +578,17 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Achei muito legal ver essa união entre famílias do futebol. Mostra que os laços vão além dos gramados e que os filhos estão seguindo seus próprios caminhos, com todo o apoio dos pais.",
+          "text": "Elísio Lopes Jr e sua equipe baiana merecem destaque pelo trabalho original na TV em vez de repetirmos foco em mais uma novela sobre sertão.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Fico pensando se essa exposição toda não é demais para um casamento. Os filhos não escolheram ser notícia, e a vida pessoal deles acaba virando entretenimento público sem necessidade.",
+          "text": "Priorizar só o que é novo e regional ignora que novelas como as de Mario Teixeira mantêm público e tradição da teledramaturgia.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -598,13 +596,15 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "É uma notícia curiosa, mas não vejo muito o que discutir. São duas pessoas se casando, com famílias conhecidas, e o resto é especulação. O importante é que sejam felizes.",
+          "text": "Quando só se divulga conteúdo considerado ruim, o público acaba achando que toda produção brasileira é assim e prefere streaming.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     }
   ]

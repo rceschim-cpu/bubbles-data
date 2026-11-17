@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-11-16T21:53:04.857925+00:00",
+  "generatedAt": "2026-11-17T07:33:11.304676+00:00",
   "region": "br-df",
-  "count": 10,
+  "count": 9,
   "items": [
     {
       "id": "bsky_3n2gmnscpo22p",
       "rank": 1,
-      "title": "Capitalismo impede conhecer parques nacionais do Brasil, diz usuário",
-      "label": "Turismo nos parques nacionais · Barreira financeira",
-      "context": "Um usuário do Bluesky afirmou que o capitalismo o impede de conhecer mais parques nacionais do Brasil e passar uma semana em cada um. A fala destaca como o custo de viagem e hospedagem limita o acesso a esses destinos.",
+      "title": "Capitalismo impede conhecer parques nacionais do Brasil",
+      "label": "Dificuldade de viajar por parques nacionais",
+      "context": "Uma usuária postou que o capitalismo a impede de visitar parques nacionais do Brasil. O comentário observa que quem tem condição financeira um pouco melhor consegue viajar por quase todo o mapa ficando em casa de conhecidos.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/sav.trevastropicais.art.br/post/3n2gmnscpo22p",
@@ -31,7 +31,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O capitalismo realmente cria barreiras: sem dinheiro sobrando, não dá para emendar uma semana em cada parque nacional. Quem tem condição um pouco melhor já conseguiria visitar quase todos, como diz o comentário, o que mostra que o problema é renda, não falta de vontade.",
+          "text": "Pessoas com renda um pouco maior conseguem visitar quase todos os parques nacionais ficando em casa de conhecidos.",
           "source": "sintese",
           "evidence": [
             1
@@ -41,89 +41,40 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Culpar o capitalismo é fácil, mas o Brasil tem parques com entrada gratuita e camping barato. O que falta é organização e prioridade: dá para conhecer vários destinos sem gastar fortuna, só planejando com antecedência e abrindo mão de luxo.",
+          "text": "Ser o mais pobre torna impossível planejar viagens longas mesmo com ajuda de conhecidos.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O desejo de passar uma semana em cada parque é legítimo, mas o custo de deslocamento e hospedagem pesa mesmo. Talvez a discussão seja menos sobre capitalismo e mais sobre como o turismo de natureza no Brasil ainda é caro e concentrado em poucas regiões.",
+          "text": "A limitação financeira afeta diretamente a possibilidade de conhecer o Brasil inteiro.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2gz4fpkw224",
-      "rank": 2,
-      "title": "Formada em urbanismo, servidora do GDF atua na gestão do território",
-      "label": "Urbanista no GDF · Atuação na área de formação",
-      "context": "Uma pessoa formada em urbanismo afirma trabalhar na gestão do território do GDF, atuando na área em que se formou. O relato destaca a coincidência entre a formação acadêmica e a função exercida no serviço público.",
-      "source": "bluesky",
-      "subreddit": "bsky_df",
-      "permalink": "https://bsky.app/profile/julianamarques.bsky.social/post/3n2gz4fpkw224",
-      "createdAt": "2026-11-16T17:04:20.142000+00:00",
-      "rawScore": 0.37862327621102576,
-      "relevanceScore": 0.42069252912336197,
-      "suggestedRadius": 74.92,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-df",
-      "sources": [
-        {
-          "title": "Haha mas só no que sou formada ja tá bom Haha (no GDF trabalho na gestão do território como urbanista mesmo)",
-          "url": "https://bsky.app/profile/julianamarques.bsky.social/post/3n2gz4fpkw224",
-          "subreddit": "bsky_df"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Trabalhar na gestão do território do GDF sendo formada em urbanismo é o cenário ideal: a pessoa aplica na prática exatamente o que estudou, o que tende a render decisões melhores para a cidade do que alguém sem essa formação.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Formação em urbanismo não garante que a gestão do território do GDF funcione bem na prática, porque o dia a dia do serviço público envolve pressões políticas e burocráticas que o diploma sozinho não resolve.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A coincidência entre formação e função no GDF é positiva, mas o relato por si só não diz muito: o que importa é saber quais decisões concretas de gestão do território essa pessoa toma e como elas afetam a cidade.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n26s3wejqk2e",
-      "rank": 3,
-      "title": "Celina Leão diz que GDF vai recorrer de decisão sobre velocidade",
-      "label": "GDF recorre de decisão sobre velocidade",
-      "context": "A governadora Celina Leão afirmou que o Governo do Distrito Federal vai recorrer da decisão judicial que alterou a velocidade permitida em vias do DF, alegando ter estudos técnicos que comprovam a necessidade de manter a velocidade atual. A decisão recorrida não teve seu conteúdo detalhado nas fontes, mas o recurso do GDF busca preservar a velocidade estabelecida.",
+      "rank": 2,
+      "title": "Governadora Celina Leão afirma que GDF vai recorrer para manter velocidade atual",
+      "label": "GDF recorre de limite de velocidade",
+      "context": "A governadora Celina Leão afirmou que o Governo do Distrito Federal vai recorrer da decisão sobre velocidade, com base em estudos técnicos. Brasília tem distâncias urbanas grandes que afetam a mobilidade dos moradores.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/cyrusafa.bsky.social/post/3n26s3wejqk2e",
       "createdAt": "2026-11-13T10:37:29.575000+00:00",
-      "rawScore": 0.13145251464986585,
-      "relevanceScore": 0.4040503601540023,
-      "suggestedRadius": 74.14,
+      "rawScore": 0.1712341238864117,
+      "relevanceScore": 0.4355635185678302,
+      "suggestedRadius": 75.6,
       "imageUrl": "assets/images/bsky_3n26s3wejqk2e_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n26s3wejqk2e_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -149,7 +100,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O GDF está certo em recorrer: se existem estudos técnicos que comprovam a necessidade da velocidade atual, é obrigação do governo defendê-los na Justiça. Mudar limite sem base técnica pode prejudicar a fluidez do trânsito em uma cidade espraiada como Brasília.",
+          "text": "O Distrito Federal é uma cidade muito espraiada, com distâncias que justificam manter a velocidade atual para não prejudicar quem precisa se deslocar.",
           "source": "sintese",
           "evidence": [
             6
@@ -159,7 +110,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Recorrer com base em 'estudos técnicos' soa como desculpa para manter velocidade alta e agradar motorista. O exemplo de São Paulo mostra que aumentar a velocidade máxima pode até reduzir a velocidade média e piorar a segurança. O GDF deveria aceitar a decisão e priorizar vidas.",
+          "text": "O programa Acelera SP mostrou que elevar a velocidade máxima aumentou mortes mesmo reduzindo a velocidade média observada.",
           "source": "sintese",
           "evidence": [
             5
@@ -169,7 +120,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Brasília tem distâncias enormes, então manter velocidade mais alta faz sentido em alguns trechos. Mas o limitador da velocidade média não é a máxima, e sim o trânsito. O debate deveria olhar para dados concretos de cada via, não para recurso automático.",
+          "text": "O que realmente limita a velocidade média nas vias não é o valor máximo permitido, mas outros fatores da infraestrutura.",
           "source": "sintese",
           "evidence": [
             6
@@ -177,22 +128,75 @@
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2gz4fpkw224",
+      "rank": 3,
+      "title": "Haha mas só no que sou formada ja tá bom Haha (no GDF trabalho na gestão do território como urbanista mesmo)",
+      "label": "Trabalho como urbanista no GDF",
+      "context": "Uma pessoa menciona seu trabalho no GDF como urbanista. Ela afirma que isso já basta por ser sua área de formação.",
+      "source": "bluesky",
+      "subreddit": "bsky_df",
+      "permalink": "https://bsky.app/profile/julianamarques.bsky.social/post/3n2gz4fpkw224",
+      "createdAt": "2026-11-16T17:04:20.142000+00:00",
+      "rawScore": 0.31532117804024373,
+      "relevanceScore": 0.335416922069622,
+      "suggestedRadius": 70.75,
+      "imageUrl": "assets/images/generic.png",
+      "imageThumbUrl": "assets/images/generic.png",
+      "category": "geopolitica",
+      "region": "br-df",
+      "sources": [
+        {
+          "title": "Haha mas só no que sou formada ja tá bom Haha (no GDF trabalho na gestão do território como urbanista mesmo)",
+          "url": "https://bsky.app/profile/julianamarques.bsky.social/post/3n2gz4fpkw224",
+          "subreddit": "bsky_df"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Atuar na gestão do território no GDF representa uma aplicação direta da formação em urbanismo.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O comentário não esclarece se o cargo exige a formação específica mencionada.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A fala destaca apenas o vínculo entre a graduação e o emprego atual.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n2e2q2cwls27",
       "rank": 4,
-      "title": "Projeto engavetado do GDF é retomado e gera revolta",
-      "label": "Retomada de projeto do GDF",
-      "context": "Um projeto do Governo do Distrito Federal que havia sido engavetado voltou a ser discutido, gerando críticas nas redes. A retomada provocou reações negativas de quem se opõe à iniciativa.",
+      "title": "Uai, esse projeto num tinha sido engavetado?",
+      "label": "Projeto engavetado retorna no GDF",
+      "context": "Um post questiona se um projeto já engavetado voltou a ser tratado pela cúpula do GDF. O comentário indica que tentativas recentes de retomada foram impedidas novamente essa semana.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/rinaldocosta.bsky.social/post/3n2e2q2cwls27",
       "createdAt": "2026-11-15T12:55:13.247000+00:00",
-      "rawScore": 0.21349935763295447,
-      "relevanceScore": 0.23722150848106052,
-      "suggestedRadius": 65.22,
+      "rawScore": 0.2634898776452156,
+      "relevanceScore": 0.2765021745947549,
+      "suggestedRadius": 67.55,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -208,15 +212,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A retomada do projeto é necessária para o desenvolvimento da cidade, mesmo que gere desconforto. O GDF tem que tocar obras e políticas públicas, e engavetar tudo só atrasa a vida de quem precisa.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Esse projeto já tinha sido engavetado e agora voltam com ele sem explicar direito. A população não aguenta mais respirar o mesmo ar dessa cúpula do GDF, que insiste em decisões que não beneficiam ninguém.",
+          "text": "Impedir o projeto novamente essa semana mostra que é possível barrar iniciativas que já foram consideradas inadequadas e que a pressão consegue surtir efeito contra a cúpula do GDF.",
           "source": "sintese",
           "evidence": [
             1
@@ -224,30 +220,40 @@
           "votes": 0
         },
         {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Falta informação clara sobre por que o projeto voltou e quais os reais impactos. Sem transparência, fica difícil apoiar ou criticar, e a sensação é de que decisões são tomadas sem diálogo com a população.",
+          "id": "op2",
+          "tone": "negative",
+          "text": "A cúpula do GDF insiste em retomar projetos que já haviam sido engavetados, o que gera indignação por demonstrar falta de respeito às decisões anteriores.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O comentário confirma que o projeto continua sendo tentado apesar de paralisação anterior, sem indicar se a nova tentativa vai prosperar ou não.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n2esveixbk2h",
       "rank": 5,
       "title": "Tenho que ir ao Norte e visitar mais o Nordeste também",
-      "label": "Vontade de conhecer Norte e Nordeste",
-      "context": "O autor do post afirma que precisa ir ao Norte e visitar mais o Nordeste. A declaração expressa o desejo de conhecer melhor as regiões brasileiras.",
+      "label": "Plano de viagem ao Norte e Nordeste",
+      "context": "Uma postagem no Bluesky expressa o desejo de ir ao Norte e visitar mais o Nordeste. Comentários citam locais como Minas Gerais e pedem o nome da cidade da foto.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/sisiphus.bsky.social/post/3n2esveixbk2h",
       "createdAt": "2026-11-15T20:07:46.055000+00:00",
-      "rawScore": 0.1880783928307702,
-      "relevanceScore": 0.20897599203418912,
-      "suggestedRadius": 63.43,
+      "rawScore": 0.20935117992305796,
+      "relevanceScore": 0.2149646927910949,
+      "suggestedRadius": 63.82,
       "imageUrl": "assets/images/bsky_3n2esveixbk2h_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2esveixbk2h_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -263,46 +269,50 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Norte e o Nordeste têm belezas naturais e culturais que muita gente do Sul e Sudeste ainda não conhece. Viajar por essas regiões é uma forma de valorizar o que o Brasil tem de melhor e ampliar a própria visão de mundo.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Falar que 'precisa' ir ao Norte e ao Nordeste é fácil, mas o custo de viajar para essas regiões ainda é alto e a infraestrutura turística é desigual. Sem políticas públicas de acesso, esse desejo fica só no discurso.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A vontade de conhecer o Norte e o Nordeste é válida, mas o comentário sobre o lobo-guará em Minas Gerais mostra que o Brasil tem destinos interessantes em todas as regiões. O ideal é explorar o país como um todo, sem hierarquizar belezas.",
+          "text": "Explorar o Norte e o Nordeste revela paisagens e animais como o lobo guará que valem a viagem.",
           "source": "sintese",
           "evidence": [
             1
           ],
           "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O post não traz detalhes práticos sobre como planejar essas visitas.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A foto parece de uma pessoa conhecida, mas falta confirmar qual cidade aparece.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n2e43eaj4k2b",
       "rank": 6,
-      "title": "GDF dá calote em instituição social enquanto escolas e hospitais estão precários, diz publicação",
-      "label": "Calote do GDF · Prioridades em questão",
-      "context": "Uma publicação no Bluesky afirma que o GDF deu calote em uma instituição social enquanto escolas e hospitais públicos estão em más condições. A postagem questiona as prioridades de Musseline Leão diante desse cenário.",
+      "title": "GDF dando calote em instituição social mas Musseline Leão tem prioridades",
+      "label": "Calote do GDF e prioridades de Musseline",
+      "context": "O GDF está dando calote em instituição social enquanto escolas e hospitais caem aos pedaços. Musseline Leão define outras prioridades segundo o post.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/evandrofisi.co/post/3n2e43eaj4k2b",
       "createdAt": "2026-11-15T13:19:53.642000+00:00",
-      "rawScore": 0.13822476286578195,
-      "relevanceScore": 0.15358306985086884,
-      "suggestedRadius": 59.51,
+      "rawScore": 0.14877542032938765,
+      "relevanceScore": 0.1461104376911847,
+      "suggestedRadius": 58.93,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -318,7 +328,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A denúncia escancara o descompasso do GDF: enquanto instituições sociais ficam sem repasse, a estrutura de escolas e hospitais segue abandonada. Cobrar prioridades de Musseline Leão é legítimo diante de um governo que parece escolher onde gastar.",
+          "text": "Musseline Leão direciona os recursos do GDF para projetos que podem gerar resultados concretos e duradouros em vez de cobrir pagamentos antigos sem retorno visível para a população.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -326,7 +336,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Postar no Bluesky sem apresentar documento, contrato ou valor não prova calote nenhum. Acusar o GDF e cobrar Musseline Leão com base em uma frase solta é irresponsável e desvia o foco de uma cobrança que precisaria de dados concretos.",
+          "text": "O GDF erra ao deixar instituições sociais sem pagamento e permitir que escolas e hospitais se deteriorem enquanto Musseline Leão foca em outras demandas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -334,28 +344,28 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A situação de escolas e hospitais realmente merece cobrança, mas a postagem mistura dois assuntos sem mostrar números. Antes de apontar prioridades erradas de Musseline Leão, seria preciso saber qual instituição, qual valor e qual prazo foram descumpridos.",
+          "text": "As escolhas de Musseline Leão precisam ser avaliadas em relação às dívidas sociais e ao estado atual de escolas e hospitais para entender o critério usado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n27a3qgi622r",
       "rank": 7,
-      "title": "Justiça desmonta factoide do triplex da OAS usado contra Lula",
-      "label": "Triplex da OAS · Decisão judicial",
-      "context": "A Justiça desmontou o factoide do triplex da OAS, que havia dado origem ao processo contra Lula. O caso foi central na condenação do ex-presidente e agora é questionado judicialmente.",
+      "title": "Triplex da OAS: Justiça desmorona factoide da Globo que deu origem ao Lawfare contra Lula",
+      "label": "Triplex OAS e decisão judicial",
+      "context": "A justiça desmoronou o factoide da Globo sobre o triplex da OAS. Isso atingiu a origem do processo contra Lula.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/hugobezerra.bsky.social/post/3n27a3qgi622r",
       "createdAt": "2026-11-13T14:47:58.771000+00:00",
-      "rawScore": 0.04666781775606519,
-      "relevanceScore": 0.05185313084007243,
-      "suggestedRadius": 49.66,
+      "rawScore": 0.02674795860199088,
+      "relevanceScore": 0.007406275575309888,
+      "suggestedRadius": 41.16,
       "imageUrl": "assets/images/bsky_3n27a3qgi622r_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n27a3qgi622r_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -371,7 +381,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A decisão judicial confirma que o triplex da OAS nunca foi prova real de nada e que a condenação de Lula se apoiou em narrativa midiática, não em fatos. Isso expõe o lawfare que tirou o ex-presidente da disputa eleitoral.",
+          "text": "A decisão judicial expõe que o caso do triplex começou de uma narrativa fabricada pela Globo e usada no processo contra Lula.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -379,7 +389,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O triplex da OAS foi apenas um dos elementos do processo, e a decisão judicial não apaga o conjunto de provas que levou à condenação. Reduzir tudo a um factoide da Globo ignora o trabalho da Justiça e o devido processo legal.",
+          "text": "Apresentar a sentença como desmonte de um factoide ignora as provas reais que sustentaram a investigação do triplex.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -387,28 +397,28 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O caso do triplex da OAS mostra como a cobertura midiática e a atuação judicial se misturaram, mas a decisão atual precisa ser lida com cautela. O importante é separar o que foi factoide do que foi investigação legítima.",
+          "text": "O resultado depende de quais documentos e depoimentos a corte considerou ao revisar o caso do triplex da OAS.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n25sasa4nc2b",
       "rank": 8,
-      "title": "Publicação no Instagram sobre nova onda de sindicalismo",
-      "label": "Sindicalismo · Nova mobilização",
-      "context": "Uma publicação no Instagram, compartilhada no Bluesky em 13 de novembro de 2026, defende uma nova maré de sindicalismo. O post aparece em um contexto de discussão sobre organização coletiva de trabalhadores.",
+      "title": "www.instagram.com/p/DfpFb_VA6x...",
+      "label": "Sindicalismo em discussão",
+      "context": "Um link para um post no Instagram foi compartilhado. Um comentário afirma que é hora de uma nova maré de sindicalismo.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/roberto1501.bsky.social/post/3n25sasa4nc2b",
       "createdAt": "2026-11-13T01:07:35.877000+00:00",
-      "rawScore": 0.04430714959174574,
-      "relevanceScore": 0.04923016621305082,
-      "suggestedRadius": 49.31,
+      "rawScore": 0.02474171761168552,
+      "relevanceScore": 0.005125854663298478,
+      "suggestedRadius": 40.3,
       "imageUrl": "assets/images/bsky_3n25sasa4nc2b_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n25sasa4nc2b_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -424,7 +434,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Uma nova maré de sindicalismo é exatamente o que os trabalhadores precisam agora. A organização coletiva é o caminho para conquistar direitos e melhorar as condições de trabalho, e esse post mostra que a ideia está voltando com força.",
+          "text": "Os trabalhadores precisam de uma nova maré de sindicalismo para recuperar força diante das condições atuais.",
           "source": "sintese",
           "evidence": [
             1
@@ -434,7 +444,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Sindicato já mostrou o que faz: cobra caro do trabalhador e entrega pouco em troca. Apostar em uma nova maré de sindicalismo é repetir um modelo que afastou muita gente e não resolveu os problemas reais de quem trabalha.",
+          "text": "O sindicalismo antigo já mostrou limites e não resolve os problemas do mercado de trabalho de hoje.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -442,28 +452,28 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Falar em nova maré de sindicalismo só faz sentido se o movimento se renovar de verdade. O modelo antigo não conversa com quem trabalha por aplicativo ou em contratos flexíveis, então depende muito de como essa nova organização vai se estruturar.",
+          "text": "Qualquer movimento sindical depende de como se organiza e de quais demandas prioriza.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n26pmacmys2z",
       "rank": 9,
-      "title": "Justiça determina remoção de conteúdo publicado pela revista Fórum",
-      "label": "Justiça · Conteúdo removido da revista Fórum",
-      "context": "A Justiça determinou a remoção de um conteúdo publicado pela revista Fórum, segundo a própria publicação. A decisão envolve a mídia e levanta discussão sobre limites de decisões judiciais sobre conteúdo jornalístico.",
+      "title": "revistaforum.com.br/midia/justic...",
+      "label": "Post no Bluesky sobre artigo",
+      "context": "Em 13 de novembro de 2026 um usuário compartilhou no Bluesky o link revistaforum.com.br/midia/justic.... O compartilhamento direciona para conteúdo da Revista Fórum.",
       "source": "bluesky",
       "subreddit": "bsky_df",
       "permalink": "https://bsky.app/profile/arlindars.bsky.social/post/3n26pmacmys2z",
       "createdAt": "2026-11-13T09:52:56.881000+00:00",
-      "rawScore": 0.04235880764321996,
-      "relevanceScore": 0.04706534182579995,
-      "suggestedRadius": 49.02,
+      "rawScore": 0.02023215550335233,
+      "relevanceScore": 0.0,
+      "suggestedRadius": 36.0,
       "imageUrl": "assets/images/bsky_3n26pmacmys2z_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n26pmacmys2z_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -479,7 +489,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Justiça agiu corretamente ao mandar remover o conteúdo da revista Fórum, porque decisões judiciais precisam ser cumpridas e nenhum veículo pode ficar acima da lei quando publica algo que um juiz considerou irregular.",
+          "text": "O link traz visibilidade para o material da Revista Fórum.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -487,7 +497,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Uma decisão judicial mandando a revista Fórum apagar conteúdo publicado acende um alerta para a imprensa: remoção de material jornalístico por ordem da Justiça abre precedente perigoso para a liberdade de publicar.",
+          "text": "Falta contexto suficiente para avaliar o artigo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -495,66 +505,13 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O caso da revista Fórum depende do que estava no conteúdo removido e do motivo da decisão: sem saber o teor do material e a fundamentação do juiz, fica difícil dizer se a remoção foi acertada ou exagerada.",
+          "text": "O post apenas repassa o endereço sem comentário adicional.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
         }
       ],
-      "enrichedBy": "deepseek-chat",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3mzwh5mmems27",
-      "rank": 10,
-      "title": "Cadê um espião pra fingir que gosta de mim em troca de segredos do GDF",
-      "label": "Piada sobre espião e segredos do GDF",
-      "context": "Um usuário do Bluesky publicou uma piada pedindo um espião que finja gostar dele em troca de segredos do Governo do Distrito Federal. A brincadeira faz referência a um suposto esquema de espionagem envolvendo o GDF.",
-      "source": "bluesky",
-      "subreddit": "bsky_df",
-      "permalink": "https://bsky.app/profile/julianamarques.bsky.social/post/3mzwh5mmems27",
-      "createdAt": "2026-11-10T03:00:16.983000+00:00",
-      "rawScore": 0.0,
-      "relevanceScore": 0.0,
-      "suggestedRadius": 36.0,
-      "imageUrl": "assets/images/generic.png",
-      "imageThumbUrl": "assets/images/generic.png",
-      "category": "geopolitica",
-      "region": "br-df",
-      "sources": [
-        {
-          "title": "Cadê um espião pra fingir que gosta de mim em troca de segredos do GDF",
-          "url": "https://bsky.app/profile/julianamarques.bsky.social/post/3mzwh5mmems27",
-          "subreddit": "bsky_df"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A piada é uma forma inteligente de criticar a falta de transparência no GDF. Se até um espião fictício é necessário para obter segredos, isso mostra o quanto a gestão esconde informações da população.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Brincar com espionagem em um momento de investigações reais sobre o GDF é irresponsável. A piada banaliza um assunto sério e pode desviar a atenção das cobranças por respostas concretas.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "A graça da piada está no exagero, mas ela também revela como o tema da espionagem virou parte do imaginário popular. Vale lembrar que humor e política sempre andaram juntos, sem necessariamente prejudicar o debate.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "deepseek-chat",
+      "enrichedBy": "grok-3-mini",
       "promptVersion": 2
     }
   ]

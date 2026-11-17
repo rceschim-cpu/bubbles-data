@@ -1,29 +1,34 @@
 {
-  "generatedAt": "2026-11-16T21:53:04.857925+00:00",
+  "generatedAt": "2026-11-17T07:33:11.304676+00:00",
   "region": "br-pi",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n2h7jwqlrk2g",
+      "id": "bsky_3n2hp7w6rls2v",
       "rank": 1,
-      "title": "Mandando “Robert Pattinson é anunciado no papel de Ministro da Fazenda” no e-mail da piauí Herald e emitindo nota de serviço",
-      "label": "E-mail satírico sobre Pattinson como ministro",
-      "context": "Uma pessoa enviou para a piauí Herald um e-mail com o texto “Robert Pattinson é anunciado no papel de Ministro da Fazenda” e emitiu nota de serviço. O conteúdo foi compartilhado publicamente como registro da ação.",
+      "title": "O Piauí avança na educação. No futuro isso o levará bem mais acima do que está.",
+      "label": "Piauí avança na educação",
+      "context": "Um post afirma que o Piauí avança na educação. Isso pode levar o estado a posição superior no futuro.",
       "source": "bluesky",
       "subreddit": "bsky_pi",
-      "permalink": "https://bsky.app/profile/umarel.bsky.social/post/3n2h7jwqlrk2g",
-      "createdAt": "2026-11-16T18:59:15.456000+00:00",
+      "permalink": "https://bsky.app/profile/fabridosreis.bsky.social/post/3n2hp7w6rls2v",
+      "createdAt": "2026-11-16T23:40:04.047000+00:00",
       "rawScore": 0.9,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3n2h7jwqlrk2g_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2h7jwqlrk2g_uns_thumb.jpg",
+      "imageUrl": "assets/images/bsky_3n2hp7w6rls2v_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2hp7w6rls2v_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-pi",
       "sources": [
         {
-          "title": "Mandando “Robert Pattinson é anunciado no papel de Ministro da Fazenda” no e-mail da piauí Herald e e emitindo nota de serviço",
-          "url": "https://bsky.app/profile/umarel.bsky.social/post/3n2h7jwqlrk2g",
+          "title": "O PIAUÍ AVANÇA NA EDUCAÇÃO. NO FUTURO ISSO O LEVARÁ BEM MAIS ACIMA DO QUE ESTÁ.",
+          "url": "https://bsky.app/profile/fabridosreis.bsky.social/post/3n2hp7w6rls2v",
+          "subreddit": "bsky_pi"
+        },
+        {
+          "title": "está acontecendo algo no meu tiktok que só aparece conteúdo (homem) do maranhão, piauí e ceará...",
+          "url": "https://bsky.app/profile/qserjo.bsky.social/post/3n24f2j6awk2q",
           "subreddit": "bsky_pi"
         }
       ],
@@ -31,25 +36,31 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O e-mail com Robert Pattinson como Ministro da Fazenda funciona como sátira direta sobre escolhas políticas improváveis.",
+          "text": "O avanço educacional no Piauí funciona como incentivo para visitar o estado e conhecer o Nordeste atual.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            1
+          ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Usar o nome de um ator estrangeiro para esse tipo de anúncio desrespeita o cargo de Ministro da Fazenda.",
+          "text": "A TV Globo ainda não mostra o Nordeste do século XXI apesar do progresso educacional no Piauí.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            2
+          ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A nota de serviço enviada junto com o e-mail indica que o remetente tratou o envio como procedimento formal.",
+          "text": "Personagens como Major Serpinia representam uma homenagem independente ao Piauí em produções caseiras.",
           "source": "sintese",
-          "evidence": [],
+          "evidence": [
+            3
+          ],
           "votes": 0
         }
       ],
@@ -59,16 +70,16 @@
     {
       "id": "bsky_3n2gonmvyo22i",
       "rank": 2,
-      "title": "Tá foda esse b.r.o bró, pelo menos aqui em Teresina tá chovendo esses últimos dias por algum motivo",
+      "title": "Tá foda esse bro bró, pelo menos em Teresina tá chovendo esses últimos dias por algum motivo",
       "label": "Chuva em Teresina · Dias recentes",
-      "context": "Um post relata que tem chovido em Teresina nos últimos dias. Comentários mencionam o calor intenso como contexto dessa observação.",
+      "context": "Um post relata chuva em Teresina nos últimos dias sem motivo aparente. Outro post menciona comentários sobre excessos fiscalistas no Foro de Teresina.",
       "source": "bluesky",
       "subreddit": "bsky_pi",
       "permalink": "https://bsky.app/profile/bjussy.bsky.social/post/3n2gonmvyo22i",
       "createdAt": "2026-11-16T13:57:06.442000+00:00",
-      "rawScore": 0.40332407728108277,
-      "relevanceScore": 0.5592489747567586,
-      "suggestedRadius": 80.87,
+      "rawScore": 0.10457859239737186,
+      "relevanceScore": 0.20457859239737186,
+      "suggestedRadius": 63.14,
       "imageUrl": "assets/images/bsky_3n2gonmvyo22i_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2gonmvyo22i_uns_thumb.jpg",
       "category": "geopolitica",
@@ -89,119 +100,30 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A chuva em Teresina alivia o calor do carai que domina o resto do país nesses dias.",
+          "text": "Cancelamentos como o da Tabata Amaral acabam aumentando votos nas eleições seguintes para quem é alvo.",
           "source": "sintese",
           "evidence": [
-            2
+            1
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O calor continua forte e o post só reforça que a situação está difícil em várias regiões.",
+          "text": "Defender que o governo não gaste mais do que arrecada logo será tratado como crime.",
+          "source": "sintese",
+          "evidence": [
+            3
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O calor intenso em Teresina já passou da fase de Nino e chegou ao ponto de incomodar de verdade.",
           "source": "sintese",
           "evidence": [
             2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Chuva em Teresina aparece como fato isolado sem explicar por que está acontecendo agora.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2egpfrphc2p",
-      "rank": 3,
-      "title": "Graças ao investimento público. piauihoje.com/noticias/eco...",
-      "label": "",
-      "context": "",
-      "source": "bluesky",
-      "subreddit": "bsky_pi",
-      "permalink": "https://bsky.app/profile/coletivoosfofos.bsky.social/post/3n2egpfrphc2p",
-      "createdAt": "2026-11-15T16:29:39.841000+00:00",
-      "rawScore": 0.4041740815652587,
-      "relevanceScore": 0.44908231285028744,
-      "suggestedRadius": 76.21,
-      "imageUrl": "assets/images/bsky_3n2egpfrphc2p_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2egpfrphc2p_reddit.jpg",
-      "category": "geopolitica",
-      "region": "br-pi",
-      "sources": [
-        {
-          "title": "Graças ao investimento público. piauihoje.com/noticias/eco...",
-          "url": "https://bsky.app/profile/coletivoosfofos.bsky.social/post/3n2egpfrphc2p",
-          "subreddit": "bsky_pi"
-        }
-      ],
-      "opinions": [],
-      "enrichedBy": "",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n253zsegic2j",
-      "rank": 4,
-      "title": "O Piauí desenvolveu o SoberanIA, primeiro modelo de IA em português no Brasil",
-      "label": "SoberanIA · Modelo de IA para governos",
-      "context": "O Piauí criou o SoberanIA, modelo de IA treinado com 500 bilhões de tokens em português usando documentos do SEI federal. Ele permite que prefeituras e órgãos públicos analisem leis e processos sem enviar dados para fora.",
-      "source": "bluesky",
-      "subreddit": "bsky_pi",
-      "permalink": "https://bsky.app/profile/hiltonbastos.bsky.social/post/3n253zsegic2j",
-      "createdAt": "2026-11-12T18:34:12.979000+00:00",
-      "rawScore": 0.3754743757636373,
-      "relevanceScore": 0.41719375084848587,
-      "suggestedRadius": 74.75,
-      "imageUrl": "assets/images/bsky_3n253zsegic2j_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n253zsegic2j_reddit_thumb.jpg",
-      "category": "tech",
-      "region": "br-pi",
-      "sources": [
-        {
-          "title": "O Piauí desenvolveu o SoberanIA O primeiro modelo de grande escala de inteligência artificial criado 100% em língua portuguesa no Brasil. Destina-se a prefeituras, estados e órgãos públicos para compreender a legislação e os processos administrativos brasileiros sem enviar... Por @JeitoNordestino",
-          "url": "https://bsky.app/profile/hiltonbastos.bsky.social/post/3n253zsegic2j",
-          "subreddit": "bsky_pi"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O Piauí está gerando tecnologia relevante com o SoberanIA, um modelo treinado em documentos oficiais brasileiros que pode ajudar prefeituras e estados a lidarem com legislação local.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            4,
-            6
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Ainda não está claro se o SoberanIA representa uma boa notícia, já que projetos de IA no Brasil já foram interrompidos no passado por questões de soberania.",
-          "source": "sintese",
-          "evidence": [
-            7,
-            8
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O SoberanIA usa documentos do governo federal para treinar o modelo, mas a mídia costuma ignorar avanços tecnológicos que surgem do Nordeste.",
-          "source": "sintese",
-          "evidence": [
-            1,
-            5
           ],
           "votes": 0
         }
@@ -211,7 +133,7 @@
     },
     {
       "id": "bsky_3n2dzli6zjc2z",
-      "rank": 5,
+      "rank": 3,
       "title": "Dois dos cinco estados com mais oferta de serviços públicos digitais são do Nordeste, bicho, é o Piauí em 1º e Pernambuco em 4º, o RJ tá em 7º, São Paulo tá em 12º",
       "label": "",
       "context": "",
@@ -219,9 +141,9 @@
       "subreddit": "bsky_pi",
       "permalink": "https://bsky.app/profile/munky.bsky.social/post/3n2dzli6zjc2z",
       "createdAt": "2026-11-15T12:34:46.648000+00:00",
-      "rawScore": 0.2576556023303011,
-      "relevanceScore": 0.3973951137003346,
-      "suggestedRadius": 73.82,
+      "rawScore": 0.10260326818693384,
+      "relevanceScore": 0.20260326818693386,
+      "suggestedRadius": 63.01,
       "imageUrl": "assets/images/bsky_3n2dzli6zjc2z_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2dzli6zjc2z_uns.jpg",
       "category": "geopolitica",
@@ -243,18 +165,188 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n24n6isfpk2w",
+      "id": "bsky_3n2h7jwqlrk2g",
+      "rank": 4,
+      "title": "Mandando “Robert Pattinson é anunciado no papel de Ministro da Fazenda” no e-mail da piauí Herald e emitindo nota de serviço",
+      "label": "Anúncio fictício de Pattinson como ministro",
+      "context": "Uma pessoa enviou um e-mail à piauí Herald anunciando Robert Pattinson no papel de Ministro da Fazenda. A mensagem veio acompanhada de uma nota de serviço simulada.",
+      "source": "bluesky",
+      "subreddit": "bsky_pi",
+      "permalink": "https://bsky.app/profile/umarel.bsky.social/post/3n2h7jwqlrk2g",
+      "createdAt": "2026-11-16T18:59:15.456000+00:00",
+      "rawScore": 0.19791778865537862,
+      "relevanceScore": 0.19791778865537862,
+      "suggestedRadius": 62.69,
+      "imageUrl": "assets/images/bsky_3n2h7jwqlrk2g_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2h7jwqlrk2g_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pi",
+      "sources": [
+        {
+          "title": "Mandando “Robert Pattinson é anunciado no papel de Ministro da Fazenda” no e-mail da piauí Herald e e emitindo nota de serviço",
+          "url": "https://bsky.app/profile/umarel.bsky.social/post/3n2h7jwqlrk2g",
+          "subreddit": "bsky_pi"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Criar esse tipo de mensagem satírica testa como veículos de imprensa reagem a informações completamente absurdas antes de qualquer verificação.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Usar o nome de uma pessoa real em um anúncio falso desse tipo pode gerar confusão desnecessária e prejudicar a rotina de trabalho de uma redação.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A nota de serviço incluída no e-mail sugere que o remetente está simulando um fluxo interno de aprovação de conteúdo da publicação.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n253zsegic2j",
+      "rank": 5,
+      "title": "O Piauí desenvolveu o SoberanIA primeiro modelo de IA em português no Brasil",
+      "label": "SoberanIA: modelo de IA para órgãos públicos",
+      "context": "O Piauí desenvolveu o SoberanIA, primeiro modelo de grande escala de inteligência artificial criado 100% em língua portuguesa no Brasil. O sistema destina-se a prefeituras, estados e órgãos públicos para compreender legislação e processos administrativos sem enviar dados para fora.",
+      "source": "bluesky",
+      "subreddit": "bsky_pi",
+      "permalink": "https://bsky.app/profile/hiltonbastos.bsky.social/post/3n253zsegic2j",
+      "createdAt": "2026-11-12T18:34:12.979000+00:00",
+      "rawScore": 0.17811479154592033,
+      "relevanceScore": 0.17811479154592033,
+      "suggestedRadius": 61.32,
+      "imageUrl": "assets/images/bsky_3n253zsegic2j_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n253zsegic2j_reddit_thumb.jpg",
+      "category": "tech",
+      "region": "br-pi",
+      "sources": [
+        {
+          "title": "O Piauí desenvolveu o SoberanIA O primeiro modelo de grande escala de inteligência artificial criado 100% em língua portuguesa no Brasil. Destina-se a prefeituras, estados e órgãos públicos para compreender a legislação e os processos administrativos brasileiros sem enviar... Por @JeitoNordestino",
+          "url": "https://bsky.app/profile/hiltonbastos.bsky.social/post/3n253zsegic2j",
+          "subreddit": "bsky_pi"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O Piauí mostra capacidade real de inovação ao treinar o SoberanIA com 500 bilhões de tokens em português usando documentos oficiais do SEI, gerando tecnologia útil para a administração pública brasileira.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            3,
+            4,
+            6
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Ainda não está claro se o SoberanIA representa uma boa notícia, pois iniciativas anteriores de IA nacional como o robô Ed da Petrobras foram interrompidas por pressões externas.",
+          "source": "sintese",
+          "evidence": [
+            7,
+            8
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O modelo SoberanIA foi treinado com documentos do governo federal e pode ajudar prefeituras e estados, mas é preciso acompanhar como será usado na prática pelos órgãos públicos.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            9
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2egpfrphc2p",
       "rank": 6,
+      "title": "Investimento público é citado como responsável por resultado no Piauí",
+      "label": "Investimento público · Resultado no Piauí",
+      "context": "Um post no Bluesky atribuiu um resultado no Piauí ao investimento público, citando uma notícia do portal piauihoje.com. A publicação destaca a ligação entre recursos públicos e o desfecho noticiado, sem detalhar os números do investimento.",
+      "source": "bluesky",
+      "subreddit": "bsky_pi",
+      "permalink": "https://bsky.app/profile/coletivoosfofos.bsky.social/post/3n2egpfrphc2p",
+      "createdAt": "2026-11-15T16:29:39.841000+00:00",
+      "rawScore": 0.16224412269521557,
+      "relevanceScore": 0.16224412269521557,
+      "suggestedRadius": 60.17,
+      "imageUrl": "assets/images/bsky_3n2egpfrphc2p_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2egpfrphc2p_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pi",
+      "sources": [
+        {
+          "title": "Graças ao investimento público. piauihoje.com/noticias/eco...",
+          "url": "https://bsky.app/profile/coletivoosfofos.bsky.social/post/3n2egpfrphc2p",
+          "subreddit": "bsky_pi"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Investimento público bem aplicado dá resultado visível, e esse caso no Piauí mostra isso. Quando o dinheiro sai do papel e chega na ponta, a população sente a diferença e a notícia circula como exemplo de que vale a pena aplicar recursos em políticas concretas.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Atribuir tudo ao investimento público é fácil; o difícil é mostrar de onde veio o dinheiro e quanto custou de fato. Sem os números detalhados na notícia, fica só a manchete positiva, e o contribuinte não consegue avaliar se o retorno justificou o gasto.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O post aponta investimento público como causa, mas a notícia citada precisa ser lida com calma para saber o que exatamente foi feito e com qual verba. Sem esses detalhes, dá para reconhecer o resultado e ao mesmo tempo cobrar transparência sobre o caminho até ele.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "deepseek-chat",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n24n6isfpk2w",
+      "rank": 7,
       "title": "A Piauí fez uma matéria sobre a música \"Tariflavio Bolsonaro na cabeça do meu pau\"",
-      "label": "Matéria da Piauí sobre paródia musical",
-      "context": "A revista Piauí publicou uma matéria sobre a música \"Tariflavio Bolsonaro na cabeça do meu pau\". A matéria foi retirada do ar depois.",
+      "label": "Piauí publica matéria sobre música",
+      "context": "A revista Piauí publicou uma matéria sobre a música \"Tariflavio Bolsonaro na cabeça do meu pau\". A publicação foi retirada do ar depois.",
       "source": "bluesky",
       "subreddit": "bsky_pi",
       "permalink": "https://bsky.app/profile/eruilluviel.bsky.social/post/3n24n6isfpk2w",
       "createdAt": "2026-11-12T14:04:07.077000+00:00",
-      "rawScore": 0.27388468475024624,
-      "relevanceScore": 0.3043163163891625,
-      "suggestedRadius": 69.1,
+      "rawScore": 0.12977195652219184,
+      "relevanceScore": 0.12977195652219184,
+      "suggestedRadius": 57.61,
       "imageUrl": "assets/images/bsky_3n24n6isfpk2w_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n24n6isfpk2w_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -270,7 +362,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A matéria da Piauí trouxe visibilidade para a paródia nacional da música original sobre ACM Neto.",
+          "text": "A paródia nacional da música original sobre ACM Neto mostra uma adaptação criativa que merece ser destacada em uma reportagem da Piauí.",
           "source": "sintese",
           "evidence": [
             2
@@ -280,10 +372,9 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A revista removeu a matéria do ar sem aprofundar na origem ou na seção de questões musicais.",
+          "text": "A decisão de retirar a matéria do ar indica que o tema escolhido pela Piauí gerou desconforto suficiente para a remoção.",
           "source": "sintese",
           "evidence": [
-            3,
             4
           ],
           "votes": 0
@@ -291,73 +382,11 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O texto não explorou a retranca Questões musicais nem a versão original da paródia.",
+          "text": "A reportagem da Piauí não explorou com profundidade a origem da música como paródia de uma versão anterior.",
           "source": "sintese",
           "evidence": [
-            2,
-            3
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n24f2j6awk2q",
-      "rank": 7,
-      "title": "Está acontecendo algo no meu TikTok que só aparece conteúdo (homem) do Maranhão, Piauí e Ceará",
-      "label": "TikTok mostra só homens do Nordeste",
-      "context": "Uma usuária relata que seu feed no TikTok exibe apenas conteúdo de homens do Maranhão, Piauí e Ceará. Comentários indicam que isso surge como motivação para visitar esses estados.",
-      "source": "bluesky",
-      "subreddit": "bsky_pi",
-      "permalink": "https://bsky.app/profile/qserjo.bsky.social/post/3n24f2j6awk2q",
-      "createdAt": "2026-11-12T11:38:43.873000+00:00",
-      "rawScore": 0.06803039945692509,
-      "relevanceScore": 0.18670044384102788,
-      "suggestedRadius": 61.93,
-      "imageUrl": "assets/images/bsky_3n24f2j6awk2q_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n24f2j6awk2q_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pi",
-      "sources": [
-        {
-          "title": "está acontecendo algo no meu tiktok que só aparece conteúdo (homem) do maranhão, piauí e ceará...",
-          "url": "https://bsky.app/profile/qserjo.bsky.social/post/3n24f2j6awk2q",
-          "subreddit": "bsky_pi"
-        },
-        {
-          "title": "Meu sonho é conhecer Maranhão e Piauí.",
-          "url": "https://bsky.app/profile/karolsuetomoreira.com/post/3n2c4y6pcgc23",
-          "subreddit": "bsky_pi"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O algoritmo do TikTok está criando uma boa desculpa para as pessoas conhecerem o Maranhão e o Piauí através desses vídeos.",
-          "source": "sintese",
-          "evidence": [
-            1,
             2
           ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Limitar o feed a criadores de apenas três estados reduz a diversidade de conteúdos que o usuário poderia descobrir.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Ver esses vídeos desperta o desejo de viajar, como no caso de quem sonha em conhecer o Maranhão e o Piauí.",
-          "source": "sintese",
-          "evidence": [],
           "votes": 0
         }
       ],
@@ -367,18 +396,18 @@
     {
       "id": "bsky_3n27bchi3bk25",
       "rank": 8,
-      "title": "Tatuadora anuncia vagas para doguinhos em Goiânia e Teresina",
-      "label": "Vagas de tatuagem em Goiânia",
-      "context": "Uma tatuadora postou que vai tatuar neste fim de semana e recebeu muitas encomendas de doguinhos fiapo de manga. Ela informou duas vagas em Goiânia na semana seguinte, lista de espera para BSB e SP, e três vagas em Teresina em fevereiro.",
+      "title": "bunitinha que vo tatuar esse fim de semana, tenho recebido muita encomenda de doguinhos fiapo de manga, amoeles ✨ tenho 2 vagas p/ Goiânia semana que vem *rolando lista de espera p/BSB e SP* aaah e fevereiro tô de volta pra visitar minha família, vo abrir 3 vaguinhas pra tatuar em Teresina/Piauí",
+      "label": "",
+      "context": "",
       "source": "bluesky",
       "subreddit": "bsky_pi",
       "permalink": "https://bsky.app/profile/iaanks.bsky.social/post/3n27bchi3bk25",
       "createdAt": "2026-11-13T15:09:39.079000+00:00",
-      "rawScore": 0.16613496968092267,
-      "relevanceScore": 0.18459441075658076,
-      "suggestedRadius": 61.78,
+      "rawScore": 0.07530677010269916,
+      "relevanceScore": 0.07530677010269916,
+      "suggestedRadius": 52.47,
       "imageUrl": "assets/images/bsky_3n27bchi3bk25_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n27bchi3bk25_reddit_thumb.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27bchi3bk25_reddit.jpg",
       "category": "geopolitica",
       "region": "br-pi",
       "sources": [
@@ -388,108 +417,23 @@
           "subreddit": "bsky_pi"
         }
       ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "A tatuadora demonstra entusiasmo real com o volume de pedidos de doguinhos e organiza bem as vagas por cidade.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "O anúncio mistura trabalho com viagem familiar e pode confundir quem quer agendar em Teresina.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O post mostra que a lista de espera já existe para Brasília e São Paulo antes de abrir as vagas em Teresina.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2ckbrxoh225",
-      "rank": 9,
-      "title": "Celso Rocha de Barros dá explicação no Foro de Teresina",
-      "label": "Explicação no Foro de Teresina",
-      "context": "Celso Rocha de Barros apresentou uma explicação no último Foro de Teresina. O conteúdo se relaciona com estelionato eleitoral.",
-      "source": "bluesky",
-      "subreddit": "bsky_pi",
-      "permalink": "https://bsky.app/profile/vitorvanacor.bsky.social/post/3n2ckbrxoh225",
-      "createdAt": "2026-11-14T22:28:15.846000+00:00",
-      "rawScore": 0.06347037635249615,
-      "relevanceScore": 0.18163375150277353,
-      "suggestedRadius": 61.57,
-      "imageUrl": "assets/images/bsky_3n2ckbrxoh225_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2ckbrxoh225_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-pi",
-      "sources": [
-        {
-          "title": "(considerando q é uma pergunta não-retórica) o Celso Rocha de Barros dá uma explicação no último (ou penúltimo?) Foro de Teresina. Não sou entendido, mas tem a ver com",
-          "url": "https://bsky.app/profile/vitorvanacor.bsky.social/post/3n2ckbrxoh225",
-          "subreddit": "bsky_pi"
-        },
-        {
-          "title": "é a gente relaxar um pouquinho e o foro de teresina já começa a falar num sotaque liberalês quase ininteligível a ouvidos saudáveis",
-          "url": "https://bsky.app/profile/meiapataca.bsky.social/post/3n22imn52zk2a",
-          "subreddit": "bsky_pi"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Celso Rocha de Barros trouxe uma explicação clara sobre estelionato eleitoral no Foro de Teresina que ajuda quem não é especialista.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Recomendar um autoconsciente e bem educado estelionato eleitoral sugerido por jornalismo sério soa incoerente após meses de críticas ao problema.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O Foro de Teresina começa a usar um sotaque liberalês que soa quase ininteligível para ouvidos comuns.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
+      "opinions": [],
+      "enrichedBy": "",
       "promptVersion": 2
     },
     {
       "id": "bsky_3n277mjtfqs2d",
-      "rank": 10,
-      "title": "Crânio da preguiça gigante Eremotherium laurillardi em exposição no Museu da Natureza",
-      "label": "Crânio fóssil de preguiça gigante exposto",
-      "context": "O crânio da preguiça gigante Eremotherium laurillardi encontrado na Serra da Capivara está em exposição no Museu da Natureza. Ele mede cerca de 70 centímetros e corresponde a um animal de 5 metros.",
+      "rank": 9,
+      "title": "Crânio de preguiça gigante Eremotherium laurillardi exposto no Museu da Natureza",
+      "label": "Fóssil de preguiça gigante em exposição",
+      "context": "Um crânio de Eremotherium laurillardi foi encontrado na Serra da Capivara, no Piauí, e está em exposição no Museu da Natureza. O crânio mede cerca de 70 cm e pertence a um animal de aproximadamente 5 metros.",
       "source": "bluesky",
       "subreddit": "bsky_pi",
       "permalink": "https://bsky.app/profile/cisneros.bsky.social/post/3n277mjtfqs2d",
       "createdAt": "2026-11-13T14:39:27.677000+00:00",
-      "rawScore": 0.1632951798421693,
-      "relevanceScore": 0.18143908871352143,
-      "suggestedRadius": 61.56,
+      "rawScore": 0.07402816532192162,
+      "relevanceScore": 0.07402816532192162,
+      "suggestedRadius": 52.32,
       "imageUrl": "assets/images/bsky_3n277mjtfqs2d_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n277mjtfqs2d_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -505,7 +449,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O crânio descoberto mostra o tamanho impressionante dessas preguiças que chegavam a 5 metros.",
+          "text": "O crânio de 70 cm revela que a preguiça gigante media cerca de 5 metros, destacando o porte impressionante da espécie extinta.",
           "source": "sintese",
           "evidence": [
             1
@@ -515,7 +459,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O fóssil não revela se a preguiça gigante era agressiva ou pacífica como as atuais.",
+          "text": "A exposição não esclarece se essas preguiças eram agressivas ou pacíficas como as atuais, limitando o que se pode concluir.",
           "source": "sintese",
           "evidence": [
             2
@@ -525,9 +469,69 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Saber o tamanho ajuda a imaginar como era a vida desses animais extintos na região.",
+          "text": "O fóssil permite estimar o tamanho do animal, mas deixa em aberto questões sobre seu comportamento no ambiente natural.",
+          "source": "sintese",
+          "evidence": [
+            1,
+            2
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n27tch3ttk2p",
+      "rank": 10,
+      "title": "O melhor litoral do mundo! Isso é o Nordeste! Piauí de beleza!",
+      "label": "Litoral do Piauí elogiado",
+      "context": "Um post no Bluesky afirma que o litoral do Piauí é o melhor do mundo. Um comentário concorda que o litoral piauiense é muito lindo e tem encantos.",
+      "source": "bluesky",
+      "subreddit": "bsky_pi",
+      "permalink": "https://bsky.app/profile/rdokyron.bsky.social/post/3n27tch3ttk2p",
+      "createdAt": "2026-11-13T20:31:44.278000+00:00",
+      "rawScore": 0.06052265395016413,
+      "relevanceScore": 0.06052265395016413,
+      "suggestedRadius": 50.76,
+      "imageUrl": "assets/images/bsky_3n27tch3ttk2p_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n27tch3ttk2p_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-pi",
+      "sources": [
+        {
+          "title": "O melhor litoral do mundo! Isso é o Nordeste! Piauí de beleza!",
+          "url": "https://bsky.app/profile/rdokyron.bsky.social/post/3n27tch3ttk2p",
+          "subreddit": "bsky_pi"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O litoral do Piauí é muito lindo e cheio de encantos naturais que merecem destaque.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A afirmação de ser o melhor litoral do mundo carece de comparações com outros destinos.",
           "source": "sintese",
           "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O Piauí tem seus encantos mesmo sem ser o mais conhecido entre os estados nordestinos.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
           "votes": 0
         }
       ],
