@@ -1,74 +1,21 @@
 {
-  "generatedAt": "2026-11-17T21:01:01.600127+00:00",
+  "generatedAt": "2026-11-18T06:54:01.736947+00:00",
   "region": "br-al",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n2jji4fet224",
-      "rank": 1,
-      "title": "Crime da Braskem em Maceió impacta 60 mil pessoas há três anos",
-      "label": "Desastre socioambiental da Braskem em Maceió",
-      "context": "Há três anos o solo das casas cedeu em Maceió, impactando 60 mil pessoas. Boa parte segue sem respostas, desprotegida ou em bairros-fantasmas.",
-      "source": "bluesky",
-      "subreddit": "bsky_al",
-      "permalink": "https://bsky.app/profile/outraspalavras.net/post/3n2jji4fet224",
-      "createdAt": "2026-11-17T17:02:35.042000+00:00",
-      "rawScore": 0.9,
-      "relevanceScore": 1.0,
-      "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3n2jji4fet224_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2jji4fet224_reddit_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-al",
-      "sources": [
-        {
-          "title": "O CRIME DA BRASKEM E A MACEIÓ QUE PRECISA SER VISTA Há três anos, ocorria um dos maiores desastres socioambientais urbanos do mundo. Solo das casas cederam. 60 mil pessoas impactadas. Boa parte segue sem respostas, desprotegida ou em “bairros-fantasmas”. Que o Brasil nunca esqueça esta tragédia…",
-          "url": "https://bsky.app/profile/outraspalavras.net/post/3n2jji4fet224",
-          "subreddit": "bsky_al"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Manter viva a memória do desastre da Braskem em Maceió pressiona autoridades e empresas a darem respostas concretas às famílias ainda sem solução.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "A Braskem provocou um dos maiores desastres urbanos do país ao deixar o solo de Maceió ceder, afetando 60 mil pessoas que continuam desamparadas.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O caso da Braskem em Maceió envolve responsabilidades técnicas e jurídicas que ainda precisam ser esclarecidas para definir indenizações e reparações.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3n2h6egv6hc2d",
-      "rank": 2,
-      "title": "Governo Lula investirá R$ 294 milhões em telefone e internet para 190 comunidades rurais",
-      "label": "Investimento em conectividade rural",
-      "context": "O governo Lula investirá R$ 294 milhões para levar telefone e internet a 190 comunidades rurais em 17 estados. Comentaristas indicam que 100 mil reais seriam suficientes para conectar cada povoado.",
+      "rank": 1,
+      "title": "Governo Lula investirá R$ 294 milhões para levar telefone e internet a 190 comunidades rurais em 17 estados",
+      "label": "Investimento em internet para áreas rurais",
+      "context": "O governo Lula investirá R$ 294 milhões para levar telefone e internet a 190 comunidades rurais em 17 estados. Comentários indicam que o valor permite conectar mais localidades por fração do custo.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/plantaobrasil.bsky.social/post/3n2h6egv6hc2d",
       "createdAt": "2026-11-16T18:38:57.340000+00:00",
-      "rawScore": 0.7953398661589041,
-      "relevanceScore": 0.99474761749732,
-      "suggestedRadius": 95.84,
+      "rawScore": 0.9,
+      "relevanceScore": 1.0,
+      "suggestedRadius": 96.0,
       "imageUrl": "assets/images/bsky_3n2h6egv6hc2d_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2h6egv6hc2d_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -89,7 +36,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O investimento anunciado vai ampliar a conectividade em 190 comunidades rurais de 17 estados.",
+          "text": "O investimento amplia o acesso à comunicação em comunidades rurais que hoje ficam isoladas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -97,20 +44,20 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A falta de letramento digital torna o acesso à internet um risco para as comunidades beneficiadas.",
+          "text": "O valor de 294 milhões é alto e bastariam 100 mil reais por povoado para fazer o mesmo trabalho cobrando das concessionárias.",
           "source": "sintese",
           "evidence": [
-            2
+            1
           ],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "As empresas concessionárias poderiam expandir a rede de forma mais barata do que o investimento público de 294 milhões.",
+          "text": "Acesso à internet sem letramento digital representa risco para quem vai usar o serviço.",
           "source": "sintese",
           "evidence": [
-            1
+            2
           ],
           "votes": 0
         }
@@ -119,23 +66,28 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2cw4khrxc2z",
-      "rank": 3,
-      "title": "Nesse calor de Maceió, só sinto vontade de ficar em casa o dia todo",
-      "label": "Calor em Maceió · Vontade de ficar em casa",
-      "context": "Uma postagem descreve o desejo de permanecer em casa o dia todo devido ao calor em Maceió. Comentários incluem concordância e respostas flertantes ou explícitas.",
+      "id": "bsky_3n2kd4te6b227",
+      "rank": 2,
+      "title": "Ainda tenho perguntas pros meus mortos pq em PE só me apetece Caruaru",
+      "label": "Preferência por Caruaru em PE",
+      "context": "Uma pessoa afirmou que só Caruaru em Pernambuco lhe apetece agora. O calor em Maceió faz com que queira ficar em casa o dia todo.",
       "source": "bluesky",
       "subreddit": "bsky_al",
-      "permalink": "https://bsky.app/profile/alexsandroafonso.bsky.social/post/3n2cw4khrxc2z",
-      "createdAt": "2026-11-15T02:00:10.644000+00:00",
-      "rawScore": 0.451626894539552,
-      "relevanceScore": 0.49464390206464903,
-      "suggestedRadius": 78.2,
-      "imageUrl": "assets/images/bsky_3n2cw4khrxc2z_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2cw4khrxc2z_reddit_thumb.jpg",
+      "permalink": "https://bsky.app/profile/rebuscarla.bsky.social/post/3n2kd4te6b227",
+      "createdAt": "2026-11-18T00:41:31.141000+00:00",
+      "rawScore": 0.8809955095171852,
+      "relevanceScore": 0.9809955095171852,
+      "suggestedRadius": 95.43,
+      "imageUrl": "assets/images/bsky_3n2kd4te6b227_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2kd4te6b227_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-al",
       "sources": [
+        {
+          "title": "inda tenho perguntas™ pros meus morto pq em PE só me apetece caruaru memo agora se os vento me levar pra maceió joão pessoa ou rj por gentileza cuide de mim q eu VO ter fissura pra ficar",
+          "url": "https://bsky.app/profile/rebuscarla.bsky.social/post/3n2kd4te6b227",
+          "subreddit": "bsky_al"
+        },
         {
           "title": "Nesse calor de Maceió, só sinto vontade de ficar assim o dia todo em casa 🫠",
           "url": "https://bsky.app/profile/alexsandroafonso.bsky.social/post/3n2cw4khrxc2z",
@@ -146,17 +98,128 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Ficar em casa o dia todo é a solução mais confortável para enfrentar o calor de Maceió.",
+          "text": "Caruaru em Pernambuco parece ser a escolha ideal agora porque o clima lá agrada mais do que em outras cidades do Nordeste mencionadas no post. As pessoas comentam que locais com praia são gostosos para ficar em casa o dia todo.",
           "source": "sintese",
           "evidence": [
-            1
+            1,
+            2
           ],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O calor em Maceió pode ser aliviado com companhia que aumente a temperatura de outro jeito.",
+          "text": "O calor em Maceió força as pessoas a ficarem em casa sem conseguir sair, e alguns comentários exploram isso de forma desconfortável ao sugerir ficar pelado para refrescar.",
+          "source": "sintese",
+          "evidence": [
+            4
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Ficar em casa o dia todo por causa do calor depende do lugar, já que Caruaru atrai mais enquanto Maceió e João Pessoa geram vontade de evitar o sol.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2jji4fet224",
+      "rank": 3,
+      "title": "Crime da Braskem em Maceió impacta 60 mil há três anos",
+      "label": "Desastre socioambiental da Braskem em Maceió",
+      "context": "Há três anos, o solo de casas cedeu em Maceió, impactando 60 mil pessoas. Boa parte segue sem respostas ou em bairros-fantasmas.",
+      "source": "bluesky",
+      "subreddit": "bsky_al",
+      "permalink": "https://bsky.app/profile/outraspalavras.net/post/3n2jji4fet224",
+      "createdAt": "2026-11-17T17:02:35.042000+00:00",
+      "rawScore": 0.5968190420712743,
+      "relevanceScore": 0.6968190420712743,
+      "suggestedRadius": 86.09,
+      "imageUrl": "assets/images/bsky_3n2jji4fet224_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2jji4fet224_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-al",
+      "sources": [
+        {
+          "title": "O CRIME DA BRASKEM E A MACEIÓ QUE PRECISA SER VISTA Há três anos, ocorria um dos maiores desastres socioambientais urbanos do mundo. Solo das casas cederam. 60 mil pessoas impactadas. Boa parte segue sem respostas, desprotegida ou em “bairros-fantasmas”. Que o Brasil nunca esqueça esta tragédia…",
+          "url": "https://bsky.app/profile/outraspalavras.net/post/3n2jji4fet224",
+          "subreddit": "bsky_al"
+        },
+        {
+          "title": "Há três anos, ocorria um dos maiores desastres socioambientais urbanos do mundo. Solo das casas cederam. 60 mil pessoas foram impactadas. Boa parte segue sem respostas, desprotegida ou em “bairros-fantasmas”. Assim como Mariana e Brumadinho, que o Brasil nunca esqueça esta tragédia…",
+          "url": "https://bsky.app/profile/taniapac.bsky.social/post/3n2ixnlrdo224",
+          "subreddit": "bsky_al"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Lembrar do que a Braskem fez em Maceió mantém a pressão para que as vítimas finalmente recebam as respostas e a reparação que merecem.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A Braskem cometeu um crime socioambiental grave em Maceió e continua sem prestar contas completas pelos danos causados.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O caso de Maceió exige esclarecimentos adicionais sobre responsabilidades antes de definir todas as medidas necessárias.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2kkn65aks2c",
+      "rank": 4,
+      "title": "Venham pra Alagoas, o que não falta é cidade com praia por aqui",
+      "label": "Praias de Alagoas · Convite",
+      "context": "Um post no Bluesky convida pessoas para Alagoas destacando a quantidade de cidades com praia na região. Outro post menciona o calor intenso em Maceió como sauna gratuita.",
+      "source": "bluesky",
+      "subreddit": "bsky_al",
+      "permalink": "https://bsky.app/profile/prettygirlhi.bsky.social/post/3n2kkn65aks2c",
+      "createdAt": "2026-11-18T02:55:54.747000+00:00",
+      "rawScore": 0.5179178769873884,
+      "relevanceScore": 0.6179178769873884,
+      "suggestedRadius": 83.16,
+      "imageUrl": "assets/images/bsky_3n2kkn65aks2c_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2kkn65aks2c_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-al",
+      "sources": [
+        {
+          "title": "venham pra alagoas oq não falta é cidade com praia por aqui",
+          "url": "https://bsky.app/profile/prettygirlhi.bsky.social/post/3n2kkn65aks2c",
+          "subreddit": "bsky_al"
+        },
+        {
+          "title": "Dia de sauna (em qualquer lugar da cidade) gratuita aqui em Maceió. A hora de desidratar é agoraaaa",
+          "url": "https://bsky.app/profile/yaasmineyas.bsky.social/post/3n24suw3brs27",
+          "subreddit": "bsky_al"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Alagoas oferece várias cidades com praia que permitem conhecer o litoral nordestino de forma variada e acessível.",
           "source": "sintese",
           "evidence": [
             2
@@ -164,12 +227,22 @@
           "votes": 0
         },
         {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Comentários ao post misturam apoio simples com reações que exploram o tema de forma física.",
+          "id": "op2",
+          "tone": "negative",
+          "text": "O calor em Maceió chega a ponto de transformar a cidade em sauna, exigindo atenção redobrada com hidratação.",
           "source": "sintese",
           "evidence": [
-            3
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "Uma lista completa das praias do litoral de Alagoas ajudaria a planejar visitas a todas as opções disponíveis.",
+          "source": "sintese",
+          "evidence": [
+            2
           ],
           "votes": 0
         }
@@ -179,17 +252,17 @@
     },
     {
       "id": "bsky_3n2h2sj7ass2y",
-      "rank": 4,
+      "rank": 5,
       "title": "Se tudo der certo, Alagoas e Paraná vão perder senadores eleitos",
-      "label": "Risco de perda de senadores em Alagoas e Paraná",
-      "context": "Se tudo der certo, Alagoas e Paraná vão perder senadores eleitos. Comentários citam Lira e Marina entre os nomes em risco.",
+      "label": "Alagoas e Paraná perdem senadores eleitos",
+      "context": "Um post afirma que Alagoas e Paraná vão perder senadores eleitos se tudo der certo. Um comentário identifica que se trata da Marina.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/galovasco.bsky.social/post/3n2h2sj7ass2y",
       "createdAt": "2026-11-16T17:34:34.955000+00:00",
-      "rawScore": 0.27688986371567886,
-      "relevanceScore": 0.41040866625664796,
-      "suggestedRadius": 74.44,
+      "rawScore": 0.2951234401646306,
+      "relevanceScore": 0.39512344016463063,
+      "suggestedRadius": 73.72,
       "imageUrl": "assets/images/bsky_3n2h2sj7ass2y_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2h2sj7ass2y_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -210,7 +283,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Lira perder o mandato seria positivo para Alagoas ao afastar uma figura associada a problemas no estado.",
+          "text": "Lira cair seria positivo para Alagoas caso ele seja um dos senadores em risco de perder a vaga.",
           "source": "sintese",
           "evidence": [
             1
@@ -220,7 +293,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A perda de senadores eleitos enfraquece a representação de Alagoas e Paraná independentemente de quem saia.",
+          "text": "A perda de senadores eleitos enfraquece a representação de Alagoas e Paraná no Senado.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -228,7 +301,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Marina aparece como possível nome envolvido na perda de mandato segundo informações circulando.",
+          "text": "O comentário aponta Marina como a pessoa envolvida na possível perda das vagas.",
           "source": "sintese",
           "evidence": [
             2
@@ -241,17 +314,17 @@
     },
     {
       "id": "bsky_3n2gx36rscs2q",
-      "rank": 5,
-      "title": "Já fui às Cataratas do Iguaçu, Maceió, Paraíba e São Paulo",
-      "label": "Relato de viagens pelo Brasil",
-      "context": "Um usuário descreveu suas viagens para as Cataratas do Iguaçu quando criança, várias vezes a Maceió em Alagoas, uma viagem de carro com o pai até a Paraíba e recentemente a São Paulo, onde passeou pelo Bairro da Liberdade. Comentários reagem positivamente e perguntam sobre as experiências no Nordeste.",
+      "rank": 6,
+      "title": "Relato de viagens a Iguaçu, Maceió, Paraíba e São Paulo",
+      "label": "Viagens pelo Brasil · Relato pessoal",
+      "context": "Uma pessoa descreveu suas viagens pelo Brasil, incluindo Cataratas do Iguaçu na infância, várias visitas a Maceió, uma viagem de carro à Paraíba com o pai e uma recente a São Paulo em 2025. Comentários elogiam a quantidade de lugares visitados e perguntam sobre experiências no Nordeste.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/tntthecat.bsky.social/post/3n2gx36rscs2q",
       "createdAt": "2026-11-16T16:28:03.143000+00:00",
-      "rawScore": 0.3328803887300114,
-      "relevanceScore": 0.3608061002684383,
-      "suggestedRadius": 72.04,
+      "rawScore": 0.36398107143025726,
+      "relevanceScore": 0.36398107143025726,
+      "suggestedRadius": 72.2,
       "imageUrl": "assets/images/bsky_3n2gx36rscs2q_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2gx36rscs2q_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -267,7 +340,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Suas viagens mostram que é possível conhecer bastante o Brasil mesmo sem visitar todos os pontos turísticos de cada cidade.",
+          "text": "É impressionante a quantidade de estados que essa pessoa já visitou pelo Brasil, mostrando que dá para conhecer bastante do país mesmo em viagens curtas.",
           "source": "sintese",
           "evidence": [
             1
@@ -277,7 +350,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Faltou mais detalhes sobre Alagoas e Paraíba, que são estados cheios de lugares interessantes para explorar.",
+          "text": "O relato deixa claro que muitos lugares importantes do Nordeste ainda não foram explorados, o que limita a visão sobre a região.",
           "source": "sintese",
           "evidence": [
             2
@@ -287,7 +360,66 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Qual estado do Nordeste você acha que merece mais amor e reconhecimento além dos que já visitou?",
+          "text": "Qual estado do Nordeste merece mais reconhecimento e por que as pessoas deveriam visitar mais vezes.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2ily7s44s2y",
+      "rank": 7,
+      "title": "Todo lugar de Alagoas beira-mar tá sendo rifado pra condomínios de luxo com crime ambiental",
+      "label": "Condomínios de luxo em Alagoas · Crimes ambientais",
+      "context": "Um post no Bluesky afirmou que áreas à beira-mar em Alagoas estão sendo rifadas para condomínios de luxo, todas com crimes ambientais por trás. Comentários citam o boom imobiliário em Florianópolis e o impacto do crime da Braskem na capital.",
+      "source": "bluesky",
+      "subreddit": "bsky_al",
+      "permalink": "https://bsky.app/profile/bonecademetal.bsky.social/post/3n2ily7s44s2y",
+      "createdAt": "2026-11-17T08:14:41.142000+00:00",
+      "rawScore": 0.23419187469671682,
+      "relevanceScore": 0.23419187469671682,
+      "suggestedRadius": 65.04,
+      "imageUrl": "assets/images/bsky_3n2ily7s44s2y_uns.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2ily7s44s2y_uns_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-al",
+      "sources": [
+        {
+          "title": "Todo lugar de alagoas que é beira mar tá sendo rifado pra ser feito essas merdas de condomínio de luxo. E não tem nenhuma dessas construções que não tenham um crime ambiental por trás",
+          "url": "https://bsky.app/profile/bonecademetal.bsky.social/post/3n2ily7s44s2y",
+          "subreddit": "bsky_al"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "O boom imobiliário transformou Florianópolis em uma desgraça e o mesmo risco aparece agora nas praias de Alagoas com esses condomínios.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "O crime da Braskem piorou tudo em Alagoas, encarecendo moradia e eliminando opções acessíveis na capital.",
+          "source": "sintese",
+          "evidence": [
+            2
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O futuro governador de Alagoas pretende repetir o mesmo modelo de desenvolvimento visto em outros estados.",
           "source": "sintese",
           "evidence": [
             2
@@ -300,17 +432,17 @@
     },
     {
       "id": "bsky_3n2234ua4bs2t",
-      "rank": 6,
-      "title": "Alagoas e Tocantins superaram taxa do Vietnã com 42% de crescimento",
+      "rank": 8,
+      "title": "Alagoas e Tocantins superam taxa do Vietnã com 42%",
       "label": "Crescimento de renda per capita por estado",
-      "context": "Post no Bluesky compara crescimento da renda domiciliar per capita entre 2019 e 2025 em Alagoas, Tocantins, Maranhão e Amapá com taxas de países como Vietnã, China e Geórgia. Os dados vêm da PNAD do IBGE e mostram avanços maiores em estados menores.",
+      "context": "Dados do IBGE indicam que Alagoas e Tocantins registraram 42% de crescimento na renda domiciliar per capita entre 2019 e 2025. Maranhão e Amapá apresentaram avanços ainda maiores que os observados na China e na Geórgia.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/nandabel23.bsky.social/post/3n2234ua4bs2t",
       "createdAt": "2026-11-11T13:35:46.181000+00:00",
-      "rawScore": 0.09304121861926978,
-      "relevanceScore": 0.2691254437688181,
-      "suggestedRadius": 67.13,
+      "rawScore": 0.11452292830381468,
+      "relevanceScore": 0.2145229283038147,
+      "suggestedRadius": 63.79,
       "imageUrl": "assets/images/bsky_3n2234ua4bs2t_unsp.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2234ua4bs2t_unsp_thumb.jpg",
       "category": "geopolitica",
@@ -325,21 +457,15 @@
           "title": "esse ano QUASE eu visitei alagoas e maranhão, mas MA santa catarina não deixou, AL o dinheiro não deixou",
           "url": "https://bsky.app/profile/nubobot.com/post/3n2eripaqok27",
           "subreddit": "bsky_al"
-        },
-        {
-          "title": "hora do jogo da adivinhação! assinale qual estado teve um índice de alfabetização infantil superior a São Paulo no ano passado: A) Rondônia; B) Acre; C) Piauí; D) Santa Catarina; E) Alagoas",
-          "url": "https://bsky.app/profile/corridadelesma.bsky.social/post/3n26vrrvkl42v",
-          "subreddit": "bsky_al"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Indicadores estaduais do IBGE revelam que regiões mais pobres tiveram crescimento de renda três vezes maior que São Paulo entre 2019 e 2025, o que importa porque cada voto conta igualmente nas eleições.",
+          "text": "Os números do IBGE mostram que estados mais pobres como Piauí tiveram avanço de renda três vezes superior ao de São Paulo no mesmo período.",
           "source": "sintese",
           "evidence": [
-            1,
             2
           ],
           "votes": 0
@@ -347,7 +473,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "As estimativas estaduais da PNAD carregam incerteza maior em unidades menores, então o crescimento relatado em Alagoas ou Amapá pode não refletir a realidade com precisão suficiente.",
+          "text": "A qualidade dos dados do IBGE é questionável porque a PNAD é amostral e as estimativas para estados menores carregam maior incerteza.",
           "source": "sintese",
           "evidence": [
             3
@@ -357,10 +483,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "São Paulo ficou abaixo da média nacional em alfabetização infantil no ano passado, mostrando que riqueza estadual nem sempre se traduz em melhores resultados em todos os indicadores.",
+          "text": "O indicador nacional distorce a realidade ao dar mais peso às regiões desenvolvidas enquanto o eleitorado concentra-se nas áreas mais pobres.",
           "source": "sintese",
           "evidence": [
-            4
+            1
           ],
           "votes": 0
         }
@@ -370,17 +496,17 @@
     },
     {
       "id": "bsky_3n2fixqkxt22u",
-      "rank": 7,
-      "title": "Parei pra pensar que conhecia Sergipe e Alagoas mas viajei para Pernambuco e Bahia",
-      "label": "Viagens no Nordeste · Desejo de viajar mais",
-      "context": "Uma pessoa relatou que por muito tempo só conhecia Sergipe e Alagoas, mas este ano viajou para Pernambuco e Bahia. Ela quer viajar com mais frequência para ver amigos distantes e turistar.",
+      "rank": 9,
+      "title": "Parei pra pensar que conhecia Sergipe e Alagoas e viajei a Pernambuco e Bahia",
+      "label": "Desejo de viajar mais pelo Nordeste",
+      "context": "Uma pessoa percebeu que por muito tempo só conhecia Sergipe e Alagoas. Este ano viajou para Pernambuco e Bahia e quer repetir com mais frequência para ver amigos.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/laz0.bsky.social/post/3n2fixqkxt22u",
       "createdAt": "2026-11-16T02:42:43.850000+00:00",
-      "rawScore": 0.13941369965513126,
-      "relevanceScore": 0.25546088508361553,
-      "suggestedRadius": 66.33,
+      "rawScore": 0.150875566863666,
+      "relevanceScore": 0.150875566863666,
+      "suggestedRadius": 59.31,
       "imageUrl": "assets/images/bsky_3n2fixqkxt22u_uns.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2fixqkxt22u_uns_thumb.jpg",
       "category": "geopolitica",
@@ -390,18 +516,13 @@
           "title": "Parei pra pensar agora que por muito tempo só conhecia um pouco de sergipe e alagoas, mas só esse ano consegui ir pra pernambuco e pra bahia. ainda quero poder viajar com mais frequência ver meus amigos de longe, poder turistar mais",
           "url": "https://bsky.app/profile/laz0.bsky.social/post/3n2fixqkxt22u",
           "subreddit": "bsky_al"
-        },
-        {
-          "title": "siiim, sou de maceió!! tô visitando penedo com meus amigos hoje",
-          "url": "https://bsky.app/profile/prettygirlhi.bsky.social/post/3n2cefunvh22u",
-          "subreddit": "bsky_al"
         }
       ],
       "opinions": [
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Que bom que conseguiu expandir os destinos e agora planeja viajar mais para encontrar os amigos.",
+          "text": "Viajar mais permite conhecer novos estados e encontrar amigos distantes com regularidade.",
           "source": "sintese",
           "evidence": [
             1
@@ -411,85 +532,17 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Maceió é tão pequeno que qualquer conexão acaba virando coincidência ou amigo em comum.",
+          "text": "Realizar viagens frequentes exige planejamento que nem sempre é simples de manter.",
           "source": "sintese",
-          "evidence": [
-            4
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Ter mutual de Maceió não significa frequentar os mesmos lugares na cidade.",
+          "text": "O ritmo de novas viagens depende de tempo e recursos disponíveis no dia a dia.",
           "source": "sintese",
-          "evidence": [
-            3
-          ],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n24suw3brs27",
-      "rank": 8,
-      "title": "Dia de sauna gratuita em qualquer lugar da cidade em Maceió",
-      "label": "Calor extremo em Maceió",
-      "context": "Em Maceió, o calor alto transforma qualquer ponto da cidade em sauna gratuita. As pessoas comentam sobre a desidratação e os preços elevados de refeições locais.",
-      "source": "bluesky",
-      "subreddit": "bsky_al",
-      "permalink": "https://bsky.app/profile/yaasmineyas.bsky.social/post/3n24suw3brs27",
-      "createdAt": "2026-11-12T15:46:07.386000+00:00",
-      "rawScore": 0.036210009294845344,
-      "relevanceScore": 0.1391412093094784,
-      "suggestedRadius": 58.38,
-      "imageUrl": "assets/images/bsky_3n24suw3brs27_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n24suw3brs27_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-al",
-      "sources": [
-        {
-          "title": "Dia de sauna (em qualquer lugar da cidade) gratuita aqui em Maceió. A hora de desidratar é agoraaaa",
-          "url": "https://bsky.app/profile/yaasmineyas.bsky.social/post/3n24suw3brs27",
-          "subreddit": "bsky_al"
-        },
-        {
-          "title": "Jamais vou achar normal pagar pela \"experiência\" pra comer meio galeto com macarrão por 98 reais na minha incrível Maceió (e em nenhum outro lugar)",
-          "url": "https://bsky.app/profile/sassenachisalive.bsky.social/post/3n254xu2xnc23",
-          "subreddit": "bsky_al"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "O calor em Maceió cria uma sauna natural em qualquer lugar, e a recomendação é focar na reidratação para aproveitar o dia.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Mesmo com entrada e sobremesa incluídas, 98 reais por meio galeto com macarrão em Maceió continua caro demais para valer a pena.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "O valor de 98 reais inclui entrada e sobremesa, mas ainda assim não compensa para quem busca refeições acessíveis na cidade.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
+          "evidence": [],
           "votes": 0
         }
       ],
@@ -498,17 +551,17 @@
     },
     {
       "id": "bsky_3n24n5a7yv22u",
-      "rank": 9,
+      "rank": 10,
       "title": "Fontaines D.C. em Maceió se eu ganhar na mega sena.",
-      "label": "Show de Fontaines D.C. em Maceió",
-      "context": "Uma postagem no Bluesky imagina trazer Fontaines D.C. para Maceió caso ganhe na Mega-Sena. Um comentário sugere o Beco da Rapariga como local e oferece organizar excursão de Aracaju.",
+      "label": "Fontaines D.C. em Maceió via Mega-Sena",
+      "context": "Um post no Bluesky menciona levar Fontaines D.C. a Maceió caso o autor ganhe na Mega-Sena. Um comentário sugere o Beco da Rapariga como local e propõe organizar excursão de Aracaju.",
       "source": "bluesky",
       "subreddit": "bsky_al",
       "permalink": "https://bsky.app/profile/jeffbrito85.bsky.social/post/3n24n5a7yv22u",
       "createdAt": "2026-11-12T14:03:25.282000+00:00",
-      "rawScore": 0.06220711760351991,
-      "relevanceScore": 0.05573341315574685,
-      "suggestedRadius": 50.16,
+      "rawScore": 0.06975976325830249,
+      "relevanceScore": 0.06975976325830249,
+      "suggestedRadius": 51.85,
       "imageUrl": "assets/images/generic.png",
       "imageThumbUrl": "assets/images/generic.png",
       "category": "geopolitica",
@@ -524,7 +577,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O Beco da Rapariga seria o lugar ideal para o show e a excursão de Aracaju deixaria a ideia ainda melhor.",
+          "text": "Ver Fontaines D.C. em Maceió seria excelente, especialmente no Beco da Rapariga com uma excursão organizada saindo de Aracaju para reunir os fãs.",
           "source": "sintese",
           "evidence": [
             1
@@ -534,7 +587,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Contar com vitória na Mega-Sena para realizar um show não parece um plano realista.",
+          "text": "Planejar um show condicionado a ganhar na loteria não parece prático, pois a chance de isso acontecer é muito baixa.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -542,67 +595,10 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A viabilidade depende de a banda aceitar o convite e do local comportar o público.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n2cem6lkv22s",
-      "rank": 10,
-      "title": "Nunca pensei que teria mutual de Maceió!! omg hiii tb sou daqui",
-      "label": "Mutual de Maceió no Bluesky",
-      "context": "Uma usuária expressou surpresa ao descobrir um mutual de Maceió no Bluesky. Comentários observam que a cidade é pequena como um ovo, sugerindo que as pessoas podem se conhecer na vida real ou ter amigos em comum.",
-      "source": "bluesky",
-      "subreddit": "bsky_al",
-      "permalink": "https://bsky.app/profile/anagrawm.bsky.social/post/3n2cem6lkv22s",
-      "createdAt": "2026-11-14T20:46:43.645000+00:00",
-      "rawScore": 0.03681669192649992,
-      "relevanceScore": 0.027116160495421458,
-      "suggestedRadius": 45.88,
-      "imageUrl": "assets/images/bsky_3n2cem6lkv22s_uns.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2cem6lkv22s_uns_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-al",
-      "sources": [
-        {
-          "title": "kkkkkkkkkk eu nunca pensei que teria mutual de maceio!! omg hiii tb sou daqui",
-          "url": "https://bsky.app/profile/anagrawm.bsky.social/post/3n2cem6lkv22s",
-          "subreddit": "bsky_al"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Encontrar um mutual de Maceió no Bluesky gera uma conexão inesperada e positiva com alguém da mesma cidade.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Mesmo tendo um mutual de Maceió, é possível que as pessoas não frequentem os mesmos espaços na cidade.",
+          "text": "O local Beco da Rapariga em Maceió precisa ser avaliado para ver se comporta o evento e a logística da excursão.",
           "source": "sintese",
           "evidence": [
             1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Maceió ser tão pequeno implica que um mutual online provavelmente significa conhecer alguém ou ter amigos em comum na vida real.",
-          "source": "sintese",
-          "evidence": [
-            2
           ],
           "votes": 0
         }

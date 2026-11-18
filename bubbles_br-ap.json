@@ -1,34 +1,39 @@
 {
-  "generatedAt": "2026-11-17T21:01:01.600127+00:00",
+  "generatedAt": "2026-11-18T06:54:01.736947+00:00",
   "region": "br-ap",
   "count": 10,
   "items": [
     {
-      "id": "bsky_3n2j5c5f7ts2q",
+      "id": "bsky_3n2k2g3rnt22h",
       "rank": 1,
-      "title": "Críticas à exploração de petróleo na foz do Amazonas respondidas por Randolfe",
-      "label": "Respostas a críticas ambientais no Amapá",
-      "context": "Críticas à exploração de petróleo na foz do Amazonas eram respondidas por Randolfe com frases como 'VCS ODEIAM O POVO DO AMAPÁ? SUDESTINOS MALDITOS'. Quando alguém afirma que o governo Lula odeia o meio ambiente e contribui para mortes, considera-se a forma errada.",
+      "title": "Ministério do Meio Ambiente conclui mapeamento participativo do litoral no Amapá, Pará e Maranhão",
+      "label": "Mapeamento do litoral em três estados",
+      "context": "O Ministério do Meio Ambiente concluiu o mapeamento participativo do litoral brasileiro no Amapá, Pará e Maranhão. O projeto abrangeu 54 municípios e 1.100 comunidades, identificando 3.942 áreas de uso do mar para subsidiar o Planejamento Espacial Marinho.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
-      "permalink": "https://bsky.app/profile/kayyf.bsky.social/post/3n2j5c5f7ts2q",
-      "createdAt": "2026-11-17T13:24:17.153000+00:00",
-      "rawScore": 0.9,
+      "permalink": "https://bsky.app/profile/gabrieldread.bsky.social/post/3n2k2g3rnt22h",
+      "createdAt": "2026-11-17T22:05:39.744000+00:00",
+      "rawScore": 0.7494796477019633,
       "relevanceScore": 1.0,
       "suggestedRadius": 96.0,
-      "imageUrl": "assets/images/bsky_3n2j5c5f7ts2q_reddit.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n2j5c5f7ts2q_reddit_thumb.jpg",
+      "imageUrl": "assets/images/bsky_3n2k2g3rnt22h_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2k2g3rnt22h_reddit_thumb.jpg",
       "category": "geopolitica",
       "region": "br-ap",
       "sources": [
+        {
+          "title": "Ministério do Meio Ambiente conclui o maior mapeamento participativo do litoral brasileiro no Amapá, Pará e Maranhão. Projeto abrangeu 54 municípios 1.100 comunidades; levantamento identificou 3.942 áreas de uso do mar e vai subsidiar o Planejamento Espacial Marinho www.gov.br/mma/pt-br/no...",
+          "url": "https://bsky.app/profile/gabrieldread.bsky.social/post/3n2k2g3rnt22h",
+          "subreddit": "bsky_ap"
+        },
         {
           "title": "as críticas à exploração de petróleo na foz do amazonas eram respondidas com 'VCS ODEIAM O POVO DO AMAPÁ? SUDESTINOS MALDITOS' pelo Randolfe. mas se alguém falar que o governo Lula odeia o meio ambiente e contribui pra morte de todos nós, aí a forma tá errada.",
           "url": "https://bsky.app/profile/kayyf.bsky.social/post/3n2j5c5f7ts2q",
           "subreddit": "bsky_ap"
         },
         {
-          "title": "Povo Wajãpi celebra 30 anos da demarcação de seu território no Amapá midianinja.org/povo-wajapi-...",
-          "url": "https://bsky.app/profile/pensadorlouco.bsky.social/post/3n2bpjiyonk2q",
+          "title": "“Alagoas e Tocantins, com 42%, superaram a taxa do milagre do Vietnã. No Maranhão, esse crescimento foi maior que o dado da China. No Amapá, campeão, maior do que no boom da Geórgia (o país que você conhece pelo Kvaratskhelia).”",
+          "url": "https://bsky.app/profile/nandabel23.bsky.social/post/3n2234ua4bs2t",
           "subreddit": "bsky_ap"
         }
       ],
@@ -36,17 +41,15 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Apontar o padrão de respostas com acusações de xenofobia mostra como o debate sobre petróleo no Amapá foi conduzido de forma desonesta.",
+          "text": "O levantamento com participação de 1.100 comunidades traz dados reais sobre o uso do mar e ajuda a planejar melhor a região.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O ethos do petismo médio é canalha e desonesto, como provam as respostas histriônicas sem desautorização a ataques como o de Janones.",
+          "text": "O governo Lula continua contribuindo para a degradação ambiental mesmo com ações como esse mapeamento no litoral.",
           "source": "sintese",
           "evidence": [
             2
@@ -56,7 +59,64 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "Críticas específicas a Rui Costa e à cúpula do PT da Bahia geraram respostas chamando a crítica de xenofobia e ódio ao Nordeste.",
+          "text": "Os dados do mapeamento podem subsidiar o planejamento, mas o resultado depende de como serão usados na prática.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2kbrxuhz22b",
+      "rank": 2,
+      "title": "IBGE divulga crescimento do PIB em Paraíba, Amapá e outros estados",
+      "label": "PIB estadual por UF · IBGE 2024",
+      "context": "O IBGE divulgou os dados de variação do PIB em 2024 para as unidades da federação. Paraíba registrou 6,5%, Amapá 6,1%, Rio Grande do Norte 6,0%, Amazonas 5,6% e Ceará 5,4%, enquanto Mato Grosso do Sul e Mato Grosso tiveram retração.",
+      "source": "bluesky",
+      "subreddit": "bsky_ap",
+      "permalink": "https://bsky.app/profile/marcianobrito.bsky.social/post/3n2kbrxuhz22b",
+      "createdAt": "2026-11-18T00:17:32.852000+00:00",
+      "rawScore": 0.9,
+      "relevanceScore": 0.9912157384423618,
+      "suggestedRadius": 95.74,
+      "imageUrl": "assets/images/bsky_3n2kbrxuhz22b_wiki.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2kbrxuhz22b_wiki_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ap",
+      "sources": [
+        {
+          "title": "Paraíba (6,5%), no Amapá (6,1%), no Rio Grande do Norte (6,0%), no Amazonas (5,6%) e no Ceará (5,4%). Os dados foram divulgados pelo IBGE. Das 27 unidades da federação, apenas Mato Grosso do Sul (-4,4%) e Mato Grosso (-2,8%) apresentaram retração devido ao resultado do setor agropecuário, que foi⤵️",
+          "url": "https://bsky.app/profile/marcianobrito.bsky.social/post/3n2kbrxuhz22b",
+          "subreddit": "bsky_ap"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "Vários estados do Norte e Nordeste mostraram crescimento sólido acima de 5% no PIB, indicando expansão econômica regional.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "A retração em Mato Grosso e Mato Grosso do Sul foi causada por eventos climáticos que afetaram o setor agropecuário.",
+          "source": "sintese",
+          "evidence": [
+            1
+          ],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "O PIB nacional totalizou R$ 11,8 trilhões em 2024, com crescimento de 3,4% em relação ao ano anterior.",
           "source": "sintese",
           "evidence": [
             1
@@ -69,17 +129,17 @@
     },
     {
       "id": "bsky_3n2abzhbe532a",
-      "rank": 2,
+      "rank": 3,
       "title": "NINJA: “Para que vocês querem tanta terra demarcada?”",
-      "label": "Demarcação da TI Wajãpi completa 30 anos",
-      "context": "Há 30 anos o povo Wajãpi demarcou seu território no Amapá com as próprias mãos. Os 607 mil hectares da TI Wajãpi seguem preservados e o povo prepara uma festa para comemorar.",
+      "label": "Demarcação Wajãpi · 30 anos preservados",
+      "context": "Há 30 anos o povo Wajãpi demarcou seu território no Amapá com as próprias mãos. Os 607 mil hectares da TI Wajãpi seguem preservados e o grupo prepara festa para marcar a data.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
       "permalink": "https://bsky.app/profile/marcianobrito.bsky.social/post/3n2abzhbe532a",
       "createdAt": "2026-11-14T00:55:10.481000+00:00",
-      "rawScore": 0.22888353092848715,
-      "relevanceScore": 0.32888353092848716,
-      "suggestedRadius": 70.41,
+      "rawScore": 0.1217439095279584,
+      "relevanceScore": 0.24421783669761282,
+      "suggestedRadius": 65.65,
       "imageUrl": "assets/images/bsky_3n2abzhbe532a_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2abzhbe532a_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -100,17 +160,15 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A demarcação feita pelo povo Wajãpi há 30 anos garantiu a preservação dos 607 mil hectares e a continuidade do seu modo de vida no Amapá.",
+          "text": "O povo Wajãpi preservou 607 mil hectares ao demarcar o próprio território há três décadas no Amapá.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "A pergunta sobre a necessidade de tanta terra demarcada revela incompreensão sobre o direito dos povos indígenas de proteger seu território.",
+          "text": "A pergunta sobre tanta terra demarcada questiona diretamente a extensão da área ocupada pelo grupo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -118,7 +176,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A cobertura da Mídia NINJA em parceria com outras instituições vai registrar a celebração dos 30 anos da demarcação nos dias 13 e 14 de novembro.",
+          "text": "A celebração dos 30 anos da demarcação ocorre em 13 e 14 de novembro com apoio da Mídia NINJA e parceiros.",
           "source": "sintese",
           "evidence": [
             1
@@ -130,46 +188,18 @@
       "promptVersion": 2
     },
     {
-      "id": "bsky_3n2234ua4bs2t",
-      "rank": 3,
-      "title": "“Alagoas e Tocantins, com 42%, superaram a taxa do milagre do Vietnã. No Maranhão, esse crescimento foi maior que o dado da China. No Amapá, campeão, maior do que no boom da Geórgia (o país que você conhece pelo Kvaratskhelia).”",
-      "label": "",
-      "context": "",
-      "source": "bluesky",
-      "subreddit": "bsky_ap",
-      "permalink": "https://bsky.app/profile/nandabel23.bsky.social/post/3n2234ua4bs2t",
-      "createdAt": "2026-11-11T13:35:46.181000+00:00",
-      "rawScore": 0.16100515510861352,
-      "relevanceScore": 0.16100515510861352,
-      "suggestedRadius": 60.08,
-      "imageUrl": null,
-      "imageThumbUrl": "",
-      "category": "geopolitica",
-      "region": "br-ap",
-      "sources": [
-        {
-          "title": "“Alagoas e Tocantins, com 42%, superaram a taxa do milagre do Vietnã. No Maranhão, esse crescimento foi maior que o dado da China. No Amapá, campeão, maior do que no boom da Geórgia (o país que você conhece pelo Kvaratskhelia).”",
-          "url": "https://bsky.app/profile/nandabel23.bsky.social/post/3n2234ua4bs2t",
-          "subreddit": "bsky_ap"
-        }
-      ],
-      "opinions": [],
-      "enrichedBy": "",
-      "promptVersion": 2
-    },
-    {
       "id": "bsky_3mzzw4rixdk22",
       "rank": 4,
-      "title": "Política ambiental do Lula libera Old One Petróleo na costa do Amapá",
-      "label": "Petróleo na costa do Amapá",
-      "context": "Um post no Bluesky afirma que a política ambiental de Lula envolve liberar petróleo na costa do Amapá. A ação é comparada a um live action do Ciclonopedia.",
+      "title": "Lula libera petróleo na costa do Amapá",
+      "label": "Petróleo liberado na costa do Amapá",
+      "context": "O post afirma que a política ambiental de Lula consiste em liberar petróleo na costa do Amapá. A descrição compara o ato a um live action de Ciclonopedia com um Old One de petróleo.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
       "permalink": "https://bsky.app/profile/umxerial.bsky.social/post/3mzzw4rixdk22",
       "createdAt": "2026-11-11T12:06:17.479000+00:00",
-      "rawScore": 0.14811715462545813,
-      "relevanceScore": 0.14811715462545813,
-      "suggestedRadius": 59.09,
+      "rawScore": 0.0819485994008249,
+      "relevanceScore": 0.09025415718822881,
+      "suggestedRadius": 54.03,
       "imageUrl": "assets/images/bsky_3mzzw4rixdk22_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzzw4rixdk22_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -185,7 +215,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A liberação de petróleo na costa do Amapá pode gerar empregos e receita para a região sem precisar de mais burocracia.",
+          "text": "A liberação de petróleo na costa do Amapá pode gerar empregos e recursos para a região sem comprometer metas ambientais amplas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -193,7 +223,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Tratar a exploração como live action de ficção minimiza o risco real de vazamentos e danos à costa do Amapá.",
+          "text": "Liberar petróleo na costa do Amapá contradiz qualquer compromisso ambiental sério e repete erros antigos de exploração.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -201,7 +231,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post usa metáfora para criticar, mas não apresenta dados sobre o volume ou o impacto concreto do petróleo liberado.",
+          "text": "O impacto real depende de quanto petróleo foi liberado e das medidas de contenção adotadas no local.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -214,15 +244,15 @@
       "id": "bsky_3n2bita653s2t",
       "rank": 5,
       "title": "Equatorial é aquela que largou o Amapá sem luz num é?",
-      "label": "Equatorial deixa Amapá sem energia",
-      "context": "Equatorial largou o Amapá sem luz. A empresa é questionada por sua atuação na região.",
+      "label": "Equatorial e apagão no Amapá",
+      "context": "Equatorial é questionada por ter deixado o Amapá sem luz. A alegação aponta falha no fornecimento de energia na região.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
       "permalink": "https://bsky.app/profile/alinegranger.bsky.social/post/3n2bita653s2t",
       "createdAt": "2026-11-14T12:29:34.454000+00:00",
-      "rawScore": 0.13332360214325423,
-      "relevanceScore": 0.13332360214325423,
-      "suggestedRadius": 57.91,
+      "rawScore": 0.06965179279009721,
+      "relevanceScore": 0.07671105913807842,
+      "suggestedRadius": 52.62,
       "imageUrl": "assets/images/bsky_3n2bita653s2t_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2bita653s2t_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -238,7 +268,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A Equatorial mantém operações complexas em áreas remotas e cumpre contratos apesar de dificuldades logísticas no Amapá.",
+          "text": "Equatorial mantém o fornecimento de energia estável para milhões de clientes em diversas regiões do país apesar de dificuldades operacionais pontuais.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -246,7 +276,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Equatorial abandonou o Amapá sem energia e falhou em garantir o fornecimento básico para a população local.",
+          "text": "Equatorial falhou ao deixar o Amapá sem luz e isso mostra descaso com a população que depende do serviço elétrico básico.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -254,7 +284,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A frase questiona se Equatorial realmente deixou o Amapá sem luz e pede confirmação dos fatos antes de julgar.",
+          "text": "A responsabilidade da Equatorial pelo apagão no Amapá ainda precisa ser confirmada com dados oficiais sobre o ocorrido.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -267,15 +297,15 @@
       "id": "bsky_3n2234uaf322t",
       "rank": 6,
       "title": "www.estadao.com.br/economia/ped...",
-      "label": "Link para artigo econômico",
-      "context": "Um post no Bluesky de 2026-11-11 compartilha o link www.estadao.com.br/economia/ped.... Não há outros fatos ou detalhes disponíveis nas fontes.",
+      "label": "Artigo econômico Estadão",
+      "context": "Um post no Bluesky de 11 de novembro de 2026 compartilha o link www.estadao.com.br/economia/ped.... O link direciona a uma reportagem sobre economia.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
       "permalink": "https://bsky.app/profile/nandabel23.bsky.social/post/3n2234uaf322t",
       "createdAt": "2026-11-11T13:35:46.187000+00:00",
-      "rawScore": 0.10148008500464364,
-      "relevanceScore": 0.10148008500464364,
-      "suggestedRadius": 55.11,
+      "rawScore": 0.05623108615898396,
+      "relevanceScore": 0.06193015287832594,
+      "suggestedRadius": 50.93,
       "imageUrl": "assets/images/bsky_3n2234uaf322t_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2234uaf322t_reddit_thumb.jpg",
       "category": "economia",
@@ -291,7 +321,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O link direciona a uma publicação do Estadão que pode trazer dados relevantes sobre economia.",
+          "text": "O link traz dados úteis sobre o tema econômico abordado no Estadão.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -299,7 +329,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Sem o conteúdo completo do artigo fica difícil avaliar qualquer informação.",
+          "text": "A postagem não oferece contexto suficiente para entender o conteúdo.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -307,7 +337,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O post apenas compartilha o endereço sem adicionar explicações.",
+          "text": "O material depende do que o artigo completo realmente apresenta.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -319,16 +349,16 @@
     {
       "id": "bsky_3n24jefh4sk2f",
       "rank": 7,
-      "title": "Devidamente inscrito na POC Con e no Circuito Amazônico em Macapá e Manaus",
+      "title": "Inscrito na POC CON e no Circuito Amazônico em Macapá e Manaus",
       "label": "Inscrição em eventos de quadrinhos",
-      "context": "Uma pessoa anunciou sua inscrição na POC Con e no Circuito Amazônico em Macapá e Manaus. O resultado agora depende de Jah e dos orixás.",
+      "context": "O autor anunciou sua inscrição na POC CON e no Circuito Amazônico em Macapá e Manaus. A participação agora depende de fatores pessoais mencionados no post.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
       "permalink": "https://bsky.app/profile/apenasumchico.bsky.social/post/3n24jefh4sk2f",
       "createdAt": "2026-11-12T12:55:50.974000+00:00",
-      "rawScore": 0.08508342818891558,
-      "relevanceScore": 0.08508342818891558,
-      "suggestedRadius": 53.5,
+      "rawScore": 0.046547608980249004,
+      "relevanceScore": 0.05126524734231536,
+      "suggestedRadius": 49.59,
       "imageUrl": "assets/images/bsky_3n24jefh4sk2f_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3n24jefh4sk2f_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -344,7 +374,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "Vamooo que eu também me inscrevi nas duas e tô animado para ir.",
+          "text": "Inscrever-se nas duas iniciativas ao mesmo tempo demonstra vontade real de circular pelos eventos de quadrinhos da região Norte.",
           "source": "sintese",
           "evidence": [
             1
@@ -354,7 +384,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Contar com orixás para definir participação em eventos traz incerteza desnecessária.",
+          "text": "Colocar tudo nas mãos de Jah e dos orixás após se inscrever pode indicar falta de planejamento prático para comparecer.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -362,7 +392,7 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A inscrição dupla exige planejar viagens entre Macapá e Manaus ao mesmo tempo.",
+          "text": "O post mistura inscrição concreta com elementos de fé, o que reflete como cada pessoa lida com compromissos futuros.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -374,16 +404,16 @@
     {
       "id": "bsky_3n2cdbjsgts2y",
       "rank": 8,
-      "title": "Fumaça de queimadas no Amapá é fortalecida pelo El Niño e preocupa em Monte Dourado",
-      "label": "Fumaça de queimadas no Amapá · El Niño",
-      "context": "Fumaça por conta das queimadas no Estado do Amapá está sendo fortalecida pelo El Niño, com situação preocupante no distrito de Monte Dourado. A foto foi tirada em Laranjal do Jari, no Amapá.",
+      "title": "Fumaça das queimadas no Amapá é fortalecida pelo El Niño",
+      "label": "Queimadas no Amapá · Efeito do El Niño",
+      "context": "Fumaça das queimadas no Estado do Amapá é fortalecida pelo El Niño, com situação preocupante no distrito de Monte Dourado no Pará. A foto foi tirada em Laranjal do Jari no Amapá.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
       "permalink": "https://bsky.app/profile/werickdejesus.bsky.social/post/3n2cdbjsgts2y",
       "createdAt": "2026-11-14T20:22:53.364000+00:00",
-      "rawScore": 0.07869968260808842,
-      "relevanceScore": 0.07869968260808842,
-      "suggestedRadius": 52.83,
+      "rawScore": 0.04015687397935397,
+      "relevanceScore": 0.04422680610553578,
+      "suggestedRadius": 48.62,
       "imageUrl": "assets/images/bsky_3n2cdbjsgts2y_reddit.jpg",
       "imageThumbUrl": "assets/images/bsky_3n2cdbjsgts2y_reddit_thumb.jpg",
       "category": "geopolitica",
@@ -399,17 +429,15 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "O registro da fumaça reforça a necessidade de atenção imediata às condições no Amapá e Pará.",
+          "text": "A foto registrada em Laranjal do Jari evidencia como o El Niño intensifica a fumaça das queimadas e ajuda a chamar atenção para a região.",
           "source": "sintese",
-          "evidence": [
-            1
-          ],
+          "evidence": [],
           "votes": 0
         },
         {
           "id": "op2",
           "tone": "negative",
-          "text": "O El Niño agrava queimadas já existentes e piora a qualidade do ar em Monte Dourado.",
+          "text": "A combinação de queimadas com o El Niño está deixando o ar perigoso no distrito de Monte Dourado e em áreas próximas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -417,7 +445,60 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "A combinação de queimadas com o El Niño explica a intensidade da fumaça vista na foto.",
+          "text": "O post mostra a fumaça visível em Monte Dourado sem indicar se o El Niño é o único fator responsável pela piora.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        }
+      ],
+      "enrichedBy": "grok-3-mini",
+      "promptVersion": 2
+    },
+    {
+      "id": "bsky_3n2bpjiyonk2q",
+      "rank": 9,
+      "title": "Povo Wajãpi celebra 30 anos da demarcação de seu território no Amapá",
+      "label": "Celebração de 30 anos Wajãpi no Amapá",
+      "context": "O povo Wajãpi celebra 30 anos da demarcação de seu território no Amapá. O evento marca três décadas desde o reconhecimento da área.",
+      "source": "bluesky",
+      "subreddit": "bsky_ap",
+      "permalink": "https://bsky.app/profile/pensadorlouco.bsky.social/post/3n2bpjiyonk2q",
+      "createdAt": "2026-11-14T14:30:17.544000+00:00",
+      "rawScore": 0.031813824488090454,
+      "relevanceScore": 0.03503818170293141,
+      "suggestedRadius": 47.23,
+      "imageUrl": "assets/images/bsky_3n2bpjiyonk2q_reddit.jpg",
+      "imageThumbUrl": "assets/images/bsky_3n2bpjiyonk2q_reddit_thumb.jpg",
+      "category": "geopolitica",
+      "region": "br-ap",
+      "sources": [
+        {
+          "title": "Povo Wajãpi celebra 30 anos da demarcação de seu território no Amapá midianinja.org/povo-wajapi-...",
+          "url": "https://bsky.app/profile/pensadorlouco.bsky.social/post/3n2bpjiyonk2q",
+          "subreddit": "bsky_ap"
+        }
+      ],
+      "opinions": [
+        {
+          "id": "op1",
+          "tone": "positive",
+          "text": "A celebração reforça o valor da demarcação para a proteção do território Wajãpi ao longo de trinta anos.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op2",
+          "tone": "negative",
+          "text": "Trinta anos após a demarcação ainda persistem desafios para garantir a segurança da área no Amapá.",
+          "source": "sintese",
+          "evidence": [],
+          "votes": 0
+        },
+        {
+          "id": "op3",
+          "tone": "neutral",
+          "text": "A data serve para registrar a história da demarcação sem alterar o status atual do território.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -428,17 +509,17 @@
     },
     {
       "id": "bsky_3mzzuyvrtr22v",
-      "rank": 9,
-      "title": "Vou tentar MANAUS e MACAPÁ pq quero muito ver vcs...",
-      "label": "Anúncio de ida a Manaus e Macapá",
-      "context": "Uma postagem afirma a intenção de tentar Manaus e Macapá. O motivo declarado é o desejo de ver as pessoas.",
+      "rank": 10,
+      "title": "Vou tentar Manaus e Macapá pq quero muito ver vcs...",
+      "label": "Visita a Manaus e Macapá",
+      "context": "Uma postagem no Bluesky afirma a intenção de tentar Manaus e Macapá. A motivação declarada é o desejo de encontrar o público local.",
       "source": "bluesky",
       "subreddit": "bsky_ap",
       "permalink": "https://bsky.app/profile/apenasumchico.bsky.social/post/3mzzuyvrtr22v",
       "createdAt": "2026-11-11T11:46:09.671000+00:00",
-      "rawScore": 0.01977072218956293,
-      "relevanceScore": 0.01977072218956293,
-      "suggestedRadius": 44.44,
+      "rawScore": 0.011287640257331293,
+      "relevanceScore": 0.012431651858824853,
+      "suggestedRadius": 42.69,
       "imageUrl": "assets/images/bsky_3mzzuyvrtr22v_wiki.jpg",
       "imageThumbUrl": "assets/images/bsky_3mzzuyvrtr22v_wiki_thumb.jpg",
       "category": "geopolitica",
@@ -454,7 +535,7 @@
         {
           "id": "op1",
           "tone": "positive",
-          "text": "A postagem mostra vontade real de incluir Manaus e Macapá nos planos e encontrar quem mora lá.",
+          "text": "Incluir Manaus e Macapá demonstra atenção real ao público de regiões menos visitadas por artistas.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -462,7 +543,7 @@
         {
           "id": "op2",
           "tone": "negative",
-          "text": "Usar a palavra tentar deixa a visita incerta e pode frustrar quem já esperava a ida.",
+          "text": "Apenas tentar duas cidades pode não ser suficiente para atender quem espera shows no Norte.",
           "source": "sintese",
           "evidence": [],
           "votes": 0
@@ -470,66 +551,9 @@
         {
           "id": "op3",
           "tone": "neutral",
-          "text": "O resultado depende de os planos conseguirem se concretizar nas duas cidades.",
+          "text": "Tudo depende da agenda e da logística para confirmar as datas nessas capitais.",
           "source": "sintese",
           "evidence": [],
-          "votes": 0
-        }
-      ],
-      "enrichedBy": "grok-3-mini",
-      "promptVersion": 2
-    },
-    {
-      "id": "bsky_3n25ibs5pck2k",
-      "rank": 10,
-      "title": "Já querendo levantar acampamento de Macapá",
-      "label": "Desejo de sair de Macapá",
-      "context": "Post expressa vontade de deixar Macapá após permanência desde junho. Usuário planeja passar tempo em Belém no final do mês.",
-      "source": "bluesky",
-      "subreddit": "bsky_ap",
-      "permalink": "https://bsky.app/profile/thomaztavares.bsky.social/post/3n25ibs5pck2k",
-      "createdAt": "2026-11-12T22:09:09.179000+00:00",
-      "rawScore": 0.0,
-      "relevanceScore": 0.0,
-      "suggestedRadius": 36.0,
-      "imageUrl": "assets/images/bsky_3n25ibs5pck2k_wiki.jpg",
-      "imageThumbUrl": "assets/images/bsky_3n25ibs5pck2k_wiki_thumb.jpg",
-      "category": "geopolitica",
-      "region": "br-ap",
-      "sources": [
-        {
-          "title": "já querendo levantar acampamento de macapá",
-          "url": "https://bsky.app/profile/thomaztavares.bsky.social/post/3n25ibs5pck2k",
-          "subreddit": "bsky_ap"
-        }
-      ],
-      "opinions": [
-        {
-          "id": "op1",
-          "tone": "positive",
-          "text": "Estar em Macapá direto desde junho já mostra que está mais do que na hora de levantar acampamento.",
-          "source": "sintese",
-          "evidence": [
-            1
-          ],
-          "votes": 0
-        },
-        {
-          "id": "op2",
-          "tone": "negative",
-          "text": "Sair agora pode interromper algo que ainda valia a pena continuar em Macapá.",
-          "source": "sintese",
-          "evidence": [],
-          "votes": 0
-        },
-        {
-          "id": "op3",
-          "tone": "neutral",
-          "text": "Final do mês em Belém parece um bom momento para dar um tempo diferente.",
-          "source": "sintese",
-          "evidence": [
-            2
-          ],
           "votes": 0
         }
       ],
